@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/1999/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1999-150950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bb7ed3646870b5c33e147650ef3472a0e28f421025c3ee20643154414a12956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6048195f88972bd17cfbaca113de752b3b6921b04f2c9add8c4a28afbb6b814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,61 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA de Jurisdição
 - Autonomia Administrativa
 - Autonomia Financeira
+- Comissão
 - Comissão de Fiscalização
 - Comissão de Serviço
+- Conselho Consultivo
 - Conselho de Administração
+- Contratação Pública
 - Contrato Administrativo
 - Contrato Individual de Trabalho
 - Criação de Serviços
 - Definição de Competências
-- Propriedade do Estado
 - Embargo
 - Estatuto
-- Junta Autónoma dos Portos
-- Comissão
 - Extinção de Serviços
 - Fiscalização
 - Fundo de Aposentação
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Conselho Consultivo
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Portuário
 - Instituto Portuário do Norte
 - Instituto Público
+- Junta Autónoma dos Portos
 - Junta Autónoma dos Portos do Norte
-- ÁREA de Jurisdição
 - Licenciamento de Obras
 - Livro Branco
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Obras Públicas
+- Portos
 - Presidente
 - Prestação de Serviços
+- Propriedade do Estado
 - Receita
 - Receita Própria
 - Receita Pública
-- Portos
 - Segurança Marítima
 - Taxa
 - Trabalhador Portuário
 - Trabalho Portuário
 - Tutela
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/333/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:223014:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:04Z'
   warnings: []
   errors: []
 ---
@@ -141,4 +145,4 @@ São repristinados os Decretos-Leis n.os 26117, de 23 de Novembro de 1935, 27061
 
 Aprovada em 11 de Fevereiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

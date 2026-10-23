@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23/2006/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-2006-667536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d21d3929b70e3909a4db060360e8635599debbc99bf0b22d2c297aaeeaaa0c30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0faa7e838ce4af2a5ab41691cce903dee2050b5ca7a00ff28fa83177f1715fdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Espanha
 - Mibel
+- Portugal
 - Santiago de Compostela
 relationships:
 - type: amended_by
   target: pt:dre:605548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667529:por
+  label: "Ratificado o Acordo pelo DEC.29/2006.23.03.2006.PR, DR.IS-A [59] de 23.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-2006-667529
+  date: '2006-03-23'
+- type: amended_by
+  target: pt:dre:605548:por
+  label: "Aprovado o Acordo que revê o Acordo, aprovado pelo presente diploma, pela RES.17/2009.23.03.2009.AR, DR.IS [57]\
+    \ de 23.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/17-2009-605548
+  date: '2009-03-23'
+- type: amended_by
+  target: pt:dre:605554:por
+  label: "Ratificado o Acordo (aprovado para ratificação pela Res 17/2009 de 23-Mar da AR) Que Revê o presente Acordo pelo\
+    \ DEC.21/2009.23.03.2009.PR, DR.IS [57] de 23.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/21-2009-605554
+  date: '2009-03-23'
 - type: cites
   target: celex:32003L0054
   label: null
   source: http://data.europa.eu/eli/dir/2003/54/oj
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:33Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +119,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Janeiro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DA ESPANHA RELATIVO À CONSTITUIÇÃO DE UM MERCADO IBÉRICO DA ENERGIA ELÉCTRICA.
 
@@ -128,7 +145,7 @@ Tendo em conta que a prática resultante da aplicação a título provisório do
 
 consideram necessário celebrar um novo acordo e acordam no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
 
@@ -180,7 +197,7 @@ i) Os agentes que negoceiem instrumentos financeiros nos mercados do MIBEL;
 
 j) Quaisquer outros agentes que se definam por acordo das Partes.
 
-# PARTE II — Disposições específicas
+## PARTE II — Disposições específicas
 
 ###### Artigo 4.º — Criação de um operador do mercado ibérico
 
@@ -258,7 +275,7 @@ As Partes acordarão mecanismos de mercado para atribuir a capacidade de interli
 
 3 - No prazo máximo de um ano contado a partir da entrada em funcionamento do MIBEL, as Partes desenvolverão um plano que deverá ser sujeito a um parecer do Conselho de Reguladores com vista à implementação da harmonização tarifária.
 
-# PARTE III — Mecanismos de regulação, consulta, supervisão e gestão
+## PARTE III — Mecanismos de regulação, consulta, supervisão e gestão
 
 ###### Artigo 10.º — Supervisão
 
@@ -294,7 +311,7 @@ As sociedades gestoras poderão criar, para os respectivos mercados, comités de
 
 As Partes criarão um Comité de Gestão Técnica e Económica do MIBEL, integrado por representantes dos operadores dos sistemas e dos mercados, para gerir, de forma adequada, a comunicação e o fluxo de informação necessários entre os vários operadores, bem como para facilitar a gestão corrente das suas actividades.
 
-# PARTE IV — Autorização e inscrição dos agentes e garantia de abastecimento
+## PARTE IV — Autorização e inscrição dos agentes e garantia de abastecimento
 
 ###### Artigo 14.º — Procedimentos administrativos de autorização e inscrição dos agentes
 
@@ -312,7 +329,7 @@ As Partes criarão um Comité de Gestão Técnica e Económica do MIBEL, integra
 
 4 - A actuação em caso de emergência, que deverá obedecer ao princípio da solidariedade, nos termos do n.º 1, será objecto de protocolos adicionais.
 
-# PARTE V — Infracções, sanções e jurisdição competente
+## PARTE V — Infracções, sanções e jurisdição competente
 
 ###### Artigo 16.º — Infracções e sanções
 
@@ -342,7 +359,7 @@ d) Prever-se-á, como consequência de infracção, a possibilidade de revogaç�
 
 A jurisdição competente para conhecer dos recursos de actos administrativos proferidos pelas autoridades competentes no âmbito da aplicação das normas do MIBEL será determinada pela nacionalidade da autoridade que emanou o acto de que se recorre.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 19.º — Comissão de acompanhamento
 
@@ -380,11 +397,11 @@ Em fé do que os abaixo assinados, estando devidamente autorizados, assinaram o 
 
 Feito em Santiago de Compostela em 1 de Outubro de 2004, nas línguas portuguesa e espanhola, fazendo ambos os textos igualmente fé.
 
-**O Ministro de Estado, das Actividades Económicas e do Trabalho da República Portuguesa:**
+O Ministro de Estado, das Actividades Económicas e do Trabalho da República Portuguesa:
 
 Álvaro Roque de Pinho Bissaya Barreto.
 
-**O Ministro de Indústria, Turismo e Comércio do Reino da Espanha:**
+O Ministro de Indústria, Turismo e Comércio do Reino da Espanha:
 
 José Montilla Aguilera.
 

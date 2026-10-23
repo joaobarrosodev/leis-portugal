@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1192/1992/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1192-1992-624270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c34b7df43fdd6de8c0d4e226af63d0ae5b55fe8bc2509f56de02a977631b743f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72d784ef3278ffdd4fb28397b305685f1b5837d940da83559d687cdba278b993
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exploração Florestal
-- Regulamento
-- Produto em Madeira
-- Política Florestal
 - Comércio
+- Exploração Florestal
+- Política Florestal
+- Produto em Madeira
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/239/1992/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/239/1992/10/29/p/dre
+- type: cites
+  target: pt:dre:217697:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:02Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +107,15 @@ Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento d
 
 Ministério da Agricultura.
 
-**Assinada em 26 de Novembro de 1992.**
+Assinada em 26 de Novembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a Portaria n.º 1192/92
+Anexo a que se refere a Portaria n.º 1192/92
 
 Regulamento da Comercialização de Materiais Florestais de Reprodução
 
-###### Artigo 1.º - 1 - Estão sujeitas ao disposto neste Regulamento:
+Artigo 1.º - 1 - Estão sujeitas ao disposto neste Regulamento:
 
 a) As espécies de materiais florestais de reprodução enunciados no anexo I ao presente Regulamento;
 
@@ -163,7 +167,7 @@ m) Região de proveniência de uma espécie, subespécie ou variedade determinad
 
 n) Primeira comercialização de material de reprodução de uma espécie, subespécie, variedade ou clone - acto de importar ou vender, pela primeira vez, praticado por um operador.
 
-###### Art. 2.º - 1 - os materiais de reprodução das espécies referidas no anexo I só podem ser comercializados desde que correspondam às seguintes categorias:
+Art. 2.º - 1 - os materiais de reprodução das espécies referidas no anexo I só podem ser comercializados desde que correspondam às seguintes categorias:
 
 a) Materiais de reprodução seleccionados ou controlados, no caso das espécies referidas no n.º 1 o anexo I;
 
@@ -185,15 +189,15 @@ b) Materiais de reprodução controlados, no caso das espécies, variedades ou c
 
 9 - As exigências mínimas para as diferentes espécies são as fixadas no anexo V ao presente Regulamento.
 
-###### Art. 3.º - 1 - Anualmente, a DGF estabelece as listas do material de base para as várias espécies aprovadas, das quais constará o material de reprodução seleccionado, controlado e proveniente de pomares de semente não testados.
+Art. 3.º - 1 - Anualmente, a DGF estabelece as listas do material de base para as várias espécies aprovadas, das quais constará o material de reprodução seleccionado, controlado e proveniente de pomares de semente não testados.
 
 2 - Os critérios segundo os quais as listas são estabelecidas devem fixar-se de acordo com o n.º 8 do artigo anterior.
 
 3 - Das listas e suas modificações é imediatamente dado conhecimento à Comissão das Comunidades Europeias.
 
-###### Art. 4.º Compete à DGF fiscalizar a aplicação dos critérios enunciados no artigo anterior e proceder à aprovação do material de base apresentado pelo proprietário, seu representante ou qualquer pessoa interessada na comercialização do material florestal de reprodução, quando o material em questão seja do domínio público.
+Art. 4.º Compete à DGF fiscalizar a aplicação dos critérios enunciados no artigo anterior e proceder à aprovação do material de base apresentado pelo proprietário, seu representante ou qualquer pessoa interessada na comercialização do material florestal de reprodução, quando o material em questão seja do domínio público.
 
-###### Art. 5.º - 1 - Os materiais de reprodução devem ser, desde a colheita, acondicionamento e armazenagem, até ao transporte, contidos em lotes separados e identificados segundo os seguintes critérios:
+Art. 5.º - 1 - Os materiais de reprodução devem ser, desde a colheita, acondicionamento e armazenagem, até ao transporte, contidos em lotes separados e identificados segundo os seguintes critérios:
 
 a) Espécie, variedade e clone;
 
@@ -227,7 +231,7 @@ e) Quando o material de base se destine a outra finalidade que não a produção
 
 4 - As sementes só podem ser comercializadas em embalagens fechadas, devendo o sistem de fecho garantir a sua inutilização depois da abertura.
 
-###### Art. 6.º - 1 - Nenhum material de reprodução importado pode ser introduzido no País sem estar acompanhado de certificado original, conforme ao modelo constante do anexo VI a este Regulamento, passado por outro membro da Comunidade ou, quando se trate de um país terceiro de um certificado equivalente.
+Art. 6.º - 1 - Nenhum material de reprodução importado pode ser introduzido no País sem estar acompanhado de certificado original, conforme ao modelo constante do anexo VI a este Regulamento, passado por outro membro da Comunidade ou, quando se trate de um país terceiro de um certificado equivalente.
 
 2 - A importação de material de reprodução de outro Estado membro ou de um país terceiro deve ser acompanhada das seguintes informações:
 
@@ -421,7 +425,7 @@ Condições a que devem obedecer as sementes
 
 1.1 - Os frutos e sementes devem responder, no que respeita à pureza específica, às seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
 
 1.2 - A presença de organismos nocivos reduzindo o valor de utilização das sementes só tolerado no mais baixo nível possível.
 
@@ -491,7 +495,7 @@ A qualidade legal para comercialização é determinada por critérios de confor
 
 3.1 - Conformação e estado sanitário - o quadro abaixo indica, para cada género e espécies consideradas, os defeitos que recusam às plantas a qualidade legal para comercialização. Todos os critérios devem ser apreciados em função da espécie ou do clone considerado bem como em função da aptidão dos materiais de reprodução para a arborização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
 
 3.2 - Idade e dimensões
 
@@ -501,7 +505,7 @@ A qualidade legal para comercialização é determinada por critérios de confor
 
 3.2.1.2 - Normas mínimas CEE (idade e dimensões):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
 
 3.2.2 - Populus.
 
@@ -513,11 +517,11 @@ A qualidade legal para comercialização é determinada por critérios de confor
 
 a) Regiões não mediterrânicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
 
 b) Regiões mediterrânicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59055911.pdf)
 
 ## ANEXO VI — (a que se refere o n.º 1 do artigo 6.º)
 

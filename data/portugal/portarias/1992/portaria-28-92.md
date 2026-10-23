@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/28/1992/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-1992-144624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:16:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bb34a4756c7588d09d6ce5a6607405bb4233741b36abe009957bb45f89d8510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a4408c7d03fb640a5ff9d553bcce1d1b4c59c761e25007f9360afa0b2036251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:16:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Junta Autónoma das Estradas
+- Pessoal Dirigente
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
@@ -79,16 +79,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/395/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/395/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:16:00Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +127,10 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Novembro de 1991.**
+Assinada em 14 de Novembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
 
-## Anexo a que se refere o n.º 1.º da presente portaria
+Anexo a que se refere o n.º 1.º da presente portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/014b00/03200321.pdf))](https://files.diariodarepublica.pt/1s/1992/01/014b00/03200321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/014b00/03200321.pdf)

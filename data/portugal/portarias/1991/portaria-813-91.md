@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/813/1991/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-1991-675242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3502e70b855a7c854b24f7080d098980e3387382c7b7e212569e2812280f3a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6c895874e15f4d447df645e3e817368d37c162906d14908e545ad83b4d48831
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,103 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Canto
 - Curso de Composição
 - Curso de Instrumento
 - Escola Superior de Música e das Artes do Espectáculo
 - Instituto Politécnico
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:361489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232341:por
+  label: "Aditada a área de Fagote à alínea a) do n.º 1.º e o anexo XIV, pela PORT.928/92.24.09.1992.ME, DR.IS-B [221] de\
+    \ 24.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/928-1992-232341
+  date: '1992-09-24'
+- type: amended_by
+  target: pt:dre:616213:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Composição, pela PORT.1151/92.15.12.1992.ME, DR.IS-B [288]\
+    \ de 15.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-1992-616213
+  date: '1992-12-15'
+- type: amended_by
+  target: pt:dre:503775:por
+  label: "Aditada a área de Percussão à alínea a) do n.º 1.º e o anexo XV, pela PORT.485/95.20.05.1995.ME, DR.IS-B [117] de\
+    \ 20.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-1995-503775
+  date: '1995-05-20'
+- type: amended_by
+  target: pt:dre:644080:por
+  label: "Aditada a alínea d) ao n.º 1.º e o anexo XVI, pela PORT.1467/95.20.12.1995.ME, DR.IS-B [292] de 20.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1467-1995-644080
+  date: '1995-12-20'
+- type: amended_by
+  target: pt:dre:658929:por
+  label: "Alterado o nº 1º, aditado um nº 2º-A e revogados e substituídos os anexos III a XV pela PORT.1031/97.1997.09.29.ME,\
+    \ DR.IS-B [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1031-1997-658929
+  date: '1997-09-29'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361489:por
+  label: "Revogada, nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, pela PORT.628/2001.2001.06.23.ME,\
+    \ DR.IS-B [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-2001-361489
+  date: '2001-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:43Z'
   warnings: []
   errors: []
 ---
@@ -435,8 +510,8 @@ Concluído o processo de transição a que se refere o n.º 2 do n.º 26.º, fic
 
 Ministério da Educação.
 
-**Assinada em 10 de Julho de 1991.**
+Assinada em 10 de Julho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/184b00/40764083.pdf))](https://files.diariodarepublica.pt/1s/1991/08/184b00/40764083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/184b00/40764083.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/1992/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1992-145581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 071f931a9b9c772536e97e7eb64212ca1cf8dcc7db3801ba97c86be3e8b069e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 262ecd796d494b1f0b71d21f2b0e0cec809085b17917e5da4726f853bde763d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
 subjects:
 - Comissão Nacional de Eleições
 - Nomeação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:47Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +104,4 @@ Luís Filipe Barbosa Cardoso, proposto pelo PEV.
 
 Aprovada em 20 de Dezembro de 1991.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.

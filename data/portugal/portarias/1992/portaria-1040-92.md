@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1040/1992/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1040-1992-216307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1244818e51944f27c7a027f1e45f9f425d2002a835f88b036e6e4b1b5efc8826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a23c64ec6ced99c6e2db924b9aab34aac1adaf1cff3f6393e7c2ee4c38ffaca2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Reserva Agrícola Nacional
 - Loures
+- Ordenamento do Território
 - Política de Solos
-relationships: []
+- Reserva Agrícola Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:25696961:por
+  label: "Tornada pública a revogação, na parte em que incide sobre a correspondente área de intervenção e nos termos do disposto\
+    \ nos arts. 24.º e 25.º do regulamento do Plano de Pormenor da Quinta dos Almostéis, da cartografia municipal relativa\
+    \ à delimitação da Reserva Agrícola Nacional no município de Loures pelo AV.6462/2014.27.05.2014.MLOURES, DR.IIS [101]\
+    \ de 27.05.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6462-2014-25696961
+  date: '2014-05-27'
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:15Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +118,14 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Outubro de 1992.**
+Assinada em 16 de Outubro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 1040/92
+Anexo a que se refere o n.º 1.º da Portaria n.º 1040/92
 
 Carta da Reserva Agrícola Nacional (RAN)
 
 Município de Loures
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495150.pdf))](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495150.pdf)

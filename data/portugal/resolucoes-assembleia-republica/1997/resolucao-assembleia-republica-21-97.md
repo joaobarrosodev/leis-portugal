@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/21/1997/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-1997-381301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd10f24e7456db1059b68dbf31275ce66b20a62a6726dfd8dfbd9df9d79f608a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 421ed72c046fc7b7fe77f5fe4c5f09ac9bc1800d5acbec6a6760d64b67f99cc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos do Homem
+- Conselho da Europa
 - Convenção
-- Portugal
+- Direitos do Homem
 - Direitos e Liberdades
 - Estrasburgo
 - Liberdades Fundamentais
-- Conselho da Europa
+- Portugal
 - Roma
 - Tribunal Europeu dos Direitos do Homem
 relationships: []
 article_structure:
-  article_count: 98
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:54Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLE Nº 11 À LA CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTÉS FONDAMENTALES, PORTANT RESTRUCTURATION DU MÉCANISME DE CONTRÔLE ÉTABLI PAR LA CONVENTION.
 
@@ -671,15 +671,21 @@ O texto actual dos títulos II a IV da Convenção (artigos 19.º a 56.º) e o P
 
 Tribunal Europeu dos Direitos do Homem
 
-###### Artigo 19.º — Criação do Tribunal
+Artigo 19.º
+
+Criação do Tribunal
 
 A fim de assegurar o respeito pelos compromissos que resultam, para as Altas Partes Contratantes, da presente Convenção e dos seus protocolos, é criado um Tribunal Europeu dos Direitos do Homem, a seguir designado 'o Tribunal', o qual funcionará a título permanente.
 
-###### Artigo 20.º — Número de juízes
+Artigo 20.º
+
+Número de juízes
 
 O Tribunal compõe-se de um número de juízes igual ao número de Altas Partes Contratantes.
 
-###### Artigo 21.º — Condições para o exercício de funções
+Artigo 21.º
+
+Condições para o exercício de funções
 
 1 - Os juízes deverão gozar da mais alta reputação moral e reunir as condições requeridas para o exercício de altas funções judiciais ou ser jurisconsultos de reconhecida competência.
 
@@ -687,13 +693,17 @@ O Tribunal compõe-se de um número de juízes igual ao número de Altas Partes 
 
 3 - Durante o respectivo mandato, os juízes não poderão exercer qualquer actividade incompatível com as exigências de independência, imparcialidade ou disponibilidade exigidas por uma actividade exercida a tempo inteiro. Qualquer questão relativa à aplicação do disposto no presente número é decidida pelo Tribunal.
 
-###### Artigo 22.º — Eleição dos juízes
+Artigo 22.º
+
+Eleição dos juízes
 
 1 - Os juízes são eleitos pela Assembleia Parlamentar relativamente a cada Alta Parte Contratante, por maioria dos votos expressos, recaindo numa lista de três candidatos apresentados pela Alta Parte Contratante.
 
 2 - Observa-se o mesmo processo para completar o Tribunal no caso de adesão de novas Altas Partes Contratantes e para prover os lugares que vagarem.
 
-###### Artigo 23.º — Duração do mandato
+Artigo 23.º
+
+Duração do mandato
 
 1 - Os juízes são eleitos por um período de seis anos. São reelegíveis. Contudo, as funções de metade dos juízes designados na primeira eleição cessarão ao fim de três anos.
 
@@ -709,15 +719,21 @@ O Tribunal compõe-se de um número de juízes igual ao número de Altas Partes 
 
 7 - Os juízes permanecerão em funções até serem substituídos. Depois da sua substituição continuarão a ocupar-se dos assuntos que já lhes tinham sido cometidos.
 
-###### Artigo 24.º — Destituição
+Artigo 24.º
+
+Destituição
 
 Nenhum juiz poderá ser afastado das suas funções, salvo se os restantes juízes decidirem, por maioria de dois terços, que o juiz em causa deixou de corresponder aos requisitos exigidos.
 
-###### Artigo 25.º — Secretaria e oficiais de justiça
+Artigo 25.º
+
+Secretaria e oficiais de justiça
 
 O Tribunal dispõe de uma secretaria, cujas tarefas e organização serão definidas no regulamento do Tribunal. O Tribunal será assistido por oficiais de justiça.
 
-###### Artigo 26.º — Assembleia plenária do Tribunal
+Artigo 26.º
+
+Assembleia plenária do Tribunal
 
 O Tribunal, reunido em assembleia plenária:
 
@@ -731,7 +747,9 @@ d) Adoptará o regulamento do Tribunal;
 
 e) Elegerá o secretário e um ou vários secretários-adjuntos.
 
-###### Artigo 27.º — Comités, secções e tribunal pleno
+Artigo 27.º
+
+Comités, secções e tribunal pleno
 
 1 - Para o exame dos assuntos que lhe sejam submetidos, o Tribunal funcionará em comités compostos por 3 juízes, em secções compostas por 7 juízes e em tribunal pleno composto por 17 juízes. As secções do Tribunal constituem os comités por período determinado.
 
@@ -739,11 +757,15 @@ e) Elegerá o secretário e um ou vários secretários-adjuntos.
 
 3 - Integram igualmente o tribunal pleno o presidente do Tribunal, os vice-presidentes, os presidentes das secções e outros juízes designados em conformidade com o regulamento do Tribunal. Se o assunto tiver sido deferido ao tribunal pleno nos termos do artigo 43.º, nenhum juiz da secção que haja proferido a decisão poderá naquele intervir, salvo no que respeita ao presidente da secção e ao juiz que decidiu em nome do Estado que seja parte interessada.
 
-###### Artigo 28.º — Declarações de inadmissibilidade por parte dos comités
+Artigo 28.º
+
+Declarações de inadmissibilidade por parte dos comités
 
 Qualquer comité pode, por voto unânime, declarar a inadmissibilidade ou mandar arquivar qualquer petição individual formulada nos termos do artigo 34.º, se essa decisão puder ser tomada sem posterior apreciação. Esta decisão é definitiva.
 
-###### Artigo 29.º — Decisões das secções quanto à admissibilidade e ao fundo
+Artigo 29.º
+
+Decisões das secções quanto à admissibilidade e ao fundo
 
 1 - Se nenhuma decisão tiver sido tomada nos termos do artigo 28.º, uma das secções pronunciar-se-á quanto à admissibilidade e ao fundo das petições individuais formuladas nos termos do artigo 34.º
 
@@ -751,11 +773,15 @@ Qualquer comité pode, por voto unânime, declarar a inadmissibilidade ou mandar
 
 3 - A decisão quanto à admissibilidade é tomada em separado, salvo deliberação em contrário do Tribunal relativamente a casos excepcionais.
 
-###### Artigo 30.º — Devolução da decisão a favor do tribunal pleno
+Artigo 30.º
+
+Devolução da decisão a favor do tribunal pleno
 
 Se um assunto pendente numa secção levantar uma questão grave quanto à interpretação da Convenção ou dos seus protocolos, ou se a solução de um litígio puder conduzir a uma contradição com uma sentença já proferida pelo Tribunal, a secção pode, antes de proferir a sua sentença, devolver a decisão do litígio ao tribunal pleno, salvo se qualquer das partes do mesmo a tal se opuser.
 
-###### Artigo 31.º — Atribuições do tribunal pleno
+Artigo 31.º
+
+Atribuições do tribunal pleno
 
 O tribunal pleno:
 
@@ -763,21 +789,29 @@ a) Pronunciar-se-á sobre as petições formuladas nos termos do artigo 33.º ou
 
 b) Apreciará os pedidos de parecer formulados nos termos do artigo 47.º
 
-###### Artigo 32.º — Competência do Tribunal
+Artigo 32.º
+
+Competência do Tribunal
 
 1 - A competência do Tribunal abrange todas as questões relativas à interpretação e à aplicação da Convenção e dos respectivos protocolos que lhe sejam submetidas nas condições previstas pelos artigos 33.º, 34.º e 47.º
 
 2 - O Tribunal decide sobre quaisquer contestações à sua competência.
 
-###### Artigo 33.º — Assuntos interestaduais
+Artigo 33.º
+
+Assuntos interestaduais
 
 Qualquer Alta Parte Contratante pode submeter ao Tribunal qualquer violação das disposições da Convenção e dos seus protocolos que creia poder ser imputada a outra Alta Parte Contratante.
 
-###### Artigo 34.º — Petições individuais
+Artigo 34.º
+
+Petições individuais
 
 O Tribunal pode receber petições de qualquer pessoa singular, organização não governamental ou grupo de particulares que se considere vítima de violação por qualquer Alta Parte Contratante dos direitos reconhecidos na Convenção ou nos seus protocolos. As Altas Partes Contratantes comprometem-se a não criar qualquer entrave ao exercício efectivo desse direito.
 
-###### Artigo 35.º — Condições de admissibilidade
+Artigo 35.º
+
+Condições de admissibilidade
 
 1 - O Tribunal só pode ser solicitado a conhecer de um assunto depois de esgotadas todas as vias de recurso internas, em conformidade com os princípios de direito internacional geralmente reconhecidos e num prazo de seis meses a contar da data de prolação da decisão interna definitiva.
 
@@ -791,13 +825,17 @@ b) For, no essencial, idêntica a uma petição anteriormente examinada pelo Tri
 
 4 - O Tribunal rejeitará qualquer petição que considere inadmissível nos termos do presente artigo. O Tribunal poderá decidir nestes termos em qualquer momento do processo.
 
-###### Artigo 36.º — Intervenção de terceiros
+Artigo 36.º
+
+Intervenção de terceiros
 
 1 - Em qualquer assunto pendente numa secção ou no tribunal pleno, a Alta Parte Contratante da qual o autor da petição seja nacional terá o direito de formular observações por escrito ou de participar nas audiências.
 
 2 - No interesse da boa administração da justiça, o presidente do Tribunal pode convidar qualquer Alta Parte Contratante que não seja parte no processo ou qualquer outra pessoa interessada que não o autor da petição a apresentar observações escritas ou a participar nas audiências.
 
-###### Artigo 37.º — Arquivamento
+Artigo 37.º
+
+Arquivamento
 
 1 - O Tribunal pode decidir, em qualquer momento do processo, arquivar uma petição se as circunstâncias permitirem concluir que:
 
@@ -811,7 +849,9 @@ Contudo, o Tribunal dará seguimento à apreciação da petição se o respeito 
 
 2 - O Tribunal poderá decidir-se pelo desarquivamento de uma petição se considerar que as circunstâncias assim o justificam.
 
-###### Artigo 38.º — Apreciação contraditória do assunto e processo de resolução amigável
+Artigo 38.º
+
+Apreciação contraditória do assunto e processo de resolução amigável
 
 1 - Se declarar admissível uma petição, o Tribunal:
 
@@ -821,25 +861,35 @@ b) Colocar-se-á à disposição dos interessados com o objectivo de se alcança
 
 2 - O processo descrito no n.º 1, alínea b), do presente artigo é confidencial.
 
-###### Artigo 39.º — Conclusão de uma resolução amigável
+Artigo 39.º
+
+Conclusão de uma resolução amigável
 
 Em caso de resolução amigável, o Tribunal arquivará o assunto, proferindo, para o efeito, uma decisão que conterá uma breve exposição dos factos e da solução adoptada.
 
-###### Artigo 40.º — Audiência pública e acesso aos documentos
+Artigo 40.º
+
+Audiência pública e acesso aos documentos
 
 1 - A audiência é pública, salvo se o Tribunal decidir em contrário por força de circunstâncias excepcionais.
 
 2 - Os documentos depositados na secretaria ficarão acessíveis ao público, salvo decisão em contrário do presidente do Tribunal.
 
-###### Artigo 41.º — Reparação razoável
+Artigo 41.º
+
+Reparação razoável
 
 Se o Tribunal declarar que houve violação da Convenção ou dos seus protocolos e se o direito interno da Alta Parte Contratante não permitir senão imperfeitamente obviar às consequências de tal violação, o Tribunal atribuirá à parte lesada uma reparação razoável, se necessário.
 
-###### Artigo 42.º — Decisões das secções
+Artigo 42.º
+
+Decisões das secções
 
 As decisões tomadas pelas secções tornam-se definitivas em conformidade com o disposto no n.º 2 do artigo 44.º
 
-###### Artigo 43.º — Devolução ao tribunal pleno
+Artigo 43.º
+
+Devolução ao tribunal pleno
 
 1 - Num prazo de três meses a contar da data da sentença proferida por uma secção, qualquer parte no assunto poderá, em casos excepcionais, solicitar a devolução do assunto ao tribunal pleno.
 
@@ -847,7 +897,9 @@ As decisões tomadas pelas secções tornam-se definitivas em conformidade com o
 
 3 - Se o colectivo aceitar a petição, o tribunal pleno pronunciar-se-á sobre o assunto por meio de sentença.
 
-###### Artigo 44.º — Sentenças definitivas
+Artigo 44.º
+
+Sentenças definitivas
 
 1 - A sentença do tribunal pleno é definitiva.
 
@@ -861,19 +913,25 @@ c) Se o colectivo do tribunal pleno rejeitar a petição de devolução formulad
 
 3 - A sentença definitiva será publicada.
 
-###### Artigo 45.º — Fundamentação das sentenças e das decisões
+Artigo 45.º
+
+Fundamentação das sentenças e das decisões
 
 1 - As sentenças, bem como as decisões que declarem a admissibilidade ou a inadmissibilidade das petições, serão fundamentadas.
 
 2 - Se a sentença não expressar, no todo ou em parte, a opinião unânime dos juízes, qualquer juiz terá o direito de lhe juntar uma exposição da sua opinião divergente.
 
-###### Artigo 46.º — Força vinculativa e execução das sentenças
+Artigo 46.º
+
+Força vinculativa e execução das sentenças
 
 1 - As Altas Partes Contratantes obrigam-se a respeitar as sentenças definitivas do Tribunal nos litígios em que forem partes.
 
 2 - A sentença definitiva do Tribunal será transmitida ao Comité de Ministros, o qual velará pela sua execução.
 
-###### Artigo 47.º — Pareceres
+Artigo 47.º
+
+Pareceres
 
 1 - A pedido do Comité de Ministros, o Tribunal pode emitir pareceres sobre questões jurídicas relativas à interpretação da Convenção e dos seus protocolos.
 
@@ -881,11 +939,15 @@ c) Se o colectivo do tribunal pleno rejeitar a petição de devolução formulad
 
 3 - A decisão do Comité de Ministros de solicitar um parecer ao Tribunal será tomada por voto maioritário dos seus membros titulares.
 
-###### Artigo 48.º — Competência consultiva do Tribunal
+Artigo 48.º
+
+Competência consultiva do Tribunal
 
 O Tribunal decidirá se o pedido de parecer apresentado pelo Comité de Ministros cabe na sua competência consultiva, tal como a define o artigo 47.º
 
-###### Artigo 49.º — Fundamentação dos pareceres
+Artigo 49.º
+
+Fundamentação dos pareceres
 
 1 - O parecer do Tribunal será fundamentado.
 
@@ -893,11 +955,15 @@ O Tribunal decidirá se o pedido de parecer apresentado pelo Comité de Ministro
 
 3 - O parecer do Tribunal será comunicado ao Comité de Ministros.
 
-###### Artigo 50.º — Despesas de funcionamento do Tribunal
+Artigo 50.º
+
+Despesas de funcionamento do Tribunal
 
 As despesas de funcionamento do Tribunal serão suportadas pelo Conselho da Europa.
 
-###### Artigo 51.º — Privilégios e imunidades dos juízes
+Artigo 51.º
+
+Privilégios e imunidades dos juízes
 
 Os juízes gozam, enquanto no exercício das suas funções, dos privilégios e imunidades previstos no artigo 40.º do Estatuto do Conselho da Europa e nos acordos concluídos em virtude desse artigo.»
 
@@ -977,7 +1043,7 @@ Desde que uma Alta Parte Contratante tenha reconhecido a competência da Comiss�
 
 ###### Artigo 7.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho:
 
 a) De qualquer assinatura;
 
@@ -995,128 +1061,128 @@ Feito em 11 de Maio de 1994, em francês e inglês, fazendo ambos os textos igua
 
 Títulos dos artigos a inserir no texto da Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais e dos seus protocolos.
 
-###### Artigo 1.º - Obrigação de respeitar os direitos do homem.
+Artigo 1.º - Obrigação de respeitar os direitos do homem.
 
 ###### Artigo 2.º - Direito à vida.
 
-###### Artigo 3.º - Proibição da tortura.
+Artigo 3.º - Proibição da tortura.
 
-###### Artigo 4.º - Proibição da escravatura e do trabalho forçado.
+Artigo 4.º - Proibição da escravatura e do trabalho forçado.
 
-###### Artigo 5.º - Direito à liberdade e à segurança.
+Artigo 5.º - Direito à liberdade e à segurança.
 
-###### Artigo 6.º - Direito a um processo equitativo.
+Artigo 6.º - Direito a um processo equitativo.
 
-###### Artigo 7.º - Princípio da legalidade.
+Artigo 7.º - Princípio da legalidade.
 
-###### Artigo 8.º - Direito ao respeito pela vida privada e familiar.
+Artigo 8.º - Direito ao respeito pela vida privada e familiar.
 
-###### Artigo 9.º - Liberdade de pensamento, de consciência e de religião.
+Artigo 9.º - Liberdade de pensamento, de consciência e de religião.
 
-###### Artigo 10.º - Liberdade de expressão.
+Artigo 10.º - Liberdade de expressão.
 
-###### Artigo 11.º - Liberdade de reunião e de associação.
+Artigo 11.º - Liberdade de reunião e de associação.
 
-###### Artigo 12.º - Direito ao casamento.
+Artigo 12.º - Direito ao casamento.
 
-###### Artigo 13.º - Direito a um recurso efectivo.
+Artigo 13.º - Direito a um recurso efectivo.
 
-###### Artigo 14.º - Proibição de discriminação.
+Artigo 14.º - Proibição de discriminação.
 
-###### Artigo 15.º - Derrogação em caso de estado de necessidade.
+Artigo 15.º - Derrogação em caso de estado de necessidade.
 
-###### Artigo 16.º - Restrições à actividade política dos estrangeiros.
+Artigo 16.º - Restrições à actividade política dos estrangeiros.
 
-###### Artigo 17.º - Proibição do abuso de direito.
+Artigo 17.º - Proibição do abuso de direito.
 
-###### Artigo 18.º - Limitação da aplicação de restrições aos direitos.
+Artigo 18.º - Limitação da aplicação de restrições aos direitos.
 
 [...]
 
-###### Artigo 52.º - Inquéritos do Secretário-Geral.
+Artigo 52.º - Inquéritos do Secretário-Geral.
 
-###### Artigo 53.º - Salvaguarda dos direitos do homem reconhecidos por outra via.
+Artigo 53.º - Salvaguarda dos direitos do homem reconhecidos por outra via.
 
-###### Artigo 54.º - Poderes do Comité de Ministros.
+Artigo 54.º - Poderes do Comité de Ministros.
 
-###### Artigo 55.º - Renúncia a outras formas de resolução de litígios.
+Artigo 55.º - Renúncia a outras formas de resolução de litígios.
 
-###### Artigo 56.º - Aplicação territorial.
+Artigo 56.º - Aplicação territorial.
 
 ###### Artigo 57.º - Reservas.
 
-###### Artigo 58.º - Denúncia.
+Artigo 58.º - Denúncia.
 
-###### Artigo 59.º - Assinatura e ratificação.
+Artigo 59.º - Assinatura e ratificação.
 
 Protocolo Adicional
 
-###### Artigo 1.º - Protecção da propriedade.
+Artigo 1.º - Protecção da propriedade.
 
-###### Artigo 2.º - Direito à instrução.
+Artigo 2.º - Direito à instrução.
 
-###### Artigo 3.º - Direito a eleições livres.
+Artigo 3.º - Direito a eleições livres.
 
-###### Artigo 4.º - Aplicação territorial.
+Artigo 4.º - Aplicação territorial.
 
-###### Artigo 5.º - Relações com a Convenção.
+Artigo 5.º - Relações com a Convenção.
 
-###### Artigo 6.º - Assinatura e ratificação.
+Artigo 6.º - Assinatura e ratificação.
 
 Protocolo n.º 4
 
-###### Artigo 1.º - Proibição da prisão por dívidas.
+Artigo 1.º - Proibição da prisão por dívidas.
 
-###### Artigo 2.º - Liberdade de circulação.
+Artigo 2.º - Liberdade de circulação.
 
-###### Artigo 3.º - Proibição da expulsão de nacionais.
+Artigo 3.º - Proibição da expulsão de nacionais.
 
-###### Artigo 4.º - Proibição de expulsão colectiva de estrangeiros.
+Artigo 4.º - Proibição de expulsão colectiva de estrangeiros.
 
-###### Artigo 5.º - Aplicação territorial.
+Artigo 5.º - Aplicação territorial.
 
-###### Artigo 6.º - Relações com a Convenção.
+Artigo 6.º - Relações com a Convenção.
 
-###### Artigo 7.º - Assinatura e ratificação.
+Artigo 7.º - Assinatura e ratificação.
 
 Protocolo n.º 6
 
-###### Artigo 1.º - Abolição da pena de morte.
+Artigo 1.º - Abolição da pena de morte.
 
-###### Artigo 2.º - Pena de morte em tempo de guerra.
+Artigo 2.º - Pena de morte em tempo de guerra.
 
-###### Artigo 3.º - Proibição de derrogações.
+Artigo 3.º - Proibição de derrogações.
 
-###### Artigo 4.º - Proibição de reservas.
+Artigo 4.º - Proibição de reservas.
 
-###### Artigo 5.º - Aplicação territorial.
+Artigo 5.º - Aplicação territorial.
 
-###### Artigo 6.º - Relações com a Convenção.
+Artigo 6.º - Relações com a Convenção.
 
-###### Artigo 7.º - Assinatura e ratificação.
+Artigo 7.º - Assinatura e ratificação.
 
 ###### Artigo 8.º - Entrada em vigor.
 
-###### Artigo 9.º - Funções do depositário.
+Artigo 9.º - Funções do depositário.
 
 Protocolo n.º 7
 
-###### Artigo 1.º - Garantias processuais em caso de expulsão de estrangeiros.
+Artigo 1.º - Garantias processuais em caso de expulsão de estrangeiros.
 
-###### Artigo 2.º - Direito a um duplo grau de jurisdição em matéria penal.
+Artigo 2.º - Direito a um duplo grau de jurisdição em matéria penal.
 
-###### Artigo 3.º - Direito a indemnização em caso de erro judiciário.
+Artigo 3.º - Direito a indemnização em caso de erro judiciário.
 
-###### Artigo 4.º - Direito a não ser julgado ou punido mais de uma vez.
+Artigo 4.º - Direito a não ser julgado ou punido mais de uma vez.
 
-###### Artigo 5.º - Igualdade entre os cônjuges.
+Artigo 5.º - Igualdade entre os cônjuges.
 
-###### Artigo 6.º - Aplicação territorial.
+Artigo 6.º - Aplicação territorial.
 
-###### Artigo 7.º - Relações com a Convenção.
+Artigo 7.º - Relações com a Convenção.
 
-###### Artigo 8.º - Assinatura e ratificação.
+Artigo 8.º - Assinatura e ratificação.
 
 ###### Artigo 9.º - Entrada em vigor.
 
-###### Artigo 10.º - Funções do depositário.
+Artigo 10.º - Funções do depositário.

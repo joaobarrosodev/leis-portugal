@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/86/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2000-583439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff6f59236673dc01e7ac17885dd10ee93c4fed46287fb0c08fe8334174bbdf43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffce7e685788e6fe1781ef4b8af696679ce6f53bf270986556de9f698707df9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
 - Comunidades Europeias
 - Convenção
-- Portugal
 - Dublin
 - Interpretação do Direito
+- Portugal
 - Tratado da União Europeia
-- Bruxelas
 - Tribunal de Justiça CE
 relationships:
+- type: amended_by
+  target: pt:dre:583438:por
+  label: "Ratificados os presentes actos de direito internacional pelo DEC.82/2000.2000.12.15.PR,DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/82-2000-583438
+  date: '2000-12-15'
 - type: cites
   target: celex:31991L0308
   label: null
@@ -92,13 +97,13 @@ relationships:
 article_structure:
   article_count: 56
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:30Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +148,7 @@ Aprovar, para ratificação, o Segundo Protocolo, estabelecido com base no artig
 
 Aprovada em 28 de Setembro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO, ESTABELECIDA COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, RELATIVA À PROTECÇÃO DOS INTERESSES FINANCEIROS DAS COMUNIDADES.
 
@@ -289,7 +294,7 @@ Nenhuma disposição da presente Convenção obsta a que os Estados membros adop
 
 2 - O depositário publicará no Jornal Oficial das Comunidades Europeias a situação quanto às adopções e às adesões, as declarações e as reservas, bem como qualquer notificação relativa à presente Convenção.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
+[[[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
 
 PROTOCOLO, ESTABELECIDO COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, RELATIVO À INTERPRETAÇÃO A TÍTULO PREJUDICIAL PELO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS DA CONVENÇÃO RELATIVA À PROTECÇÃO DOS INTERESSES FINANCEIROS DAS COMUNIDADES EUROPEIAS.
 
@@ -353,7 +358,7 @@ Os Estados que se tornarem membros da União Europeia e aderirem à Convenção 
 
 (nota 1) JO, n.º C 313, de 23 de Outubro de 1996, p. 1.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
+[[[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
 
 Declaração relativa à adopção simultânea da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias e do Protocolo Relativo à Interpretação a Título Prejudicial pelo Tribunal de Justiça das Comunidades Europeias da referida Convenção.
 
@@ -365,7 +370,7 @@ Desejando assegurar uma interpretação o mais eficaz e uniforme possível da re
 
 declaram-se prontos a tomar todas as medidas necessárias para que as formalidades nacionais de adopção da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias e do Protocolo Relativo à Interpretação da mesma sejam concluídas simultaneamente no prazo mais curto possível.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
+[[[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
 
 PROTOCOLO, ESTABELECIDO COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, DA CONVENÇÃO RELATIVA À PROTECÇÃO DOS INTERESSES FINANCEIROS DAS COMUNIDADES EUROPEIAS.
 
@@ -511,7 +516,7 @@ Se, no final de um prazo de seis meses, não tiver sido encontrada uma solução
 
 (nota 1) JOCE, n.º C 316, de 27 de Novembro de 1995, p. 49.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
+[[[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
 
 SEGUNDO PROTOCOLO, ESTABELECIDO COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, DA CONVENÇÃO RELATIVA À PROTECÇÃO DOS INTERESSES FINANCEIROS DAS COMUNIDADES EUROPEIAS.
 
@@ -709,7 +714,7 @@ Para os efeitos do presente Protocolo, a responsabilidade extracontratual da Com
 
 (nota 5) JO, n.º C 151, de 20 de Maio de 1997, p. 1.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
+[[[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)](https://files.diariodarepublica.pt/1s/2000/12/288a00/73057322.pdf)
 
 Declaração comum relativa ao n.º 2 do artigo 13.º
 

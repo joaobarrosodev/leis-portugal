@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/500/1991/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-1991-629782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6659f41709a417fd9f5ad4e3b11886f32f62b6002d9cf74a11f8816d80791d38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3dd55d94c2b3d39606b148d2256dc75bcb84a05a7bcca6fc4d5a1a36261dc62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,63 @@ relationships:
   target: pt:dre:601557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469014:por
+  label: "Renovada, por seis anos, a concessão da zona de caça associativa pela PORT.246/97.1997.04.11.MADRP DR.IS-B [85]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1997-469014
+  date: '1997-04-11'
+- type: amended_by
+  target: pt:dre:167380:por
+  label: "Renovada a concessão da zona de caça associativa, na redacção da Port. 246/97, de 11-Abr, pela PORT.118/2003.2003.02.01.MADRP,\
+    \ DR.IS-B [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-2003-167380
+  date: '2003-02-01'
+- type: amended_by
+  target: pt:dre:601557:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa atribuída pelo presente diploma,\
+    \ renovada pela Port 246/97, de 11-Abr e pela Port 118/2003, de 01-Fev, pela PORT.146/2009.05.02.2009.MADRP, DR.IS [25]\
+    \ de 05.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-2009-601557
+  date: '2009-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:08Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 30 de Abril de 1991.**
+Assinada em 30 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/128b00/30383039.pdf))](https://files.diariodarepublica.pt/1s/1991/06/128b00/30383039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/128b00/30383039.pdf)

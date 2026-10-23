@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 292/1994, 1º Suplemento, Série I-A de 1994-12-20
   number: '292'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7292-(2) a 7292-(167)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/72/1994/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/72-1994-332428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9916f17c55f390c0296ede135ca2a5ad622b7fa8109915b1699aec579e8d90d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11da38c1a853fc76330aec472fb283aac4bd2d79409dbc4ede15f64bcd51e4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Adesão à Comunidade Europeia
+- Agricultura
 - Aproximação das Legislações
+- Bruxelas
 - Bulgária
 - CE Países
 - CECA
 - CEE
-- Transporte Terrestre
+- Comércio
 - Convenção
-- Cooperação Financeira
-- Portugal
-- Direitos Aduaneiros
-- Adesão à Comunidade Europeia
-- Euratom
-- Pesca
-- Importação
-- Livre Prestação de Serviços
-- Livre Circulação de Mercadorias
-- Livre Circulação de Pessoas
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
-- Política Económica
+- Direitos Aduaneiros
+- Euratom
 - Exportação
-- Agricultura
-- Comércio
+- Importação
+- Livre Circulação de Mercadorias
+- Livre Circulação de Pessoas
+- Livre Prestação de Serviços
+- Pesca
+- Política Económica
+- Portugal
 - Produto Agrícola
 - Trânsito
+- Transporte Terrestre
 - Tratado CECA
 - Tratado CEE
 - Tratado Euratom
-- Bruxelas
 relationships:
 - type: cites
   target: celex:31966R0136
@@ -158,13 +158,13 @@ relationships:
 article_structure:
   article_count: 209
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:22Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +177,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 3 de Novembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA BULGÁRIA, POR OUTRO.
 
@@ -225,7 +225,7 @@ Robert Urbain, Ministro do Comércio Externo e dos Assuntos Europeus;
 
 O Reino da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 A República Federal da Alemanha:
 
@@ -1717,7 +1717,7 @@ A partir da sua entrada em vigor, o presente Acordo substitui o Acordo entre a C
 
 2 - Se a data de entrada em vigor for posterior a 1 de Janeiro é aplicável o disposto no Protocolo n.º 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 Lista dos anexos
 
@@ -1763,7 +1763,7 @@ XVI (artigo 67.º) - Propriedade intelectual.
 
 Do ANEXO I ao ANEXO XVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 Lista de protocolos
 
@@ -1957,7 +1957,7 @@ As Partes acordam em que um dos organismos especiais estabelecidos pelo Conselho
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 PROTOCOLO N.º 3
 
@@ -2023,7 +2023,7 @@ As reduções dos elementos móveis referidas no artigo 3.º são aplicáveis ap
 
 Do ANEXO I ao ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 PROTOCOLO N.º 4
 
@@ -2227,7 +2227,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 fica subordinada
 
 5 - Na casa 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 6 - Não é necessário indicar nas casas 8 e 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (kg) ou outra medida (litro, metro cúbico, etc.). A casa 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -2267,7 +2267,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2277,7 +2277,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2297,7 +2297,7 @@ b) Ou conter a marca aposta pelo exportador autorizado de um carimbo especial ap
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7 «Observações» do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 5 - A casa n.º 11 «Visto da alfândega» do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -2519,13 +2519,13 @@ Lista dos anexos
 
 ## Anexo I: Notas. — Anexo II: Lista das operações de complemento de fabrico e transformações na acepção do n.º 2 do artigo 4.º
 
-## Anexo III: Modelo do certificado de circulação de mercadorias EUR.1.
+Anexo III: Modelo do certificado de circulação de mercadorias EUR.1.
 
-## Anexo IV: Espécime do formulário EUR.2.
+Anexo IV: Espécime do formulário EUR.2.
 
-## Anexo V: Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 15.º
+Anexo V: Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 15.º
 
-## Anexo VI: Lista dos produtos referidos no artigo 34.º
+Anexo VI: Lista dos produtos referidos no artigo 34.º
 
 ## ANEXO I — Notas
 
@@ -2701,7 +2701,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal como uma b
 
 Lista das operações de complemento de fabrico ou transformações a efectuar em matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -2711,7 +2711,7 @@ Lista das operações de complemento de fabrico ou transformações a efectuar e
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Bulgária reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -2721,15 +2721,15 @@ Lista das operações de complemento de fabrico ou transformações a efectuar e
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Bulgária reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no artigo 34.º que são temporariamente excluídos do âmbito do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 PROTOCOLO N.º 5
 
@@ -2811,9 +2811,9 @@ A aplicação por parte de Portugal dos compromissos abrangidos pelo n.º 4 do a
 
 As importações em Portugal de produtos originários da Bulgária podem ser sujeitas a restrições quantitativas até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anexo B.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
 
 PROTOCOLO N.º 6
 
@@ -3471,4 +3471,4 @@ O Governo da Bulgária declara que não invocará as disposições do Protocolo 
 
 A Bulgária envidará todos os esforços para aumentar as quantidades de gelados abrangidos pelas restrições quantitativas previstas no anexo XIIb, de modo a abolir essas restrições em paralelo com as negociações no sector vinícola.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf))](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/292a01/00020167.pdf)

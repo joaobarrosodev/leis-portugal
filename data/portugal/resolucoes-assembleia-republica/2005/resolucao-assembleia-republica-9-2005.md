@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/2005/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-2005-589935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b6b546df580109b681370276e537419efe51c0f8ab832608928845e6b4bcebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b1b4e1de8783c8c9276133f5fe868b1b3266ea3e5ecc07c12c106d11f9ea3db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Água
 - ÁGUA Superficial
+- Águas Subterrâneas
 - Convenção
+- Nova Iorque
+- ONU
 - Portugal
 - Recursos Hídricos
-- ONU
-- Nova Iorque
-- Águas Subterrâneas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:589936:por
+  label: "Ratificada a Convenção sobre o Direito Relativo à Utilização dos Cursos de Água Internacionais para Fins Diversos\
+    \ dos de Navegação, aprovada pelo presente diploma, pelo DEC.16/2005.03.03.2005.PR, DR.IS-A [44] de 03.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/16-2005-589936
+  date: '2005-03-03'
 article_structure:
   article_count: 51
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:13Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Dezembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENTION ON THE LAW OF THE NON-NAVIGATIONAL USES OF INTERNATIONAL WATERCOURSES, 1997
 
@@ -399,7 +405,7 @@ a) The safe operation and maintenance of installations, facilities or other work
 
 b) The protection of installations, facilities or other works from wilful or negligent acts or the forces of nature.
 
-# PARTE V — Harmful conditions and emergency situations
+## PARTE V — Harmful conditions and emergency situations
 
 Article 27
 
@@ -621,7 +627,7 @@ Tendo presente a resolução n.º 49/52, da Assembleia das Nações Unidas, de 9
 
 acordam no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Âmbito da presente Convenção
 
@@ -661,7 +667,7 @@ d) «Organização de integração económica regional» designa uma organizaç�
 
 2 - Um Estado ribeirinho cuja utilização de um curso de água internacional possa ser, em grande medida, afectada pela aplicação de um acordo proposto sobre cursos de água que se aplique unicamente a uma parcela do curso de água ou a um determinado projecto, programa ou utilização, tem direito a participar nas consultas sobre tal acordo e, se adequado, na sua negociação, de boa fé, com vista a tornar-se parte no acordo, na medida em que a utilização do curso de água por parte daquele Estado ribeirinho possa ser afectada.
 
-# PARTE II — Princípios básicos
+## PARTE II — Princípios básicos
 
 ###### Artigo 5.º — Utilização e participação equitativa e razoável
 
@@ -717,7 +723,7 @@ g) A disponibilidade de alternativas de valor comparável para uma utilização 
 
 2 - Na eventualidade de um conflito entre utilizações de um curso de água internacional, este será resolvido de acordo com os artigos 5.º a 7.º, dando-se especial atenção às exigências das necessidades humanas vitais.
 
-# PARTE III — Medidas projectadas
+## PARTE III — Medidas projectadas
 
 ###### Artigo 11.º — Informações atinentes a medidas projectadas
 
@@ -777,7 +783,7 @@ Nos termos do artigo 13.º, os Estados notificados deverão comunicar as suas co
 
 3 - O Estado responsável pelas medidas deve, a pedido de qualquer um dos Estados referidos no parágrafo 2, encetar prontamente consultas e negociações com o mesmo, conforme o disposto nos parágrafos 1 e 2 do artigo 17.º
 
-# PARTE IV — Protecção, preservação e gestão
+## PARTE IV — Protecção, preservação e gestão
 
 ###### Artigo 20.º — Protecção e preservação de ecossistemas
 
@@ -833,7 +839,7 @@ a) Ao funcionamento e manutenção seguros das instalações, serviços e outras
 
 b) À protecção das instalações, serviços ou outras obras, de actos de negligência intencional ou das forças da natureza.
 
-# PARTE V — Condições danosas e situações de emergência
+## PARTE V — Condições danosas e situações de emergência
 
 ###### Artigo 27.º — Prevenção e diminuição de condições danosas
 
@@ -849,7 +855,7 @@ Os Estados ribeirinhos devem individual ou conjuntamente, se adequado, adoptar t
 
 4 - Quando necessário, os Estados ribeirinhos devem, conjuntamente, desenvolver planos de emergência para responder a emergências, em cooperação, se adequado, com outros Estados potencialmente afectados e com organizações internacionais competentes.
 
-# PARTE VI — Disposições diversas
+## PARTE VI — Disposições diversas
 
 ###### Artigo 29.º — Cursos de água internacionais e instalações em tempo de conflito armado
 
@@ -895,7 +901,7 @@ b) A arbitragem por parte de um tribunal arbitral criado e em funções, salvo a
 
 Uma parte que seja uma organização de integração económica regional pode, em conformidade com a alínea b), fazer uma declaração com efeito similar em relação à arbitragem.
 
-# PARTE VII — Cláusulas finais
+## PARTE VII — Cláusulas finais
 
 ###### Artigo 34.º — Assinatura
 

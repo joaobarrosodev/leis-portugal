@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/11/1999/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1999-165425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ba742d920662f3007dc90f346c7c1c0177e763970455872531ecb4dfb6210f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25a2dd62a931b6a865ea39155df56c44a0f5da3e093e649bc992e955e5166316
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
+- Admissão de Estrangeiros
+- Armamento
 - Asilo Político
 - CE Países
 - Cidadão Estrangeiro
 - Convenção
-- Cooperação Transfronteira
-- Segurança Interna
-- Portugal
-- Armamento
-- Finlândia
-- Extradição
+- Cooperação Judiciária
 - Cooperação Policial
+- Cooperação Transfronteira
+- Direito Penal
+- Droga
+- Extradição
+- Finlândia
 - Fronteiras
-- Segurança da Informação
-- Livre Prestação de Serviços
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Droga
-- Segurança Internacional
-- Cooperação Judiciária
-- Sistema de Informação
-- Direito Penal
-- Schengen
-- Sistema de Informação Schengen
+- Livre Prestação de Serviços
 - Luxemburgo
-- Admissão de Estrangeiros
-relationships: []
+- Portugal
+- Schengen
+- Segurança da Informação
+- Segurança Interna
+- Segurança Internacional
+- Sistema de Informação
+- Sistema de Informação Schengen
+relationships:
+- type: amended_by
+  target: pt:dre:165429:por
+  label: "Ratificado o Protocolo, pelo DEC.69/99.1999.02.24.PR, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/69-1999-165429
+  date: '1999-02-24'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:00Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +129,7 @@ Aprovar, para ratificação, o Acordo de Adesão do Governo da República da Fin
 
 Aprovada em 11 de Dezembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLO DE ADESÃO DO GOVERNO DA REPÚBLICA DA FINLÂNDIA AO ACORDO RELATIVO À SUPRESSÃO GRADUAL DOS CONTROLOS NAS FRONTEIRAS COMUNS, ASSINADO EM SCHENGEN A 14 DE JUNHO DE 1985.
 
@@ -168,7 +173,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, apuser
 
 Feito no Luxemburgo, a 19 de Dezembro de 1996, em língua alemã, espanhola, finlandesa, francesa, grega, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos oito textos.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
+[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
 
 Declaração do Governo da República da Finlândia relativa aos Protocolos de Adesão dos Governos do Reino da Dinamarca e do Reino da Suécia.
 
@@ -238,7 +243,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, apuser
 
 Feito no Luxemburgo, a 19 de Dezembro de 1996, em língua alemã, espanhola, finlandesa, francesa, grega, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos oito textos, num único exemplar, que será depositado nos arquivos do Governo do Grão-Ducado do Luxemburgo, o qual remeterá uma cópia autenticada a cada uma das Partes Contratantes.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
+[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
 
 Acta Final
 
@@ -282,7 +287,7 @@ A República da Finlândia declara que a aplicação da Convenção de Schengen 
 
 Feito no Luxemburgo, a 19 de Dezembro de 1996, em língua alemã, espanhola, finlandesa, francesa, grega, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos oito textos, num único exemplar, que será depositado nos arquivos do Governo do Grão-Ducado do Luxemburgo, o qual remeterá uma cópia autenticada a cada uma das Partes Contratantes.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
+[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)](https://files.diariodarepublica.pt/1s/1999/02/046a00/10401046.pdf)
 
 Declaração dos ministros e secretários de Estado
 

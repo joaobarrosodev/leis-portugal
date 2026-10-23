@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/1994/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-1994-291224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b60793bf737f87734f2c06a32cfe373eb8ce483989ff3209fcbb2bcaaa7e203b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04f99cdd491b9ce4bd6c3ba3c7f3c98398059a6ec0c3e218baf3789bb23d4c0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
-- Portugal
 - Lisboa
 - Malta
+- Portugal
+- Transporte Aéreo
 relationships: []
 article_structure:
   article_count: 22
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:23Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 AIR TRANSPORT AGREEMENT BETWEEN THE GOVERN-MENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF MALTA.
 
@@ -622,7 +622,9 @@ Pelo Governo de Malta:
 
 Guido de Marco.
 
-## ANEXO — Secção I
+## ANEXO
+
+#### Secção I
 
 1 - Rota a explorar nos dois sentidos pela empresa designada pelo Governo da República de Portugal:
 

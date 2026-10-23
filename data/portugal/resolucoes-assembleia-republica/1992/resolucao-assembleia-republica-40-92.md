@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1992, 1º Suplemento, Série I-A de 1992-12-30
   number: '300'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6026-(2) a 6026-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/40/1992/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-1992-368072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39c962e1886d9a0d8c0c37016596fcef00de9ceb60bd9fbf341e1f19cdd503a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e3fac2803790191da5fb96f1ffc306d1ba4c3fd2b73d1b136c74ebdbc53076d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
 - Bélgica
 - CE Países
 - Convenção
-- Irlanda
-- Portugal
 - Dinamarca
-- União Europeia
 - Espanha
-- RFA
+- França
+- Grécia
 - Imunidade Diplomática
+- Irlanda
+- Luxemburgo
 - Maastricht
-- Política Externa e de Segurança Comum
 - Países Baixos
+- Política Externa e de Segurança Comum
+- Portugal
+- Reino Unido
+- RFA
 - Tratado CECA
 - Tratado CEE
 - Tratado da União Europeia
 - Tratado Euratom
-- França
-- Grécia
-- Luxemburgo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:191115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:368071:por
+  label: "Ratificado o Tratado da União Europeia, aprovado para ratificação no presente diploma, pelo DEC.63/92.30.12.1992.PR,\
+    \ DR.IS-A [300]Supl de 30.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-1992-368071
+  date: '1992-12-30'
+- type: amended_by
+  target: pt:dre:301779:por
+  label: "Alterado o Tratado da União Europeia bem como a lista de disposições do acervo Schengen anexo ao Tratado aprovado\
+    \ para ratificação no presente diploma, pelo Tratado de Adesão à União Europeia de 2003, aprovado para ratificação na\
+    \ RES.5-A/2004.03.10.2003.AR, DR.IS-A [12]Supl de 15.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/5-a-2004-301779
+  date: '2003-10-03'
+- type: amended_by
+  target: pt:dre:302315:por
+  label: "Alterado o nº 2 do art. 10º dos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, estabelecidos\
+    \ no Protocolo anexo ao Tratado Que Institui a Comunidade Europeia, aprovado para ratificação pelo presente diploma, pela\
+    \ Decisão do Conselho aprovada para ratificação pela RES.35/2004.15.04.2004.AR, DR.IS-A [101] de 29.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/35-2004-302315
+  date: '2004-04-15'
+- type: amended_by
+  target: pt:dre:294737:por
+  label: "Alterado o Tratado da União Europeia bem como a Lista do Acervo Shengen anexa, aprovado para ratificação pelo presente\
+    \ siploma, pelo Tratado aprovado para ratificação pela RES.52-A/2006.08.03.2006.AR, DR.IS [144-Supl] de 27.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-a-2006-294737
+  date: '2006-03-08'
+- type: amended_by
+  target: pt:dre:249264:por
+  label: "Alterado o Tratado da União Europeia aprovado, para ratificação, pelo presente diploma, ratificado pelo Dec 63/92,\
+    \ de 30-Dez, pelo Tratado de Lisboa aprovado pela RES.19/2008.19.05.2008.AR, DR.IS [96] de 19.05.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/19-2008-249264
+  date: '2008-05-19'
+- type: amended_by
+  target: pt:dre:191115:por
+  label: "Aprovado o Tratado entre os Estados membros da União Europeia e a República da Croácia Relativo à Adesão da República\
+    \ da Croácia à União Europeia que altera o Tratado da União Europeia (TUE), o Tratado sobre o Funcionamento da União Europeia\
+    \ (TFUE) bem como o Protocolo relativo ao Estatuto do Tribunal de Justiça da União Europeia, o Protocolo Relativo aos\
+    \ Estatutos do Banco Europeu de Investimento e o Protocolo relativo às disposições transitórias, pela RES.137/2012.14.11.2012.AR,\
+    \ DR.IS [220] de 14.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/137-2012-191115
+  date: '2012-11-14'
 - type: cites
   target: celex:31988R1969
   label: null
@@ -99,16 +140,34 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:648373:por
+  label: "19930212 - RECTIFICADAS ALGUMAS DISPOSIÇÕES DO TRATADO E INTRODUZIDO, NO MESMO, O PROTOCOLO RELATIVO AO COMITE ECONÓMICO\
+    \ SOCIAL E AO COMITE DAS REGIÕES, PELA RECT 4/93 DE 28-JAN DR.IS-A [36] DE 12/FEV/1993\0 12/FEV/1993"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/4-1993-648373
+- type: corrected_by
+  target: pt:dre:452057:por
+  label: Rectificado o texto original da versão portuguesa do Tratado da União Europeia, assinado em Maastricht em 7 de Fevereiro
+    de 1992, aprovado para ratificação pelo presente diploma, ratificado pelo Dec 63/92, de 30-Dez, pelo AV.202/2008.29.09.2008.MNE,
+    DR.IS [188] de 29.09.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/202-2008-452057
+  date: '2008-09-29'
+- type: corrected_by
+  target: pt:dre:75676829:por
+  label: Tornada pública a Sexta Ata de Retificação do Tratado da União Europeia aprovado para ratificação pela presente Resolução,
+    e ratificado pelo Dec. 63/92 de 30-dez PR, pelo(a) Aviso n.º 110/2016 - Diário da República n.º 213/2016, Série I de 2016-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/110-2016-75676829
+  date: '2016-11-07'
 article_structure:
-  article_count: 307
-  section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 346
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:47Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +180,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 10 de Dezembro de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 TRATADO DA UNIÃO EUROPEIA
 
@@ -165,13 +224,13 @@ Uffe Ellemann-Jensen, Ministro dos Negócios Estrangeiros;
 
 Anders Fogh Rasmussen, Ministro da Economia;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans-Dietrich Genscher, Ministro dos Negócios Estrangeiros;
 
 Theodor Waigel, Ministro Federal das Finanças;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Antonios Samaras, Ministro dos Negócios Estrangeiros;
 
@@ -183,19 +242,19 @@ Francisco Fernández Ordóñez, Ministro dos Negócios Estrangeiros;
 
 Carlos Solchaga Catalán, Ministro da Economia e Finanças;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Roland Dumas, Ministro dos Negócios Estrangeiros;
 
 Pierre Beregovoy, Ministro da Economia, Finanças e Orçamento;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Gerard Collins, Ministro dos Negócios Estrangeiros;
 
 Bertie Ahern, Ministro das Finanças;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Gianni de Michelis, Ministro dos Negócios Estrangeiros;
 
@@ -213,7 +272,7 @@ Hans van den Broek, Ministro dos Negócios Estrangeiros;
 
 Willem Kok, Ministro das Finanças;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 João de Deus Pinheiro, Ministro dos Negócios Estrangeiros;
 
@@ -229,7 +288,7 @@ os quais, depois de terem trocado os seus plenos poderes, reconhecidos em boa e 
 
 ## TÍTULO I — Disposições comuns
 
-Artigo A
+###### Artigo A
 
 Pelo presente Tratado, as Altas Partes Contratantes instituem entre si uma união europeia, adiante designada por União.
 
@@ -237,7 +296,7 @@ O presente Tratado assinala uma nova etapa no processo de criação de uma uniã
 
 A União funda-se nas Comunidades Europeias, completadas pelas políticas e formas de cooperação instituídas pelo presente Tratado. A União tem por missão organizar de forma coerente e solidária as relações entre os Estados membros e entre os respectivos povos.
 
-Artigo B
+###### Artigo B
 
 À União atribui-se os seguintes objectivos:
 
@@ -253,13 +312,13 @@ Artigo B
 
 Os objectivos da União serão alcançados de acordo com as disposições do presente Tratado e nas condições e segundo o calendário nele previstos, respeitando princípio da subsidiariedade, tal como definido no artigo 3.º-B do Tratado que institui a Comunidade Europeia.
 
-Artigo C
+###### Artigo C
 
 A União dispõe de um quadro institucional único, que assegura a coerência e a continuidade das acções empreendidas para atingir os seus objectivos, respeitando e desenvolvendo simultaneamente o acervo comunitário.
 
 A União assegurará, em especial, a coerência do conjunto da sua acção externa no âmbito das políticas por si adoptadas em matéria de relações externas, de segurança, de economia e de desenvolvimento. Cabe ao Conselho e à Comissão a responsabilidade de assegurar essa coerência. O Conselho e a Comissão assegurarão a execução dessas políticas de acordo com as respectivas atribuições.
 
-Artigo D
+###### Artigo D
 
 O Conselho Europeu dará à União os impulsos necessários ao seu desenvolvimento e definirá as respectivas orientações políticas gerais.
 
@@ -267,11 +326,11 @@ O Conselho Europeu reúne os chefes de Estado ou de governo dos Estados membros,
 
 O Conselho Europeu apresentará ao Parlamento Europeu um relatório na sequência de cada uma das suas reuniões, bem como um relatório escrito anual sobre os processos realizados pela União.
 
-Artigo E
+###### Artigo E
 
 O Parlamento Europeu, o Conselho, a Comissão e o Tribunal de Justiça exercem as suas atribuições e competências nas condições e de acordo com os objectivos previstos, por um lado, nas disposições dos Tratados que instituem as Comunidades Europeias e dos tratados e actos subsequentes que os alteraram ou completaram e, por outro, nas demais disposições do presente Tratado.
 
-Artigo F
+###### Artigo F
 
 1 - A União respeitará a identidade nacional dos Estados membros, cujos sistemas de governo se fundam nos princípios democráticos.
 
@@ -283,7 +342,7 @@ Artigo F
 
 Disposições que alteram o Tratado que institui a Comunidade Económica Europeia, tendo em vista a instituição da Comunidade Europeia.
 
-Artigo G
+###### Artigo G
 
 O Tratado que institui a Comunidade Económica Europeia é alterado nos termos do presente artigo, a fim de instituir uma Comunidade Europeia:
 
@@ -403,7 +462,7 @@ O Conselho, deliberando de acordo com o procedimento previsto no artigo 189.º-C
 
 C - É aditada a seguinte parte:
 
-# PARTE II — A cidadania da União
+## PARTE II — A cidadania da União
 
 ###### Artigo 8.º
 
@@ -443,7 +502,7 @@ Com base nesses relatórios e sem prejuízo das demais disposições do presente
 
 D - As partes II e III são agrupadas sob o seguinte título:
 
-# PARTE III — As políticas da Comunidade
+## PARTE III — As políticas da Comunidade
 
 e na presente parte:
 
@@ -637,7 +696,7 @@ Para efeitos desta supervisão multilateral, os Estados membros enviarão inform
 
 4 - Sempre que se verificar, no âmbito do procedimento a que se refere o n.º 3, que as políticas económicas de determinado Estado membro não são compatíveis com as grandes orientações a que se refere o n.º 2 ou que são susceptíveis de comprometerem o bom funcionamento da união económica e monetária, o Conselho, deliberando por maioria qualificada, sob recomendação da Comissão, pode dirigir as recomendações necessárias ao Estado membro em causa. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode decidir tornar públicas as suas recomendações.
 
-**O Presidente do Conselho e a Comissão apresentarão um relatório ao Parlamento Europeu sobre os resultados da supervisão multilateral. O Presidente do Conselho pode ser convidado a comparecer perante a competente comissão do Parlamento Europeu, se o Conselho tiver tornado públicas as suas recomendações.**
+O Presidente do Conselho e a Comissão apresentarão um relatório ao Parlamento Europeu sobre os resultados da supervisão multilateral. O Presidente do Conselho pode ser convidado a comparecer perante a competente comissão do Parlamento Europeu, se o Conselho tiver tornado públicas as suas recomendações.
 
 5 - O Conselho, deliberando de acordo com o procedimento previsto no artigo 189.º-C, pode aprovar as regras do procedimento de supervisão multilateral a que se referem os n.os 3 e 4 do presente artigo.
 
@@ -711,7 +770,7 @@ Nesse caso, o Conselho pode pedir ao Estado membro em causa que lhe apresente re
 
 - impor multas de importância apropriada.
 
-**O Presidente do Conselho informará o Parlamento Europeu das decisões tomadas.**
+O Presidente do Conselho informará o Parlamento Europeu das decisões tomadas.
 
 12 - O Conselho revogará parte ou a totalidade das decisões a que se referem os n.os 6 a 9 e 11 na medida em que se considere que o défice excessivo no Estado membro em causa foi corrigido. Se o Conselho tiver previamente tornado públicas as suas recomendações, deve, logo que a decisão tomada ao abrigo do n.º 8 tiver sido revogada, fazer uma declaração pública de que deixou de existir um défice excessivo no Estado membro em causa.
 
@@ -835,13 +894,13 @@ Só nacionais dos Estados membros podem ser membros da comissão executiva.
 
 1 - O Presidente do Conselho e um membro da Comissão podem participar, sem direito de voto, nas reuniões do conselho do BCE.
 
-**O Presidente do Conselho pode submeter moções à deliberação do conselho do BCE.**
+O Presidente do Conselho pode submeter moções à deliberação do conselho do BCE.
 
 2 - O presidente do BCE será convidado a participar nas reuniões do Conselho sempre que este delibere sobre questões relativas aos objectivos e atribuições do SEBC.
 
 3 - O BCE enviará anualmente ao Parlamento Europeu, ao Conselho, à Comissão e ainda ao Conselho Europeu um relatório sobre as actividades do SEBC e sobre a política monetária do ano anterior e do ano em curso. O presidente do BCE apresentará esse relatório ao Conselho e ao Parlamento Europeu, que, com base nesse relatório, pode proceder a um debate de carácter geral.
 
-**O presidente do BCE e os outros membros da comissão executiva podem, a pedido do Parlamento Europeu ou por sua própria iniciativa, ser ouvidos pelas competentes comissões do Parlamento Europeu.**
+O presidente do BCE e os outros membros da comissão executiva podem, a pedido do Parlamento Europeu ou por sua própria iniciativa, ser ouvidos pelas competentes comissões do Parlamento Europeu.
 
 ###### Artigo 109.º-C
 
@@ -909,7 +968,7 @@ O disposto no n.º 2 do artigo 103.º-A, nos n.os 1, 9 e 11 do artigo 104.º-C, 
 
 1 - No início da segunda fase, é instituído e entra em funções um Instituto Monetário Europeu, a seguir designado por "IME", que tem personalidade jurídica e é dirigido e gerido por um conselho composto por um presidente e pelos governadores dos bancos centrais nacionais, um dos quais será vice-presidente.
 
-**O presidente é nomeado, de comum acordo, pelos governos dos Estados membros a nível de chefes de Estado ou de governo, sob recomendação do Comité de Governadores dos bancos centrais dos Estados membros, a seguir designado por "Comité de Governadores" ou do conselho do IME, conforme o caso, e após consulta do Parlamento Europeu e do Conselho. O presidente é escolhido de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário. Só pode ser presidente do IME um nacional dos Estados membros. O conselho do IME designa o vice-presidente.**
+O presidente é nomeado, de comum acordo, pelos governos dos Estados membros a nível de chefes de Estado ou de governo, sob recomendação do Comité de Governadores dos bancos centrais dos Estados membros, a seguir designado por "Comité de Governadores" ou do conselho do IME, conforme o caso, e após consulta do Parlamento Europeu e do Conselho. O presidente é escolhido de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário. Só pode ser presidente do IME um nacional dos Estados membros. O conselho do IME designa o vice-presidente.
 
 Os Estatutos do IME constam de um protocolo anexo ao presente Tratado.
 
@@ -1645,11 +1704,11 @@ Podem ser reconduzidos nas suas funções.
 
 Os governos dos Estados membros, em consulta com o Presidente designado, designam as outras personalidades que tencionam nomear membros da Comissão.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.
 
 3 - O disposto nos n.os 1 e 2 será aplicável pela primeira vez ao Presidente e aos demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1995.
 
-**O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.**
+O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.
 
 ###### Artigo 159.º
 
@@ -2257,7 +2316,7 @@ G - No Protocolo Relativo aos Estatutos do Banco Europeu de Investimento:
 
 ## TÍTULO III — Disposições que alteram o Tratado que institui a Comunidade Europeia do Carvão e do Aço
 
-Artigo H
+###### Artigo H
 
 O Tratado que institui a Comunidade Europeia do Carvão e do Aço é alterado nos termos do disposto no presente artigo.
 
@@ -2307,11 +2366,11 @@ Podem ser reconduzidos nas suas funções.
 
 Os governos dos Estados membros, em consulta com o Presidente designado, designam as outras personalidades que tencionam nomear membros da Comissão.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.
 
 3 - O disposto nos n.os 1 e 2 será aplicável pela primeira vez ao Presidente e aos demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1995.
 
-**O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.**
+O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.
 
 ###### Artigo 11.º
 
@@ -2593,7 +2652,7 @@ a) O presente Tratado não é aplicável às ilhas Feroé.
 
 ## TÍTULO IV — Disposições que alteram o Tratado que institui a Comunidade Europeia da Energia Atómica
 
-Artigo I
+###### Artigo I
 
 O Tratado que institui a Comunidade Europeia da Energia Atómica é alterado nos termos do presente artigo.
 
@@ -2727,11 +2786,11 @@ Podem ser reconduzidos nas suas funções.
 
 Os governos dos Estados membros, em consulta com o Presidente designado, designam as outras personalidades que tencionam nomear membros da Comissão.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.
 
 3 - O disposto nos n.os 1 e 2 será aplicável pela primeira vez ao Presidente e aos demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1995.
 
-**O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.**
+O Presidente e os demais membros da Comissão cujas funções têm início em 7 de Janeiro de 1993 serão nomeados de comum acordo pelos governos dos Estados membros. O período de exercício das suas funções termina em 6 de Janeiro de 1995.
 
 ###### Artigo 128.º
 
@@ -3021,11 +3080,11 @@ Quando esses acordos implicarem alterações ao presente Tratado, estas devem se
 
 ## TÍTULO V — Disposições relativas à política externa e de segurança comum
 
-Artigo J
+###### Artigo J
 
 É instituída uma política externa e de segurança comum, regida pelas disposições seguintes:
 
-Artigo J.1
+###### Artigo J.1
 
 1 - A União e os seus Estados membros definirão e executarão uma política externa e de segurança comum, regida pelas disposições do presente título e extensiva a todos os domínios da política externa e de segurança.
 
@@ -3049,7 +3108,7 @@ Artigo J.1
 
 4 - Os Estados membros apoiarão activamente e sem reservas a política externa e de segurança da União, num espírito de lealdade e de solidariedade mútua. Abster-se-ão de empreender quaisquer acções contrárias aos interesses da União ou susceptíveis de prejudicarem a sua eficácia como força coerente nas relações internacionais. O Conselho zelará pela observância destes princípios.
 
-Artigo J.2
+###### Artigo J.2
 
 1 - Os Estados membros informar-se-ão mutuamente e concertar-se-ão no âmbito do Conselho sobre todas as questões de política externa e de segurança que se revistam de interesse geral, de modo a garantir que a sua influência conjugada se exerça de forma mais eficaz, através da convergência das acções.
 
@@ -3061,7 +3120,7 @@ Os Estados membros zelarão pela coerência das suas políticas nacionais com as
 
 Nas organizações internacionais e em conferências internacionais em que não tomem parte todos os Estados membros, os que nelas participem defenderão as posições comuns.
 
-Artigo J.3
+###### Artigo J.3
 
 O procedimento de adopção de uma acção comum em áreas pertencentes ao domínio da política externa e de segurança é o seguinte:
 
@@ -3083,7 +3142,7 @@ Para as deliberações do Conselho que requeiram mai7oria qualificada por força
 
 7) Em caso de dificuldades importantes na execução de uma acção comum, os Estados membros submeterão a questão ao Conselho, que deliberará e procurará encontrar as soluções adequadas. Estas soluções não podem ser contrárias aos objectivos da acção nem prejudicar a sua eficácia.
 
-Artigo J.4
+###### Artigo J.4
 
 1 - A política externa e de segurança comum abrange todas as questões relativas à segurança da União Europeia, incluindo a definição, a prazo, de uma política de defesa comum, que poderá conduzir, no momento próprio, a uma defesa comum.
 
@@ -3097,7 +3156,7 @@ Artigo J.4
 
 6 - Para promover o objectivo do presente Tratado e tendo em conta a data de 1998 no contexto do artigo XII do Tratado de Bruxelas, o presente artigo pode ser revisto nos termos do n.º 2 do artigo N, com base num relatório a apresentar em 1996 pelo Conselho ao Conselho Europeu e que incluirá uma apreciação dos progressos realizados e da experiência entretanto adquirida.
 
-Artigo J.5
+###### Artigo J.5
 
 1 - A Presidência representará a União nas matérias do âmbito da política externa e de segurança comum.
 
@@ -3109,19 +3168,19 @@ Artigo J.5
 
 Os Estados membros que sejam igualmente membros do Conselho de Segurança das Nações Unidas concertar-se-ão e manterão os outros Estados membros plenamente informados. Os Estados membros que são membros permanentes do Conselho de Segurança defenderão, no exercício das suas funções, as posições e os interesses da União, sem prejuízo das responsabilidades que lhes incumbem por força da Carta das Nações Unidas.
 
-Artigo J.6
+###### Artigo J.6
 
 As missões diplomáticas e consulares dos Estados membros e das delegações da Comissão nos países terceiros e nas conferências internacionais, bem como as respectivas representações junto das organizações internacionais, concertar-se-ão no sentido de assegurar a observância e a execução das posições comuns e das acções comuns adoptadas pelo Conselho.
 
 As mesmas intensificarão a sua cooperação através do intercâmbio de informações, procedendo a avaliações comuns e contribuindo para a execução das disposições a que se refere o artigo 8.º-C do Tratado que institui a Comunidade Europeia.
 
-Artigo J.7
+###### Artigo J.7
 
 A Presidência consultará o Parlamento Europeu sobre os principais aspectos e as opções fundamentais da política externa e de segurança comum e zelará por que as opiniões daquela instituição sejam devidamente tomadas em consideração. O Parlamento Europeu será regularmente informado pela Presidência e pela Comissão sobre a evolução da política externa e de segurança da União.
 
 O Parlamento Europeu pode dirigir perguntas ou apresentar recomendações ao Conselho. Procederá anualmente a um debate sobre os progressos realizados na execução da política externa e de segurança comum.
 
-Artigo J.8
+###### Artigo J.8
 
 1 - O Conselho Europeu define os princípios e as orientações gerais da política externa e de segurança comum.
 
@@ -3135,15 +3194,15 @@ O Conselho delibera por unanimidade, excepto sobre as questões processuais e no
 
 5 - Sem prejuízo do disposto no artigo 151.º do Tratado que institui a Comunidade Europeia, um Comité Político constituído por directores políticos dos Estados membros acompanhará a situação internacional nos domínios pertencentes ao âmbito da política externa e de segurança comum e contribuirá para a definição das políticas, proferindo pareceres destinados ao Conselho, a pedido deste ou por sua própria iniciativa. O Comité Político acompanhará igualmente a execução das políticas acordadas, sem prejuízo das atribuições da Presidência e da Comissão.
 
-Artigo J.9
+###### Artigo J.9
 
 A Comissão será plenamente associada aos trabalhos realizados no domínio da política externa e de segurança comum.
 
-Artigo J.10
+###### Artigo J.10
 
 Numa eventual revisão das disposições relativas à segurança nos termos do artigo J.4, a Conferência convocada para esse efeito analisará igualmente se devem ser introduzidas novas alterações nas disposições sobre política externa e de segurança comum.
 
-Artigo J.11
+###### Artigo J.11
 
 1 - As disposições a que se referem os artigos 137.º, 138.º, 139.º a 142.º, 146.º, 147.º, 150.º a 153.º, 157.º a 163.º e 217.º do Tratado que institui a Comunidade Europeia são aplicáveis às disposições relativas aos domínios a que se refere o presente título.
 
@@ -3157,11 +3216,11 @@ O Conselho pode igualmente:
 
 ## TÍTULO VI — Disposições relativas à cooperação no domínio da justiça e dos assuntos internos
 
-Artigo K
+###### Artigo K
 
 É instituída uma cooperação nos domínios da justiça e dos assuntos internos, regida pelas disposições seguintes.
 
-Artigo K.1
+###### Artigo K.1
 
 Para a realização dos objectivos da União, nomeadamente o da livre circulação de pessoas, e sem prejuízo das atribuições e competências da Comunidade Europeia, os Estados membros consideram questões de interesse comum os seguintes domínios:
 
@@ -3189,13 +3248,13 @@ c) A luta contra a imigração, permanência e trabalho irregulares de nacionais
 
 9) A cooperação Policial tendo em vista a prevenção e a luta contra o terrorismo, o tráfico ilícito de droga e outras formas graves de criminalidade internacional, incluindo, se necessário, determinados aspectos de cooperação aduaneira, em ligação com a organização, à escala da União, de um sistema de intercâmbio de informações no âmbito de uma Unidade Europeia de Polícia (Europol).
 
-Artigo K.2
+###### Artigo K.2
 
 1 - As questões a que se refere o artigo K.1 serão tratadas no âmbito da Convenção Europeia de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, assinada em Roma em 4 de Novembro de 1950, e da Convenção Relativa ao Estatuto dos Refugiados, assinada em Genebra em 28 de Julho de 1951, e tendo em conta a protecção concedida pelos Estados membros às pessoas perseguidas por motivos políticos.
 
 2 - O presente título não prejudica o exercício das responsabilidades que incumbem aos Estados membros em matéria de manutenção da ordem pública e de garantia da segurança interna.
 
-Artigo K.3
+###### Artigo K.3
 
 1 - Nos domínios a que se refere o artigo K.1, os Estados membros devem informar-se e consultar-se mutuamente no âmbito do Conselho, de modo a coordenar a sua acção. Para o efeito, devem instituir uma colaboração entre os competentes serviços das respectivas administrações.
 
@@ -3215,7 +3274,7 @@ Salvo se essas convenções previrem disposições em contrário, as eventuais m
 
 Essas convenções podem prever a competência do Tribunal de Justiça para interpretar as respectivas disposições e decidir sobre todos os diferendos relativos à sua aplicação, de acordo com as modalidades que essas convenções possam especificar.
 
-Artigo K.4
+###### Artigo K.4
 
 1 - É instituído um Comité de Coordenação constituído por altos funcionários. Além do seu papel de coordenação, o Comité tem por missão:
 
@@ -3229,11 +3288,11 @@ Artigo K.4
 
 Se as deliberações do Conselho exigirem maioria qualificada, os votos dos membros serão ponderados nos termos do n.º 2 do artigo 148.º do Tratado que institui a Comunidade Europeia, e as deliberações consideram-se adoptadas se recolherem, no mínimo, 54 votos a favor de pelo menos oito membros.
 
-Artigo K.5
+###### Artigo K.5
 
 Os Estados membros expressarão, nas organizações internacionais e nas conferências internacionais em que participem, as posições comuns adoptadas em aplicação das disposições do presente título.
 
-Artigo K.6
+###### Artigo K.6
 
 A Presidência e a Comissão informarão regularmente o Parlamento Europeu sobre os trabalhos realizados nos domínios abrangidos pelo presente título.
 
@@ -3241,11 +3300,11 @@ A Presidência consultará o Parlamento Europeu sobre os principais aspectos das
 
 O Parlamento Europeu pode dirigir perguntas ou apresentar recomendações ao Conselho. Procederá anualmente a um debate sobre os progressos realizados na aplicação concreta dos domínios a que se refere o presente título.
 
-Artigo K.7
+###### Artigo K.7
 
 As disposições do presente título não impedem a instituição ou o desenvolvimento de uma cooperação mais estreita entre dois ou mais Estados membros, na medida em que essa cooperação não contrarie nem dificulte a que é prevista no presente título.
 
-Artigo K.8
+###### Artigo K.8
 
 1 - As disposições a que se referem os artigos 137.º, 138.º a 142.º, 146.º, 147.º, 150.º a 153.º, 157.º a 163.º e 217.º do Tratado que institui a Comunidade Europeia são aplicáveis às disposições relativas aos domínios a que se refere o presente título.
 
@@ -3257,13 +3316,13 @@ O Conselho pode igualmente:
 
 - quer constatar que as referidas despesas ficam a cargo dos Estados membros, eventualmente de acordo com uma chave de repartição a determinar.
 
-Artigo K.9
+###### Artigo K.9
 
 O Conselho, deliberando por unanimidade, por iniciativa da Comissão ou de um Estado membro, pode decidir tornar aplicável o artigo 100.º-C do Tratado que institui a Comunidade Europeia a acções que se inscrevam nos domínios a que se referem os n.os 1) a 6) do artigo K.1, determinando simultaneamente as correspondentes condições de votação. O Conselho recomendará a adopção dessa decisão pelos Estados membros, de acordo com as respectivas normas constitucionais.
 
 ## TÍTULO VII — Disposições finais
 
-Artigo L
+###### Artigo L
 
 As disposições do Tratado que institui a Comunidade Europeia, do Tratado que institui a Comunidade Europeia do Carvão e do Aço e do Tratado que institui a Comunidade Europeia da Energia Atómica relativas à competência do Tribunal de Justiça das Comunidades Europeias e ao exercício dessa competência apenas serão aplicáveis às seguintes disposições do presente Tratado:
 
@@ -3273,11 +3332,11 @@ b) N.º 2, alínea c), terceiro parágrafo, do artigo K.3;
 
 c) Artigos L a S.
 
-Artigo M
+###### Artigo M
 
 Sem prejuízo das disposições que alteram o Tratado que institui a Comunidade Económica Europeia tendo em vista a instituição da Comunidade Europeia, o Tratado que institui a Comunidade Europeia do Carvão e do Aço e o Tratado que institui a Comunidade Europeia da Energia Atómica, nenhuma disposição do presente Tratado afecta os Tratados que instituem as Comunidades Europeias nem os tratados e actos subsequentes que os alteraram ou completaram.
 
-Artigo N
+###### Artigo N
 
 1 - O governo de qualquer Estado membro ou a Comissão podem submeter ao Conselho projectos de revisão dos tratados em que se funda a União.
 
@@ -3287,33 +3346,33 @@ As alterações entrarão em vigor após ratificação por todos os Estados memb
 
 2 - Em 1996 será convocada uma conferência de representantes dos governos dos Estados membros para analisar, de acordo com os objectivos enunciados nos artigos A e B das disposições comuns, as disposições do presente Tratado em relação às quais está prevista a revisão.
 
-Artigo O
+###### Artigo O
 
 Qualquer Estado europeu pode pedir para se tornar membro da União. Dirigirá o respectivo pedido ao Conselho, que se pronunciará por unanimidade, após ter consultado a Comissão e após parecer favorável do Parlamento Europeu, que se pronunciará por maioria absoluta dos membros que o compõem.
 
 As condições de admissão e as adaptações dos Tratados em que se funda a União, decorrentes dessa admissão, serão objecto de acordo entre os Estados membros e o Estado peticionário. Esse acordo será submetido à ratificação de todos os Estados Contratantes, de acordo com as respectivas normas constitucionais.
 
-Artigo P
+###### Artigo P
 
 1 - São revogados os artigos 2.º a 7.º e 10.º a 19.º do Tratado que institui um Conselho Único e uma Comissão Única das Comunidades Europeias, assinado em Bruxelas em 8 de Abril de 1965.
 
 2 - São revogados o artigo 2.º, o n.º 2 do artigo 3.º e o título III do Acto Único Europeu, assinado no Luxemburgo em 17 de Fevereiro de 1986 e na Haia em 28 de Fevereiro de 1986.
 
-Artigo Q
+###### Artigo Q
 
 O presente Tratado tem vigência ilimitada.
 
-Artigo R
+###### Artigo R
 
 1 - O presente Tratado será ratificado pelas Altas Partes Contratantes, de acordo com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
 
 2 - O presente Tratado entrará em vigor no dia 1 de Janeiro de 1993, se tiverem sido depositados todos os instrumentos de ratificação ou, na falta desse depósito, no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que proceder a esta formalidade em último lugar.
 
-Artigo S
+###### Artigo S
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf))](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf)
 
 PROTOCOLO RELATIVO À AQUISIÇÃO DE BENS IMÓVEIS NA DINAMARCA
 
@@ -4809,4 +4868,4 @@ Declaração relativa aos litígios entre o BCE e o IME e os respectivos agentes
 
 A Conferência considera conveniente que o Tribunal de Primeira Instância seja competente para conhecer deste tipo de litígios, de acordo com o disposto no artigo 168.º-A do Tratado que institui a Comunidade Europeia. A Conferência convida as instituições a adoptarem, nesse sentido, as disposições adequadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf))](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/300a01/00020080.pdf)

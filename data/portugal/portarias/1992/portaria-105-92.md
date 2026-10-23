@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/105/1992/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-1992-158466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5965a4b1bc2e014cc177168d6f2314a07af378e006d9500b69ec84ce72495421
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 930456a32307cd9820514f241d29275aa0ad594685634c6a5223dfc7d03a89bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desenvolvimento Rural
 - Financiamento
 - Gado Caprino
-- Desenvolvimento Rural
 - Gado Ovino
+- Pecuária
 - Produção Leiteira
 - Programa de Apoio à Reestruturação e Inovação no Sector Agrícola
 - Queijo
 - Regime Jurídico
-- Pecuária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/102/1992/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/102/1992/02/19/p/dre
+- type: cites
+  target: pt:dre:158465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:29Z'
   warnings: []
   errors: []
 ---
@@ -242,18 +250,18 @@ Pagamento das ajudas
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Janeiro de 1992.**
+Assinada em 24 de Janeiro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 ## ANEXO I — [a que se refere a alínea a) do ponto 1 do n.º 5.º da Portaria n.º 105/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do ponto 1 do n.º 5.º da Portaria n.º 105/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do ponto 1 do n.º 5.º da Portaria n.º 105/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10101012.pdf)

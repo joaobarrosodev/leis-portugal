@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/136/1992/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/136-1992-168419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dbd437e6db45bf9a783d9c49ebf5e339045a842b3b59b786a657cce95f48ea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93415d6e2b203075e98a0c05bbac3f132045f916431e11b9c0d1fcf3fc85005f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/187/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:226845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:37Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Manda o Governo, pelo Secretário de Estado do Tesouro, nos termos do n.º 3 do 
 
 1.º O mapa constante do n.º 1 do artigo 15.º do [Decreto-Lei n.º 98/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1982-607275), de 7 de Abril, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 125/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1986-226845), de 2 de Junho, é substituído pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/053b00/11521152.pdf))](https://files.diariodarepublica.pt/1s/1992/03/053b00/11521152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/053b00/11521152.pdf)
 
 2.º As provisões técnicas não podem ser aplicadas em montante superior a:
 
@@ -117,6 +129,6 @@ c) 10% num ou em vários terrenos ou edifícios suficientemente próximos entre 
 
 Ministério das Finanças.
 
-**Assinada em 10 de Fevereiro de 1992.**
+Assinada em 10 de Fevereiro de 1992.
 
-**O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.**
+O Secretário de Estado do Tesouro, José Monteiro Fernandes Braz.

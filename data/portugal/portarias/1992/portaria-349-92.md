@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/349/1992/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-1992-208851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e3fd1c5d2c94e6b07feec9cbc92e2f840cc4088ceb159d2fd60a046563a44e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0319d21f8f51f2967269dac69e825a88f6d49e78ef570653cbbb2f776809e2bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Química Tecnológica-analista de Laboratório
 - Curso de Química Tecnológica-técnica Fabril
 - Curso Técnico de Electrónica-Instrumentação Industrial
 - Curso Técnico de Informática-gestão
 - Ensino Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505652:por
+  label: "Extinto o curso profissional de Qu&#237;mica Tecnol&#243;gica/T&#233;cnico Fabril a funcionar na Escola Profissional\
+    \ Neste, e o respectivo plano de estudos, criados no presente diploma, pela PORT.886/2004.21.07.2004.ME, DR.IS-B [170]\
+    \ de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes que &#224;quele curso respeitam\
+    \ pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-2004-505652
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505656:por
+  label: "Extinto o curso profissional de Qu&#237;mica Tecnol&#243;gica/Analista de Laborat&#243;rio a funcionar na Escola\
+    \ de Forma&#231;&#227;o Profissional Neste e o respectivo plano de estudos criados no presente diploma, pela PORT.890/2004.21.07.2004.ME,\
+    \ DR.IS-B [170] de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes em que &#224;quele\
+    \ curso respeitam pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2004-505656
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147640:por
+  label: "Extinto o curso profissional de Técnico de Informática/Gestão, criado pelo presente diploma que é revogado parcialmente\
+    \ no que àquele curso se refere, pela PORT.913/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-2005-147640
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147659:por
+  label: "Extinto o curso profissional de Técnico de Electrónica/Instrumentação Industrial, criado pelo presente diploma e\
+    \ revogado parcialmente na parte referente ao citado curso, pela PORT.896/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-2005-147659
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:54Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +152,8 @@ cujos planos de estudo se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/090b00/18451846.pdf))](https://files.diariodarepublica.pt/1s/1992/04/090b00/18451846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/090b00/18451846.pdf)

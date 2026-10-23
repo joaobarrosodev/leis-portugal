@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/70/2006/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/70-2006-552476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a735b89cacedc616b0ffc07601e1d61f900c48cc0522a4c96ae7e240c42496e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 810ea22545c7a5ee4c72247121225f0c90218d3f4e42170822aa3ba298d0d3e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Europol
-- Cooperação Policial
 - Bruxelas
+- Convenção
+- Cooperação Policial
+- Europol
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:552483:por
+  label: "Ratificado o Protocolo que altera a Convenção EUROPOL, aprovado, para ratificação, pelo presente diploma, pelo DEC.137/2006.19.12.2006.PR,\
+    \ DR.IS [242] de 19.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/137-2006-552483
+  date: '2006-12-19'
 - type: cites
   target: celex:32001R0044
   label: null
@@ -79,13 +85,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOLO ELABORADO COM BASE NO N.º 1 DO ARTIGO 43.º DA CONVENÇÃO QUE CRIA UM SERVIÇO EUROPEU DE POLÍCIA (CONVENÇÃO EUROPOL), QUE ALTERA ESSA CONVENÇÃO
 

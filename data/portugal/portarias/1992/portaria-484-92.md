@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/484/1992/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/484-1992-300600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a21a628bfdbd04a93bc2f9c598047e221e0aff19ac22134d8f1e581f8dc76b0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea00846149aace277b61ba8a7a92756c11fb7901f2a8cd757b55a7168eacb5dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,43 @@ relationships:
   target: pt:dre:240387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608526:por
+  label: "Alterado o quadro I do art. 8.º do Regulamento Técnico da Produção de Sementes de Espécies Oleaginosas e Fibrosas,\
+    \ pela PORT.21/96.03.02.1996.MADRP, DR.IS-B [29] de 03.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-1996-608526
+  date: '1996-02-03'
+- type: amended_by
+  target: pt:dre:214237:por
+  label: "Alterada a redacção do art. 22.º do cap. V do Regulamento, pela PORT.509/96.25.09.1996.MADRP, DR.IS-B [223] de 25.09.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/509-1996-214237
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:478248:por
+  label: "Substituida a abreviatura \"CEE\" pela abreviatura \"CE\" no art. 26º do Regulamento Técnico de Produção de Sementes\
+    \ de Espécies Oleaginosas e Fibrosas, pelo DEC LEI.169/98.1998.06.25.MADRP, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1998-478248
+  date: '1998-06-25'
 - type: cites
   target: celex:31969L0208
   label: null
   source: http://data.europa.eu/eli/dir/1969/208/oj
+- type: repealed_by
+  target: pt:dre:240387:por
+  label: "Revogada, a partir de 03.01.2004, pelo DEC LEI.2/2004.02.01.2004.MADRP, DR.IS-A [1] de 02.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2004-240387
+  date: '2004-01-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:18Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +135,7 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Maio de 1992.**
+Assinada em 15 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -120,7 +143,7 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de espécies oleaginosas e fibrosas, a admitir à comercialização no País, das variedades pertencentes aos géneros e espécies seguintes:
+Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de espécies oleaginosas e fibrosas, a admitir à comercialização no País, das variedades pertencentes aos géneros e espécies seguintes:
 
 Arachis hypogeae L. - amendoim;
 
@@ -156,7 +179,7 @@ Sinapis alba L. - mostarda-branca.
 
 ### CAPÍTULO II — Admissão à produção
 
-###### Art. 2.º São admitidas à produção as seguintes categorias de sementes:
+Art. 2.º São admitidas à produção as seguintes categorias de sementes:
 
 a) Semente pré-base;
 
@@ -214,13 +237,13 @@ Possuem identidade específica;
 
 Obedecem às condições constantes do quadro II (artigo 10.º) para a semente comercial e para as quais se tenha verificado, num exame oficial, que essas condições foram respeitadas.
 
-###### Art. 3.º As entidades admitidas à produção de sementes, que pode ser feita separada ou simultaneamente, são:
+Art. 3.º As entidades admitidas à produção de sementes, que pode ser feita separada ou simultaneamente, são:
 
 a) O produtor de semente base - a entidade que procede à multiplicação por uma ou várias gerações de semente da categoria do melhorador até à obtenção da semente da categoria base, segundo as exigências do esquema de certificação;
 
 b) O produtor de semente certificada - a entidade que procede directamente à produção da semente certificada, segundo as exigências dos esquemas de certificação, ou que promove esta produção pelo recurso a agricultores multiplicadores, mediante acordos ou contratos prévios.
 
-###### Art. 4.º - 1 - Os produtores de semente base, além de cumprirem os requisitos constantes do Estatuto da Produção de Sementes, devem obedecer ainda às seguintes disposições:
+Art. 4.º - 1 - Os produtores de semente base, além de cumprirem os requisitos constantes do Estatuto da Produção de Sementes, devem obedecer ainda às seguintes disposições:
 
 a) Não delegar numa mesma entidade a produção de sementes de mais de 10 variedades da mesma espécie sem autorização expressa da Direcção de Serviços de Controlo de Qualidade de Sementes (DSCQS);
 
@@ -240,9 +263,9 @@ b) Cumprir o definido na alínea e) no número anterior;
 
 c) A área mínima de cada campo de multiplicação de semente certificada não poder ser inferior a 1 ha, salvo nos casos devidamente justificados perante a DSCQS.
 
-###### Art. 5.º Aos agricultores multiplicadores não é permitida a celebração de contratos de multiplicação de sementes com produtores das mesmas, desde que daí resulte o não cumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
+Art. 5.º Aos agricultores multiplicadores não é permitida a celebração de contratos de multiplicação de sementes com produtores das mesmas, desde que daí resulte o não cumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
 
-###### Art. 6.º - 1 - Os produtores devem fornecer informações sobre as culturas que foram efectuadas anteriormente em cada campo de produção de sementes.
+Art. 6.º - 1 - Os produtores devem fornecer informações sobre as culturas que foram efectuadas anteriormente em cada campo de produção de sementes.
 
 2 - É obrigatório que decorra, entre a cultura de produção de semente e qualquer outra cultura da mesma espécie, um intervalo mínimo de cinco anos para as crucíferas, três anos para as leguminosas e dois anos para as outras espécies.
 
@@ -250,35 +273,35 @@ c) A área mínima de cada campo de multiplicação de semente certificada não 
 
 ### CAPÍTULO III — Controlo dos campos de multiplicação
 
-###### Art. 7.º - 1 - Os campos de produção de semente estão sujeitos pelo menos a uma inspecção na altura em que os principais caracteres distintivos da variedade são mais aparentes.
+Art. 7.º - 1 - Os campos de produção de semente estão sujeitos pelo menos a uma inspecção na altura em que os principais caracteres distintivos da variedade são mais aparentes.
 
 2 - Os campos de produção de variedades híbridas são objecto de pelo menos três inspecções durante o período em que os estigmas do progenitor feminino são fecundáveis excepto no caso de ter havido um ensaio de pós-controlo antes da certificação, caso em que são suficientes duas inspecções.
 
-###### Art. 8.º As culturas de semente de espécies alogâmicas devem estar isoladas da contaminação de pólen estranho de acordo com o seguinte quadro:
+Art. 8.º As culturas de semente de espécies alogâmicas devem estar isoladas da contaminação de pólen estranho de acordo com o seguinte quadro:
 
 QUADRO I
 
 Condições às quais deve obedecer a cultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
 
-###### Art. 9.º As culturas contendo infestantes em número excessivo devem ser reprovadas.
+Art. 9.º As culturas contendo infestantes em número excessivo devem ser reprovadas.
 
-###### Art. 10.º As variedades das diferentes espécies devem possuir suficiente identidade e pureza varietal e respeitar as condições constantes do seguinte quadro:
+Art. 10.º As variedades das diferentes espécies devem possuir suficiente identidade e pureza varietal e respeitar as condições constantes do seguinte quadro:
 
 QUADRO II
 
 Pureza varietal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
 
-###### Art. 11.º Na determinação da pureza varietal das espécies Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi e Gossypium spp., os limites máximos de outras variedades ou fora do tipo admitidas nos campos de multiplicação são os seguintes:
+Art. 11.º Na determinação da pureza varietal das espécies Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi e Gossypium spp., os limites máximos de outras variedades ou fora do tipo admitidas nos campos de multiplicação são os seguintes:
 
 a) Produção de semente base - um por 30 m2;
 
 b) Produção de semente certificada - um por 10 m2.
 
-###### Art. 12.º - 1 - Na determinação da pureza varietal da espécie Helianthus annuus, têm de ser observados os seguintes requisitos:
+Art. 12.º - 1 - Na determinação da pureza varietal da espécie Helianthus annuus, têm de ser observados os seguintes requisitos:
 
 a) Nas culturas de produção de sementes base de progenitores de Helianthus annuus não pode:
 
@@ -302,7 +325,7 @@ b) Utilização de um progenitor masculino que contenha uma ou várias linhas re
 
 ### CAPÍTULO IV — Controlo dos lotes de sementes produzidas
 
-###### Art. 13.º - 1 - O peso máximo dos lotes de sementes cujas dimensões sejam iguais ou superiores às do trigo é de 20000 kg.
+Art. 13.º - 1 - O peso máximo dos lotes de sementes cujas dimensões sejam iguais ou superiores às do trigo é de 20000 kg.
 
 2 - No caso de sementes de dimensões inferiores à do trigo, o peso máximo dos lotes é de 10000 kg.
 
@@ -310,19 +333,19 @@ b) Utilização de um progenitor masculino que contenha uma ou várias linhas re
 
 4 - É admissível uma tolerância de 5% sobre os máximos referidos nos números anteriores.
 
-###### Art. 14.º A DSCQS pode autorizar a mistura de dois ou vários lotes de sementes certificadas da mesma geração da mesma variedade.
+Art. 14.º A DSCQS pode autorizar a mistura de dois ou vários lotes de sementes certificadas da mesma geração da mesma variedade.
 
 ### CAPÍTULO V — Certificação
 
-###### Art. 15.º Para que sejam emitidos certificados relativos à semente pré-base, base e certificada é indispensável que os lotes de sementes submetidos a certificação satisfaçam todas as prescrições regulamentares e as sementes cumpram as características constantes do seguinte quadro:
+Art. 15.º Para que sejam emitidos certificados relativos à semente pré-base, base e certificada é indispensável que os lotes de sementes submetidos a certificação satisfaçam todas as prescrições regulamentares e as sementes cumpram as características constantes do seguinte quadro:
 
 QUADRO III
 
 Normas e tolerância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
 
-###### Art. 16.º - 1 - A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerado no limite mais baixo possível.
+Art. 16.º - 1 - A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerado no limite mais baixo possível.
 
 2 - As sementes devem respeitar as condições constantes do seguinte quadro:
 
@@ -330,31 +353,31 @@ QUADRO IV
 
 Organismos nocivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
 
-###### Art. 17.º No caso de Glycine max, o disposto no artigo anterior é aplicável em particular aos organismos Pseudomonas syringue pv. glycinea, Diaporthe phasealorum var. caulivora e var. sojae, Phialophora gregata e Phytophthora megasperma f. sp. glycinea.
+Art. 17.º No caso de Glycine max, o disposto no artigo anterior é aplicável em particular aos organismos Pseudomonas syringue pv. glycinea, Diaporthe phasealorum var. caulivora e var. sojae, Phialophora gregata e Phytophthora megasperma f. sp. glycinea.
 
-###### Art. 18.º - 1 - No que diz respeito à Pseudomonas syringae pv. glycinea, admite-se uma tolerância de quatro subamostras infectadas com o referido organismo, num total de cinco subamostras de 1000 sementes cada.
+Art. 18.º - 1 - No que diz respeito à Pseudomonas syringae pv. glycinea, admite-se uma tolerância de quatro subamostras infectadas com o referido organismo, num total de cinco subamostras de 1000 sementes cada.
 
 2 - Quando são identificadas colónias suspeitas nas cinco subamostras, podem usar-se ensaios bioquímicos apropriados a partir das colónias suspeitas isoladas de cada subamostra num meio adequado para confirmar as normas ou condições acima referidas.
 
-###### Art. 19.º No que diz respeito à Diaphorthe phaseolorum o número máximo de sementes infectadas não deve exceder 15%.
+Art. 19.º No que diz respeito à Diaphorthe phaseolorum o número máximo de sementes infectadas não deve exceder 15%.
 
-###### Art. 20.º No que diz respeito à Phialophora gregata, a percentagem em peso de matéria inerte, definida de acordo com os métodos de ensaio internacionais em uso, não deve exceder 0,3%.
+Art. 20.º No que diz respeito à Phialophora gregata, a percentagem em peso de matéria inerte, definida de acordo com os métodos de ensaio internacionais em uso, não deve exceder 0,3%.
 
-###### Art. 21.º De acordo com o artigo 20.º da Directiva n.º [69/208/CEE](http://data.europa.eu/eli/dir/1969/208/oj?locale=pt), os Estados membros podem ser autorizados a não efectuarem a avaliação no que respeita às normas ou condições acima referidas, a não ser que, com base em experiência prévia, haja dúvidas quanto ao cumprimento dessas normas ou condições.
+Art. 21.º De acordo com o artigo 20.º da Directiva n.º [69/208/CEE](http://data.europa.eu/eli/dir/1969/208/oj?locale=pt), os Estados membros podem ser autorizados a não efectuarem a avaliação no que respeita às normas ou condições acima referidas, a não ser que, com base em experiência prévia, haja dúvidas quanto ao cumprimento dessas normas ou condições.
 
-###### Art. 22.º Os pesos das amostras para as determinações mencionadas nos quadros dos artigos 15.º e 16.º são os constantes do seguinte quadro:
+Art. 22.º Os pesos das amostras para as determinações mencionadas nos quadros dos artigos 15.º e 16.º são os constantes do seguinte quadro:
 
 QUADRO V
 
 Peso dos lotes e das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27802785.pdf)
 
 ### CAPÍTULO VI — Acondicionamento das sementes e emissão de certificados
 
-###### Art. 23.º - 1 - As embalagens contendo as sementes a certificar devem, aquando da amostragem, apresentar-se convenientemente fechadas e com a identificação do seu conteúdo.
+Art. 23.º - 1 - As embalagens contendo as sementes a certificar devem, aquando da amostragem, apresentar-se convenientemente fechadas e com a identificação do seu conteúdo.
 
 2 - As embalagens devem apresentar-se devidamente fechadas por meio de um sistema que impossibilite a sua abertura sem danificação do dispositivo utilizado e não revele vestígios de violação.
 
@@ -362,7 +385,7 @@ Peso dos lotes e das amostras
 
 4 - A aplicação de elementos como os indicados no número anterior é dispensada quando os dispositivos utilizados no fecho das embalagens não possibilitem a sua reutilização.
 
-###### Art. 24.º - 1 - A identificação do conteúdo das embalagens é assegurada por etiquetas que funcionam simultaneamente como certificados de controlo de qualidade.
+Art. 24.º - 1 - A identificação do conteúdo das embalagens é assegurada por etiquetas que funcionam simultaneamente como certificados de controlo de qualidade.
 
 2 - As etiquetas com ilhó podem utilizar-se desde que o fecho das embalagens seja assegurado pelos selos da DSCQS.
 
@@ -370,7 +393,7 @@ Peso dos lotes e das amostras
 
 4 - As etiquetas emitidas pela DSCQS não podem apresentar vestígios de utilização anterior e devem colocar-se no exterior das embalagens.
 
-###### Art. 25.º As etiquetas devem obedecer às seguintes características:
+Art. 25.º As etiquetas devem obedecer às seguintes características:
 
 a) Ser impressas sobre uma ou duas faces;
 
@@ -400,7 +423,7 @@ g) Se os caracteres forem impressos nas embalagens, devem ser iguais aos das eti
 
 h) Nas embalagens destinadas a exportação, as informações impressas nas etiquetas podem ser redigidas em francês ou inglês.
 
-###### Art. 26.º As etiquetas devem conter ainda as seguintes indicações:
+Art. 26.º As etiquetas devem conter ainda as seguintes indicações:
 
 a) Variedades não híbridas:
 
@@ -436,12 +459,12 @@ Para as sementes certificadas:
 
 As etiquetas devem conter o nome da variedade a que pertencem as sementes base, acompanhada do termo «híbrido».
 
-###### Art. 27.º Para a categoria de semente comercial, além do referido no artigo anterior, deve constar:
+Art. 27.º Para a categoria de semente comercial, além do referido no artigo anterior, deve constar:
 
 Semente comercial;
 
 Região de produção.
 
-###### Art. 28.º No caso em que a germinação tenha sido revista, os termos «germinação revista em ... (mês e ano)» e o serviço responsável por essa revisão devem ser mencionados. Estas indicações podem ser dadas através de um autocolante oficial aposto sobre a etiqueta oficial.
+Art. 28.º No caso em que a germinação tenha sido revista, os termos «germinação revista em ... (mês e ano)» e o serviço responsável por essa revisão devem ser mencionados. Estas indicações podem ser dadas através de um autocolante oficial aposto sobre a etiqueta oficial.
 
-###### Art. 29.º As etiquetas e documentos previstos, no caso de sementes não certificadas definitivamente, devem obedecer aos requisitos constantes do artigo 11.º da Portaria n.º 159/92, de 12 de Março (Regulamento Geral para Aplicação do Esquema de Certificação de Sementes).
+Art. 29.º As etiquetas e documentos previstos, no caso de sementes não certificadas definitivamente, devem obedecer aos requisitos constantes do artigo 11.º da Portaria n.º 159/92, de 12 de Março (Regulamento Geral para Aplicação do Esquema de Certificação de Sementes).

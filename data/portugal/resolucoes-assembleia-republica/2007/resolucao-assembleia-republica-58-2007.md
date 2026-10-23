@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/58/2007/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/58-2007-628501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aebea2e083c56cc29cf7d5fe67b5c7ed91fdff2edcb28895521e9571c5763983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23ac982f23f6fbc4de46e18091c447d40da6a315cef3a6b97139a0a31e54d72e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,34 +69,48 @@ reuse:
 subjects:
 - ACP Países
 - África
-- Luta contra a Pobreza
 - ARMA de Destruição Maciça
-- Financiamento
 - Caraíbas
 - CE Países
 - Combate ao Terrorismo
 - Comunidade Europeia
 - Convenção
 - Cotonu
-- Portugal
 - Direitos da Criança
-- Oceano Pacífico
+- Financiamento
+- Luta contra a Pobreza
 - Luxemburgo
+- Oceano Pacífico
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:174820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628502:por
+  label: "Ratificado o Acordo, pelo DEC.124/2007.22.11.2007.PR, DR.IS [225] de 22.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-2007-628502
+  date: '2007-11-22'
+- type: amended_by
+  target: pt:dre:174820:por
+  label: "Aprovadas as alterações ao Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade\
+    \ Europeia e os seus Estados Membros, assinado em Cotonu, em 23 de junho de 2000, aprovado, para ratificação, pela Res\
+    \ 25-A/2002 de 05-Abr, e ratificado pelo Dec 23-B/2002 de 05-Abr do PR, com as alterações posteriormente aprovadas, para\
+    \ ratificação, pelo presente diploma. e ratificadas pelo Dec 124/2007 de 22-Nov do PR, pela RES.123/2012.31.08.2012.AR,\
+    \ DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/123-2012-174820
+  date: '2012-08-31'
 article_structure:
-  article_count: 7
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:57Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +123,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Setembro de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO QUE ALTERA O ACORDO DE PARCERIA ENTRE OS ESTADOS DE ÁFRICA DAS CARAÍBAS E DO PACÍFICO E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, ASSINADO EM COTONU EM 23 DE JUNHO DE 2000.
 
@@ -127,49 +141,49 @@ decidiram assinar o presente Acordo, que altera o Acordo de Cotonu, e, para o ef
 
 Sua Majestade o Rei dos Belgas Armand de Decker, Ministro da Cooperação para o Desenvolvimento;
 
-**O Presidente da República Checa VIadinlir Müller, Vice-Ministro dos Negócios Estrangeiros, responsável pelos Assuntos Europeus;**
+O Presidente da República Checa VIadinlir Müller, Vice-Ministro dos Negócios Estrangeiros, responsável pelos Assuntos Europeus;
 
 Sua Majestade a Rainha da Dinamarca Ib Ritto Andreasen, embaixador acreditado no Luxemburgo;
 
-**O Presidente da República Federal da Alemanha Erich Stather, Secretário Estado, Ministério Federal da Cooperação Económica e do Desenvolvimento, e Dorothee Janetzke-Wenzel, Responsável pelas Questões de Política Africana junto Ministério dos Negócios Estrangeiros;**
+O Presidente da República Federal da Alemanha Erich Stather, Secretário Estado, Ministério Federal da Cooperação Económica e do Desenvolvimento, e Dorothee Janetzke-Wenzel, Responsável pelas Questões de Política Africana junto Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República da Estónia Väino Reinart, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;**
+O Presidente da República da Estónia Väino Reinart, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;
 
-**O Presidente da República Helénica Constantin Karabetsis, embaixador, director-geral da Cooperação Internacional para o Desenvolvimento junto do Ministério dos Negócios Estrangeiros;**
+O Presidente da República Helénica Constantin Karabetsis, embaixador, director-geral da Cooperação Internacional para o Desenvolvimento junto do Ministério dos Negócios Estrangeiros;
 
 Sua Majestade o Rei de Espanha Alberto Navarro González, Secretário de Estado para a União Europeia;
 
-**O Presidente da República Francesa Brigitte Girardin, Ministra Encarregada Cooperação, Desenvolvimento e da Francofonia;**
+O Presidente da República Francesa Brigitte Girardin, Ministra Encarregada Cooperação, Desenvolvimento e da Francofonia;
 
-**A Presidente da Irlanda Ronan Murphy, director-geral, Direcção da Cooperação para o Desenvolvimento, Ministério dos Negócios Estrangeiros;**
+A Presidente da Irlanda Ronan Murphy, director-geral, Direcção da Cooperação para o Desenvolvimento, Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana Rocco António Cangelosi, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;**
+O Presidente da República Italiana Rocco António Cangelosi, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;
 
-**O Presidente da República do Chipre Nicholas Emiliou, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;**
+O Presidente da República do Chipre Nicholas Emiliou, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;
 
-**A Presidente da República da Letónia Lelde Lice-Licite, embaixadora, representante permanente-adjunto junto da União Europeia, conselheira para a educação e a cultura;**
+A Presidente da República da Letónia Lelde Lice-Licite, embaixadora, representante permanente-adjunto junto da União Europeia, conselheira para a educação e a cultura;
 
-**O Presidente da República da Lituânia Rokas Bernotas, director do Departamento de Relações Multilaterais, Ministério dos Negócios Estrangeiros;**
+O Presidente da República da Lituânia Rokas Bernotas, director do Departamento de Relações Multilaterais, Ministério dos Negócios Estrangeiros;
 
 Sua Alteza Real o Grão-Duque do Luxemburgo Jean-Louis Schiltz, Ministro Cooperação e da Acção Humanitária, Ministro Delegado das Comunicações;
 
-**O Presidente da República da Hungria András Bársony, Secretário de Estado Político, Ministério dos Negócios Estrangeiros;**
+O Presidente da República da Hungria András Bársony, Secretário de Estado Político, Ministério dos Negócios Estrangeiros;
 
-**O Presidente de Malta Bernard Hamilton, conselheiro principal, director em exercício do Departamento de Relações Bilaterais, Ministério dos Negócios Estrangeiros;**
+O Presidente de Malta Bernard Hamilton, conselheiro principal, director em exercício do Departamento de Relações Bilaterais, Ministério dos Negócios Estrangeiros;
 
 Sua Majestade a Rainha dos Países Baixos P. J. Ymkers, conselheiro, Representação Permanente dos Países Baixos junto da União Europeia;
 
-**O Presidente Federal da República da Áustria Gregor Woschnagg, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;**
+O Presidente Federal da República da Áustria Gregor Woschnagg, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;
 
-**O Presidente da República da Polónia San Truszcynski, Secretário de Estado, Ministério dos Negócios Estrangeiros;**
+O Presidente da República da Polónia San Truszcynski, Secretário de Estado, Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República Portuguesa João Gomes Cravinho, Secretário de Estado dos Negócios Estrangeiros e da Cooperação;**
+O Presidente da República Portuguesa João Gomes Cravinho, Secretário de Estado dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República da Eslovénia Marjan ?etinc, embaixador, coordenador do Departamento de Cooperação para o Desenvolvimento e Assistência Humanitária, Ministério dos Negócios Estrangeiros;**
+O Presidente da República da Eslovénia Marjan ?etinc, embaixador, coordenador do Departamento de Cooperação para o Desenvolvimento e Assistência Humanitária, Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República da Eslováquia Maro? ?eef?ovi?, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;**
+O Presidente da República da Eslováquia Maro? ?eef?ovi?, embaixador extraordinário e plenipotenciário, representante permanente junto da União Europeia;
 
-**A Presidente da República da Finlândia Ritva Jolkosen, directora-geral, Ministério dos Negócios Estrangeiros;**
+A Presidente da República da Finlândia Ritva Jolkosen, directora-geral, Ministério dos Negócios Estrangeiros;
 
 O Governo do Reino da Suécia Agneta Söderman, embaixadora acreditada no Luxemburgo;
 
@@ -177,103 +191,103 @@ Sua Majestade a Rainha do Reino Unido da Grã-Bretanha e Irlanda do Norte Gareth
 
 A Comunidade Europeia Jean-Louis Schiltz, Ministro da Cooperação e da Acção Humanitária, Ministro Delegado das Comunicações, Presidente em exercício do Conselho da UE, e Louis Michel, comissário;
 
-**O Presidente da República de Angola Ana Dias Lourenço, Ministra do Plano;**
+O Presidente da República de Angola Ana Dias Lourenço, Ministra do Plano;
 
 Sua Majestade a Rainha da Antígua e Barbuda Carl Roberts, Alto Comissário de Antígua e Barbuda no Reino Unido;
 
-**O Chefe de Estado da Commonwealth das Bahamas Errol Leroy Humphreys, embaixador;**
+O Chefe de Estado da Commonwealth das Bahamas Errol Leroy Humphreys, embaixador;
 
-**O Chefe de Estado de Barbados Billie Miller, Ministra de Estado e Ministra dos Negócios Estrangeiros e do Comércio Externo;**
+O Chefe de Estado de Barbados Billie Miller, Ministra de Estado e Ministra dos Negócios Estrangeiros e do Comércio Externo;
 
 Sua Majestade a Rainha de Belize Yvonne Hyde, embaixadora;
 
-**O Presidente da República do Benim Massiyatou Latoundji Lauriano, Ministra da Indústria, do Comércio e da Promoção do Emprego;**
+O Presidente da República do Benim Massiyatou Latoundji Lauriano, Ministra da Indústria, do Comércio e da Promoção do Emprego;
 
-**O Presidente da República do Botsuana Mompati Merafhe, Ministro dos Negócios Estrangeiros e da Cooperação Internacional;**
+O Presidente da República do Botsuana Mompati Merafhe, Ministro dos Negócios Estrangeiros e da Cooperação Internacional;
 
-**O Presidente do Burquina Faso Jean-Baptiste Marie Pascal Compaore, Ministro das Finanças e do Orçamento;**
+O Presidente do Burquina Faso Jean-Baptiste Marie Pascal Compaore, Ministro das Finanças e do Orçamento;
 
-**O Presidente da República do Burundi Thomas Minani, Ministro do Comércio e da Indústria;**
+O Presidente da República do Burundi Thomas Minani, Ministro do Comércio e da Indústria;
 
-**O Presidente da República dos Camarões Isabelle Bassong, embaixadora;**
+O Presidente da República dos Camarões Isabelle Bassong, embaixadora;
 
-**O Presidente da República de Cabo Verde Victor Manuel Borges, Ministro dos Negócios Estrangeiros, da Cooperação e das Comunidades, Presidente do Conselho de Ministros ACP;**
+O Presidente da República de Cabo Verde Victor Manuel Borges, Ministro dos Negócios Estrangeiros, da Cooperação e das Comunidades, Presidente do Conselho de Ministros ACP;
 
-**O Presidente da República Centro-Africana Guy Zoungere-Sokambi, embaixador;**
+O Presidente da República Centro-Africana Guy Zoungere-Sokambi, embaixador;
 
-**O Presidente da República Federal Islâmica das Comores Aboudou Soefo, Ministro de Estado, Ministro dos Negócios Estrangeiros e da Cooperação;**
+O Presidente da República Federal Islâmica das Comores Aboudou Soefo, Ministro de Estado, Ministro dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República Democrática do Congo Christian Kabinga Sele, Vice-Ministro da Cooperação Internacional;**
+O Presidente da República Democrática do Congo Christian Kabinga Sele, Vice-Ministro da Cooperação Internacional;
 
-**O Presidente da República do Congo Pierre Moussa, Ministro de Estado do Planeamento, do Desenvolvimento Regional e da Integração Económica Ordenador Nacional;**
+O Presidente da República do Congo Pierre Moussa, Ministro de Estado do Planeamento, do Desenvolvimento Regional e da Integração Económica Ordenador Nacional;
 
 O Governo das Ilhas Cook Todd Mc Clay, embaixador;
 
-**O Presidente da República da Costa do Marfim Amadou Soumahoro, Ministro do Comércio;**
+O Presidente da República da Costa do Marfim Amadou Soumahoro, Ministro do Comércio;
 
-**O Presidente da República de Jibuti Ali Farah Assoweh, Ministro da Economia, das Finanças e do Plano, responsável pela Privatização;**
+O Presidente da República de Jibuti Ali Farah Assoweh, Ministro da Economia, das Finanças e do Plano, responsável pela Privatização;
 
 O Governo da Commonwealth da Dominica George R. E. Bullen, embaixador;
 
-**O Presidente da República Dominicana Onofre Rojas, Secretário de Estado, Ordenador Nacional;**
+O Presidente da República Dominicana Onofre Rojas, Secretário de Estado, Ordenador Nacional;
 
-**O Presidente do Estado da Eritreia Andebrhan Weldegiorgis, embaixador;**
+O Presidente do Estado da Eritreia Andebrhan Weldegiorgis, embaixador;
 
-**O Presidente da República Federal Democrática da Etiópia Sufina Ahmed, Ministro das Finanças e do Desenvolvimento Económico;**
+O Presidente da República Federal Democrática da Etiópia Sufina Ahmed, Ministro das Finanças e do Desenvolvimento Económico;
 
-**O Presidente da República Soberana Democrática de Fiji Ratu Sercmaia T. Cavuilati, embaixador;**
+O Presidente da República Soberana Democrática de Fiji Ratu Sercmaia T. Cavuilati, embaixador;
 
-**O Presidente da República Gabonesa Casimir Oye Mba, Ministro de Estado, Ministro do Plano e dos Programas de Desenvolvimento, Ordenador Nacional;**
+O Presidente da República Gabonesa Casimir Oye Mba, Ministro de Estado, Ministro do Plano e dos Programas de Desenvolvimento, Ordenador Nacional;
 
-**O Presidente e Chefe de Estado da República da Gâmbia Yusupha Aliou Kah, embaixador;**
+O Presidente e Chefe de Estado da República da Gâmbia Yusupha Aliou Kah, embaixador;
 
-**O Presidente da República do Gana Georg Y. Guyan-Baffour, Vice-Ministro das Finanças e do Planeamento Económico;**
+O Presidente da República do Gana Georg Y. Guyan-Baffour, Vice-Ministro das Finanças e do Planeamento Económico;
 
 Sua Majestade a Rainha de Granada Joan-Marie Coutain, embaixadora;
 
-**O Presidente da República da Guiné El Hadj Thierno Habib Diallo, Ministro da Cooperação;**
+O Presidente da República da Guiné El Hadj Thierno Habib Diallo, Ministro da Cooperação;
 
-**O Presidente da República da Guiné-Bissau Nagib Jahouad, Encarregado de Negócios Interino;**
+O Presidente da República da Guiné-Bissau Nagib Jahouad, Encarregado de Negócios Interino;
 
-**O Presidente da República da Guiné Equatorial Victorino Nka Obiang Maye, embaixador;**
+O Presidente da República da Guiné Equatorial Victorino Nka Obiang Maye, embaixador;
 
-**O Presidente da República da Guiana Patrick Ignatius Gomes, embaixador;**
+O Presidente da República da Guiana Patrick Ignatius Gomes, embaixador;
 
-**O Presidente da República do Haiti Hérard Abraham, Ministro dos Negócios Estrangeiros e dos Cultos;**
+O Presidente da República do Haiti Hérard Abraham, Ministro dos Negócios Estrangeiros e dos Cultos;
 
-**O Chefe de Estado da Jamaica K.D. Knight, Ministro dos Negócios Estrangeiros e do Comércio;**
+O Chefe de Estado da Jamaica K.D. Knight, Ministro dos Negócios Estrangeiros e do Comércio;
 
-**O Presidente da República do Quénia Marx Gad Njuguna Kahende, embaixador;**
+O Presidente da República do Quénia Marx Gad Njuguna Kahende, embaixador;
 
-**O Presidente da República de Quiribati Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;**
+O Presidente da República de Quiribati Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;
 
 Sua Majestade o Rei do Reino do Lesoto Mpho Malie Ministro do Comércio e da Indústria, das Cooperativas e da Comercialização;
 
-**O Presidente da República da Libéria Youngor Sevelee Telewoda, embaixadora;**
+O Presidente da República da Libéria Youngor Sevelee Telewoda, embaixadora;
 
-**O Presidente da República de Madagáscar Sahobisoa Olivier Andrianarison, Ministro da Industrialização, Comércio e do Desenvolvimento do Sector Privado;**
+O Presidente da República de Madagáscar Sahobisoa Olivier Andrianarison, Ministro da Industrialização, Comércio e do Desenvolvimento do Sector Privado;
 
-**O Presidente da República do Malawi Brian Granthen Bowler, embaixador;**
+O Presidente da República do Malawi Brian Granthen Bowler, embaixador;
 
-**O Presidente da República do Mali Moctar Ouane, Ministro dos Negócios Estrangeiros e da Cooperação Internacional;**
+O Presidente da República do Mali Moctar Ouane, Ministro dos Negócios Estrangeiros e da Cooperação Internacional;
 
 O Governo da República das Ilhas Marshall Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;
 
-**O Presidente da República Islâmica da Mauritânia Sidi Ould Didi, Ministro da Economia e do Desenvolvimento;**
+O Presidente da República Islâmica da Mauritânia Sidi Ould Didi, Ministro da Economia e do Desenvolvimento;
 
-**O Presidente da República da Maurícia Sutiawan Gunessee, embaixador;**
+O Presidente da República da Maurícia Sutiawan Gunessee, embaixador;
 
 O Governo dos Estados Federados da Micronésia Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;
 
-**O Presidente da República de Moçambique Henrique Banze, Vice-Ministro dos Negócios Estrangeiros e da Cooperação, Ordenador Nacional;**
+O Presidente da República de Moçambique Henrique Banze, Vice-Ministro dos Negócios Estrangeiros e da Cooperação, Ordenador Nacional;
 
-**O Presidente da República da Namíbia Peter Hitjitevi Katajavivi, embaixador;**
+O Presidente da República da Namíbia Peter Hitjitevi Katajavivi, embaixador;
 
 O Governo da República de Nauru Karl H. Koch, cônsul honorário na Bélgica;
 
-**O Presidente da República do Níger Ali Mahaman Lamine Zeine, Ministro da Economia e Finanças;**
+O Presidente da República do Níger Ali Mahaman Lamine Zeine, Ministro da Economia e Finanças;
 
-**O Presidente da República Federal da Nigéria Clarkson Nwakanma Umelo, embaixador;**
+O Presidente da República Federal da Nigéria Clarkson Nwakanma Umelo, embaixador;
 
 O Governo de Niue Todd Mcclay, embaixador;
 
@@ -281,7 +295,7 @@ O Governo da República de Palau Paul Malin, chefe de unidade, DG Desenvolviment
 
 Sua Majestade a Rainha do Estado Independente da Papuásia-Nova Guiné Rabbie Namaliu Kcmg, Ministro dos Negócios Estrangeiros e da Imigração;
 
-**O Presidente da República Ruandesa Momq Nsanzahagahwa, Ministra responsável pelo Plano Ministério das Finanças;**
+O Presidente da República Ruandesa Momq Nsanzahagahwa, Ministra responsável pelo Plano Ministério das Finanças;
 
 Sua Majestade a Rainha de São Cristóvão e Nevi Timothy Harris, Ministro dos Negócios Estrangeiros e do Comércio Internacional;
 
@@ -289,45 +303,45 @@ Sua Majestade a Rainha de Santa Lúcia George R. E. Bullen, embaixador;
 
 Sua Majestade a Rainha de São Vicente e Granadinas Geroge R. E. Bullen, embaixador;
 
-**O Chefe de Estado do Estado Independente de Samoa Tau?ili?ili Uili Meredith, embaixador;**
+O Chefe de Estado do Estado Independente de Samoa Tau?ili?ili Uili Meredith, embaixador;
 
-**O Presidente da República Democrática de São Tomé e Príncipe Horácio Fernandes da Fonseca Purvis, Encarregado de Negócios Interino;**
+O Presidente da República Democrática de São Tomé e Príncipe Horácio Fernandes da Fonseca Purvis, Encarregado de Negócios Interino;
 
-**O Presidente da República do Senegal Saliou Cisse, embaixador;**
+O Presidente da República do Senegal Saliou Cisse, embaixador;
 
-**O Presidente da República das Seicheles Patrick Pillay, Ministro dos Negócios Estrangeiros;**
+O Presidente da República das Seicheles Patrick Pillay, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Serra Leoa Mohamed B. Daramy, Ministro do Desenvolvimento e do Planeamento Económico;**
+O Presidente da República da Serra Leoa Mohamed B. Daramy, Ministro do Desenvolvimento e do Planeamento Económico;
 
 Sua Majestade a Rainha das Ilhas de Salomão Frederick Fono, Ministro do Planeamento Nacional e Coordenação da Ajuda;
 
-**O Presidente da República da África do Sul Mosibudi Mangena, Ministro da Ciência e da Tecnologia;**
+O Presidente da República da África do Sul Mosibudi Mangena, Ministro da Ciência e da Tecnologia;
 
-**O Presidente da República do Sudão Ali Yousif Ahmed, embaixador;**
+O Presidente da República do Sudão Ali Yousif Ahmed, embaixador;
 
-**O Presidente da República do Suriname Maria E. Levens, Ministra dos Negócios Estrangeiros;**
+O Presidente da República do Suriname Maria E. Levens, Ministra dos Negócios Estrangeiros;
 
 Sua Majestade o Rei do Reino da Suazilândia Clifford Sibusiso Mamba, Secretário Principal Mini o dos Negócios Estrangeiros e do Comercio;
 
-**O Presidente da República Unida da Tanzânia Festus B. Limbu, Vice-Ministro das Finanças;**
+O Presidente da República Unida da Tanzânia Festus B. Limbu, Vice-Ministro das Finanças;
 
-**O Presidente da República do Chade Abderahim Yacoub Ndiaye, embaixador;**
+O Presidente da República do Chade Abderahim Yacoub Ndiaye, embaixador;
 
 O Governo da República Democrática de Timor-Leste José António Amorim Dias, embaixador, chefe de missão junto da União Europeia;
 
-**O Presidente da República Togolesa Gilbert Bawara, Ministro Delegado junto do Ministro de Estado, Ministério dos Negócios Estrangeiros e da Integração Africana, responsável pela Cooperação;**
+O Presidente da República Togolesa Gilbert Bawara, Ministro Delegado junto do Ministro de Estado, Ministério dos Negócios Estrangeiros e da Integração Africana, responsável pela Cooperação;
 
 Sua Majestade o Rei Taufa?ahau Tupou IV de Tonga Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;
 
-**O Presidente da República de Trindade e Tobago Diane Seukeran, Ministra de Estado, Ministério do Comércio e da Indústria;**
+O Presidente da República de Trindade e Tobago Diane Seukeran, Ministra de Estado, Ministério do Comércio e da Indústria;
 
 Sua Majestade a Rainha de Tuvalu Paul Malin, chefe de unidade, DG Desenvolvimento da Comissão Europeia;
 
-**O Presidente da República do Uganda Deo K. Rwabita, embaixador;**
+O Presidente da República do Uganda Deo K. Rwabita, embaixador;
 
 O Governo da República de Vanuatu Sato Kilman, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Zâmbia Félix Chibota Mutati, Vice-Ministro das Finanças e Planeamento Nacional;**
+O Presidente da República da Zâmbia Félix Chibota Mutati, Vice-Ministro das Finanças e Planeamento Nacional;
 
 O Governo da República do Zimbabué, Gift Punungwe, embaixador;
 
@@ -401,7 +415,9 @@ As Partes reiteram a sua firme condenação de todos os actos de terrorismo e co
 
 - De opiniões sobre os meios e os métodos para combater os actos terroristas, nomeadamente nos domínios técnico e da formação, e de experiências no domínio da prevenção do terrorismo.
 
-###### Artigo 11.º-B — Cooperação na luta contra a proliferação de armas de destruição maciça
+Artigo 11.º-B
+
+Cooperação na luta contra a proliferação de armas de destruição maciça
 
 1 - As Partes consideram que a proliferação de armas de destruição maciça e respectivos vectores, tanto a nível de intervenientes estatais como não estatais, constitui uma das mais graves ameaças à estabilidade e segurança internacionais.
 
@@ -605,7 +621,9 @@ Relatório anual sobre a Facilidade de Investimento
 
 Os representantes dos Estados membros da UE responsáveis pela Facilidade de Investimento, os representantes dos Estados ACI, assim como o Banco Europeu de Investimento, a Comissão Europeia, o Secretariado do Conselho da UE e o Secretariado ACP, reunir-se-ão anualmente para discutirem operações, os resultados e as questões de políticas relacionados com a Facilidade de Investimento.
 
-###### Artigo 6.º-B — Avaliação dos resultados da Facilidade de Investimento
+Artigo 6.º-B
+
+Avaliação dos resultados da Facilidade de Investimento
 
 Os resultados globais da Facilidade de Investimento serão objecto de uma avaliação conjunta intercalar e no final de um protocolo financeiro. Este tipo de exercício poderá incluir recomendações sobre o modo de melhorar a implementação da Facilidade.»
 
@@ -841,7 +859,9 @@ a) Uma acção destinada a promover a realização de um objectivo que se inscre
 
 b) Ou o funcionamento de um organismo que prossiga esse objectivo. As subvenções serão objecto de um contrato escrito.
 
-###### Artigo 19.º-B — Concurso com ?cláusula suspensiva?
+Artigo 19.º-B
+
+Concurso com ?cláusula suspensiva?
 
 A fim de assegurar um arranque rápido dos projectos, os Estados ACP podem, em todos os casos devidamente justificados e de acordo com a Comissão, uma vez concluída a instrução do projecto e antes de ser tomada a decisão de financiamento, abrir concursos com uma cláusula suspensiva para todos os tipos de contratos. A presente disposição deverá ser mencionada na proposta de financiamento.»
 
@@ -1053,7 +1073,9 @@ Pagamentos
 
 Diálogo político sobre direitos humanos, princípios democráticos e Estado de direito
 
-###### Artigo 1.º — Objectivos
+Artigo 1.º
+
+Objectivos
 
 1 - As consultas previstas na alínea a) do n.º 2 do artigo 96.º têm lugar, excepto em caso de especial urgência, após um diálogo político exaustivo, em conformidade com o previsto no artigo 8.º e no n.º 4 do artigo 9.º do Acordo.
 
@@ -1061,7 +1083,9 @@ Diálogo político sobre direitos humanos, princípios democráticos e Estado de
 
 3 - O diálogo político é um processo destinado a contribuir para o reforço das relações ACP-UE e para a realização dos objectivos da parceria.
 
-###### Artigo 2.º — Intensificação do diálogo político antes do recurso às consultas previstas no artigo 9.º do Acordo
+Artigo 2.º
+
+Intensificação do diálogo político antes do recurso às consultas previstas no artigo 9.º do Acordo
 
 1 - O diálogo político sobre o respeito pelos direitos humanos, os princípios democráticos e o Estado de Direito deve ser conduzido em conformidade com o artigo 8.º e o n.º 4 do artigo 9.º do Acordo e de acordo com os parâmetros das normas reconhecidas internacionalmente. No âmbito deste diálogo as Partes podem definir agendas e prioridades comuns.
 
@@ -1073,7 +1097,9 @@ Diálogo político sobre direitos humanos, princípios democráticos e Estado de
 
 5 - O diálogo político previsto no artigo 8.º do Acordo deve ser igualmente utilizado entre as Partes para ajudar os países submetidos a medidas apropriadas, adoptadas em conformidade com o artigo 96.º do Acordo, a normalizarem as relações.
 
-###### Artigo 3.º — Regras adicionais relativas às consultas previstas no artigo 6.º do Acordo
+Artigo 3.º
+
+Regras adicionais relativas às consultas previstas no artigo 6.º do Acordo
 
 1 - As Partes devem envidar todos os esforços para incentivar a igualdade a nível da representação durante as consultas realizadas no âmbito do artigo 96.º do Acordo.
 
@@ -1087,7 +1113,7 @@ Diálogo político sobre direitos humanos, princípios democráticos e Estado de
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)
 
 Acta Final
 
@@ -1095,49 +1121,49 @@ Os plenipotenciários de:
 
 Sua Majestade o Rei dos Belgas;
 
-**O Presidente da República Checa;**
+O Presidente da República Checa;
 
 Sua Majestade a Rainha da Dinamarca;
 
-**O Presidente da República Federal da Alemanha;**
+O Presidente da República Federal da Alemanha;
 
-**O Presidente da República da Estónia;**
+O Presidente da República da Estónia;
 
-**O Presidente da República Helénica;**
+O Presidente da República Helénica;
 
 Sua Majestade o Rei de Espanha;
 
-**O Presidente da Republica Francesa;**
+O Presidente da Republica Francesa;
 
-**O Presidente da Irlanda;**
+O Presidente da Irlanda;
 
-**O Presidente da República Italiana;**
+O Presidente da República Italiana;
 
-**O Presidente da República de Chipre;**
+O Presidente da República de Chipre;
 
-**O Presidente da República da Letónia;**
+O Presidente da República da Letónia;
 
-**O Presidente da República da Lituânia;**
+O Presidente da República da Lituânia;
 
 Sua Alteza Real o Grão-Duque do Luxemburgo;
 
-**O Presidente da República da Hungria;**
+O Presidente da República da Hungria;
 
-**O Presidente de Malta;**
+O Presidente de Malta;
 
 Sua Majestade a Rainha dos Países Baixos;
 
-**O Presidente Federal da Republica da Áustria;**
+O Presidente Federal da Republica da Áustria;
 
-**O Presidente da República da Polónia;**
+O Presidente da República da Polónia;
 
-**O Presidente da Republica Portuguesa;**
+O Presidente da Republica Portuguesa;
 
-**O Presidente da República da Eslovénia;**
+O Presidente da República da Eslovénia;
 
-**O Presidente da República da Eslováquia;**
+O Presidente da República da Eslováquia;
 
-**O Presidente da República da Finlândia;**
+O Presidente da República da Finlândia;
 
 O Governo do Reino da Suécia;
 
@@ -1145,103 +1171,103 @@ Sua Majestade a Rainha do Reino Unido da Grã-Bertanha e da Irlanda do Norte;
 
 Partes Contratantes no Tratado que institui a Comunidade Europeia, a seguir designada «Comunidade», sendo os Estados membros da Comunidade a seguir designados «Estados membros», e a Comunidade Europeia, por um lado, e os plenipotenciários de:
 
-**O Presidente da República de Angola;**
+O Presidente da República de Angola;
 
 Sua Majestade a Rainha de Antígua e Barbuda;
 
-**O Chefe de Estado da Commonwealth das Baamas;**
+O Chefe de Estado da Commonwealth das Baamas;
 
-**O Chefe de Estado de Barbados;**
+O Chefe de Estado de Barbados;
 
 Sua Majestade a Rainha de Belize;
 
-**O Presidente da República do Benim;**
+O Presidente da República do Benim;
 
-**O Presidente da República do Botsuana;**
+O Presidente da República do Botsuana;
 
-**O Presidente do Burquina Faso;**
+O Presidente do Burquina Faso;
 
-**O Presidente da República do Burundi;**
+O Presidente da República do Burundi;
 
-**O Presidente da República dos Camarões;**
+O Presidente da República dos Camarões;
 
-**O Presidente da República de Cabo Verde;**
+O Presidente da República de Cabo Verde;
 
-**O Presidente da República Centro-Africana;**
+O Presidente da República Centro-Africana;
 
-**O Presidente da República Federal Islâmica das Comores;**
+O Presidente da República Federal Islâmica das Comores;
 
-**O Presidente da República Democrática do Congo;**
+O Presidente da República Democrática do Congo;
 
-**O Presidente da República do Congo;**
+O Presidente da República do Congo;
 
 O Governo das Ilhas Cook;
 
-**O Presidente da República de Cóte d?Ivoire;**
+O Presidente da República de Cóte d?Ivoire;
 
-**O Presidente da República de Jibuti;**
+O Presidente da República de Jibuti;
 
 O Governo da Commonwealth da Domínica;
 
-**O Presidente da República Dominicana;**
+O Presidente da República Dominicana;
 
-**O Presidente do Estado da Eritreia;**
+O Presidente do Estado da Eritreia;
 
-**O Presidente da República Federal Democrática da Etiópia;**
+O Presidente da República Federal Democrática da Etiópia;
 
-**O Presidente da República Soberana Democrática de Fiji;**
+O Presidente da República Soberana Democrática de Fiji;
 
-**O Presidente da República Gabonesa;**
+O Presidente da República Gabonesa;
 
-**O Presidente e Chefe de Estado da República da Gâmbia;**
+O Presidente e Chefe de Estado da República da Gâmbia;
 
-**O Presidente da República do Gana;**
+O Presidente da República do Gana;
 
 Sua Majestade a Rainha de Granada;
 
-**O Presidente da República da Guiné;**
+O Presidente da República da Guiné;
 
-**O Presidente da República da Guiné-Bissau;**
+O Presidente da República da Guiné-Bissau;
 
-**O Presidente da República da Guiné Equatorial;**
+O Presidente da República da Guiné Equatorial;
 
-**O Presidente da República da Guiana;**
+O Presidente da República da Guiana;
 
-**O Presidente da República do Haiti;**
+O Presidente da República do Haiti;
 
-**O Chefe de Estado da Jamaica;**
+O Chefe de Estado da Jamaica;
 
-**O Presidente da República do Quénia;**
+O Presidente da República do Quénia;
 
-**O Presidente da República de Quiribati;**
+O Presidente da República de Quiribati;
 
 Sua Majestade o Rei do Reino do Lesoto;
 
-**O Presidente da República da Libéria;**
+O Presidente da República da Libéria;
 
-**O Presidente da Republica de Madagáscar;**
+O Presidente da Republica de Madagáscar;
 
-**O Presidente da República do Malaui;**
+O Presidente da República do Malaui;
 
-**O Presidente da República do Mali;**
+O Presidente da República do Mali;
 
 O Governo das Ilhas Marshall;
 
-**O Presidente da República Islâmica da Mauritânia;**
+O Presidente da República Islâmica da Mauritânia;
 
-**O Presidente da República da Maurícia;**
+O Presidente da República da Maurícia;
 
 O Governo dos Estados Federados da Micronésia;
 
-**O Presidente da República de Moçambique;**
+O Presidente da República de Moçambique;
 
-**O Presidente da República da Namíbia;**
+O Presidente da República da Namíbia;
 
 Governo da República de Nauru;
 
-**O Presidente da República do Níger;**
+O Presidente da República do Níger;
 
-**O Chefe de Estado da República Federal da Nigéria;**
+O Chefe de Estado da República Federal da Nigéria;
 
 O Governo de Niue;
 
@@ -1249,7 +1275,7 @@ O Governo da República de Palau;
 
 Sua Majestade a Rainha do Estado Independente da Papuásia-Nova Guiné;
 
-**O Presidente da República Ruandesa;**
+O Presidente da República Ruandesa;
 
 Sua Majestade a Rainha de São Cristóvão e Nevis;
 
@@ -1257,45 +1283,45 @@ Sua Majestade a Rainha de Santa Lúcia;
 
 Sua Majestade a Rainha de São Vicente e Granadinas;
 
-**O Chefe de Estado do Estado Independente de Samoa;**
+O Chefe de Estado do Estado Independente de Samoa;
 
-**O Presidente da República Democrática de São Tomé e Príncipe;**
+O Presidente da República Democrática de São Tomé e Príncipe;
 
-**O Presidente da República do Senegal;**
+O Presidente da República do Senegal;
 
-**O Presidente da República das Seicheles;**
+O Presidente da República das Seicheles;
 
-**O Presidente da República da Serra Leoa;**
+O Presidente da República da Serra Leoa;
 
 Sua Majestade a Rainha das Ilhas Salomão;
 
-**O Presidente da República da África do Sul;**
+O Presidente da República da África do Sul;
 
-**O Presidente da República do Sudão;**
+O Presidente da República do Sudão;
 
-**O Presidente da República do Suriname;**
+O Presidente da República do Suriname;
 
 Sua Majestade o Rei do Reino da Suazilândia;
 
-**O Presidente da República Unida da Tanzânia;**
+O Presidente da República Unida da Tanzânia;
 
-**O Presidente da República do Chade;**
+O Presidente da República do Chade;
 
 O Governo da República Democrática de Timor-Leste;
 
-**O Presidente da República Togolesa;**
+O Presidente da República Togolesa;
 
 Sua Majestade o Rei Taufa?Ahau Tupou IV de Tonga;
 
-**O Presidente da República da Trindade e Tobago;**
+O Presidente da República da Trindade e Tobago;
 
 Sua Majestade a Rainha de Tuvalu;
 
-**O Presidente da República do Uganda;**
+O Presidente da República do Uganda;
 
 O Governo da República de Vanuatu;
 
-**O Presidente da República da Zâmbia;**
+O Presidente da República da Zâmbia;
 
 O Governo da República do Zimbabué;
 
@@ -1343,7 +1369,7 @@ Declaração XX - Declaração da Comunidade relativa ao artigo 1.º do anexo vi
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final da presente Acta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)
 
 Declaração I
 
@@ -1469,4 +1495,4 @@ Declaração da comunidade relativa ao artigo do anexo vii
 
 No que respeita às regras estabelecidas no artigo 3.º do anexo vii, a posição a adoptar pelo Conselho da União Europeia no âmbito do Conselho de Ministros terá por base uma proposta da Comissão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22500/0858608619.pdf)

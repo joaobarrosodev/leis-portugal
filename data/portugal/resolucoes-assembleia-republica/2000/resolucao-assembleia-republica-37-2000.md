@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/2000/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-2000-530270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a90d5f1d090e3ee444733ad0f9dbe368140fd800a2b2ef3145f4c933497e66d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f9fc1a15bec15e4964d1e0d8573128e8cb0ffc3232301d431d7b1c96d4112c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
 - Convenção
-- Portugal
 - Madrid
+- Países Ibero-Americanos
+- Portugal
 - Segurança Social
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:530269:por
+  label: "Ratificado o Código aprovado para ratificação pelo presente diploma pelo DEC.24/2000.2000.04.13.PR,DR.IS-A [88]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/24-2000-530269
+  date: '2000-04-13'
 article_structure:
   article_count: 132
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:20Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +144,11 @@ d) Às prestações pecuniárias e auxílios por desemprego, aceita o terceiro n
 
 Aprovada em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CÓDIGO IBERO-AMERICANO DE SEGURANÇA SOCIAL
 
-# PARTE PRIMEIRA — Princípios fundamentais
+## PARTE PRIMEIRA — Princípios fundamentais
 
 ###### Artigo 1.º
 
@@ -292,7 +298,7 @@ De igual modo, concordam na utilidade de serem adoptadas em comum as medidas nec
 
 2 - Com essa finalidade, o capítulo I da parte terceira institui os procedimentos e órgãos adequados para o controlo da aplicação do Código pelos Estados que o ratificarem e atribui funções de apoio a organizações internacionais especializadas.
 
-# PARTE SEGUNDA — Norma mínima de segurança social
+## PARTE SEGUNDA — Norma mínima de segurança social
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1084,7 +1090,7 @@ Na medida em que o permitam as disponibilidades económicas e em conformidade co
 
 Quando, no quadro dos programas de serviços sociais, se tenham estabelecido centros ou residências em favor de determinadas categorias de pessoas, podem, conforme o previsto na legislação e nas práticas nacionais, ser fixadas comparticipações pecuniárias a cargo das pessoas beneficiárias dos referidos centros ou residências.
 
-# PARTE TERCEIRA — Normas de aplicação do Código
+## PARTE TERCEIRA — Normas de aplicação do Código
 
 ### CAPÍTULO I — Procedimentos e órgãos de controlo
 

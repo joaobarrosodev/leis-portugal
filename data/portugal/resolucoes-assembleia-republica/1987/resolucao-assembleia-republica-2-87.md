@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 25/1987, 1º Suplemento, Série I de 1987-01-30
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 392-(1) a 392-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02501/00010006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/2-1987-272590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 417c183034d8f36df1affbafd575f355c2ead5f9d2685426c3094a6e2b39efb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484246ff29f66c80e180c6420ccb4a59fd2ca4dd3e457c0a9bd6f861178b054a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Convenção
+- Inmarsat
+- Londres
+- Portugal
+- Satélite
+relationships:
+- type: cites
+  target: pt:dre:382023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678444:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:01Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 30 de Janeiro de 1987.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 Amendments to the Convention on the International Maritime Satellite Organization (INMARSAT)
 
@@ -316,9 +330,7 @@ O parágrafo 1) do artigo 35.º é substituído pelo texto seguinte:
 
 Emendas ao Acordo de Exploração da Organização Internacional de Satélites Marítimos (INMARSAT)
 
-ARTIGO V
-
-Quotas-partes de investimento
+###### ARTIGO V — Quotas-partes de investimento
 
 O parágrafo 2) do artigo V é substituído pelo texto seguinte:
 
@@ -326,17 +338,13 @@ O parágrafo 2) do artigo V é substituído pelo texto seguinte:
 
 A parte correspondente ao navio ou aeronave onde o tráfego é originado ou ao qual se destina será atribuída ao Signatário designado pela Parte sob cuja autoridade o navio ou a aeronave opera. A parte correspondente à zona terrestre onde o tráfego é originado ou à qual se destina será atribuída ao Signatário designado pela Parte em cujo território o tráfego é originado ou ao qual se destina. Contudo, quando, para qualquer Signatário, a relação entre as partes correspondentes ao navio e aeronave e as partes correspondentes à zona terrestre for superior a 20:1, ao referido Signatário será atribuída, se o tiver solicitado previamente ao Conselho, uma utilização correspondente ao dobro da parte correspondente à zona terrestre ou a uma quota-parte de investimento de 0,1%, se esta representar um valor superior. Para os fins do presente parágrafo, serão consideradas navios as estruturas que operem no meio marítimo para as quais o Conselho tenha autorizado o acesso ao segmento espacial INMARSAT.
 
-ARTIGO XIV
-
-Aprovação de estações terrenas
+###### ARTIGO XIV — Aprovação de estações terrenas
 
 O parágrafo 2) do artigo XIV é substitudo pelo texto seguinte:
 
 2) Qualquer pedido para essa aprovação deverá ser submetido à Organização pelo Signatário designado pela Parte em cujo território a estação terrena esteja ou venha a estar localizada, ou pela Parte ou pelo Signatário designado pela Parte sob cuja autoridade a estação terrena situada num navio, numa aeronave ou numa estrutura que opere no meio marítimo esteja licenciada ou, no caso de estações terrenas situadas num território, num navio, numa aeronave ou numa estrutura que opere no meio marítimo fora da jurisdição de uma Parte, por uma entidade de telecomunicações autorizada.
 
-ARTIGO XIX
-
-Depositário
+###### ARTIGO XIX — Depositário
 
 O parágrafo 1) do artigo XIX é substituído pelo texto seguinte:
 

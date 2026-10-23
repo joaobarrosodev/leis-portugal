@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/61/1994/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/61-1994-625070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46c4e1612e06ab384f78802edbd7977185235365493fb76d1903f31568fbc50e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 349f133e2c0ef62a220a4b43fbde4c14dd8b6dc0043349fa9f75b220a5499934
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Convenção
-- Portugal
 - Espanha
 - Expulsão de Estrangeiros
-- Admissão de Estrangeiros
+- Portugal
 relationships: []
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:59Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +95,17 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 7 de Julho de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-**Assinada em 7 de Outubro de 1994.**
+Assinada em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendada em 10 de Outubro de 1994.**
+Referendada em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 
@@ -247,10 +247,10 @@ Feito em Granada, em 15 de Fevereiro de 1993, em dois exemplares, em português 
 
 Pela República Portuguesa:
 
-**O Ministro da Administração Interna de Portugal, Manuel Joaquim Dias Loureiro.**
+O Ministro da Administração Interna de Portugal, Manuel Joaquim Dias Loureiro.
 
 Pelo Reino de Espanha:
 
-**O Ministro do Interior de Espanha, José Luís Corcuera Cuesta.**
+O Ministro do Interior de Espanha, José Luís Corcuera Cuesta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/249a00/64626467.pdf))](https://files.diariodarepublica.pt/1s/1994/10/249a00/64626467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/249a00/64626467.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/054b00/11791182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/144/1992/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-1992-168626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c5d718d1304428038dc505fa1d2258ce41a46446595ba9a279557e1dc05afa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f52eaf67723f0a196d66827e476e904d1bb0b78afd4b9de609ca722115adcfd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - CEE
+- Comércio
 - Controlo Sanitário
 - Gado Bovino
 - Importação
-- Reprodução Animal
 - Política Agrícola Comum
-- Comércio
+- Produção Animal
+- Reprodução Animal
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297815:por
+  label: Alterados os n.ºs 2.º, 3.º, 4.º, 15.º e 17.º e a epígrafe do anexo D, aditados os n.ºs 9.º-A, 14.º-A E 15.º-A e os
+    anexos E e F e revogados os n.ºs 18.º a 23.º pelo(a) Portaria n.º 685/94 - Diário da República n.º 168/1994, Série I-B
+    de 1994-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/685-1994-297815
+  date: '1994-07-22'
 - type: cites
   target: celex:31989L0556
   label: null
   source: http://data.europa.eu/eli/dir/1989/556/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:48Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +229,7 @@ d) O certificado sanitário que acompanha os embriões não corresponde às cond
 
 Ministério da Agricultura.
 
-**Assinada em 4 de Janeiro de 1992.**
+Assinada em 4 de Janeiro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 

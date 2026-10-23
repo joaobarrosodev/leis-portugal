@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 168/1988, 3º Suplemento, Série I de 1988-07-22
   number: '168'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2972-(8) a 2972-(48)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16803/00080048.pdf
 entry_into_force_dates: []
@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/13-a-1988-404967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 532d947864350434640a75896d8ce5509a0a8758c105ff1b6373ecf0455aceba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cea511c72c9b854c299a340d53e2ba20f0d21caeaccca034e836f209f5066980
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Regimento
+relationships:
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:356478:por
+  label: Rectificada pela DECL.DD4129.1988.10.10.AR DR.IS [289] DE 16/DEZ/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-356478
+  date: '1988-10-10'
 article_structure:
-  article_count: 302
-  section_count: 76
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:27Z'
   warnings: []
   errors: []
 ---
@@ -534,23 +549,23 @@ A numeração dos artigos 155.º a 223.º é avançada de cinco unidades.
 
 4 - Tendo lugar sucessivamente várias votações finais globais, a declaração de voto oral a que se refere o número anterior só será produzida no termo dessas votações, podendo incidir sobre todas ou algumas delas, mas sem exceder o tempo limite de três minutos, se referente a uma só votação, ou de seis minutos, se referente a mais de uma votação.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 No artigo 160.º, que passa a artigo 165.º, n.º 2, é eliminada a expressão «ou agrupamento parlamentar».
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 1 - No artigo 165.º, que passa a artigo 170.º, é eliminado o n.º 2.
 
 2 - No n.º 1, é eliminado o algarismo «1».
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 1 - No artigo 171.º, que passa a artigo 176.º, é eliminado o n.º 2.
 
 2 - No n.º 1, é eliminado o algarismo «1».
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 1 - No artigo 175.º, que passa a artigo 180.º, n.º 2, é eliminada a expressão «ou agrupamento parlamentar».
 
@@ -562,7 +577,7 @@ No artigo 160.º, que passa a artigo 165.º, n.º 2, é eliminada a expressão �
 
 4 - O n.º 4 passa a n.º 5.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 1 - No artigo 185.º, que passa a artigo 190.º, n.º 2, é eliminada a expressão «ou agrupamento parlamentar pelo tempo máximo de trinta minutos cada um».
 
@@ -574,25 +589,25 @@ No artigo 160.º, que passa a artigo 165.º, n.º 2, é eliminada a expressão �
 
 4 - O n.º 4 passa a n.º 5.
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 No artigo 191.º, que passa a artigo 196.º, é eliminada a alínea c).
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 No artigo 198.º, que passa a artigo 203.º, o n.º 2 é substituído por:
 
 2 - Salvo deliberação da Assembleia, o decreto-lei aprovado na generalidade, bem como as respectivas propostas de alteração, baixam à comissão competente para se proceder à discussão e votação na especialidade no prazo máximo de cinco dias, se outro não for fixado pelo Plenário.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 No artigo 200.º, que passa a artigo 205.º, n.º 2, a expressão «Comissão de Negócios Estrangeiros e Emigração» é substituída por «comissão competente em razão da matéria».
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 No artigo 205.º, que passa a artigo 210.º, n.º 4, é eliminada a expressão «ou agrupamento parlamentar».
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 1 - No artigo 208.º, que passa a artigo 213.º, n.º 1, é eliminada a expressão «e agrupamentos parlamentares».
 
@@ -600,13 +615,13 @@ No artigo 205.º, que passa a artigo 210.º, n.º 4, é eliminada a expressão �
 
 2 - As propostas são igualmente remetidas à comissão competente em razão da matéria e às restantes comissões especializadas permanentes para efeitos de elaboração de parecer.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 1 - No artigo 209.º, que passa a artigo 214.º, n.º 1, a expressão «Comissão de Economia, Finanças e Plano» é substituída por «comissão competente em razão da matéria».
 
 2 - No n.º 2, a expressão «Comissão de Economia, Finanças e Plano» é substituída por «referida comissão».
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 1 - No artigo 211.º, que passa a artigo 216.º, n.º 3, é eliminada a expressão «e agrupamento parlamentar».
 
@@ -614,7 +629,7 @@ No artigo 205.º, que passa a artigo 210.º, n.º 4, é eliminada a expressão �
 
 4 - Durante o debate as reuniões não têm período de antes da ordem do dia.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 1 - No artigo 213.º, que passa a artigo 218.º, são eliminados os n.os 1 e 2.
 
@@ -630,37 +645,37 @@ No artigo 205.º, que passa a artigo 210.º, n.º 4, é eliminada a expressão �
 
 5 - Os n.os 3, 4 e 5 passam a n.os 1, 2 e 3.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 No artigo 215.º, que passa a artigo 220.º, a expressão «Comissão de Economia, Finanças e Plano» é substituída por «comissão competente em razão da matéria».
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 No artigo 218.º, que passa a artigo 223.º, n.º 2, a expressão «Comissão de Economia, Finanças e Plano compete» é substituída por «comissão formalmente competente cabe».
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 No artigo 219.º, que passa a artigo 224.º, a expressão «da Comissão de Economia, Finanças e Plano» é substituída por «mencionados no artigo anterior».
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 No artigo 222.º, que passa a artigo 227.º, n.º 2, é eliminada a expressão «e partidos, sendo de quinze minutos por cada grupo ou partido, a que o Governo poderá responder por período não superior a uma hora».
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 No artigo 223.º, que passa a artigo 228.º, o n.º 4 é substituído por:
 
 4 - O debate termina com as intervenções de um Deputado de cada grupo parlamentar e do Primeiro-Ministro, que o encerra.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 O artigo 224.º é eliminado.
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 A numeração dos artigos 225.º e 233.º é avançada de quatro unidades.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 1 - No artigo 227.º, que passa a artigo 231.º, n.º 1, é aditada a expressão «e durante ele as reuniões da Assembleia não têm período de antes da ordem do dia».
 
@@ -670,17 +685,17 @@ A numeração dos artigos 225.º e 233.º é avançada de quatro unidades.
 
 3 - O n.º 3 passa a n.º 4.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 No artigo 228.º, que passa a artigo 232.º, n,º 1, é eliminada a expressão «ou grupo parlamentar».
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 1 - No artigo 229.º, que passa a artigo 233.º, é eliminado o n.º 2.
 
 2 - No n.º 1 é eliminado o algarismo «1».
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 1 - No artigo 230.º, que passa o artigo 234.º, n.º 1, é aditada, in fine, a expressão «e durante ele as reuniões da Assembleia não têm período de antes da ordem do dia».
 
@@ -688,11 +703,13 @@ No artigo 228.º, que passa a artigo 232.º, n,º 1, é eliminada a expressão �
 
 3 - No n.º 3, é eliminada a expressão «por períodos de uma hora e meia, respectivamente».
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 O artigo 232.º, passa a artigo 236.º e é substituído por:
 
-###### Artigo 236.º — (Perguntas ao Governo)
+Artigo 236.º
+
+(Perguntas ao Governo)
 
 1 - Em reuniões plenárias, para o efeito marcadas, os Deputados podem formular oralmente perguntas aos membros do Governo.
 
@@ -700,17 +717,19 @@ O artigo 232.º, passa a artigo 236.º e é substituído por:
 
 3 - Indicado o objecto das perguntas, o Presidente manda distribuir imediatamente cópia a todos os grupos parlamentares e publicar o seu teor no Diário.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 No artigo 233.º, que passa a artigo 237.º, n.º 1, é aditada expressão «que não têm período de antes da ordem do dia».
 
-###### ARTIGO 89.º — É eliminado o artigo 234.º
+ARTIGO 89.º
 
-###### ARTIGO 90.º
+É eliminado o artigo 234.º
+
+ARTIGO 90.º
 
 A numeração dos artigos 235.º a 236.º é avançada de três unidades.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 O artigo 235.º passa a artigo 238.º e é substituído por:
 
@@ -720,7 +739,7 @@ O artigo 235.º passa a artigo 238.º e é substituído por:
 
 3 - O Governo escolhe as matérias a que responde, dando indicação da sua escolha e dos membros do Governo encarregados de responder, até à sessão anterior àquela que se realiza a das perguntas.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 1 - No artigo 236.º, que passa a artigo 239.º, a epígrafe é substituída por:
 
@@ -734,15 +753,19 @@ Uso da palavra
 
 5 - Pode ser estabelecido o regime de tempo global, adoptando-se com as necessárias adaptações as respectivas regras.
 
-###### ARTIGO 93.º — É eliminado o artigo 237.º
+ARTIGO 93.º
 
-###### ARTIGO 94.º — É eliminado o artigo 238.º
+É eliminado o artigo 237.º
 
-###### ARTIGO 95.º
+ARTIGO 94.º
+
+É eliminado o artigo 238.º
+
+ARTIGO 95.º
 
 A numeração dos artigos 239.º e seguintes é avançada de uma unidade.
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 O artigo 240.º passa a artigo 241.º e é substituído por:
 
@@ -754,63 +777,65 @@ O artigo 240.º passa a artigo 241.º e é substituído por:
 
 4 - O debate termina com as intervenções de um Deputado do grupo parlamentar interpelante e de um membro do Governo, que o encerra.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 No artigo 246.º, que passa a artigo 247.º, n.º 1, é eliminada a expressão «em razão da matéria».
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 1 - No artigo 249.º, que passa a artigo 250.º, n.º 1, alínea b), a expressão «as comissões» é substituída por «a comissão competente».
 
 2 - No n.º 2, a expressão «as comissões entendam» é substituída por «a comissão competente entenda».
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 No artigo 252.º, que passa a artigo 253.º, n.º 1, alínea a), é eliminada a expressão «e agrupamentos parlamentares».
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 1 - No artigo 253.º, que passa a artigo 254.º, a epígrafe e o n.º 1 são substituídos por:
 
-###### Artigo 254.º — (Apreciação do inquérito parlamentar)
+Artigo 254.º
+
+(Apreciação do inquérito parlamentar)
 
 1 - A Assembleia pronuncia-se sobre o requerimento ou a proposta até ao 30.º dia posterior ao da sua publicação no Diário ou à sua distribuição em folhas avulsas aos grupos parlamentares.
 
 2 - No n.º 2 a palavra «partido» é substituída por «grupo parlamentar».
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 No artigo 285.º, que passa a artigo 259.º, a expressão «Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias» é substituída por «comissão competente em razão da matéria».
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 No artigo 259.º, que passa a artigo 260.º, n.º 3, é aditada a expressão «sendo aplicáveis as regras do artigo 150.º».
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 No artigo 260.º, que passa a artigo 261.º, a expressão «a comissão competente em razão da matéria, aos grupos parlamentares e agrupamentos parlamentares» é substituída por «à comissão competente em razão da matéria e aos grupos parlamentares».
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 No artigo 261.º, que passa a artigo 262.º, é eliminada a expressão «e agrupamentos parlamentares».
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 No artigo 266.º, que passa a artigo 267.º, a expressão «Comissão de Negócios Estrangeiros e Emigração» e substituída por «comissão competente em razão da matéria».
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 No artigo 267.º, que passa a artigo 268.º, a palavra «partido» é substituída por «grupo parlamentar» e é eliminada a expressão «por tempo não superior a 30 minutos, cada um».
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 No artigo 272.º, que passa a artigo 273.º, n.º 1, é aditada a expressão «que não tem período de antes da ordem do dia».
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 No artigo 275.º, que passa a artigo 276.º, a expressão «Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias», é substituída por «comissão competente em razão da matéria».
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 1 - No artigo 285.º, que passa a artigo 286.º, a alínea a) é substituída por:
 
@@ -820,7 +845,7 @@ a) O prazo para exame em comissão é, no máximo, de cinco dias.
 
 3 - A alínea f) passa a alínea b).
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 No artigo 288.º, que passa a artigo 289.º, os n.os 3, 4 e 5 são substituídos por:
 
@@ -830,7 +855,7 @@ No artigo 288.º, que passa a artigo 289.º, os n.os 3, 4 e 5 são substituídos
 
 5 - A resolução de alterações ao Regimento, integrando as que hajam sido aprovadas em comissão, é sujeita a votação final global, a qual deve obter o voto favorável da maioria absoluta dos deputados presentes.
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 1 - O Regimento da Assembleia da República no seu novo texto, com as alterações aprovadas pela presente resolução, entra em vigor no dia imediato ao da sua publicação.
 
@@ -838,23 +863,35 @@ No artigo 288.º, que passa a artigo 289.º, os n.os 3, 4 e 5 são substituídos
 
 Aprovada em 28 de Junho de 1988.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
-## ANEXO — REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
+ANEXO
 
-## TÍTULO I — DEPUTADOS E GRUPOS PARLAMENTARES
+REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
 
-### CAPÍTULO I — DEPUTADOS
+TÍTULO I
 
-#### SECÇÃO I — Mandato
+DEPUTADOS E GRUPOS PARLAMENTARES
 
-###### Artigo 1.º — (Início e termo do mandato)
+CAPÍTULO I
+
+DEPUTADOS
+
+SECÇÃO I
+
+Mandato
+
+Artigo 1.º
+
+(Início e termo do mandato)
 
 1 - O mandato dos Deputados inicia-se com a primeira reunião da Assembleia da República após eleição e cessa com a primeira reunião após as eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.
 
 2 - O preenchimento das vagas que ocorreram na Assembleia, bem como a substituição temporária de Deputados por motivo relevante, são regulados pela lei eleitoral.
 
-###### Artigo 2.º — (Verificação de poderes)
+Artigo 2.º
+
+(Verificação de poderes)
 
 1 - Os poderes dos Deputados são verificados pela Assembleia da República, precedendo parecer da Comissão de Regimentos e Mandatos ou, na sua falta, de uma comissão de verificação de poderes, cuja composição é determinada pelos critérios do artigo 29.º
 
@@ -866,11 +903,15 @@ Aprovada em 28 de Junho de 1988.
 
 5 - O prazo para instrução, no caso de ter havido impugnação, não pode exceder 30 dias, improrrogáveis.
 
-###### Artigo 3.º — (Suspensão, substituição e renúncia)
+Artigo 3.º
+
+(Suspensão, substituição e renúncia)
 
 A suspensão do mandato, a substituição de Deputados e a renúncia ao mandato efectuam-se nos termos do Estatuto dos Deputados e demais legislação aplicável.
 
-###### Artigo 4.º — (Perda do mandato)
+Artigo 4.º
+
+(Perda do mandato)
 
 1 - A perda do mandato verifica-se:
 
@@ -888,9 +929,13 @@ b) Quando o Deputado não tome assento na Assembleia até à quinta reunião ou 
 
 6 - O Plenário delibera sem debate prévio, tendo o Deputado posto em causa o direito de usar da palavra nos termos do artigo 85.º
 
-#### SECÇÃO II — Poderes e deveres dos Deputados
+SECÇÃO II
 
-###### Artigo 5.º — (Poderes dos Deputados)
+Poderes e deveres dos Deputados
+
+Artigo 5.º
+
+(Poderes dos Deputados)
 
 1 - Constituem poderes dos Deputados, a exercer singular ou conjuntamente, nos termos do Regimento, designadamente os seguintes:
 
@@ -928,7 +973,9 @@ b) Desempenhar funções específicas na Assembleia;
 
 c) Propor alterações ao Regimento.
 
-###### Artigo 6.º — (Deveres dos Deputados)
+Artigo 6.º
+
+(Deveres dos Deputados)
 
 1 - Constituem deveres dos Deputados:
 
@@ -946,9 +993,13 @@ f) Contribuir, pela sua diligência, para a eficácia e o prestigio dos trabalho
 
 2 - A justificação das faltas a que se refere a alínea b) do n.º 1 do artigo 4.º deve ser apresentada ao Presidente da Assembleia no prazo de cinco dias a contar do termo do facto justificativo.
 
-### CAPÍTULO II — GRUPOS PARLAMENTARES
+CAPÍTULO II
 
-###### Artigo 7.º — (Constituição)
+GRUPOS PARLAMENTARES
+
+Artigo 7.º
+
+(Constituição)
 
 1 - Os Deputados eleitos por cada partido ou coligação de partidos podem constituir-se em grupo parlamentar.
 
@@ -958,17 +1009,23 @@ f) Contribuir, pela sua diligência, para a eficácia e o prestigio dos trabalho
 
 4 - As comunicações a que se referem os n.os 3 e 4 são publicadas no Diário.
 
-###### Artigo 8.º — (Deputados independentes)
+Artigo 8.º
+
+(Deputados independentes)
 
 Os Deputados que não integrem qualquer grupo parlamentar comunicarão o facto ao Presidente da Assembleia da República, e exercem o seu mandato como independentes.
 
-###### Artigo 9.º — (Organização)
+Artigo 9.º
+
+(Organização)
 
 1 - Cada grupo parlamentar estabelece livremente a sua organização.
 
 2 - As funções de Presidente, de Vice-Presidente ou de membro da Mesa são incompatíveis com as de presidente de grupo parlamentar.
 
-###### Artigo 10.º — (Poderes e direitos dos grupos parlamentares)
+Artigo 10.º
+
+(Poderes e direitos dos grupos parlamentares)
 
 1 - Constituem poderes de cada grupo parlamentar:
 
@@ -994,25 +1051,39 @@ j) Ser informado, regular e directamente, pelo Governo, sobre o andamento dos pr
 
 2 - Cada grupo parlamentar tem direito a dispor de locais de trabalho na sede da Assembleia, bem como de pessoal técnico e administrativo da sua confiança, nos termos que a lei determinar.
 
-###### Artigo 11.º — (Direito dos grupos parlamentares a ser informados pelo Governo)
+Artigo 11.º
+
+(Direito dos grupos parlamentares a ser informados pelo Governo)
 
 O direito previsto na alínea j) do n.º 1 do artigo anterior é exercido nos termos acordados entre o Governo e os grupos parlamentares.
 
-## TÍTULO II — ORGANIZAÇÃO DA ASSEMBLEIA
+TÍTULO II
 
-### CAPÍTULO I — PRESIDENTE E MESA
+ORGANIZAÇÃO DA ASSEMBLEIA
 
-#### SECÇÃO I — Presidente
+CAPÍTULO I
 
-##### DIVISÃO I — Estatuto e eleição
+PRESIDENTE E MESA
 
-###### Artigo 12.º — (Presidente da Assembleia da República)
+SECÇÃO I
+
+Presidente
+
+DIVISÃO I
+
+Estatuto e eleição
+
+Artigo 12.º
+
+(Presidente da Assembleia da República)
 
 1 - O Presidente representa a Assembleia da República, dirige e coordena os seus trabalhos e exerce autoridade sobre todos os funcionários e agentes e sobre todos os funcionários e agentes e sobre forças de segurança postas ao serviço da Assembleia.
 
 2 - O Presidente da Assembleia da República substitui interinamente o Presidente da República, nos termos do artigo 135.º da Constituição.
 
-###### Artigo 13.º — (Eleição)
+Artigo 13.º
+
+(Eleição)
 
 1 - As candidaturas para Presidente da Assembleia da República devem ser subscritas por um mínimo de 30 e um máximo de 50 Deputados.
 
@@ -1026,7 +1097,9 @@ O direito previsto na alínea j) do n.º 1 do artigo anterior é exercido nos te
 
 6 - A eleição tem lugar em sessão especialmente convocada para o efeito.
 
-###### Artigo 14.º — (Mandato)
+Artigo 14.º
+
+(Mandato)
 
 1 - O Presidente é eleito por legislatura.
 
@@ -1036,7 +1109,9 @@ O direito previsto na alínea j) do n.º 1 do artigo anterior é exercido nos te
 
 4 - A eleição do novo presidente é válida pelo período restante da legislatura.
 
-###### Artigo 15.º — (Substituição)
+Artigo 15.º
+
+(Substituição)
 
 1 - O Presidente é substituído nas suas faltas ou impedimentos por cada um dos Vice-Presidentes.
 
@@ -1046,9 +1121,13 @@ O direito previsto na alínea j) do n.º 1 do artigo anterior é exercido nos te
 
 4 - Para efeitos do número anterior, os Vice-Presidentes iniciam o exercício das funções por ordem decrescente do número de Deputados dos partidos por que tenham sido propostos.
 
-##### DIVISÃO II — Competência
+DIVISÃO II
 
-###### Artigo 16.º — (Competência quanto aos trabalhos da Assembleia)
+Competência
+
+Artigo 16.º
+
+(Competência quanto aos trabalhos da Assembleia)
 
 Compete ao Presidente quanto aos trabalhos da Assembleia da República:
 
@@ -1082,7 +1161,9 @@ o) Superintender no pessoal ao serviço da Assembleia;
 
 p) Em geral, assegurar o cumprimento do Regimento e das deliberações da Assembleia.
 
-###### Artigo 17.º — (Competência quanto às reuniões plenárias)
+Artigo 17.º
+
+(Competência quanto às reuniões plenárias)
 
 1 - Compete ao Presidente quanto às reuniões plenárias:
 
@@ -1096,7 +1177,9 @@ d) Pôr à discussão e votação as propostas e os requerimentos admitidos.
 
 2 - Das decisões do Presidente tomadas em reunião plenária cabe sempre reclamação e recurso para o Plenário.
 
-###### Artigo 18.º — (Competência quanto aos Deputados)
+Artigo 18.º
+
+(Competência quanto aos Deputados)
 
 Compete ao Presidente quanto aos Deputados:
 
@@ -1110,7 +1193,9 @@ d) Promover junto da Comissão de Regimento e Mandatos as diligências necessár
 
 e) Dar seguimento aos requerimentos apresentados pelos Deputados, nos termos do artigo 5.º
 
-###### Artigo 19.º — (Competência relativamente a outros órgãos)
+Artigo 19.º
+
+(Competência relativamente a outros órgãos)
 
 Compete ao Presidente relativamente a outros órgãos:
 
@@ -1126,9 +1211,13 @@ e) Assinar os documentos expedidos em nome da Assembleia;
 
 f) Chefiar as deputações da Assembleia de que faça parte.
 
-##### DIVISÃO II — Conferência dos representantes dos grupos parlamentares
+DIVISÃO II
 
-###### Artigo 20.º — (Conferência dos representantes dos grupos parlamentaras)
+Conferência dos representantes dos grupos parlamentares
+
+Artigo 20.º
+
+(Conferência dos representantes dos grupos parlamentaras)
 
 1 - O Presidente reúne-se com os presidentes dos grupos parlamentares, o seu substituto, para apreciar os assuntos previstos na alínea b) do artigo 16.º, e outros previstos no Regimento, sempre que o entender necessário para o regular funcionamento da Assembleia.
 
@@ -1138,9 +1227,13 @@ f) Chefiar as deputações da Assembleia de que faça parte.
 
 4 - As decisões da Conferência, na falta de consenso, são tomadas por maioria, estando representada a maioria absoluta dos Deputados em efectividade de funções.
 
-#### SECÇÃO II — Mesa
+SECÇÃO II
 
-###### Artigo 21.º — (Composição)
+Mesa
+
+Artigo 21.º
+
+(Composição)
 
 1 - A Mesa da Assembleia é composta pelo Presidente, por quatro Vice-Presidentes, quatro Secretários e quatro Vice-Secretários.
 
@@ -1152,7 +1245,9 @@ f) Chefiar as deputações da Assembleia de que faça parte.
 
 5 - Os Vice-Secretários são substituídos nas suas faltas pelos Deputados que o Presidente designar.
 
-###### Artigo 22.º — (Eleição)
+Artigo 22.º
+
+(Eleição)
 
 1 - Os Vice-Presidentes, Secretários e Vice-Secretários são eleitos por sufrágio de lista completa e nominativa.
 
@@ -1166,7 +1261,9 @@ f) Chefiar as deputações da Assembleia de que faça parte.
 
 6 - Terminada a reunião, mesmo não estando preenchidos todos os lugares vagos, o Presidente comunica a composição da Mesa, desde que nela incluídos os Vice-Presidentes, ao Presidente da República e ao Primeiro-Ministro.
 
-###### Artigo 23.º — (Mandato)
+Artigo 23.º
+
+(Mandato)
 
 1 - Os Vice-Presidentes, Secretários e Vice-Secretários são eleitos por sessão legislativa.
 
@@ -1174,7 +1271,9 @@ f) Chefiar as deputações da Assembleia de que faça parte.
 
 3 - No caso de renúncia ao cargo, suspensão ou cessação do mandato de Deputado, procede-se, até à quinta reunião imediata, à eleição de novo titular, segundo o regime do n.º 4 do artigo anterior.
 
-###### Artigo 24.º — (Competência geral da Mesa)
+Artigo 24.º
+
+(Competência geral da Mesa)
 
 1 - Compete à Mesa:
 
@@ -1188,7 +1287,9 @@ d) Em geral, coadjuvar o Presidente no exercício das suas funções.
 
 2 - A Mesa pode delegar num dos Secretários a superintendência dos serviços de secretaria.
 
-###### Artigo 25.º — (Competência quanto às reuniões plenárias)
+Artigo 25.º
+
+(Competência quanto às reuniões plenárias)
 
 1 - Compete à Mesa quanto às reuniões plenárias:
 
@@ -1200,7 +1301,9 @@ c) Apreciar e decidir as reclamações relativas ao Diário.
 
 2 - Das deliberações da Mesa cabe reclamação e recurso para o Plenário.
 
-###### Artigo 26.º — (Vice-Presidentes)
+Artigo 26.º
+
+(Vice-Presidentes)
 
 Compete aos Vice-Presidentes:
 
@@ -1212,7 +1315,9 @@ c) Exercer a vice-presidência da Comissão Permanente;
 
 d) Desempenhar as funções de representação da Assembleia de que sejam incumbidos pelo Presidente.
 
-###### Artigo 27.º — (Secretários e Vice-Secretários)
+Artigo 27.º
+
+(Secretários e Vice-Secretários)
 
 1 - Compete aos Secretários o expediente da Mesa, nomeadamente:
 
@@ -1234,17 +1339,25 @@ a) Substituir os Secretários nas suas faltas ou impedimentos;
 
 b) Servir de escrutinadores.
 
-###### Artigo 28.º — (Subsistência da Mesa)
+Artigo 28.º
+
+(Subsistência da Mesa)
 
 1 - A Mesa mantém-se em funções até à conclusão do novo processo de eleição na sessão legislativa seguinte.
 
 2 - No termo da legislatura, ou em caso de dissolução da Assembleia, a Mesa mantém-se em funções até à abertura da primeira reunião da nova Assembleia eleita.
 
-### CAPÍTULO II — COMISSÕES
+CAPÍTULO II
 
-#### SECÇÃO I — Disposições gerais
+COMISSÕES
 
-###### Artigo 29.º — (Composição das comissões)
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 29.º
+
+(Composição das comissões)
 
 1 - As comissões não podem ser constituídas por menos de 10 nem por mais de 30 Deputados, devendo a sua composição corresponder às relações de voto dos partidos representados na Assembleia.
 
@@ -1252,7 +1365,9 @@ b) Servir de escrutinadores.
 
 3 - O número dos membros de cada comissão e a sua distribuição pelos diversos partidos são fixados, salvo quanto à Comissão de Regimento e Mandatos, por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.
 
-###### Artigo 30.º — (Indicação dos membros das comissões)
+Artigo 30.º
+
+(Indicação dos membros das comissões)
 
 1 - A indicação dos Deputados para as comissões compete aos respectivos grupos parlamentares, ou partidos e deve ser efectuada no prazo fixado pelo Presidente.
 
@@ -1262,7 +1377,9 @@ b) Servir de escrutinadores.
 
 4 - Podem ser indicados suplentes a todo o tempo e, na sua falta ou impedimento, os membros das comissões podem fazer-se substituir ocasionalmente por outros Deputados do mesmo grupo parlamentar.
 
-###### Artigo 31.º — (Exercício das funções)
+Artigo 31.º
+
+(Exercício das funções)
 
 1 - A designação dos representantes na Comissão de Regimento e Mandatos e nas comissões especializadas permanentes faz-se pelo período da sessão legislativa.
 
@@ -1272,7 +1389,9 @@ b) Servir de escrutinadores.
 
 4 - O grupo parlamentar a que o Deputado pertence pode promover a sua substituição na comissão, a todo o tempo.
 
-###### Artigo 32.º — (Mesa e relatores)
+Artigo 32.º
+
+(Mesa e relatores)
 
 1 - Cada comissão tem a sua mesa, formada por um presidente, um ou mais vice-presidentes e um ou mais secretários.
 
@@ -1282,19 +1401,27 @@ b) Servir de escrutinadores.
 
 4 - Para cada assunto a submeter ao Plenário a comissão pode designar um ou mais relatores.
 
-###### Artigo 33.º — (Subcomissões)
+Artigo 33.º
+
+(Subcomissões)
 
 1 - Em cada comissão podem ser constituídas subcomissões.
 
 2 - As conclusões dos trabalhos das subcomissões devem ser apresentadas à comissão.
 
-#### SECÇÃO II — Comissão de Regimento e Mandatos
+SECÇÃO II
 
-###### Artigo 34.º — (Composição)
+Comissão de Regimento e Mandatos
+
+Artigo 34.º
+
+(Composição)
 
 A Comissão de Regimento e Mandatos é constituída por Deputados dos grupos parlamentares e partidos políticos, devendo a sua composição corresponder às relações de voto dos partidos representados na Assembleia.
 
-###### Artigo 35.º — (Competência)
+Artigo 35.º
+
+(Competência)
 
 Compete à Comissão de Regimento e Mandatos:
 
@@ -1314,21 +1441,33 @@ g) Dar parecer sobre as propostas de alteração do Regimento, bem como sugerir 
 
 h) Dar parecer, a pedido do Presidente, sobre conflitos de competência entre comissões.
 
-#### SECÇÃO III — Comissão de petições
+SECÇÃO III
 
-###### Artigo 36.º — (Composição)
+Comissão de petições
+
+Artigo 36.º
+
+(Composição)
 
 A composição da Comissão de Petições é estabelecida nos termos do artigo 29.º
 
-###### Artigo 37.º — (Competência)
+Artigo 37.º
+
+(Competência)
 
 Compete à Comissão de Petições apreciar, nos termos do Regimento, as petições dirigidas à Assembleia da República, podendo, para o efeito, ouvir as diversas comissões especializadas em razão da matéria.
 
-#### SECÇÃO IV — Comissões especializadas
+SECÇÃO IV
 
-##### DIVISÃO I — Comissões especializadas permanentes
+Comissões especializadas
 
-###### Artigo 38.º — (Elenco)
+DIVISÃO I
+
+Comissões especializadas permanentes
+
+Artigo 38.º
+
+(Elenco)
 
 1 - O elenco das comissões especializadas permanentes é fixado no início de cada legislatura por deliberação do Plenário, sob proposta do Presidente, ouvida a Conferência.
 
@@ -1336,7 +1475,9 @@ Compete à Comissão de Petições apreciar, nos termos do Regimento, as petiç�
 
 3 - Compete às comissões especializadas permanentes definir a composição e âmbito das subcomissões.
 
-###### Artigo 39.º — (Competência)
+Artigo 39.º
+
+(Competência)
 
 Compete às comissões especializadas permanentes:
 
@@ -1352,31 +1493,45 @@ e) Verificar o cumprimento pelo Governo e pela Administração das leis e resolu
 
 f) Em geral, pronunciar-se sobre todos os problemas submetidos à sua apreciação pela Assembleia ou pelo Presidente.
 
-##### DIVISÃO II — Comissões eventuais
+DIVISÃO II
 
-###### Artigo 40.º — (Constituição)
+Comissões eventuais
+
+Artigo 40.º
+
+(Constituição)
 
 1 - A Assembleia da República pode constituir comissões eventuais para qualquer fim determinado.
 
 2 - A iniciativa de constituição de comissões eventuais, salvo as de inquérito, pode ser exercida por um mínimo de dez Deputados.
 
-###### Artigo 41.º — (Competência)
+Artigo 41.º
+
+(Competência)
 
 Compete às comissões eventuais apreciar os assuntos objecto da sua constituição, apresentando os respectivos relatórios nos prazos fixados pela Assembleia.
 
-### CAPÍTULO II — COMISSÃO PERMANENTE
+CAPÍTULO II
 
-###### Artigo 42.º — (Funcionamento)
+COMISSÃO PERMANENTE
+
+Artigo 42.º
+
+(Funcionamento)
 
 Fora do período de funcionamento efectivo da Assembleia da República, durante o período em que ela se encontrar dissolvida, e nos restantes casos previstos na Constituição, funciona a Comissão Permanente da Assembleia da República.
 
-###### Artigo 43.º — (Composição)
+Artigo 43.º
+
+(Composição)
 
 1 - A Comissão Permanente é presidida pelo Presidente da Assembleia da República e composta pelos Vice-Presidentes e por Deputados indicados por todos os partidos, de acordo com a respectiva representatividade na Assembleia.
 
 2 - Aplicam-se à Comissão Permanente os preceitos dos artigos 29.º, 30.º e 31.º
 
-###### Artigo 44.º — (Competência)
+Artigo 44.º
+
+(Competência)
 
 1 - Compete à Comissão Permanente:
 
@@ -1402,9 +1557,13 @@ j) Elaborar o seu regimento;
 
 2 - No caso da alínea f) do número anterior, a Comissão Permanente promoverá a convocação da Assembleia no prazo mais curto possível.
 
-### CAPÍTULO IV — REPRESENTAÇÕES E DEPUTAÇÕES
+CAPÍTULO IV
 
-###### Artigo 45.º — (Representações a deputações)
+REPRESENTAÇÕES E DEPUTAÇÕES
+
+Artigo 45.º
+
+(Representações a deputações)
 
 1 - As representações e deputações da Assembleia devem respeitar os princípios estabelecidos nos artigos 29.º e 30.º
 
@@ -1412,23 +1571,33 @@ j) Elaborar o seu regimento;
 
 3 - Finda a sua missão, as representações e deputações da Assembleia da República elaboram um relatório com as informações necessárias à avaliação da realização das suas finalidades ou, sendo permanentes, no termo de cada sessão legislativa o qual será apresentado ao Presidente e, se este o decidir lido em Plenário.
 
-## TÍTULO III — FUNCIONAMENTO
+TÍTULO III
 
-### CAPÍTULO I — DISPOSIÇÕES GERAIS
+FUNCIONAMENTO
 
-###### Artigo 46.º — (Sede da Assembleia)
+CAPÍTULO I
+
+DISPOSIÇÕES GERAIS
+
+Artigo 46.º
+
+(Sede da Assembleia)
 
 1 - A Assembleia da República tem a sua sede em Lisboa, no Palácio de São Bento.
 
 2 - Os trabalhos da Assembleia podem decorrer noutro local, quando assim o imponham as necessidades do seu funcionamento.
 
-###### Artigo 47.º — (Sessão legislativa e período normal de funcionamento)
+Artigo 47.º
+
+(Sessão legislativa e período normal de funcionamento)
 
 1 - A sessão legislativa tem a duração de um ano e inicia-se a 15 de Outubro.
 
 2 - O período normal de funcionamento da Assembleia da República decorre de 15 de Outubro a 15 de Junho, sem prejuízo das suspensões que a Assembleia deliberar por maioria de dois terços dos Deputados presentes.
 
-###### Artigo 48.º — (Reunião extraordinária de comissões)
+Artigo 48.º
+
+(Reunião extraordinária de comissões)
 
 1 - Fora do período normal de funcionamento e durante as suspensões, pode funcionar qualquer comissão, se tal for indispensável ao bom andamento dos seus trabalhos e a Assembleia o deliberar, com a anuência da maioria dos membros da comissão.
 
@@ -1436,19 +1605,25 @@ j) Elaborar o seu regimento;
 
 3 - O disposto no n.º 1 não se aplica à Comissão de Regimento e Mandatos quando esta tenha de se pronunciar sobre verificação de poderes, perda de mandato ou inviolabilidade dos Deputados, nos termos do Regimento ou do Estatuto dos Deputados.
 
-###### Artigo 49.º — (Convocação fora do período normal de funcionamento)
+Artigo 49.º
+
+(Convocação fora do período normal de funcionamento)
 
 1 - Fora do período indicado no n.º 2 do artigo 47.º a Assembleia da República pode funcionar por deliberação do Plenário, prorrogando o período normal de funcionamento, por iniciativa da Comissão Permanente ou, na impossibilidade desta e em caso de grave emergência, por iniciativa de mais de metade dos Deputados.
 
 2 - No caso de convocação por iniciativa de mais de metade dos Deputados, o anúncio da convocação deve ser tornado público através dos meios de comunicação adequados.
 
-###### Artigo 50.º — (Suspensão das reuniões plenárias)
+Artigo 50.º
+
+(Suspensão das reuniões plenárias)
 
 1 - Durante o funcionamento efectivo da Assembleia pode esta deliberar suspender as suas reuniões plenárias para efeito de trabalho de comissões.
 
 2 - A suspensão não pode exceder dez dias.
 
-###### Artigo 51.º — (Dias parlamentares)
+Artigo 51.º
+
+(Dias parlamentares)
 
 1 - A Assembleia funciona todos os dias que não sejam sábados, domingos e feriados.
 
@@ -1456,13 +1631,17 @@ j) Elaborar o seu regimento;
 
 3 - Quando o termo de qualquer prazo recair em sábado, domingo ou feriado, é transferido para o dia parlamentar seguinte.
 
-###### Artigo 52.º — (Convocação de reuniões)
+Artigo 52.º
+
+(Convocação de reuniões)
 
 1 - Salvo marcação nas reuniões anteriores, as reuniões do Plenário e das comissões são convocadas pelos respectivos presidentes com antecedência mínima de vinte quatro horas.
 
 2 - A convocação é feita por qualquer meio de comunicação que assegure o seu efectivo conhecimento e publicidade.
 
-###### Artigo 53.º — (Funcionamento do Plenário a das comissões)
+Artigo 53.º
+
+(Funcionamento do Plenário a das comissões)
 
 1 - As comissões podem reunir durante o funcionamento do Plenário, devendo interromper os seus trabalhos para que os respectivos membros possam exercer no Plenário o seu direito de voto.
 
@@ -1470,7 +1649,9 @@ j) Elaborar o seu regimento;
 
 3 - As comissões podem funcionar, havendo conveniência para os seus trabalhos, aos sábados, domingos e feriados.
 
-###### Artigo 54.º — (Quórum)
+Artigo 54.º
+
+(Quórum)
 
 1 - A Assembleia da República só pode funcionar em reunião plenária com a presença de, pelo menos, um quinto do número de Deputados em efectividade de funções.
 
@@ -1478,9 +1659,13 @@ j) Elaborar o seu regimento;
 
 3 - As deliberações do Plenário e das comissões são tomadas com a presença de mais de metade dos seus membros em efectividade de funções.
 
-### CAPÍTULO II — ORGANIZAÇÃO DOS TRABALHOS E ORDEM DO DIA
+CAPÍTULO II
 
-###### Artigo 55.º — (Fixação da ordem do dia)
+ORGANIZAÇÃO DOS TRABALHOS E ORDEM DO DIA
+
+Artigo 55.º
+
+(Fixação da ordem do dia)
 
 1 - A ordem do dia é fixada pelo Presidente nos primeiros quinze dias de cada mês, para o mês seguinte, de acordo com as prioridades definidas no Regimento.
 
@@ -1490,19 +1675,25 @@ j) Elaborar o seu regimento;
 
 4 - O recurso da decisão do Presidente que fixe a ordem do dia é votado sem precedência de debate, podendo, todavia, o recorrente expor verbalmente os respectivos fundamentos por tempo não superior a três minutos.
 
-###### Artigo 56.º — (Anúncio da ordem do dia)
+Artigo 56.º
+
+(Anúncio da ordem do dia)
 
 1 - As ordens do dia fixadas nos termos do artigo 55.º são anunciadas pelo Presidente na primeira reunião plenária posterior à sua fixação e distribuídas em folhas avulsas aos grupos parlamentares.
 
 2 - As ordens do dia fixadas nos termos ao artigo 55.º não podem ser alteradas, salvo nos termos dos artigos 57.º, 59.º, 60.º e 61.º
 
-###### Artigo 57.º — (Garantia de estabilidade da ordem do dia)
+Artigo 57.º
+
+(Garantia de estabilidade da ordem do dia)
 
 1 - A ordem do dia não pode ser preterida nem interrompida, a não ser nos casos expressamente previstos no Regimento, ou por deliberação da Assembleia, sem votos contra.
 
 2 - A sequência das matérias fixadas para cada reunião pode ser modificada por deliberação da Assembleia.
 
-###### Artigo 58.º — (Prioridade das matérias a atender na fixação da ordem do dia)
+Artigo 58.º
+
+(Prioridade das matérias a atender na fixação da ordem do dia)
 
 1 - Na fixação da ordem do dia das reuniões plenárias, o Presidente dá prioridade às matérias segundo a precedência seguinte:
 
@@ -1544,11 +1735,15 @@ j) Elaborar o seu regimento;
 
 2 - Dentro de cada uma das matérias a ordem do dia é fixada segundo a precedência temporal da apresentação.
 
-###### Artigo 59.º — (Prioridade absoluta na fixação da ordem do dia)
+Artigo 59.º
+
+(Prioridade absoluta na fixação da ordem do dia)
 
 Têm prioridade sobre quaisquer outras matérias, com preterição da ordem do dia que eventualmente esteja fixada, as que constam dos n.os 1.º a 7.º, do n.º 1 do artigo anterior.
 
-###### Artigo 60.º — (Prioridade a solicitação do Governo)
+Artigo 60.º
+
+(Prioridade a solicitação do Governo)
 
 1 - O Governo pode solicitar prioridade para assuntos de interesse nacional de resolução urgente.
 
@@ -1556,11 +1751,15 @@ Têm prioridade sobre quaisquer outras matérias, com preterição da ordem do d
 
 3 - A prioridade solicitada pelo Governo não pode prejudicar o disposto no artigo anterior.
 
-###### Artigo 61.º — (Segunda deliberação em caso de veto do Presidente da República)
+Artigo 61.º
+
+(Segunda deliberação em caso de veto do Presidente da República)
 
 Nos casos do artigo 139.º da Constituição, o Presidente da Assembleia fixa a data da segunda deliberação, sem prejuízo das prioridades absolutas estabelecidas no artigo 59.º
 
-###### Artigo 62.º — (Direito dos grupos parlamentares à fixação da ordem do dia)
+Artigo 62.º
+
+(Direito dos grupos parlamentares à fixação da ordem do dia)
 
 1 - Os grupos parlamentares não representados no Governo têm direito à fixação da ordem do dia de reuniões plenárias, durante cada sessão legislativa, nos termos seguintes:
 
@@ -1578,13 +1777,17 @@ c) Por cada conjunto suplementar de 25 Deputados ou fracção, duas reuniões.
 
 5 - No caso previsto no número anterior, se o projecto for aprovado na generalidade, o partido tem o direio de obter a votação na especialidade, nos termos dos artigos 156.º e seguintes, não contando as reuniões plenárias para efeito da limitação constante dos n.os 1 e 2.
 
-###### Artigo 63.º — (Perguntas ao Governo)
+Artigo 63.º
+
+(Perguntas ao Governo)
 
 Serão marcadas reuniões em que os membros do Governo estarão presentes para responder a perguntas e pedidos de esclarecimento dos Deputados, nos termos dos artigos 236.º e seguintes.
 
-###### Artigo 64.º — (Apreciação de outras matérias)
+Artigo 64.º
 
-**O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:**
+(Apreciação de outras matérias)
+
+O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de Deputados;
 
@@ -1608,11 +1811,17 @@ j) Alterações ao Regimento;
 
 l) Outras matérias sobre as quais a Assembleia deva pronunciar-se, não compreendidas nas prioridades fixadas nos artigos anteriores.
 
-### CAPÍTULO III — REUNIÕES PLENÁRIAS
+CAPÍTULO III
 
-#### SECÇÃO I — Realização das reuniões
+REUNIÕES PLENÁRIAS
 
-###### Artigo 65.º — (Dias das reuniões)
+SECÇÃO I
+
+Realização das reuniões
+
+Artigo 65.º
+
+(Dias das reuniões)
 
 1 - A cada dia corresponde uma reunião plenária.
 
@@ -1620,7 +1829,9 @@ l) Outras matérias sobre as quais a Assembleia deva pronunciar-se, não compree
 
 3 - As quartas-feiras são reservadas, em regra, para reuniões das comissões e dos grupos parlamentares.
 
-###### Artigo 66.º — (Lugar na sala das reuniões)
+Artigo 66.º
+
+(Lugar na sala das reuniões)
 
 1 - Os Deputados tomam lugar na sala pela forma acordada entre o Presidente e os representantes dos partidos.
 
@@ -1628,15 +1839,21 @@ l) Outras matérias sobre as quais a Assembleia deva pronunciar-se, não compree
 
 3 - Na sala de reuniões há lugares reservados para os membros do Governo.
 
-###### Artigo 67.º — (Verificação de presenças dos Deputados)
+Artigo 67.º
+
+(Verificação de presenças dos Deputados)
 
 A presença dos Deputados às reuniões plenárias é verificada no início ou em qualquer outro momento da reunião.
 
-###### Artigo 68.º — (Proibição da presença de pessoas estranhas)
+Artigo 68.º
+
+(Proibição da presença de pessoas estranhas)
 
 Durante o funcionamento das reuniões não é permitida a presença de pessoas que não tenham assento na Assembleia ou não estejam em serviço.
 
-###### Artigo 69.º — (Continuidade das reuniões)
+Artigo 69.º
+
+(Continuidade das reuniões)
 
 As reuniões não podem ser interrompidas, salvo por decisão do Presidente, para os seguintes efeitos:
 
@@ -1650,17 +1867,23 @@ d) O Exercício do direito de interrupção pelos grupos parlamentares;
 
 e) Garantia do bom andamento dos trabalhos.
 
-###### Artigo 70.º — (Interrupção da reunião)
+Artigo 70.º
+
+(Interrupção da reunião)
 
 1 - Os grupos parlamentares podem requerer a interrupção da reunião plenária por uma única vez, a qual não pode ser recusada pelo Presidente.
 
 2 - A interrupção a que se refere o número anterior não pode exceder 15 minutos, quando requerida por grupos parlamentares com menos de 25 Deputados, nem 30 minutos quando se trate de grupos com mais de 25 Deputados.
 
-###### Artigo 71.º — (Períodos das reuniões)
+Artigo 71.º
+
+(Períodos das reuniões)
 
 Em cada reunião plenária há um período designado de «antes da ordem do dia» e outro designado de «ordem do dia», salvo quando a Assembleia ou a Conferência delibere diversamente.
 
-###### Artigo 72.º — (Período de antes da ordem do dia)
+Artigo 72.º
+
+(Período de antes da ordem do dia)
 
 1 - O período de antes da ordem do dia é destinado:
 
@@ -1680,7 +1903,9 @@ b) À emissão de votos de congratulação, saudação, protesto ou pesar propos
 
 5 - Os tempos utilizados no período de antes da ordem do dia na formulação de protestos, contraprotestos, pedidos de esclarecimento, respectivas respostas e declarações de voto orais são levados em conta no tempo global atribuído a cada partido.
 
-###### Artigo 73.º — (Expediente e informação)
+Artigo 73.º
+
+(Expediente e informação)
 
 Aberta a reunião, a Mesa procede:
 
@@ -1698,7 +1923,9 @@ f) À menção dos projectos e propostas de lei ou de resolução e das moções
 
 g) À comunicação das decisões do Presidente e das deliberações da Mesa, bem como de qualquer facto ou situação cujo anúncio o Regimento impuser ou seja de interesse para a Assembleia.
 
-###### Artigo 74.º — (Declarações políticas a outras intervenções)
+Artigo 74.º
+
+(Declarações políticas a outras intervenções)
 
 1 - Cada grupo parlamentar tem direito a produzir quinzenalmente, no período de antes da ordem do dia, uma declaração política com a duração máxima de dez minutos e com prioridade sobre as demais intervenções.
 
@@ -1708,17 +1935,23 @@ g) À comunicação das decisões do Presidente e das deliberações da Mesa, be
 
 4 - Nenhum Deputado pode ser inscrito duas vezes.
 
-###### Artigo 75.º — (Prolongamento)
+Artigo 75.º
+
+(Prolongamento)
 
 O período de antes da ordem do dia é improrrogável, salvo se houver declarações políticas, caso em que pode ser prolongado até 30 minutos.
 
-###### Artigo 76.º — (Intervenções sobre assuntos de interesse local, regional ou sectorial)
+Artigo 76.º
+
+(Intervenções sobre assuntos de interesse local, regional ou sectorial)
 
 1 - Podem ser marcadas pelo Presidente, sem prejuízo dos dias de funcionamento normal do Plenário, reuniões destinadas a intervenções dos Deputados sobre assuntos de interesse local, regional ou sectorial.
 
 2 - Com vista a essas intervenções, é aberta uma ordem de inscrições especial.
 
-###### Artigo 77.º — (Emissão de votos)
+Artigo 77.º
+
+(Emissão de votos)
 
 1 - Os votos de congratulação, protesto, saudação ou pesar podem ser propostos pela Mesa ou por um número de Deputados não superior a vinte.
 
@@ -1728,19 +1961,27 @@ O período de antes da ordem do dia é improrrogável, salvo se houver declaraç
 
 4 - A requerimento de, pelo menos, dez Deputados, a discussão e votação são adiadas para a reunião seguinte.
 
-###### Artigo 78.º — (Período da ordem do dia)
+Artigo 78.º
+
+(Período da ordem do dia)
 
 1 - O período da ordem do dia tem por objecto o exercício das competências constitucionais específicas da Assembleia da República.
 
 2 - Sempre que a Assembleia deva apreciar matérias previstas no artigo 64.º, o período da ordem do dia compreende uma primeira parte destinada a esse fim.
 
-###### Artigo 79.º — (Convite a Individualidades estrangeiras)
+Artigo 79.º
 
-**O Presidente pode, a título excepcional, ouvida a Conferência, convodar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.**
+(Convite a Individualidades estrangeiras)
 
-#### SECÇÃO II — Uso da palavra
+O Presidente pode, a título excepcional, ouvida a Conferência, convodar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.
 
-###### Artigo 80.º — (Uso da palavra pelos Deputados)
+SECÇÃO II
+
+Uso da palavra
+
+Artigo 80.º
+
+(Uso da palavra pelos Deputados)
 
 A palavra é concedida aos Deputados para:
 
@@ -1768,13 +2009,17 @@ l) Fazer protestos e contraprotestos;
 
 m) Produzir declarações de voto.
 
-###### Artigo 81.º — (Ordem no uso da palavra)
+Artigo 81.º
+
+(Ordem no uso da palavra)
 
 1 - A palavra é dada pela ordem das inscrições, mas o Presidente promoverá de modo a que não intervenham seguidamente, havendo outros inscritos, Deputados do mesmo grupo parlamentar ou membros do Governo.
 
 2 - É autorizada, a todo o tempo, a troca entre quaisquer oradores inscritos.
 
-###### Artigo 82.º — (Uso da palavra pelos membros do Governo)
+Artigo 82.º
+
+(Uso da palavra pelos membros do Governo)
 
 A palavra é concedida aos membros do Governo para:
 
@@ -1792,27 +2037,37 @@ f) Reagir contra ofensas à honra ou consideração ou dar explicações nos ter
 
 g) Fazer protestos e contraprotestos.
 
-###### Artigo 83.º — (Fins do uso da palavra)
+Artigo 83.º
+
+(Fins do uso da palavra)
 
 1 - Quem solicitar a palavra deve declarar para que fim a pretende, não podendo usá-la para fim diverso daquele para que lhe foi concebida.
 
 2 - Quando o orador se afaste da finalidade para que lhe foi concebida a palavra, é advertido pelo Presidente, que pode retirá-la se o orador persistir na sua atitude.
 
-###### Artigo 84.º — (Uso da palavra para apresentação de projectos ou propostas)
+Artigo 84.º
+
+(Uso da palavra para apresentação de projectos ou propostas)
 
 O uso da palavra para apresentação de projectos ou propostas limita-se a indicação sucinta do seu objecto.
 
-###### Artigo 85.º — (Uso da palavra no exercício do direito de defesa)
+Artigo 85.º
+
+(Uso da palavra no exercício do direito de defesa)
 
 O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º não pode exceder quinze minutos no uso da palavra.
 
-###### Artigo 86.º — (Uso da palavra para participar nos debates)
+Artigo 86.º
+
+(Uso da palavra para participar nos debates)
 
 1 - Para intervir nos debates sobre matéria da ordem do dia, quer na generalidade, quer na especialidade, cada Deputado ou membro do Governo pode usar da palavra duas vezes.
 
 2 - No debate na especialidade não podem intervir mais de dois membros do Governo sobre cada assunto.
 
-###### Artigo 87.º — (Invocação do Regimento e perguntas à Mesa)
+Artigo 87.º
+
+(Invocação do Regimento e perguntas à Mesa)
 
 1 - O Deputado que pedir a palavra para invocar o Regimento indica a norma infrigida, com as considerações estritamente indispensáveis para o efeito.
 
@@ -1822,7 +2077,9 @@ O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º n�
 
 4 - O uso da palavra para invocar o Regimento e interpelar a Mesa não pode exceder dois minutos.
 
-###### Artigo 88.º — (Requerimentos)
+Artigo 88.º
+
+(Requerimentos)
 
 1 - São considerados requerimentos apenas os pedidos dirigidos à Mesa respeitantes ao processo de apresentação, discussão e votação de qualquer assunto ou ao funcionamento da reunião.
 
@@ -1838,7 +2095,9 @@ O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º n�
 
 7 - Não são admitidas declarações de voto orais.
 
-###### Artigo 89.º — (Recursos)
+Artigo 89.º
+
+(Recursos)
 
 1 - Qualquer Deputado pode recorrer das decisões do Presidente ou da Mesa.
 
@@ -1852,7 +2111,9 @@ O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º n�
 
 6 - Não há lugar a declarações de voto orais.
 
-###### Artigo 90.º — (Pedidos de esclarecimento)
+Artigo 90.º
+
+(Pedidos de esclarecimento)
 
 1 - A palavra para esclarecimentos limita-se à formulação sintética da pergunta e da respectiva resposta sobre matéria em dúvida enunciada pelo orador que tiver acabado de intervir.
 
@@ -1860,13 +2121,17 @@ O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º n�
 
 3 - O orador interrogante e o orador respondente dispõem de três minutos por cada intervenção, não podendo, porém, as respostas exceder o tempo global de quinze minutos.
 
-###### Artigo 91.º — (Reacção contra ofensas à honra ou consideração)
+Artigo 91.º
+
+(Reacção contra ofensas à honra ou consideração)
 
 1 - Sempre que um Deputado ou membro do Governo considere que foram proferidas expressões ofensivas da sua honra ou consideração pode, para se defender, usar da palavra por tempo não superior a três minutos.
 
 2 - O autor das expressões consideradas ofensivas pode dar explicações por tempo não superior a três minutos.
 
-###### Artigo 92.º — (Protestos e contraprotestos)
+Artigo 92.º
+
+(Protestos e contraprotestos)
 
 1 - Por cada grupo parlamentar e sobre a mesma intervenção apenas é permitido um protesto.
 
@@ -1876,23 +2141,31 @@ O Deputado que exercer o direito de defesa nos termos dos artigos 2.º e 4.º n�
 
 4 - Os contraprotestos não podem exceder dois minutos por cada protesto, nem dez minutos no total.
 
-###### Artigo 93.º — (Proibição do uso da palavra no período da votação)
+Artigo 93.º
+
+(Proibição do uso da palavra no período da votação)
 
 Anunciado o início da votação, nenhum Deputado pode usar da palavra até à proclamação do resultado, excepto para apresentar requerimentos respeitantes ao processo de votação.
 
-###### Artigo 94.º — (Declaração de voto)
+Artigo 94.º
+
+(Declaração de voto)
 
 1 - Cada grupo parlamentar, ou Deputado, a título pessoal, tem direito a produzir, no final de cada votação, uma declaração de voto escrita esclarecendo o sentido da sua votação.
 
 2 - As declarações de voto escritas podem ser entregues na Mesa até final da reunião plenária seguinte.
 
-###### Artigo 95.º — (Uso da palavra pelos membros da Mesa)
+Artigo 95.º
+
+(Uso da palavra pelos membros da Mesa)
 
 1 - Se os membros da Mesa quiserem usar da palavra em reunião plenária na qual se encontrem em funções não podem reassumi-las até ao termo da mesma reunião.
 
 2 - O Presidente ou o Vice-Presidente em exercício não podem reassumir as suas funções até ao termo do debate ou da votação, se a estes houver lugar, no caso de o debate ou de a votação excederem a reunião.
 
-###### Artigo 96.º — (Modo de usar a palavra)
+Artigo 96.º
+
+(Modo de usar a palavra)
 
 1 - No uso da palavra, os oradores dirigem-se ao Presidente e à Assembleia e devem manter-se de pé.
 
@@ -1902,7 +2175,9 @@ Anunciado o início da votação, nenhum Deputado pode usar da palavra até à p
 
 4 - O orador pode ser avisado pelo Presidente para resumir as suas considerações quando se aproxime o termo do tempo regimental.
 
-###### Artigo 97.º — (Organização dos debates)
+Artigo 97.º
+
+(Organização dos debates)
 
 1 - A Conferência delibera, nos termos do artigo 150.º, como sobre a sua distribuição.
 
@@ -1910,7 +2185,9 @@ Anunciado o início da votação, nenhum Deputado pode usar da palavra até à p
 
 3 - Na falta de deliberação da Conferência, aplica-se supletivamente o artigo seguinte e as demais disposições relativas ao uso da palavra.
 
-###### Artigo 98.º — (Duração do uso da palavra)
+Artigo 98.º
+
+(Duração do uso da palavra)
 
 1 - No período da ordem do dia o tempo de uso da palavra de cada Deputado ou membro do Governo não pode exceder quinze minutos da primeira vez e cinco minutos da segunda, mas o autor ou autores do projecto ou da proposta podem usar da palavra por vinte minutos da primeira vez.
 
@@ -1918,19 +2195,27 @@ Anunciado o início da votação, nenhum Deputado pode usar da palavra até à p
 
 3 - O disposto nos números anteriores não se aplica quando a Conferência tiver fixado o tempo global do debate, nos termos do artigo 150.º
 
-#### SECÇÃO III — Deliberações e votações
+SECÇÃO III
 
-###### Artigo 99.º — (Deliberações)
+Deliberações e votações
+
+Artigo 99.º
+
+(Deliberações)
 
 Não podem ser tomadas deliberações durante o período de antes da ordem do dia, salvo os votos previstos no artigo 77.º
 
-###### Artigo 100.º — (Maioria)
+Artigo 100.º
+
+(Maioria)
 
 1 - As deliberações são tomadas à pluralidade de votos, com a presença da maioria do número legal de Deputados, salvo nos casos previstos na Constituição ou no Regimento.
 
 2 - As abstenções não contam para o apuramento da maioria.
 
-###### Artigo 101.º — (Voto)
+Artigo 101.º
+
+(Voto)
 
 1 - Cada Deputado tem um voto.
 
@@ -1940,7 +2225,9 @@ Não podem ser tomadas deliberações durante o período de antes da ordem do di
 
 4 - O Presidente só exerce o direito de voto quando assim o entender.
 
-###### Artigo 102.º — (Formas das votações)
+Artigo 102.º
+
+(Formas das votações)
 
 1 - As votações realizam-se por uma das seguintes formas:
 
@@ -1954,7 +2241,9 @@ b) Por levantados e sentados, que constitui a forma usual de votar.
 
 3 - Nas votações por levantados e sentados, a Mesa anuncia a distribuição partidária dos votos.
 
-###### Artigo 103.º — (Fixação da hora para votação)
+Artigo 103.º
+
+(Fixação da hora para votação)
 
 1 - O Presidente, ouvida a Conferência, pode fixar a hora da votação dos projectos e propostas de lei ou de resolução, que deve ser divulgada com antecedência.
 
@@ -1964,7 +2253,9 @@ b) Por levantados e sentados, que constitui a forma usual de votar.
 
 4 - Não tendo o Presidente fixado a hora da votação, esta tem lugar pelas dezoito horas, a seguir ao intervalo regimental, ou na reunião seguinte, caso o debate não esteja encerrado até aquela hora.
 
-###### Artigo 104.º — (Escrutínio secreto)
+Artigo 104.º
+
+(Escrutínio secreto)
 
 Fazem-se por escrutínio secreto:
 
@@ -1972,7 +2263,9 @@ a) As eleições;
 
 b) As deliberações que, segundo o Regimento ou o Estatuto dos Deputados, devam observar essa forma.
 
-###### Artigo 105.º — (Votação nominal)
+Artigo 105.º
+
+(Votação nominal)
 
 1 - Há votação nominal a requerimento de um décimo dos Deputados sobre as seguintes matérias:
 
@@ -1990,7 +2283,9 @@ e) Dissolução dos órgãos das regiões autónomas.
 
 3 - A votação nominal faz-se por ordem alfabética dos Deputados.
 
-###### Artigo 106.º — (Empate na votação)
+Artigo 106.º
+
+(Empate na votação)
 
 1 - Quando a votação produza empate, a matéria sobre a qual ela tiver recaído entra de novo em discussão.
 
@@ -1998,15 +2293,21 @@ e) Dissolução dos órgãos das regiões autónomas.
 
 3 - O empate na segunda votação equivale a rejeição.
 
-### CAPÍTULO IV — REUNIÕES DAS COMISSÕES
+CAPÍTULO IV
 
-###### Artigo 107.º — (Convocação e ordem do dia)
+REUNIÕES DAS COMISSÕES
+
+Artigo 107.º
+
+(Convocação e ordem do dia)
 
 1 - As reuniões de cada comissão são marcadas pela própria comissão ou pelo seu presidente.
 
 2 - A ordem do dia é fixada por cada comissão ou pelo seu presidente, ouvidos os representantes dos grupos parlamentares na comissão.
 
-###### Artigo 108.º — (Colaboração ou presença de outros Deputados)
+Artigo 108.º
+
+(Colaboração ou presença de outros Deputados)
 
 1 - Nas reuniões das comissões pode participar, sem voto, um dos Deputados autores do projecto de lei ou de resolução em apreciação.
 
@@ -2014,7 +2315,9 @@ e) Dissolução dos órgãos das regiões autónomas.
 
 3 - Os Deputados podem enviar observações escritas às comissões sobre matéria da sua competência.
 
-###### Artigo 109.º — (Participação de membros do Governo)
+Artigo 109.º
+
+(Participação de membros do Governo)
 
 1 - Os membros do Governo podem participar nos trabalhos das comissões a solicitação destas ou por sua iniciativa.
 
@@ -2022,13 +2325,17 @@ e) Dissolução dos órgãos das regiões autónomas.
 
 3 - As diligências previstas neste artigo são efectuadas através do Presidente da Assembleia.
 
-###### Artigo 110.º — (Participação de outras entidades)
+Artigo 110.º
+
+(Participação de outras entidades)
 
 1 - As comissões podem solicitar o depoimento de quaisquer cidadãos e requisitar a presença de quaisquer funcionários ou agentes da Administração Pública, bem como dirigentes ou empregados do sector empresarial do Estado.
 
 2 - As diligências previstas neste artigo são efectuadas através do Presidente da Assembleia.
 
-###### Artigo 111.º — (Poderes das comissões)
+Artigo 111.º
+
+(Poderes das comissões)
 
 As comissões podem requerer ou proceder a quaisquer diligências necessárias ao bom exercício das suas funções, nomeadamente:
 
@@ -2044,17 +2351,23 @@ e) Requisitar ou propor a contratação de especialistas para as coadjuvar nos s
 
 f) Efectuar missões de informação ou de estudo.
 
-###### Artigo 112.º — (Colaboração entre comissões)
+Artigo 112.º
+
+(Colaboração entre comissões)
 
 Duas ou mais comissões podem reunir em conjunto para o estudo de assuntos de interesse comum, não podendo, porém, tomar deliberações.
 
-###### Artigo 113.º — (Regimentos das comissões)
+Artigo 113.º
+
+(Regimentos das comissões)
 
 1 - Cada comissão elabora o seu regimento.
 
 2 - Na falta ou insuficiência do regimento da comissão, aplica-se, por analogia, o Regimento.
 
-###### Artigo 114.º — (Actas das comissões)
+Artigo 114.º
+
+(Actas das comissões)
 
 1 - De cada reunião das comissões é lavrada uma acta, da qual devem constar a indicação das presenças e faltas, o sumário dos assuntos tratados e o resultado das votações.
 
@@ -2064,11 +2377,15 @@ Duas ou mais comissões podem reunir em conjunto para o estudo de assuntos de in
 
 4 - As actas das comissões relativas às reuniões públicas serão depositadas na Biblioteca da Assembleia da República, sendo facultada a sua consulta a qualquer cidadão nos termos do respectivo regulamento.
 
-###### Artigo 115.º — (Relatório mensal dos trabalhos das comissões)
+Artigo 115.º
+
+(Relatório mensal dos trabalhos das comissões)
 
 As comissões informam mensalmente a Assembleia sobre o andamento dos seus trabalhos através de relatórios apresentados no Plenário ou publicados no Diário.
 
-###### Artigo 116.º — (Instalações e apoio)
+Artigo 116.º
+
+(Instalações e apoio)
 
 1 - As comissões dispõem de instalações próprias na sede da Assembleia.
 
@@ -2076,21 +2393,31 @@ As comissões informam mensalmente a Assembleia sobre o andamento dos seus traba
 
 3 - A Divisão de Secretariado às Comissões elabora e distribui quinzenalmente uma informação relativa ao estado dos diplomas em apreciação nas diferentes comissões.
 
-### CAPÍTULO V — PUBLICIDADE DOS TRABALHOS E DOS ACTOS DA ASSEMBLEIA
+CAPÍTULO V
 
-#### SECÇÃO I — Publicidade dos trabalhos da Assembleia
+PUBLICIDADE DOS TRABALHOS E DOS ACTOS DA ASSEMBLEIA
 
-###### Artigo 117.º — (Carácter público das reuniões plenárias)
+SECÇÃO I
+
+Publicidade dos trabalhos da Assembleia
+
+Artigo 117.º
+
+(Carácter público das reuniões plenárias)
 
 1 - As reuniões plenárias da Assembleia da República são públicas.
 
 2 - Nas galerias destinadas ao púhblico não há lugares reservados, podendo, porém, cada grupo parlamentar requisitar senhas de entrada de acordo com os critérios definidos pela Mesa.
 
-###### Artigo 118.º — (Publicidade das reuniões das comissões)
+Artigo 118.º
+
+(Publicidade das reuniões das comissões)
 
 As reuniçoes das comissões são públicas, se estas assim o deliberarem.
 
-###### Artigo 119.º — (Colaboração dos meios da comunicação social)
+Artigo 119.º
+
+(Colaboração dos meios da comunicação social)
 
 1 - Para o exercício da sua função são reservados aos representantes dos órgãos de comunicação social, portugueses ou estrangeiros, devidamente credenciados, lugares na sala das reuniões.
 
@@ -2098,7 +2425,9 @@ As reuniçoes das comissões são públicas, se estas assim o deliberarem.
 
 3 - A Mesa providencia a distribuição de textos dos assuntos em discussão e das intervenções aos representantes dos órgãos de comunicação social.
 
-###### Artigo 120.º — («Diário da Assembleia da República»)
+Artigo 120.º
+
+(«Diário da Assembleia da República»)
 
 1 - O jornal oficial da Assembleia é o Diário da Assembleia da República.
 
@@ -2106,7 +2435,9 @@ As reuniçoes das comissões são públicas, se estas assim o deliberarem.
 
 3 - Cada uma das séries do Diário tem numeração própria, referida a cada sessão legislativa.
 
-###### Artigo 121.º — (Conteúdo da 1.ª série do «Diário»)
+Artigo 121.º
+
+(Conteúdo da 1.ª série do «Diário»)
 
 1 - A 1.ª série do Diário contém o relato fiel e completo do que ocorrer em cada reunião plenária.
 
@@ -2124,7 +2455,9 @@ d) Designação das matérias indicadas ou fixadas para as reuniões seguintes.
 
 4 - A 1.ª série do Diário contém um sumário, aprovado pelo Presidente, com a menção dos assuntos tratados, a indicação dos intervenientes nas discussões, os resultados das votações e outros elementos que o Presidente julgue necessário incluir.
 
-###### Artigo 122.º — (Elaboração e aprovação da 1.ª série)
+Artigo 122.º
+
+(Elaboração e aprovação da 1.ª série)
 
 1 - O original da 1.ª série do Diário é elaborado pelos serviços e assinado pelo Presidente e pelos Secretários da Mesa.
 
@@ -2138,7 +2471,9 @@ d) Designação das matérias indicadas ou fixadas para as reuniões seguintes.
 
 6 - Depois de aprovado, com as rectificações que tiverem sido deferidas, o Diário constitui expressão autêntica do ocorrido na reunião a que respeitar.
 
-###### Artigo 123.º — (2.ª série do «Diário»)
+Artigo 123.º
+
+(2.ª série do «Diário»)
 
 1 - A 2.ª série do Diário inclui:
 
@@ -2178,47 +2513,71 @@ C - Documentos referidos nas alíneas a), c), parte final da alínea d), e), f),
 
 3 - Cada subsérie contém um sumário, aprovado pela Mesa, relativo aos textos publicados e respectivo índice.
 
-###### Artigo 124.º — (Índice do «Diário»)
+Artigo 124.º
+
+(Índice do «Diário»)
 
 Os serviços da Assembleia, sob a direcção da Mesa, elaboram um Índice analítico do Diário no final de cada sessão legislativa.
 
-###### Artigo 125.º — (Boletim Informativo)
+Artigo 125.º
+
+(Boletim Informativo)
 
 Para informação dos Deputados e órgãos de comunicação social, a Mesa providencia a distribuição, antes de cada reunião plenária, de um boletim com a ordem do dia e outras informações sobre as actividades parlamentares.
 
-#### SECÇÃO II — Publicidade dos actos da Assembleia
+SECÇÃO II
 
-###### Artigo 126.º — (Publicação na 1.ª série do «Diário da República»)
+Publicidade dos actos da Assembleia
+
+Artigo 126.º
+
+(Publicação na 1.ª série do «Diário da República»)
 
 1 - Os actos da Assembleia da República que, nos termos da lei, devam ser publicados na 1.ª série do Diário da República são remetidos à Imprensa Nacional pelo Presidente, no mais curto prazo.
 
 2 - Qualquer deputado ou grupo parlamentar pode solicitar a rectificação dos textos dos actos publicados no Diário da República, a qual é apreciada pelo Presidente, que, ouvida a Mesa, a remete à Imprensa Nacional em prazo compatível com o legalmente previsto para a publicação de rectificações.
 
-###### Artigo 127.º — (Publicação na 2.ª série do «Diário da Assembleia da República»)
+Artigo 127.º
+
+(Publicação na 2.ª série do «Diário da Assembleia da República»)
 
 1 - As deliberações da Assembleia da República, da Comissão Permanente, da Mesa da Assembleia e da Conferência são reduzidas a escrito, obedecem a formulário inicial e são assinadas pelo Presidente.
 
 2 - As deliberações, quando não devam revestir as formas previstas no artigo 169.º da Constituição, são identificadas, obedecem a numeração comum, por anos civis e com referencia aos órgãos de que provêm, sendo publicadas na 2.ª série do Diário.
 
-## TÍTULO IV — FORMAS DE PROCESSO
+TÍTULO IV
 
-### CAPÍTULO I — PROCESSO LEGISLATIVO
+FORMAS DE PROCESSO
 
-#### SECÇÃO I — Processo legislativo comum
+CAPÍTULO I
 
-##### DIVISÃO I — Iniciativa
+PROCESSO LEGISLATIVO
 
-###### Artigo 128.º — (Poder de iniciativa)
+SECÇÃO I
+
+Processo legislativo comum
+
+DIVISÃO I
+
+Iniciativa
+
+Artigo 128.º
+
+(Poder de iniciativa)
 
 A iniciativa da lei compete aos Deputados, aos grupos parlamentares e ao Governo, bem como, no respeitante às regiões autónomas, às respectivas assembleias regionais.
 
-###### Artigo 129.º — (Formas de iniciativa)
+Artigo 129.º
+
+(Formas de iniciativa)
 
 1 - A iniciativa originária da lei toma a forma de projecto de lei quando exercida pelos Deputados ou grupos parlamentares e de proposta de lei quando exercida pelo Governo ou pelas assembleias regionais.
 
 2 - A iniciativa superveniente toma a forma de proposta de alteração.
 
-###### Artigo 130.º — (Limites)
+Artigo 130.º
+
+(Limites)
 
 1 - Não são admitidos projectos e propostas de lei ou propostas de alteração que:
 
@@ -2228,23 +2587,31 @@ b) Não definam concretamente o sentido das modificações a introduzir na ordem
 
 2 - Os projectos e as propostas de lei definitivamente rejeitados não podem ser renovados na mesma sessão legislativa, salvo nova eleição da Assembleia da República.
 
-###### Artigo 131.º — (Limites especiais da iniciativa)
+Artigo 131.º
+
+(Limites especiais da iniciativa)
 
 Os Deputados, os grupos parlamentares e as assembleias regionais não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
-###### Artigo 132.º — (Renovação da iniciativa)
+Artigo 132.º
+
+(Renovação da iniciativa)
 
 1 - Os projectos e as propostas de lei não votados na sessão legislativa em que forem apresentados não carecem de ser renovados nas sessões legislativas seguintes, salvo termo da respectiva legislatura.
 
 2 - As propostas de lei caducam com a demissão do Governo ou, quando da iniciativa de uma assembleia regional, com o termo da respectiva legislatura.
 
-###### Artigo 133.º — (Concelamento da iniciativa)
+Artigo 133.º
+
+(Concelamento da iniciativa)
 
 1 - Admitido qualquer projecto ou proposta de lei, ou qualquer proposta de alteração, os seus autores podem retirá-lo até ao termo da discussão.
 
 2 - Se outro Deputado ou o Governo adoptar como seu o projecto ou proposta que se pretende retirar, a iniciativa seguirá os termos do Regimento como projecto ou proposta do adoptante.
 
-###### Artigo 134.º — (Exercício da iniciativa)
+Artigo 134.º
+
+(Exercício da iniciativa)
 
 1 - Nenhum projecto de lei pode ser subscrito por mais de vinte Deputados.
 
@@ -2252,7 +2619,9 @@ Os Deputados, os grupos parlamentares e as assembleias regionais não podem apre
 
 3 - As propostas de lei são subscritas pelo Primeiro-Ministro e pelos ministros competentes em razão da matéria e devem conter a menção de que foram aprovadas em Conselho de Ministros.
 
-###### Artigo 135.º — (Requisitos formais dos projectos e propostas de lei)
+Artigo 135.º
+
+(Requisitos formais dos projectos e propostas de lei)
 
 1 - Os projectos e propostas de lei devem:
 
@@ -2268,7 +2637,9 @@ d) Ser precedidos de uma breve justificação ou exposição de motivos.
 
 3 - A falta dos requisitos das alíneas c) e d) do n.º 1 implica a necessidade de suprimento, no prazo de cinco dias, ou, tratando-se de proposta de lei de assembleia regional, no prazo que o Presidente fixar.
 
-###### Artigo 136.º — (Processo)
+Artigo 136.º
+
+(Processo)
 
 1 - Os projectos e propostas de lei são entregues na Mesa para efeitos de admissão pelo Presidente de publicação no Diário, nos termos da Constituição e do Regimento.
 
@@ -2276,7 +2647,9 @@ d) Ser precedidos de uma breve justificação ou exposição de motivos.
 
 3 - Os projectos e propostas de lei e as propostas de alteração são registados e numerados pela ordem da sua apresentação.
 
-###### Artigo 137.º — (Recurso)
+Artigo 137.º
+
+(Recurso)
 
 1 - Admitido um projecto ou proposta de lei e distribuído à comissão competente, ou rejeitado, o presidente comunica o facto à Assembleia.
 
@@ -2288,7 +2661,9 @@ d) Ser precedidos de uma breve justificação ou exposição de motivos.
 
 5 - O parecer é lido e votado no Plenário, podendo cada grupo parlamentar produzir uma intervenção de duração não superior a três minutos, salvo decisão da Conferência que aumente os tempos do debate.
 
-###### Artigo 138.º — (Apresentação perante o Plenário)
+Artigo 138.º
+
+(Apresentação perante o Plenário)
 
 1 - Admitido um projecto ou proposta de lei, o seu autor, ou um dos seus autores, tem o direito de o apresentar perante o Plenário.
 
@@ -2296,7 +2671,9 @@ d) Ser precedidos de uma breve justificação ou exposição de motivos.
 
 3 - Feita a apresentação, há um período de meia hora para pedidos de esclarecimento, sendo dada preferência a Deputados que não pertençam ao partido do apresentante.
 
-###### Artigo 139.º — (Natureza das propostas de alteração)
+Artigo 139.º
+
+(Natureza das propostas de alteração)
 
 1 - As propostas de alteração podem ter a natureza de propostas de emenda, substituição, aditamento ou eliminação.
 
@@ -2308,29 +2685,41 @@ d) Ser precedidos de uma breve justificação ou exposição de motivos.
 
 5 - Consideram-se propostas de eliminação as que se destinem a suprimir a disposição em discussão.
 
-##### DIVISÃO II — Apreciação em comissão
+DIVISÃO II
 
-###### Artigo 140.º — (Envio de projectos e propostas de lei)
+Apreciação em comissão
+
+Artigo 140.º
+
+(Envio de projectos e propostas de lei)
 
 1 - Admitido qualquer projecto ou proposta de lei, o Presidente envia o seu texto à comissão competente para apreciação.
 
 2 - A Assembleia pode constituir uma comissão eventual para apreciação do projecto ou da proposta, quando a sua importância e especialidade o justifiquem.
 
-###### Artigo 141.º — (Determinação da comissão competente)
+Artigo 141.º
+
+(Determinação da comissão competente)
 
 Quando a comissão se considere incompetente para apreciação do texto, deve comunicá-lo, no prazo de três dias, ao Presidente da Assembleia, que submete a questão ao Plenário, ouvida a Comissão de Regimento e Mandatos.
 
-###### Artigo 142.º — (Envio de propostas de alteração)
+Artigo 142.º
 
-**O presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+(Envio de propostas de alteração)
 
-###### Artigo 143.º — (Legislação do trabalho)
+O presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
+
+Artigo 143.º
+
+(Legislação do trabalho)
 
 1 - Tratando-se de legislação do trabalho, a comissão promove, através do Presidente da Assembleia, a apreciação do projecto ou proposta pelas comissões de trabalhadores e associações sindicais, para efeito da alínea d) do artigo 55.º e da alínea a) do n.º 2 do artigo 57.º da Constituição.
 
 2 - No prazo que a comissão fixar, as comissões de trabalhadores e as associações sindicais podem enviar-lhe as sugestões que entenderem convenientes e solicitar a audição de representantes seus.
 
-###### Artigo 144.º — (Prazo de apreciação)
+Artigo 144.º
+
+(Prazo de apreciação)
 
 1 - A comissão pronuncia-se fundamentando devidamente o seu parecer, no prazo assinado pelo Presidente da Assembleia, com direito de recurso do autor ou dos autores para o Plenário.
 
@@ -2340,33 +2729,49 @@ Quando a comissão se considere incompetente para apreciação do texto, deve co
 
 4 - No caso de a comissão não apresentar o parecer no prazo inicial ou no da prorrogação, o projecto ou a proposta de lei são submetidos a discussão no Plenário, independentemente do parecer.
 
-###### Artigo 145.º — (Projectos ou propostas sobre matérias idênticas)
+Artigo 145.º
+
+(Projectos ou propostas sobre matérias idênticas)
 
 1 - Se até metade do prazo assinado à comissão para emitir parecer lhe forem enviados outro ou outros projectos ou propostas sobre a matéria, a comissão deve fazer a sua apreciação conjunta, sem prejuízo da emissão de parecer em separado.
 
 2 - Não se verificando a circunstância prevista no número anterior, tem precedência na emissão de parecer o texto ou os textos que tiverem sido primeiramente recebidos.
 
-###### Artigo 146.º — (Textos de substituição)
+Artigo 146.º
+
+(Textos de substituição)
 
 1 - A comissão pode apresentar textos de substituição tanto na generalidade como na especialidade, sem prejuízo dos projectos e das propostas de lei a que se referem, quando não retirados.
 
 2 - O texto de substituição é discutido na generalidade em conjunto com o texto do projecto ou proposta e, finda a discussão, procede-se à votação sucessiva dos textos pela ordem da sua apresentação.
 
-###### Artigo 147.º — (Discussão pública)
+Artigo 147.º
+
+(Discussão pública)
 
 Em razão da especial relevância da matéria, a comissão competente pode propor ao presidente a discussão pública de projectos ou propostas de lei.
 
-##### DIVISÃO III — Audição dos órgãos de governo regional
+DIVISÃO III
 
-###### Artigo 148.º — (Audição dos órgãos de governo regional)
+Audição dos órgãos de governo regional
+
+Artigo 148.º
+
+(Audição dos órgãos de governo regional)
 
 Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas, o Presidente da Assembleia promove a sua apreciação pelos órgãos de governo regional, para os efeitos do disposto no n.º 2 do artigo 231.º da Constituição.
 
-##### DIVISÃO IV — Discussão e votação
+DIVISÃO IV
 
-##### SUBDIVISÃO I — Disposições gerais
+Discussão e votação
 
-###### Artigo 149.º — (Conhecimento prévio dos projectos, propostas de lei ou de resolução)
+SUBDIVISÃO I
+
+Disposições gerais
+
+Artigo 149.º
+
+(Conhecimento prévio dos projectos, propostas de lei ou de resolução)
 
 1 - Nenhum projecto, proposta de lei ou de resolução pode ser discutido em reunião plenária sem ter sido publicado no Diário ou distribuído em folhas avulsas aos grupos parlamentares, bem como aos Deputados que o solicitem, com a antecedência mínima de cinco dias.
 
@@ -2376,7 +2781,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 4 - A discussão relativa à autorização para a declaração de guerra ou feitura da paz, bem como para a declaração do estado de sítio e do estado de emergência, pode ter lugar independentemente da observância de qualquer prazo.
 
-###### Artigo 150.º — (Tempo de debate)
+Artigo 150.º
+
+(Tempo de debate)
 
 1 - Para a discussão de cada projecto, proposta de lei ou de resolução e apreciação de decretos-leis ou recursos é fixado na Conferência um tempo global, tendo em conta a sua natureza e importância.
 
@@ -2390,19 +2797,27 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 6 - Na falta de fixação do tempo global referido no n.º 1, observa-se o disposto no artigo 98.º e demais disposições reguladoras do uso da palavra e da votação.
 
-###### Artigo 151.º — (Termo do debate)
+Artigo 151.º
+
+(Termo do debate)
 
 1 - Se o debate se efectuar nos termos do artigo 98.º, acabará quando não houver mais oradores inscritos ou quando for aprovado pela maioria dos Deputados presentes requerimento para que a matéria seja dada por discutida.
 
 2 - O requerimento previsto no número anterior não é admitido enquanto não tiverem usado da palavra, se a pedirem, dois Deputados de grupos parlamentares diferentes e, havendo já outros inscritos para intervir no debate, enquanto, dos já inscritos, não tiverem usado da palavra, no debate da generalidade, dois oradores por grupo parlamentar com mais de 25 Deputados e um orador por cada um dos restantes grupos parlamentares e, no debate na especialidade, um orador por cada grupo parlamentar.
 
-###### Artigo 152.º — (Requerimento de baixa à comissão)
+Artigo 152.º
+
+(Requerimento de baixa à comissão)
 
 Até ao anúncio da votação podem dez Deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que for designado, não se aplicando neste caso o disposto no artigo 149.º
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
 
-###### Artigo 153.º — (Objecto)
+Discussão e votação na generalidade
+
+Artigo 153.º
+
+(Objecto)
 
 1 - A discussão na generalidade versa sobre os princípios e o sistema de cada projecto ou proposta de lei.
 
@@ -2410,23 +2825,33 @@ Até ao anúncio da votação podem dez Deputados, pelo menos, requerer a baixa 
 
 3 - A Assembleia pode deliberar que a discussão e a votação incidam sobre divisão do projecto ou proposta cuja autonomia o justifique.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
 
-###### Artigo 154.º — (Regra geral)
+Discussão e votação na especialidade
+
+Artigo 154.º
+
+(Regra geral)
 
 Salvo o disposto nos n.os 4 e 5 do artigo 171.º da Constituição e no Regimento, a discussão e votação na especialidade cabem à comissão competente em razão da matéria.
 
-###### Artigo 155.º — (Avocação pelo Plenário)
+Artigo 155.º
+
+(Avocação pelo Plenário)
 
 O Plenário pode deliberar, a todo o tempo, avocar a si a votação na especialidade a requerimento de, pelo menos, dez deputados.
 
-###### Artigo 156.º — (Objecto)
+Artigo 156.º
+
+(Objecto)
 
 1 - A discussão na especialidade versa sobre cada artigo, podendo a Assembleia delibera que se faça sobre mais de um artigo simultaneamente, ou, com fundamento na complexidade da matéria ou das propostas de alteração apresentadas, que se faça por números.
 
 2 - A votação na especialidade versa sobre cada artigo, número ou alínea.
 
-###### Artigo 157.º — (Ordem da votação)
+Artigo 157.º
+
+(Ordem da votação)
 
 1 - A ordem da votação é a seguinte:
 
@@ -2442,17 +2867,25 @@ e) Propostas de aditamento ao texto votado.
 
 2 - Quando haja duas ou mais propostas de alteração da mesma natureza, são submetidas à votação pela ordem da sua apresentação.
 
-###### Artigo 158.º — (Requerimento de adiamento da votação)
+Artigo 158.º
+
+(Requerimento de adiamento da votação)
 
 A requerimento de dez Deputados, a votação na especialidade é adiada para a reunião plenária imediata, sem prejuízo da discussão e votação das disposições seguintes.
 
-###### Artigo 159.º — (Avocação pelo Plenário)
+Artigo 159.º
+
+(Avocação pelo Plenário)
 
 No caso de votação na especialidade pela comissão, o Plenário pode deliberar, a todo o tempo, avocá-la a si, a requerimento de, pelo menos, dez Deputados.
 
-##### SUBDIVISÃO IV — Votação final global
+SUBDIVISÃO IV
 
-###### Artigo 160.º — (Votação final global)
+Votação final global
+
+Artigo 160.º
+
+(Votação final global)
 
 1 - Finda a discussão e votação na especialidade, procede-se à votação final global.
 
@@ -2462,9 +2895,13 @@ No caso de votação na especialidade pela comissão, o Plenário pode deliberar
 
 4 - Tendo lugar sucessivamente várias votações finais globais, a declaração de voto oral a que se refere o número anterior só será produzida no termos dessas votações, podendo incidir sobre todas ou algumas delas, mas sem exceder o tempo limite de três minutos, se referente a uma só votação, ou de seis minutos, se referente a mais de que uma votação.
 
-##### DIVISÃO V — Redacção final
+DIVISÃO V
 
-###### Artigo 161.º — (Redacção final)
+Redacção final
+
+Artigo 161.º
+
+(Redacção final)
 
 1 - A redacção final dos projectos e propostas de lei aprovados incumbe à comissão competente ou, no caso de mais de uma comissão se ter pronunciado sobre os mesmos, àquela que o Presidente determinar.
 
@@ -2474,7 +2911,9 @@ No caso de votação na especialidade pela comissão, o Plenário pode deliberar
 
 4 - Concluída a elaboração do texto, este é publicado no Diário.
 
-###### Artigo 162.º — (Reclamações)
+Artigo 162.º
+
+(Reclamações)
 
 1 - Dez Deputados, pelo menos, podem reclamar contra inexactidões até à terceira reunião plenária posterior ao dia da publicação do texto de redacção final no Diário.
 
@@ -2482,17 +2921,25 @@ No caso de votação na especialidade pela comissão, o Plenário pode deliberar
 
 3 - Se o texto só puder ser publicado fora do período normal de funcionamento da Assembleia ou durante as suspensões desta, os poderes do Plenário previstos neste artigo são exercidos pela Comissão Permanente.
 
-###### Artigo 163.º — (Texto definitivo)
+Artigo 163.º
+
+(Texto definitivo)
 
 Considera-se definitivo o texto sobre o qual não tenham recaído reclamações ou depois de elas terem sido decididas.
 
-##### DIVISÃO VI — Promulgação e segunda deliberação
+DIVISÃO VI
 
-###### Artigo 164.º — (Decretos da Assembleia da República)
+Promulgação e segunda deliberação
+
+Artigo 164.º
+
+(Decretos da Assembleia da República)
 
 Os projectos e as propostas de lei aprovados denominam-se decretos da Assembleia da República e são enviados ao Presidente da República para promulgação.
 
-###### Artigo 165.º — (Segunda deliberação)
+Artigo 165.º
+
+(Segunda deliberação)
 
 1 - No caso de exercício do direito de veto pelo Presidente da República, nos termos do artigo 139.º da Constituição, a nova apreciação do diploma efectua-se a partir do 15.º dia posterior ao da recepção da mensagem fundamentada, em reunião marcada pelo Presidente da Assembleia, por sua iniciativa ou de um décimo dos Deputados.
 
@@ -2504,7 +2951,9 @@ Os projectos e as propostas de lei aprovados denominam-se decretos da Assembleia
 
 5 - Não carece de voltar à comissão, para efeito de redacção final, o texto que na segunda deliberação não sofra alterações.
 
-###### Artigo 166.º — (Efeitos da deliberação)
+Artigo 166.º
+
+(Efeitos da deliberação)
 
 1 - Se a Assembleia confirmar o voto, nos termos dos n.os 2 e 3 do artigo 139.º da Constituição, o decreto é enviado ao Presidente da República para promulgação no prazo de oito dias a contar da sua recepção.
 
@@ -2512,7 +2961,9 @@ Os projectos e as propostas de lei aprovados denominam-se decretos da Assembleia
 
 3 - Se a Assembleia não confirmar o voto, a iniciativa legislativa não pode ser renovada na mesma sessão legislativa, salvo nova eleição da Assembleia da República.
 
-###### Artigo 167.º — (Veto por inconstitucionalidade)
+Artigo 167.º
+
+(Veto por inconstitucionalidade)
 
 1 - No caso de veto pelo Presidente da República, nos termos do artigo 279.º da Constituição, é aplicável o artigo 165.º, salvo as excepções constantes do presente artigo.
 
@@ -2520,31 +2971,45 @@ Os projectos e as propostas de lei aprovados denominam-se decretos da Assembleia
 
 3 - O texto que na segunda deliberação tenha sido objecto de expurgação das normas julgadas inconstitucionais pode, se a Assembleia assim deliberar, voltar à comissão para efeito de redacção final.
 
-###### Artigo 168.º — (Envio para promulgação)
+Artigo 168.º
+
+(Envio para promulgação)
 
 1 - Se a Assembleia expurgar as normas julgadas inconstitucionais ou confirmar o decreto por maioria de dois terços dos Deputados presentes, o decreto é enviado ao Presidente da República para promulgação.
 
 2 - Se a Assembleia introduzir alterações, o novo decreto é enviado ao Presidente da República para promulgação.
 
-#### SECÇÃO II — Processos legislativos especiais
+SECÇÃO II
 
-##### DIVISÃO I — Aprovação dos estatutos das regiões autónomas
+Processos legislativos especiais
 
-###### Artigo 169.º — (Iniciativa)
+DIVISÃO I
+
+Aprovação dos estatutos das regiões autónomas
+
+Artigo 169.º
+
+(Iniciativa)
 
 1 - A iniciativa legislativa em matéria de estatutos político-administrativos das regiões autónomas compete exclusivamente às respectivas assembleias regionais, nos termos do artigo 228.º da Constituição.
 
 2 - Podem apresentar propostas de alteração as assembleias regionais, os Deputados e o Governo.
 
-###### Artigo 170.º — (Apreciação em comissão discussão e votação)
+Artigo 170.º
+
+(Apreciação em comissão discussão e votação)
 
 A apreciação em comissão, bem como a discussão e votação, efectuam-se nos termos gerais do processo legislativo.
 
-###### Artigo 171.º — (Aprovação sem alterações)
+Artigo 171.º
+
+(Aprovação sem alterações)
 
 Se o projecto de estatuto for aprovado sem alterações, o decreto da Assembleia da República é enviado ao Presidente da República é enviado ao Presidente da República para promulgação.
 
-###### Artigo 172.º — (Aprovação com alterações ou rejeição)
+Artigo 172.º
+
+(Aprovação com alterações ou rejeição)
 
 1 - Se o projecto de estatuto for aprovado com alterações ou for rejeitado, e remetido à respectiva assembleia regional para apreciação e emissão de parecer.
 
@@ -2554,47 +3019,69 @@ Se o projecto de estatuto for aprovado sem alterações, o decreto da Assembleia
 
 4 - A Assembleia da República procede à discussão e deliberação final.
 
-###### Artigo 173.º — (Alterações supervenientes)
+Artigo 173.º
+
+(Alterações supervenientes)
 
 O regime previsto nos artigos anteriores é aplicável às alterações dos estatutos.
 
-##### DIVISÃO II — Aprovação do estatuto do território de Macau
+DIVISÃO II
 
-###### Artigo 174.º — (Iniciativa)
+Aprovação do estatuto do território de Macau
+
+Artigo 174.º
+
+(Iniciativa)
 
 1 - A iniciativa legislativa em matéria de estatuto do território de Macau, para efeitos de alterações ao estatuto em vigor ou da sua substituição, nos termos do artigo 296.º da Constituição, compete exclusivamente à Assembleia Legislativa de Macau.
 
 2 - Podem apresentar propostas de alteração os Deputados e o Governo.
 
-###### Artigo 175.º — (Parecer do Conselho de Estado)
+Artigo 175.º
+
+(Parecer do Conselho de Estado)
 
 O projecto de alterações ou de estatuto novo é enviado à Assembleia da República, acompanhado do parecer do Conselho de Estado, sem o que não pode ser apreciado.
 
-###### Artigo 176.º — (Apreciação em comissão, discussão e votação)
+Artigo 176.º
+
+(Apreciação em comissão, discussão e votação)
 
 A apreciação em comissão, bem como a discussão e votação do estatuto do território de Macau, efectuam-se nos termos gerais do processo legislativo.
 
-###### Artigo 177.º — (Aprovação sem alterações)
+Artigo 177.º
+
+(Aprovação sem alterações)
 
 Se o projecto for aprovado sem alterações, o decreto da Assembleia da República é enviado ao Presidente da República para promulgação.
 
-###### Artigo 178.º — (Aprovação com alterações ou rejeição)
+Artigo 178.º
+
+(Aprovação com alterações ou rejeição)
 
 1 - Se o projecto for aprovado com alterações ou for rejeitado, é devolvido, no primeiro caso, com as alterações, à Assembleia Legislativa de Macau para apreciação e nova deliberação.
 
 2 - Se a Assembleia Legislativa de Macau se pronunciar favoravelmente, a sua deliberação é comunicada ao Presidente da República, que envia o decreto desta ao Presidente da República para promulgação.
 
-##### DIVISÃO III — Autorização e ratificação da declaração do estado de sítio ou do estado de emergência
+DIVISÃO III
 
-##### SUBDIVISÃO I — Autorização para declaração do estado de sítio ou do estado de emergência
+Autorização e ratificação da declaração do estado de sítio ou do estado de emergência
 
-###### Artigo 179.º — (Reunião da Assembleia)
+SUBDIVISÃO I
+
+Autorização para declaração do estado de sítio ou do estado de emergência
+
+Artigo 179.º
+
+(Reunião da Assembleia)
 
 1 - Tendo o Presidente da República solicitado autorização à Assembleia para a declaração do estado de sítio ou do estado de emergência, nos termos do artigo 19.º, da alínea c) do artigo 137.º e do artigo 141.º da Constituição, o Presidente da Assembleia promove a sua imediata apreciação pelo Plenário ou pela Comissão Permanente, no caso de a Assembleia não estar reunida nem ser possível a sua reunião imediata.
 
 2 - A inscrição na ordem do dia da apreciação do pedido de autorização para a declaração do estado de sítio ou do estado de emergência, bem como a marcação da reunião do Plenário ou a convocação da Comissão Permanente, têm lugar independentemente de qualquer prazo ou formalidades previstos no Regimento, sem prejuízo do disposto no n.º 2 do artigo 52.º
 
-###### Artigo 180.º — (Debate)
+Artigo 180.º
+
+(Debate)
 
 1 - O debate tem por base a mensagem do Presidente da República, que, nos termos do artigo 19.º da Constituição, constitui o pedido de autorização da declaração do estado de sítio ou do estado de emergência.
 
@@ -2606,55 +3093,81 @@ Se o projecto for aprovado sem alterações, o decreto da Assembleia da Repúbli
 
 5 - Ao debate na Comissão Permanente aplicam-se, com as devidas adaptações, as disposições constantes dos números anteriores.
 
-###### Artigo 181.º — (Votação)
+Artigo 181.º
+
+(Votação)
 
 A votação incide sobre a concessão de autorização.
 
-###### Artigo 182.º — (Forma de autorização)
+Artigo 182.º
+
+(Forma de autorização)
 
 A autorização toma a forma de lei quando concedida pelo Plenário e de resolução quando concedida pela Comissão Permanente.
 
-##### SUBDIVISÃO II — Ratificação da declaração de estado de sítio ou do estado de emergência
+SUBDIVISÃO II
 
-###### Artigo 183.º — (Convocação imediata da Assembleia)
+Ratificação da declaração de estado de sítio ou do estado de emergência
+
+Artigo 183.º
+
+(Convocação imediata da Assembleia)
 
 Sempre que a autorização para a declaração do estado de sítio ou do estado de emergência seja concedida pela Comissão Permanente, esta convoca de imediato a Assembleia para reunir no mais curto prazo possível, para efeito da sua ratificação.
 
-###### Artigo 184.º — (Duração do debate)
+Artigo 184.º
+
+(Duração do debate)
 
 O debate não pode exceder um dia, aplicando-se, com as necessárias adaptações, o disposto no artigo 180.º
 
-###### Artigo 185.º — (Votação)
+Artigo 185.º
+
+(Votação)
 
 A votação incide sobre a concessão de ratificação.
 
-###### Artigo 186.º — (Forma)
+Artigo 186.º
+
+(Forma)
 
 1 - A concessão de ratificação toma a forma de lei.
 
 2 - A recusa de ratificação toma a forma de resolução.
 
-###### Artigo 187.º — (Renovação)
+Artigo 187.º
+
+(Renovação)
 
 No caso de o Presidente da República ter solicitado a renovação da autorização da Assembleia da República para a declaração do estado de sítio ou do estado de emergência, aplicam-se com as necessárias adaptações, as disposições constantes dos artigos anteriores.
 
-##### SUBDIVISÃO III — Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO III
 
-###### Artigo 188.º — (Apreciação da aplicação)
+Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+
+Artigo 188.º
+
+(Apreciação da aplicação)
 
 1 - O Presidente da Assembleia da República promove, nos termos constitucionais, a apreciação pelo Plenário da aplicação da declaração do estado de sítio ou de estado de emergência, nos quinze dias subsequentes ao termo destes.
 
 2 - Ao debate aplicam-se, com as necessárias adaptações, as disposições constantes do artigo 180.º
 
-##### DIVISÃO IV — Autorização para declarar a guerra e para fazer a paz
+DIVISÃO IV
 
-###### Artigo 189.º — (Reunião da Assembleia)
+Autorização para declarar a guerra e para fazer a paz
+
+Artigo 189.º
+
+(Reunião da Assembleia)
 
 1 - Quando o Presidente da República solicitar autorização à Assembleia da República para declarar a guerra ou para fazer a paz, nos termos da alínea c) do artigo 138.º da Constituição, o Presidente da Assembleia promove a sua imediata apreciação pelo Plenário ou pela Comissão Permanente, no caso de a Assembleia não estar reunida nem ser possível a sua reunião imediata.
 
 2 - A inscrição na ordem do dia da apreciação do pedido de autorização para a declaração da guerra ou para a feitura da paz, bem como a marcação da reunião do Plenário ou a convocação da Comissão Permanente, tem lugar independentemente de qualquer prazo ou formalidades previstos no Regimento, sem prejuízo do disposto no n.º 2 do artigo 52.º
 
-###### Artigo 190.º — (Debate)
+Artigo 190.º
+
+(Debate)
 
 1 - O debate não pode exceder um dia e é iniciado e encerrado por intervenções do Primeiro-Ministro, com a duração máxima de uma hora cada.
 
@@ -2666,25 +3179,37 @@ No caso de o Presidente da República ter solicitado a renovação da autorizaç
 
 5 - Ao debate na Comissão Permanente aplicam-se, com as devidas adaptações, as disposições constantes dos números anteriores.
 
-###### Artigo 191.º — (Votação)
+Artigo 191.º
+
+(Votação)
 
 A votação incide sobre a concessão de autorização.
 
-###### Artigo 192.º — (Forma da autorização)
+Artigo 192.º
+
+(Forma da autorização)
 
 A autorização toma a forma de resolução.
 
-###### Artigo 193.º — (Convocação imediata da assembleia)
+Artigo 193.º
+
+(Convocação imediata da assembleia)
 
 Sempre que a autorização para a declaração da guerra ou para a feitura da paz seja concedida pela Comissão Permanente, esta convoca de imediato a Assembleia para reunir no mais curso prazo possível, para efeito da sua ratificação.
 
-###### Artigo 194.º — (Duração do debate)
+Artigo 194.º
+
+(Duração do debate)
 
 O debate não pode exceder um dia, aplicando-se, com as necessárias adaptações, o disposto no artigo 190.º
 
-##### DIVISÃO V — Autorizações legislativas
+DIVISÃO V
 
-###### Artigo 195.º — (Objecto)
+Autorizações legislativas
+
+Artigo 195.º
+
+(Objecto)
 
 1 - A Assembleia da República pode autorizar o Governo a fazer decretos-leis, nos termos do artigo 168.º da Constituição.
 
@@ -2692,7 +3217,9 @@ O debate não pode exceder um dia, aplicando-se, com as necessárias adaptaçõe
 
 3 - A duração da autorização legislativa pode ser prorrogada por período determinado, mediante nova lei.
 
-###### Artigo 196.º — (Regras especiais)
+Artigo 196.º
+
+(Regras especiais)
 
 Nas autorizações legislativas observam-se as seguintes regras especiais:
 
@@ -2700,9 +3227,13 @@ a) A iniciativa originária é da exclusiva competência do Governo;
 
 b) Não há exame em comissão.
 
-### CAPÍTULO II — APRECIAÇÃO DE DECRETOS-LEIS
+CAPÍTULO II
 
-###### Artigo 197.º — (Requerimento de apreciação de decretos-leis)
+APRECIAÇÃO DE DECRETOS-LEIS
+
+Artigo 197.º
+
+(Requerimento de apreciação de decretos-leis)
 
 1 - O requerimento de apreciação de decretos-leis para efeito de alteração ou de recusa de ratificação deve ser subscrito por dez Deputados e apresentado por escrito na Mesa nas primeiras dez reuniões plenárias subsequentes à publicação.
 
@@ -2710,11 +3241,15 @@ b) Não há exame em comissão.
 
 3 - À admissão do requerimento são aplicáveis as regras dos artigos 136.º e 137.º, com as devidas adaptações.
 
-###### Artigo 198.º — (Suspensão da vigência)
+Artigo 198.º
+
+(Suspensão da vigência)
 
 Requerida a apreciação, e no caso de serem apresentadas propostas de alteração, a Assembleia pode suspender, no todo ou em parte, mediante resolução, a vigência do decreto-lei até à publicação da lei que o vier a alterar ou até à rejeição de todas aquelas propostas.
 
-###### Artigo 199.º — (Discussão na generalidade)
+Artigo 199.º
+
+(Discussão na generalidade)
 
 1 - O decreto-lei é apreciado pela Assembleia da República, não havendo exame em comissão.
 
@@ -2722,21 +3257,29 @@ Requerida a apreciação, e no caso de serem apresentadas propostas de alteraç�
 
 3 - O debate não pode exceder três reuniões plenárias, salvo o disposto no artigo 150.º
 
-###### Artigo 200.º — (Votação e forma)
+Artigo 200.º
+
+(Votação e forma)
 
 1 - A votação na generalidade incide sobre a recusa de ratificação.
 
 2 - A recusa de ratificação toma a forma de resolução.
 
-###### Artigo 201.º — (Recusa de ratificação)
+Artigo 201.º
+
+(Recusa de ratificação)
 
 No caso de recusa de ratificação, o decreto-lei deixa de vigorar no dia da publicação da resolução no Diário da República, não podendo o decreto-lei voltar a ser publicado no decurso da mesma sessão legislativa.
 
-###### Artigo 202.º — (Repristinação)
+Artigo 202.º
+
+(Repristinação)
 
 A resolução deve especificar se a recusa de ratificação implica a respristinação das normas eventualmente revogadas pelo diploma em causa.
 
-###### Artigo 203.º — (Alteração do decreto-lei)
+Artigo 203.º
+
+(Alteração do decreto-lei)
 
 1 - As propostas de alteração podem ser apresentadas até ao termo da discussão na generalidade, sem prejuízo da apresentação de novas propostas relativas aos artigos objecto de discussão e votação na especialidade.
 
@@ -2746,15 +3289,21 @@ A resolução deve especificar se a recusa de ratificação implica a respristin
 
 4 - Se forem rejeitadas todas as propostas de alteração e a vigência do decreto-lei se encontrar suspensa, o Presidente, para os efeitos do n.º 2 do artigo 172.º da Constituição, remete para publicação no Diário da República a declaração do termo da suspensão.
 
-###### Artigo 204.º — (Revogação do decreto-lei)
+Artigo 204.º
+
+(Revogação do decreto-lei)
 
 1 - Se o Governo, em qualquer momento, revogar o decreto-lei objecto de apreciação, o respectivo processo é automaticamente encerrado.
 
 2 - Se a revogação ocorrer durante o debate na especialidade, pode, porém, qualquer Deputado adoptar o decreto-lei como projecto de lei, nos termos do n.º 2 do artigo 133.º
 
-### CAPÍTULO III — APROVAÇÃO DE TRATADOS
+CAPÍTULO III
 
-###### Artigo 205.º — (Iniciativa)
+APROVAÇÃO DE TRATADOS
+
+Artigo 205.º
+
+(Iniciativa)
 
 1 - Os tratados sujeitos à aprovação da Assembleia da República, nos termos da alínea i) do artigo 164.º da Constituição, são enviadas pelo Governo à Assembleia.
 
@@ -2762,29 +3311,39 @@ A resolução deve especificar se a recusa de ratificação implica a respristin
 
 3 - Quando o tratado diga respeito às regiões autónomas, nos termos da alínea p) do artigo 229.º da Constituição, o texto é remetido aos respectivos órgãos de governo próprio, a fim de sobre eles se pronunciarem.
 
-###### Artigo 206.º — (Exame em comissão)
+Artigo 206.º
+
+(Exame em comissão)
 
 1 - A comissão emite parecer no prazo de 30 dias, se outro não for solicitado pelo Governo ou estabelecido pelo Presidente.
 
 2 - A título excepcional, e por motivo relevante de interesse nacional, pode o Governo requerer ao Presidente da Assembleia que algumas reuniões da comissão sejam secretas.
 
-###### Artigo 207.º — (Discussão e votação)
+Artigo 207.º
+
+(Discussão e votação)
 
 1 - A discussão do tratado no Plenário é feita na generalidade e na especialidade.
 
 2 - Finda a discussão, procede-se à votação global do tratado.
 
-###### Artigo 208.º — (Efeitos da votação)
+Artigo 208.º
+
+(Efeitos da votação)
 
 1 - Se o tratado for aprovado será enviado ao Presidente da República para ratificação.
 
 2 - A resolução de aprovação ou rejeição do tratado é mandada publicar no Diário da República pelo Presidente da Assembleia.
 
-###### Artigo 209.º — (Resolução de aprovação)
+Artigo 209.º
+
+(Resolução de aprovação)
 
 A resolução de aprovação do tratado contém o texto do tratado.
 
-###### Artigo 210.º — (Segunda deliberação)
+Artigo 210.º
+
+(Segunda deliberação)
 
 1 - No caso de o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de tratado, a resolução que o aprova deve ser confirmada por maioria de dois terços dos Deputados presentes.
 
@@ -2798,21 +3357,31 @@ A resolução de aprovação do tratado contém o texto do tratado.
 
 6 - Se a Assembleia confirmar o voto, o tratado é reenviado ao Presidente da República para efeitos do n.º 4 do artigo 279.º da Constituição.
 
-###### Artigo 211.º — (Resolução com alterações)
+Artigo 211.º
+
+(Resolução com alterações)
 
 1 - Se o tratado admitir reservas, a resolução da Assembleia que o confirme em segunda deliberação pode introduzir alterações na primeira resolução de aprovação do tratado, formulando novas reservas ou modificando as anteriormente formuladas.
 
 2 - No caso previsto no número anterior, o Presidente da República pode requerer a apreciação preventiva da constitucionalidade de qualquer das normas do tratado.
 
-### CAPÍTULO IV — PROCESSOS DO PLANO, DO ORÇAMENTO E DAS CONTAS PÚBLICAS
+CAPÍTULO IV
 
-#### SECÇÃO I — Grandes opções do plano e Orçamento do Estado
+PROCESSOS DO PLANO, DO ORÇAMENTO E DAS CONTAS PÚBLICAS
 
-###### Artigo 212.º — (Apresentação das propostas de lei)
+SECÇÃO I
+
+Grandes opções do plano e Orçamento do Estado
+
+Artigo 212.º
+
+(Apresentação das propostas de lei)
 
 A proposta de lei das grandes opções do Plano e a proposta de lei de Orçamento do Estado referentes a cada ano económico são apresentadas à Assembleia no prazo legalmente fixado.
 
-###### Artigo 213.º — (Conhecimento)
+Artigo 213.º
+
+(Conhecimento)
 
 1 - Admitida qualquer das propostas, o Presidente ordena a sua publicação no Diário e a distribuição imediata a todos os grupos parlamentares, bem como aos Deputados que o solicitem.
 
@@ -2820,7 +3389,9 @@ A proposta de lei das grandes opções do Plano e a proposta de lei de Orçament
 
 3 - É igualmente publicado no Diário e remetido à Comissão o parecer que o Conselho Nacional do Plano tenha enviado à Assembleia.
 
-###### Artigo 214.º — (Exame pelas comissões)
+Artigo 214.º
+
+(Exame pelas comissões)
 
 1 - As comissões emviam à comissão competente em razão da matéria, no prazo de vinte dias, parecer fundamentado relativamente às duas propostas de lei.
 
@@ -2828,11 +3399,15 @@ A proposta de lei das grandes opções do Plano e a proposta de lei de Orçament
 
 3 - Para efeito de apreciação das propostas de lei, nos prazos previstos nos n.os 1 e 2, as comissões marcam as reuniões que julguem necessárias com a participação de membros do Governo.
 
-###### Artigo 215.º — (Agendamento)
+Artigo 215.º
+
+(Agendamento)
 
 Esgotado o prazo de apreciação pelas comissões, as propostas de lei são agendadas para discussão, nos termos do artigo 59.º
 
-###### Artigo 216.º — (Debate na generalidade)
+Artigo 216.º
+
+(Debate na generalidade)
 
 1 - O debate na generalidade das grandes opções do Plano e do Orçamento do Estado tem a duração mínima de dois dias e a máxima de cinco, observando-se o disposto no artigo 150.º
 
@@ -2842,11 +3417,15 @@ Esgotado o prazo de apreciação pelas comissões, as propostas de lei são agen
 
 4 - Durante o debate as reuniões não têm período de antes da ordem do dia.
 
-###### Artigo 217.º — (Votação na generalidade)
+Artigo 217.º
+
+(Votação na generalidade)
 
 No termo do debate são votadas na generalidade, sucessivamente, a proposta de lei das grandes opções do Plano e a de Orçamento do Estado.
 
-###### Artigo 218.º — (Debate na especialidade)
+Artigo 218.º
+
+(Debate na especialidade)
 
 1 - O debate na especialidade das propostas de lei das grandes opções do Plano e do Orçamento do Estado não pode exceder dez dias, sendo o deste último organizado de modo a discutir-se, sucessivamente, o orçamento de cada Ministério, nele intervindo os respectivos membros do Governo.
 
@@ -2854,45 +3433,67 @@ No termo do debate são votadas na generalidade, sucessivamente, a proposta de l
 
 3 - Caso o Plenário use de faculdade prevista no artigo 155.º, o debate na especialidade das mencionadas propostas de lei não pode exceder três dias.
 
-###### Artigo 219.º — (Votação final global)
+Artigo 219.º
+
+(Votação final global)
 
 As propostas de lei são objecto de votação final global.
 
-###### Artigo 220.º — (Redacção final)
+Artigo 220.º
+
+(Redacção final)
 
 A redacção final incumbe à comissão competente em razão da matéria, que dispõe, para o efeito, de um prazo de três dias.
 
-#### SECÇÃO II — Conta Geral do Estado, relatórios de execução do Plano e outras contas públicas
+SECÇÃO II
 
-###### Artigo 221.º — (Apresentação)
+Conta Geral do Estado, relatórios de execução do Plano e outras contas públicas
+
+Artigo 221.º
+
+(Apresentação)
 
 1 - A Conta Geral do Estado e o relatório de execução do Plano são apresentados conjuntamente pelo Governo à Assembleia da República até 31 de Dezembro do ano seguinte àquele a que respeitem.
 
 2 - A Conta Geral do Estado é apresentada à Assembleia da República instruída com o relatório do Tribunal de Contas, se estiver elaborado, e os demais elementos necessários à sua apreciação.
 
-###### Artigo 222.º — (Parecer do Conselho Nacional do Plano)
+Artigo 222.º
 
-**O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.**
+(Parecer do Conselho Nacional do Plano)
 
-###### Artigo 223.º — (Parecer)
+O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
+
+Artigo 223.º
+
+(Parecer)
 
 1 - A Conta Geral do Estado e os relatórios de execução do Plano são remetidos às comissões competentes para efeitos de elaboração de parecer.
 
 2 - À comissão formalmente competente compete elaborar o parecer final, anexando os pareceres emitidos pelas outras comissões.
 
-###### Artigo 224.º — (Apreciação pelo Plenário)
+Artigo 224.º
+
+(Apreciação pelo Plenário)
 
 Recebidos os pareceres mencionados no artigo anterior, o Presidente agenda, no prazo de 30 dias, a apreciação da Conta Geral do Estado e dos relatórios de execução do Plano.
 
-###### Artigo 225.º — (Contas de outras entidades públicas)
+Artigo 225.º
+
+(Contas de outras entidades públicas)
 
 As disposições dos artigos anteriores são aplicáveis, com as devidas adaptações, à apreciação das contas das demais entidades públicas que, nos termos da lei, as devam submeter à Assembleia da República.
 
-### CAPÍTULO V — PROCESSOS DE ORIENTAÇÃO E FISCALIZAÇÃO POLÍTICA
+CAPÍTULO V
 
-#### SECÇÃO I — Apreciação do programa do Governo
+PROCESSOS DE ORIENTAÇÃO E FISCALIZAÇÃO POLÍTICA
 
-###### Artigo 226.º — (Reunião da Assembleia)
+SECÇÃO I
+
+Apreciação do programa do Governo
+
+Artigo 226.º
+
+(Reunião da Assembleia)
 
 1 - A reunião da Assembleia para apresentação do programa do Governo, nos termos do artigo 195.º da Constituição, é fixada pelo Presidente da Assembleia, de acordo com o Primeiro-Ministro.
 
@@ -2900,13 +3501,17 @@ As disposições dos artigos anteriores são aplicáveis, com as devidas adapta�
 
 3 - O debate não pode exceder três dias de reuniões consecutivas.
 
-###### Artigo 227.º — (Apreciação do programa)
+Artigo 227.º
+
+(Apreciação do programa)
 
 1 - O programa do Governo é submetido à apreciação da Assembleia da República através de uma declaração do Primeiro-Ministro.
 
 2 - Finda a apresentação, há um período para pedidos de esclarecimento por Deputados dos grupos parlamentares.
 
-###### Artigo 228.º — (Debate)
+Artigo 228.º
+
+(Debate)
 
 1 - O debate sobre o programa do Governo inicia-se findos os esclarecimentos previstos no artigo anterior ou, a solicitação de qualquer Deputado, no prazo máximo de 48 horas após a distribuição do texto do programa.
 
@@ -2916,7 +3521,9 @@ As disposições dos artigos anteriores são aplicáveis, com as devidas adapta�
 
 4 - O debate termina com as intervenções de um Deputado de cada grupo parlamentar e do Primeiro-Ministro, que o encerra.
 
-###### Artigo 229.º — (Rejeição do programa e voto de confiança)
+Artigo 229.º
+
+(Rejeição do programa e voto de confiança)
 
 1 - Até ao encerramento do debate, e sem prejuízo deste, pode qualquer grupo parlamentar propor a rejeição do programa ou o Governo solicitar a aprovação de um voto de confiança.
 
@@ -2930,15 +3537,21 @@ As disposições dos artigos anteriores são aplicáveis, com as devidas adapta�
 
 6 - O Presidente da Assembleia comunica ao Presidente da República, para os efeitos do artigo 198.º da Constituição, a aprovação da ou das moções de rejeição ou a não aprovação da moção de confiança.
 
-#### SECÇÃO II — Moções de confiança
+SECÇÃO II
 
-###### Artigo 230.º — (Reunião da Assembleia)
+Moções de confiança
+
+Artigo 230.º
+
+(Reunião da Assembleia)
 
 1 - Se o Governo, nos termos do artigo 196.º da Constituição, solicitar à Assembleia da República a aprovação de um voto de confiança sobre uma declaração de política geral ou sobre qualquer assunto relevante de interesse nacional, a discussão iniciar-se-á no terceiro dia parlamentar subsequente à apresentação do requerimento do voto de confiança ao Presidente da Assembleia.
 
 2 - Fora do funcionamento efectivo da Assembleia da República o requerimento do Governo só determina a convocação do Plenário, mediante prévia deliberação da Comissão Permanente, nos termos do artigo 44.º do Regimento.
 
-###### Artigo 231.º — (Debate)
+Artigo 231.º
+
+(Debate)
 
 1 - O debate não pode exceder três dias e durante ele as reuniões da Assembleia não tem período de antes da ordem do dia.
 
@@ -2948,19 +3561,27 @@ As disposições dos artigos anteriores são aplicáveis, com as devidas adapta�
 
 4 - A moção de confiança pode ser retirados, no todo ou em parte, pelo Governo até ao fim do debate.
 
-###### Artigo 232.º — (Moção de confiança)
+Artigo 232.º
+
+(Moção de confiança)
 
 1 - Encerrado o debate, procede-se à votação da moção de confiança na mesma reunião e após intervalo de uma hora, se requerido por qualquer grupo parlamentar.
 
 2 - Se a moção de confiança não for aprovada, o facto será comunicado pelo Presidente da Assembleia ao Presidente da República para efeito do disposto no artigo 198.º da Constituição.
 
-#### SECÇÃO III — Moções de censura
+SECÇÃO III
 
-###### Artigo 233.º — (Iniciativa)
+Moções de censura
+
+Artigo 233.º
+
+(Iniciativa)
 
 Podem apresentar moções de censura ao Governo sobre a execução do seu programa ou assunto relevante de interesse nacional, nos termos do artigo 197.º da Constituição, um quarto dos Deputados em efectividade de funções ou qualquer grupo parlamentar.
 
-###### Artigo 234.º — (Debate)
+Artigo 234.º
+
+(Debate)
 
 1 - O debate inicia-se no terceiro dia parlamentar subsequente à apresentação da moção de censura, não pode exceder três dias e durante ele as reuniões da Assembleia não têm período de antes da ordem do dia.
 
@@ -2972,7 +3593,9 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 5 - A moção de censura pode ser retirada até ao termo do debate, mas, neste caso, o debate conta para o efeito previsto na alínea c) do n.º 2 do artigo 183.º da Constituição.
 
-###### Artigo 235.º — (Moção de censura)
+Artigo 235.º
+
+(Moção de censura)
 
 1 - Encerrado o debate, procede-se à votação na mesma reunião e após intervalo de uma hora, se requerido por qualquer grupo parlamentar.
 
@@ -2982,9 +3605,13 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 4 - No caso de aprovação de uma moção de censura, o Presidente da Assembleia comunica o facto ao Presidente da República, para efeitos do disposto no artigo 198.º da Constituição, e remete-a para publicação no Diário da República.
 
-#### SECÇÃO IV — Perguntas ao Governo
+SECÇÃO IV
 
-###### Artigo 236.º — (Perguntas ao Governo)
+Perguntas ao Governo
+
+Artigo 236.º
+
+(Perguntas ao Governo)
 
 1 - Em reuniões plenárias, para o efeito marcadas, os Deputados podem formular oralmente perguntas aos membros do Governo.
 
@@ -2992,7 +3619,9 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 3 - Indicado o objecto das perguntas, o Presidente manda distribuir imediatamente cópia a todos os grupos parlamentares e publicar o seu teor no Diário.
 
-###### Artigo 237.º — (Data das reuniões)
+Artigo 237.º
+
+(Data das reuniões)
 
 1 - As perguntas ao Governo serão feitas em reuniões quinzenais para esse fim designadas e que não terão período de antes da ordem do dia.
 
@@ -3000,7 +3629,9 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 3 - Estabelecida a data, será esta anunciada aos Deputados na Reunião plenária que estiver a decorrer ou na que se seguir.
 
-###### Artigo 238.º — (Distribuição das perguntas e organização das respostas)
+Artigo 238.º
+
+(Distribuição das perguntas e organização das respostas)
 
 1 - Cada grupo parlamentar pode formular uma pergunta por cada conjunto de 25 Deputados ou fracção que o componham.
 
@@ -3008,7 +3639,9 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 3 - O Governo escolhe as matérias a que responde, dando indicação da sua escolha e dos membros do Governo encarregados de responder, até à sessão anterior àquela em que se realiza a das perguntas.
 
-###### Artigo 239.º — (Uso da palavra)
+Artigo 239.º
+
+(Uso da palavra)
 
 1 - Os Deputados inscritos enunciam cada pergunta por tempo não superior a três minutos.
 
@@ -3020,13 +3653,19 @@ Podem apresentar moções de censura ao Governo sobre a execução do seu progra
 
 5 - Pode ser estabelecido o regime de tempo global, adoptando-se com as necessárias adaptações as respectivas regras.
 
-#### SECÇÃO V — Interpelações
+SECÇÃO V
 
-###### Artigo 240.º — (Reunião da Assembleia)
+Interpelações
+
+Artigo 240.º
+
+(Reunião da Assembleia)
 
 No caso de exercício do direito previsto na alínea c) do n.º 2 do artigo 183.º da Constituição, o debate sobre política geral inicia-se até ao décimo dia posterior à publicação da interpelação no Diário.
 
-###### Artigo 241.º — (Debate)
+Artigo 241.º
+
+(Debate)
 
 1 - O debate é aberto com as intervenções de um Deputado do grupo parlamentar interpelante e de um membro do Governo.
 
@@ -3036,27 +3675,41 @@ No caso de exercício do direito previsto na alínea c) do n.º 2 do artigo 183.
 
 4 - O debate termina com as intervenções de um Deputado do grupo parlamentar interpelante e de um membro do Governo, que o encerra.
 
-#### SECÇÃO VI — Debates sobre assuntos relevantes de interesse nacional
+SECÇÃO VI
 
-###### Artigo 242.º — (Reunião da Assembleia)
+Debates sobre assuntos relevantes de interesse nacional
+
+Artigo 242.º
+
+(Reunião da Assembleia)
 
 1 - Quando o Governo proponha à Assembleia um debate sobre qualquer assunto relevante de interesse nacional ou quando a ele houver lugar por força de disposição legal, designadamente nos termos do n.º 4 do artigo 8.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, a Assembleia delibera, em prazo não superior a dez dias, sobre a sua realização ou agendamento.
 
 2 - O debate efectua-se nos termos fixados pela Conferência, observando-se o disposto no artigo 150.º
 
-#### SECÇÃO VII — Requerimentos
+SECÇÃO VII
 
-###### Artigo 243.º — (Resposta a requerimentos)
+Requerimentos
+
+Artigo 243.º
+
+(Resposta a requerimentos)
 
 Os requerimentos apresentados ao abrigo da alínea d) do artigo 159.º da Constituição são numerados, publicados e remetidos pelo Presidente à entidade competente.
 
-###### Artigo 244.º — (Requerimentos não respondidos)
+Artigo 244.º
+
+(Requerimentos não respondidos)
 
 A lista dos requerimentos não respondidos é publicada semestralmente no Diário.
 
-#### SECÇÃO VIII — Petições
+SECÇÃO VIII
 
-###### Artigo 245.º — (Forma)
+Petições
+
+Artigo 245.º
+
+(Forma)
 
 1 - O direito de petição previsto no artigo 52.º da Constituição exerce-se perante a Assembleia da República por meio de petições, representações, reclamações ou queixas dirigidas por escrito ao Presidente.
 
@@ -3064,29 +3717,39 @@ A lista dos requerimentos não respondidos é publicada semestralmente no Diári
 
 3 - Se a comissão competente da Assembleia o achar conveniente ou necessário, o autor ou os autores da petição poderão ser por ela ouvidos.
 
-###### Artigo 246.º — (Admissão)
+Artigo 246.º
+
+(Admissão)
 
 1 - A admissão das petições, bem como a sua classificação por assuntos, compete ao Presidente, que pode delegar num dos Vice-Presidentes.
 
 2 - São rejeitadas as petições cujo autor ou cujos autores se não encontrem devidamente identificados, nos termos do n.º 2 do artigo anterior.
 
-###### Artigo 247.º — (Seguimento)
+Artigo 247.º
+
+(Seguimento)
 
 1 - Uma vez admitidas e numeradas, as petições são enviadas à comissão competente.
 
 2 - Cabe à Comissão Permanente pronunciar-se sobre as petições entradas fora do período normal de funcionamento da Assembleia.
 
-###### Artigo 248.º — (Exame pelas comissões)
+Artigo 248.º
+
+(Exame pelas comissões)
 
 1 - A comissão examina a petição no prazo de 60 dias.
 
 2 - A comissão elabora um relatório, dirigido ao Presidente, o qual contém a indicação das providências julgadas adequadas.
 
-###### Artigo 249.º — (Envio ao Provedor de Justiça)
+Artigo 249.º
+
+(Envio ao Provedor de Justiça)
 
 Se a comissão propuser que a petição seja submetida ao Provedor de Justiça, para efeitos do disposto no artigo 23.º da Constituição, o Presidente da Assembleia deve enviar-lha com o respectivo relatório.
 
-###### Artigo 250.º — (Publicação)
+Artigo 250.º
+
+(Publicação)
 
 1 - São publicadas na íntegra as petições:
 
@@ -3096,19 +3759,27 @@ b) Que o Presidente ou a comissão competente entenda que devem ser publicadas.
 
 2 - São igualmente publicados os relatórios a que a comissão competente entenda dar publicidade.
 
-###### Artigo 251.º — (Comunicação ao autor ou aos autores da petição)
+Artigo 251.º
 
-**O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+(Comunicação ao autor ou aos autores da petição)
 
-#### SECÇÃO IX — Inquéritos
+O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
-###### Artigo 252.º — (Objecto)
+SECÇÃO IX
+
+Inquéritos
+
+Artigo 252.º
+
+(Objecto)
 
 1 - Os inquéritos parlamentares têm por objecto o cumprimento da Constituição e das leis e a apreciação dos actos do Governo e da Administração.
 
 2 - Qualquer requerimento ou proposta tendente à realização de um inquérito deve indicar os seus fundamentos e delimitar o seu âmbito, sob pena de rejeição liminar pelo Presidente.
 
-###### Artigo 253.º — (Iniciativa)
+Artigo 253.º
+
+(Iniciativa)
 
 1 - A iniciativa de inquéritos compete:
 
@@ -3124,13 +3795,17 @@ d) Ao Primeiro-Ministro.
 
 3 - No caso previsto no número anterior, o Presidente toma as providências necessárias para que a composição toma as providências necessárias para que a composição, tomada de posse e entrada em funções da comissão de inquérito se processe até ao oitavo dia posterior à publicação do requerimento no Diário.
 
-###### Artigo 254.º — (Apreciação do inquérito parlamentar)
+Artigo 254.º
+
+(Apreciação do inquérito parlamentar)
 
 1 - A Assembleia pronuncia-se sobre o requerimento ou a proposta até ao 30.º dia posterior ao da sua publicação no Diário ou à sua distribuição em folhas avulsas aos grupos parlamentares.
 
 2 - No debate intervêm um dos requerentes ou proponentes do inquérito, o Primeiro-Ministro ou outro membro do Governo e um representante de cada grupo parlamentar.
 
-###### Artigo 255.º — (Deliberação)
+Artigo 255.º
+
+(Deliberação)
 
 1 - Deliberada a realização do inquérito, é constituída, nos termos do artigo 40.º, uma comissão eventual encarregada de a ele proceder.
 
@@ -3138,15 +3813,21 @@ d) Ao Primeiro-Ministro.
 
 3 - Se o relatório não for apresentado no prazo fixado, a comissão deverá justificar a falta e solicitar à Assembleia a prorrogação do prazo.
 
-###### Artigo 256.º — (Poderes da comissão parlamentar de inquérito)
+Artigo 256.º
+
+(Poderes da comissão parlamentar de inquérito)
 
 As comissões parlamentares de inquérito gozam dos poderes de investigação próprios das autoridades judiciais e demais poderes e direitos previstos na lei.
 
-###### Artigo 257.º — (Relatório da comissão)
+Artigo 257.º
+
+(Relatório da comissão)
 
 A comissão elabora um relatório, que apresenta ao Presidente, a fim de ser publicado no Diário.
 
-###### Artigo 258.º — (Apreciação do relatório)
+Artigo 258.º
+
+(Apreciação do relatório)
 
 1 - Até 30 dias após a publicação do relatório, o Presidente inclui a sua apreciação na ordem do dia.
 
@@ -3156,9 +3837,13 @@ A comissão elabora um relatório, que apresenta ao Presidente, a fim de ser pub
 
 4 - Juntamente com o relatório, a Assembleia aprecia os projectos de resolução que lhe sejam apresentados.
 
-#### SECÇÃO X — Relatórios do Provedor de Justiça
+SECÇÃO X
 
-###### Artigo 259.º — (Relatório anual)
+Relatórios do Provedor de Justiça
+
+Artigo 259.º
+
+(Relatório anual)
 
 1 - O relatório anual do Provedor de Justiça, depois de recebido, é remetido à comissão competente em razão da matéria.
 
@@ -3166,7 +3851,9 @@ A comissão elabora um relatório, que apresenta ao Presidente, a fim de ser pub
 
 3 - Para os efeitos do número anterior, pode a comissão solicitar a comparência do Provedor de Justiça.
 
-###### Artigo 260.º — (Apreciação pelo Plenário)
+Artigo 260.º
+
+(Apreciação pelo Plenário)
 
 1 - A Comissão emite parecer fundamentado que remete ao Presidente, a fim de ser publicado no Diário.
 
@@ -3174,27 +3861,41 @@ A comissão elabora um relatório, que apresenta ao Presidente, a fim de ser pub
 
 3 - O debate é generalizado, sendo aplicáveis as regras do artigo 150.º
 
-###### Artigo 261.º — (Relatórios especiais do Provedor)
+Artigo 261.º
+
+(Relatórios especiais do Provedor)
 
 Quando o Provedor de Justiça se dirija à Assembleia por a Administração não actuar de acordo com as suas recomendações ou se recusar a prestar a colaboração pedida, o Presidente envia a respectiva comunicação, bem como os documentos que a acompanhem, à comissão competente em razão da matéria e aos grupos parlamentares e determina a sua publicação no Diário.
 
-###### Artigo 262.º — (Recomendações)
+Artigo 262.º
+
+(Recomendações)
 
 Quando o Provedor de Justiça dirija à Assembleia recomendações legislativas, são estas remetidas, com os documentos que as acompanham, aos grupos parlamentares para os fins que estes entendam convenientes, e são publicados no Diário.
 
-### CAPÍTULO VI — PROCESSOS RELATIVOS A OUTROS ÓRGÃOS
+CAPÍTULO VI
 
-#### SECÇÃO I — Processos relativos ao Presidente da República
+PROCESSOS RELATIVOS A OUTROS ÓRGÃOS
 
-##### DIVISÃO I — Posse do Presidente da República
+SECÇÃO I
 
-###### Artigo 263.º — (Reunião da Assembleia)
+Processos relativos ao Presidente da República
+
+DIVISÃO I
+
+Posse do Presidente da República
+
+Artigo 263.º
+
+(Reunião da Assembleia)
 
 1 - A Assembleia da República reúne especialmente para a posse do Presidente da República, nos termos do artigo 130.º da Constituição.
 
 2 - Se a Assembleia não estiver em funcionamento efectivo, reúne-se por iniciativa da Comissão Permanente ou, na impossibilidade desta e em caso de grave emergência, por iniciativa de mais de metade dos Deputados.
 
-###### Artigo 264.º — (Formalidades)
+Artigo 264.º
+
+(Formalidades)
 
 1 - Feita a chamada e aberta a reunião, o Presidente da Assembleia suspende-a para receber o Presidente da República eleito e os convidados.
 
@@ -3204,7 +3905,9 @@ Quando o Provedor de Justiça dirija à Assembleia recomendações legislativas,
 
 4 - O auto de posse é assinado pelo Presidente da República e pelo Presidente da Assembleia.
 
-###### Artigo 265.º — (Actos subsequentes)
+Artigo 265.º
+
+(Actos subsequentes)
 
 1 - Após a assinatura do auto de posse, o Presidente da Assembleia saúda o novo Presidente da República.
 
@@ -3212,9 +3915,13 @@ Quando o Provedor de Justiça dirija à Assembleia recomendações legislativas,
 
 3 - Após as palavras do Presidente da República, o Presidente da Assembleia declara encerrada a reunião, sendo de novo executado o Hino Nacional.
 
-##### DIVISÃO II — Assentimento para a ausência do Presidente da República do território nacional
+DIVISÃO II
 
-###### Artigo 266.º — (Iniciativa)
+Assentimento para a ausência do Presidente da República do território nacional
+
+Artigo 266.º
+
+(Iniciativa)
 
 1 - O Presidente da República solicita o assentimento da Assembleia da República para se ausentar do território nacional, por meio de mensagem a ela dirigida, nos termos do artigo 132.º e da alínea d) do artigo 136.º da Constituição.
 
@@ -3222,101 +3929,149 @@ Quando o Provedor de Justiça dirija à Assembleia recomendações legislativas,
 
 3 - A mensagem é publicada no Diário.
 
-###### Artigo 267.º — (Exame em Comissão)
+Artigo 267.º
+
+(Exame em Comissão)
 
 Logo que recebida a mensagem do Presidente da República, e no caso de a Assembleia ser encontrar em funcionamento efectivo, o Presidente da Assembleia promove a convocação da comissão competente em razão da matéria assinando-lhe um prazo para emitir parecer.
 
-###### Artigo 268.º — (Discussão)
+Artigo 268.º
+
+(Discussão)
 
 A discussão em reunião plenária tem por base a mensagem do Presidente da República e nela têm o direito de intervir o Governo e um Deputado por cada grupo parlamentar.
 
-###### Artigo 269.º — (Forma do acto)
+Artigo 269.º
+
+(Forma do acto)
 
 A deliberação da Assembleia toma a forma de resolução.
 
-##### DIVISÃO III — Renúncia do Presidente da República
+DIVISÃO III
 
-###### Artigo 270.º — (Reunião da Assembleia)
+Renúncia do Presidente da República
+
+Artigo 270.º
+
+(Reunião da Assembleia)
 
 1 - No caso de renúncia do Presidente da República, a Assembleia reúne-se para tomar conhecimento da mensagem prevista no artigo 134.º da Constituição, no prazo de 48 horas após a sua recepção.
 
 2 - Não há debate.
 
-##### DIVISÃO IV — Acusação do Presidente da República
+DIVISÃO IV
 
-###### Artigo 271.º — (Reunião da Assembleia)
+Acusação do Presidente da República
+
+Artigo 271.º
+
+(Reunião da Assembleia)
 
 Para efeitos do disposto no n.º 2 do artigo 133.º da Constituição, a Assembleia reúne nas 48 horas subsequentes à apresentação de proposta subscrita por um quinto dos Deputados em efectividade de funções.
 
-###### Artigo 272.º — (Constituição de comissão especial)
+Artigo 272.º
+
+(Constituição de comissão especial)
 
 A Assembleia deve constituir uma comissão especial a fim de elaborar relatório no prazo que lhe for assinado.
 
-###### Artigo 273.º — (Discussão e votação)
+Artigo 273.º
+
+(Discussão e votação)
 
 1 - Recebido o relatório da comissão, o Presidente marca, dentro das 48 horas subsequentes, reunião plenária para dele se ocupar, que não tem período de antes da ordem do dia.
 
 2 - No termo do debate, o Presidente põe à votação a questão da iniciativa do processo, a qual depende de deliberação aprovada por maioria de dois terços dos Deputados em efectividade de funções.
 
-#### SECÇÃO II — Efectivação da responsabilidade criminal dos membros do Governo
+SECÇÃO II
 
-###### Artigo 274.º — (Discussão e votação)
+Efectivação da responsabilidade criminal dos membros do Governo
+
+Artigo 274.º
+
+(Discussão e votação)
 
 1 - Movido procedimento criminal contra algum membro do Governo e indiciado este definitivamente por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena maior, a Assembleia decide se o membro do Governo deve ou não ser suspenso, para efeito do seguimento do processo.
 
 2 - As deliberações previstas no presente artigo são tomadas por escrutínio secreto e maioria absoluta dos Deputados presentes, precedendo parecer de comissão especialmente constituída para o efeito.
 
-#### SECÇÃO III — Dissolução dos órgãos das reuniões autónomas
+SECÇÃO III
 
-###### Artigo 275.º — (iniciativa)
+Dissolução dos órgãos das reuniões autónomas
+
+Artigo 275.º
+
+(iniciativa)
 
 A Assembleia da República pronuncia-se sobre a dissolução dos órgãos das regiões autónomas, nos termos da alínea f) do artigo 166.º e do n.º 1 do artigo 236.º da Constituição, em face de mensagem do Presidente da República.
 
-###### Artigo 276.º — (Reunião da Assembleia)
+Artigo 276.º
+
+(Reunião da Assembleia)
 
 Recebida a mensagem do Presidente da República, o Presidente da Assembleia convoca o Plenário para as 48 horas subsequentes, reunindo-se imediatamente a comissão competente em razão da matéria, para emitir parecer.
 
-###### Artigo 277.º — (Deliberação)
+Artigo 277.º
+
+(Deliberação)
 
 Para os efeitos dos artigos anteriores, a Assembleia pronuncia-se mediante resolução.
 
-#### SECÇÃO IV — Designação de titulares de cargos exteriores à Assembleia
+SECÇÃO IV
 
-###### Artigo 278.º — (Eleição)
+Designação de titulares de cargos exteriores à Assembleia
+
+Artigo 278.º
+
+(Eleição)
 
 1 - A Assembleia da República elege, nos termos estabelecidos na Constituição ou na lei, os titulares dos cargos exteriores à Assembleia cuja designação lhe compete.
 
 2 - Na falta de disposições constitucionais ou legais directamente aplicáveis, obeserva-se o disposto nos artigos seguintes.
 
-###### Artigo 279.º — (Apresentação de candidaturas)
+Artigo 279.º
+
+(Apresentação de candidaturas)
 
 1 - As candidaturas são apresentadas por um mínimo de 10 e um máximo de 30 Deputados.
 
 2 - A apresentação é feita perante o Presidente até ao termo da reunião anterior àquela em que tiver lugar a eleição, acompanhada de declaração de aceitação de candidatura.
 
-###### Artigo 280.º — (Sufrágio)
+Artigo 280.º
+
+(Sufrágio)
 
 1 - Considera-se eleito o candidato que obtiver mais de metade dos votos validamente expressos.
 
 2 - Se nenhum dos candidatos obtiver esse número de votos, proceder-se-á a segundo sufrágio, ao qual concorrerão apenas os dois candidatos mais votados cuja candidatura não tenha sido retirada.
 
-###### Artigo 281.º — (Sistema de representação proporcional)
+Artigo 281.º
+
+(Sistema de representação proporcional)
 
 1 - Sempre que se aplique o sistema de representação proporcional, a eleição é por lista completa, adoptando-se o método da média mais alta de Hondt.
 
 2 - Quando seja eleito um candidato que já pertença ou venha a pertencer por inerência ao órgão a que se refere a eleição, é chamado à efectividade de funções o primeiro candidato não eleito da respectiva lista.
 
-###### Artigo 282.º — (Reabertura do processo)
+Artigo 282.º
+
+(Reabertura do processo)
 
 No caso de não eleição de candidatos, o processo é reaberto em relação aos lugares ainda não preenchidos no prazo máximo de quinze dias.
 
-### CAPÍTULO VII — PROCESSO DE URGÊNCIA
+CAPÍTULO VII
 
-###### Artigo 283.º — (Objecto)
+PROCESSO DE URGÊNCIA
+
+Artigo 283.º
+
+(Objecto)
 
 Pode ser objecto de processo de urgência qualquer projecto ou proposta de lei ou de resolução.
 
-###### Artigo 284.º — (Deliberação da urgência)
+Artigo 284.º
+
+(Deliberação da urgência)
 
 1 - A iniciativa da adopção de processo de urgência compete a qualquer Deputado ou grupo parlamentar, ao Governo e, em relação a qualquer proposta de lei da sua iniciativa, às assembleias regionais.
 
@@ -3324,7 +4079,9 @@ Pode ser objecto de processo de urgência qualquer projecto ou proposta de lei o
 
 3 - Elaborado o parecer, o Plenário pronuncia-se sobre a urgência, sendo o debate organizado pela Conferência nos termos do artigo 150.º
 
-###### Artigo 285.º — (Parecer da comissão)
+Artigo 285.º
+
+(Parecer da comissão)
 
 1 - Do parecer da comissão consta a organização do processo legislativo do projecto ou proposta de lei ou de resolução para a qual tenha sido pedida a urgência, podendo propor:
 
@@ -3336,7 +4093,9 @@ c) A dispensa do envio à comissão para a redacção final ou a redução do re
 
 2 - Se a comissão não apresentar nenhuma proposta de organização do processo legislativo, este terá a tramitação que for definida na Conferência, nos termos do artigo 150.º
 
-###### Artigo 286.º — (Regra supletiva)
+Artigo 286.º
+
+(Regra supletiva)
 
 Declarada a urgência, se nada tiver sido determinado nos termos do artigo anterior, o processo legislativo tem a tramitação seguinte:
 
@@ -3344,21 +4103,31 @@ a) O prazo para exame em comissão é, no máximo, de cinco dias;
 
 b) O prazo para a redacção final é de dois dias.
 
-## TÍTULO V — DISPOSIÇÕES FINAIS
+TÍTULO V
 
-### CAPÍTULO I — DISPOSIÇÕES RELATIVAS AO REGIMENTO
+DISPOSIÇÕES FINAIS
 
-###### Artigo 287.º — (Redacção final)
+CAPÍTULO I
+
+DISPOSIÇÕES RELATIVAS AO REGIMENTO
+
+Artigo 287.º
+
+(Redacção final)
 
 A Comissão de Regimento e Mandatos procede à redacção final do texto, nos termos do artigo 161.º, quando se proceder a qualquer revisão ou alteração do Regimento.
 
-###### Artigo 288.º — (Interpretação e integração de lacunas)
+Artigo 288.º
+
+(Interpretação e integração de lacunas)
 
 1 - Compete à Mesa, com recurso para o Plenário, interpretar o presente Regimento e integrar as lacunas, ouvindo a Comissão de Regimento e Mandatos sempre que o julgue necessário.
 
 2 - As decisões da Mesa sobre interpretação e integração de lacunas do Regimento, quando escritas, são publicadas no Diário.
 
-###### Artigo 289.º — (Alterações)
+Artigo 289.º
+
+(Alterações)
 
 1 - O presente Regimento pode ser alterado pela Assembleia da República, por iniciativa de, pelo menos, um décimo dos Deputados.
 
@@ -3374,12 +4143,18 @@ A Comissão de Regimento e Mandatos procede à redacção final do texto, nos te
 
 7 - O Regimento da Assembleia da República é publicado no Diário da República.
 
-### CAPÍTULO II — RELATÓRIO DA ACTIVIDADE DA ASSEMBLEIA DA REPÚBLICA
+CAPÍTULO II
 
-###### Artigo 290.º — (Periodicidade)
+RELATÓRIO DA ACTIVIDADE DA ASSEMBLEIA DA REPÚBLICA
+
+Artigo 290.º
+
+(Periodicidade)
 
 No início da cada sessão legislativa é editado, sob responsabilidade da Mesa, o relatório da actividade da Assembleia da República na sessão legislativa anterior.
 
-###### Artigo 291.º — (Conteúdo)
+Artigo 291.º
+
+(Conteúdo)
 
 Do relatório consta, designadamente, a descrição sumária das iniciativas legislativas e de fiscalização apresentadas e respectiva tramitação, bem como a indicação dos demais actos praticados no exercício da competência da Assembleia.

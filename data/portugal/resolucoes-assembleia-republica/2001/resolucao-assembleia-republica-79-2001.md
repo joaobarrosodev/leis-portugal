@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/79/2001/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/79-2001-539626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a02ec0b6a263da75864a411dcb61ef20bd2485d6bdfd493e68260074941d52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76d17d177e2a6000a1a88f4a182a7d16b6cf32debc43e4633882782b62388179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- União Europeia
 - Nice
+- Portugal
 - Tratado de NICE
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:539624:por
+  label: "Ratificado o Tratado de Nice aprovado para ratificação pelo presente diploma, pelo DEC.61/2001.2001.12.18.PR DR.IS-A\
+    \ [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/61-2001-539624
+  date: '2001-12-18'
 - type: cites
   target: celex:31988D0591
   label: null
@@ -85,15 +91,15 @@ relationships:
   label: null
   source: /application/external/tratado
 article_structure:
-  article_count: 96
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 18
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:16Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +112,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de Outubro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 TRATADO DE NICE, QUE ALTERA O TRATADO DA UNIÃO EUROPEIA, OS TRATADOS QUE INSTITUEM AS COMUNIDADES EUROPEIAS E ALGUNS ACTOS RELATIVOS A ESSES TRATADOS.
 
@@ -128,11 +134,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Mogens Lykketoft, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Joseph Fischer, Ministro dos Negócios Estrangeiros e Vice-Chanceler Federal.
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Georgios Papandreou, Ministro dos Negócios Estrangeiros;
 
@@ -140,15 +146,15 @@ Sua Majestade o Rei de Espanha:
 
 Josep Piqué i Camps, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Hubert Védrine, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Brian Cowen, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Lamberto Dini, Ministro dos Negócios Estrangeiros;
 
@@ -160,15 +166,15 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Jozias Johannes van Aartsen, Ministro dos Negócios Estrangeiros;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Benita Ferrero-Waldner, Ministra Federal dos Negócios Estrangeiros;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Jaime Gama, Ministro de Estado e Ministro dos Negócios Estrangeiros;
 
-**A Presidente da República da Finlândia:**
+A Presidente da República da Finlândia:
 
 Erkki Tuomioja, Ministro dos Negócios Estrangeiros;
 
@@ -182,7 +188,7 @@ Robin Cook, Ministro dos Negócios Estrangeiros e do Commonwealth;
 
 os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e devida forma, acordaram no seguinte:
 
-# PARTE I — Alterações substantivas
+## PARTE I — Alterações substantivas
 
 ###### Artigo 1.º
 
@@ -274,21 +280,21 @@ Sem prejuízo do disposto no artigo 47.º, para efeitos de uma operação de ges
 
 2 - Salvo disposição em contrário contida no artigo 27.º-C e nos artigos 43.º a 45.º, às cooperações reforçadas previstas no presente artigo aplica-se o disposto nos artigos 11.º a 27.º e nos artigos 27.º-B a 28.º
 
-###### Artigo 27.º-B
+Artigo 27.º-B
 
 As cooperações reforçadas ao abrigo do presente título incidem na execução de uma acção comum ou de uma posição comum. Não podem incidir em questões que tenham implicações militares ou do domínio da defesa.
 
-###### Artigo 27.º-C
+Artigo 27.º-C
 
 Os Estados membros que se proponham instituir entre si uma cooperação reforçada nos termos do artigo 27.º-B devem dirigir um pedido nesse sentido ao Conselho.
 
 O pedido será enviado à Comissão e, para informação, ao Parlamento Europeu. A Comissão dará o seu parecer, nomeadamente, sobre a coerência da cooperação reforçada prevista com as políticas da União. A autorização é concedida pelo Conselho, deliberando nos termos do n.º 2, segundo e terceiro parágrafos, do artigo 23.º, no respeito dos artigos 43.º a 45.º
 
-###### Artigo 27.º-D
+Artigo 27.º-D
 
 Sem prejuízo das competências da Presidência e da Comissão, o Secretário-Geral do Conselho, alto-representante para a política externa e de segurança comum, assegurará em especial que o Parlamento Europeu e todos os membros do Conselho sejam plenamente informados da execução das cooperações reforçadas instituídas no domínio da política externa e de segurança comum.
 
-###### Artigo 27.º-E
+Artigo 27.º-E
 
 Qualquer Estado membro que deseje participar numa cooperação reforçada instituída nos termos do artigo 27.º-C notificará a sua intenção ao Conselho e informará a Comissão. A Comissão apresentará um parecer ao Conselho, no prazo de três meses a contar da data de recepção da notificação. No prazo de quatro meses a contar da data de recepção da notificação, o Conselho tomará uma decisão sobre a questão, bem como sobre eventuais disposições específicas que julgue necessárias. A decisão considera-se tomada, excepto se o Conselho, deliberando por maioria qualificada dentro desse prazo, decidir suspendê-la; neste caso, indicará os motivos da sua decisão e fixará um prazo para voltar a avaliá-la.
 
@@ -332,7 +338,7 @@ c) Promovendo a estreita cooperação entre a Eurojust e a Rede Judiciária Euro
 
 3 - Aplica-se ao presente artigo, assim como aos artigos 40.º-A e 40.º-B, o disposto no Tratado que institui a Comunidade Europeia em matéria de competência do Tribunal de Justiça e de exercício dessa competência.
 
-###### Artigo 40.º-A
+Artigo 40.º-A
 
 1 - Os Estados membros que se proponham instituir entre si uma cooperação reforçada nos termos do artigo 40.º devem dirigir um pedido nesse sentido à Comissão, que pode apresentar ao Conselho uma proposta para o efeito. Caso não apresente uma proposta, a Comissão informará os referidos Estados membros das razões que a motivaram. Estes podem então submeter ao Conselho um pedido no sentido de obter autorização para a cooperação em questão.
 
@@ -340,7 +346,7 @@ c) Promovendo a estreita cooperação entre a Eurojust e a Rede Judiciária Euro
 
 Qualquer membro do Conselho pode pedir que o assunto seja levado ao Conselho Europeu. Nessa sequência, o Conselho pode deliberar nos termos do disposto no primeiro parágrafo.
 
-###### Artigo 40.º-B
+Artigo 40.º-B
 
 Qualquer Estado membro que deseje participar numa cooperação reforçada instituída nos termos do artigo 40.º-A notificará a sua intenção ao Conselho e à Comissão, que, no prazo de três meses a contar da data de recepção da notificação, apresentará ao Conselho um parecer eventualmente acompanhado de uma recomendação relativa a disposições especificas que julgue necessárias para que o Estado membro em causa possa participar nessa cooperação. O Conselho tomará uma decisão sobre a questão no prazo de quatro meses a contar da data de recepção da notificação. A decisão considera-se tomada, excepto se o Conselho, deliberando por maioria qualificada dentro desse prazo, decidir suspendê-la; neste caso, indicará os motivos da sua decisão e fixará um prazo para voltar a avaliá-la.
 
@@ -380,7 +386,7 @@ j) Esteja aberta a todos os Estados membros, nos termos do artigo 43.º-B.»
 
 As cooperações reforçadas só podem ser iniciadas como último recurso, quando se estabelecer no Conselho que os seus objectivos não podem ser atingidos, num prazo razoável, através da aplicação das disposições pertinentes dos Tratados.
 
-###### Artigo 43.º-B
+Artigo 43.º-B
 
 Aquando da sua instituição, as cooperações reforçadas estão abertas a todos os Estados membros. Estão-no também a qualquer momento nos termos dos artigos 27.º-E e 40.º-B do presente Tratado e do artigo 11.º-A do Tratado que institui a Comunidade Europeia, desde que sejam respeitadas a decisão inicial e as decisões tomadas nesse âmbito. A Comissão e os Estados membros participantes numa cooperação reforçada assegurarão que seja incentivada a participação do maior número possível de Estados membros.»
 
@@ -394,7 +400,7 @@ Esses actos e decisões não fazem parte do acervo da União.
 
 2 - Os Estados membros aplicarão, no que lhes diga respeito, os actos e decisões adoptados para execução da cooperação reforçada em que participem. Esses actos e decisões apenas vinculam os Estados membros participantes e, quando for caso disso, só são directamente aplicáveis nesses Estados. Os Estados membros que não participem nessa cooperação reforçada não dificultarão a sua execução por parte dos Estados membros participantes.
 
-###### Artigo 44.º-A
+Artigo 44.º-A
 
 As despesas decorrentes da execução de uma cooperação reforçada que não sejam custos administrativos em que incorram as Instituições ficam a cargo dos Estados membros participantes, salvo decisão em contrário do Conselho, deliberando por unanimidade de todos os seus membros, após consulta ao Parlamento Europeu.»
 
@@ -440,7 +446,7 @@ Qualquer membro do Conselho pode pedir que o assunto seja levado ao Conselho Eur
 
 3 - Salvo disposição em contrário contida no presente artigo e nos artigos 43.º a 45.º do Tratado da União Europeia, os actos e decisões necessários à execução das acções de cooperação reforçada ficam sujeitos a todas as disposições aplicáveis do presente Tratado.
 
-###### Artigo 11.º-A
+Artigo 11.º-A
 
 Qualquer Estado membro que deseje participar numa cooperação reforçada instituída nos termos do artigo 11.º notificará a sua intenção ao Conselho e à Comissão, que apresentará um parecer ao Conselho no prazo de três meses a contar da data de recepção da notificação. No prazo de quatro meses a contar da data de recepção da notificação, a Comissão tomará uma decisão sobre a questão, bem como sobre eventuais disposições específicas que julgue necessárias.»
 
@@ -660,7 +666,7 @@ O Conselho, deliberando por maioria qualificada, fixa os vencimentos, subsídios
 
 O Conselho, deliberando por maioria qualificada e de comum acordo com o Presidente designado, aprova a lista das outras personalidades que tenciona nomear membros da Comissão, estabelecida em conformidade com as propostas apresentadas por cada Estado membro.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»
 
 23 - O artigo 215.º passa a ter a seguinte redacção:
 
@@ -1004,7 +1010,7 @@ O Conselho decide sobre a organização do Secretariado-Geral.»
 
 O Conselho, deliberando por maioria qualificada e de comum acordo com o Presidente designado, aprova a lista das outras personalidades que tenciona nomear membros da Comissão, estabelecida em conformidade com as propostas apresentadas por cada Estado membro.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»
 
 5 - O artigo 128.º passa a ter a seguinte redacção:
 
@@ -1264,7 +1270,7 @@ O Tratado que institui a Comunidade Europeia do Carvão e do Aço é alterado no
 
 O Conselho, deliberando por maioria qualificada e de comum acordo com o Presidente designado, aprova a lista das outras personalidades que tenciona nomear membros da Comissão, estabelecida em conformidade com as propostas apresentadas por cada Estado membro.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação pelo Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada.»
 
 2 - O artigo 11.º passa a ter a seguinte redacção:
 
@@ -1474,7 +1480,7 @@ O artigo 21.º passa a ter a seguinte redacção:
 
 As disposições dos artigos 12.º a 15.º e 18.º são aplicáveis aos juízes, advogados-gerais, secretário e relatores-adjuntos do Tribunal de Justiça, bem como aos membros e ao secretário do Tribunal de Primeira Instância, sem prejuízo do disposto no artigo 3.º do Protocolo Relativo ao Estatuto do Tribunal de Justiça, respeitante à imunidade de jurisdição dos juízes e advogados-gerais.»
 
-# PARTE II — Disposições transitórias e finais
+## PARTE II — Disposições transitórias e finais
 
 ###### Artigo 7.º
 
@@ -1506,7 +1512,7 @@ O presente Tratado tem vigência ilimitada.
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, irlandesa, italiana, neerlandesa, portuguesa e sueca, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual dele remeterá uma cópia autenticada a cada um dos Governos dos outros Estados signatários.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 A - PROTOCOLO ANEXO AO TRATADO DA UNIÃO EUROPEIA E AOS TRATADOS QUE INSTITUEM AS COMUNIDADES EUROPEIAS
 
@@ -1658,17 +1664,19 @@ Protocolo Relativo ao Estatuto do Tribunal de Justiça
 
 As Altas Partes Contratantes, desejando fixar o Estatuto do Tribunal de Justiça, previsto no artigo 245.º do Tratado que institui a Comunidade Europeia e no artigo 160.º do Tratado que institui a Comunidade Europeia da Energia Atómica acordaram nas disposições seguintes, que vêm anexas ao Tratado da União Europeia, ao Tratado que institui a Comunidade Europeia e ao Tratado que institui a Comunidade Europeia da Energia Atómica:
 
-###### Artigo 1.º
+Artigo 1.º
 
 O Tribunal de Justiça é constituído e exercerá as suas funções em conformidade com as disposições do Tratado da União Europeia (Tratado UE), do Tratado que institui a Comunidade Europeia ([Tratado CE](https://diariodarepublica.pt/application/external/tratado)), do Tratado que institui a Comunidade Europeia da Energia Atómica (Tratado CEEA) e do presente Estatuto.
 
-## TÍTULO I — Estatuto dos juízes e dos advogados-gerais
+TÍTULO I
 
-###### Artigo 2.º
+Estatuto dos juízes e dos advogados-gerais
+
+Artigo 2.º
 
 Antes de assumirem funções, os juízes devem, em sessão pública, prestar o juramento de exercer as suas funções com total imparcialidade e consciência e de respeitar o segredo das deliberações do Tribunal.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os juízes gozam de imunidade de jurisdição. No que diz respeito aos actos por eles praticados na sua qualidade oficial, incluindo as suas palavras e escritos, continuam a beneficiar de imunidade após a cessação das suas funções.
 
@@ -1678,7 +1686,7 @@ Quando uma acção penal seja exercida contra um juiz após o levantamento da im
 
 O disposto nos artigos 12.º a 15.º e 18.º do Protocolo Relativo aos Privilégios e Imunidades das Comunidades Europeias é aplicável aos juízes, advogados-gerais, secretário e relatores-adjuntos do Tribunal, sem prejuízo das disposições relativas à imunidade de jurisdição dos juízes, constantes dos parágrafos anteriores.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os juízes não podem exercer quaisquer funções políticas ou administrativas.
 
@@ -1688,7 +1696,7 @@ Os juízes assumem, aquando da sua posse, o compromisso solene de respeitar, dur
 
 Em caso de dúvida, o Tribunal decide.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Para além das substituições normais e dos casos de morte, as funções dos juízes cessam individualmente em caso de renúncia.
 
@@ -1696,57 +1704,59 @@ Em caso de renúncia de um juiz, a carta de renúncia é dirigida ao Presidente 
 
 Salvo nos casos previstos no artigo 6.º, o juiz permanece no cargo até que o seu sucessor assuma funções.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Os juízes só podem ser afastados das suas funções ou privados do seu direito a pensão ou de outros benefícios que a substituam se, por decisão unânime dos juízes e advogados-gerais do Tribunal, tiverem deixado de corresponder às condições exigidas ou de cumprir os deveres decorrentes do cargo. O interessado não participa nestas deliberações.
 
-**O secretário comunica a decisão do Tribunal aos Presidentes do Parlamento Europeu e da Comissão e notifica-a ao Presidente do Conselho.**
+O secretário comunica a decisão do Tribunal aos Presidentes do Parlamento Europeu e da Comissão e notifica-a ao Presidente do Conselho.
 
 Em caso de decisão que afaste um juiz das suas funções, a notificação do Presidente do Conselho determina a abertura de vaga no lugar.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Os juízes cujas funções cessem antes de findar o respectivo mandato são substituídos pelo tempo que faltar para o termo daquele mandato.
 
-###### Artigo 8.º
+Artigo 8.º
 
 O disposto nos artigos 2.º a 7.º é aplicável aos advogados-gerais.
 
-## TÍTULO II — Organização
+TÍTULO II
 
-###### Artigo 9.º
+Organização
+
+Artigo 9.º
 
 A substituição parcial dos juízes, que se realiza de três em três anos, incide alternadamente em oito e sete juízes.
 
 A substituição parcial dos advogados-gerais, que se realiza de três em três anos, incide de cada vez em quatro advogados-gerais.
 
-###### Artigo 10.º
+Artigo 10.º
 
-**O secretário presta, perante o Tribunal, o juramento de exercer as suas funções com total imparcialidade e consciência e de respeitar o segredo das deliberações do Tribunal.**
+O secretário presta, perante o Tribunal, o juramento de exercer as suas funções com total imparcialidade e consciência e de respeitar o segredo das deliberações do Tribunal.
 
-###### Artigo 11.º
+Artigo 11.º
 
 O Tribunal regula a substituição do secretário, em caso de impedimento deste.
 
-###### Artigo 12.º
+Artigo 12.º
 
 A fim de assegurar o seu funcionamento, o Tribunal dispõe de funcionários e de outros agentes, que ficam na dependência hierárquica do secretário, sob a autoridade do Presidente.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Sob proposta do Tribunal, o Conselho, deliberando por unanimidade, pode prever a nomeação de relatores-adjuntos e estabelecer o respectivo estatuto. Os relatores-adjuntos podem ser chamados, nas condições estabelecidas no Regulamento de Processo, a participar na instrução das causas pendentes no Tribunal e a colaborar com o juiz relator.
 
 Os relatores-adjuntos, escolhidos de entre personalidades que ofereçam todas as garantias de independência e que possuam as qualificações jurídicas necessárias, são nomeados pelo Conselho. Os relatores-adjuntos prestam, perante o Tribunal, o juramento de exercer as suas funções com total imparcialidade e consciência e de respeitar o segredo das deliberações do Tribunal.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Os juízes, os advogados-gerais e o secretário devem residir no local onde o Tribunal tem a sua sede.
 
-###### Artigo 15.º
+Artigo 15.º
 
 O Tribunal funciona de modo permanente. O Tribunal fixa a duração das férias judiciais, tendo em conta as necessidades do serviço.
 
-###### Artigo 16.º
+Artigo 16.º
 
 O Tribunal constitui secções de três e cinco juízes. Os juízes elegem de entre si os presidentes de secção. Os presidentes das secções de cinco juízes são eleitos por três anos, podendo ser reeleitos uma vez.
 
@@ -1758,7 +1768,7 @@ O Tribunal reúne como tribunal pleno sempre que lhe seja apresentado um requeri
 
 O Tribunal pode também, quando considerar uma causa de excepcional importância, decidir remetê-la ao tribunal pleno, depois de ouvido o advogado-geral.
 
-###### Artigo 17.º
+Artigo 17.º
 
 O Tribunal só pode deliberar validamente com número ímpar de juízes.
 
@@ -1770,7 +1780,7 @@ As deliberações do tribunal pleno só são válidas se estiverem presentes 11 
 
 Em caso de impedimento de um juiz de uma secção, pode ser chamado um juiz de outra secção, nas condições estabelecidas no Regulamento de Processo.
 
-###### Artigo 18.º
+Artigo 18.º
 
 Os juízes e os advogados-gerais não podem exercer funções em causa em que tenham intervindo anteriormente como agentes, consultores ou advogados de uma das partes, ou sobre que tenham sido chamados a pronunciar-se como membros de um tribunal, de uma comissão de inquérito, ou a qualquer outro título.
 
@@ -1780,9 +1790,11 @@ Em caso de dificuldade na aplicação deste artigo, o Tribunal decide.
 
 As partes não podem invocar a nacionalidade de um juiz, nem o facto de nenhum juiz da sua nacionalidade integrar o Tribunal ou uma das suas secções, para pedir a alteração da composição do Tribunal ou de uma das suas secções.
 
-## TÍTULO III — Processo
+TÍTULO III
 
-###### Artigo 19.º
+Processo
+
+Artigo 19.º
 
 Os Estados membros e as Instituições das Comunidades são representados no Tribunal por um agente nomeado para cada causa; o agente pode ser assistido por um consultor ou por um advogado.
 
@@ -1798,7 +1810,7 @@ O Tribunal goza, em relação aos consultores e advogados que perante ele compar
 
 Os professores nacionais de Estados membros cuja legislação lhes reconheça o direito de pleitear gozam, perante o Tribunal, dos direitos reconhecidos por este artigo aos advogados.
 
-###### Artigo 20.º
+Artigo 20.º
 
 O processo perante o Tribunal compreende duas fases, uma escrita e outra oral.
 
@@ -1810,13 +1822,13 @@ A fase oral compreende a leitura do relatório apresentado pelo juiz relator, a 
 
 Quando considerar que não se suscita questão de direito nova, o Tribunal pode, ouvido o advogado-geral, decidir que a causa seja julgada sem conclusões do advogado-geral.
 
-###### Artigo 21.º
+Artigo 21.º
 
 O pedido é apresentado ao Tribunal por petição ou requerimento escrito enviado ao secretário. Da petição ou requerimento deve constar a indicação do nome e domicílio do demandante ou recorrente e a qualidade do signatário, a indicação da parte ou das partes contra as quais o pedido é apresentado, o objecto do litígio, as conclusões e uma exposição sumária dos respectivos fundamentos.
 
 A petição ou requerimento deve ser acompanhado, se for caso disso, do acto cuja anulação seja pedida. No caso a que se referem o artigo 232.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e o artigo 148.º do Tratado CEEA, a petição ou requerimento deve ser acompanhado de um documento comprovativo da data do convite previsto nesses artigos. Se esses documentos não forem apresentados com a petição ou o requerimento, o secretário convida o interessado a apresentá-los dentro de prazo razoável, sem que possa ser invocada a caducidade no caso de a regularização se efectuar depois de decorrido o prazo para a propositura da acção ou a interposição do recurso.
 
-###### Artigo 22.º
+Artigo 22.º
 
 Nos casos previstos no artigo 18.º do Tratado CEEA, o pedido é apresentado ao Tribunal por requerimento escrito enviado ao secretário. Do requerimento deve constar a indicação do nome e domicílio do requerente e a qualidade do signatário, a indicação da decisão da qual é interposto o recurso, a indicação das partes contrárias, o objecto do litígio, as conclusões e uma exposição sumária dos fundamentos do pedido.
 
@@ -1826,7 +1838,7 @@ Se o Tribunal não der provimento ao recurso, a decisão do Comité de Arbitrage
 
 Se o Tribunal anular a decisão do Comité de Arbitragem, o processo pode ser reaberto, se for caso disso, por iniciativa de uma das partes em causa, perante o Comité de Arbitragem, o qual fica vinculado aos princípios de direito enunciados pelo Tribunal.
 
-###### Artigo 23.º
+Artigo 23.º
 
 Nos casos previstos no n.º 1 do artigo 35.º do Tratado UE, no artigo 234.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no artigo 150.º do Tratado CEEA, a decisão do órgão jurisdicional nacional que suspenda a instância e que suscite a questão perante o Tribunal é a este notificada por iniciativa desse órgão. Esta decisão é em seguida notificada, pelo secretário do Tribunal, às partes em causa, aos Estados membros e à Comissão, bem como ao Conselho ou ao Banco Central Europeu, se o acto cuja validade ou interpretação é contestada deles emanar, e ao Parlamento Europeu e ao Conselho, se o acto cuja validade ou interpretação é contestado tiver sido adoptado conjuntamente por estas duas Instituições.
 
@@ -1834,29 +1846,29 @@ No prazo de dois meses a contar desta última notificação, as partes, os Estad
 
 Nos casos previstos no artigo 234.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), a decisão do órgão jurisdicional nacional é igualmente notificada pelo secretário do Tribunal aos Estados Partes no Acordo sobre o Espaço Económico Europeu que não sejam Estados membros, bem como ao Órgão de Fiscalização da EFTA mencionado no referido acordo, que têm o direito de apresentar ao Tribunal alegações ou observações escritas, no prazo de dois meses a contar da notificação e quando esteja em causa um dos domínios de aplicação desse acordo.
 
-###### Artigo 24.º
+Artigo 24.º
 
 O Tribunal pode pedir às partes que apresentem todos os documentos e prestem todas as informações que considere necessárias. Em caso de recusa, o Tribunal regista-a nos autos.
 
 O Tribunal pode também pedir aos Estados membros e às Instituições que não sejam partes no processo todas as informações que considere necessárias à apreciação da causa.
 
-###### Artigo 25.º
+Artigo 25.º
 
 O Tribunal pode, em qualquer momento, confiar uma peritagem a qualquer pessoa, instituição, serviço, comissão ou órgão da sua escolha.
 
-###### Artigo 26.º
+Artigo 26.º
 
 Podem ser ouvidas testemunhas, nas condições estabelecidas no Regulamento de Processo.
 
-###### Artigo 27.º
+Artigo 27.º
 
 O Tribunal goza, no que respeita às testemunhas faltosas, dos poderes geralmente atribuídos nesta matéria aos tribunais e pode aplicar sanções pecuniárias, nas condições estabelecidas no Regulamento de Processo.
 
-###### Artigo 28.º
+Artigo 28.º
 
 As testemunhas e os peritos podem ser ouvidos sob juramento, segundo a fórmula estabelecida no Regulamento de Processo ou nos termos previstos na legislação nacional da testemunha ou do perito.
 
-###### Artigo 29.º
+Artigo 29.º
 
 O Tribunal pode determinar que uma testemunha ou um perito sejam ouvidos pela autoridade judiciária do seu domicílio.
 
@@ -1864,51 +1876,51 @@ O despacho é enviado, para execução, à autoridade judiciária competente, na
 
 O Tribunal suporta as despesas, sem prejuízo de, quando for caso disso, as fazer recair sobre as partes.
 
-###### Artigo 30.º
+Artigo 30.º
 
 Os Estados membros consideram qualquer violação dos juramentos das testemunhas e dos peritos como se a infracção tivesse sido cometida perante um tribunal nacional com competência em matéria cível. Por participação do Tribunal, o Estado membro em causa processa os autores da infracção perante o órgão jurisdicional nacional competente.
 
-###### Artigo 31.º
+Artigo 31.º
 
 A audiência é pública, salvo se o Tribunal, oficiosamente ou a pedido das partes, por motivos graves, decidir em contrário.
 
-###### Artigo 32.º
+Artigo 32.º
 
 Durante as audiências, o Tribunal pode interrogar os peritos, as testemunhas e as próprias partes. Todavia, estas últimas só podem litigar por intermédio do seu representante.
 
-###### Artigo 33.º
+Artigo 33.º
 
 Em relação a cada audiência é redigida uma acta, assinada pelo Presidente e pelo secretário.
 
-###### Artigo 34.º
+Artigo 34.º
 
 O rol das audiências é fixado pelo Presidente.
 
-###### Artigo 35.º
+Artigo 35.º
 
 As deliberações do Tribunal são e permanecem secretas.
 
-###### Artigo 36.º
+Artigo 36.º
 
 Os acórdãos são fundamentados e mencionam os nomes dos juízes que intervieram na deliberação.
 
-###### Artigo 37.º
+Artigo 37.º
 
 Os acórdãos são assinados pelo Presidente e pelo secretário e lidos em audiência pública.
 
-###### Artigo 38.º
+Artigo 38.º
 
 O Tribunal decide sobre as despesas.
 
-###### Artigo 39.º
+Artigo 39.º
 
-**O Presidente do Tribunal pode decidir, em processo sumário que derrogue, se necessário, certas disposições deste Estatuto e que é estabelecido no Regulamento de Processo, sobre os pedidos tendentes a obter a suspensão prevista no artigo 242.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no artigo 157.º do Tratado CEEA, a aplicação de medidas provisórias nos termos do artigo 243.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou do artigo 158.º do Tratado CEEA ou a suspensão da execução em conformidade com o disposto no quarto parágrafo do artigo 256.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou no terceiro parágrafo do artigo 164.º do Tratado CEEA.**
+O Presidente do Tribunal pode decidir, em processo sumário que derrogue, se necessário, certas disposições deste Estatuto e que é estabelecido no Regulamento de Processo, sobre os pedidos tendentes a obter a suspensão prevista no artigo 242.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no artigo 157.º do Tratado CEEA, a aplicação de medidas provisórias nos termos do artigo 243.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou do artigo 158.º do Tratado CEEA ou a suspensão da execução em conformidade com o disposto no quarto parágrafo do artigo 256.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou no terceiro parágrafo do artigo 164.º do Tratado CEEA.
 
 Em caso de impedimento do Presidente, este é substituído por outro juiz, nas condições estabelecidas no Regulamento de Processo.
 
 O despacho proferido pelo Presidente ou pelo seu substituto tem carácter provisório e não prejudica a decisão do Tribunal sobre o mérito da causa.
 
-###### Artigo 40.º
+Artigo 40.º
 
 Os Estados membros e as Instituições das Comunidades podem intervir nas causas submetidas ao Tribunal.
 
@@ -1918,19 +1930,19 @@ Sem prejuízo do segundo parágrafo, os Estados Partes no Acordo sobre o Espaço
 
 As conclusões do pedido de intervenção devem limitar-se a sustentar as conclusões de uma das partes.
 
-###### Artigo 41.º
+Artigo 41.º
 
 Se o demandado ou recorrido não apresentar contestação ou resposta escrita, tendo sido devidamente citado, o acórdão é proferido à revelia. O acórdão pode ser impugnado no prazo de um mês a contar da sua notificação. Salvo decisão em contrário do Tribunal, a impugnação não suspende a execução do acórdão proferido à revelia.
 
-###### Artigo 42.º
+Artigo 42.º
 
 Os Estados membros, as Instituições das Comunidades e quaisquer outras pessoas singulares ou colectivas podem, nos casos e condições estabelecidos no Regulamento de Processo, impugnar os acórdãos proferidos em processos nos quais não tenham sido chamados a intervir, mediante recurso de oposição de terceiro, se esses acórdãos prejudicarem os seus direitos.
 
-###### Artigo 43.º
+Artigo 43.º
 
 Em caso de dúvida sobre o sentido e o alcance de um acórdão, cabe ao Tribunal interpretá-lo, a pedido de uma parte ou de uma Instituição das Comunidades que nisso demonstre interesse.
 
-###### Artigo 44.º
+Artigo 44.º
 
 A revisão de um acórdão só pode ser pedida ao Tribunal se se descobrir facto susceptível de exercer influência decisiva e que, antes de proferido o acórdão, era desconhecido do Tribunal e da parte que requer a revisão.
 
@@ -1938,29 +1950,31 @@ O processo de revisão tem início com um acórdão do Tribunal que declare expr
 
 Nenhum pedido de revisão pode ser apresentado depois de decorrido o prazo de 10 anos a contar da data do acórdão.
 
-###### Artigo 45.º
+Artigo 45.º
 
 O Regulamento de Processo fixa prazos de dilação tendo em consideração as distâncias.
 
 O decurso do prazo não extingue o direito de praticar o acto, se o interessado provar a existência de caso fortuito ou de força maior.
 
-###### Artigo 46.º
+Artigo 46.º
 
 As acções contra as Comunidades em matéria de responsabilidade extracontratual prescrevem no prazo de cinco anos a contar da ocorrência do facto que lhes tenha dado origem. A prescrição interrompe-se, quer pela apresentação do pedido no Tribunal, quer através de pedido prévio que o lesado pode dirigir à Instituição competente das Comunidades. Neste último caso, o pedido deve ser apresentado no prazo de dois meses previsto no artigo 230.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no artigo 146.º do Tratado CEEA; o disposto no segundo parágrafo do artigo 232.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no segundo parágrafo do artigo 148.º do Tratado CEEA, respectivamente, é aplicável, sendo caso disso.
 
-## TÍTULO IV — Tribunal de Primeira Instância das Comunidades Europeias
+TÍTULO IV
 
-###### Artigo 47.º
+Tribunal de Primeira Instância das Comunidades Europeias
+
+Artigo 47.º
 
 Os artigos 2.º a 8.º, os artigos 14.º e 15.º, os primeiro, segundo, quarto e quinto parágrafos do artigo 17.º e o artigo 18.º aplicam-se ao Tribunal de Primeira Instância e aos seus membros. O juramento referido no artigo 2.º é prestado perante o Tribunal de Justiça e as decisões referidas nos artigos 3.º, 4.º e 6.º são proferidas por este Tribunal, ouvido o Tribunal de Primeira Instância.
 
 O quarto parágrafo do artigo 3.º e os artigos 10.º, 11.º e 14.º do presente Estatuto aplicam-se, mutatis mutandis, ao secretário do Tribunal de Primeira Instância.
 
-###### Artigo 48.º
+Artigo 48.º
 
 O Tribunal de Primeira Instância é composto por 15 juízes.
 
-###### Artigo 49.º
+Artigo 49.º
 
 Os membros do Tribunal da Primeira Instância podem ser chamados a exercer as funções de advogado-geral.
 
@@ -1970,7 +1984,7 @@ Os critérios de selecção destas causas, bem como as regras de designação do
 
 O membro do Tribunal de Primeira Instância que seja chamado a exercer funções de advogado-geral numa causa não pode participar na elaboração do acórdão respeitante a essa causa.
 
-###### Artigo 50.º
+Artigo 50.º
 
 O Tribunal de Primeira Instância funciona por secções, compostas por três ou cinco juízes. Os juízes elegem de entre si os presidentes das secções. Os presidentes das secções de cinco juízes são eleitos por três anos, podendo ser reeleitos uma vez.
 
@@ -1978,15 +1992,15 @@ A composição das secções e a atribuição das causas a cada uma delas são f
 
 O Regulamento de Processo pode também prever que o Tribunal de Primeira Instância reúna em grande secção, nos casos e condições nele previstos.
 
-###### Artigo 51.º
+Artigo 51.º
 
 Em derrogação da regra enunciada no n.º 1 do artigo 225.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no n.º 1 do artigo 140.º-A do Tratado CEEA, são da competência do Tribunal de Justiça as acções propostas e os recursos interpostos pelos Estados membros, pelas Instituições das Comunidades e pelo Banco Central Europeu.
 
-###### Artigo 52.º
+Artigo 52.º
 
-**O Presidente do Tribunal de Justiça e o Presidente do Tribunal de Primeira Instância estabelecem, de comum acordo, as condições em que os funcionários e outros agentes vinculados ao Tribunal de Justiça prestam serviço no Tribunal de Primeira Instância, a fim de assegurar o seu funcionamento. Certos funcionários ou outros agentes ficam na dependência hierárquica do secretário do Tribunal de Primeira Instância, sob a autoridade do Presidente deste Tribunal.**
+O Presidente do Tribunal de Justiça e o Presidente do Tribunal de Primeira Instância estabelecem, de comum acordo, as condições em que os funcionários e outros agentes vinculados ao Tribunal de Justiça prestam serviço no Tribunal de Primeira Instância, a fim de assegurar o seu funcionamento. Certos funcionários ou outros agentes ficam na dependência hierárquica do secretário do Tribunal de Primeira Instância, sob a autoridade do Presidente deste Tribunal.
 
-###### Artigo 53.º
+Artigo 53.º
 
 O processo no Tribunal de Primeira Instância rege-se pelo título III.
 
@@ -1994,7 +2008,7 @@ Este processo é precisado e completado, na medida do necessário, pelo Regulame
 
 Em derrogação do disposto no quarto parágrafo do artigo 20.º, o advogado-geral pode apresentar as suas conclusões fundamentadas por escrito.
 
-###### Artigo 54.º
+Artigo 54.º
 
 Quando uma petição ou qualquer outro documento destinado ao Tribunal de Primeira Instância for dirigido, por erro, ao secretário do Tribunal de Justiça, é por este imediatamente remetido ao secretário do Tribunal de Primeira Instância; do mesmo modo, quando uma petição ou qualquer outro documento destinado ao Tribunal de Justiça for dirigido, por erro, ao secretário do Tribunal de Primeira Instância, é por este imediatamente remetido ao secretário do Tribunal de Justiça.
 
@@ -2002,11 +2016,11 @@ Quando o Tribunal de Primeira Instância considerar que não é competente para 
 
 Quando forem submetidas ao Tribunal de Justiça e ao Tribunal de Primeira Instância várias questões com o mesmo objecto, que suscitem o mesmo problema de interpretação ou ponham em causa a validade do mesmo acto, o Tribunal de Primeira Instância pode, ouvidas as partes, suspender a instância até que seja proferido o acórdão do Tribunal de Justiça. Quando se trate de pedidos de anulação do mesmo acto, o Tribunal de Primeira Instância pode igualmente declinar a sua competência, a fim de que o Tribunal de Justiça decida sobre esses pedidos de anulação. Nos casos referidos no presente parágrafo, o Tribunal de Justiça pode igualmente decidir suspender a instância; neste caso, o processo perante o Tribunal de Primeira Instância prossegue os seus termos.
 
-###### Artigo 55.º
+Artigo 55.º
 
 As decisões do Tribunal de Primeira Instância que ponham termo à instância, conheçam parcialmente do mérito da causa ou ponham termo a um incidente processual relativo a uma excepção de incompetência ou a uma questão prévia de inadmissibilidade são notificadas pelo secretário do Tribunal de Primeira Instância a todas as partes, aos Estados membros e às Instituições das Comunidades, mesmo que não tenham intervindo no processo no Tribunal de Primeira Instância.
 
-###### Artigo 56.º
+Artigo 56.º
 
 Pode ser interposto recurso para o Tribunal de Justiça das decisões do Tribunal de Primeira Instância que ponham termo à instância, bem como das decisões que apenas conheçam parcialmente do mérito da causa ou que ponham termo a um incidente processual relativo a uma excepção de incompetência ou a uma questão prévia de inadmissibilidade. O recurso deve ser interposto no prazo de dois meses a contar da notificação da decisão impugnada.
 
@@ -2014,7 +2028,7 @@ O recurso pode ser interposto por qualquer das partes que tenha sido total ou pa
 
 Com excepção dos casos relativos a litígios entre as Comunidades e os seus agentes, este recurso pode igualmente ser interposto pelos Estados membros e pelas Instituições das Comunidades que não tenham intervindo no litígio no Tribunal de Primeira Instância. Neste caso, esses Estados membros e Instituições beneficiam de uma posição idêntica à dos Estados membros ou das Instituições que tenham intervindo em primeira instância.
 
-###### Artigo 57.º
+Artigo 57.º
 
 Qualquer pessoa cujo pedido de intervenção tenha sido indeferido pelo Tribunal de Primeira Instância pode recorrer para o Tribunal de Justiça. O recurso deve ser interposto no prazo de duas semanas a contar da notificação da decisão de indeferimento.
 
@@ -2022,23 +2036,23 @@ As partes no processo podem interpor recurso para o Tribunal de Justiça das dec
 
 O recurso referido nos primeiro e segundo parágrafos é processado nos termos do artigo 39.º
 
-###### Artigo 58.º
+Artigo 58.º
 
 O recurso para o Tribunal de Justiça é limitado às questões de direito e pode ter por fundamento a incompetência do Tribunal de Primeira Instância, irregularidades processuais perante este Tribunal que prejudiquem os interesses do recorrente, bem como a violação do direito comunitário pelo Tribunal de Primeira Instância.
 
 Não pode ser interposto recurso que tenha por único fundamento o montante das despesas ou a determinação da parte que as deve suportar.
 
-###### Artigo 59.º
+Artigo 59.º
 
 Em caso de recurso de uma decisão do Tribunal de Primeira Instância, o processo no Tribunal de Justiça compreende uma fase escrita e uma fase oral. Nas condições fixadas no Regulamento de Processo, o Tribunal de Justiça, ouvido o advogado-geral e as partes, pode prescindir da fase oral.
 
-###### Artigo 60.º
+Artigo 60.º
 
 Sem prejuízo do disposto nos artigos 242.º e 243.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou nos artigos 157.º e 158.º do Tratado CEEA, o recurso não tem efeito suspensivo.
 
 Em derrogação do disposto no artigo 244.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no artigo 159.º do Tratado CEEA, as decisões do Tribunal de Primeira instância que anulem um regulamento só produzem efeitos depois de expirado o prazo referido no primeiro parágrafo do artigo 56.º do presente Estatuto ou, se tiver sido interposto recurso dentro desse prazo, a contar do indeferimento deste, sem prejuízo, contudo, do direito que assiste a qualquer das partes de requerer ao Tribunal de Justiça, ao abrigo dos artigos 242.º e 243.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) ou dos artigos 157.º e 158.º do Tratado CEEA, que suspenda os efeitos do regulamento anulado ou ordene qualquer outra medida provisória.
 
-###### Artigo 61.º
+Artigo 61.º
 
 Quando o recurso for julgado procedente, o Tribunal de Justiça anula a decisão do Tribunal de Primeira Instância. Pode, neste caso, decidir definitivamente o litígio, se estiver em condições de ser julgado, ou remeter o processo ao Tribunal de Primeira Instância, para julgamento.
 
@@ -2046,19 +2060,21 @@ Em caso de remessa do processo ao Tribunal de Primeira Instância, este fica vin
 
 Quando um recurso interposto por um Estado membro ou por uma Instituição das Comunidades que não tenham intervindo no processo no Tribunal de Primeira Instância for julgado procedente, o Tribunal de Justiça pode, se considerar necessário, indicar quais os efeitos da decisão anulada do Tribunal de Primeira Instância que devem ser considerados subsistentes em relação às partes em litígio.
 
-###### Artigo 62.º
+Artigo 62.º
 
 Nos casos previstos nos n.os 2 e 3 do artigo 225.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e nos n.os 2 e 3 do artigo 140.º-A do Tratado CEEA, sempre que considere existir um risco grave de lesão da unidade ou da coerência do direito comunitário, o primeiro advogado-geral pode propor ao Tribunal de Justiça que reaprecie a decisão do Tribunal de Primeira Instância.
 
 A proposta deve ser apresentada no prazo de um mês a contar da data em que tiver sido proferida a decisão do Tribunal de Primeira Instância. O Tribunal de Justiça decide, no prazo de um mês a contar da recepção da proposta apresentada pelo primeiro advogado-geral, se a decisão deve ou não ser reapreciada.
 
-## TÍTULO V — Disposições finais
+TÍTULO V
 
-###### Artigo 63.º
+Disposições finais
+
+Artigo 63.º
 
 Dos Regulamentos de Processo do Tribunal de Justiça e do Tribunal de Primeira Instância constam todas as disposições indispensáveis para aplicar o presente Estatuto e, se necessário, para completá-lo.
 
-###### Artigo 64.º
+Artigo 64.º
 
 Até à adopção de regras relativas ao regime linguístico aplicável ao Tribunal de Justiça e ao Tribunal de Primeira Instância a incluir no presente Estatuto, continuam a aplicar-se as disposições do Regulamento de Processo do Tribunal de Justiça e do Regulamento de Processo do Tribunal de Primeira Instância relativas ao regime linguístico. Qualquer alteração ou revogação destas disposições deve ser efectuada segundo o procedimento previsto para a alteração do presente Estatuto.
 
@@ -2076,7 +2092,7 @@ Tendo em conta o desejo de utilizar esses fundos na investigação em sectores r
 
 acordaram nas disposições seguintes, que vêm anexas ao Tratado que institui a Comunidade Europeia:
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - A totalidade do activo e do passivo da CECA existente em 23 de Julho de 2002 será transferida para a Comunidade Europeia em 24 de Julho de 2002.
 
@@ -2084,15 +2100,15 @@ acordaram nas disposições seguintes, que vêm anexas ao Tratado que institui a
 
 3 - Os rendimentos resultantes do activo, referidos como «Fundo de Investigação do Carvão e do Aço», serão utilizados exclusivamente na investigação em sectores relacionados com a indústria do carvão e do aço a efectuar fora do programa quadro de investigação, em conformidade com o disposto no presente Protocolo e nos actos aprovados com base no mesmo.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, aprova todas as disposições necessárias à execução do presente Protocolo, incluindo os princípios essenciais e os processos adequados de tomada de decisão, em particular tendo em vista a adopção de directrizes financeiras plurianuais para a gestão do activo do Fundo de Investigação do Carvão e do Aço e de directrizes técnicas para o programa de investigação desse Fundo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Salvo disposição em contrário do presente Protocolo ou dos actos aprovados com base no mesmo, são aplicáveis as disposições do Tratado que institui a Comunidade Europeia.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O presente Protocolo aplica-se a partir de 24 de Julho de 2002.
 
@@ -2100,7 +2116,7 @@ Protocolo Relativo ao Artigo 67.º do Tratado que Institui a Comunidade Europeia
 
 As Altas Partes Contratantes acordaram na disposição seguinte, que vem anexa ao Tratado que institui a Comunidade Europeia:
 
-###### Artigo único
+Artigo único
 
 A partir de 1 de Maio de 2004, o Conselho delibera por maioria qualificada, sob proposta da Comissão e após consulta ao Parlamento Europeu, para a adopção das medidas a que se refere o artigo 66.º do Tratado que institui a Comunidade Europeia.
 
@@ -2184,7 +2200,7 @@ A Conferência tomou nota das declarações a seguir enumeradas, anexadas à pre
 
 3) Declaração da Dinamarca, da Alemanha, dos Países Baixos e da Áustria respeitante ao artigo 161.º do Tratado que institui a Comunidade Europeia.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 Declarações adoptadas pela Conferência
 
@@ -2290,11 +2306,11 @@ A posição comum a assumir pelos Estados membros nas conferências de adesão, 
 
 1 - Parlamento Europeu
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 2 - Ponderação dos votos no Conselho
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 As deliberações são tomadas se obtiverem, no mínimo, 258 votos que exprimam a votação favorável da maioria dos membros sempre que, por força do presente Tratado, devam ser tomadas sob proposta da Comissão.
 
@@ -2304,11 +2320,11 @@ Sempre que o Conselho tome uma decisão por maioria qualificada, qualquer dos se
 
 3 - Comité Económico e Social
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 4 - Comité das Regiões
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)](https://files.diariodarepublica.pt/1s/2001/12/291a00/83028337.pdf)
 
 (nota 1) Os quadros constantes desta declaração só têm em conta os Estados candidatos com os quais as negociações de adesão já foram efectivamente iniciadas.
 

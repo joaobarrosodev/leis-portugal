@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/43/1997/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-1997-163202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e475fbb32f0a161e90015365930d07b9c535cc34315cf615ba41142c30c3b3e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5235cc5c5f274020d398011e036ea2d71e8c6a36cfd19cdfbc3ef77e20580ce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
 - Convenção
-- Cooperação Técnica
-- Portugal
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Política
+- Cooperação Técnica
+- Países Ibero-Americanos
 - Política Social
+- Portugal
 - são Carlos de Bariloche
 relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:28Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 20 de Março de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/06/145a00/31143119.pdf)
 
@@ -228,7 +228,7 @@ A emenda, total ou parcial, da presente Convenção, incluindo a caducidade ou d
 
 As questões interpretativas da presente Convenção serão analisadas na reunião de responsáveis de cooperação e resolvidas, por consenso, na reunião de coordenadores nacionais.
 
-**Assinada na V Cimeira da Conferência Ibero-Americana, na cidade de São Carlos de Bariloche, Argentina, aos quinze dias do mês de Outubro de mil novecentos e noventa e cinco.**
+Assinada na V Cimeira da Conferência Ibero-Americana, na cidade de São Carlos de Bariloche, Argentina, aos quinze dias do mês de Outubro de mil novecentos e noventa e cinco.
 
 Argentina:
 

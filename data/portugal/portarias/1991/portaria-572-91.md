@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/572/1991/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/572-1991-649345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab997c48c523c454b7ebf2adb11beb9f4c6063c5400386511666afa970b145b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61c1ec015dd62626a485262fbd994bba57368f3c99bfbd93f6b611e934bd6caf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,77 @@ relationships:
   target: pt:dre:624378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152137:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelas Ports 603/87,de 15-jul, 741/87, de 29-ago, e 53/88, de 27-jan, pelo Dec Lei 292/88, de 24-ago,
+    pela Port 878/89, de 11-out, pelo DR 3/91, de 01-fev, e pela presente, pelo(a) Despacho Normativo n.º 21/92 - Diário da
+    República n.º 32/1992, Série I-B de 1992-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-1992-152137
+  date: '1992-02-07'
+- type: amended_by
+  target: pt:dre:239033:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, DR.IS
+    [149], com as alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul, 741/87, de 29-ago,
+    53/88, de 27-jan, 878/89, de 11-out, e pela presente, e pelo DR 3/91, de 01-fev, pelo(a) Despacho Normativo n.º 173/92
+    - Diário da República n.º 213/1992, Série I-B de 1992-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/173-1992-239033
+  date: '1992-09-15'
+- type: amended_by
+  target: pt:dre:624378:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelos DRs 3/91, de 01-fev, e 28/92, de 31-out, pelas Ports 603/87,
+    de 15-jul, 741/87, de 29-ago, 868/87, de 11-nov, 53/88, de 27-jan, 280/91, de 06-abr, e pela presente, e pelos DNs 172/91,
+    de 20-ago, 21/92, de 07-fev, 173/92, de 15-set, e 175/92, de 21-set, pelo(a) Despacho Normativo n.º 247/92 - Diário da
+    República n.º 294/1992, Série I-B de 1992-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/247-1992-624378
+  date: '1992-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/3/1991/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/1991/02/01/p/dre
+- type: cites
+  target: pt:dre:282694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:52Z'
   warnings: []
   errors: []
 ---
@@ -107,8 +164,8 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º
 
 Ministério das Finanças.
 
-**Assinada em 27 de Maio de 1991.**
+Assinada em 27 de Maio de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/145b00/32723273.pdf))](https://files.diariodarepublica.pt/1s/1991/06/145b00/32723273.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/145b00/32723273.pdf)

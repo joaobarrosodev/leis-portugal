@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/65/2001/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/65-2001-584017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e18f278d7ad4fa2c1b8900631db7fe5e09ae58e8ed44d61c57d6cdd7ba50e28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69c89643c36cb3bee106b70a4c784504e7d100b75482f4c50933d5597f2b431
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exploração Mineira
 - Convenção
-- Portugal
-- Segurança no Trabalho
+- Exploração Mineira
+- Genebra
 - Mineiro
 - OIT
+- Portugal
 - Saúde no Trabalho
-- Genebra
-relationships: []
+- Segurança no Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:584016:por
+  label: "Ratificada a Convençãpo pelo DEC.55/2001.2001.10.23.PR DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/55-2001-584016
+  date: '2001-10-23'
 article_structure:
   article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:57Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de Junho de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION N.º 176, CONCERNANT LA SÉCURITÉ ET LA SANTÉ DANS LES MINES
 
@@ -439,7 +444,7 @@ Após ter decidido que essas propostas tomarão a forma de uma convenção inter
 
 adopta, neste dia 22 de Junho de 1995, a seguinte convenção, que será denominada Convenção sobre a Segurança e a Saúde nas Minas, 1995.
 
-# PARTE I — Definições
+## PARTE I — Definições
 
 ###### Artigo 1.º
 
@@ -457,7 +462,7 @@ b) O conjunto das máquinas, equipamentos, acessórios, instalações, edifício
 
 2 - Para os fins da presente Convenção, o termo «empregador» designa qualquer pessoa singular ou colectiva que empregue um ou mais trabalhadores numa mina, bem como, se o contexto o exigir, o empresário, o empreiteiro principal, o empreiteiro ou o subcontratado.
 
-# PARTE II — Âmbito e modalidades de aplicação
+## PARTE II — Âmbito e modalidades de aplicação
 
 ###### Artigo 2.º
 
@@ -519,7 +524,7 @@ e) Se for caso disso, a obrigação de fornecer e manter num estado de higiene s
 
 5 - Essa legislação nacional deverá prever que o empregador responsável da mina deve assegurar a elaboração de planos apropriados dos trabalhos mineiros, antes do início das operações e no caso de qualquer modificação significativa, bem como a actualização periódica desses planos que deverão estar à disposição de todos no local em que a mina se situar.
 
-# PARTE III — Medidas de prevenção e de protecção na mina
+## PARTE III — Medidas de prevenção e de protecção na mina
 
 A - Responsabilidades dos empregadores
 
@@ -659,7 +664,7 @@ C - Cooperação
 
 Deverão ser adoptadas medidas, de acordo com a legislação nacional, para encorajar a cooperação entre os empregadores e os trabalhadores e os respectivos representantes, com vista a promover a segurança e a saúde nas minas.
 
-# PARTE IV — Aplicação
+## PARTE IV — Aplicação
 
 ###### Artigo 16.º
 
@@ -669,7 +674,7 @@ a) Adoptar todas as medidas necessárias, incluindo as sanções e as medidas co
 
 b) Criar serviços de inspecção apropriados a fim de controlar a aplicação das medidas a tomar em conformidade com a Convenção, e dotar esses serviços dos recursos necessários para o cumprimento das suas tarefas.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 17.º
 

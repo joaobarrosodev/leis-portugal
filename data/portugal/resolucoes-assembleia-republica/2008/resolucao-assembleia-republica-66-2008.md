@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/66/2008/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-2008-444226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fecfcbe86094c313a2897ff70fc6a045094fd6a924ab62d2f12666b731c848ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f7a1df3eb161f46228f5a8243440d692fb7612430f351c0e7945c998d41e3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Genebra
+- Portugal
 - União Internacional das Telecomunicações
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:444224:por
+  label: "Ratificado o Acordo, pelo DEC.161/2008.30.12.2008.PR, DR.IS [251] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/161-2008-444224
+  date: '2008-12-30'
 article_structure:
-  article_count: 0
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:29Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de Novembro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UNIÃO INTERNACIONAL DAS TELECOMUNICAÇÕES RELATIVO À REALIZAÇÃO, ORGANIZAÇÃO E FINANCIAMENTO DO 4.º FÓRUM MUNDIAL SOBRE POLÍTICAS DE TELECOMUNICAÇÕES DA UNIÃO INTERNACIONAL DAS TELECOMUNICAÇÕES E REUNIÕES RELACIONADAS.
 
@@ -132,17 +137,13 @@ F - Atendendo a que a República Portuguesa, por esse motivo, tenciona anuir às
 
 assim sendo, agora a República Portuguesa, doravante designada por «Parte Portuguesa», e a União Internacional de Telecomunicações (UIT), doravante designadas colectivamente por as «Partes», acordam o seguinte:
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 1.1 - Para efeitos do presente Acordo, a expressão «participantes dos eventos» será usada para referir qualquer delegado, membro de uma delegação, representante dos membros do sector em questão ou observador convidado para os eventos pelo Secretário-Geral da UIT (doravante designado «Secretário-Geral»), incluindo qualquer observador de acordo com a Resolução 99 (Rev. Antália, 2006), a Resolução 6 (Quioto, 1994) e a Resolução 741 do Conselho.
 
 1.2 - Para efeitos do presente Acordo, a expressão «colaborador da UIT» será usada para referir qualquer detentor de um cargo elegível da UIT que participe nos eventos, qualquer colaborador da UIT ou membro do pessoal destacado para os eventos, ou qualquer colaborador especialmente recrutado pela UIT para os eventos, em conformidade com a lista UIT de colaboradores.
 
-Artigo II
-
-Local e datas dos eventos
+###### Artigo II — Local e datas dos eventos
 
 2.1 - O FMPT-09, a sessão informativa e a reunião do GIdP terão lugar no Centro de Congressos de Lisboa, Praça das Indústrias, 1300-307 Lisboa, Portugal (doravante designado por «Centro de Congressos»).
 
@@ -152,9 +153,7 @@ Local e datas dos eventos
 
 2.4 - As condições específicas, relacionadas com as datas precisas durante as quais as instalações, recursos, serviços e pessoal local a ser providenciado pela Parte Portuguesa (v. o artigo vii infra) devem estar disponíveis e completamente operacionais, encontram-se especificadas nos anexos deste Acordo n.os 2, 3 e 4, respectivamente.
 
-Artigo III
-
-Convites e admissão
+###### Artigo III — Convites e admissão
 
 3.1 - Os convites para participar no FMPT-09 serão enviados pelo Secretário-Geral para os Estados membros da UIT. O Secretário-Geral também enviará convites para aquelas organizações e entidades que possam participar no FMPT-09 na qualidade de observadores.
 
@@ -166,9 +165,7 @@ Convites e admissão
 
 3.5 - De modo a tornar mais célere o processo de concessão de vistos, 45 dias antes do início dos eventos, e daí em diante com uma periodicidade semanal, a UIT deverá facultar à Parte Portuguesa uma lista de todos os participantes pré-registados para os eventos, bem como dos colaboradores da UIT envolvidos.
 
-Artigo IV
-
-Privilégios e imunidades
+###### Artigo IV — Privilégios e imunidades
 
 4.1 - No âmbito do presente Acordo e da sua aplicação, a Parte Portuguesa aplicará, mutatis mutandis, a respeito dos eventos, as disposições da Convenção sobre Privilégios e Imunidades das Nações Unidas, conforme aprovada pela Assembleia Geral das Nações Unidas em 13 de Fevereiro de 1946 (doravante designada como «Convenção de 1946»), da qual Portugal é Parte desde 14 de Outubro de 1998 (v. também Resolução 1004 do Conselho, confirmando a anterior Resolução 193). Em particular, os delegados e os membros de uma delegação poderão beneficiar durante a realização dos eventos e por um período de 10 dias antes do seu início e 5 dias após a sua conclusão, dos privilégios, imunidades e facilidades previstos no artigo iv da Convenção de 1946. Adicionalmente, os colaboradores da UIT poderão beneficiar durante a realização dos eventos e por um período de 10 dias antes do seu início e 5 dias após a sua conclusão, dos privilégios, imunidades e facilidades previstos nos artigos v e vii da Convenção de 1946.
 
@@ -182,9 +179,7 @@ Privilégios e imunidades
 
 4.6 - As Partes colaborarão sempre para facilitar a correcta administração de justiça e o respeito pelas leis e regulamentos de Portugal e prevenir qualquer abuso no que concerne aos privilégios, imunidades e facilidades facultados ao abrigo deste Acordo tendo em conta que estes benefícios são concedidos não para se conseguirem benefícios individuais mas sim para assegurar que delegados e colaboradores da UIT tenham ao seu dispor os meios apropriados para lhes permitir o exercício, de forma eficiente e independente, das suas funções no que concerne aos eventos e à UIT.
 
-Artigo V
-
-Plano financeiro
+###### Artigo V — Plano financeiro
 
 5.1 - De acordo com a Resolução 5 (Quioto, 1994), a Parte Portuguesa liquidará quaisquer despesas adicionais, directa ou indirectamente resultantes do facto de os eventos decorrerem em Lisboa (v. o anexo n.º 1 deste Acordo) em vez de na sede da UIT. Tais despesas consistem, especificamente, e sem prejuízo das disposições mencionadas no artigo vii infra, no seguinte:
 
@@ -206,9 +201,7 @@ Estas despesas serão registadas em contas especiais mantidas no Secretariado Ge
 
 5.6 - Com a brevidade possível e o mais tardar seis meses depois do encerramento do FMPT-09, a UIT deverá entregar à Parte Portuguesa um extracto de conta referindo os valores pagos pela Parte Portuguesa à UIT ou em nome da UIT e os valores pagos pela UIT pelas instalações e serviços a cargo da Parte Portuguesa. O saldo deverá ser regularizado em francos suíços pela Parte Portuguesa ou pela União, conforme o caso, no prazo máximo de três meses após o extracto de contas ter sido recebido. A Parte Portuguesa terá o direito de pedir e receber justificações sobre quaisquer montantes referidos no extracto.
 
-Artigo VI
-
-Medidas de protecção e segurança
+###### Artigo VI — Medidas de protecção e segurança
 
 6.1 - A Parte Portuguesa providenciará à sua custa medidas de protecção e segurança adequadas de forma a garantir o normal funcionamento dos eventos numa atmosfera de segurança e tranquilidade e livre de interferências de qualquer espécie (v. o anexo n.º 4 deste Acordo). A protecção e segurança dentro das instalações dos eventos estarão sob autoridade e controlo da UIT, que o fará em colaboração estreita com a Parte Portuguesa. A Parte Portuguesa providenciará gratuitamente à UIT pessoal e equipamento de protecção/segurança, que sejam necessários para garantir a protecção e a segurança adequadas dentro das instalações dos eventos. A protecção e a segurança fora das instalações dos eventos serão, unicamente, da responsabilidade da Parte Portuguesa. Na altura em que as instalações sejam entregues à UIT, os perímetros destas duas zonas de segurança deverão já estar definidos com clareza pelas Partes.
 
@@ -216,9 +209,7 @@ Medidas de protecção e segurança
 
 6.3 - Assim que possível e pelo menos cinco meses antes das datas de abertura dos eventos, a Parte Portuguesa designará um oficial de ligação responsável pela protecção e segurança, o qual trabalhará em conjunto com o coordenador de protecção e segurança da UIT de forma a que o plano de segurança seja abrangente e coordenado de forma eficaz.
 
-Artigo VII
-
-Instalações, recursos, serviços e pessoal local a serem disponibilizados pela Parte Portuguesa
+###### Artigo VII — Instalações, recursos, serviços e pessoal local a serem disponibilizados pela Parte Portuguesa
 
 7.1 - A Parte Portuguesa disponibilizará gratuitamente à UIT instalações, recursos, serviços e pessoal local como indicado no anexo n.º 2 deste Acordo, bem como a infra-estrutura de TI, equipamento e serviços indicados no anexo n.º 3 deste Acordo. Se algum material, provisões e ou equipamento fornecido pela Parte Portuguesa não estiver em conformidade com o que está identificado nos anexos n.os 2 e 3 deste Acordo, a UIT reserva-se o direito de adquirir ou alugar tal material, provisões e ou equipamento; quaisquer custos resultantes serão da responsabilidade da Parte Portuguesa. A menos que as Partes acordem de outro modo (v. o artigo xi deste Acordo), as áreas relevantes das instalações dos eventos ficarão à disposição dos colaboradores da UIT e de colaboradores contratados por Portugal e colocados ao serviço da UIT da seguinte forma:
 
@@ -234,15 +225,11 @@ c) De 17 a 25 de Abril de 2009 (hora de almoço) - vinte e quatro horas por dia.
 
 7.4 - A Parte Portuguesa assegurará que os participantes nos eventos terão à sua disposição alojamento adequado em hotéis ou residências perto do Centro de Congressos a preços comerciais razoáveis.
 
-Artigo VIII
+###### Artigo VIII — Organização de viagens e transporte
 
-Organização de viagens e transporte
+O Secretário-Geral tomará as devidas providências para as viagens dos colaboradores da UIT que participam nos eventos e para o transporte para o local dos eventos de todos os materiais e equipamento necessários, de acordo com o Regulamento e Regras de Pessoal da UIT, as ordens de serviço suplementares emitidas para esse efeito e as decisões relevantes do Conselho sobre esta matéria (v. o anexo n.º 5 deste Acordo).
 
-**O Secretário-Geral tomará as devidas providências para as viagens dos colaboradores da UIT que participam nos eventos e para o transporte para o local dos eventos de todos os materiais e equipamento necessários, de acordo com o Regulamento e Regras de Pessoal da UIT, as ordens de serviço suplementares emitidas para esse efeito e as decisões relevantes do Conselho sobre esta matéria (v. o anexo n.º 5 deste Acordo).**
-
-Artigo IX
-
-Organização dos contactos com a imprensa
+###### Artigo IX — Organização dos contactos com a imprensa
 
 9.1 - Todos os contactos com a imprensa (rádio e televisão, meios de comunicação electrónicos, jornais e outras publicações, etc.) no que diz respeito à preparação, condução e acompanhamento dos eventos (incluindo acreditação), assim como as comunicações oficiais sobre as actividades em curso nos eventos, serão da responsabilidade do Secretário-Geral ou de um representante por ele nomeado, em colaboração com as autoridades competentes designadas pela Parte Portuguesa.
 
@@ -252,9 +239,7 @@ Organização dos contactos com a imprensa
 
 9.4 - A Parte Portuguesa permitirá a importação temporária, isenta de impostos, de todo o equipamento, incluindo equipamento técnico, trazido por representantes acreditados de meios de comunicação de informação. Portugal emitirá sem demora qualquer licença de importação e exportação necessária para este efeito.
 
-Artigo X
-
-Cancelamento, adiamento ou mudança de local do FMPT-09 e ou da sessão informativa ou da reunião do GIdP
+###### Artigo X — Cancelamento, adiamento ou mudança de local do FMPT-09 e ou da sessão informativa ou da reunião do GIdP
 
 10.1 - Na eventualidade do cancelamento, adiamento ou mudança de local do FMPT-09 e ou da sessão informativa ou da reunião do GIdP, resultado de uma decisão da UIT, a responsabilidade da UIT para com a Parte Portuguesa deverá ser limitada às despesas, sejam por compromisso assumido ou já efectuadas, relativas a artigos necessários para a organização e preparação do FMPT-09 e ou da sessão informativa ou da reunião do GIdP, na medida em que tais despesas não sirvam a nenhum propósito útil e desde que tenham sido essenciais e não possam ser canceladas ou reduzidas.
 
@@ -262,15 +247,11 @@ Cancelamento, adiamento ou mudança de local do FMPT-09 e ou da sessão informat
 
 10.3 - Na eventualidade da ocorrência de um caso de força maior que ocasione, ou possa ocasionar, o cancelamento, adiamento, interrupção ou mudança de local do FMPT-09 e ou da sessão informativa ou da reunião do GIdP, as Partes devem iniciar negociações no prazo de cinco 5 dias após a recepção por qualquer uma das Partes de notificação, por escrito, sobre a ocorrência do caso de força maior, por forma a chegar a um acordo sobre as consequências práticas, financeiras e legais do dito caso de força maior. A menos que as Partes acordem de outro modo por escrito, tal acordo deve estar concluído em sete dias após o início das negociações e de acordo com o artigo xv infra. Se as Partes falharem em chegar a um acordo, a disputa será regulada de acordo com o disposto no artigo xii infra.
 
-Artigo XI
-
-Aplicação do presente Acordo
+###### Artigo XI — Aplicação do presente Acordo
 
 A organização para a aplicação do presente Acordo deve ser acordada entre o Secretário-Geral, ou um seu representante designado para o efeito, e as autoridades competentes da Parte Portuguesa, ou um oficial de ligação designado por essas autoridades para assumir esta função.
 
-Artigo XII
-
-Solução de controvérsias
+###### Artigo XII — Solução de controvérsias
 
 12.1 - Qualquer controvérsia entre as Partes, resultante de ou relacionada com o presente Acordo, que não possa ser resolvida de forma amigável ou por quaisquer outros meios consensual no prazo de seis meses a contar da data da notificação de ocorrência da controvérsia, será submetida a um conselho de três árbitros (doravante designada como «conselho»). Um dos árbitros será nomeado pelo Secretário-Geral e outro pela Parte Portuguesa. Os dois árbitros nomeados deverão, por sua vez, nomear um terceiro árbitro para presidente do conselho. Se alguma das Partes não nomear o seu árbitro no período de um mês após a notificação pela outra Parte do nome do seu árbitro, ou se os dois árbitros nomeados não nomear o presidente no período de dois meses após o segundo árbitro ter sido nomeado, o árbitro ainda não nomeado (ou presidente, conforme for o caso), deverá ser nomeado pelo Presidente do Tribunal Internacional de Justiça.
 
@@ -282,9 +263,7 @@ Solução de controvérsias
 
 12.5 - Qualquer litígio que envolva um assunto regido pela Convenção de 1946 será tratado de acordo com a secção 30 dessa Convenção.
 
-Artigo XIII
-
-Responsabilidade
+###### Artigo XIII — Responsabilidade
 
 13.1 - A Parte Portuguesa será responsável por resolver quaisquer questões resultantes de acções, reclamações ou outra exigência dirigida à UIT ou aos seus colaboradores, em virtude de:
 
@@ -296,9 +275,7 @@ c) A utilização para os eventos de pessoal recrutado pela Parte Portuguesa, em
 
 13.2 - A Parte Portuguesa indemnizará e não prejudicará a UIT e os seus colaboradores no que diz respeito a tais acções, reclamações ou outras solicitações.
 
-Artigo XIV
-
-Utilização de nomes, abreviaturas, títulos, logótipos e bandeiras
+###### Artigo XIV — Utilização de nomes, abreviaturas, títulos, logótipos e bandeiras
 
 14.1 - O nome, a abreviatura, o logótipo e a bandeira da UIT serão usados exclusivamente pela UIT e não serão usados pela Parte Portuguesa ou pelo comité de organização do FMPT-09 ou seus parceiros ou fornecedores oficiais, como for o caso, sem o prévio consentimento por escrito do Secretário-Geral ou um seu representante devidamente autorizado para esse efeito.
 
@@ -318,21 +295,15 @@ d) Conferências de imprensa relativas ao FMPT-09 e aos outros eventos, conforme
 
 14.5 - A Parte Portuguesa deve notificar a UIT sobre a escolha da entidade nacional mandatada para o efeito no prazo máximo de um mês após a entrada em vigor do presente Acordo.
 
-Artigo XV
-
-Revisão
+###### Artigo XV — Revisão
 
 O presente Acordo, incluindo os seus anexos n.os 1 a 5, que fazem parte integrante do mesmo, não pode ser emendado, salvo por acordo, por escrito, entre as Partes. Qualquer emenda será considerada uma parte integrante do presente Acordo.
 
-Artigo XVI
-
-Vigência
+###### Artigo XVI — Vigência
 
 O presente Acordo deve permanecer em vigor até ao acerto final entre as Partes, em conformidade com os termos e condições previstos no presente Acordo, relativos à organização e questões financeiras bem como outras referentes aos eventos.
 
-Artigo XVII
-
-Entrada em vigor
+###### Artigo XVII — Entrada em vigor
 
 O presente Acordo entra em vigor após a recepção pelo Secretário-geral de uma notificação, por escrito e por via diplomática, da Parte Portuguesa de que foram cumpridos os seus requisitos de direito interno necessários para o efeito.
 
@@ -350,7 +321,7 @@ Hamadoun I. Touré, Secretário-Geral.
 
 ## ANEXO N.º 1 — Despesas adicionais para a UIT resultantes da realização do FMPT-09 e reuniões relacionadas em Lisboa, Portugal (de 20 a 24 de Abril de 2009)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf))](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
 
 Base:
 
@@ -1020,7 +991,7 @@ Abaixo está uma estimativa dos requisitos de pessoal local de TI necessário pa
 
 Para a implementação e operações da infra-estrutura de ICT e providenciar o apoio aos utilizadores finais, tendo em conta que será necessária uma cobertura de 24 x 7 durante o período dos eventos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf))](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
 
 O descritivo das funções acima está incluído num documento separado com o descritivo de funções do pessoal local.
 
@@ -1450,7 +1421,7 @@ ANNEX 1
 
 Additional ITU expenditure resulting from the holding of the WTPF 2009 in Lisbon, Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf))](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
 
 Basis:
 
@@ -2124,7 +2095,7 @@ Below is an estimation of the local IT staff required for the events. It is the 
 
 For the implementation and operations of the ICT infrastructure and to provide support for end users, with the understanding 24 x 7 coverage will be required during the events period:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf))](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/25100/0913209163.pdf)
 
 The job descriptions for the above functions are included in a separate document with job descriptions of all local staff.
 

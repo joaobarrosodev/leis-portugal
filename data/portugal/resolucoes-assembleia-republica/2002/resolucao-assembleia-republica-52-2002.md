@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52/2002/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2002-197086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc56625a243b7a67d452d04b1d6cb8f53126ba950498abd016fb42cb7be78392
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d04405ea4b85fdf7cf484c2c24703c45760dc98c8cbe5ec0d10f1658e0194b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,27 @@ subjects:
 - Combate ao Terrorismo
 - Comissão Técnica Internacional de Explosivos
 - Convenção
-- Portugal
-- Segurança Pública
 - Montreal
-- Segurança Internacional
+- Portugal
 - Segurança Aérea
-relationships: []
+- Segurança Internacional
+- Segurança Pública
+relationships:
+- type: amended_by
+  target: pt:dre:197083:por
+  label: "Ratificada a Convenção pelo DEC.32/2002.2002.08.02.PR DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-2002-197083
+  date: '2002-08-02'
 article_structure:
-  article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 15
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:21Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Junho de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENTION ON THE MARKING OF PLASTIC EXPLOSIVES FOR THE PURPOSE OF DETECTION
 
@@ -321,7 +326,7 @@ Tomando nota, com agrado, do papel desempenhado pelo Conselho da Organização d
 
 acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Para os fins da presente Convenção:
 
@@ -337,17 +342,17 @@ Para os fins da presente Convenção:
 
 6) «Estado produtor» designa qualquer Estado em cujo território sejam fabricados os explosivos.
 
-Artigo II
+###### Artigo II
 
 Cada Estado Parte adoptará as medidas necessárias e efectivas para proibir e impedir o fabrico, no seu território, de explosivos não marcados.
 
-Artigo III
+###### Artigo III
 
 1 - Cada Estado Parte adoptará as medidas necessárias e efectivas para proibir e impedir a entrada no seu território e a saída do seu território de explosivos não marcados.
 
 2 - O disposto no número anterior não será aplicável à movimentação, para fins não incompatíveis com os objectivos da presente Convenção, pelas autoridades de um Estado Parte que exerçam funções militares ou de polícia de explosivos não marcados cujo controlo seja da responsabilidade desse Estado Parte, em conformidade com o n.º 1 do artigo IV.
 
-Artigo IV
+###### Artigo IV
 
 1 - Cada Estado Parte adoptará as medidas necessárias para exercer um controlo rigoroso e efectivo sobre a posse e a transferência de posse de explosivos não marcados, fabricados ou introduzidos no seu território antes da entrada em vigor da presente Convenção relativamente a esse Estado, a fim de impedir que sejam desviados ou utilizados para fins incompatíveis com os objectivos da presente Convenção.
 
@@ -361,7 +366,7 @@ Artigo IV
 
 6 - Cada Estado Parte adoptará as medidas necessárias para garantir a destruição, logo que possível, no seu território, de explosivos não marcados fabricados após a entrada em vigor da presente Convenção relativamente a esse Estado, que não sejam abrangidos pela alínea d) do ponto II da parte I do anexo técnico à presente Convenção, bem como de explosivos não marcados que não estejam abrangidos por qualquer outra alínea do referido ponto II.
 
-Artigo V
+###### Artigo V
 
 1 - É criada, pela presente Convenção, a Comissão Técnica Internacional de Explosivos (doravante designada por Comissão), composta por um mínimo de 15 e um máximo de 19 membros nomeados pelo Conselho da Organização da Aviação Civil Internacional (doravante designado por Conselho) de entre pessoas propostas pelos Estados Partes na presente Convenção.
 
@@ -373,7 +378,7 @@ Artigo V
 
 5 - A Comissão elaborará o seu regulamento interno, sujeito a aprovação do Conselho.
 
-Artigo VI
+###### Artigo VI
 
 1 - A Comissão apreciará os avanços técnicos que se verifiquem no âmbito do fabrico, da marcação e da detecção de explosivos.
 
@@ -383,7 +388,7 @@ Artigo VI
 
 4 - O Conselho poderá, com base em recomendação da Comissão, propor aos Estados Partes alterações ao anexo técnico à presente Convenção.
 
-Artigo VII
+###### Artigo VII
 
 1 - Cada Estado Parte poderá, nos 90 dias seguintes à data da notificação de proposta de alteração do anexo técnico à presente Convenção, comunicar as suas observações ao Conselho. Logo que possível, o Conselho comunicará essas observações à Comissão para que esta as aprecie. Qualquer Estado Parte que formule observações ou objecções à alteração proposta será convidado pelo Conselho a consultar a Comissão.
 
@@ -397,21 +402,21 @@ Artigo VII
 
 6 - Se a alteração proposta não foi adoptada, em conformidade com o n.º 3, o Conselho poderá igualmente convocar uma conferência de todos os Estados Partes.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Os Estados Partes comunicarão ao Conselho, se possível, informações que possam auxiliar a Comissão no desempenho das suas funções, nos termos do n.º 1 do artigo VI.
 
 2 - Os Estados Partes manterão o Conselho informado das medidas que tenham tomado em aplicação da presente Convenção. O Conselho comunicará a informação a todos os Estados Partes e às organizações internacionais interessadas.
 
-Artigo IX
+###### Artigo IX
 
 O Conselho, em cooperação com os Estados Partes e as organizações internacionais interessadas, adoptará as medidas apropriadas para facilitar a aplicação da presente Convenção, incluindo prestação de assistência técnica e medidas para a troca de informações sobre os avanços técnicos verificados no domínio da marcação e da detecção de explosivos.
 
-Artigo X
+###### Artigo X
 
 O anexo técnico à presente Convenção fará parte integrante desta.
 
-Artigo XI
+###### Artigo XI
 
 1 - Qualquer litígio entre os Estados Partes relativo à interpretação ou à aplicação da presente Convenção, que não possa ser resolvido pela via negocial, será submetido a arbitragem, a pedido de um desses Estados. Se, nos seis meses seguintes à data do pedido de arbitragem, as Partes não conseguirem alcançar um acordo sobre a organização da arbitragem, qualquer delas poderá submeter o litígio ao Tribunal Internacional de Justiça, mediante requerimento em conformidade com o Estatuto do Tribunal.
 
@@ -419,11 +424,11 @@ Artigo XI
 
 3 - Qualquer Estado Parte que tenha formulado uma reserva nos termos do número anterior poderá, a todo o momento, retirá-la mediante notificação dirigida à depositária.
 
-Artigo XII
+###### Artigo XII
 
 Salvo nos casos previstos no artigo XI, nenhuma outra reserva poderá ser formulada à presente Convenção.
 
-Artigo XIII
+###### Artigo XIII
 
 1 - A presente Convenção será aberta no dia 1 de Março de 1991, em Montreal, à assinatura dos Estados participantes na Conferência Internacional de Direito Aéreo, realizada em Montreal de 12 de Fevereiro a 1 de Março de 1991. Após o dia 1 de Março de 1991, ficará aberta à assinatura de todos os Estados na sede da Organização da Aviação Civil Internacional, em Montreal, até à sua entrada em vigor, em conformidade com o n.º 3. Qualquer Estado que não tenha assinado a Convenção poderá aderir a todo o tempo.
 
@@ -435,7 +440,7 @@ Artigo XIII
 
 5 - Logo que entre em vigor, a presente Convenção será registada pela depositária em conformidade com o artigo 102.º da Carta das Nações Unidas e com o artigo 83.º da Convenção sobre a Aviação Civil Internacional (Chicago, 1944).
 
-Artigo XIV
+###### Artigo XIV
 
 A depositária notificará, sem demora, todos os signatários e Estados Partes:
 
@@ -451,7 +456,7 @@ A depositária notificará, sem demora, todos os signatários e Estados Partes:
 
 6) De qualquer declaração efectuada nos termos do n.º 2 do artigo XI.
 
-Artigo XV
+###### Artigo XV
 
 1 - Qualquer Estado Parte poderá denunciar a presente Convenção mediante notificação escrita dirigida à depositária.
 
@@ -461,7 +466,9 @@ Em fé do que os plenipotenciários abaixo assinados, devidamente autorizados, a
 
 Feito em Montreal em 1 de Março de 1991, num único original compreendendo cinco textos, que fazem igualmente fé, redigidos nas línguas árabe, espanhola, francesa, inglesa e russa.
 
-## ANEXO TÉCNICO — Parte I - Descrição dos explosivos
+## ANEXO TÉCNICO
+
+## Parte I - Descrição dos explosivos
 
 I - Os explosivos a que se refere o n.º 1 do artigo I da presente Convenção são aqueles que:
 
@@ -487,7 +494,7 @@ A expressão «devidamente autorizados(as)» empregue nas alíneas a), b) e c) d
 
 A expressão «explosivos de alta potência» compreende, nomeadamente, a ciclotetrametileno-tetranitramina (HMX), o tetranitrato de pentaeritritol (PETN) e a ciclotrimetileno-trinitramina (RDX).
 
-# Parte II - Agentes de detecção
+Parte II - Agentes de detecção
 
 Entende-se por agente de detecção qualquer das substâncias enumeradas no quadro seguinte. Os agentes de detecção descritos nesse quadro destinam-se a ser utilizados com o propósito de facilitar a detecção de explosivos através de meios de detecção de vapor. Em cada caso, a introdução de um agente de detecção num explosivo far-se-á de modo a obter-se uma distribuição homogénea no produto final. A concentração mínima de um agente de detecção no produto final, no momento do fabrico, encontra-se indicada no quadro.
 

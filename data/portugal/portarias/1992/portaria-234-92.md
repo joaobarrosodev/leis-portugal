@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234/1992/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1992-186541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 022f91d57faff8b1c30417a3c6a064fdbb85b60e1471f912d5905c931e4fa8a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5528035cd3401cd11a11065fdd8cff7367f8df1e96008c05e536f7cc80b69147
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Técnico em Fibra de Vidro
 - Ensino Profissional
 - Mediocurso-Escola Profissional
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:54Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +106,8 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/070b00/14251425.pdf))](https://files.diariodarepublica.pt/1s/1992/03/070b00/14251425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/070b00/14251425.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/024b00/06320632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/49/1992/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-1992-150883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 089f7ad54e6db383cf1a851f015de6325664ac029591cfdcd2829abada528659
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f262747337590dad6618eee8fb1a5fd8d7cacbd6ae2b72f8a8d2ffab89352dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,6 @@ subjects:
 - Actualização de Pensões
 - Acumulação de Pensões
 - Coeficiente de Actualização
-- Suplemento de Pensão a Grandes Inválidos
-- Trabalhador Rural
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensões
@@ -79,25 +77,45 @@ subjects:
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Subsídio por Assistência de Terceira Pessoa
+- Suplemento de Pensão a Grandes Inválidos
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:235357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235357:por
+  label: "Retrotraídos os efeitos, a 1 de Dezembro de 1991, e revogado o presente diploma, pela PORT.1080-A/92.24.11.1992.MESS,\
+    \ DR.IS-B [272]Supl de 24.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1080-a-1992-235357
+  date: '1992-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1176/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1176/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:321484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:25Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +144,6 @@ As pensões do regime geral iniciadas anteriormente a 1 de Janeiro de 1991 e red
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 31 de Dezembro de 1991.**
+Assinada em 31 de Dezembro de 1991.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

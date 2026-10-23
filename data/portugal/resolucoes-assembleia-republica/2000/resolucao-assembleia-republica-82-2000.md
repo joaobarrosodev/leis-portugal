@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/82/2000/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/82-2000-583243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bec10636a96111cb37b3a1ed505255334458eeb9056c13829a57074e5384c3cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71c54a934491fba62355303f1a1cf16035b33985f568e0081e57c778fbceb52e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bélgica
-- Convenção
-- Portugal
-- Imposto sobre o Rendimento
-- Dupla Tributação
 - Bruxelas
-relationships: []
+- Convenção
+- Dupla Tributação
+- Imposto sobre o Rendimento
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:583236:por
+  label: "Ratificada a presente Convenção pelo DEC.78/2000.2000.12.14.PR,DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/78-2000-583236
+  date: '2000-12-14'
 article_structure:
-  article_count: 0
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:28Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +101,19 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 28 de Setembro de 2000.
 
-**O Presidente da Assembleia da República, António da Almeida Santos.**
+O Presidente da Assembleia da República, António da Almeida Santos.
 
 CONVENÇÃO ADICIONAL QUE ALTERA A CONVENÇÃO ENTRE PORTUGAL E A BÉLGICA PARA EVITAR A DUPLA TRIBUTAÇÃO E REGULAR ALGUMAS OUTRAS QUESTÕES EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E O PROTOCOLO FINAL, ASSINADOS EM BRUXELAS EM 16 DE JULHO DE 1969.
 
-**O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, desejosos de celebrar uma convenção adicional que altera a Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento e o Protocolo Final, assinados em Bruxelas em 16 de Julho de 1969 (a seguir referidos, respectivamente, pela designação «a Convenção» e «o Protocolo Final»), designaram para tal efeito como seus plenipotenciários:**
+O Presidente da República Portuguesa e Sua Majestade o Rei dos Belgas, desejosos de celebrar uma convenção adicional que altera a Convenção entre Portugal e a Bélgica para Evitar a Dupla Tributação e Regular Algumas Outras Questões em Matéria de Impostos sobre o Rendimento e o Protocolo Final, assinados em Bruxelas em 16 de Julho de 1969 (a seguir referidos, respectivamente, pela designação «a Convenção» e «o Protocolo Final»), designaram para tal efeito como seus plenipotenciários:
 
-**O Presidente da República Portuguesa, o Dr. José Manuel Durão Barroso, Ministro dos Negócios Estrangeiros;**
+O Presidente da República Portuguesa, o Dr. José Manuel Durão Barroso, Ministro dos Negócios Estrangeiros;
 
 Sua Majestade o Rei dos Belgas, Frank Vandenbroucke, Ministro dos Negócios Estrangeiros;
 
 os quais, depois de haverem trocado os seus plenos poderes e os terem achado em boa e devida forma, acordaram nas disposições seguintes:
 
-Artigo I
+###### Artigo I
 
 O artigo 2.º, n.º 3, da Convenção é suprimido e substituído pelas seguintes disposições:
 
@@ -140,7 +145,7 @@ c) A derrama;
 
 (a seguir referidos pela designação de 'imposto português').»
 
-Artigo II
+###### Artigo II
 
 No artigo 3.º, n.º 1, da Convenção, o n.º 1.º é suprimido e substituído pelas disposições seguintes:
 
@@ -148,13 +153,13 @@ No artigo 3.º, n.º 1, da Convenção, o n.º 1.º é suprimido e substituído 
 
 b) O termo 'Portugal' compreende o território da República Portuguesa situado no continente europeu, os arquipélagos dos Açores e da Madeira, o respectivo mar territorial e, bem assim, as outras zonas onde, em conformidade com a legislação portuguesa e o direito internacional, a República Portuguesa tem jurisdição ou direitos de soberania relativos à prospecção, pesquisa e exploração dos recursos naturais do leito do mar, do seu subsolo e das águas sobrejacentes.»
 
-Artigo III
+###### Artigo III
 
 O artigo 4.º, n.º 1, da Convenção é suprimido e substituído pelas disposições seguintes:
 
 «1 - Para efeitos desta Convenção, a expressão 'residente de um Estado Contratante' significa qualquer pessoa que, por virtude da legislação desse Estado, está aí sujeita a imposto, devido ao seu domicílio, à sua residência, ao local de direcção ou a qualquer outro critério de natureza similar. Todavia, esta expressão não inclui qualquer pessoa que está sujeita a imposto nesse Estado apenas relativamente ao rendimento de fontes localizadas nesse Estado.»
 
-Artigo IV
+###### Artigo IV
 
 Os n.os 3 e 4 do artigo 10.º da Convenção são suprimidos e substituídos pelas disposições seguintes:
 
@@ -168,13 +173,13 @@ b) Os rendimentos atribuídos por um residente de Portugal que exerce uma activi
 
 4 - O disposto nos n.os 1 e 2 não é aplicável se o beneficiário dos dividendos residente de um Estado Contratante tiver no outro Estado Contratante de que é residente a sociedade que paga os dividendos um estabelecimento estável a que estiver efectivamente ligada a participação que dá origem aos dividendos. Neste caso, é aplicável o disposto no artigo 7.º»
 
-Artigo V
+###### Artigo V
 
 O n.º 4 do artigo 11.º da Convenção é suprimido e substituído pelas disposições seguintes:
 
 «4 - O disposto nos n.os 1 e 2 não é aplicável se o beneficiário dos juros residente de um Estado Contratante tiver no outro Estado Contratante de que provêm os juros um estabelecimento estável a que estiver efectivamente ligado o crédito ou o depósito que dá origem aos juros. Neste caso, é aplicável o disposto no artigo 7.º»
 
-Artigo VI
+###### Artigo VI
 
 Os n.os 2 e 4 do artigo 12.º da Convenção são suprimidos e substituídos, respectivamente, pelas disposições seguintes:
 
@@ -182,7 +187,7 @@ Os n.os 2 e 4 do artigo 12.º da Convenção são suprimidos e substituídos, re
 
 4 - O disposto nos n.os 1 e 2 não é aplicável se o beneficiário das redevances residente de um Estado Contratante tiver no outro Estado Contratante de que provêm as redevances um estabelecimento estável a que estiver efectivamente ligado o direito ou o bem gerador das redevances. Neste caso, é aplicável o disposto no artigo 7.º»
 
-Artigo VII
+###### Artigo VII
 
 O artigo 16.º da Convenção é suprimido e substituído pelas disposições seguintes:
 
@@ -196,7 +201,7 @@ Estas disposições são igualmente aplicáveis às remunerações obtidas devid
 
 2 - As remunerações que uma pessoa visada no n.º 1 obtém da sociedade devido ao exercício de uma actividade diária de direcção ou de natureza técnica, bem como as remunerações que um residente de um Estado Contratante aufere da sua actividade pessoal na qualidade de sócio de uma sociedade que não seja uma sociedade por acções residente do outro Estado Contratante, podem ser tributadas em conformidade com o disposto no artigo 15.º, como se se tratasse de remunerações auferidas por um empregado de um emprego assalariado e como se o empregador fosse a sociedade.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo 17.º da Convenção é suprimido e substituído pelas disposições seguintes:
 
@@ -208,7 +213,7 @@ Artistas e desportistas
 
 2 - Não obstante o disposto nos artigos 7.º, 14.º e 15.º, os rendimentos da actividade exercida pessoalmente pelos profissionais de espectáculos, ou desportistas, nessa qualidade, atribuídos a uma outra pessoa, podem ser tributados no Estado Contratante em que são exercidas essas actividades dos profissionais de espectáculos ou dos desportistas.»
 
-Artigo IX
+###### Artigo IX
 
 O artigo 21.º da Convenção é suprimido e substituído pelas disposições seguintes:
 
@@ -222,11 +227,11 @@ Outros rendimentos
 
 3 - Não obstante o disposto nos n.os 1 e 2, os elementos do rendimento de um residente de um Estado Contratante não tratados nos artigos anteriores desta Convenção, e que provêm do outro Estado Contratante, podem ser igualmente tributados neste outro Estado.»
 
-Artigo X
+###### Artigo X
 
 O artigo 22.º da Convenção é suprimido.
 
-Artigo XI
+###### Artigo XI
 
 O artigo 23.º da Convenção é suprimido e substituído por um novo artigo 22.º, com a seguinte redacção:
 
@@ -252,7 +257,7 @@ A importância deduzida não poderá, contudo, exceder a fracção do imposto so
 
 3.º Quando, de acordo com o disposto na Convenção, o rendimento obtido por um residente de Portugal for isento de imposto neste Estado, esse Estado poderá, não obstante, ao calcular o quantitativo do imposto sobre o resto dos rendimentos desse residente, ter em conta o rendimento isento.»
 
-Artigo XII
+###### Artigo XII
 
 O artigo 24.º da Convenção passa a ser o artigo 23.º e os respectivos n.os 4, 5 e 6 são suprimidos e substituídos pelas disposições seguintes:
 
@@ -268,13 +273,13 @@ Nenhuma disposição deste artigo poderá ser interpretada no sentido de impedir
 
 6 - Salvo no caso de aplicação do artigo 9.º, do n.º 6 do artigo 11.º ou do n.º 6 do artigo 12.º, os juros, redevances e outros gastos pagos por uma empresa de um Estado Contratante a um residente do outro Estado Contratante serão dedutíveis para a determinação do lucro tributável dessa empresa, nas condições em que o seriam se fossem pagos a um residente do primeiro Estado.»
 
-Artigo XIII
+###### Artigo XIII
 
 O artigo 28.º da Convenção é suprimido.
 
 Os artigos 25.º, 26.º, 27.º, 29.º e 30.º passam a ser, respectivamente, os artigos 24.º, 25.º, 26.º, 27.º e 28.º
 
-Artigo XIV
+###### Artigo XIV
 
 Os n.os 1 e 2 do Protocolo Final são suprimidos e substituídos pelas disposições seguintes:
 
@@ -290,7 +295,7 @@ Entende-se que, em caso de conflito entre a legislação interna de um Estado Co
 
 O termo 'redevances' compreende também os pagamentos relativos à assistência técnica prestada em conexão com o uso ou a concessão do uso dos bens, direitos ou informações referidos no presente número, na medida em que tais prestações sejam efectuadas no Estado Contratante de que provêm as redevances.»
 
-Artigo XV
+###### Artigo XV
 
 1 - Esta Convenção Adicional será ratificada e os instrumentos de ratificação serão trocados em ... o mais cedo possível.
 
@@ -312,11 +317,11 @@ Feita em Bruxelas, em 6 de Março de 1995, em duplicado, nas línguas francesa, 
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf))](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
 
 Pelo Reino da Bélgica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf))](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
 
 CONVENTION ADDITIONNELLE MODIFIANT LA CONVENTION ENTRE LE PORTUGAL ET LA BELGIQUE EN VUE D'ÉVITER LES DOUBLES IMPOSITIONS ET DE RÉGLER CERTAINES AUTRES QUESTIONS EN MATIÈRE D'IMPÔTS SUR LE REVENU ET LE PROTOCOLE FINAL SIGNÉS À BRUXELLES LE 16 JUILLET 1969.
 
@@ -532,10 +537,10 @@ Fait à Bruxelles, le 6 mars 1995, en double exemplaire, en langues française, 
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf))](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
 
 Pour le Royaume de Belgique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf))](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71617172.pdf)

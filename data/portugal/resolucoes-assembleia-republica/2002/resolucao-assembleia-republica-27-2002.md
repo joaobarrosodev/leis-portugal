@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/2002/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-2002-303251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0c5285724a4cd52d995622bdc5071d516eccd17f77033a97a885ca008328dfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51d8647b86d08df80824a7024e6e6158d8766b3e8e800049a9b6e308c3957a72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cidade do Panamá
 - Convenção
-- Portugal
 - Escritório de Educação Ibero-Americano
 - Estatuto
 - OEI
 - Panamá
-- Cidade do Panamá
+- Portugal
 - Regulamento
 - Trujillo
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:303253:por
+  label: "Ratificada a Convenção aprovada para adesão, pelo DEC.25/2002.2002.04.10.PR,DR.IS-A [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-2002-303253
+  date: '2002-04-10'
 article_structure:
-  article_count: 116
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 92
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:46Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +105,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 [(ver texto em língua espanhola no documento original)](https://files.diariodarepublica.pt/1s/2002/04/084a00/34283455.pdf)
 
@@ -128,11 +133,11 @@ decide:
 
 Natureza e fins
 
-###### Artigo 1.º
+Artigo 1.º
 
 O Escritório de Educação Ibero-Americano (OEI) é um organismo internacional de cooperação educativa para os países ibero-americanos.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os fins específicos do Escritório de Educação Ibero-Americano são os seguintes:
 
@@ -158,31 +163,37 @@ j) Aceitar a associação de entidades educativas ou docentes já existentes;
 
 k) Criar centros especializados, fundar institutos, estabelecimentos e outras entidades e organismos de investigação, documentação, intercâmbio, informação e difusão em matéria educativa ou docente e os serviços descentralizados que exijam o cumprimento dos seus fins ou a execução do seu programa de actividades.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Para o cumprimento dos seus fins, o Escritório de Educação Ibero-Americano poderá celebrar acordos e subscrever convénios, tratados e restantes instrumentos legais com os Governos ibero-americanos, as organizações internacionais e as instituições, centros e outras entidades culturais e educativas.
 
-### CAPÍTULO II — Afiliação e associação
+CAPÍTULO II
 
-###### Artigo 4.º
+Afiliação e associação
+
+Artigo 4.º
 
 1 - São membros do Escritório de Educação Ibero-Americano os Estados ibero-americanos cujos Governos solicitem ou aceitem integrar este organismo.
 
 2 - A afiliação pode ser efectuada em qualquer momento por intercâmbio de comunicações com a Secretaria-Geral e supõe a aceitação dos presentes Estatutos.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Poderão associar-se com carácter consultivo ao Escritório de Educação Ibero-Americano as entidades oficiais ou privadas, de carácter educativo ou docente, nacionais, regionais ou internacionais que sejam admitidas como tais com os Congressos Ibero-Americanos de Educação, com prévia recomendação do Conselho Directivo.
 
-### CAPÍTULO III — Órgãos
+CAPÍTULO III
 
-###### Artigo 6.º
+Órgãos
+
+Artigo 6.º
 
 O Escritório de Educação Ibero-Americano é regido pelo seu órgão legislativo, que é o Congresso Ibero-Americano de Educação, e pelos órgãos delegados, que são o Conselho Directivo e a Secretaria-Geral.
 
-### CAPÍTULO IV — Congressos Ibero-Americanos de Educação
+CAPÍTULO IV
 
-###### Artigo 7.º
+Congressos Ibero-Americanos de Educação
+
+Artigo 7.º
 
 1 - Os Congressos são a suprema autoridade do Escritório de Educação Ibero-Americano e estarão integrados por representações oficiais dos Estados membros.
 
@@ -194,63 +205,71 @@ O Escritório de Educação Ibero-Americano é regido pelo seu órgão legislati
 
 5 - As entidades associadas e os Governos e instituições convidados a título de observadores poderão estar representados até por dois delegados, que terão voz, mas não voto.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os Congressos de Educação poderão reformar, com uma maioria de dois terços, os Estatutos do Escritório de Educação Ibero-Americano e decidir sobre a sede dos seus distintos órgãos.
 
 2 - Os Congressos, por simples maioria, deverão resolver sobre o programa de actividades e orçamento do Escritório de Educação Ibero-Americano e decidir sobre a admissão das entidades associadas.
 
-### CAPÍTULO V — O Conselho Directivo
+CAPÍTULO V
 
-###### Artigo 9.º
+O Conselho Directivo
+
+Artigo 9.º
 
 O Conselho Directivo é o órgão de governo e administração do Escritório de Educação Ibero-Americano e estará integrado pelos ministros da Educação dos Estados membros ou pelos seus representantes.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - O Conselho Directivo do Escritório de Educação Ibero-americano estará presidido pelo Ministro de Educação do país em que tenha de celebrar-se o próximo Congresso, o qual poderá designar a pessoa que o represente.
 
 2 - O Conselho Directivo nomeará, entre os seus membros, um vice-presidente, e actuará como secretário ex oficio do mesmo, o Secretário-Geral do Escritório de Educação Ibero-Americano.
 
-###### Artigo 11.º
+Artigo 11.º
 
 Quando o Conselho Directivo o estimar conveniente, está facultado para convocar aos Congressos Gerais todos os países ibero-americanos, que estarão representados por delegações oficiais, com o fim de estudar a situação educacional e discutir soluções no mesmo campo, coincidam ou não com as reuniões trienais da Organização. Do mesmo modo, fica facultado para convidar para assistir a umas reuniões ou a outras as entidades associadas e os organismos internacionais com os quais mantenha vínculos.
 
-### CAPÍTULO VI — Secretaria-Geral
+CAPÍTULO VI
 
-###### Artigo 12.º
+Secretaria-Geral
+
+Artigo 12.º
 
 A Secretaria-Geral do Escritório de Educação Ibero-Americano terá a direcção técnica do organismo e ostentará a sua representação nos assuntos de trâmite e nas suas relações com os governos ibero-americanos e com as organizações intergovernamentais.
 
-###### Artigo 13.º
+Artigo 13.º
 
 O titular da Secretaria-Geral será eleito pelo Congresso e durará nas suas funções até à celebração do próximo Congresso, podendo ser reeleito.
 
 O Conselho Directivo, por proposta do Secretário-Geral, designará um Secretário-Geral-Adjunto.
 
-**O Secretário-Geral e o Secretário-Geral-Adjunto devem ser nacionais de diferentes países ibero-americanos.**
+O Secretário-Geral e o Secretário-Geral-Adjunto devem ser nacionais de diferentes países ibero-americanos.
 
-###### Artigo 14.º
+Artigo 14.º
 
-**O Secretário-Geral estará assistido em matéria técnica por uma comissão assessora, formada por personalidades de cada um dos Estados membros que sejam convidados pelo Secretário-Geral para a integrarem, com prévia conformidade do Conselho Directivo.**
+O Secretário-Geral estará assistido em matéria técnica por uma comissão assessora, formada por personalidades de cada um dos Estados membros que sejam convidados pelo Secretário-Geral para a integrarem, com prévia conformidade do Conselho Directivo.
 
-### CAPÍTULO VII — Sede dos órgãos
+CAPÍTULO VII
 
-###### Artigo 15.º
+Sede dos órgãos
+
+Artigo 15.º
 
 A sede central do Escritório de Educação Ibero-Americano tem o seu domicílio em Madrid.
 
-###### Artigo 16.º
+Artigo 16.º
 
 Os diferentes órgãos do Escritório de Educação Ibero-Americano poderão ser instalados em qualquer dos países ibero-americanos que garantam a sua liberdade de acção para o cumprimento dos seus fins, a salvaguarda do seu status internacional e o apoio oficial ou privado necessário para a sua manutenção.
 
-###### Artigo 17.º
+Artigo 17.º
 
 O Escritório de Educação Ibero-Americano estabelecerá, em cada caso, com as autoridades do país em que algum dos seus órgãos tenha a sua sede, as condições em que os mesmos deverão instalar-se e funcionarem.
 
-### CAPÍTULO VIII — Património e administração
+CAPÍTULO VIII
 
-###### Artigo 18.º
+Património e administração
+
+Artigo 18.º
 
 O património do Escritório de Educação Ibero-Americano estará constituído por:
 
@@ -264,31 +283,37 @@ d) Pelo material inventariável e pelo fundo bibliográfico e documental existen
 
 e) Pelo fundo de reserva que autorize cada Congresso.
 
-###### Artigo 19.º
+Artigo 19.º
 
 A administração do Escritório de Educação Ibero-Americano estará por conta de um administrador e de um tesoureiro, que dependerão da Secretaria-Geral, que deverá apresentar contas de cada exercício ao Conselho Directivo.
 
-###### Artigo 20.º
+Artigo 20.º
 
 Um mês antes da celebração de cada Congresso Ibero-Americano de Educação, a Secretaria-Geral distribuirá entre os membros do Escritório de Educação Ibero-Americano um relatório de actividades, o orçamento previsto para o próximo triénio e o estado de contas, que serão previamente submetidos à consideração e aprovação do Conselho Directivo.
 
-### CAPÍTULO IX — Aplicações dos Estatutos e a sua regulamentação
+CAPÍTULO IX
 
-###### Artigo 21.º
+Aplicações dos Estatutos e a sua regulamentação
+
+Artigo 21.º
 
 A aplicação dos presentes Estatutos assim como a sua regulamentação e o funcionamento dos diferentes órgãos e centros do Escritório de Educação Ibero-Americano, com a excepção dos Congressos Ibero-Americanos de Educação, fica encomendada ao Conselho Directivo.
 
-### CAPÍTULO X — Disposições finais
+CAPÍTULO X
 
-###### Artigo 22.º
+Disposições finais
+
+Artigo 22.º
 
 A Secretaria-Geral do Escritório de Educação Ibero-Americano fixará o seu domicílio na sede do Instituto de Cultura Hispânica de Madrid.
 
-###### Artigo 23.º
+Artigo 23.º
 
 O director do Instituto de Cultura Hispânica de Madrid poderá assistir às reuniões do Conselho Directivo do Escritório de Educação Ibero-Americano com voz e sem voto, na sua qualidade de representante do organismo fundador.
 
-###### Artigo 24.º — As declarações gerais votadas nos Congressos Ibero-Americanos de Educação constituirão o apêndice dos presentes Estatutos.'
+Artigo 24.º
+
+As declarações gerais votadas nos Congressos Ibero-Americanos de Educação constituirão o apêndice dos presentes Estatutos.'
 
 2.º Protocolizar o texto anterior numa acta especial, desagregada da Acta Final do Congresso, assinada pelos chefes das delegações governamentais oficialmente acreditadas para representarem os seus respectivos países no Terceiro Congresso Ibero-Americano de Educação.
 
@@ -544,7 +569,7 @@ A Secretaria-Geral da Organização de Estados Ibero-Americanos para a Educaçã
 
 ###### Artigo 14.º
 
-**O Secretário-Geral poderá estar assistido, em matéria técnica, por comissões assessoras integradas por peritos dos Estados membros designados pelo Secretário-Geral.**
+O Secretário-Geral poderá estar assistido, em matéria técnica, por comissões assessoras integradas por peritos dos Estados membros designados pelo Secretário-Geral.
 
 ### CAPÍTULO VII — Sede dos órgãos
 
@@ -916,11 +941,11 @@ A Secretaria-Geral constitui o órgão executivo e permanente da Organização d
 
 ###### Artigo 42.º
 
-**O Secretário-Geral da OEI será eleito pela Assembleia Geral, permanecerá em funções até ao 1.º de Janeiro do ano imediatamente seguinte ao da celebração da próxima Assembleia Geral ordinária e não poderá ser reeleito mais de uma vez, nem sucedido por uma pessoa da mesma nacionalidade.**
+O Secretário-Geral da OEI será eleito pela Assembleia Geral, permanecerá em funções até ao 1.º de Janeiro do ano imediatamente seguinte ao da celebração da próxima Assembleia Geral ordinária e não poderá ser reeleito mais de uma vez, nem sucedido por uma pessoa da mesma nacionalidade.
 
 ###### Artigo 43.º
 
-**O Secretário-Geral dirige e representa a Secretaria-Geral, participando com voz mas sem voto nas reuniões da Assembleia Geral e do Conselho Directivo.**
+O Secretário-Geral dirige e representa a Secretaria-Geral, participando com voz mas sem voto nas reuniões da Assembleia Geral e do Conselho Directivo.
 
 ###### Artigo 44.º
 
@@ -928,7 +953,7 @@ A Secretaria-Geral poderá ter um Secretário-Geral-Adjunto, que será designado
 
 ###### Artigo 45.º
 
-**O Secretário-Geral-Adjunto actuará como delegado do Secretário-Geral em tudo aquilo que este lhe encomendar. Durante a ausência temporária ou impedimento do Secretário-Geral, e por um período máximo de três meses, desempenhará as suas funções o adjunto, se o houver, ou a pessoa que o Secretário-Geral designar. Em caso de lapsos superiores a três meses, o Presidente, com prévia consulta aos membros do Conselho Directivo, designará a pessoa que desempenhará temporariamente as funções de Secretário-Geral até que este se reincorpore ou seja provido o cargo de forma definitiva.**
+O Secretário-Geral-Adjunto actuará como delegado do Secretário-Geral em tudo aquilo que este lhe encomendar. Durante a ausência temporária ou impedimento do Secretário-Geral, e por um período máximo de três meses, desempenhará as suas funções o adjunto, se o houver, ou a pessoa que o Secretário-Geral designar. Em caso de lapsos superiores a três meses, o Presidente, com prévia consulta aos membros do Conselho Directivo, designará a pessoa que desempenhará temporariamente as funções de Secretário-Geral até que este se reincorpore ou seja provido o cargo de forma definitiva.
 
 ###### Artigo 46.º
 

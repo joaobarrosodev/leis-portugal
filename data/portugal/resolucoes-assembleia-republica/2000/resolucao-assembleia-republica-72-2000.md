@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/72/2000/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/72-2000-615794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cee42338ef8f61eafa6189c429567487b76bcdd47af866c0195642632e03433
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae03133fad381c846217510005f2f7bdf035a6db8bce40b15718955a346315e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Aquisição de Imóveis
-- Residência de Estrangeiros
 - CE Países
-- Igualdade de Tratamento
 - Convenção
-- Portugal
-- União Europeia
-- Igualdade de Oportunidades
 - Direito de Estabelecimento
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
 - Livre Circulação de Pessoas
+- Luxemburgo
 - Mobilidade Geográfica
+- Portugal
 - Prestação de Serviços
+- Residência de Estrangeiros
 - Segurança Social
 - Trabalhador Assalariado
 - Trabalhador Estrangeiro
 - Trabalhador Independente
-- Luxemburgo
-- Admissão de Estrangeiros
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:615795:por
+  label: "Ratificado o Acordo pelo DEC.48/2000.2000.11.13.PR DR.IS-A [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/48-2000-615795
+  date: '2000-11-13'
 - type: cites
   target: celex:31964L0221
   label: null
@@ -137,13 +142,13 @@ relationships:
 article_structure:
   article_count: 62
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:15Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +161,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de Julho de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A CONFEDERAÇÃO SUÍÇA, POR OUTRO, SOBRE A LIVRE CIRCULAÇÃO DE PESSOAS.
 
@@ -380,7 +385,7 @@ Acordo sobre a Cooperação Científica e Tecnológica.
 
 4 - Os sete acordos referidos no n.º 1 deixam de ser aplicáveis seis meses após recepção da notificação relativa à não recondução prevista no n.º 2 ou à denúncia prevista no n.º 3.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)
 
 ## ANEXO I — Livre circulação de pessoas
 
@@ -2572,7 +2577,7 @@ Declaração da Comunidade Europeia e dos seus Estados membros relativa aos arti
 
 Declaração relativa à participação da Suíça nos comités.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)](https://files.diariodarepublica.pt/1s/2000/11/262a00/63426380.pdf)
 
 Declaração comum relativa à liberalização geral da prestação de serviços
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/1991/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-1991-662879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eacac7e3435b52d3dfa1b0bd343b8c69cf33705b6021293e1701e77291f32788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4efd27a7a8abb8477742cf0a6cca4eca00f58ec82aa350aeabac362cdc6c96b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Autoridade Sanitária
 - CE Países
-- Leite
 - Controlo Sanitário
 - Fiscalização
 - Higiene Alimentar
+- Leite
 - Produção Leiteira
 - Proteção do Consumidor
 - Troca Intracomunitária
@@ -99,16 +99,31 @@ relationships:
   target: celex:31989L0384
   label: null
   source: http://data.europa.eu/eli/dir/1989/384/oj
+- type: corrected_by
+  target: pt:dre:477106:por
+  label: "Rectificadas as alíneas e) e f) do n.º 1) e n.º 2) do n.º 3.º, n.º 2 do n.º 9.º, n.º 1 do n.º 10.º, n.ºs 1 e 3 do\
+    \ n.º 11.º, n.ºs 1 e 2 do n.º 13.º, n.º 7 do n.º 14.º, n.º 5 do capítulo I do anexo A, alínea h) do n.º 7 do capítulo\
+    \ II do anexo A, n.º 8 do capítulo III do anexo A, n.º 11 do capítulo V do anexo A, capítulo VI do anexo A, epígrafe,\
+    \ alínea C) do capítulo VI do anexo A, n.º 31 da alínea D) do capítulo VI do anexo A, quadro do n.º 31 da alínea D) do\
+    \ capítulo VI do anexo A, n.º 45 do capítulo IX do anexo A, n.º 4 do anexo C, e n.ºs 4 e 5 do capítulo III do anexo D,\
+    \ pela DECL-RECT.53/91.30.03.1991.PCM, DR.IS-B [74]2ºSupl de 30.03.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/53-1991-477106
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:281439:por
+  label: "Revogada, com efeitos a partir de 01.01.1994, pela PORT.533/93.21.05.1993.MA, DR.IS-B [118] de 21.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1993-281439
+  date: '1993-05-21'
 article_structure:
   article_count: 0
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:52Z'
   warnings: []
   errors: []
 ---
@@ -255,11 +270,13 @@ b) Pateurizado ou UHT, proveniente de um Estado membro em que a febre aftosa tom
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 6 de Dezembro de 1990.**
+Assinada em 6 de Dezembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Condições gerais de aprovação
 
@@ -439,7 +456,7 @@ O leite cru de cada exploração deve, para poder ser tratado termicamente, sati
 
 31 - O cumprimento dos requisitos exigidos deve ser controlado por amostragem, por sondagem, a nível da recolha na exploração, na admissão do leite cru no estabelecimento de tratamento ou nos postos de recolha e ou de concentração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf))](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
 
 Para além disso, o leite deverá ter sido submetido a um teste pirúvico ou qualquer outro controlo de resultado equivalente e satisfazer os demais requisitos que vierem a ser fixados pelo Conselho e publicados por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
@@ -451,7 +468,7 @@ O centro de tratamento informa o veterinário oficial quando as contagens máxim
 
 33 - O leite pasteurizado deve ter sido obtido por um tratamento cuja temperatura seja, no mínimo, de 71,7ºC durante 15 segundos ou qualquer outra combinação equivalente. Deve, para além disso, satisfazer, aquando dos controlos por sondagem efectuados no centro de tratamento, as seguintes normas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf))](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
 
 Para além disso, o leite pasteurizado deve ser submetido a um teste pirúvico ou a qualquer outro controlo com resultados equivalentes e satisfazer, aquando destes controlos, as provas que vierem a ser fixadas pelo Conselho e publicadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
@@ -479,7 +496,7 @@ d) Ter um índice crioscópico inferior ou igual a -0,520ºC.
 
 36 - O leite esterilizado e o leite UHT devem, aquando dos controlos efectuados por sondagem no estabelecimento de tratamento, satisfazer as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf))](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/001b00/00220030.pdf)
 
 Por outro lado, este leite deverá ser submetido a um controlo por LPS (germes butíricos) ou a qualquer outro de resultados equivalentes e satisfazer as normas que para o efeito vierem a ser estabelecidas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 

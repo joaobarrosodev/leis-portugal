@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/463/1992/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-1992-300658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0455cd4d22d6684ff4779acf23610a84d3459114d583ceddb3b97cdc8eac9daf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42e928cfbfd895ae747d6de4f3847e1426aecead2d2af77c2616648c426823c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Lisboa
 - Ponta Delgada
 - Reforma Aduaneira
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:49Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 3 e 
 
 Ministério das Finanças.
 
-**Assinada em 12 de Maio de 1992.**
+Assinada em 12 de Maio de 1992.
 
 Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado Adjunto da Secretária de Estado Adjunta e do Orçamento.

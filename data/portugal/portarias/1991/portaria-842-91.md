@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/842/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-1991-674621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c008cd5dd40b6a08f15796cd59892d34d96e44bc394ebd7f9fa074536fb8ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efaaa0330f499c574c5e535f7fe47e3e2638fd45168129034cb744690bf03383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,33 @@ subjects:
 - Tapada Nacional de Mafra
 - Taxa
 - ZONA de CAÇA
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:282095:por
+  label: "ALTERADO O NUMERO 11 PELA PORTARIA 809/92, PUBLICADA NO DR.IS-B, 189, DE 920818.\0818.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/809-1992-282095
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549461:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:23Z'
   warnings: []
   errors: []
 ---
@@ -228,11 +244,11 @@ As taxas suplementares são as seguintes:
 
 Caça à espera ao javali:
 
-# Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
+Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
 
-# Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
+Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
 
-# Parte exposta das navalhas superior a 7,8 cm - 40000$00;
+Parte exposta das navalhas superior a 7,8 cm - 40000$00;
 
 Caça de aproximação ao veado - troféu:
 
@@ -300,11 +316,11 @@ As taxas suplementares são as seguintes:
 
 Caça à espera ao javali:
 
-# Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
+Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
 
-# Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
+Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
 
-# Parte exposta das navalhas superior a 7,8 cm - 40000$00.
+Parte exposta das navalhas superior a 7,8 cm - 40000$00.
 
 Caça de aproximação ao gamo - troféu:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/2003/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-2003-239594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3f67d665018ad4a50ae00de88a0661c279f558533750da1b4783aaee6376317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c3fddfa0674e29ce188a1c5daab737eac86ff70efe87c4f1f8162590f172682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
-- Portugal
+- Embarcação
+- Mar Alto
 - Moscovo
+- Portugal
 - Rússia
 - Segurança Marítima
-- Mar Alto
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:239593:por
+  label: "Ratificado o Acordo pelo DEC.27/2003.2003.04.16.PR, DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/27-2003-239593
+  date: '2003-04-16'
 article_structure:
-  article_count: 0
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:09Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Fevereiro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA PARA A PREVENÇÃO DE INCIDENTES NO MAR, FORA DAS ÁGUAS TERRITORIAIS.
 
@@ -110,7 +115,7 @@ Norteando-se pelos princípios e normas do direito internacional;
 
 convieram no seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - Para o efeito do presente Acordo, são utilizadas as seguintes definições:
 
@@ -128,13 +133,13 @@ c) O termo «força naval» significa um agrupamento de dois ou mais navios que 
 
 3 - O presente Acordo aplica-se aos navios e aeronaves que naveguem fora das águas territoriais.
 
-Artigo II
+###### Artigo II
 
 1 - As Partes comprometem-se a tomar todas as medidas necessárias no sentido de assegurarem que os seus comandantes cumpram estritamente as disposições do Regulamento Internacional para Evitar Abalroamentos no Mar de 1972 (RIEAM-72).
 
 2 - As Partes reconhecem que os princípios de liberdade da navegação e da realização de operações fora das águas territoriais se baseiam nos princípios e normas do direito internacional.
 
-Artigo III
+###### Artigo III
 
 1 - Sempre que os navios de cada uma das Partes operarem nas proximidades dos da outra Parte, devem manter uma distância de segurança suficiente para evitar o risco de abalroamento, excepto nos casos previstos no RIEAM-72 que os obriguem a manter o rumo e a velocidade.
 
@@ -164,7 +169,7 @@ f) Interferir, deliberada e prejudicialmente, nos sistemas de comunicações dos
 
 8 - Os navios de uma Parte, ao aproximarem-se de navios da outra Parte com a capacidade de manobra reduzida, nos termos definidos na regra 3.(g) do RIEAM-72, em especial os que realizem operações de lançamento ou recolha de aeronaves ou de reabastecimento no mar, devem adoptar as medidas apropriadas para não interferir naquelas manobras, mantendo-se a uma distância de segurança adequada.
 
-Artigo IV
+###### Artigo IV
 
 1 - Os comandantes das aeronaves das Partes, na sua aproximação às aeronaves e aos navios da outra Parte, em especial aos navios que realizem manobras de lançamento ou de recolha de aeronaves, devem proceder com o máximo cuidado e, no interesse da segurança mútua, não devem:
 
@@ -178,27 +183,27 @@ d) Interferir, deliberada e prejudicialmente, nos sistemas de comunicações dos
 
 2 - De noite ou em condições de voo instrumental, as aeronaves que se aproximem dos navios ou aeronaves da outra Parte devem, sempre que possível, acender os faróis de navegação.
 
-Artigo V
+###### Artigo V
 
 1 - As acções proibidas pelo presente Acordo são igualmente interditas de serem empreendidas em relação aos navios e aeronaves civis que arvorem o pavilhão da outra Parte.
 
 2 - As Partes devem tomar as medidas necessárias para informar os comandantes dos navios e aeronaves civis que arvorem o pavilhão da Parte respectiva sobre as disposições do presente Acordo que visem garantir a segurança mútua.
 
-Artigo VI
+###### Artigo VI
 
 As Partes devem difundir, através dos sistemas internacionalmente estabelecidos, os avisos à navegação marítima e aérea, normalmente com a antecedência mínima de cinco dias, respeitantes às informações relativas à realização de operações fora das águas territoriais e que possam constituir um perigo para a navegação marítima e aérea.
 
-Artigo VII
+###### Artigo VII
 
 1 - As Partes devem trocar oportunamente as informações necessárias sobre os casos de colisão, sobre os incidentes de que tenham resultado danos e sobre outros incidentes no mar ocorridos entre navios e aeronaves das Partes.
 
 2 - O Governo da República Portuguesa deve fornecer tais informações através da Embaixada da Federação da Rússia na República Portuguesa; o Governo da Federação da Rússia deve fornecer tais informações através da Embaixada da República Portuguesa na Federação da Rússia.
 
-Artigo VIII
+###### Artigo VIII
 
 No prazo máximo de um ano, a contar da entrada em vigor do presente Acordo, os representantes das Partes devem reunir para examinar a prática da aplicação das suas disposições e para, eventualmente, acordar novas medidas que assegurem um nível mais elevado de segurança da navegação dos seus navios e aeronaves no mar, fora das águas territoriais. Posteriormente, estas reuniões podem manter a periodicidade trienal ou com maior frequência, de acordo com a decisão das Partes.
 
-Artigo IX
+###### Artigo IX
 
 1 - O presente Acordo entrará em vigor na data da última notificação escrita de que estão cumpridas as formalidades constitucionais exigidas em cada uma das Partes.
 
@@ -208,11 +213,11 @@ Feito em Moscovo, em 4 de Agosto de 2000, em dois exemplares, cada um nas língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)
 
 Pelo Governo da Federação da Rússia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)](https://files.diariodarepublica.pt/1s/2003/04/090a00/24662471.pdf)
 
 ## ANEXO — Tabela de sinais especiais
 

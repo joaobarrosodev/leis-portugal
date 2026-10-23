@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/771/1991/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-1991-687794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce5e0712b7456edf14ef8537d2a6d649496d23bf1d92fbdb863f004ac2b248c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab604bd40f9b7e85a53eef57559b24590e7355a6039024e655841e7f71d1e54e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Complexo Desportivo do Jamor
+- Desporto
 - Regulamento de Utilização e Exploração do Complexo Desportivo do Jamor
 - TAXA de Utilização
-- Desporto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/91/1991/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/91/1991/01/31/p/dre
+- type: cites
+  target: pt:dre:151892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665922:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:43Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +115,6 @@ Manda o Governo, pelo Ministro da Educação, que seja aditado um § único ao n
 
 Ministério da Educação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

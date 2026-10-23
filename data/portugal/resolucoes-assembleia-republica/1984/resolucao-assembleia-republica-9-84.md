@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1984-661117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d55f9f09677b142ee59ab8aa725f14f021cb994431f99a03380a88c9aababd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60ba5294433f38ca6019844da835e91155ead00592640bd5ad39a190ae758913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Desenvolvimento Industrial
+- ONU
+- Onudi
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:483888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483887:por
+  label: "Ratificado o recesso, por parte da República Portuguesa, ao Ato Constitutivo da Organização das Nações Unidas para\
+    \ o Desenvolvimento Industrial - ONUDI (aprovado para ratificação pelo presente diploma, e cujo Protocolo foi aprovado\
+    \ pelo Dec 12/89 de 13-abr do MNE), aprovado pela Res 156/2013 de 31-dez da AR pelo DEC.127/2013.31.12.2013.PR, DR.IS\
+    \ [253] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/127-2013-483887
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:483888:por
+  label: "Aprovado o recesso, por parte da República Portuguesa, ao Ato Constitutivo da Organização das Nações Unidas para\
+    \ o Desenvolvimento Industrial (ONUDI), aprovado para ratificação pelo presente diploma, e cujo Protocolo foi aprovado\
+    \ pelo Dec 12/89 de 13-abr do MNE, pela RES.156/2013.31.12.2013.AR, DR.IS [253] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/156-2013-483888
+  date: '2013-12-31'
 article_structure:
   article_count: 1
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:25Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +112,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 ACTE CONSTITUTIF DE L'ORGANISATION DES NATIONS UNIES POUR LE DÉVELOPPEMENT INDUSTRIEL
 
@@ -1070,4 +1090,4 @@ a) O tribunal arbitral encerra o processo com uma sentença que vincula todas as
 
 b) A comissão de conciliação encerra o processo com um relatório dirigido a todas as partes do diferendo, o qual conterá recomendações que as mesmas partes deverão ter na maior consideração.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

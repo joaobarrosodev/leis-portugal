@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1984-660340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6cb4cd03e09d5d1f97d875de833caf898b4b861316d601f84c684d9039a3fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3036658aef803d231ce0895dbffd4b51c9e840e19d50e62f0075a7de8ccc2834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Convenção
+- Harare
+- Portugal
+- Zimbabwe
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:20Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +93,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 TRADE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF ZIMBABWE.
 
@@ -238,4 +243,4 @@ Pelo Governo da República Portuguesa:
 
 (Assinatura ilegível.)
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

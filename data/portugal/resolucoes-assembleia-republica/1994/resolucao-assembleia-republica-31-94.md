@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31/1994/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-1994-290005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e01cd7b0ea58e59aef7bf63a151fb49b3cee95bce04162fc6c2b1c8a9e2a6526
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8174bf54c2a218ac2c72b4757ab69d075c3021acc7d25b3ec6cc4c535fc0e28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Noruega
+- Portugal
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
@@ -76,13 +76,13 @@ relationships: []
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:18Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 17 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DA NORUEGA SOBRE TRANSPORTES RODOVIÁRIOS INTERNACIONAIS.
 
@@ -351,7 +351,7 @@ Pelo Governo da Reino da Noruega:
 
 Haakon W. Freibow.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/148a00/34063415.pdf))](https://files.diariodarepublica.pt/1s/1994/06/148a00/34063415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/148a00/34063415.pdf)
 
 ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DE NORVÈGE CONCERNANT LES TRANSPORTS ROUTIERS INTERNATIONAUX.
 

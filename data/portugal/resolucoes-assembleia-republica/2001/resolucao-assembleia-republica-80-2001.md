@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/80/2001/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/80-2001-539629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6fe6cc3127fa6a2e1506f000b0c0fb030aa67d6432fab8498d887c518eb6d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e48e1019319d44f22a8a50cd5c5c9a94b54484237b12fa92d0914c35745835f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Gestão Financeira
 - Convenção
 - Decisão CE
-- União Europeia
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
 - Receita Própria
 - Sistema de Recursos Próprios das Comunidades Europeias
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:539625:por
+  label: "Ratificada a Decisão aprovada para ratificação pelo presente diploma, pelo DEC.62/2001.2001.12.18.PR DR.IS-A [291]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/62-2001-539625
+  date: '2001-12-18'
 - type: cites
   target: celex:31985D0257
   label: null
@@ -110,13 +116,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:19Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +135,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 31 de Outubro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 DECISÃO DO CONSELHO, DE 29 DE SETEMBRO DE 2000, RELATIVA AO SISTEMA DE RECURSOS PRÓPRIOS DAS COMUNIDADES EUROPEIAS ([2000/597/CE, EURATOM](https://data.europa.eu/eli/dec/2000/597/oj?locale=pt)).
 

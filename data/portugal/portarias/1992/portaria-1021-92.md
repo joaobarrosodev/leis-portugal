@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1021/1992/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1021-1992-217572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fad99246d3e42706e43682fdf678efa67fcd24387da225c39346877b0e6365f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 394bce1ad1ef468ec0fcd7e3c4c0945c4b81a4efb2eb1a8dd7b753bfe70f8c1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,21 @@ relationships:
   target: celex:31990L0121
   label: null
   source: http://data.europa.eu/eli/dir/1990/121/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 110/96 DE 10-ABR DR.IS-B [85]\085]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:48Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +149,7 @@ e) São acrescentados os seguintes números:
 
 2) No anexo III, primeira parte, é acrescentado o número de ordem 55:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf))](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
 
 3) No anexo III, segunda parte, a data «31-12-1989», que consta da coluna «Admitido até», é substituída pela data da entrada em vigor da presente portaria no que se refere aos seguintes números:
 
@@ -166,7 +171,7 @@ d) É aditada a referência (3) ao número do Colour index 17 200;
 
 a) É acrescentado o seguinte corante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf))](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
 
 b) Os n.os 13 065, 21 110, 42 045, 42 535, 44 045 e 61 554 são suprimidos;
 
@@ -180,7 +185,7 @@ d) A data «31-12-1989», que consta da coluna «Admitidos até», é substituí
 
 a) No anexo VI, segunda parte, é acrescentado o número de ordem 27:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf))](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252b00/50475049.pdf)
 
 b) No anexo VI, segunda parte, a data «31-12-1989», que consta da coluna f, é substituída pela data da entrada em vigor da presente portaria no que se refere às seguintes substâncias:
 
@@ -210,6 +215,6 @@ b) No anexo VI, segunda parte, a data «31-12-1989», que consta da coluna f, é
 
 Ministérios da Indústria e Energia, da Saúde e do Comércio e Turismo.
 
-**Assinada em 21 de Outubro de 1992.**
+Assinada em 21 de Outubro de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

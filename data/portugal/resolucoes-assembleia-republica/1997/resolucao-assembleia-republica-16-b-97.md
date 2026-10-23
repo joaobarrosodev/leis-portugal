@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 83/1997, 1º Suplemento, Série I-A de 1997-04-09
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1608-(2) a 1608-(157)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16-b/1997/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-b-1997-224387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 188d29219e41b4813a50f19f5d0e336848f42a6b3a70c0943f49ab98e167af30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e568497b81922635ddd3caa65c0e926665ff27d4fc176932aa8a92812287cff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Denominação de Origem
+- Comércio
 - Comunidade Europeia
+- Concorrência
 - Contingentação
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Concorrência
-- Euratom
-- Cooperação Policial
-- Pesca
-- Indústria
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Mercado de Capitais
-- Política Aduaneira
 - Cooperação Agrícola
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Policial
 - Cooperação Política
+- Cooperação Técnica
+- Denominação de Origem
+- Euratom
+- Indústria
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Luxemburgo
+- Mercado Agrícola
+- Mercado de Capitais
+- Pesca
+- Política Aduaneira
+- Portugal
 - Produto Têxtil
 - Produtos de Pesca
-- Comércio
-- Bruxelas
-- Luxemburgo
 relationships:
 - type: cites
   target: celex:31968R0805
@@ -149,13 +149,13 @@ relationships:
 article_structure:
   article_count: 241
   section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:48Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +168,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 11 de Outubro de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA LETÓNIA, POR OUTRO.
 
@@ -1808,45 +1808,45 @@ As decisões do Comité Misto instituído pelo Acordo Relativo ao Comércio e à
 
 Na sua primeira reunião, o Conselho de Associação adoptará todas as alterações do presente Acordo, sobretudo dos Protocolos e Anexos, necessários ao seu alinhamento pelas alterações do Acordo sobre Comércio Livre e Matérias Conexas decididas pelo Comité Misto entre a assinatura e a entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO I — Lista dos produtos referidos nos artigos 9.º e 18.º do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO II — Lista dos produtos referidos no n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no n.º 3 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO IV — Lista dos produtos referidos no n.º 1 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO V — Lista de produtos têxteis originários da Letónia e sujeitos aos limites máximos pautais comunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO VI — Produtos referidos no artigo 17.º
 
 Produtos relativamente aos quais a Comunidade e a Letónia retêm um elemento agrícola nos direitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO VII — Lista dos produtos referidos no n.º 2 do artigo 20.º
 
 As importações na Comunidade Europeia dos produtos a seguir enumerados, originários da Letónia, estarão sujeitas aos direitos adiante indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO AO ANEXO VII — Regime de preços mínimos aplicável na importação de certos frutos de baga destinados a transformação
 
 1 - São fixados preços mínimos de importação por campanha de comercialização para os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 Estes preços mínimos são fixados pela Comunidade, em consulta com a Letónia, tendo em conta a evolução dos preços e as quantidades importadas, bem como as tendências do mercado da Comunidade.
 
@@ -1878,7 +1878,7 @@ Esta taxa de direito reduzido e de direito nivelador ou a taxa de direito espec�
 
 As importações na Comunidade dos produtos adiante enumerados, originários da Letónia, serão sujeitas a uma redução de 60% do direito nivelador variável, do direito ad valorem e ou das taxas de direito específicas nos limites das quantidades indicadas (contingentes pautais):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO X — Lista dos produtos referidos no n.º 2 do artigo 20.º
 
@@ -1890,21 +1890,21 @@ As importações na Comunidade dos produtos adiante enumerados, originários da 
 
 4 - As importações na Letónia de produtos agrícolas originários da Comunidade Europeia que não os enumerados no presente anexo estão isentos de direitos ou de quaisquer encargos de efeito equivalente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO XI — Lista dos produtos referidos no n.º 2 do artigo 20.º
 
 As importações na Letónia dos produtos a seguir enumerados, originários da Comunidade Europeia, ficarão sujeitas aos seguintes contingentes pautais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO XII — Produtos originários da Letónia a que a Comunidade concede contingentes pautais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO XIII — Produtos originários da Comunidade a que a Letónia concede reduções pautais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO XIV — Relativo ao n.º 1 do artigo 44.º
 
@@ -2322,7 +2322,7 @@ Pelo Conselho das Comunidades Europeias:
 
 3 - A expressão «vestuário para bebés» inclui o vestuário até ao tamanho 86, inclusive.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO II — Produtos sem limites quantitativos sujeitos ao sistema de duplo controlo referido no n.º 3 do artigo 2.º do Acordo
 
@@ -2564,7 +2564,7 @@ Se esses controlos revelarem a existência de irregularidades sistemáticas na u
 
 5 - Quando haja provas suficientes de desvio ou infracção ao presente Protocolo, as autoridades competentes da Letónia e a Comunidade podem acordar nas medidas previstas no n.º 4 do artigo 6.º do Acordo e em quaisquer outras medidas necessárias para evitar a repetição desses desvios ou infracções.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 Protocolo B, referido no artigo 9.º
 
@@ -2602,7 +2602,7 @@ Se as importações de qualquer dos produtos abrangidos pelo presente Protocolo 
 
 2 - O disposto nos títulos IV e V do Protocolo A é aplicável mutatis mutandis aos produtos referidos no n.º 1 do presente Protocolo.
 
-## ANEXO AO PROTOCOLO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+## ANEXO AO PROTOCOLO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 Protocolo C
 
@@ -2644,7 +2644,7 @@ Quotas TAP
 
 Limites quantitativos comunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 Protocolo D
 
@@ -2762,13 +2762,13 @@ Para efeitos do presente Protocolo, entende-se por:
 
 ## ANEXO I — Direitos de importação aplicáveis na Comunidade às mercadorias originárias da Letónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO II
 
 Contingentes pautais aplicáveis às importações na Comunidade de mercadorias originárias da Letónia em relação às quais é concedida uma redução do elemento agrícola em conformidade com o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no artigo 4.º
 
@@ -2778,13 +2778,13 @@ Contingentes pautais aplicáveis às importações na Comunidade de mercadorias 
 
 3 - As importações na Letónia dos produtos agrícolas transformados originários da Comunidade que não os enunciados no presente anexo estão isentas de direitos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO IV — Lista dos produtos referidos no artigo 4.º
 
 As importações na Letónia dos produtos a seguir enumerados, originários da Comunidade Europeia, ficarão sujeitas aos seguintes contingentes pautais; as quantidades que excedam esses contingentes serão sujeitas à taxa do direito NMF (anexo III)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 PROTOCOLO N.º 3, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -3052,7 +3052,7 @@ b) Apresentar às autoridades aduaneiras prova suficiente de que foi emitido um 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -3062,7 +3062,7 @@ b) Apresentar às autoridades aduaneiras prova suficiente de que foi emitido um 
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -3090,7 +3090,7 @@ b) Conter a marca, aposta pelo exportador autorizado, de um carimbo especial apr
 
 4 - Nos casos referidos na alínea a) do n.º 3 será inscrita na casa 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 5 - A casa 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -3486,7 +3486,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -3496,7 +3496,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Letónia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -3506,11 +3506,11 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Letónia reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 PROTOCOLO N.º 4, SOBRE AS DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO COMÉRCIO ENTRE A LETÓNIA E ESPANHA E PORTUGAL.
 
@@ -3554,7 +3554,7 @@ O cumprimento por parte de Portugal dos compromissos abrangidos pelo n.º 2 do a
 
 As importações em Portugal de produtos originários da Letónia pode ser sujeitas a restrições quantitativas, até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anexo B.
 
-## ANEXO A e ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+## ANEXO A e ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
 
 PROTOCOLO N.º 5, RELATIVO À ASSISTÊNCIA MÚTUA EM MATÉRIA ADUANEIRA ENTRE AUTORIDADES ADMINISTRATIVAS
 
@@ -3914,4 +3914,4 @@ Declarações da República da Letónia
 
 4 - Tendo em conta a intenção de ambas as Partes de iniciarem negociações para a celebração de um acordo europeu o mais rapidamente possível, a Letónia manifestou o seu interesse em renegociar o comércio de produtos têxteis e agrícolas durante essas negociações, para se efectuarem os ajustamentos necessários para aumentar a liberalização mútua do comércio na sequência da adesão dos países escandinavos à União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/083a01/00020157.pdf)

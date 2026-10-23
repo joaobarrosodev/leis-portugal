@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 77/1997, 1º Suplemento, Série I-A de 1997-04-02
   number: '77'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1486-(2) a 1486-(112)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16-a/1997/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-a-1997-198920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 740203bb054007c7384105e5244aa2ad232d625c5ac7e9fcecfebcf3d898c5d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e09cfe7baef40dbc9f3fe45cf2986c3d5f9fa50265ccc01f4cd18ec50af7ccb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,36 +71,36 @@ subjects:
 - CE Países
 - CECA
 - CEE
-- Denominação de Origem
+- Comércio
+- Concorrência
 - Contingentação
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Concorrência
-- Euratom
-- Cooperação Policial
-- Pesca
-- Indústria
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Mercado de Capitais
-- Mercado Financeiro
-- Política Aduaneira
 - Cooperação Agrícola
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Policial
 - Cooperação Política
+- Cooperação Técnica
+- Denominação de Origem
+- Estónia
+- Euratom
+- Indústria
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Luxemburgo
+- Mercado Agrícola
+- Mercado de Capitais
+- Mercado Financeiro
+- Pesca
+- Política Aduaneira
+- Portugal
 - Produto Têxtil
 - Produtos de Pesca
-- Comércio
-- Estónia
-- Luxemburgo
 relationships:
 - type: cites
   target: celex:31968R0805
@@ -153,13 +153,13 @@ relationships:
 article_structure:
   article_count: 238
   section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:48Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +172,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 11 de Outubro de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA ESTÓNIA, POR OUTRO.
 
@@ -1776,17 +1776,17 @@ Na sua primeira reunião, o Conselho de Associação adoptará todas as alteraç
 
 ## ANEXO I — Lista dos produtos referidos nos artigos 9.º e 17.º do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO II — Produtos referidos no artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no n.º 2 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
-## APÊNDICE AO ANEXO III
+APÊNDICE AO ANEXO III
 
 Regime de preços mínimos aplicável na importação de certos frutos de baga destinados a transformação
 
@@ -1808,7 +1808,7 @@ Estes preços mínimos são fixados pela Comunidade, em consulta com a Estónia,
 
 3 - Caso um destes critérios não seja respeitado, a Comunidade pode aplicar medidas que garantam que o preço mínimo de importação seja respeitado em relação a cada remessa do produto em causa, importado da Estónia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO IV — Produtos referidos no n.º 2 do artigo 19.º
 
@@ -1830,13 +1830,13 @@ Esta taxa de direito reduzido e de direito nivelador ou a taxa de direito espec�
 
 As importações na Comunidade dos produtos a seguir enumerados, originários da Estónia, serão sujeitas a uma redução de 60% do direito nivelador variável, do direito ad valorem e ou das taxas de direito específicas nos limites das quantidades indicadas (contingentes pautais):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no n.º 1 do artigo 22.º
 
 Produtos originários da Estónia relativamente aos quais a Comunidade concede reduções pautais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO VII — Relativo ao n.º 1 do artigo 43.º
 
@@ -2180,7 +2180,7 @@ Em relação à propriedade intelectual e a pedido de uma das Partes, podem real
 
 3 - A expressão «vestuário para bebés» inclui o vestuário até ao tamanho 86, inclusive.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO II — Produtos sem limite quantitativos sujeitos ao sistema de duplo controlo referido no n.º 2 do artigo 2.º do presente Protocolo
 
@@ -2216,7 +2216,7 @@ Categorias:
 
 118;
 
-## Apêndice A
+Apêndice A
 
 ## TÍTULO I — Classificação
 
@@ -2418,9 +2418,9 @@ Se esses controlos revelarem a existência de irregularidades sistemáticas na u
 
 5 - Quando haja provas suficientes de desvio ou infracção ao presente apêndice, as autoridades competentes da Comunidade e da Estónia e podem acordar nas medidas previstas no n.º 4 do artigo 6.º do Protocolo e em quaisquer outras medidas necessárias para evitar a repetição desses desvios ou infracções.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
-## Apêndice B, referido no artigo 9.º
+Apêndice B, referido no artigo 9.º
 
 Produtos de artesanato e de folclore originários da Estónia
 
@@ -2438,9 +2438,9 @@ Se as importações de qualquer dos produtos abrangidos pelo presente apêndice 
 
 2 - O disposto nos títulos IV e V do apêndice A é aplicável mutatis mutandis aos produtos referidos no n.º 1 do presente apêndice.
 
-## ANEXO AO APÊNDICE B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+## ANEXO AO APÊNDICE B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
-## Apêndice C
+Apêndice C
 
 As reimportações na Comunidade, na acepção do n.º 3 do artigo 3.º do Protocolo, dos produtos enunciados no anexo do presente apêndice serão sujeitas ao disposto nesse mesmo Protocolo, salvo disposição em contrário do presente apêndice.
 
@@ -2480,7 +2480,7 @@ Quotas TAP
 
 Limites quantitativos comunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 Acta aprovada n.º 1
 
@@ -2554,13 +2554,13 @@ A Estónia aplicará os direitos aplicáveis em 1 de Janeiro de 1995 às importa
 
 ## ANEXO I — Direitos de importação aplicáveis na Comunidade às mercadorias originárias da Estónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO II
 
 Contingentes pautais aplicáveis às importações na comunidade de mercadorias originárias da Estónia em relação às quais é concedida uma redução do elemento agrícola em conformidade com o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 PROTOCOLO N.º 3, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -2826,7 +2826,7 @@ b) Apresentar às autoridades aduaneiras prova suficiente de que foi emitido um 
 
 3 - As autoridades aduaneiras só podem emitir um certificado de circulação EUR.1 a posteriori depois de terem verificado a coerência dos elementos do pedido do exportador com os documentos do processo correspondente.
 
-4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: «NACHTRÄGLICH AUSGESTELLT», «DELIVRE A POSTERIORI», «RILASCIATO A POSTERIORI», «AFGEGEVEN A POSTERIORI», «ISSUED RETROSPECTIVELY», «UDSTEDT EFTER-FØLGENDE», [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «EXPEDIDO A POSTERIORI», «EMITIDO A POSTERIORI», «TAGANT JÄRELE VÄLJAANTUD» «ANNETTU JÄLKIKÄTEEN», «UTFÄRDAT I EFTERHAND».
+4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: «NACHTRÄGLICH AUSGESTELLT», «DELIVRE A POSTERIORI», «RILASCIATO A POSTERIORI», «AFGEGEVEN A POSTERIORI», «ISSUED RETROSPECTIVELY», «UDSTEDT EFTER-FØLGENDE», [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «EXPEDIDO A POSTERIORI», «EMITIDO A POSTERIORI», «TAGANT JÄRELE VÄLJAANTUD» «ANNETTU JÄLKIKÄTEEN», «UTFÄRDAT I EFTERHAND».
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2834,7 +2834,7 @@ b) Apresentar às autoridades aduaneiras prova suficiente de que foi emitido um 
 
 1 - Em caso de furto, extravio ou destruição de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação em posse dessas autoridades.
 
-2 - A segunda via assim emitida deve conter as seguintes menções: «DUPLIKAT», «DUPLICATA», «DUPLICATO», «DUPLICAAT», «DUPLICATE», [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «DUPLICADO», «SEGUNDA VIA», «DUPLIKAAT», «KAKSOISKAPPALE», «DUPLIKAT».
+2 - A segunda via assim emitida deve conter as seguintes menções: «DUPLIKAT», «DUPLICATA», «DUPLICATO», «DUPLICAAT», «DUPLICATE», [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «DUPLICADO», «SEGUNDA VIA», «DUPLIKAAT», «KAKSOISKAPPALE», «DUPLIKAT».
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -2860,7 +2860,7 @@ a) Conter antecipadamente a marca do carimbo da estância aduaneira competente d
 
 b) Conter a marca, aposta pelo exportador autorizado, de um carimbo especial aprovado pelas autoridades aduaneiras do Estado de exportação e conforme ao modelo que consta do anexo V do presente Protocolo, podendo essa marca ser previamente impressa nos formulários.
 
-4 - Nos casos referidos na alínea a) do n.º 3 será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: «PROCEDIMENTO SIMPLIFICADO», «FORENKLET PROCEDURE», «VEREINFACHTES VERFAHREN», [([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «SIMPLIFIED PROCEDURE», «PROCEDURE SIMPLIFIEE», «PROCEDURA SEMPLIFICATA», «VEREENVOUDIGDE PROCEDURE», «PROCEDIMENTO SIMPLIFICADO», «LIHTSUSTATUD PROTSEDUUR», «YKSINKERTAISTETTU MENETTELY», «FÖRENKLAD PROCEDUR».
+4 - Nos casos referidos na alínea a) do n.º 3 será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: «PROCEDIMENTO SIMPLIFICADO», «FORENKLET PROCEDURE», «VEREINFACHTES VERFAHREN», [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf), «SIMPLIFIED PROCEDURE», «PROCEDURE SIMPLIFIEE», «PROCEDURA SEMPLIFICATA», «VEREENVOUDIGDE PROCEDURE», «PROCEDIMENTO SIMPLIFICADO», «LIHTSUSTATUD PROTSEDUUR», «YKSINKERTAISTETTU MENETTELY», «FÖRENKLAD PROCEDUR».
 
 5 - A casa n.º 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -3254,7 +3254,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 ## ANEXO II — Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para o produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -3264,7 +3264,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Estónia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -3274,11 +3274,11 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Estónia reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 PROTOCOLO N.º 4, SOBRE AS DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO COMÉRCIO ENTRE A ESTÓNIA E ESPANHA E PORTUGAL.
 
@@ -3324,11 +3324,11 @@ As importações em Portugal de produtos originários da Estónia podem ser suje
 
 ## ANEXO A — Código NC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 ## ANEXO B — Código NC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
 
 PROTOCOLO N.º 5, RELATIVO À ASSISTÊNCIA MÚTUA EM MATÉRIA ADUANEIRA ENTRE AUTORIDADES ADMINISTRATIVAS
 
@@ -3646,4 +3646,4 @@ Declarações da República da Estónia
 
 Se foram instituídos direitos aduaneiros para os produtos agrícolas na Estónia entre 1 de Janeiro de 1994 e a data de entrada em vigor do presente Acordo, a Estónia aplicará mutatis mutandis o procedimento e as normas substantivas previstas no n.º 3 do artigo 24.º do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf))](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/077a01/00020112.pdf)

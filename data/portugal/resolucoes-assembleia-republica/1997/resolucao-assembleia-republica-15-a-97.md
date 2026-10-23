@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 70/1997, 1º Suplemento, Série I-A de 1997-03-24
   number: '70'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1330-(2) a 1330-(149)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/15-a/1997/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-a-1997-138787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f8ff40c9a20d5911aa9f0268f1dda96133e7bc336bdbc5173772cc4d34cc4e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0f407fd413fed41c13a645a2d26cb8761966f298c0c470c7474d0b03be11db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Denominação de Origem
+- Comércio
 - Comunidade Europeia
+- Concorrência
 - Contingentação
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Concorrência
-- Euratom
-- Cooperação Policial
-- Pesca
-- Indústria
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Mercado de Capitais
-- Política Aduaneira
 - Cooperação Agrícola
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Policial
 - Cooperação Política
+- Cooperação Técnica
+- Denominação de Origem
+- Euratom
+- Indústria
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Luxemburgo
+- Mercado Agrícola
+- Mercado de Capitais
+- Pesca
+- Política Aduaneira
+- Portugal
 - Produto Têxtil
 - Produtos de Pesca
-- Comércio
-- Bruxelas
-- Luxemburgo
 relationships:
 - type: cites
   target: celex:31968R0805
@@ -152,13 +152,13 @@ relationships:
 article_structure:
   article_count: 242
   section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:43Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +171,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 11 de Outubro de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA LITUÂNIA, POR OUTRO.
 
@@ -1835,15 +1835,15 @@ As decisões do Comité Misto instituído pelo Acordo Relativo ao Comércio e à
 
 Na sua primeira reunião, o Conselho de Associação adoptará todas as alterações do presente Acordo, sobretudo dos protocolos e anexos, necessários ao seu alinhamento pelas alterações do Acordo sobre Comércio Livre e Matérias Conexas decididas pelo Comité Misto entre a assinatura e a entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
-## ANEXO I ao ANEXO IX — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+## ANEXO I ao ANEXO IX — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO AO ANEXO IX — Regime de preços mínimos aplicável na importação de certos frutos de baga destinados a transformação
 
 1 - São fixados preços mínimos de importação por campanha de comercialização para os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 Estes preços mínimos são fixados pela Comunidade, em consulta com a Lituânia, tendo em conta a evolução dos preços e as quantidades importadas, bem como as tendências do mercado da Comunidade.
 
@@ -1875,7 +1875,7 @@ Esta taxa de direito reduzido e de direito nivelador ou a taxa de direito espec�
 
 As importações na Comunidade Europeia dos produtos adiante enumerados, originários da Lituânia, serão sujeitas a uma redução de 60% do direito nivelador variável, do direito ad valorem e ou das taxas de direito específicas nos limites das quantidades indicadas (contingentes pautais):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO XII — Lista dos produtos referidos no n.º 2 do artigo 20.º
 
@@ -1883,25 +1883,25 @@ As importações na Comunidade Europeia dos produtos adiante enumerados, origin�
 
 2 - As importações na Lituânia de produtos agrícolas, originários da Comunidade, que não os enumerados no presente anexo, estão isentas de direitos ou de quaisquer encargos de efeito equivalente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO XIII — Lista dos produtos originários no n.º 2 do artigo 20.º
 
 As importações na Lituânia dos produtos adiante enumerados, originários da Comunidade, beneficiarão do tratamento preferencial estabelecido no anexo XII nos limites das quantidades a seguir indicadas (contingente pautal, em toneladas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO XIV — Lista dos produtos referidos no n.º 1 do artigo 23.º
 
 Produtos originários da Lituânia relativamente aos quais a Comunidade concede contingentes pautais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO XV — Lista dos produtos referidos no n.º 1 do artigo 23.º
 
 Produtos originários da Comunidade relativamente aos quais a Lituânia concede reduções pautais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO XVI — Relativo ao n.º 1 do artigo 44.º
 
@@ -2329,7 +2329,7 @@ Pelo Conselho das Comunidades Europeias:
 
 3 - A expressão «vestuário para bebés» inclui o vestuário até ao tamanho 86, inclusive.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO II — Produtos sem limites quantitativos sujeitos ao sistema de duplo controlo referido no n.º 3 do artigo 2.º do Acordo
 
@@ -2573,7 +2573,7 @@ Se esses controlos revelarem a existência de irregularidades sistemáticas na u
 
 5 - Quando haja provas suficientes de desvio ou infracção ao presente Protocolo, as autoridades competentes da Lituânia e a Comunidade podem acordar nas medidas previstas no n.º 4 do artigo 6.º do Acordo e em quaisquer outras medidas necessárias para evitar a repetição desses desvios ou infracções.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 Protocolo B, referido no artigo 9.º
 
@@ -2593,7 +2593,7 @@ Se as importações de qualquer dos produtos abrangidos pelo presente Protocolo 
 
 2 - O disposto nos títulos IV e V do Protocolo A é aplicável, mutatis mutandis, aos produtos referidos no n.º 1 do presente Protocolo.
 
-## ANEXO AO PROTOCOLO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+## ANEXO AO PROTOCOLO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 Protocolo C
 
@@ -2635,7 +2635,7 @@ Quotas TAP
 
 Limites quantitativos comunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 Protocolo D
 
@@ -2753,19 +2753,19 @@ Para efeitos do presente Protocolo, entende-se por:
 
 ## ANEXO I — Direitos de importação aplicáveis na Comunidade às mercadorias originárias da Lituânia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO II
 
 Contingentes pautais aplicáveis às importações na Comunidade de mercadorias originárias da Lituânia em relação às quais é concedida uma redução do elemento agrícola nos termos do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no artigo 4.º
 
 As importações na Lituânia dos produtos agrícolas transformados adiante enunciados, originários da Comunidade, serão sujeitas aos seguintes direitos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 PROTOCOLO N.º 3, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -3033,7 +3033,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 3 - As autoridades aduaneiras só podem emitir um certificado de circulação EUR.1 a posteriori depois de terem verificado a coerência dos elementos do pedido do exportador com os documentos do processo correspondente.
 
-4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -3041,7 +3041,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 1 - Em caso de furto, extravio ou destruição de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação em posse dessas autoridades.
 
-2 - A segunda via assim emitida deve conter as seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+2 - A segunda via assim emitida deve conter as seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritos na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -3067,7 +3067,7 @@ a) Conter antecipadamente a marca do carimbo da estância aduaneira competente d
 
 b) Conter a marca, aposta pelo exportador autorizado, de um carimbo especial aprovado pelas autoridades aduaneiras do Estado de exportação e conforme ao modelo que consta do anexo V do presente Protocolo, podendo essa marca ser previamente impressa nos formulários.
 
-4 - Nos casos referidos na alínea a) do n.º 3 será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+4 - Nos casos referidos na alínea a) do n.º 3 será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 5 - A casa n.º 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -3463,7 +3463,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -3473,7 +3473,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Lituânia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -3483,11 +3483,11 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Lituânia reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3,alínea b), do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 PROTOCOLO N.º 4, SOBRE AS DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO COMÉRCIO ENTRE A LITUÂNIA E ESPANHA E PORTUGAL.
 
@@ -3531,9 +3531,9 @@ O cumprimento por parte de Portugal dos compromissos abrangidos pelo n.º 2 do a
 
 As importações em Portugal de produtos originários da Lituânia podem ser sujeitas a restrições quantitativas, até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anexo B.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
 
 PROTOCOLO N.º 5, RELATIVO À ASSISTÊNCIA MÚTUA EM MATÉRIA ADUANEIRA ENTRE AUTORIDADES ADMINISTRATIVAS
 
@@ -3861,4 +3861,4 @@ Declarações da República da Lituânia
 
 3 - Artigo 56.º - A Lituânia considera o estabelecimento de um regime de isenção de vistos entre a República da Lituânia e os Estados membros da União Europeia essencial para a realização dos objectivos da presente Associação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf))](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/070a01/00020149.pdf)

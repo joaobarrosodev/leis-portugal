@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/49/2006/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-2006-537985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c2ac78316dcba7c0f93f6aaf8e3f9a96844ba72ae23279335eff4f982b8d554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9834403be400830e2922dc2bf27182249857a3edff5d0754be77b8aff839dafd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,27 @@ reuse:
 subjects:
 - Centro Regional de Excelência em Desenvolvimento Empresarial
 - Convenção
-- Portugal
-- Lisboa
 - CPLP
+- Lisboa
 - Maputo
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:537977:por
+  label: "Ratificada a Convenção sobre o Centro Regional de Excelência em Desenvolvimento Empresarial, aprovada, para ratificação,\
+    \ pelo presente diploma, pelo DEC.63/2006.05.07.2006.PR, DR.IS [128] de 05.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-2006-537977
+  date: '2006-07-05'
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:08Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Abril de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENÇÃO SOBRE O CENTRO REGIONAL DE EXCELÊNCIA EM DESENVOLVIMENTO EMPRESARIAL
 

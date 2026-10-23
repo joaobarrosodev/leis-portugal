@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 155/1994, 1º Suplemento, Série I-A de 1994-07-07
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3624-(2) a 3624-(117)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36/1994/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-1994-641452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0260931d8d88737e75c9e64f50427f3cc6e6050e84f67c38523079a27bb78e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f10d99c54e4b4b8736f9a7986c4fcff6e6a76ebe30ec9865bb47282c5245ac6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - CEE
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Euratom
+- Portugal
 relationships:
 - type: cites
   target: celex:31982R0288
@@ -112,15 +112,15 @@ relationships:
   label: null
   source: /application/external/tratado
 article_structure:
-  article_count: 209
+  article_count: 208
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:24Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +133,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 12 de Maio de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA ESLOVACA, POR OUTRO.
 
@@ -1605,7 +1605,7 @@ A partir da sua entrada em vigor, o presente Acordo substitui o Acordo entre a C
 
 2 - Em caso da entrada em vigor do Acordo após 1 de Janeiro de qualquer ano, são aplicáveis as disposições do Protocolo n.º 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 Do Anexo I ao Anexo XVIc
 
@@ -1659,7 +1659,7 @@ O presente Protocolo aplica-se aos produtos enumerados no anexo I do [Tratado CE
 
 ### CAPÍTULO I — Produtos siderúrgicos CECA
 
-###### Artigo 2.º (ver nota 1)
+Artigo 2.º (ver nota 1)
 
 Os direitos aduaneiros aplicáveis às importações na Comunidade de produtos siderúrgicos CECA originários da República Eslovaca serão progressivamente eliminados de acordo com o seguinte calendário:
 
@@ -1807,7 +1807,7 @@ Os direitos aplicáveis a partir de 1 de Janeiro de 1995 serão definitivamente 
 
 4 - A República Eslovaca e a Comunidade informar-se-ão mutuamente dos níveis de preços dos produtos agrícolas de base considerados para a compensação dos preços referida no artigo 1.º do presente Protocolo.
 
-## Anexo A — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+## Anexo A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 PROTOCOLO n.º 4
 
@@ -2023,7 +2023,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 será sujeita à
 
 5 - Na casa n.º 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 6 - Não é necessário indicar nas casas n.os 8 e 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (kg) ou outra medida (1, m3, etc.). A casa n.º 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -2063,7 +2063,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1,
 
@@ -2073,7 +2073,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2093,7 +2093,7 @@ b) Conter a marca aposta pelo exportador autorizado de um carimbo especial aprov
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 5 - A casa n.º 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -2493,7 +2493,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal comoumablu
 
 Lista das operações de complemento de fabrico ou de transformação que devem ser efectuadas em relação às matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 ## ANEXO III — Certificados de circulação EUR.1
 
@@ -2503,7 +2503,7 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da República Eslovaca reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -2513,15 +2513,15 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da República Eslovaca reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 ## ANEXO VI — Lista dos produto referidos no artigo 35.º temporariamente excluídos do âmbito do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 PROTOCOLO N.º 5 DO ACORDO EUROPEU («ACORDO»)
 
@@ -2557,7 +2557,7 @@ Nos termos do Acto de Adesão, Portugal não concederá aos produtos originário
 
 As importações em Portugal de produtos originários da República Eslovaca podem ser sujeitas a restrições quantitativas até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anexo B.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
 
 PROTOCOLO n.º 6
 
@@ -3061,4 +3061,4 @@ Carta do Governo de República Eslovaca à Comunidade relativa ao Protocolo n.º
 
 O Governo da República Eslovaca declara que não invocará as disposições do Protocolo n.º 2, relativo aos produtos CECA, e, nomeadamente, o seu artigo V, a fim de não pôr em causa a compatibilidade desse Protocolo com os acordos celebrados pela indústria carbonífera comunitária com as companhias de electricidade, as empresas siderúrgicas e a indústria siderúrgica, de modo a assegurar a venda do carvão comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155a01/00020117.pdf)

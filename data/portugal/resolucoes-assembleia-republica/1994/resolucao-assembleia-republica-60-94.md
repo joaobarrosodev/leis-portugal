@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60/1994/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-1994-610192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcca3bdcc7f98260427e6e47c0d4e062dc93887255b80c97cc23fd4dba6e8ef8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 137fca8d02c51851b6b5f2cfb1f70b75f0b37fd7764cb5ceea3acea1cdfc4a63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Bruxelas
 - CE Países
 - CEE
 - Convenção
-- Portugal
 - Dupla Tributação
+- Empresa
 - Empresa Estrangeira
-- Bruxelas
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:276784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610193:por
+  label: "Ratificada a presente Convenção pelo DEC.73/94.19.10.1994.PR, DR.IS-A [[242]] de 19.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/73-1994-610193
+  date: '1994-10-19'
+- type: amended_by
+  target: pt:dre:367976:por
+  label: "Alterados os art 2º e 3º da Convenção aprovada para ratificação através do presente diploma pela Convenção sobre\
+    \ a Adesão da República da Áustria, da República da Finlândia e do Reino da Suécia à Convenção Relativa à Eliminação da\
+    \ Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas, aprovada para ratificação pela RES.40/97.1997.02.17.AR,\
+    \ DR.IS-A [135] de 1997.06.14\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/40-1997-367976
+  date: '1997-02-17'
+- type: amended_by
+  target: pt:dre:276784:por
+  label: "Alterado o art. 20.º da Convenção aprovada para ratificação pelo presente diploma, pelo Protocolo de Alterações\
+    \ aprovado para ratificação, pela RES.43/2004.06.05.2004.AR, DR.IS-A [148] de 25.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/43-2004-276784
+  date: '2004-05-06'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:58Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +120,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 7 de Julho de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO RELATIVA À ELIMINAÇÃO DA DUPLA TRIBUTAÇÃO EM CASO DE CORRECÇÃO DE LUCROS ENTRE EMPRESAS ASSOCIADAS.
 
@@ -121,13 +140,13 @@ Sua Majestade a Rainha da Dinamarca:
 
 Niels Helveg Petersen, Ministro da Economia;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Theo Waigel, Ministro Federal das Finanças;
 
 Jürgen Trumpf, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Ioannis Palaiokrassas, Ministro das Finanças;
 
@@ -135,15 +154,15 @@ Sua Majestade o Rei de Espanha:
 
 Carlos Solchaga Catalán, Ministro da Economia e Finanças;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Jean Vidal, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Albert Reynolds, Ministro das Finanças;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Stefano de Luca, Secretário de Estado das Finanças;
 
@@ -155,7 +174,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 P. C. Nieman, embaixador extraordinário e plenipotenciário;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Miguel Beleza, Ministro das Finanças;
 
@@ -181,7 +200,7 @@ os quais, reunidos em Conselho, após terem procedido à troca dos respectivos p
 
 2 - Os impostos actuais a que se aplica a presente Convenção são, nomeadamente, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf))](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
 
 3 - A presente Convenção aplica-se igualmente aos impostos de natureza idêntica ou similar que venham a ser criados após a data da sua assinatura e que venham a acrescer ou a substituir os impostos actualmente existentes. As autoridades competentes dos Estados Contratantes comunicarão reciprocamente as alterações introduzidas nas respectivas legislações nacionais.
 
@@ -193,7 +212,7 @@ os quais, reunidos em Conselho, após terem procedido à troca dos respectivos p
 
 1 - Para efeitos de aplicação da presente Convenção, a expressão "autoridade competentes" designa as seguintes instâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf))](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
 
 2 - Os termos que não são objecto de definição na presente Convenção têm o sentido que lhes é atribuído nas convenções em matéria de dupla tributação celebradas pelos Estados interessados, salvo excepção exigida pelo contexto.
 
@@ -279,7 +298,7 @@ Os Estados Contratantes podem introduzir alterações à lista referida no prime
 
 5 - Os representantes e as personalidades independentes designados nos termos do n.º 1 escolherão um presidente com base na lista referida no n.º 4, sem prejuízo de cada autoridade competente interessada poder recusar, numa as situações referidas no n.º 3, a personalidade assim escolhida.
 
-**O presidente deve reunir as condições exigidas para o exercício das mais altas funções jurisdicionais no seu próprio país ou ser um jurisconsulto de reconhecida competência.**
+O presidente deve reunir as condições exigidas para o exercício das mais altas funções jurisdicionais no seu próprio país ou ser um jurisconsulto de reconhecida competência.
 
 6 - Os membros da comissão consultiva devem guardar sigilo sobre todos os elementos de que tenham conhecimento no âmbito do procedimento. Os Estados Contratantes adoptarão as disposições adequadas para reprimir qualquer infracção à obrigação de sigilo. Comunicarão essa disposições sem demora à Comissão das Comunidades Europeias, que informará do facto os demais Estados Contratantes.
 
@@ -353,7 +372,7 @@ A presente Convenção entrará em vigor no primeiro dia do terceiro mês seguin
 
 ###### Artigo 19.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de todos os instrumentos de ratificação;
 
@@ -373,7 +392,7 @@ Qualquer dos Estados Contratantes pode, a qualquer momento, solicitar a revisão
 
 A presente Convenção, redigida num único exemplar nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo igualmente fé os 10 textos, será depositada nos arquivos do Secretariado-Geral do Conselho das Comunidades Europeias. O Secretário-Geral enviara uma copia autenticada a cada um dos Governos dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf))](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
 
 ACTA FINAL
 
@@ -395,7 +414,7 @@ Declarações individuais dos Estados Contratantes relativas ao artigo 8.º;
 
 Declaração da República Federal da Alemanha relativa ao artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf))](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/242a00/63266335.pdf)
 
 DECLARAÇÕES COMUNS
 

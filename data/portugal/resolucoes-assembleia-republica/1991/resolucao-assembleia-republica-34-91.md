@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/1991, 1º Suplemento, Série I-A de 1991-10-30
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5588-(23) a 5588-(62)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/34/1991/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-1991-568539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57c613445b78293d029096d11f6baf14f02d4211b0c230867ed847e9f2fe4588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe64007d8e9168aa83c64419a640da1fb5daf03c6065334555c227fe3d9a01b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - Competência Jurisdicional
 - Convenção
-- Portugal
-- Espanha
-- Direito Comercial
-- Lugano
-- Execução de Sentença
 - Direito Civil
-- Bruxelas
+- Direito Comercial
+- Espanha
+- Execução de Sentença
+- Lugano
 - Luxemburgo
+- Portugal
 relationships: []
 article_structure:
-  article_count: 192
+  article_count: 203
   section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:47Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 24 de Abril de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENÇÃO RELATIVA À ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À CONVENÇÃO RELATIVA À COMPETÊNCIA JUDICIÁRIA E À EXECUÇÃO DE DECISÕES EM MATÉRIA CIVIL E COMERCIAL, BEM COMO AO PROTOCOLO RELATIVO À SUA INTERPRETAÇÃO PELO TRIBUNAL DE JUSTIÇA, COM AS ADAPTAÇÕES QUE LHES FORAM INTRODUZIDAS PELA CONVENÇÃO RELATIVA À ADESÃO DO REINO DA DINAMARCA, DA IRLANDA E DO REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE E AS ADAPTAÇÕES QUE LHES FORAM INTRODUZIDAS PELA CONVENÇÃO RELATIVA À ADESÃO DA REPÚBLICA HELÉNICA.
 
@@ -121,13 +121,13 @@ Sua Majestade a Rainha da Dinamarca:
 
 Jette Birgitte Selso, encarregado de negócios a. i. na Embaixada da Dinamarca em Madrid;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Dr. Georg Tresspz, ministro plenipotenciário na Embaixada da República Federal da Alemanha em Madrid;
 
 Dr. Klaus Kinkel, Secretário de Estado no Ministério Federal da Justiça;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Giannis Skoularikis, Ministro da Justiça;
 
@@ -135,15 +135,15 @@ Sua Majestade o Rei de Espanha:
 
 Enrique Mugica Herzog, Ministro da Justiça;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Pierre Appaillange, Ministro da Justiça;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Patrick Walshe, embaixador extraordinário e plenipotenciário da Irlanda em Espanha;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Giuliano Vassalli, Ministro da Justiça;
 
@@ -157,7 +157,7 @@ Frits Korthals Altes, Ministro da Justiça;
 
 J. Spoormaker, 1.º secretário de embaixada;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Fernando Nogueira, Ministro da Presidência e da Justiça;
 
@@ -431,7 +431,7 @@ Até que a Convenção Relativa à Competência Judiciária e à Execução de D
 
 O artigo V-B, aditado ao Protocolo anexo à Convenção de 1968 pelo artigo 29.º da Convenção de 1978 e a que foi dada nova redacção pelo artigo 9.º da Convenção de 1982, passa a ter a seguinte redacção:
 
-Artigo V-B
+###### Artigo V-B
 
 Nos litígios entre um capitão e um membro da tripulação de um navio de mar matriculado na Dinamarca, na Grécia, na Irlanda ou em Portugal, relativos às remunerações ou outras condições de serviço, os tribunais de um Estado Contratante devem verificar se o agente diplomático ou consular com autoridade sobre o navio foi informado do litígio. Os tribunais devem suspender a instância enquanto o agente não for informado. Devem, mesmo oficiosamente, declara-se incompetentes se aquele agente, devidamente informado, tiver exercido as atribuições que lhe são reconhecidas na matéria por uma convenção consular ou, na falta de tal convenção, tiver suscitado objecções quanto à competência no prazo fixado.
 
@@ -497,7 +497,7 @@ A presente Convenção será ratificada pelos Estados signatários. Os instrumen
 
 ###### Artigo 33.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -511,15 +511,15 @@ A presente Convenção, redigida num único exemplar, nas línguas alemã, dinam
 
 a) Texto dinamarquês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 b) Texto alemão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 c) Texto grego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 d) Texto inglês
 
@@ -593,15 +593,15 @@ e) Texto francês
 
 f) Texto irlandês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 g) Texto italiano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 h) Texto neerlandês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 En fe de lo cual, los infrascrito, debidamente autorizados a tal efecto, han firmado el presente Convenio.
 
@@ -609,7 +609,7 @@ Til bekraeftelse heraf har undertegnede behøright befuldmaegtigede underskrevet
 
 Zu urkund dessen haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 In witness hwereof the undersigned, being duly authorized thereto, have signed this Convention.
 
@@ -629,7 +629,7 @@ Udfardiget i Donostia, San Sebastián, den seksogtyvende maj nitten hundrede og 
 
 Geschehen zu Donostia, San Sebastián, am sechundzwanzigsten Mai neunzehnhundertneunundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 Done at Donostia, San Sebastián on the twenty-sixth day of May in the year one thousand nine hundred and eighty-nine.
 
@@ -643,7 +643,7 @@ Gedaan te Donostia, San Sebastián, de zesentwintigste mei negentienhonderd nege
 
 Feito em Donostia, San Sebastián, em vinte e seis de Maio de mil novecentos e oitenta e nove.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 ## ANEXO II — Convenção Relativa à Competência Judiciária e à Execução de Decisões em Matéria Civil e Comercial
 
@@ -661,15 +661,15 @@ Sua Majestade o Rei dos Belgas:
 
 Pierre Harmel, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Willy Brandt, Vice-Chanceler, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Michel Debré, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Giuseppe Medici, Ministro dos Negócios Estrangeiros;
 
@@ -1181,7 +1181,7 @@ As adaptações necessárias podem ser objecto de uma convenção especial entre
 
 ###### Artigo 64.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -1245,35 +1245,35 @@ Protocolo
 
 As Altas Partes Contratantes acordaram nas disposições seguintes, que ficam anexas à Convenção:
 
-Artigo I
+###### Artigo I
 
 Qualquer pessoa domiciliada no Luxemburgo, demandada perante o tribunal de um outro Estado Contratante nos termos do n.º 1) do artigo 5.º, pode arguir a incompetência desse tribunal. O tribunal em causa declarar-se-á oficiosamente incompetente se o requerido não comparecer.
 
 Qualquer pacto atributivo de jurisdição, na acepção do artigo 17.º, só produzirá efeitos em relação a uma pessoa domiciliada no Luxemburgo se esta expressa e especificamente o aceitar.
 
-Artigo II
+###### Artigo II
 
 Sem prejuízo de disposições nacionais mais favoráveis, as pessoas domiciliadas num Estado Contratante e contra quem corre processo por infracção involuntária nos tribunais com competência penal de outro Estado Contratante de que não sejam nacionais podem entregar a sua defesa a pessoas para tanto habilitadas, mesmo que não compareçam pessoalmente.
 
 Todavia, o tribunal a que foi submetida a questão pode ordenar a comparência pessoal; se tal não ocorrer, a decisão proferida na acção cível sem que a pessoa em causa tenha tido a possibilidade de assegurar a sua defesa pode não ser reconhecida nem executada nos outros Estados Contratantes.
 
-Artigo III
+###### Artigo III
 
 Nenhum imposto, direito ou taxa, proporcional ao valor do litígio, será cobrado no Estado requerido no processo de concessão da fórmula executória.
 
-Artigo IV
+###### Artigo IV
 
 Os actos judiciais e extrajudiciais praticados no território de um Estado Contratante e que devam ser objecto de notificação ou citação a pessoas que se encontrem no território de outro Estado Contratante serão transmitidos na forma prevista em convenções ou acordos celebrados entre os Estados Contratantes.
 
 Desde que o Estado destinatário a tal não se oponha mediante declaração dirigida ao Secretário-Geral do Conselho das Comunidades Europeias, esses actos podem também ser transmitidos directamente pelos oficiais de justiça do Estado em que forem praticados aos oficiais de justiça do Estado em cujo território se encontre o destinatário do acto. Neste caso, o oficial de justiça do Estado de origem transmitirá uma cópia do acto ao oficial de justiça do Estado requerido, que tem competência para a enviar ao destinatário. Essa remessa será feita na forma prevista pela lei do Estado requerido. E será comprovada por certidão enviada directamente ao oficial de justiça do Estado de origem.
 
-Artigo V
+###### Artigo V
 
 A competência judiciária prevista no n.º 2) do artigo 6.º e no artigo 10.º, no que respeita ao chamamento de um garante à acção ou a qualquer incidente de intervenção de terceiro, não pode ser invocada na República Federal da Alemanha. Nesse Estado, as pessoas domiciliadas no território de outro Estado Contratante podem ser chamadas a tribunal nos termos dos artigos 68.º e 72.º, 73.º e 74.º do Código de Processo Civil relativos à litis denunciatio.
 
 As decisões proferidas nos outros Estados Contratantes por força do n.º 2) do artigo 6.º e do artigo 10.º serão reconhecidas e executadas na República Federal da Alemanha, em conformidade com o título III. Os efeitos produzidos relativamente a terceiros, nos termos dos artigos 68.º e 72.º, 73.º e 74.º do Código de Processo Civil, por decisões proferidas nesse Estado serão igualmente reconhecidos nos outros Estados Contratantes.
 
-Artigo VI
+###### Artigo VI
 
 Os Estados Contratantes comunicarão ao Secretário-Geral do Conselho das Comunidades Europeias os textos das suas disposições legislativas que venham a alterar, quer os artigos das respectivas leis que são mencionados na Convenção, quer os tribunais que são designados na secção II do título III da Convenção.
 
@@ -1373,15 +1373,15 @@ Sua Majestade o Rei dos Belgas:
 
 Alfons Vranckx, Ministro da Justiça;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Gerhard Jahn, Ministro Federal da Justiça;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 René Pleven, Ministro da Justiça;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Ermínio Pennacchini, Subsecretário de Estado do Ministério da Justiça e das Amnistias;
 
@@ -1465,7 +1465,7 @@ Os Estados Contratantes reconhecem que qualquer Estado que se torne membro da Co
 
 ###### Artigo 10.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -1585,19 +1585,19 @@ Sua Majestade a Rainha da Dinamarca:
 
 Nathalie Lind, Ministro da Justiça;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans-Jochen Vogel, Ministro Federal da Justiça;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Alain Peyrefitte, Ministro da Justiça;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Gerard Collins, Ministro da Justiça;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Paolo Bonifacio, Ministro da Justiça;
 
@@ -1671,7 +1671,7 @@ c) No arresto, pelo requerente, de bens situados no Reino Unido.
 
 2 - O n.º 1) do artigo 5.º da Convenção de 1968 passa a ter a seguinte redacção na versão em língua neerlandesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 3 - O n.º 2) do artigo 5.º da Convenção de 1968 passa a ter a seguinte redacção:
 
@@ -2065,19 +2065,19 @@ c) Das declarações recebidas nos termos do artigo 60.º
 
 Ao Protocolo anexo à Convenção de 1968 são aditados os seguintes artigos:
 
-Artigo V-A
+###### Artigo V-A
 
 Em matéria de obrigação alimentar, os termos «juiz», «tribunal» e «autoridade judicial» abrangem as autoridades administrativas dinamarquesas.
 
-Artigo V-B
+###### Artigo V-B
 
 Nos litígios entre o capitão e um membro da tripulação de um navio de mar matriculado na Dinamarca ou na Irlanda, relativos às remunerações ou outras condições de serviço, os tribunais de um Estado Contratante devem verificar se o agente diplomático ou consular com autoridade sobre o navio foi informado do litígio. Os tribunais devem suspender a instância enquanto o agente não for informado. Devem, mesmo oficiosamente, declarar-se incompetentes se aquele agente, devidamente informado, tiver exercido as atribuições que lhe são reconhecidas na matéria por uma convenção consular ou, na falta de tal convenção, tiver suscitado objecções quanto à competência no prazo fixado.
 
-Artigo V-C
+###### Artigo V-C
 
 Sempre que, no âmbito do n.º 5 do artigo 69.º da Convenção Relativa à Patente Europeia do Mercado Comum, assinada no Luxemburgo em 15 de Dezembro de 1975, os artigos 52.º e 53.º da presente Convenção sejam aplicáveis às disposições relativas à residence, nos termos da versão inglesa daquela primeira convenção, considera-se que o termo «residence» usado nesse texto tem o mesmo alcance que o termo «domicílio» que consta dos artigos 52.º e 53.º da presente Convenção.
 
-Artigo V-D
+###### Artigo V-D
 
 Sem prejuízo da competência do Instituto Europeu de Patentes nos termos da Convenção Relativa à Emissão de Patentes Europeias, assinada em Munique em 5 de Outubro de 1973, os tribunais de cada Estado Contratante são os únicos competentes, sem consideração de domicílio, em matéria de inscrição ou de validade de uma patente europeia emitida para esse Estado e que não seja uma patente comunitária nos termos do disposto no artigo 86.º da Convenção Relativa à Patente Europeia para o Mercado Comum, assinada no Luxemburgo em 15 de Dezembro de 1975.
 
@@ -2237,7 +2237,7 @@ A presente Convenção entrará em vigor, em cada novo Estado membro que a ratif
 
 ###### Artigo 40.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -2363,25 +2363,25 @@ Sua Majestade a Rainha da Dinamarca:
 
 Erik Ninn-Hansen, Ministro da Justiça;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans Arnold Engelhard, Ministro Federal da Justiça;
 
 Gunther Knackstedt, embaixador da República Federal da Alemanha no Luxemburgo;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Georges-Alexandre Mangakis, Ministro da Justiça;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Robert Badinter, Ministro da Justiça;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Seân Doherty, Ministro da Justiça;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Clelio Darida, Ministro da Justiça;
 
@@ -2417,19 +2417,19 @@ As adaptações introduzidas pela presente Convenção na Convenção de 1968 e 
 
 Ao segundo parágrafo do artigo 3.º da Convenção de 1968, com a redacção que lhe foi dada pelo artigo 4.º da Convenção de 1978, é aditado, entre o terceiro e o quarto travessões, o seguinte travessão:
 
-- Na Grécia: o artigo 40.º do Código de Processo Civil [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
+- Na Grécia: o artigo 40.º do Código de Processo Civil [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
 
 ###### Artigo 4.º
 
 Ao primeiro parágrafo do artigo 32.º da Convenção de 1968, com a redacção que lhe foi dada pelo artigo 16.º da Convenção de 1978, é aditado, entre o terceiro e o quarto travessões, o seguinte travessão:
 
-- Na Grécia, ao [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
+- Na Grécia, ao [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
 
 ###### Artigo 5.º
 
 1 - Ao primeiro parágrafo do artigo 37.º da Convenção de 1968, alterado pelo artigo 17.º da Convenção de 1978, é aditado, entre o terceiro e o quarto travessões, o seguinte travessão:
 
-- Na Grécia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
+- Na Grécia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
 
 2 - No segundo parágrafo do artigo 37.º da Convenção de 1968, com a redacção que lhe foi dada pelo artigo 17.º da Convenção de 1978, o primeiro travessão passa a ter a seguinte redacção:
 
@@ -2439,7 +2439,7 @@ Ao primeiro parágrafo do artigo 32.º da Convenção de 1968, com a redacção 
 
 Ao primeiro parágrafo do artigo 40.º da Convenção de 1968, com a redacção que lhe foi dada pelo artigo 19.º da Convenção de 1978, é aditado, entre o terceiro e o quarto travessões, o seguinte travessão:
 
-- Na Grécia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
+- Na Grécia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
 
 ###### Artigo 7.º
 
@@ -2471,7 +2471,7 @@ O Tribunal de Justiça das Comunidades Europeias é igualmente competente para d
 
 Ao n.º 1) do artigo 2.º do Protocolo de 1971, com a redacção que lhe foi dada pelo artigo 31.º da Convenção de 1978, é aditado, entre o terceiro e o quarto travessões, o seguinte travessão:
 
-- Na Grécia, [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
+- Na Grécia, [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf).
 
 ## TÍTULO V — Disposições transitórias
 
@@ -2485,7 +2485,7 @@ Ao n.º 1) do artigo 2.º do Protocolo de 1971, com a redacção que lhe foi dad
 
 ###### Artigo 13.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias remeterá ao Governo da República Helénica, em língua alemã, dinamarquesa, francesa, inglesa, irlandesa, italiana e neerlandesa, uma cópia autenticada da Convenção de 1968, do Protocolo de 1971 e da Convenção de 1978.**
+O Secretário-Geral do Conselho das Comunidades Europeias remeterá ao Governo da República Helénica, em língua alemã, dinamarquesa, francesa, inglesa, irlandesa, italiana e neerlandesa, uma cópia autenticada da Convenção de 1968, do Protocolo de 1971 e da Convenção de 1978.
 
 Os textos da Convenção de 1968, do Protocolo de 1971 e da Convenção de 1978, redigidos em língua grega, serão anexados à presente Convenção. Os textos redigidos em língua grega fazem fé nas mesmas condições que os outros textos da Convenção de 1968, do Protocolo de 1971 e da Convenção de 1978.
 
@@ -2501,7 +2501,7 @@ A presente Convenção entrará em vigor, em cada Estado membro que a ratifique 
 
 ###### Artigo 16.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -2515,7 +2515,7 @@ Til bekraeftelse heraf har undertegnede behørigh befulddmaegtigede underskrevet
 
 Zu urkund dessen haben die hierzu gehörig befugten Unterzeichneten ihre Unterschriften unter dieses Üebereinkommen gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 In witnesse whereof, the undersigned being duly autorised thereto, have signed this Convention.
 
@@ -2533,7 +2533,7 @@ Udfaerdiget i Luxembourg, den femogtyvende oktober nitten hundrede og toogfirs.
 
 Geschehen zu Luxemburg am funfundzwanzigsten Oktober neunzehnhundertzweiundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 Done at Luxembourg on the twemty-fifth day of October in the year one thousand nine hundred and eighty-two.
 
@@ -2591,7 +2591,7 @@ Til bekraeftelse heraf har undertegnede underskrevet denne erklaering.
 
 Zu urkund dessen haben die Unterzeichneten diese Erklärung unterschrieben.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 In witness whereof the undersigned have signed this declaration.
 
@@ -2611,7 +2611,7 @@ Udfardiget i Donostia, San Sebastián, den seksogtyvende maj nitten hundrede og 
 
 Geschehen zu Donostia, San Sebastián, am sechundzwanzigsten Mai neunzehnhundertneunundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
 
 Done at Donostia, San Sebastián, on the twenty-sixth day of May in the year one thousand nine hundred and eighty-nine.
 
@@ -2625,4 +2625,4 @@ Gedaan te Donostia, San Sebastián, de zesentwintigste mei negentienhonderd nege
 
 Feito em Donostia, San Sebastián, em vinte e seis de Maio de mil novecentos e oitenta e nove.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00230062.pdf)

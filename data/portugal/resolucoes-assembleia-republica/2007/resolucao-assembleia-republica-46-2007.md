@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/46/2007/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/46-2007-640331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e4ee94a7e5d512b7fc890c5e1eaa8419428a048828ec00bd07fe8ceef875e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2f1eb09f012a2ad7c4601c8fcf66db544af8f79d3906c0cae002ece269e7352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
 - Convenção
+- EUA
+- Extradição
 - Portugal
 - União Europeia
-- Extradição
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:640320:por
+  label: "Ratificado o Instrumento pelo DEC.96/2007.10.09.2007.PR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/96-2007-640320
+  date: '2007-09-10'
 article_structure:
-  article_count: 2
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:43Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +115,7 @@ Na hipótese de surgir um caso em que estejam envolvidos os princípios constitu
 
 Aprovada em 12 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 INSTRUMENTO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA CONFORME O artigo 3.º, N.º 2, DO ACORDO ENTRE A UNIÃO EUROPEIA E OS ESTADOS UNIDOS DA AMÉRICA SOBRE EXTRADIÇÃO, ASSINADO EM 25 DE JUNHO DE 2003.
 
@@ -156,13 +161,15 @@ Feito em Washington DC, no 14.º dia do mês de Julho do ano de 2005, em dois ex
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
 
 Pelos Estados Unidos da América:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
 
-## ANEXO — Artigo I
+## ANEXO
+
+###### Artigo I
 
 Infracções que admitem extradição
 
@@ -184,9 +191,7 @@ c) Em processos penais relacionados com impostos, direitos aduaneiros, controlo 
 
 B - A expressão «cometidos dentro da jurisdição de uma das Partes Contratantes, sempre que o acusado ou condenado tenha estado realmente ao tempo da perpetração do crime dentro dos limites dessa jurisdição e procurar refúgio ou for encontrado no território da outra» incluída no artigo i da Convenção de Extradição de 1908 não se aplica.
 
-Artigo II
-
-Pedidos de extradição ou entrega apresentados por vários Estados
+###### Artigo II — Pedidos de extradição ou entrega apresentados por vários Estados
 
 Em substituição do artigo vii da Convenção de Extradição de 1908, aplica-se o seguinte:
 
@@ -210,9 +215,7 @@ f) A possibilidade de uma eventual extradição subsequente entre os Estados req
 
 g) A ordem cronológica de recepção dos pedidos dos Estados requerentes.»
 
-Artigo III
-
-Entrega temporária
+###### Artigo III — Entrega temporária
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
@@ -220,17 +223,13 @@ Para complementar as disposições da Convenção de Extradição de 1908, aplic
 
 2 - A pessoa entregue deve ficar detida no Estado requerente e ser restituída ao Estado requerido aquando da conclusão do processo contra ela pendente, em condições a determinar de comum acordo entre os Estados requerente e requerido. O período de detenção cumprido no território do Estado requerente na pendência da acção penal nesse Estado pode ser descontado do período de pena por cumprir no Estado requerido.»
 
-Artigo IV
-
-Transmissão de documentos
+###### Artigo IV — Transmissão de documentos
 
 Em substituição do artigo xi, parágrafo 2, da Convenção de Extradição de 1908, aplica-se o seguinte:
 
 «Os pedidos de extradição e os documentos que os instruírem devem ser transmitidos através dos canais diplomáticos. Se a pessoa sobre a qual recai o pedido de extradição for mantida em regime de detenção provisória pelo Estado requerido, o Estado requerente deve cumprir a obrigação de transmitir o pedido de extradição e os documentos de instrução desse pedido através dos canais diplomáticos, apresentando o pedido e os documentos na embaixada do Estado requerido situada no seu território. Nesse caso, a data da recepção do pedido na embaixada é considerada a data de recepção para efeitos de aplicação do prazo limite que deva ser observado, nos termos do artigo xii, para permitir a continuação da detenção da pessoa.»
 
-Artigo V
-
-Autenticação dos documentos
+###### Artigo V — Autenticação dos documentos
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
@@ -238,17 +237,13 @@ Para complementar as disposições da Convenção de Extradição de 1908, aplic
 
 Os documentos que contenham a certificação ou o selo do Departamento de Justiça dos Estados Unidos ou do Departamento de Estado dos Estados Unidos são admissíveis em processos de extradição na República Portuguesa sem qualquer outra certificação, autenticação ou outra forma de legalização.»
 
-Artigo VI
-
-Transmissão de pedidos de detenção provisória
+###### Artigo VI — Transmissão de pedidos de detenção provisória
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
 «Os pedidos de detenção provisória podem ser transmitidos directamente entre a Procuradoria-Geral da República de Portugal e o Departamento de Justiça dos Estados Unidos, em alternativa aos canais diplomáticos. Os meios da Organização Internacional de Polícia Criminal (Interpol) também podem ser utilizados para a transmissão desses pedidos.»
 
-Artigo VII
-
-Informações complementares
+###### Artigo VII — Informações complementares
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
@@ -256,25 +251,19 @@ Para complementar as disposições da Convenção de Extradição de 1908, aplic
 
 2 - Essas informações complementares podem ser pedidas e prestadas directamente entre a Procuradoria-Geral da República de Portugal e o Departamento de Justiça dos Estados Unidos.»
 
-Artigo VIII
-
-Informações sensíveis contidas num pedido
+###### Artigo VIII — Informações sensíveis contidas num pedido
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
 «Quando o Estado requerente preveja a apresentação de informações particularmente sensíveis para a instrução do pedido de extradição por si apresentado pode consultar o Estado requerido para determinar em que medida podem as informações ser protegidas por esse Estado. Se este não puder proteger as informações da forma pretendida pelo Estado requerente, caberá a este determinar se essas informações devem todavia ser apresentadas.»
 
-Artigo IX
-
-Processos de extradição simplificados
+###### Artigo IX — Processos de extradição simplificados
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
 «Se a pessoa sobre a qual recai um pedido de extradição consentir na sua entrega ao Estado requerente, o Estado requerido pode, de acordo com os princípios e procedimentos previstos no seu ordenamento jurídico, fazer entrega dessa pessoa tão rapidamente quanto possível, sem mais formalidades. O consentimento da pessoa sobre a qual recai o pedido pode incluir a anuência em renunciar à protecção da regra da especialidade.»
 
-Artigo X
-
-Trânsito
+###### Artigo X — Trânsito
 
 Para complementar as disposições da Convenção de Extradição de 1908, aplica-se o seguinte:
 
@@ -336,11 +325,11 @@ Done at Washington, in duplicate, this 14th day of July 2005, in the English and
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
 
 For the United States of America:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0642906436.pdf)
 
 ANNEX
 

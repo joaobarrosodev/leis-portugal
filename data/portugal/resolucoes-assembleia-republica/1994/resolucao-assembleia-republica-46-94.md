@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/46/1994/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/46-1994-232080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d5ca3e246cffb2776fe95640f09a9361ebaaac60af6877a36ccb731f28397b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaca67914904422550817b0dbc88a351608fa7f10d08f9ae226131a0eb527bbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
 - Banco Interamericano de Desenvolvimento
-- Portugal
+- Convenção
 - Fundo Multilateral de Investimentos
 - Investimento
+- Portugal
 - Responsabilidade Financeira
 - Washington
 relationships: []
 article_structure:
-  article_count: 19
+  article_count: 18
   section_count: 44
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:38Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +94,13 @@ Aprova, para adesão, a Convenção Constitutiva do Fundo Multilateral de Invest
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o seguinte:
 
-###### Artigo 1.º É aprovada, para adesão, a Convenção Constitutiva do Fundo Multilateral de Investimentos, cujo texto nas línguas inglesa e portuguesa segue em anexo à presente resolução.
+Artigo 1.º É aprovada, para adesão, a Convenção Constitutiva do Fundo Multilateral de Investimentos, cujo texto nas línguas inglesa e portuguesa segue em anexo à presente resolução.
 
-###### Art. 2.º É igualmente aprovada, para adesão, a Convenção de Administração do Fundo Multilateral de Investimentos, complementar da Convenção prevista no artigo anterior, cujo texto nas línguas inglesa e portuguesa segue em anexo à presente resolução.
+Art. 2.º É igualmente aprovada, para adesão, a Convenção de Administração do Fundo Multilateral de Investimentos, complementar da Convenção prevista no artigo anterior, cujo texto nas línguas inglesa e portuguesa segue em anexo à presente resolução.
 
 Aprovada em 17 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 AGREEMENT ESTABLISHING THE MULTILATERAL INVESTMENT FUND
 
@@ -362,7 +362,7 @@ SCHEDULE A
 
 Contribution quotas of donors to the Multilateral Investment Fund
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf))](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf)
 
 CONVENÇÃO CONSTITUTIVA DO FUNDO MULTILATERAL DE INVESTIMENTOS
 
@@ -564,11 +564,11 @@ c) As medidas adoptadas para satisfazer os direitos e obrigações assumidos pel
 
 Em testemunho do que cada um dos potenciais doadores, actuando por intermédio do seu respectivo representante autorizado, apõe a sua assinatura a esta Convenção.
 
-**Assinada em Washington, distrito de Colúmbia, neste dia 11 de Fevereiro de 1992, num só original, cujos textos nos idiomas espanhol, francês, inglês e português, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia certificada dos mesmos a cada um dos potenciais doadores indicados no anexo A a esta Convenção.**
+Assinada em Washington, distrito de Colúmbia, neste dia 11 de Fevereiro de 1992, num só original, cujos textos nos idiomas espanhol, francês, inglês e português, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia certificada dos mesmos a cada um dos potenciais doadores indicados no anexo A a esta Convenção.
 
 ## ANEXO A — Quotas de contribuição dos doadores ao Fundo Multilateral de Investimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf))](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/177a00/43444364.pdf)
 
 Por Argentina:
 
@@ -1084,7 +1084,7 @@ Considerar-se-á que um doador denunciou esta Convenção na data de vigência d
 
 Em testemunho do que, o Banco e cada um dos potenciais doadores, cada um actuando por intermédio do seu representante autorizado, apõem as suas assinaturas à presente Convenção.
 
-**Assinada em Washington, distrito de Colúmbia, neste dia 11 de Fevereiro de 1992, num só original, cujos textos nos idiomas espanhol, francês, inglês e português, igualmente autênticos, serão depositados nos arquivos do Banco, que enviará cópia certificada dos mesmos a cada um dos potenciais doadores indicados no anexo A à Convenção do Fundo.**
+Assinada em Washington, distrito de Colúmbia, neste dia 11 de Fevereiro de 1992, num só original, cujos textos nos idiomas espanhol, francês, inglês e português, igualmente autênticos, serão depositados nos arquivos do Banco, que enviará cópia certificada dos mesmos a cada um dos potenciais doadores indicados no anexo A à Convenção do Fundo.
 
 ## ANEXO A — Procedimento de arbitragem
 

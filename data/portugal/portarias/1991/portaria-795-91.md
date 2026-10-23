@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/795/1991/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/795-1991-679852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af2841aa92d59e51c57960de4d6646b4938ef2b3ec56bc55697684310b1f19e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8898423e2b7aee4f63d6a54b57099547dbed230db301af3b1b23da87e343061a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Enfermagem
 - Ensino Particular
-- Província Portuguesa da Congregação de São José de Cluny
-- Funchal
-- Escola Superior de Enfermagem de São José de Cluny
 - Ensino Superior
+- Escola Superior de Enfermagem de São José de Cluny
+- Funchal
+- Plano de Estudos
+- Província Portuguesa da Congregação de São José de Cluny
 relationships:
 - type: amended_by
   target: pt:dre:212212:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:18Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +131,7 @@ Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 10 de Julho de 1991.**
+Assinada em 10 de Julho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
@@ -127,4 +139,4 @@ Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de E
 
 Curso superior de Enfermagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/182b00/40374037.pdf))](https://files.diariodarepublica.pt/1s/1991/08/182b00/40374037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/182b00/40374037.pdf)

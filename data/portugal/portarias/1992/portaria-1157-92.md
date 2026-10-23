@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1157/1992/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1157-1992-616668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8d2820331daa3bcd9db1053de5a7475b62a0a626280fb24f8a93e483e620b82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53cd3566068f23ac93b6f4a2a85f2ae2aaf54c7c0bbfeb2499ddb28b34f7cf00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Curso de Estudos Superiores Especializados em Controlo de Gestão
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Contabilidade e Administração
 - Numerus Clausus
-- Coimbra
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:372175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555060:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:12Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +119,6 @@ O número de vagas para a candidatura à matrícula e inscrição, no ano lectiv
 
 Ministério da Educação.
 
-**Assinada em 17 de Novembro de 1992.**
+Assinada em 17 de Novembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.

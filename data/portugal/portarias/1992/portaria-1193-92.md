@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1193/1992/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1193-1992-624271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6485f29940e86e3b4ec34379dcf7186c44af6e67811e0d14d6337978d851ff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39444da00f06b5c8e81b7f392aaa5229fb9ce7aeea42fce0784bf370943767d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Aproximação das Legislações
-- CEE
 - Azeite
+- CEE
 - Consumo
-- Pagamento
 - Instituto Nacional de Intervenção e Garantia Agrícola
+- Pagamento
 - Política Agrícola Comum
 relationships:
 - type: amended_by
   target: pt:dre:212799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:212799:por
+  label: "Alterada a redacção dos n.os 7.º e 8.º e aditado o n.º 14.º-A, pela PORT.528/96.01.10.1996.MADRP, DR.IS-B [228]\
+    \ de 01.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1996-212799
+  date: '1996-10-01'
 - type: cites
   target: celex:31966R0136
   label: null
@@ -94,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:03Z'
   warnings: []
   errors: []
 ---
@@ -153,6 +159,6 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 2 de Dezembro de 1992.**
+Assinada em 2 de Dezembro de 1992.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/933/1991/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-1991-300411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e09386e941f9848375f7ca7c43c5c6a1264ff2043f43435f72a92631b4b1a59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 854d7da06a88722bcdb3c271d7c6917957d9a06412144560637fccd2e957af74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,21 @@ relationships:
   target: celex:31985L0295
   label: null
   source: http://data.europa.eu/eli/dir/1985/295/oj
+- type: repealed_by
+  target: pt:dre:665154:por
+  label: "Revogada, com efeitos a partir de 31.12.1995, pelo DEC LEI.378/93.05.11.1993.MIE, DR.IS-A [259] de 05.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/378-1993-665154
+  date: '1993-11-05'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:39Z'
   warnings: []
   errors: []
 ---
@@ -178,9 +183,9 @@ d) Cancelamento do certificado de exame CEE de tipo.
 
 Ministérios da Indústria e Energia, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
 
-**Assinada em 28 de Agosto de 1991.**
+Assinada em 28 de Agosto de 1991.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão Félix, Secretário de Estado do Emprego e Formação Profissional.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão Félix, Secretário de Estado do Emprego e Formação Profissional.
 
 ## ANEXO I
 
@@ -188,7 +193,7 @@ Ministérios da Indústria e Energia, das Obras Públicas, Transportes e Comunic
 
 2 - Consideram-se cumpridas as disposições do n.º 7.5.2.7 da norma ISO 3471 quando a carga no ponto de aplicação da força F (por exemplo se se tratar da velocidade de progressão do macaco de parafuso utilizado para desenvolver tal carga) não exceder os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf))](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
 
 3 - As normas a que se faz referência na norma ISO 3471/2 são:
 
@@ -260,7 +265,7 @@ Nome e endereço do laboratório que procedeu ao ensaio: ...
 
 Nome da pessoa que procedeu ao ensaio: ...
 
-# Parte A
+## Parte A
 
 1 - Descrição do acopulamento ROPS - châssis:
 
@@ -306,7 +311,7 @@ Nome da pessoa que procedeu ao ensaio: ...
 
 4.2 - Data do ensaio: ...
 
-# Parte B
+## Parte B
 
 1 - Aparelhos de medida:
 
@@ -410,7 +415,7 @@ Eu, abaixo assinado ..., declaro que o material/o equipamento/a instalação/a m
 
 foi fabricado em conformidade com o(s) tipo(s) homologado(s) (no caso de homologação CEE)/o(s) tipo(s) examinado(s) (no caso de exame CEE de tipo) (ver nota 1), como indicado no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf))](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
 
 Disposições especiais: ...
 
@@ -434,7 +439,7 @@ Adiante se reproduz um exemplo da referida marca:
 
 Exemplo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf))](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/211b00/48684871.pdf)
 
 O diâmetro real do círculo circunscrito à máquina será de pelo menos 20 mm.
 

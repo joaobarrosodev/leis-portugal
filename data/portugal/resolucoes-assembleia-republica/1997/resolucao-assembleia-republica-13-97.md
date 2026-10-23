@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/13/1997/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/13-1997-517443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39c2510d0de0034ed5b087a817adf317283e27fe3c25af6af992cf9ebf9896b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1282fdda5ed9aa5796cba80f5ae2710e24eba2fba3251554380991ab2269d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Castelo Branco
 - Desenvolvimento Regional
 - Investimento Público
 - Plano de Desenvolvimento Regional
-- Castelo Branco
 - Programa de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:649093:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649093:por
+  label: "Alterado o num 5 e 6 do Regulamento pela RES.151/97.1997.08.21.PCM, DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/151-1997-649093
+  date: '1997-08-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:39Z'
   warnings: []
   errors: []
 ---
@@ -99,4 +104,4 @@ Pronunciar-se pela necessidade de serem tomadas medidas no sentido da criação 
 
 Aprovada em 27 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

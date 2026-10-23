@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60/1997/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-1997-653144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46690d54f7e111c8a31155d87e8d6690797b40ae18e5d7c445a3ac5d383d884d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec3dddd620ab99516bc99a88a7f5c954167c590f56aab92eb8888a73a451f4a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
+- Bruxelas
 - CE Países
 - Comunidade Europeia
+- Confidencialidade
 - Convenção
-- Portugal
-- Documentação Classificada
-- Estatuto Jurídico
-- Segurança Pública
-- Europol
 - Cooperação Policial
-- Base de Dados
-- Segurança da Informação
+- Dados Pessoais
 - Direitos do Indivíduo
+- Documentação Classificada
 - Droga
+- Estatuto Jurídico
+- Europol
 - Orçamento
 - Parlamento Europeu
-- Sistema de Informação
-- Confidencialidade
+- Portugal
 - Responsabilidade do Estado
 - Segredo Profissional
-- Dados Pessoais
+- Segurança da Informação
+- Segurança Pública
+- Sistema de Informação
 - Tratado da União Europeia
-- Bruxelas
 - Tribunal de Justiça CE
 relationships:
 - type: cites
@@ -108,13 +108,13 @@ relationships:
 article_structure:
   article_count: 58
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:54Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +143,7 @@ b) Reservar o direito de dispor na sua legislação nacional que, sempre que uma
 
 Aprovada em 3 de Julho de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO, FUNDAMENTADA NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, QUE CRIA UM SERVIÇO EUROPEU DE POLÍCIA (CONVENÇÃO EUROPOL)
 
@@ -1033,7 +1033,7 @@ Não são admitidas reservas à presente Convenção.
 
 2 - Todas as notificações, instrumentos e comunicações respeitantes à presente Convenção serão publicados pelo depositário no Jornal Oficial das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf))](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
 
 ## ANEXO — Referido no artigo 2.º
 
@@ -1227,7 +1227,7 @@ Os Estados que se tornarem membros da União Europeia e aderirem à Convenção 
 
 2 - O depositário publicará no Jornal Oficial das Comunidades Europeias as notificações, instrumentos ou comunicações relativas ao presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf))](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
 
 DECLARAÇÃO RELATIVA À ADOPÇÃO SIMULTÂNEA DA CONVENÇÃO QUE CRIA UM SERVIÇO EUROPEU DE POLÍCIA E DO PROTOCOLO RELATIVO À INTERPRETAÇÃO A TÍTULO PREJUDICIAL PELO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS DA REFERIDA CONVENÇÃO.
 
@@ -1239,7 +1239,7 @@ Desejando assegurar uma interpretação o mais eficaz e uniforme possível da re
 
 declaram-se prontos a tomar todas as medidas necessárias para que as formalidades nacionais de adopção da Convenção Que Cria Um Serviço Europeu de Polícia e do Protocolo relativo à interpretação da mesma sejam concluídas simultaneamente no prazo mais curto possível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf))](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/217a00/50845107.pdf)
 
 DECLARAÇÕES FEITAS EM APLICAÇÃO DO ARTIGO 2.º
 

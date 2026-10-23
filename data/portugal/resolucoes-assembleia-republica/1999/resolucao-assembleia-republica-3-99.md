@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/016a00/03220323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/3/1999/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1999-197149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ad5aa03e591e26fbe01b470bd3259bab04892ae62b730b9bbedcd0d2e47edd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e545b81d21f69af9b2b4549b67c75f2ebbe9628dc8a275530158d612a69a1cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ relationships:
   target: pt:dre:637190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 36º da Res 4/93, na redacção do presente diploma, pela Res 75/99 de 11-Nov DR.IS-A [275] de 25-Nov\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1999-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24/1995/08/18/p/dre
   label: null
@@ -88,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/4/1993/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/4/1993/03/02/p/dre
+- type: cites
+  target: pt:dre:434632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637190:por
+  label: "Revogada, a partir de 01.09.2007, a Res 4/93 de 02-Mar, com a redacção dada pelo presente diploma, pelo REGI.1/2007.20.08.2007.AR,\
+    \ DR.IS [159] de 20.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regimento-assembleia-republica/1-2007-637190
+  date: '2007-08-20'
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:25Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,9 @@ Os artigos 2.º, 4.º, 5.º, 36.º, 37.º, 38.º e 47.º da [Resolução da Asse
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -148,7 +178,9 @@ b) ...
 
 8 - Da deliberação do Plenário que confirma a declaração de perda do mandato, ou a declare, há lugar a recurso para o Tribunal Constitucional, nos termos da alínea g) do n.º 2 do artigo 223.º da Constituição e da lei.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -188,13 +220,17 @@ b) ...
 
 c) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 38.º, o elenco das comissões especializadas permanentes e a competência específica de cada uma delas são fixados no início de cada legislatura por deliberação do Plenário, sob proposta do Presidente da Assembleia, ouvida a Conferência, não podendo o seu número ser superior a 13.
 
 2 - A fixação referida no número anterior não impede que, excepcionalmente, e quando tal se justifique, o Plenário delibere, igualmente sob proposta do Presidente da Assembleia, ouvida a Conferência, alterar o elenco das comissões, ou a repartição de competências entre elas, sem prejuízo do mencionado número limite.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +256,9 @@ j) Apreciar designadamente as questões previstas no artigo seguinte.
 
 2 - ...
 
-###### Artigo 38.º — Atribuição especial de competências
+Artigo 38.º
+
+Atribuição especial de competências
 
 1 - À Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias ficam em plenitude cometidas, entre outras de que igualmente goza, as seguintes atribuições:
 
@@ -254,7 +292,9 @@ j) Proceder a inquéritos a factos ocorridos no âmbito da Assembleia que compro
 
 l) Apreciar quaisquer outras questões relativas ao mandato de Deputados.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -268,4 +308,4 @@ As presentes alterações entram em vigor no dia imediato ao da sua publicação
 
 Aprovada em 17 de Dezembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

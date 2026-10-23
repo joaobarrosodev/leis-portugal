@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/55/2008/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/55-2008-452063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eedd2fc00fc8f4a0e12e04229e9691e68d32dbf53d0c86ac3dca70f2f4a1a20d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69a124f324b24cc321ced3bdccee2869021fe4d9b38812aad9056366c953bea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Força de Gendarmerie Europeia
-- Portugal
 - Espanha
-- Velsen
-- Política Europeia de Segurança e Defesa
-- Países Baixos
+- Força de Gendarmerie Europeia
 - França
-relationships: []
+- Países Baixos
+- Política Europeia de Segurança e Defesa
+- Portugal
+- Velsen
+relationships:
+- type: amended_by
+  target: pt:dre:452064:por
+  label: "Ratificado o Tratado pelo DEC.72/2008.26.09.2008.PR, DR.IS [187] de 26.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-2008-452064
+  date: '2008-09-26'
 article_structure:
   article_count: 47
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:16Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Julho de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 TRATADO ENTRE O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A REPÚBLICA ITALIANA, O REINO DOS PAÍSES BAIXOS E A REPÚBLICA PORTUGUESA VISANDO A CRIAÇÃO DA FORÇA DE GENDARMERIE EUROPEIA (EUROGENDFOR).
 
@@ -634,27 +639,27 @@ O presente Tratado entrará em vigor no 1.º dia do 2.º mês após a notificaç
 
 O Governo da República Italiana será o depositário e notificará todos os Estados signatários e aderentes do depósito de cada instrumento de ratificação, aceitação, aprovação, adesão ou denúncia.
 
-**Assinado em Velsen em 18 de Outubro de 2007, num único exemplar original nas línguas espanhola, francesa, italiana, neerlandesa, portuguesa e inglesa, fazendo todos os textos igualmente fé. O original será depositado junto do Governo da República Italiana. O Governo da República Italiana remeterá cópias certificadas a todas as Partes.**
+Assinado em Velsen em 18 de Outubro de 2007, num único exemplar original nas línguas espanhola, francesa, italiana, neerlandesa, portuguesa e inglesa, fazendo todos os textos igualmente fé. O original será depositado junto do Governo da República Italiana. O Governo da República Italiana remeterá cópias certificadas a todas as Partes.
 
 Pelo Reino de Espanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pela República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pela República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pelo Reino dos Países Baixos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 TRATADO ENTRE EL REINO DE ESPAÑA, LA REPÚBLICA FRANCESA, LA REPÚBLICA ITALIANA, EL REINO DE LOS PAÍSES BAJOS Y LA REPÚBLICA PORTUGUESA POR EL QUE SE CREA LA FUERZA DE GENDARMERÍA EUROPEA (EUROGENDFOR).
 
@@ -1288,23 +1293,23 @@ Firmado en Velsen, el 18 de octubre de 2007, en un único original en español, 
 
 Por el Reino de España:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Por la República Francesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Por la República Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Por el Reino de los Países Bajos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Por la República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 TRAITÉ ENTRE LE ROYAUME D'ESPAGNE, LA RÉPUBLIQUE FRANÇAISE, LA RÉPUBLIQUE ITALIENNE, LE ROYAUME DES PAYS-BAS ET LA RÉPUBLIQUE PORTUGAISE, PORTANT CREATION DE LA FORCE DE GENDARMERIE EUROPEENNE (EUROGENDFOR).
 
@@ -1960,23 +1965,23 @@ Signé à Velsen, le 18 Octobre 2007, en un seul original en langues anglaise, f
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pour la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pour le Royaume des Pays-Bas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 TRATTATO TRA IL REGNO DI SPAGNA, LA REPUBBLICA FRANCESE, LA REPUBBLICA ITALIANA, IL REGNO DEI PAESI BASSI E LA REPUBBLICA PORTOGHESE,PER L'ISTITUZIONE DELLA FORZA DI GENDARMERIA EUROPEA (EUROGENDFOR).
 
@@ -2632,23 +2637,23 @@ Firmato a Velsen, il 18 ottobre 2007, in un esemplare originale nelle lingue spa
 
 Per il Regno di Spagna:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Per la Repubblica Francese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Per la Repubblica Italiana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Per il Regno dei Paesi Bassi:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Per la Repubblica Portoghese:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 VERDRAG TUSSEN HET KONINKRIJK SPANJE, DE FRANSE REPUBLIEK, DE ITALIAANSE REPUBLIEK, HET KONINKRIJK DER NEDERLANDEN EN DE PORTUGESE REPUBLIEK TOT OPRICHTING VAN HET EUROPEES GENDARMERIEKORPS (EUROGENDFOR).
 
@@ -3304,23 +3309,23 @@ Gedaan te Velsen op oktober 2007 in een oorspronkelijk exemplaar in de Spaanse, 
 
 Voor het Koninkrijk Spanje:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Voor de Franse Republiek:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Voor de Italiaanse Republiek:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Voor het Koninkrijk der Nederlanden:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 Voor de Portugese Republiek:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 TREATY BETWEEN THE KINGDOM OF SPAIN, THE FRENCH REPUBLIC, THE ITALIAN REPUBLIC, THE KINGDOM OF THE NETHERLANDS AND THE PORTUGUESE REPUBLIC, ESTABLISHING THE EUROPEAN GENDARMERIE FORCE (EUROGENDFOR).
 
@@ -3976,23 +3981,23 @@ Signed at Velsen, on October the 18th 2007, in a single original in the Spanish,
 
 For the Kingdom of Spain:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 For the French Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 For the Italian Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 For the Kingdom of The Netherlands:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf))](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/18700/0692106972.pdf)
 
 El texto que precede es copia certificada conforme del original depositado en los archivos del Servizio del Contenzioso diplomatico e dei trattati (Division de tratados internacionales) del Ministerio de Asuntos Exteriores de la República Italiana.
 

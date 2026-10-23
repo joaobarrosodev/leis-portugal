@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/8/2003/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-2003-188564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3881ecd64d02cd0a414f9bfae55fe2bd894d47894a35db35089006b034d054e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3dbb069b47dece496d6cb53e7f16ce651943475f597fa91502301cbc68666ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Criança
 - Convenção
-- Portugal
+- Cooperação Internacional
+- Criança
 - Direitos da Criança
 - HAIA
-- Cooperação Internacional
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:188560:por
+  label: "Ratificada a Convenção pelo DEC.6/2003.2003.02.25.PR, DR.IS-A [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-2003-188560
+  date: '2003-02-25'
 article_structure:
   article_count: 50
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:32Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +109,7 @@ A República Portuguesa declara que, nos termos do n.º 4 do artigo 22.º da Con
 
 Aprovada em 19 de Dezembro de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENÇÃO RELATIVA À PROTECÇÃO DAS CRIANÇAS E À COOPERAÇÃO EM MATÉRIA DE ADOPÇÃO INTERNACIONAL, FEITA EM 29 DE MAIO DE 1993.
 
@@ -440,7 +445,7 @@ A Convenção aplicar-se-á em todos os casos em que tenha sido recebido um pedi
 
 ###### Artigo 42.º
 
-**O Secretário-Geral da Conferência de Haia de Direito Internacional Privado convocará, de forma periódica, uma comissão especial para examinar o funcionamento prático da Convenção.**
+O Secretário-Geral da Conferência de Haia de Direito Internacional Privado convocará, de forma periódica, uma comissão especial para examinar o funcionamento prático da Convenção.
 
 ### CAPÍTULO VIII — Cláusulas finais
 
@@ -1100,7 +1105,7 @@ Pour la République du Sénégal:
 
 Pour la République slovaque:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf).
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf).
 
 Pour la République de Slovénie:
 
@@ -1736,7 +1741,7 @@ For the Republic of Senegal:
 
 For the Slovak Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf).
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf)](https://files.diariodarepublica.pt/1s/2003/02/047a00/12521273.pdf).
 
 For the Republic of Slovenia:
 

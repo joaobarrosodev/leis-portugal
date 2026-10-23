@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/1992/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1992-216493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7502fab66b00e136d9329b11f5a55c175ca7780329867ed54b14da4a7df9595
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3c37a98551aafa9c332e024bb65cbfec5630b67a6da51bda3e6f43e3aa9068b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspeção Geral de Finanças
 - Extinção de Lugares
+- Inspeção Geral de Finanças
 - Pessoal de Informática
 - Pessoal Técnico Auxiliar
 - Quadro de Pessoal
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:549019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:10Z'
   warnings: []
   errors: []
 ---
@@ -112,10 +120,10 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 1 do
 
 Ministério das Finanças.
 
-**Assinada em 6 de Abril de 1992.**
+Assinada em 6 de Abril de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 Mapa anexo à Portaria n.º 360/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/096b00/19131913.pdf))](https://files.diariodarepublica.pt/1s/1992/04/096b00/19131913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/096b00/19131913.pdf)

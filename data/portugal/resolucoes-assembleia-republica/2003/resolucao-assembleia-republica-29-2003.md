@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/2003/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-2003-240671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c52a1842067a2d95305732c9256fb6e7205f57be34026997c604d44fd1bc046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e190ef171e6c0e8f1fec781a27856b18e050b96ff021b42ba5671e857f4c7a4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Política de Cooperação
-- Portugal
-- ONU
+- Cooperação Militar
+- Forças Armadas
 - Missão Militar
 - Moscovo
-- Forças Armadas
+- ONU
 - OSCE
+- Política de Cooperação
+- Portugal
 - Rússia
-- Cooperação Militar
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:240667:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo DEC.28/2003.2003.04.24.PR DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-2003-240667
+  date: '2003-04-24'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:16Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Fevereiro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA SOBRE A COOPERAÇÃO NO DOMÍNIO MILITAR.
 
@@ -197,10 +202,10 @@ Feito em Moscovo aos 4 de Agosto de 2000, em dois exemplares, cada um nas língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)
 
 Pelo Governo da Federação da Rússia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)
 
 [(ver texto em língua russa no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096a00/26562658.pdf)

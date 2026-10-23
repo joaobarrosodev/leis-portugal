@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1036/1992/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1036-1992-216302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6273ea5cbc68bba4a0436520644282b9f0357a1a89376c097492722e76e4a307
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f8fff4798ce9e11a240dc9116a8f70fdb2196d303a3edd9a5a4fce3066970dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bragança
 - Centro Regional de Segurança Social
 - Integração de Trabalhadores
 - Quadro de Pessoal
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:666698:por
@@ -90,16 +90,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/908/1991/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/908/1991/09/04/p/dre
+- type: cites
+  target: pt:dre:288249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675262:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:237454:por
+  label: "Rectificado o mapa do pessoal que se mantém abrangido pelo regime da Portaria n.º 193/79, de 21 de Abril, publicado\
+    \ em anexo ao presente diploma, pela DECL-RECT.212/92.31.12.1992.PCM, DR.IS-B [301]9ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/212-1992-237454
+  date: '1992-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:09Z'
   warnings: []
   errors: []
 ---
@@ -120,16 +166,16 @@ Manda o Governo, pelos Secretários de Estado Adjunta e do Orçamento e da Segur
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 15 de Outubro de 1992.**
+Assinada em 15 de Outubro de 1992.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 1036/92
 
 Centro Regional de Segurança Social de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf))](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf)
 
 Pessoal que se mantém abrangido pelo regime de trabalho da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf))](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/257b00/51475148.pdf)

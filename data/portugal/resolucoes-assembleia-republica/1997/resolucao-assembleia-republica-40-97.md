@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/40/1997/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-1997-367976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6000c084ca656b8ab9a006aad3c936d8ab9de4c0db7bbae2a815a00a609198bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee6bb12d0fb92e9d797312803a9365373f1230edeaa87149bb1d0f52ed042736
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Áustria
+- Bruxelas
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
+- Dupla Tributação
+- Empresa
 - Finlândia
-- Áustria
 - Imposto sobre o Rendimento
 - Lucro
-- Dupla Tributação
-- Bruxelas
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:367975:por
+  label: "Ratificada a presente Convenção pelo DEC.40/97.14.06.1997.PR, DR.IS-A [135] de 14.06.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/40-1997-367975
+  date: '1997-06-14'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:24Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +106,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 27 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO SOBRE A ADESÃO DA REPÚBLICA DA ÁUSTRIA, DA REPÚBLICA DA FINLÂNDIA E DO REINO DA SUÉCIA À CONVENÇÃO RELATIVA À ELIMINAÇÃO DA DUPLA TRIBUTAÇÃO EM CASO DE CORRECÇÃO DE LUCROS ENTRE EMPRESAS ASSOCIADAS.
 
@@ -115,11 +120,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Poul Skytte Christoffersen, embaixador, representante permanente da Dinamarca junto da União Europeia;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Jochen Grünhage, representante permanente-adjunto da República Federal da Alemanha junto da União Europeia;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Pavlos Apostolides, embaixador, representante permanente da República Helénica junto da União Europeia;
 
@@ -127,15 +132,15 @@ Sua Majestade o Rei de Espanha:
 
 Francisco Javier Elorza Cavengt, embaixador, representante permanente de Espanha junto da União Europeia;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Pierre de Boissieu, embaixador, representante permanente da República Francesa junto da União Europeia;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Denis O'Leary, embaixador, representante permanente da Irlanda junto da União Europeia;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Luigi Guidobono Cavalchini Garofoli, embaixador, representante permanente da República Italiana junto da União Europeia;
 
@@ -147,15 +152,15 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Bernard R. Bot, embaixador, representante permanente do Reino dos Países Baixos junto da União Europeia;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Manfred Scheich, embaixador, representante permanente da República da Áustria junto da União Europeia;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José Gregório Faria Quiteres, embaixador, representante permanente da República Portuguesa junto da União Europeia;
 
-**O Presidente da República da Finlândia:**
+O Presidente da República da Finlândia:
 
 Antti Satuli, embaixador, representante permanente da República da Finlândia junto da União Europeia;
 
@@ -185,7 +190,7 @@ b) A seguir à alínea j) é aditada a seguinte alínea k):
 
 «k) Na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf))](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
 
 c) A alínea l) passa a alínea o);
 
@@ -193,11 +198,11 @@ d) A seguir à alínea l) são aditadas as seguintes alíneas m) e n):
 
 «m) Na Finlândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf))](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
 
 n) Na Suécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf))](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)».
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)».
 
 2) O n.º 1 do artigo 3.º é completado pelo seguinte texto:
 
@@ -213,37 +218,37 @@ Valtiovarainministererïo ou um representante autorizado;
 
 Finansministern ou um representante autorizado.».
 
-###### Artigo 3.º
+Artigo 3.º
 
-**O Secretário-Geral do Conselho da União Europeia entregará aos Governos da República da Áustria, da República da Finlândia e do Reino da Suécia uma cópia autenticada da Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas, nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa.**
+O Secretário-Geral do Conselho da União Europeia entregará aos Governos da República da Áustria, da República da Finlândia e do Reino da Suécia uma cópia autenticada da Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas, nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa.
 
 Os textos finlandês e sueco da Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas constam dos anexos I e II da presente Convenção. Os textos finlandês e sueco fazem fé nas mesmas condições que os outros textos da Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A presente Convenção será ratificada pelos Estados Contratantes. Os instrumentos de ratificação serão depositados junto do Secretariado-Geral do Conselho da União Europeia.
 
-###### Artigo 5.º
+Artigo 5.º
 
 A presente Convenção entrará em vigor, nas relações entre os Estados que a tiveram ratificado, no 1.º dia do 3.º mês seguinte ao depósito do último instrumento de ratificação pela República da Áustria, pela República da Finlândia ou pelo Reino da Suécia e por um dos Estados que tenham ratificado a Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas.
 
 A presente Convenção entrará em vigor em cada Estado Contratante que a ratifique posteriormente no 1.º dia do 3.º mês seguinte ao depósito do seu instrumento de ratificação.
 
-###### Artigo 6.º
+Artigo 6.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados Contratantes:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados Contratantes:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
 b) Das datas de entrada em vigor da presente Convenção.
 
-###### Artigo 7.º
+Artigo 7.º
 
 A presente Convenção, redigida num único exemplar nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, irlandesa, italiana, neerlandesa, portuguesa e sueca, fazendo fé qualquer dos 12 textos, será depositada nos arquivos do Secretariado-Geral do Conselho da União Europeia. O Secretário-Geral remeterá uma cópia autenticada da presente Convenção a cada um dos Governos dos Estados Contratantes.
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final da presente Convenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf))](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
 
 ACTA DE ASSINATURA DA CONVENÇÃO SOBRE A ADESÃO DA REPÚBLICA DA ÁUSTRIA, DA REPÚBLICA DA FINLÂNDIA E DO REINO DA SUÉCIA À CONVENÇÃO RELATIVA À ELIMINAÇÃO DA DUPLA TRIBUTAÇÃO EM CASO DE CORRECÇÃO DE LUCROS ENTRE EMPRESAS ASSOCIADAS.
 
@@ -265,4 +270,4 @@ Entende-se por infracção às disposições fiscais passível de pena grave qua
 
 A presente acta será publicada no Jornal Oficial das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf))](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/135a00/28772881.pdf)

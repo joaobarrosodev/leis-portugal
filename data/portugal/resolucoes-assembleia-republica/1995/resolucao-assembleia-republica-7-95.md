@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/7/1995/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/7-1995-199156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5dbf535d2dd32a10f6eead135a5b2c35eed9b7638a73d1e0f9a594433d3c48c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b76453b8338eb618b63432217ee04066a5614c086cf6513a3d1c4e9b76b7e3ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Meteorologia
+- Comunicação por Satélite
 - Convenção
-- Portugal
 - Darmstadt
 - Eumetsat
-- Comunicação por Satélite
+- Meteorologia
+- Portugal
 - Privilegios e Imunidades
 relationships:
 - type: amended_by
   target: pt:dre:75796636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:75796633:por
+  label: Revogada a al. b) do art. 2.º pelo(a) Decreto do Presidente da República n.º 100/2016 - Diário da República n.º 227/2016,
+    Série I de 2016-11-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/100-2016-75796633
+  date: '2016-11-25'
+- type: repealed_by
+  target: pt:dre:75796636:por
+  label: Revogada a al. b) do art. 2.º do presente diploma, e aprovada a retirada da reserva formulada à al. g) do art. 10.º
+    do Protocolo Relativo aos Privilégios e Imunidades da Organização Europeia para a Exploração de Satélites Meteorológicos
+    (EUMETSAT) pelo(a) Resolução da Assembleia da República n.º 230/2016 - Diário da República n.º 227/2016, Série I de 2016-11-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/230-2016-75796636
+  date: '2016-11-25'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:37Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +111,9 @@ Aprova, para adesão, o Protocolo Relativo aos Privilégios e Imunidades da Orga
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado, para adesão, o Protocolo de Privilégios e Imunidades da Organização Europeia para a Exploração de Satélites Meteorológicos (EUMETSAT), adoptado em Darmstadt, a 1 de Dezembro de 1986, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
+Artigo 1.º É aprovado, para adesão, o Protocolo de Privilégios e Imunidades da Organização Europeia para a Exploração de Satélites Meteorológicos (EUMETSAT), adoptado em Darmstadt, a 1 de Dezembro de 1986, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
 
-###### Art. 2.º A aprovação do Protocolo é feita com as seguintes reservas:
+Art. 2.º A aprovação do Protocolo é feita com as seguintes reservas:
 
 a) A isenção constante do n.º 1 do artigo 5.º aplica-se à EUMETSAT, no quadro das actividades oficiais, relativamente aos seus rendimentos e bens, no respeitante aos impostos sobre o rendimento e aos impostos sobre o património, cabendo a Portugal a respectiva classificação;
 
@@ -112,7 +125,7 @@ d) O disposto no artigo 23.º não é aplicável aos litígios que caibam na com
 
 Aprovada em 3 de Novembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLE RELATIF AUX PRIVILÈGES ET IMMUNITÉS DE L'ORGANISATION EUROPÉENNE POUR L'EXPLOITATION DE SATELLITES MÉTÉOROLOGIQUES (EUMETSAT).
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/2002/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2002-303140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05762a7ab21b5e35e3473e7c52a678cf9a64eae91d1116cf50fef8b3f1d7c3b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67bea44d6f57a66ab7e986743d0fb5ace63f935b6b7ab4284e6026a101a86d9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Havana
 - ACTO Constitutivo
+- Convenção
+- Havana
+- Portugal
 - Secretaria de Cooperação Ibero-américana
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:303139:por
+  label: "Ratificado o protocolo pelo DEC.24/2002.2002.04.06.PR DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/24-2002-303139
+  date: '2002-04-06'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLO AO CONVÉNIO PARA A COOPERAÇÃO NO QUADRO DA CONFERÊNCIA IBERO-AMERICANA PARA A CONSTITUIÇÃO DA SECRETARIA IBERO-AMERICANA (SECIB).
 
@@ -170,7 +175,7 @@ O presente Protocolo será aplicado de modo provisório a partir do momento da s
 
 O presente Protocolo, cujos textos em espanhol e português são igualmente autênticos, será depositado nos arquivos do Governo da República Argentina.
 
-**Assinado por ocasião da IX Cimeira da Conferência Ibero-Americana, na cidade de Havana, Cuba, em 15 de Novembro de 1999.**
+Assinado por ocasião da IX Cimeira da Conferência Ibero-Americana, na cidade de Havana, Cuba, em 15 de Novembro de 1999.
 
 ESTATUTOS DA SECRETARIA DE COOPERAÇÃO IBERO-AMERICANA (SECIB)
 
@@ -206,7 +211,7 @@ A SECIB prestará contas das suas actividades aos responsáveis da cooperação,
 
 1 - A SECIB será integrada pelo Secretário de Cooperação Ibero-Americana, até cinco peritos e o pessoal administrativo necessário, de acordo com o organigrama e funções a serem apresentadas pelo Secretário.
 
-**O Secretário de Cooperação Ibero-Americana proporá aos responsáveis da cooperação a estrutura orgânica e funções que considere conveniente para o melhor cumprimento dos objectivos da SECIB. Esta proposta será submetida aos coordenadores nacionais para decisão. Qualquer alteração deste organigrama será aprovada pelo mesmo procedimento.**
+O Secretário de Cooperação Ibero-Americana proporá aos responsáveis da cooperação a estrutura orgânica e funções que considere conveniente para o melhor cumprimento dos objectivos da SECIB. Esta proposta será submetida aos coordenadores nacionais para decisão. Qualquer alteração deste organigrama será aprovada pelo mesmo procedimento.
 
 2 - O Secretário será designado pelos chanceleres mediante proposta conjunta dos coordenadores nacionais e dos responsáveis da cooperação, que receberão as candidaturas através da Secretaria Pro Tempore.
 
@@ -304,75 +309,75 @@ Desde o momento da sua designação o Secretário de Cooperação poderá realiz
 
 No decurso da primeira reunião preparatória da X Cimeira Ibero-Americana, o Secretário de Cooperação proporá aos responsáveis da cooperação o organigrama da Secretaria e a nomeação dos peritos da SECIB. Da mesma forma, submeterá à sua aprovação o orçamento para o seu primeiro exercício.
 
-**O Ministro das Relações Exteriores da República Argentina:**
+O Ministro das Relações Exteriores da República Argentina:
 
 Guido José Mario Di Tella.
 
-**O Ministro das Relações Exteriores da República da Bolívia:**
+O Ministro das Relações Exteriores da República da Bolívia:
 
 Javier Murillo de la Rocha.
 
-**O Ministro das Relações Exteriores da República da Colômbia:**
+O Ministro das Relações Exteriores da República da Colômbia:
 
 Guillermo Fernández de Soto.
 
-**O Ministro das Relações Exteriores da República de Cuba:**
+O Ministro das Relações Exteriores da República de Cuba:
 
 Felipe Pérez Roque.
 
-**O Ministro das Relações Exteriores da República do Chile:**
+O Ministro das Relações Exteriores da República do Chile:
 
 Juan Gabriel Valdés Soublette.
 
-**O Ministro das Relações Exteriores da República do Equador:**
+O Ministro das Relações Exteriores da República do Equador:
 
 Benjamín Ortiz Brennan.
 
-**O Ministro das Relações Exteriores do Reino de Espanha:**
+O Ministro das Relações Exteriores do Reino de Espanha:
 
 Abel Matutes Juan.
 
-**O Ministro das Relações Exteriores da República da Guatemala:**
+O Ministro das Relações Exteriores da República da Guatemala:
 
 Eduardo Stein Barillas.
 
-**O Ministro das Relações Exteriores da República das Honduras:**
+O Ministro das Relações Exteriores da República das Honduras:
 
 Roberto Flores Bermúdez.
 
-**A Ministra das Relações Exteriores dos Estados Unidos Mexicanos:**
+A Ministra das Relações Exteriores dos Estados Unidos Mexicanos:
 
 Rosario Green Macías.
 
-**O Ministro das Relações Exteriores da República da Nicarágua:**
+O Ministro das Relações Exteriores da República da Nicarágua:
 
 Eduardo Montealegre Rivas.
 
-**O Ministro das Relações Exteriores da República do Panamá:**
+O Ministro das Relações Exteriores da República do Panamá:
 
 José Miguel Alemán Healy.
 
-**O Ministro das Relações Exteriores da República do Paraguai:**
+O Ministro das Relações Exteriores da República do Paraguai:
 
 José Félix Fernández Estigarríbia.
 
-**O Ministro das Relações Exteriores da República do Peru:**
+O Ministro das Relações Exteriores da República do Peru:
 
 Fernando de Trazegnies Granda.
 
-**O Ministro das Relações Exteriores da República Portuguesa:**
+O Ministro das Relações Exteriores da República Portuguesa:
 
 Jaime José Matos da Gama.
 
-**O Ministro das Relações Exteriores da República Dominicana:**
+O Ministro das Relações Exteriores da República Dominicana:
 
 Eduardo Latorre Rodríguez.
 
-**O Ministro das Relações Exteriores da República Oriental do Uruguai:**
+O Ministro das Relações Exteriores da República Oriental do Uruguai:
 
 Didier Opertti Badán.
 
-**O Ministro das Relações Exteriores da República da Venezuela:**
+O Ministro das Relações Exteriores da República da Venezuela:
 
 José Vicente Rangel Vale.
 

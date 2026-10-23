@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/844/1991/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/844-1991-676787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4abb8ea858cd29a5ad2e57a3ff9c21fbbe3777add4d391f07558eb07eadb0e7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2da164e685938ad812f61410d863c8afa6ba0ed5467274512efa17f6a7c39405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Protecção à Família
 - Educação Especial
 - Proteção ao Deficiente
+- Protecção à Família
 - Segurança Social
 - Subsídio de Educação Especial
 relationships:
@@ -77,16 +77,33 @@ relationships:
   target: pt:dre:628833:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555057:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628833:por
+  label: "Revogada pela PORT.260/93.08.03.1993.MF, DR.IS-B [56] de 08.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-1993-628833
+  date: '1993-03-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:27Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +138,7 @@ Determinação do valor da comparticipação das famílias
 
 1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf))](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf)
 
 2 - Nas modalidades de internato e de semi-internato a comparticipação familiar não pode ser inferior, respectivamente, ao valor do abono de família percebido por um só filho e a 1000$00.
 
@@ -131,7 +148,7 @@ Determinação da poupança familiar
 
 É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e a determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf))](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/189b00/42284229.pdf)
 
 4.º
 
@@ -157,6 +174,6 @@ Revogação
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 26 de Julho de 1991.**
+Assinada em 26 de Julho de 1991.
 
-**A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/641/1991/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1991-673073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86df3a69a23f9e240d07fd4f2300953488dc0d8b93af5ee59fafdfb6a7a0213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a7b0b0997b5912e8ee7fc6842b151fbae7670febb1fc03abba3bf223e33880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,63 @@ relationships:
   target: pt:dre:287642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321348:por
+  label: "Suspensa a actividade cinegética na zona de caça turística pela PORT.474/2000.2000.07.24.MADRP, DR.IS-B [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-2000-321348
+  date: '2000-07-24'
+- type: amended_by
+  target: pt:dre:346540:por
+  label: "Renovada, por seis anos, a concessão da zona de caça turística pela PORT.302/2001.2001.03.30.MECO DR.IS-B [76]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-2001-346540
+  date: '2001-03-30'
+- type: amended_by
+  target: pt:dre:671014:por
+  label: "Transferida a concessão da zona de caça turística atribuida pelo presente diploma, pela PORT.578/2003.2003.07.17.MECO\
+    \ DR.IS-B [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-2003-671014
+  date: '2003-07-17'
+- type: amended_by
+  target: pt:dre:287642:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pelo presente diploma, com a redacção conferida nas\
+    \ port 302/2001 de 30-Mar e 578/2003 de 17-Jul, pela PORT.497/2006.30.05.2006.MADRP, DR.IS-B [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/497-2006-287642
+  date: '2006-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:31Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +163,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/158b00/35513552.pdf))](https://files.diariodarepublica.pt/1s/1991/07/158b00/35513552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/158b00/35513552.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/67/2003/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/67-2003-645765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b428094b35edef47bb7bf45c6aabb59f65cc7e4c5464e64ca80931d1403625a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5424d4a2a3a51291124b06cd59952b47b76597d5d39769cc6aae467d3a17da4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
 subjects:
 - Convenção
 - Direito dos Tratados
-- Portugal
 - Direito Internacional
+- Portugal
 - Viena
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:645766:por
+  label: "Ratificada a Convenção de Viena sobre o Direito dos Tratados e respectivo anexo, aprovada, para adesão, pelo presente\
+    \ diploma, pelo DEC.46/2003.2003.08.07.PR DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/46-2003-645766
+  date: '2003-08-07'
 article_structure:
   article_count: 87
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:12Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ Ao aderir à Convenção de Viena sobre o Direito dos Tratados, Portugal formula
 
 Aprovada em 29 de Maio de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 VIENNA CONVENTION ON THE LAW OF TREATIES
 
@@ -2217,7 +2223,7 @@ Afirmando que as regras do direito internacional consuetudinário continuarão a
 
 acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Âmbito da presente Convenção
 
@@ -2265,7 +2271,7 @@ Sem prejuízo da aplicação de quaisquer normas enunciadas na presente Convenç
 
 A presente Convenção aplica-se a qualquer tratado que seja acto constitutivo de uma organização internacional e a qualquer tratado adoptado no âmbito de uma organização internacional, sem prejuízo das normas aplicáveis da organização.
 
-# PARTE II — Conclusão e entrada em vigor dos tratados
+## PARTE II — Conclusão e entrada em vigor dos tratados
 
 #### SECÇÃO I — Conclusão dos tratados
 
@@ -2469,7 +2475,7 @@ b) Se os Estados que tenham participado na negociação assim acordaram, de outr
 
 2 - Salvo disposição do tratado ou acordo dos Estados que tenham participado na negociação em contrário, a aplicação a título provisório de um tratado, ou de uma parte de um tratado relativamente a um Estado cessa se este notificar os outros Estados, entre os quais o tratado é aplicado provisoriamente, da sua intenção de não se tornar Parte no mesmo.
 
-# PARTE III — Observância, aplicação e interpretação dos tratados
+## PARTE III — Observância, aplicação e interpretação dos tratados
 
 #### SECÇÃO I — Observância dos tratados
 
@@ -2573,7 +2579,7 @@ Uma disposição de um tratado faz nascer uma obrigação para um terceiro Estad
 
 O disposto nos artigos 34.º a 37.º não obsta a que uma norma enunciada num tratado se torne vinculativa para um terceiro Estado como norma consuetudinária de direito internacional, reconhecida como tal.
 
-# PARTE IV — Revisão e modificação dos tratados
+## PARTE IV — Revisão e modificação dos tratados
 
 ###### Artigo 39.º — Regra geral relativa à revisão dos tratados
 
@@ -2613,7 +2619,7 @@ ii) Não respeite a uma disposição cuja derrogação seja incompatível com a 
 
 2 - Salvo se, no caso previsto na alínea a) do n.º 1, o tratado dispuser de outro modo, as Partes em causa devem notificar às outras Partes a sua intenção de concluir o acordo e as modificações que este último introduz no tratado.
 
-# PARTE V — Nulidade, cessação da vigência e suspensão da aplicação dos tratados
+## PARTE V — Nulidade, cessação da vigência e suspensão da aplicação dos tratados
 
 #### SECÇÃO I — Disposições gerais
 
@@ -2887,7 +2893,7 @@ b) Não tem outro efeito sobre as relações jurídicas estabelecidas pelo trata
 
 2 - Durante o período de suspensão, as Partes devem abster-se de qualquer acto tendente a impedir a reentrada em vigor do tratado.
 
-# PARTE VI — Disposições diversas
+## PARTE VI — Disposições diversas
 
 ###### Artigo 73.º — Casos de sucessão de Estados, de responsabilidade de um Estado ou de abertura de hostilidades
 
@@ -2901,7 +2907,7 @@ A ruptura ou a inexistência de relações diplomáticas ou consulares entre doi
 
 As disposições da presente Convenção não afectam as obrigações que possam resultar, em virtude de um tratado, para um Estado agressor, de medidas tomadas de acordo com a Carta das Nações Unidas a respeito da agressão cometida por esse Estado.
 
-# PARTE VII — Depositários, notificações, rectificações e registo
+## PARTE VII — Depositários, notificações, rectificações e registo
 
 ###### Artigo 76.º — Depositários dos tratados
 
@@ -2971,7 +2977,7 @@ b) Alguma objecção tiver sido feita, o depositário comunica a objecção aos 
 
 2 - A designação de um depositário constitui autorização para este praticar os actos previstos no número anterior.
 
-# PARTE VIII — Disposições finais
+## PARTE VIII — Disposições finais
 
 ###### Artigo 81.º — Assinatura
 

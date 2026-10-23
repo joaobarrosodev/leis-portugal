@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/537/1991/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-1991-648488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bbd3c34e5cbf3b2737e8242d84faa406ab5b7642a11d7daad62e6b84514b782
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2e3b7978f9e0a66a783f422a3bb15afdf5ac024a8f77dc6577b6eb32f4fa34e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,66 @@ relationships:
   target: pt:dre:343155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241201:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela PORT.752/98.1998.09.14.MADRP\
+    \ DR.IS-B [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1998-241201
+  date: '1998-09-14'
+- type: amended_by
+  target: pt:dre:407560:por
+  label: "Renovada a zona de caça associativa atribuída pelo presente diploma pela PORT.133/2000.2000.03.09.MADRP,DR.IS-B\
+    \ [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-2000-407560
+  date: '2000-03-09'
+- type: amended_by
+  target: pt:dre:540404:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterado pela Port 752/98 de\
+    \ 14-Set, renovado pela Port 133/2000 de 09-Mar e alterada pela Port 492/2004 de 05-Mai, pela Port.888/2006.01.09.2006.MADRP,\
+    \ DR.IS [169] de 01.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-2006-540404
+  date: '2006-09-01'
+- type: amended_by
+  target: pt:dre:343155:por
+  label: "Renovada por dez anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 752/98, de\
+    \ 14-Set, pela Port 133/2000, de 09-Mar, pela Port 492/2004, de 05-Maio e pela Port 888/2006, de 01-Set, pela PORT.696/2010.16.08.2010.MADRP,\
+    \ DR.IS [158] de 16.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-2010-343155
+  date: '2010-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:01Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/141b00/32003200.pdf))](https://files.diariodarepublica.pt/1s/1991/06/141b00/32003200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/141b00/32003200.pdf)

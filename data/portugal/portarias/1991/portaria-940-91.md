@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/940/1991/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/940-1991-301469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 349c2b5524057fb3c98f00da1fc821958b1cf07910a39820e20e3d954c961cfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9081f60c9d49024608fc2a6438208945e2c8c5851ddc04f0815ea60ee3d2e661
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
 subjects:
 - Alandroal
 - Pesca
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:49Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +123,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, conceder 
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Agosto de 1991.**
+Assinada em 27 de Agosto de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

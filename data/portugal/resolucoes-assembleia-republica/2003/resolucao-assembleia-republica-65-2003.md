@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/65/2003/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/65-2003-652704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 678b992aef5e104978ed9644b843855ae4cc528f4b7ee96e8d30d147c5b0f2c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b418b8898db812a2eabb18628e54f7717ddb18bbcec640bacf2db9a6c9cd515c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cardiff
-- Convenção
-- Portugal
-- Eutelsat
 - Comunicação por Satélite
+- Convenção
+- Eutelsat
+- Portugal
 - Privilegios e Imunidades
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:652705:por
+  label: "Ratificado o Acordo de Alteração ao Protocolo Relativo aos Privilégios e Imunidades da Organização Europeia de Telecomunicações\
+    \ por Satélite (EUTELSAT), aprovado, para adesão, pelo presente diploma, pelo DEC.44/2003.2003.08.02.PR DR.IS-A [177]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/44-2003-652705
+  date: '2003-08-02'
 article_structure:
-  article_count: 14
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:09Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de Maio de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACCORD PORTANT AMENDEMENT AU PROTOCOLE SUR LES PRIVILÈGES ET IMMUNITÉS DE L'ORGANISATION EUROPÉENNE DE TÉLÉCOMMUNICATIONS PAR SATELLITE (EUTELSAT).
 
@@ -348,7 +355,7 @@ Considerando que é desejável alterar o Protocolo para assegurar a coerência d
 
 acordaram alterar o Protocolo nos seguintes termos:
 
-Artigo I
+###### Artigo I
 
 O preâmbulo do Protocolo é substituído pelo seguinte texto:
 
@@ -358,9 +365,9 @@ Considerando que a Organização celebrou um Acordo Sede com o Governo da Repúb
 
 Considerando que a finalidade do Protocolo é facilitar a realização do objectivo da Organização e assegurar o eficiente desempenho das suas funções;»
 
-Artigo II
+###### Artigo II
 
-###### Artigo 1.º, «Definições» - é substituído pelo texto seguinte:
+Artigo 1.º, «Definições» - é substituído pelo texto seguinte:
 
 «Definições
 
@@ -388,9 +395,9 @@ j) 'Bens' designa tudo quanto possa ser objecto de um direito de propriedade, in
 
 k) 'Secretário Executivo' designa o Secretário Executivo da EUTELSAT.»
 
-Artigo III
+###### Artigo III
 
-###### Artigo 3.º, «Imunidade de jurisdição e execução da EUTELSAT» - é substituído pelo seguinte texto:
+Artigo 3.º, «Imunidade de jurisdição e execução da EUTELSAT» - é substituído pelo seguinte texto:
 
 «Imunidade de jurisdição e de execução da Organização
 
@@ -416,33 +423,33 @@ b) Qualquer medida adoptada em conformidade com a legislação do Estado interes
 
 c) Expropriação por utilidade pública de bens imóveis, mediante pronto pagamento de justa indemnização, desde que tal expropriação não prejudique o funcionamento e as operações da EUTELSAT.»
 
-Artigo IV
+###### Artigo IV
 
-###### Artigo 4.º, «Disposições fiscais e aduaneiras» - é alterado nos seguintes termos:
+Artigo 4.º, «Disposições fiscais e aduaneiras» - é alterado nos seguintes termos:
 
 1) São suprimidos os parágrafos 3) e 8);
 
 2) Os restantes parágrafos são renumerados de 1) a 6), respectivamente.
 
-Artigo V
+###### Artigo V
 
-###### Artigo 8.º, «Representantes dos signatários» - é suprimido.
+Artigo 8.º, «Representantes dos signatários» - é suprimido.
 
-Artigo VI
+###### Artigo VI
 
-###### Artigo 10.º, «Director-Geral» - é alterado nos seguintes termos:
+Artigo 10.º, «Director-Geral» - é alterado nos seguintes termos:
 
 As palavras «Director-Geral», sempre que surjam no texto, são eliminadas e substituídas pela expressão «Secretário Executivo».
 
-Artigo VII
+###### Artigo VII
 
-###### Artigo 13.º, «Notificação dos membros do pessoal e dos peritos» - é alterado nos seguintes termos:
+Artigo 13.º, «Notificação dos membros do pessoal e dos peritos» - é alterado nos seguintes termos:
 
 As palavras «Director-Geral» são eliminadas e substituídas pela expressão «Secretário Executivo».
 
-Artigo VIII
+###### Artigo VIII
 
-###### Artigo 14.º, «Cessação» - é alterado nos seguintes termos:
+Artigo 14.º, «Cessação» - é alterado nos seguintes termos:
 
 «Cessação
 
@@ -456,57 +463,53 @@ b) A Assembleia, reunida, se necessário, em sessão extraordinária, relativame
 
 c) O Secretário Executivo, relativamente aos membros do pessoal e aos peritos.»
 
-Artigo IX
+###### Artigo IX
 
-###### Artigo 18.º, «Resolução de litígios» - é renumerado e alterado nos seguintes termos:
+Artigo 18.º, «Resolução de litígios» - é renumerado e alterado nos seguintes termos:
 
 As palavras «artigo XX» são substituídas por «artigo XV».
 
-Artigo X
+###### Artigo X
 
-###### Artigo 19.º, «Cláusula de arbitragem em contratos escritos» - é alterada nos seguintes termos:
+Artigo 19.º, «Cláusula de arbitragem em contratos escritos» - é alterada nos seguintes termos:
 
 As palavras «Director-Geral» são substituídas por «Secretário Executivo».
 
-Artigo XI
+###### Artigo XI
 
-###### Artigo 20.º, «Resolução de litígios relativos a danos, responsabilidade extracontratual ou a membros do pessoal ou peritos» - é alterado nos seguintes termos:
+Artigo 20.º, «Resolução de litígios relativos a danos, responsabilidade extracontratual ou a membros do pessoal ou peritos» - é alterado nos seguintes termos:
 
 As palavras «artigo XX» são substituídas por «artigo XV».
 
-Artigo XII
+###### Artigo XII
 
-###### Artigo 22.º, «Assinatura, ratificações, adesão e reservas» - é alterado nos seguintes termos:
+Artigo 22.º, «Assinatura, ratificações, adesão e reservas» - é alterado nos seguintes termos:
 
 No parágrafo 3), a referência ao «artigo 25.º» é substituída por uma referência ao «artigo 24.º».
 
-Artigo XIII
+###### Artigo XIII
 
-###### Artigo 23.º, «Entrada em vigor e duração do protocolo» - é alterado nos seguintes termos:
-
-A referência ao «artigo 22.º» é substituída por uma referência ao «artigo 24.º».
-
-Artigo XIV
-
-###### Artigo 24.º, «Entrada em vigor e duração para um Estado» - é alterado nos seguintes termos:
+Artigo 23.º, «Entrada em vigor e duração do protocolo» - é alterado nos seguintes termos:
 
 A referência ao «artigo 22.º» é substituída por uma referência ao «artigo 24.º».
 
-Artigo XV
+###### Artigo XIV
 
-###### Artigo 25.º, «Depositário» - é alterado nos seguintes termos:
+Artigo 24.º, «Entrada em vigor e duração para um Estado» - é alterado nos seguintes termos:
+
+A referência ao «artigo 22.º» é substituída por uma referência ao «artigo 24.º».
+
+###### Artigo XV
+
+Artigo 25.º, «Depositário» - é alterado nos seguintes termos:
 
 A referência ao «Director-Geral» é substituída por uma referência ao «Secretário Executivo».
 
-Artigo XVI
-
-Todos os artigos a partir do artigo 9.º em diante são renumerados em consequência da eliminação do artigo 8.º
+###### Artigo XVI — Todos os artigos a partir do artigo 9.º em diante são renumerados em consequência da eliminação do artigo 8.º
 
 Disposições finais
 
-Artigo XVII
-
-Assinatura, ratificação e adesão
+###### Artigo XVII — Assinatura, ratificação e adesão
 
 1) O presente Acordo de Alteração estará aberto à assinatura na sede da EUTELSAT a partir de 1 de Maio de 2000 até 31 de Dezembro de 2001.
 
@@ -524,15 +527,11 @@ c) Adesão.
 
 5) Poderão ser feitas reservas ao presente Acordo de Alteração em conformidade com o direito internacional.
 
-Artigo XVIII
-
-Entrada em vigor do Acordo de Alteração
+###### Artigo XVIII — Entrada em vigor do Acordo de Alteração
 
 O presente Acordo de Alteração entrará em vigor no 30.º dia após a data em que duas Partes na Convenção tenham cumprido os requisitos do parágrafo 2) do artigo XVII.
 
-Artigo XIX
-
-Entrada em vigor relativamente a um Estado
+###### Artigo XIX — Entrada em vigor relativamente a um Estado
 
 1) Para um Estado que tenha cumprido os requisitos do parágrafo 2) do artigo XVII após a data de entrada em vigor do presente Acordo de Alteração, este entrará em vigor no 30.º dia subsequente à data da respectiva assinatura ou do depósito de tal instrumento junto do Depositário.
 
@@ -542,9 +541,7 @@ a) Considerado como Parte no Protocolo alterado; e
 
 b) Considerado como Parte no Protocolo inicial, relativamente a qualquer Parte no Protocolo não vinculada pelo presente Acordo de Alteração.
 
-Artigo XX
-
-Depositário
+###### Artigo XX — Depositário
 
 1) O Secretário Executivo será o Depositário do presente Acordo de Alteração.
 
@@ -560,9 +557,7 @@ d) De quaisquer outras comunicações relacionadas com o Acordo de Alteração.
 
 3) Após a entrada em vigor do presente Acordo de Alteração, o Depositário remeterá uma cópia autenticada do original ao Secretariado das Nações Unidas para efeitos de registo e de publicação, em conformidade com o artigo 102.º da Carta das Nações Unidas.
 
-Artigo XXI
-
-Textos autênticos
+###### Artigo XXI — Textos autênticos
 
 O presente Acordo de Alteração é feito num único original, em inglês e francês, sendo ambos os textos igualmente autênticos e será depositado junto do Depositário, que enviará uma cópia certificada para cada uma das Partes na Convenção.
 

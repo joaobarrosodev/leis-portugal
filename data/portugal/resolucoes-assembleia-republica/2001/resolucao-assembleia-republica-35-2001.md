@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/2001/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2001-315734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fe224d566f06cc7f656f27a3549cd2571529d80a5c50cc67867196a5b192f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f88e7444e66721ce8e5c1c2c861e93326b712fdefafefb6765a11ce3f3ef616f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Navegação Aérea
-- Transporte Aéreo
-- Convenção
-- Portugal
-- Eurocontrol
-- Segurança da Navegação
 - Bruxelas
-relationships: []
+- Convenção
+- Eurocontrol
+- Navegação Aérea
+- Portugal
+- Segurança da Navegação
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:315735:por
+  label: "Ratificado o presente Protocolo pelo DEC.28/2001.2001.05.04.PR,DR.IS-A [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-2001-315735
+  date: '2001-05-04'
 article_structure:
-  article_count: 80
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:15Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de Fevereiro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 Acte final de la Conférence diplomatique sur le Protocole Coordonnant la Convention Internationale de Coopération pour la Sécurité de la Navigation Aérienne «EUROCONTROL» du 13 décembre 1960 suite aux différentes modifications intervenues (Bruxelles, le 27 juin 1997).
 
@@ -804,7 +809,7 @@ Article XXVII
 
 L'article 27 de la Convention devient l'article 30.
 
-Dans le texte en langue allemande du paragraphe 1 de l'article 27 de la Convention, devenant le paragraphe 1 de l'article 30, les mots «um die reibungslose Ausübung der Gerichtsbarkeit» sont remplacés par [([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) et les mots «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» par «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» et dans le texte en langue anglaise dudit paragraphe 1, les mots «in the present Convention» sont remplacés par «in this Convention».
+Dans le texte en langue allemande du paragraphe 1 de l'article 27 de la Convention, devenant le paragraphe 1 de l'article 30, les mots «um die reibungslose Ausübung der Gerichtsbarkeit» sont remplacés par [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) et les mots «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» par «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» et dans le texte en langue anglaise dudit paragraphe 1, les mots «in the present Convention» sont remplacés par «in this Convention».
 
 Article XXVIII
 
@@ -1848,7 +1853,7 @@ Région d'information de vol Zagreb.
 
 Royaume du Danemark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Royaume d'Espagne:
 
@@ -1932,7 +1937,7 @@ Région supérieure d'information de vol Stavanger;
 
 Région supérieure d'information de vol Trondheim;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Région d'information de vol Oslo;
 
@@ -1940,7 +1945,7 @@ Région d'information de vol Stavanger;
 
 Région d'information de vol Trondheim;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Royaume des Pays-Bas:
 
@@ -2334,7 +2339,7 @@ Liste des États signataires:
 
 Le tableau des Etats liés par les Protocoles se présente comme suit:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Royaume de Belgique.
 
@@ -2402,7 +2407,7 @@ Liste des États signataires:
 
 Le tableau des Etats liés par les Protocoles se présente comme suit:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 1 - Protocol consolidating the EUROCONTROL International Convention relating to Co-operation for the Safety of Air Navigation of 13 December 1960, as variously amended, done in Brussels on 27 June 1997.
 
@@ -3120,7 +3125,7 @@ Article XXVII
 
 Article 27 of the Convention shall become article 30.
 
-In the German text of paragraph 1 of article 27 of the Convention, which becomes paragraph 1 of article 30, the words «um die reibungslose Ausübung der Gerichtsbarkeit» shall be replaced by [([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) and the words «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» by «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» and in the English text of the said paragraph 1, the words «in the present Convention» shall be replaced by «in this Convention».
+In the German text of paragraph 1 of article 27 of the Convention, which becomes paragraph 1 of article 30, the words «um die reibungslose Ausübung der Gerichtsbarkeit» shall be replaced by [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) and the words «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» by «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» and in the English text of the said paragraph 1, the words «in the present Convention» shall be replaced by «in this Convention».
 
 Article XXVIII
 
@@ -4162,7 +4167,7 @@ Zagreb Flight Information Region.
 
 Kingdom of Denmark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Kingdom of Spain:
 
@@ -4246,7 +4251,7 @@ Stavanger Upper Flight Information Region;
 
 Trondheim Upper Flight Information Region;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Oslo Flight Information Region;
 
@@ -4254,7 +4259,7 @@ Stavanger Flight Information Region;
 
 Trondheim Flight Information Region;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Kingdom of the Netherlands:
 
@@ -4790,11 +4795,11 @@ Pela República da Turquia:
 
 ## ANEXO 1 À ACTA FINAL — Modificações feitas pela Conferência Diplomática de 27 de Junho de 1997
 
-Artigo I
+###### Artigo I
 
 A Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL» de 13 de Dezembro de 1960, tal como modificada pelo Protocolo Adicional de 6 de Julho de 1970, ele próprio modificado pelo Protocolo de 21 de Novembro de 1978, ambos modificados pelo Protocolo de 12 de Fevereiro de 1981, a seguir denominada «a Convenção», é emendada de acordo com as disposições dos artigos seguintes.
 
-Artigo II
+###### Artigo II
 
 Os n.os 1 e 2 do artigo 1.º da Convenção são substituídos pelas disposições seguintes:
 
@@ -4850,7 +4855,7 @@ b) Um Conselho que constitui o órgão encarregado de executar as decisões da A
 
 c) Uma Agência, cujos Estatutos figuram no anexo I à presente Convenção, que constitui o órgão encarregado de executar as tarefas da Organização em conformidade com as disposições dos artigos a seguir da presente Convenção, bem como as tarefas que lhe são confiadas pela Assembleia Geral ou pelo Conselho, de elaborar propostas adequadas e prever os recursos técnicos e financeiros, assim como os meios em pessoal para atingir os objectivos fixados.»
 
-Artigo III
+###### Artigo III
 
 O artigo 2.º da Convenção é substituído pelas disposições seguintes:
 
@@ -4914,7 +4919,7 @@ b) A pedido de Partes não contratantes ou de outras organizações internaciona
 
 5 - Para facilitar a execução das suas tarefas, a Organização pode, por decisão da Assembleia Geral, criar empresas que serão regidas por estatutos específicos ao abrigo do direito internacional público ou do direito nacional de uma Parte Contratante, ou adquirir uma participação maioritária no capital dessas empresas.»
 
-Artigo IV
+###### Artigo IV
 
 O artigo 3.º da Convenção é substituído pelas disposições seguintes:
 
@@ -4930,11 +4935,11 @@ b) Qualquer alteração que não tenha um tal efeito será todavia notificada à
 
 Com base num acordo especial, tal como previsto na alínea b) do n.º 2 do artigo 2.º, uma Parte Contratante pode solicitar que a expressão 'tráfego aéreo' se aplique ao resto do tráfego que opera no seu território.»
 
-Artigo V
+###### Artigo V
 
 No artigo 4.º da Convenção, a referência aos Estatutos a ela anexos é substituída por uma referência aos Estatutos que figuram no anexo I e no texto em língua inglesa do referido artigo 4.º, os termos «in the present Convention» são substituídos por «in this Convention».
 
-Artigo VI
+###### Artigo VI
 
 O artigo 5.º da Convenção é substituído pelas disposições seguintes:
 
@@ -4948,7 +4953,7 @@ O artigo 5.º da Convenção é substituído pelas disposições seguintes:
 
 4 - Os representantes de organizações internacionais que possam contribuir para o trabalho da Organização poderão ser convidados, se for caso disso, pela Assembleia Geral ou pelo Conselho, a tomar parte, na qualidade de observadores, nas estruturas de trabalho da Organização.»
 
-Artigo VII
+###### Artigo VII
 
 O artigo 6.º da Convenção é substituído pelas disposições seguintes:
 
@@ -4988,7 +4993,7 @@ b) Delegar no Conselho, sempre que necessário, o poder de tomar decisões nos d
 
 c) Criar qualquer outro órgão subordinado quando considere necessário.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo 7.º da Convenção passa a ser o artigo 8.º com a seguinte redacção:
 
@@ -5008,7 +5013,7 @@ Esta regra é igualmente aplicável para as decisões tomadas nos casos menciona
 
 4 - As decisões tomadas pela Assembleia Geral e pelo Conselho são obrigatórias relativamente às Partes Contratantes e à Agência sob reserva das disposições do artigo 9.º»
 
-Artigo IX
+###### Artigo IX
 
 É inserido na Convenção um novo artigo 7.º com a seguinte redacção:
 
@@ -5054,7 +5059,7 @@ m) Aquando da execução das tarefas referidas na alínea f) do n.º 1 do artigo
 
 7 - O Conselho pode conceder uma delegação de atribuições e, dentro de limites bem definidos, uma delegação de poderes ao Comité Permanente de Interface Civil/Militar e a qualquer outro comité criado após a entrada em vigor da Convenção. Estas delegações de atribuições ou de poderes não constituem obstáculo à faculdade, para o Conselho, de avocar a si em qualquer momento uma questão no âmbito da sua missão de supervisão geral.»
 
-Artigo X
+###### Artigo X
 
 O artigo 8.º da Convenção passa a ser o artigo 11.º com a seguinte redacção:
 
@@ -5104,7 +5109,7 @@ De 27 a menos de 30% ... 15
 
 4 - O número de votos é redefinido anualmente de acordo com as disposições precedentes.»
 
-Artigo XI
+###### Artigo XI
 
 O artigo 9.º da Convenção passa a ser o artigo 12.º com a seguinte redacção:
 
@@ -5112,7 +5117,7 @@ O artigo 9.º da Convenção passa a ser o artigo 12.º com a seguinte redacçã
 
 A Assembleia Geral e o Conselho estabelecem o seu Regulamento Interno, que fixa, nomeadamente, as regras que regem a eleição de um Presidente e de um Vice-Presidente, assim como as regras de aplicação do processo de escrutínio e do quórum.»
 
-Artigo XII
+###### Artigo XII
 
 É inserido na Convenção um novo artigo 9.º com a seguinte redacção:
 
@@ -5130,7 +5135,7 @@ b) Em caso de aplicação das modalidades previstas na alínea b) do n.º 1, a i
 
 3 - Em caso de guerra ou de conflito, as disposições da presente Convenção não podem afectar a liberdade de acção de nenhuma das Partes Contratantes envolvidas. É aplicado o mesmo princípio em caso de situação de crise ou de emergência nacional. Qualquer uma das Partes Contratantes pode, nomeadamente, retomar temporariamente a responsabilidade, total ou parcial, dos serviços do tráfego aéreo no espaço aéreo da sua competência por razões imperativas de interesse nacional, nomeadamente no domínio da defesa. A arquitectura do sistema europeu de gestão do tráfego aéreo deveria permitir a retomada efectiva destes serviços em conformidade com as necessidades das Partes Contratantes.»
 
-Artigo XIII
+###### Artigo XIII
 
 O artigo 10.º da Convenção é revogado e é inserido na Convenção um novo artigo 10.º com a seguinte redacção:
 
@@ -5146,7 +5151,7 @@ b) Uma segunda fracção, equivalente a 70% da contribuição, é calculada prop
 
 3 - A base de custos que é tida em consideração para o cálculo das taxas de rota é aquela que foi estabelecida para o penúltimo ano anterior ao exercício orçamental em questão.»
 
-Artigo XIV
+###### Artigo XIV
 
 O artigo 11.º da Convenção passa a ser o artigo 13.º com a seguinte redacção:
 
@@ -5158,7 +5163,7 @@ O artigo 11.º da Convenção passa a ser o artigo 13.º com a seguinte redacç�
 
 3 - A Assembleia Geral pode, mediante proposta do Conselho, delegar neste último a decisão de concluir os acordos especiais necessários à execução das tarefas prevista no artigo 2.º»
 
-Artigo XV
+###### Artigo XV
 
 O artigo 12.º da Convenção passa a ser o artigo 14.º com a seguinte redacção:
 
@@ -5166,7 +5171,7 @@ O artigo 12.º da Convenção passa a ser o artigo 14.º com a seguinte redacç�
 
 Os acordos especiais previstos no artigo 2.º deverão estabelecer as tarefas, direitos e obrigações respectivos das Partes nos acordos, bem como as condições financeiras, e determinar as medidas a tomar. Estes acordos podem ser negociados pela Agência, nas condições previstas na alínea k) do n.º 2 do artigo 7.º»
 
-Artigo XVI
+###### Artigo XVI
 
 O artigo 13.º da Convenção passa a ser o artigo 15.º com a seguinte redacção:
 
@@ -5174,13 +5179,11 @@ O artigo 13.º da Convenção passa a ser o artigo 15.º com a seguinte redacç�
 
 No quadro das directivas dadas pelo Conselho, a Agência pode estabelecer com os serviços técnicos interessados, públicos ou privados, das Partes Contratantes, de Partes não contratantes ou de organismos internacionais, as relações indispensáveis à coordenação do tráfego aéreo e ao funcionamento dos seus próprios serviços. Para este efeito poderá celebrar contratos de carácter puramente administrativo, técnico ou comercial em nome da Organização sob reserva de comunicação ao Conselho, sempre que estes acordos sejam considerados necessários ao seu funcionamento.»
 
-Artigo XVII
-
-O artigo 14.º da Convenção passa a ser o artigo 16.º
+###### Artigo XVII — O artigo 14.º da Convenção passa a ser o artigo 16.º
 
 No texto em língua neerlandesa do n.º 1 do artigo 14.º da Convenção, que passa a ser o n.º 1 do artigo 16.º os termos «de onroerende goederen» são substituídos por «die onroedende goederen» e no n.º 2 do mesmo artigo, a palavra «verreberichtgeving» é substituída por «telecommunicatie».
 
-Artigo XVIII
+###### Artigo XVIII
 
 O artigo 15.º da Convenção passa a ser o artigo 17.º com a seguinte redacção:
 
@@ -5188,7 +5191,7 @@ O artigo 15.º da Convenção passa a ser o artigo 17.º com a seguinte redacç�
 
 No desempenho das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, a Agência aplicará os regulamentos em vigor nos territórios das Partes Contratantes e nos espaços aéreos para os quais lhe esteja confiada a prestação dos serviços de tráfego aéreo nos termos dos acordos internacionais de que sejam parte.»
 
-Artigo XIX
+###### Artigo XIX
 
 O artigo 16.º da Convenção passa a ser o artigo 18.º com a seguinte redacção:
 
@@ -5196,7 +5199,7 @@ O artigo 16.º da Convenção passa a ser o artigo 18.º com a seguinte redacç�
 
 No desempenho das tarefas previstas na alínea b) do n.º 2 do artigo 2.º e dentro dos limites dos direitos conferidos respectivamente aos serviços de gestão dos fluxos de tráfego e aos serviços de tráfego aéreo, a Agência dá aos comandantes de bordo todas as instruções necessárias. Estes deverão dar-lhes cumprimento, salvo nos casos de força maior previstos nos regulamentos citados no artigo anterior.»
 
-Artigo XX
+###### Artigo XX
 
 O artigo 17.º da Convenção passa a ser o artigo 20.º com a seguinte redacção:
 
@@ -5204,9 +5207,7 @@ O artigo 17.º da Convenção passa a ser o artigo 20.º com a seguinte redacç�
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, as infracções aos regulamentos da navegação aérea cometidas no espaço onde a Agência executa essas tarefas serão registadas em relatórios elaborados por agentes especialmente nomeados pela Agência para este efeito, sem prejuízo do direito reconhecido pelas legislações nacionais aos agentes das Partes Contratantes de verificar as infracções da mesma natureza. Os relatórios acima referidos têm junto dos tribunais nacionais o mesmo valor que os efectuados pelos agentes nacionais qualificados para registar as infracções da mesma natureza.»
 
-Artigo XXI
-
-Os artigos 18.º e 19.º da Convenção passam a ser os artigos 21.º e 22.º
+###### Artigo XXI — Os artigos 18.º e 19.º da Convenção passam a ser os artigos 21.º e 22.º
 
 No texto em língua francesa do n.º 3 do artigo 19.º da Convenção, que passa a ser o n.º 3 do artigo 22.º, os termos «à ses biens, avoirs et revenus» são substituídos por «ainsi qu'à ses biens, avoirs et revenus» e no texto equivalente em língua inglesa, os termos «its property, assets and income» são substituídos por «as well as its property, assets and income».
 
@@ -5214,7 +5215,7 @@ No texto em língua inglesa dos n.os 2, 3, 4 do artigo 19.º da Convenção que 
 
 No texto em língua alemã do n.º 6 do artigo 19.º da Convenção, que passa a ser o n.º 6 do artigo 22.º, os termos «offentlicher Versorgungsbetriebe» são substituídos por «allgemeiner Versorgungsunternehmen» e no texto em inglês do referido n.º 6 os termos «for public utility services» são substituídos por «for general utilities».
 
-Artigo XXII
+###### Artigo XXII
 
 É inserido na Convenção um novo artigo 19.º com a seguinte redacção:
 
@@ -5232,9 +5233,7 @@ b) Pela Organização, em conformidade com as regras de competência enunciadas 
 
 4 - As Partes Contratantes têm a obrigação de incorporar na sua legislação nacional as disposições que assegurem o respeito das condições gerais previstas na alínea d) do n.º 1 do artigo 7.º»
 
-Artigo XXIII
-
-Os artigos 20.º, 21.º, 22.º e 23.º da Convenção passam a ser os artigos 23.º, 24.º, 25.º e 26.º
+###### Artigo XXIII — Os artigos 20.º, 21.º, 22.º e 23.º da Convenção passam a ser os artigos 23.º, 24.º, 25.º e 26.º
 
 No texto em língua francesa, no n.º 1 do artigo 20.º da Convenção, que passa a ser o n.º 1 do novo artigo 23.º, os termos «tous droits de douane et taxes d'effet équivalent, autres que des redevances ou impositions représentatives de services rendus» são substituídos por «tous droits de douane et taxes ou redevances d'effet équivalent, autres que des redevances représentatives de services rendus».
 
@@ -5256,7 +5255,7 @@ No texto em língua francesa do n.º 7 do artigo 22.º da Convenção, que passa
 
 No texto em língua alemã do artigo 23.º da Convenção, que passa a ser o artigo 26.º, a palavra «Tagungsort» é substituída por «Sitzungsort».
 
-Artigo XXIV
+###### Artigo XXIV
 
 O artigo 24.º da Convenção passa a ser o artigo 27.º com a seguinte redacção:
 
@@ -5264,11 +5263,9 @@ O artigo 24.º da Convenção passa a ser o artigo 27.º com a seguinte redacç�
 
 Como resultado do seu regime próprio de previdência social, a Organização, o Director-Geral e o pessoal da Organização estão isentos de quaisquer contribuições obrigatórias devidas a organismos nacionais de previdência social, sem prejuízo dos acordos existentes entre a Organização e uma Parte Contratante aquando da entrada em vigor do Protocolo aberto para assinatura em Bruxelas em 1997.»
 
-Artigo XXV
+###### Artigo XXV — O artigo 25.º da Convenção passa a ser o artigo 28.º
 
-O artigo 25.º da Convenção passa a ser o artigo 28.º
-
-Artigo XXVI
+###### Artigo XXVI
 
 O artigo 26.º da Convenção passa a ser o artigo 29.º O seu n.º 2 é substituído pelas disposições seguintes:
 
@@ -5276,13 +5273,11 @@ O artigo 26.º da Convenção passa a ser o artigo 29.º O seu n.º 2 é substit
 
 No texto em língua francesa no n.º 3 do artigo 26.º da Convenção, que passa a ser no n.º 3 do artigo 29.º, os termos «dans leur territoire respectif» são substituídos por «sur leur territoire respectif» e os termos «Directeur Général» por «Directeur général».
 
-Artigo XXVII
+###### Artigo XXVII — O artigo 27.º da Convenção passa a ser o artigo 30.º
 
-O artigo 27.º da Convenção passa a ser o artigo 30.º
+No texto em língua alemã do n.º 1 do artigo 27.º da Convenção, que passa a ser o n.º 1 do artigo 30.º, os termos «um die reibungslose Ausübung der Gerichtsbarkeit» são substituídos por [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) e os termos «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» por «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» e no texto em língua inglesa do referido n.º 1, os termos «in the present Convention» são substituídos por «in this Convention».
 
-No texto em língua alemã do n.º 1 do artigo 27.º da Convenção, que passa a ser o n.º 1 do artigo 30.º, os termos «um die reibungslose Ausübung der Gerichtsbarkeit» são substituídos por [([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf) e os termos «Vorrechte, Befreiungen, Ausnahmen oder Erleichterungen» por «Vorrechte, Immunitäten, Befreiungen oder Erleichterungen» e no texto em língua inglesa do referido n.º 1, os termos «in the present Convention» são substituídos por «in this Convention».
-
-Artigo XXVIII
+###### Artigo XXVIII
 
 O artigo 28.º da Convenção passa a ser o artigo 31.º com a seguinte redacção:
 
@@ -5290,7 +5285,7 @@ O artigo 28.º da Convenção passa a ser o artigo 31.º com a seguinte redacç�
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, as tarefas previstas na alínea b) do n.º 2 do artigo 2.º, os acordos internacionais e as regulamentações nacionais relativos ao acesso, sobrevoo e segurança do território das Partes Contratantes interessadas revestem carácter obrigatório para a Agência que deverá tomar todas as medidas necessárias à sua aplicação.»
 
-Artigo XXIX
+###### Artigo XXIX
 
 O artigo 29.º da Convenção passa a ser o artigo 32.º com a seguinte redacção:
 
@@ -5298,7 +5293,7 @@ O artigo 29.º da Convenção passa a ser o artigo 32.º com a seguinte redacç�
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, a Agência é obrigada a fornecer às Partes Contratantes que apresentem o respectivo pedido todas as informações relativas às aeronaves de que tem conhecimento no exercício das suas funções referentes ao espaço aéreo da Parte Contratante implicada, a fim de permitir às referidas Partes Contratantes interessadas o controlo da aplicação dos acordos internacionais e das regulamentações nacionais.»
 
-Artigo XXX
+###### Artigo XXX
 
 O artigo 30.º da Convenção passa a ser o artigo 33.º com a seguinte redacção:
 
@@ -5430,7 +5425,7 @@ Artigo XLII
 
 O anexo IV («Disposições relativas ao Sistema Comum de Taxas de Rota») à versão consolidada do texto da Convenção que figura em anexo ao Protocolo aberto à assinatura em Bruxelas em 1997 constitui o anexo IV à Convenção.
 
-## ANEXO 2 À ACTA FINAL
+ANEXO 2 À ACTA FINAL
 
 Protocolo que consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL» de 13 de Dezembro de 1960 na sequência das diversas modificações introduzidas.
 
@@ -5556,7 +5551,7 @@ Versão consolidada que reagrupa os textos mantidos em vigor da actual Convenç�
 
 Texto consolidado da Convenção
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - A fim de realizar a harmonização e a integração necessárias com vista a criar um sistema europeu uniforme de gestão do tráfego aéreo, as Partes Contratantes acordam em reforçar a sua cooperação e desenvolver as suas actividades comuns no domínio da navegação aérea, tomando devidamente em conta as necessidades em matéria de defesa, garantindo a todos os utilizadores do espaço aéreo a máxima liberdade compatível com o nível de segurança exigido no âmbito do fornecimento de serviços do tráfego aéreo economicamente eficazes e tendo em conta a necessidade de minimizar, sempre que possível, nomeadamente em termos operacionais, técnicos e económicos, qualquer impacte nefasto sobre o ambiente.
 
@@ -5610,7 +5605,7 @@ c) Uma Agência, cujos estatutos figuram no anexo I à presente Convenção, que
 
 3 - A Organização tem a sua sede em Bruxelas.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - A Organização fica encarregada das seguintes tarefas:
 
@@ -5670,7 +5665,7 @@ b) A pedido de Partes não contratantes ou de outras organizações internaciona
 
 5 - Para facilitar a execução das suas tarefas, a Organização pode, por decisão da Assembleia Geral, criar empresas que serão regidas por estatutos específicos ao abrigo do direito internacional público ou do direito nacional de uma Parte Contratante, ou adquirir uma participação maioritária no capital dessas empresas.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A presente Convenção aplica-se aos serviços de navegação aérea de rota e aos serviços conexos de aproximação e de aeródromo ligados ao tráfego aéreo nas regiões de informação de voo enumeradas no anexo II.
 
@@ -5682,11 +5677,11 @@ b) Qualquer alteração que não tenha um tal efeito será todavia notificada à
 
 Com base num acordo especial, tal como previsto na alínea b) do n.º 2 do artigo 2.º, uma Parte Contratante pode solicitar que a expressão «tráfego aéreo» se aplique ao resto do tráfego que opera no seu território.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A Organização tem personalidade jurídica. No território das Partes Contratantes é-lhe reconhecida a plena capacidade jurídica atribuída pelas respectivas legislações às pessoas colectivas; pode, nomeadamente, adquirir ou alienar bens móveis ou imóveis e estar em juízo. Salvo em caso de disposições contrárias contidas na presente Convenção ou nos estatutos que figuram no anexo I, a Organização é representada pela Agência, que age em seu nome. O património da Organização é gerido pela Agência.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - A Assembleia Geral é composta por representantes das Partes Contratantes a nível ministerial. Cada uma das Partes Contratantes pode designar vários delegados, a fim de permitir, nomeadamente, a representação dos interesses tanto da aviação civil como da defesa nacional, mas só terá direito a um único voto.
 
@@ -5696,7 +5691,7 @@ A Organização tem personalidade jurídica. No território das Partes Contratan
 
 4 - Os representantes de organizações internacionais que possam contribuir para o trabalho da Organização poderão ser convidados, se for caso disso, pela Assembleia Geral ou pelo Conselho, a tomar parte, na qualidade de observadores, nos trabalhos da Organização.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A Assembleia Geral toma decisões relativamente às Partes Contratantes, ao Conselho e à Agência, nomeadamente nos casos previstos na alínea a) do n.º 2 do artigo 1.º
 
@@ -5732,7 +5727,7 @@ b) Delegar no Conselho, sempre que necessário, o poder de tomar decisões nos d
 
 c) Criar qualquer outro órgão subordinado quando considere necessário.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O Conselho, conforme os poderes que lhe confere a presente Convenção, pode tomar decisões relativas às Partes Contratantes no que diz respeito às tarefas referidas no n.º 1 do artigo 2.º
 
@@ -5774,7 +5769,7 @@ m) Aquando da execução das tarefas referidas na alínea f) do n.º 1 do artigo
 
 7 - O Conselho pode conceder uma delegação de atribuições e, dentro de limites bem definidos, uma delegação de poderes ao Comité Permanente de Interface Civil/Militar e a qualquer outro comité criado após a entrada em vigor da Convenção. Estas delegações de atribuições ou de poderes não constituem obstáculo à faculdade, para o Conselho, de avocar a si em qualquer momento uma questão no âmbito da sua missão de supervisão geral.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As decisões tomadas relativamente às Partes Contratantes pela Assembleia Geral, nomeadamente com base na alínea a) do n.º 2 do artigo 1.º e da primeira alínea do n.º 1 do artigo 6.º, ou pelo Conselho, nomeadamente com base na alínea b) do n.º 2 do artigo 1.º e do n.º 1 do artigo 7.º, são adoptadas por maioria dos votos expressos, na condição de que essa maioria represente pelo menos três quartos dos votos ponderados expressos, de acordo com a ponderação prevista no artigo 11.º a seguir, e pelo menos três quartos das Partes Contratantes que votarem.
 
@@ -5790,7 +5785,7 @@ Esta regra é igualmente aplicável para as decisões tomadas nos casos menciona
 
 4 - As decisões tomadas pela Assembleia Geral e pelo Conselho são obrigatórias relativamente às Partes Contratantes e à Agência sob reserva das disposições do artigo 9.º
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Se uma Parte Contratante notificar a Assembleia Geral ou o Conselho da existência de razões imperativas de interesse nacional relativas à defesa nacional ou à segurança que a impedem de dar execução a uma decisão tomada por maioria dos votos expressos nas condições previstas no n.º 1 do artigo 8.º acima, pode opor-se em relação a si a essa decisão, sob reserva de comunicação à Assembleia Geral ou ao Conselho dos motivos, e uma declaração especificando se:
 
@@ -5804,7 +5799,7 @@ b) Em caso de aplicação das modalidades previstas na alínea b) do n.º 1, a i
 
 3 - Em caso de guerra ou de conflito, as disposições da presente Convenção não podem afectar a liberdade de acção de nenhuma das Partes Contratantes envolvidas. É aplicado o mesmo princípio em caso de situação de crise ou de emergência nacional. Qualquer uma das Partes Contratantes pode, nomeadamente, retomar temporariamente a responsabilidade, total ou parcial, dos serviços do tráfego aéreo no espaço aéreo da sua competência por razões imperativas de interesse nacional, nomeadamente no domínio da defesa. A arquitectura do sistema europeu de gestão do tráfego aéreo deveria permitir a retomada efectiva destes serviços em conformidade com as necessidades das Partes Contratantes.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - As contribuições anuais de cada uma das Partes Contratantes para o orçamento são, para cada exercício, determinadas de acordo com a fórmula de repartição seguinte:
 
@@ -5816,7 +5811,7 @@ b) Uma segunda fracção, equivalente a 70% da contribuição, é calculada prop
 
 3 - A base de custos que é tida em consideração para o cálculo das taxas de rota é aquela que foi estabelecida para o penúltimo ano anterior ao exercício orçamental em questão.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - A ponderação prevista no artigo 8.º é determinada de acordo com o seguinte quadro:
 
@@ -5862,11 +5857,11 @@ De 27% a menos de 30% ... 15
 
 4 - O número de votos é redefinido anualmente de acordo com as disposições precedentes.
 
-###### Artigo 12.º
+Artigo 12.º
 
 A Assembleia Geral e o Conselho estabelecem o seu Regulamento Interno, que fixa, nomeadamente, as regras que regem a eleição de um Presidente e de um Vice-Presidente, assim como as regras de aplicação do processo de escrutínio e do quórum.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - A Organização manterá com os Estados e as outras organizações internacionais interessadas as relações que sejam úteis à realização do seu objecto.
 
@@ -5874,15 +5869,15 @@ A Assembleia Geral e o Conselho estabelecem o seu Regulamento Interno, que fixa,
 
 3 - A Assembleia Geral pode, mediante proposta do Conselho, delegar neste último a decisão de concluir os acordos especiais necessários à execução das tarefas previstas no artigo 2.º
 
-###### Artigo 14.º
+Artigo 14.º
 
 Os acordos especiais previstos no artigo 2.º deverão estabelecer as tarefas, direitos e obrigações respectivos das Partes nos acordos, bem como as condições financeiras, e determinar as medidas a tomar. Estes acordos podem ser negociados pela Agência, nas condições previstas na alínea k) do n.º 2 do artigo 7.º
 
-###### Artigo 15.º
+Artigo 15.º
 
 No quadro das directivas dadas pelo Conselho, a Agência pode estabelecer com os serviços técnicos interessados, públicos ou privados, das Partes Contratantes, de Partes não contratantes ou de organismos internacionais, as relações indispensáveis à coordenação do tráfego aéreo e ao funcionamento dos seus próprios serviços. Para este efeito poderá celebrar contratos de carácter puramente administrativo, técnico ou comercial em nome da Organização sob reserva de comunicação ao Conselho, sempre que estes acordos sejam considerados necessários ao seu funcionamento.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Reconhece-se o carácter de utilidade pública, quando necessário, de acordo com as legislações nacionais, com os efeitos decorrentes das respectivas disposições relativas à expropriação por utilidade pública, às aquisições imobiliárias necessárias para implantação das instalações da Organização, mediante acordo dos Governos interessados. O processo de expropriação por utilidade pública poderá ser conduzido pelas autoridades competentes do Estado em questão, nos termos da sua legislação nacional, tendo em vista a realização destas aquisições, na falta de acordo amigável.
 
@@ -5892,15 +5887,15 @@ No quadro das directivas dadas pelo Conselho, a Agência pode estabelecer com os
 
 4 - A Organização assumirá os encargos decorrentes da aplicação das disposições do presente artigo, incluindo as indemnizações devidas nos termos da legislação do Estado em cujo território os bens se encontram situados.
 
-###### Artigo 17.º
+Artigo 17.º
 
 No desempenho das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, a Agência aplicará os regulamentos em vigor nos territórios das Partes Contratantes e nos espaços aéreos para os quais lhe esteja confiada a prestação dos serviços de tráfego aéreo nos termos dos acordos internacionais de que sejam parte.
 
-###### Artigo 18.º
+Artigo 18.º
 
 No desempenho das tarefas previstas na alínea b) do n.º 2 do artigo 2.º e dentro dos limites dos direitos conferidos respectivamente aos serviços de gestão dos fluxos de tráfego e aos serviços de tráfego aéreo, a Agência dá aos comandantes de bordo todas as instruções necessárias. Estes deverão dar-lhes cumprimento, salvo nos casos de força maior previstos nos regulamentos citados no artigo anterior.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - No exercício das tarefas previstas na alínea e) do n.º 1 do artigo 2.º, a Organização determina, em conformidade com as condições gerais previstas na alínea d) do n.º 1 do artigo 7.º, as medidas de regulação necessárias e comunica-as aos operadores de aeronaves e aos serviços apropriados do tráfego aéreo. As Partes Contratantes assegurar-se-ão de que os operadores de aeronaves, os comandantes de bordo e os serviços apropriados de tráfego aéreo respeitam essas medidas, salvo razão imperiosa de segurança.
 
@@ -5914,17 +5909,17 @@ b) Pela Organização, em conformidade com as regras de competência enunciadas 
 
 4 - As Partes Contratantes têm a obrigação de incorporar na sua legislação nacional as disposições que assegurem o respeito das condições gerais previstas na alínea d) do n.º 1 do artigo 7.º
 
-###### Artigo 20.º
+Artigo 20.º
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, as infracções aos regulamentos da navegação aérea cometidas no espaço onde a Agência executa essas tarefas serão registadas em relatórios elaborados por agentes especialmente nomeados pela Agência para este efeito, sem prejuízo do direito reconhecido pelas legislações nacionais aos agentes das Partes Contratantes de verificar as infracções da mesma natureza. Os relatórios acima referidos têm junto dos tribunais nacionais o mesmo valor que os efectuados pelos agentes nacionais qualificados para registar as infracções da mesma natureza.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - A circulação das publicações e de outros suportes de informação expedidos pela Organização ou a ela destinados, e que se relacionem com as suas actividades oficiais, não está sujeita a quaisquer restrições.
 
 2 - Para as suas comunicações oficiais e transferência de toda a sua documentação, a Organização beneficia de tratamento tão favorável como o concedido por cada Parte Contratante às outras organizações internacionais similares.
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - A Organização está isenta, no território das Partes Contratantes, de todos os direitos e taxas por ocasião da sua constituição, dissolução e liquidação.
 
@@ -5938,7 +5933,7 @@ No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se
 
 6 - As isenções previstas neste artigo não abrangem os impostos e taxas cobrados para remuneração de serviços de utilidade geral.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - A Organização está isenta de todos os direitos alfandegários e taxas de efeito equivalente que não sejam taxas devidas por serviços prestados e isenta de todas as proibições e restrições de importação ou exportação relativas a materiais, equipamentos, mobiliário e outros objectos importados para uso oficial da Organização e destinados aos imóveis e instalações da Organização ou ao seu funcionamento.
 
@@ -5948,13 +5943,13 @@ No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se
 
 4 - A Organização está isenta de todos os direitos alfandegários e de qualquer proibição ou restrição à importação ou exportação das publicações citadas no artigo 13.º dos Estatutos anexos.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - A Organização pode deter quaisquer divisas e possuir contas bancárias em quaisquer moedas de acordo com as suas necessidades para a execução das operações que constituem o seu objecto.
 
 2 - As Partes Contratantes comprometem-se a conceder à Organização as necessárias autorizações para efectuar, segundo as modalidades previstas nas regulamentações nacionais e nos acordos internacionais aplicáveis, todos os movimentos de fundos resultantes da constituição e da actividade da Organização, incluindo a emissão e o serviço de empréstimos, quando a emissão destes últimos tiver sido autorizada pelo Governo da Parte Contratante envolvida.
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - A Agência pode recorrer à colaboração de pessoas qualificadas nacionais das Partes Contratantes.
 
@@ -5980,21 +5975,21 @@ c) Goza de inviolabilidade de todos os seus papéis e documentos oficiais.
 
 8 - Os Governos interessados tomam todas as disposições úteis para assegurar a liberdade de transferência dos salários líquidos.
 
-###### Artigo 26.º
+Artigo 26.º
 
 Os representantes das Partes Contratantes, no exercício das suas funções bem como durante as suas viagens para ou do local de reunião, gozam de inviolabilidade para todos os seus papéis e documentos oficiais.
 
-###### Artigo 27.º
+Artigo 27.º
 
 Como resultado do seu regime próprio de previdência social, a Organização, o Director-Geral e o pessoal da Organização estão isentos de quaisquer contribuições obrigatórias devidas a organismos nacionais de previdência social, sem prejuízo dos acordos existentes entre a Organização e uma Parte Contratante aquando da entrada em vigor do Protocolo aberto para assinatura em Bruxelas em 1997.
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - A responsabilidade contratual da Organização rege-se pela lei aplicável ao contrato em causa.
 
 2 - No que se refere à responsabilidade não contratual, a Organização deverá indemnizar os prejuízos causados por falta cometida pelos seus órgãos ou agentes no desempenho das suas funções, na medida em que estes prejuízos lhe possam ser imputados. A disposição precedente não exclui o direito a outras indemnizações com base na legislação nacional das Partes Contratantes.
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - a) As instalações da Organização são invioláveis. Os bens e haveres da Organização estão isentos de qualquer requisição, expropriação e confisco.
 
@@ -6004,25 +5999,25 @@ b) Os arquivos da Organização e todos os papéis e documentos oficiais que lhe
 
 3 - De qualquer modo, para efectuar inquéritos judiciais e assegurar a execução das decisões judiciais no respectivo território, as autoridades competentes do Estado da Sede e doutros países onde estão situados estas instalações e arquivos têm acesso, após disso terem avisado o Director-Geral da Agência, às instalações e arquivos da Organização.
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - A Organização colaborará sempre com as autoridades competentes das Partes Contratantes, com vista a facilitar a boa administração da justiça, garantir o cumprimento dos regulamentos policiais e evitar qualquer abuso decorrente dos privilégios, imunidades, isenções ou facilidades enumerados na presente Convenção.
 
 2 - Na medida do possível, a Organização facilitará a realização dos trabalhos de interesse público a executar no território das Partes Contratantes no interior ou na vizinhança dos imóveis que se lhe encontram afectos.
 
-###### Artigo 31.º
+Artigo 31.º
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, as tarefas previstas na alínea b) do n.º 2 do artigo 2.º, os acordos internacionais e as regulamentações nacionais relativos ao acesso, sobrevoo e segurança do território das Partes Contratantes interessadas revestem carácter obrigatório para a Agência, que deverá tomar todas as medidas necessárias à sua aplicação.
 
-###### Artigo 32.º
+Artigo 32.º
 
 No desempenho das tarefas previstas na alínea e) do n.º 1 do artigo 2.º e, se for caso disso, das tarefas previstas na alínea b) do n.º 2 do artigo 2.º, a Agência é obrigada a fornecer às Partes Contratantes que apresentem o respectivo pedido todas as informações relativas às aeronaves de que tem conhecimento no exercício das suas funções referentes ao espaço aéreo da Parte Contratante implicada, a fim de permitir às referidas Partes Contratantes interessadas o controlo da aplicação dos acordos internacionais e das regulamentações nacionais.
 
-###### Artigo 33.º
+Artigo 33.º
 
 As Partes Contratantes reconhecem a necessidade para a Agência de dispor de equilíbrio financeiro e comprometem-se a colocar à sua disposição os meios financeiros adequados, nos limites e condições definidos na presente Convenção e nos Estatutos da Agência que figuram no anexo I.
 
-###### Artigo 34.º
+Artigo 34.º
 
 1 - Qualquer diferendo entre duas ou mais Partes Contratantes, ou entre uma ou mais Partes Contratantes e a Organização, a respeito da interpretação, da aplicação ou da execução da presente Convenção, nomeadamente no que diz respeito à sua existência, validade ou rescisão, e que não tenha podido ser regularizado num prazo de seis meses por via de negociações directas ou por qualquer outro modo, será submetido a arbitragem do Tribunal Permanente de Arbitragem de Haia, em conformidade com o Regulamento Facultativo de Arbitragem do referido Tribunal.
 
@@ -6032,7 +6027,7 @@ As Partes Contratantes reconhecem a necessidade para a Agência de dispor de equ
 
 4 - As decisões do Tribunal Permanente de Arbitragem são obrigatórias para as Partes no diferendo.
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - Sem prejuízo da aplicação das disposições do anexo IV em matéria de cobrança coerciva das taxas de rota, os tribunais das Partes Contratantes são os únicos competentes para julgar dos diferendos que poderão surgir entre a Organização, representada pelo Director-Geral da Agência, e qualquer pessoa singular ou colectiva, relativos à aplicação dos actos da Organização.
 
@@ -6046,7 +6041,7 @@ c) Onde o requerido possui activos patrimoniais na falta das regras de competên
 
 d) Onde o EUROCONTROL tem a sua sede, na falta das regras de competência enunciadas nas alíneas a) a c) acima.
 
-###### Artigo 36.º
+Artigo 36.º
 
 1 - As modificações introduzidas, ao abrigo das condições previstas na presente Convenção, nos Estatutos da Agência que constam do anexo I e nos artigos 16.º e seguintes das disposições relativas ao sistema comum de taxas de rota que constam do anexo IV são válidas e aplicáveis no território das Partes Contratantes.
 
@@ -6060,11 +6055,11 @@ Este acordo deverá ser aprovado, por unanimidade dos votos expressos, pela Asse
 
 5 - A Parte Contratante que deixou de estar vinculada pelo anexo IV pode, em qualquer altura, notificar a Assembleia Geral, por escrito, da sua vontade de ficar novamente vinculada pelas disposições do anexo IV. A Parte Contratante em questão ficará de novo vinculada pelo anexo IV seis meses depois de a Assembleia Geral ter aceite este pedido, estatuindo por unanimidade dos votos expressos das Partes Contratantes que participam no sistema comum. A referida Parte Contratante ficará vinculada pelo anexo IV por um período de cinco anos a contar do dia em que tiver ficado de novo vinculada pelo anexo IV. Este período será automaticamente prorrogado em condições idênticas às enunciadas no n.º 3 acima.
 
-###### Artigo 37.º
+Artigo 37.º
 
 As Partes Contratantes comprometem-se a fazer beneficiar a Agência das disposições legais em vigor que visam salvaguardar a continuidade dos serviços de utilidade geral necessários ao bom funcionamento dos serviços operacionais.
 
-###### Artigo 38.º
+Artigo 38.º
 
 1 - A presente Convenção, tal como modificada pelo Protocolo de 12 de Fevereiro de 1981 e, em seguida, pelo Protocolo aberto à assinatura em Bruxelas em 1997, é prorrogada por um período indeterminado.
 
@@ -6080,7 +6075,7 @@ Este acordo deverá ser aprovado, por unanimidade dos votos expressos, pela Asse
 
 5 - Se, em consequência do que acima se estabelece, a Organização for dissolvida, a sua personalidade e a sua capacidade jurídica, nos termos do artigo 4.º, subsistirão para efeitos da sua liquidação.
 
-###### Artigo 39.º
+Artigo 39.º
 
 1 - A adesão à presente Convenção emendada pelo Protocolo de 12 de Fevereiro de 1981 e pelo Protocolo aberto à assinatura em Bruxelas em 1997 de qualquer Estado não signatário deste último Protocolo é condicionada pelo acordo da Assembleia Geral estatuindo por unanimidade dos votos expressos.
 
@@ -6090,7 +6085,7 @@ Este acordo deverá ser aprovado, por unanimidade dos votos expressos, pela Asse
 
 4 - A adesão produzirá efeito no 1.º dia a seguir ao depósito do instrumento de adesão.
 
-###### Artigo 40.º
+Artigo 40.º
 
 1 - A adesão à presente Convenção, tal como emendada pelo Protocolo de 12 de Fevereiro de 1981 e pelo Protocolo aberto à assinatura em Bruxelas em 1997, será aberta às organizações regionais de integração económica nos termos e nas condições a acordar entre as Partes Contratantes e as referidas organizações de que são membros um ou vários Estados signatários, devendo estas condições figurar num Protocolo adicional à Convenção.
 
@@ -6100,9 +6095,11 @@ Este acordo deverá ser aprovado, por unanimidade dos votos expressos, pela Asse
 
 O presente texto consolidado da Convenção e os seus anexos são estabelecidos nas línguas alemã, inglesa, búlgara, croata, dinamarquesa, espanhola, francesa, grega, húngara, italiana, neerlandesa, norueguesa, portuguesa, romena, eslovaca, eslovena, sueca, checa e turca. Nos termos da cláusula final da Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL» de 13 de Dezembro de 1960, da cláusula final do Protocolo de 12 de Fevereiro de 1981 que emenda a referida Convenção, assim como da cláusula final do Protocolo aberto à assinatura em Bruxelas em 1997 e que consolida a referida Convenção na sequência das diversas modificações introduzidas, o texto em língua francesa fará fé em caso de divergência entre os textos.
 
-## ANEXO I — Estatutos da Agência
+ANEXO I
 
-###### Artigo 1.º
+Estatutos da Agência
+
+Artigo 1.º
 
 1 - A Agência é o órgão encarregado de prosseguir os objectivos e de executar as tarefas definidas pela Convenção ou fixadas pela Assembleia Geral ou pelo Conselho e os seus órgãos subordinados. Estabelece e submete aos órgãos competentes propostas relativas ao exercício das suas funções e à execução das suas tarefas, assim como às outras tarefas delegadas na Organização. Assiste igualmente a Assembleia Geral e o Conselho assim como os seus órgãos subordinados na execução das suas funções de supervisão.
 
@@ -6150,7 +6147,7 @@ d) Alertar os órgãos apropriados sempre que as aeronaves necessitem da ajuda d
 
 8 - Para o desempenho das suas atribuições, a Agência pode nomeadamente construir e explorar os edifícios e instalações de que necessite. Todavia, a Agência recorrerá aos serviços técnicos nacionais e utilizará as instalações nacionais existentes sempre que isso se justifique do ponto de vista técnico e económico, a fim de evitar sobreposições.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Sem prejuízo dos poderes reconhecidos à Assembleia Geral e ao Conselho, a Agência é administrada por um Director-Geral que beneficia de grande autonomia de gestão no que respeita à implementação, utilização e bom funcionamento dos meios técnicos, financeiros e humanos colocados à sua disposição. A esse título, toma as iniciativas que considerar necessárias para cumprir as suas obrigações.
 
@@ -6170,7 +6167,7 @@ a) Apresentar regularmente relatórios e solicitar instruções ao Conselho semp
 
 b) Negociar os acordos previstos no artigo 2.º da Convenção dentro do âmbito das directivas emitidas pelo Conselho.
 
-###### Artigo 3.º
+Artigo 3.º
 
 O Director-Geral elabora e submete à aprovação do Conselho o Regulamento dos Contratos relativo:
 
@@ -6180,11 +6177,11 @@ b) Ao fornecimento de bens e de serviços pela Organização;
 
 c) À venda ou à cessão de activos excedentários.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O Director-Geral elabora e submete à aprovação do Conselho o Regulamento Financeiro que fixa nomeadamente as condições que regulam o pagamento das contribuições nacionais, assim como as condições em que a Agência pode contrair empréstimos e vela pela boa gestão financeira, incluindo a auditoria interna.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Sem prejuízo do direito das Partes Contratantes de apresentar propostas, o Director-Geral elabora e submete à aprovação do Conselho o Estatuto Administrativo do Pessoal da Agência:
 
@@ -6194,7 +6191,7 @@ b) O pessoal da Agência é recrutado de entre os nacionais das Partes Contratan
 
 2 - O Tribunal Administrativo da Organização Internacional do Trabalho é o único competente, para decidir sobre qualquer litígio que oponha a Organização ao pessoal da Agência, com exclusão de qualquer outra jurisdição nacional ou internacional.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O Director-Geral é nomeado para um mandato de cinco anos, pela Assembleia Geral por maioria ponderada, desde que esta maioria atinja os três quartos dos votos ponderados expressos, segundo a ponderação prevista no artigo 11.º da Convenção, e pelo menos três quartos das Partes Contratantes que votarem. O seu mandato é renovável uma vez nas mesmas condições. O estatuto do Director-Geral é aprovado pelo Conselho.
 
@@ -6216,7 +6213,7 @@ e) Elabora e submete à aprovação do Conselho as regras e procedimentos aplic�
 
 5 - O Conselho determina as condições em que o Director-Geral pode ser substituído em caso de impedimento.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O orçamento deve ser equilibrado em receitas e despesas.
 
@@ -6226,7 +6223,7 @@ Todas as receitas e despesas da Agência deverão ser previstas para cada exerc�
 
 3 - O projecto de orçamento e de plano financeiro quinquenal é submetido à aprovação do Conselho pelo Director-Geral, o mais tardar até 31 de Outubro do ano precedente.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - A Organização pode obter, através de empréstimos nos mercados financeiros internacionais, os recursos necessários ao cumprimento das suas tarefas.
 
@@ -6238,11 +6235,11 @@ Todas as receitas e despesas da Agência deverão ser previstas para cada exerc�
 
 5 - Nos domínios abarcados pelo presente artigo, a Organização agirá de acordo com as autoridades competentes das Partes Contratantes ou com o seu banco emissor.
 
-###### Artigo 9.º
+Artigo 9.º
 
 O orçamento e o plano financeiro quinquenal podem ser revistos durante o exercício, se as circunstâncias assim o exigirem, nos termos das regras previstas para a sua elaboração e aprovação.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - As contas do conjunto das receitas e despesas do orçamento da Agência e a gestão financeira da Agência são verificadas anualmente por um comité de auditoria.
 
@@ -6254,25 +6251,27 @@ O orçamento e o plano financeiro quinquenal podem ser revistos durante o exerc�
 
 5 - O Comité de Auditoria pode examinar outras questões financeiras relativas à Agência em conformidade com o seu mandato.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Os serviços da Agência podem, a pedido do Conselho, por sua própria iniciativa ou a pedido do Director-Geral, ser objecto de inspecções administrativas e técnicas.
 
 2 - Estas inspecções serão efectuadas por agentes pertencentes às administrações das Partes Contratantes, com assistência externa se necessário. As missões de inspecção serão compostas por, pelo menos, duas pessoas de nacionalidade diferente. As missões de inspecção deveriam compreender, na medida do possível, uma pessoa que tenha já participado numa inspecção anterior.
 
-###### Artigo 12.º
+Artigo 12.º
 
 O Conselho determina as línguas de trabalho da Agência.
 
-###### Artigo 13.º
+Artigo 13.º
 
 A Agência procederá às publicações necessárias ao seu funcionamento.
 
-###### Artigo 14.º
+Artigo 14.º
 
 Todas as propostas de modificação aos Estatutos serão submetidas à aprovação da Assembleia Geral, em conformidade com as disposições da alínea d) do n.º 1 do artigo 6.º da Convenção.
 
-## ANEXO II — Regiões de informação de voo
+ANEXO II
+
+Regiões de informação de voo
 
 República Federal da Alemanha:
 
@@ -6402,7 +6401,7 @@ Região Superior de Informação de Voo Stavanger;
 
 Região Superior de Informação de Voo Trondheim;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Região de Informação de Voo Oslo;
 
@@ -6410,7 +6409,7 @@ Região de Informação de Voo Stavenger;
 
 Região de Informação de Voo Trondheim;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf))](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2001/05/103a00/24742567.pdf)
 
 Reino dos Países Baixos:
 
@@ -6466,9 +6465,11 @@ Região de Informação de Voo Ancara;
 
 Região de Informação de Voo Istambul.
 
-## ANEXO III — Disposições fiscais
+ANEXO III
 
-###### Artigo 1.º
+Disposições fiscais
+
+Artigo 1.º
 
 1 - Sem prejuízo das isenções previstas nos artigos 22.º e 23.º da Convenção, sempre que a Organização, no exercício das suas actividades oficiais, proceda a aquisições importantes de bens ou utilize serviços de valor importante em relação aos quais tenham sido ou venham a ser pagos impostos, direitos ou taxas indirectas (incluindo os impostos, direitos ou taxas cobradas à importação diferentes das mencionadas no n.º 1 do artigo 23.º da Convenção), os Governos dos Estados membros tomam, na medida do possível, as disposições adequadas para anular a incidência desses encargos, quer através do ajustamento das contribuições financeiras pagas à Organização quer através do reembolso à Organização do montante desses impostos, direitos ou taxas; estes podem igualmente ser objecto de isenção.
 
@@ -6476,11 +6477,11 @@ Região de Informação de Voo Istambul.
 
 3 - As disposições do presente artigo não se aplicam aos impostos, direitos ou taxas cobradas a título de remuneração de serviços de utilidade pública.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os bens adquiridos pela Organização aos quais se aplica o disposto no n.º 1 do artigo 1.º só podem ser vendidos ou cedidos de acordo com as condições fixadas pelos Governos dos Estados interessados.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O Director-Geral da Agência e os membros do pessoal da Organização são submetidos a um imposto a favor da Organização, sobre os vencimentos e salários que lhes são pagos pela referida Organização, em conformidade com as regras e as condições definidas pela Assembleia Geral. Os vencimentos e salários são isentos do imposto nacional sobre o rendimento.
 
@@ -6490,27 +6491,29 @@ Os vencimentos e salários isentos do imposto nacional sobre o rendimento podem,
 
 3 - Os nomes, títulos, moradas, remunerações e, se for caso disso, as pensões dos funcionários ou antigos funcionários aos quais são aplicadas as disposições dos n.os 1 e 2 do presente artigo serão comunicados periodicamente aos Estados membros.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Para fins de aplicação do presente anexo, a Organização age em concertação com as autoridades responsáveis dos Estados membros interessados.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - O presente anexo substitui o Protocolo Adicional à Convenção, assinado em Bruxelas, em 6 de Julho de 1970, tal como modificado pelo Protocolo assinado em Bruxelas, em 21 de Novembro de 1978, por sua vez modificados pelo artigo XXXVIII do Protocolo assinado em Bruxelas, em 12 de Fevereiro de 1981, que emenda a Convenção.
 
 2 - Não obstante as disposições do n.º 1 acima, as obrigações resultantes do artigo 3.º do Protocolo Adicional de 6 de Julho de 1970 continuam a produzir efeitos até ao apuramento completo dos créditos e obrigações.
 
-## ANEXO IV — Disposições relativas ao Sistema Comum de Taxas de Rota
+ANEXO IV
 
-###### Artigo 1.º
+Disposições relativas ao Sistema Comum de Taxas de Rota
+
+Artigo 1.º
 
 As Partes Contratantes acordam em continuar a gerir um sistema comum de estabelecimento, facturação e percepção de taxas de rota à razão de uma taxa única por voo e a utilizar para este efeito os serviços do EUROCONTROL.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A Organização determina, factura e cobra as taxas de rota imputadas aos utentes dos serviços da navegação aérea de rota sob proposta das Partes Contratantes que participam no Sistema Comum de Taxas de Rota.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Em matéria de taxas de rota, o Conselho constitui o órgão responsável pela determinação das modalidades de execução das decisões da Assembleia Geral tomadas no domínio das taxas de rota e pela supervisão das tarefas da Agência neste domínio.
 
@@ -6528,11 +6531,11 @@ e) Adoptar o Regulamento Financeiro aplicável ao Sistema de Taxas de Rota;
 
 f) Aprovar os anexos orçamentais relativos às actividades do EUROCONTROL em matéria de taxas de rota.
 
-###### Artigo 4.º
+Artigo 4.º
 
 As taxas de rota que figuram numa factura emitida pela Organização constituem uma taxa única devida por cada voo, que é um crédito único do EUROCONTROL pagável na sua sede.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - A taxa é devida pela pessoa que explorava a aeronave no momento em que o voo se efectuou. A taxa estabelece um privilégio creditório sobre a aeronave relativamente à qual a taxa é devida, independentemente de quem a explora, se a legislação da Parte Contratante implicada assim o permitir.
 
@@ -6542,13 +6545,13 @@ As taxas de rota que figuram numa factura emitida pela Organização constituem 
 
 4 - O operador e o proprietário são solidariamente responsáveis pelo pagamento da taxa se o direito da Parte Contratante implicada assim o permitir.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Sempre que o montante devido não tiver sido pago, podem ser tomadas medidas de cobrança coerciva, incluindo, nomeadamente, a retenção ou a venda de aeronave, se a legislação da Parte Contratante onde a aeronave tiver aterrado assim o permitir.
 
 2 - As medidas podem igualmente incluir, a pedido do EUROCONTROL, o reexame por uma Parte Contratante ou qualquer organismo competente, das autorizações administrativas ligadas à actividade de transporte aéreo ou à gestão do tráfego aéreo concedidas a um utente em dívida de pagamento da taxa, se a legislação correspondente assim o permitir.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O processo de cobrança coerciva do montante devido é desencadeado quer pelo EUROCONTROL quer, a pedido do EUROCONTROL, por uma Parte Contratante ou por qualquer órgão devidamente autorizado por uma Parte Contratante.
 
@@ -6556,7 +6559,7 @@ As taxas de rota que figuram numa factura emitida pela Organização constituem 
 
 3 - Cada Parte Contratante dará conhecimento ao EUROCONTROL dos procedimentos aplicáveis nesse Estado bem como das jurisdições ou autoridades administrativas competentes.
 
-###### Artigo 8.º
+Artigo 8.º
 
 O processo de cobrança coerciva é interposto no território da Parte Contratante:
 
@@ -6568,7 +6571,7 @@ c) Onde o devedor possuir bens, na impossibilidade de aplicação das regras de 
 
 d) Onde o EUROCONTROL tiver a sede, na impossibilidade de aplicação das regras de competência enunciadas nas alíneas a) a c) acima.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - As disposições dos artigos 5.º, 6.º, 7.º e 8.º não excluem que qualquer Parte Contratante, ou qualquer órgão autorizado por uma Parte Contratante, agindo a pedido do EUROCONTROL, possa proceder à cobrança do montante devido através da retenção ou venda forçada de aeronaves, em conformidade com o processo administrativo ou judiciário da Parte Contratante implicada.
 
@@ -6576,11 +6579,11 @@ d) Onde o EUROCONTROL tiver a sede, na impossibilidade de aplicação das regras
 
 3 - A validade e o efeito da retenção e da venda forçada são determinados pela legislação da Parte Contratante onde a retenção foi efectuada.
 
-###### Artigo 10.º
+Artigo 10.º
 
 O EUROCONTROL tem capacidade para intentar acções junto das jurisdições e das autoridades administrativas competentes dos Estados que não sejam partes na presente Convenção.
 
-###### Artigo 11.º
+Artigo 11.º
 
 São reconhecidas e executadas nas outras Partes Contratantes as decisões seguintes tomadas numa Parte Contratante:
 
@@ -6588,7 +6591,7 @@ a) As decisões judiciais definitivas;
 
 b) As decisões administrativas que tenham sido susceptíveis de recurso judicial, mas já não o são, quer porque a instância judicial não admitiu o recurso através de uma decisão definitiva, quer porque o requerente desistiu, quer por expiração do prazo de recurso.
 
-###### Artigo 12.º
+Artigo 12.º
 
 As decisões mencionadas no artigo 11.º não são reconhecidas nem executadas nos seguintes casos:
 
@@ -6604,11 +6607,11 @@ e) Se a decisão for inconciliável com uma decisão relativa às mesmas taxas d
 
 f) Se, para tomar a sua decisão, a instância judicial ou a autoridade administrativa da Parte Contratante de origem tiver, no tratamento de uma questão relativa ao estado ou à capacidade das pessoas físicas, aos regimes matrimoniais, aos testamentos e às sucessões, esquecido uma regra de direito internacional privado da Parte Contratante requerida, a menos que a sua decisão só chegasse ao mesmo resultado se tivessem sido aplicadas as regras de direito internacional privado desta Parte Contratante.
 
-###### Artigo 13.º
+Artigo 13.º
 
 As decisões mencionadas no artigo 11.º que tiverem força executória na Parte Contratante de origem são executadas de acordo com a legislação em vigor na Parte Contratante requerida. Sempre que necessário, a decisão será revestida da fórmula executória mediante simples requerimento por uma instância judicial ou uma autoridade administrativa da Parte Contratante requerida.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - O requerimento é acompanhado:
 
@@ -6622,25 +6625,25 @@ d) De qualquer documento que prove que a decisão é executória na Parte Contra
 
 2 - Uma tradução devidamente autenticada dos documentos será fornecida se a instância judicial ou a autoridade administrativa da Parte Contratante requerida o exigir. Não é requerida qualquer legalização ou formalidade análoga.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O requerimento só pode ser rejeitado por um dos motivos previstos no artigo 12.º Em nenhum caso a decisão poderá ser objecto de revisão quanto ao fundo na Parte Contratante requerida.
 
 2 - O processo relativo ao reconhecimento e à execução da decisão é regulado pela lei da Parte Contratante requerida na medida em que a presente Convenção nada estabeleça em contrário.
 
-###### Artigo 16.º
+Artigo 16.º
 
 O montante cobrado pelo EUROCONTROL será enviado às Partes Contratantes nas condições estabelecidas por decisão do Conselho.
 
-###### Artigo 17.º
+Artigo 17.º
 
 Sempre que uma Parte Contratante tenha cobrado um crédito, o montante efectivamente cobrado é remetido imediatamente ao EUROCONTROL que aplicará o procedimento previsto no artigo 16.º As despesas de cobrança incorridas por essa Parte Contratante constituem encargo do EUROCONTROL.
 
-###### Artigo 18.º
+Artigo 18.º
 
 As autoridades competentes das Partes Contratantes cooperam com o EUROCONTROL no estabelecimento e percepção das taxas de rota.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Se o Conselho decidir por unanimidade abandonar a cobrança de uma taxa, as Partes Contratantes interessadas podem tomar todas as medidas que julgarem adequadas. Nesse caso, as disposições da presente Convenção relativas à cobrança coerciva, ao reconhecimento e à execução das decisões deixam de ser aplicáveis.
 
@@ -6660,7 +6663,9 @@ Os membros da Comissão Permanente encontrarão, em anexo, para aprovação e tr
 
 Note-se que uma terceira resolução relativa à adesão da Comunidade Europeia poderia ser redigida na sequência da reunião do Conselho dos Transportes da União Europeia em 18 e 19 de Junho de 1997, e submetida à assinatura da Conferência Diplomática.
 
-## ANEXO 1 — Resolução que convida os Estados membros a ratificar o Protocolo em tempo oportuno
+ANEXO 1
+
+Resolução que convida os Estados membros a ratificar o Protocolo em tempo oportuno
 
 A Conferência dos Plenipotenciários da República Federal da Alemanha, da República da Áustria, do Reino da Bélgica, da República da Bulgária, da República de Chipre, da República da Croácia, do Reino da Dinamarca, do Reino de Espanha, da República Francesa, do Reino Unido da Grã-Bretanha e da Irlanda do Norte, da República Helénica, da República da Hungria, da Irlanda, da República Italiana, do Grão-Ducado do Luxemburgo, da República de Malta, do Principado do Mónaco, do Reino da Noruega, do Reino dos Países Baixos, da República Portuguesa, da Roménia, da República Eslovaca, da República da Eslovénia, do Reino da Suécia, da Confederação Suíça, da República Checa e da República da Turquia:
 
@@ -6674,7 +6679,9 @@ Solicita a todas as Partes Contratantes que ratifiquem, aceitem ou aprovem, o ma
 
 Convida o Director-Geral do EUROCONTROL a tomar todas as disposições de ordem prática, em cooperação com as Partes Contratantes, para fornecer, se for caso disso, a assistência necessária no âmbito do processo de ratificação, de aceitação ou de aprovação do referido Protocolo.
 
-## ANEXO 2 — Resolução Relativa à Implementação Antecipada do Protocolo
+ANEXO 2
+
+Resolução Relativa à Implementação Antecipada do Protocolo
 
 A Conferência dos Plenipotenciários da República Federal da Alemanha, da República da Áustria, do Reino da Bélgica, da República da Bulgária, da República de Chipre, da República da Croácia, do Reino da Dinamarca, do Reino de Espanha, da República Francesa, do Reino Unido da Grã-Bretanha e da Irlanda do Norte, da República Helénica, da República da Hungria, da Irlanda, da República Italiana, do Grão-Ducado do Luxemburgo, da República de Malta, do Principado do Mónaco, do Reino da Noruega, do Reino dos Países Baixos, da República Portuguesa, da Roménia, da República Eslovaca, da República da Eslovénia, do Reino da Suécia, da Confederação Suíça, da República Checa e da República da Turquia:
 
@@ -6690,7 +6697,9 @@ Reiterando o seu empenhamento em implementar, através das disposições da Conv
 
 convida todas as Partes Contratantes a envidar os esforços necessários com vista à implementação antecipada de certas disposições da Convenção revista.
 
-## ANEXO 3 — Declaração Conjunta sobre o Projecto de Regulamento EUROCONTROL sobre a Protecção dos Dados
+ANEXO 3
+
+Declaração Conjunta sobre o Projecto de Regulamento EUROCONTROL sobre a Protecção dos Dados
 
 A Conferência dos Plenipotenciários da República Federal da Alemanha, da República da Áustria, do Reino da Bélgica, da República da Bulgária, da República de Chipre, da República da Croácia, do Reino da Dinamarca, do Reino de Espanha, da República Francesa, do Reino Unido da Grã-Bretanha e da Irlanda do Norte, da República Helénica, da República da Hungria, da Irlanda, da República Italiana, do Grão-Ducado do Luxemburgo, da República de Malta, do Principado do Mónaco, do Reino da Noruega, do Reino dos Países Baixos, da República Portuguesa, da Roménia, da República Eslovaca, da República da Eslovénia, do Reino da Suécia, da Confederação Suíça, da República Checa e da República da Turquia:
 
@@ -6702,7 +6711,7 @@ faz a declaração conjunta seguinte:
 
 Os Estados Signatários comprometem-se a tomar todas as disposições para que o Conselho aprove, o mais rapidamente possível, um regulamento interno relativo à protecção dos dados da Organização EUROCONTROL.
 
-## ANEXO 4
+ANEXO 4
 
 Protocolo adicional referente à substituição do Acordo Multilateral Relativo às Taxas de Rota de 12 de Fevereiro de 1981 pelo anexo IV («Disposições relativas ao Sistema Comum de Taxas de Rota») à Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL», consolidada pelo Protocolo aberto à assinatura em Bruxelas em 1997.
 
@@ -6724,11 +6733,11 @@ Considerando que uma tal substituição só é possível mediante consentimento 
 
 acordaram nas disposições seguintes:
 
-###### Artigo 1.º
+Artigo 1.º
 
 A partir da entrada em vigor do Protocolo de 27 de Junho de 1997 que consolida a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea «EUROCONTROL» de 13 de Dezembro de 1960 na sequência das diversas modificações introduzidas, o Acordo Multilateral relativo às Taxas de Rota de 12 de Fevereiro de 1981 é revogado.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O Governo do Reino da Bélgica registará o presente Protocolo adicional junto do Secretário-Geral das Nações Unidas, em conformidade com o disposto no artigo 102.º da Carta das Nações Unidas e junto do Conselho da Organização da Aviação Civil Internacional, em conformidade com o artigo 83.º da Convenção relativa à Aviação Civil Internacional assinada em Chicago em 7 de Dezembro de 1944.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/485/1992/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-1992-300415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1071ff8ae97e14fabff23a059860f4665a675fcd153c108c25162f0a8365233a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab062ffe18ec7485786a6631d112b2ca43db72f0120de1d40e3be575e12f1cb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,33 @@ subjects:
 - Conservação de Documentos
 - Prazo de Conservação
 - Regulamento Arquivistico
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564586:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:19Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +121,7 @@ Manda o Governo, pelo Subsecretário de Estado da Cultura, o seguinte:
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 20 de Maio de 1992.**
+Assinada em 20 de Maio de 1992.
 
 O Subsecretário de Estado da Cultura, António Costa de Albuquerque de Sousa Lara.
 
@@ -163,4 +179,4 @@ Tabela anexa
 
 ## ANEXO — Tabela de avaliação e selecção de documentação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/134b00/28012803.pdf))](https://files.diariodarepublica.pt/1s/1992/06/134b00/28012803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/134b00/28012803.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/1992/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-1992-144257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf864ebeefc5b6037066698a2fc7fe51c1c8e7635fd5df49d488304bd3bb171a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fef8aafdbada9b698a6b308ded40a3df14a5f6f609b23e2135a30572549e2568
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Reserva Agrícola Nacional
 - Política de Solos
+- Reserva Agrícola Nacional
 - VILA NOVA de Paiva
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:54Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +110,14 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 20 de Dezembro de 1991.**
+Assinada em 20 de Dezembro de 1991.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 39/92
+Anexo a que se refere o n.º 1.º da Portaria n.º 39/92
 
 Carta da Reserva Agrícola Nacional
 
 Município de Vila Nova de Paiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/016b00/03370337.pdf))](https://files.diariodarepublica.pt/1s/1992/01/016b00/03370337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/016b00/03370337.pdf)

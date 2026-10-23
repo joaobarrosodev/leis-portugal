@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 154/1991, 2º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3494-(89) a 3494-(90)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b02/00890090.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-o4/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-o4-1991-205853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 048b5cfc9d742505cc67be19b432fc55a799e8e4a0fc60ff27b4493ed304437a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c111d4cddea91794de017197bab315e7cccbe673735f6900a1a29ab902df74ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,45 @@ relationships:
   target: pt:dre:216163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216163:por
+  label: "Renovada por doze anos a concessão de zona de caça pela PORT.240/2003.2003.03.18.MECO DR.IS-B [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-2003-216163
+  date: '2003-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:45Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +145,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b02/00890090.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b02/00890090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/00890090.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/213b00/48904891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/935/1991/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-1991-300463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d1591f7146d5e2707b11d6ba761bbe338c3485a7222e1fe8a56dc2a1c11aa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2afc184c669918895a5a86c38a18435c72b0b406d10759392c6e72622d680de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Bolsa de Valores
+- CMVM
 - Código do Mercado de Valores Mobiliários
 - Mercado de Capitais
-- CMVM
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:682983:por
@@ -79,16 +79,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222990:por
+  label: "Revogado o Capítulo I pela PORT.710/94.08.08.1994.MF, DR.IS-B [182] de 08.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1994-222990
+  date: '1994-08-08'
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogada, com a entrada em vigor do Código dos Valores Mobiliários (aprovado pelo Dec Lei 486/99, de 13-Nov), pelo\
+    \ DEC LEI.486/99.1999.11.13.MF DR.IS-A [265] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:40Z'
   warnings: []
   errors: []
 ---
@@ -169,6 +184,6 @@ f) Ser, por qualquer outro motivo, a emissão ilegal ou envolver fraude à lei.
 
 Ministério das Finanças.
 
-**Assinada em 9 de Julho de 1991.**
+Assinada em 9 de Julho de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/61/2006/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/61-2006-545462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef35bbab0247bf127b88b012a612df3afab63d3b3e20295787d01bdd2f8550be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34bd48fbf2040af64d27190f87fae242ea4a9f343b1645a3ef70f16a30038eab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,39 @@ subjects:
 - Ajuda Judicial
 - CE Países
 - Convenção
-- Portugal
-- União Europeia
 - Direito Penal
 - Luxemburgo
+- Portugal
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:108028570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545474:por
+  label: "Ratificado o Protocolo da Convenção Relativa ao Auxílio Judiciário Mútuo em Matéria Penal, aprovado para ratificação\
+    \ pelo presente diploma, pelo DEC.119/2006.06.12.2006.PR, DR.IS [234] de 06.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/119-2006-545474
+  date: '2006-12-06'
+- type: amended_by
+  target: pt:dre:108028570:por
+  label: Substituídas, a partir de 22.08.2017, as disposições correspondentes da Convenção relativa ao Auxílio Judiciário
+    Mútuo em Matéria Penal entre os Estados Membros da União Europeia, aprovada pela Res 63/2001 de 16-out AR, e do respetivo
+    Protocolo, aprovado pela presente Resolução, pelo(a) Lei n.º 88/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21
+    nos termos do seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-2017-108028570
+  date: '2017-08-21'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:28Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +115,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOLO DA CONVENÇÃO RELATIVA AO AUXÍLIO JUDICIÁRIO MÚTUO EM MATÉRIA PENAL ENTRE OS ESTADOS MEMBROS DA UNIÃO EUROPEIA, ELABORADO PELO CONSELHO NOS TERMOS DO ARTIGO 34.º DO TRATADO DA UNIÃO EUROPEIA.
 
@@ -273,7 +287,7 @@ O artigo 8.º consiste em medidas que alteram ou se fundamentam nas disposiçõe
 
 ###### Artigo 17.º — Depositário
 
-**O Secretário-Geral do Conselho da União Europeia é depositário do presente Protocolo.**
+O Secretário-Geral do Conselho da União Europeia é depositário do presente Protocolo.
 
 O depositário publica no Jornal Oficial da União Europeia as informações relevantes sobre a evolução da situação em termos de adopções ou adesões, as declarações, bem como qualquer outra notificação relativa ao presente Protocolo.
 

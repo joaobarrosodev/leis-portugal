@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/981/1991/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/981-1991-291974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46795c9e92387410f8cdfbd920d6cf871879936a1a177a607c683a0c0024227e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb66515688cd16aeb8754db9b5223071394edee68ccaa2fdb7ba30339bbc5673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,21 +71,41 @@ reuse:
 subjects:
 - Combustível
 - Gasoduto
+- Normalização
 - Normas de Construção
 - Regulamento
 - Segurança dos Edifícios
-- Normalização
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:556819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:45Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +178,11 @@ Cofragem lateral em chapa de aço, de acordo com a figura (e);
 
 Cobertura em placas de betão armado, de acordo com a figura (f).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf))](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf)
 
 Quadro III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf))](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/221b00/50365037.pdf)
 
 4 - ...
 
@@ -208,6 +228,6 @@ Quadro III
 
 Ministério da Indústria e Energia.
 
-**Assinada em 26 de Abril de 1991.**
+Assinada em 26 de Abril de 1991.
 
 Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia.

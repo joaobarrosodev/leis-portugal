@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/539/1992/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/539-1992-303422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd289cfa2ff0e833c30ca6e1e8ebc57cfa95bd718d99bda03fdb0ebf317da612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b9b3bb01d32cf5e3806b4e2aaff7183fab8722647b9b416f95c8ddd10f31e42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,65 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Idanha-a-nova
 - Castelo Branco
+- Idanha-a-nova
 relationships:
 - type: amended_by
   target: pt:dre:203454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271260:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça concessionada pelo presente diploma,\
+    \ pela PORT.717/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/717-2004-271260
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:577513:por
+  label: "Renovada, por um período de doze anos, a concessão da zona de caça turística atribuída pelo presente diploma, pela\
+    \ Port 1346/2004, de 21-Out, DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1346-2004-577513
+  date: '2004-10-21'
+- type: amended_by
+  target: pt:dre:203454:por
+  label: "Anexados vários prédios rústicos à zona de caça turística da Várzea, concessionada pela Port. 1346/2004, de 21-Out,\
+    \ renovada pelo presente diploma, pela PORT.8/2006.04.01.2006.MAOTDR, DR.IS-B [3] de 04.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/8-2006-203454
+  date: '2006-01-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:35Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/142b00/29392940.pdf))](https://files.diariodarepublica.pt/1s/1992/06/142b00/29392940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/142b00/29392940.pdf)

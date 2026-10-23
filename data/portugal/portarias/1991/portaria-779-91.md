@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/779/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/779-1991-682246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85bb391c9af56b02c8efa6f712dc943c484e727ecc0e07f9ff079d1dc1d01bc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b26bad7235849c52d0c78741f7a4b49cdb6ab57aa2429217e493e7b4d83210a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,13 +75,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:53Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +100,6 @@ Manda o Governo, pelos Secretários de Estado dos Assuntos Fiscais e das Pescas,
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Julho de 1991.**
+Assinada em 19 de Julho de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa. - O Secretário de Estado das Pescas, João Casimiro Marçal Alves.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa. - O Secretário de Estado das Pescas, João Casimiro Marçal Alves.

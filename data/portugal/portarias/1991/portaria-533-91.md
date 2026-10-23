@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/533/1991/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1991-659557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb066f5d8f52ba017bef2c1c431bb62fe36ec71911f545bd919cfb60360bc8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c8d0eee867df7364b8f2eae38bec657d2b241da85780c94085c91ade0eec257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ subjects:
 - Direcção Geral das Relações Colectivas de Trabalho
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:55Z'
   warnings: []
   errors: []
 ---
@@ -97,10 +109,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 29 de Maio de 1991.**
+Assinada em 29 de Maio de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, Jorge Hernâni de Almeida Seabra, Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social.
 
 Mapa anexo à Portaria n.º 533/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/139b00/31853186.pdf))](https://files.diariodarepublica.pt/1s/1991/06/139b00/31853186.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/139b00/31853186.pdf)

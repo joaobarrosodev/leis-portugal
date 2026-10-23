@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1990-555003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14aa8f9ac099618b31b55e05f58dab7e7c949f765be90c9941131fac2da699f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399c3bda12f4bfc49dfcb8cbe4d676b38698320c4ebf3871da6c32c7aed7f8aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estanho
+- Estatuto
+- Grupo Internacional de Estudo do Estanho
+relationships:
+- type: amended_by
+  target: pt:dre:554995:por
+  label: "Ratificados os Estatutos pelo DEC.53/90.27.09.1990.PR, DR.IS [224] de 27.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/53-1990-554995
+  date: '1990-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:46Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Julho de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 STATUTS DU GROUPE D'ÉTUDE INTERNATIONAL DE L'ÉTAIN
 
@@ -250,7 +258,7 @@ ANNEXE
 
 Commerce de l'étain (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf)
 
 (nota a) Moyenne annuelle pour la période 1985-1987 des importations. et des exportations d'étain contenu dans des concentrés et d'étain métal primaire pour les pays ayant participé à la Conférence des Nations Unies sur l'étain, 1988.
 
@@ -412,6 +420,6 @@ Reservas
 
 ## ANEXO — Comércio do estanho (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/22400/40074014.pdf)
 
 (nota a) Média anual para o período de 1985-1987 das importações e das exportações de estanho contido em concentrados e de estanho metal primário para os países que participaram na Conferência das Nações Unidas sobre o Estanho, 1988.

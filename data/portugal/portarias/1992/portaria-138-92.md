@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/138/1992/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-1992-168418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4332162b851b3406d028ea6bb11945c68105c44d50dc9d288af5e64638494ed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a84e31b9c3774200675dfa4b338e52e3831f8d32e50ccfa3322915db039373c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,17 @@ relationships:
   target: pt:dre:401923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO O QUADRO DE PESSOAL PELA PORT 458/93 DE 30-ABR DR.IS-B [101]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DOUTOR JOSÉ MARIA GRANDE (HOSPITAL DISTRITAL DE PORTALEGRE), PELA PORT\
+    \ 415/96 DE 27-AGO DR.IS-B [198]\0AGO DR.IS-B [198]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/392/1991/05/09/p/dre
   label: null
@@ -81,16 +92,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666531:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:41Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +188,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 5 de Fevereiro de 1992.**
+Assinada em 5 de Fevereiro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Portalegre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/053b00/11541157.pdf))](https://files.diariodarepublica.pt/1s/1992/03/053b00/11541157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/053b00/11541157.pdf)

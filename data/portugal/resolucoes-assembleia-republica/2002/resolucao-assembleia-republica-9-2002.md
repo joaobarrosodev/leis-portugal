@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/2002/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-2002-279835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2d919edd34fdce7c7ed072bcbeb151c305deecb411ab08c4a9a68be74af98fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee4858dc27870ee7ee18bb7c7b21a38dc376e5bacae38bab88bbaaa05518683f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,24 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Bilateral
-- Portugal
 - Lisboa
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:279833:por
+  label: "Ratificado o Acordo pelo DEC.8/2002.2002.02.25.PR DR.IS-A [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-2002-279833
+  date: '2002-02-25'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:43Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE AMIZADE E COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A UCRÂNIA
 
@@ -213,11 +218,11 @@ Feito em Lisboa, em 25 de Outubro de 2000, nas línguas portuguesa, ucraniana e 
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
 
 Pela Ucrânia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
 
 [(ver texto em língua ucraniana no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
 
@@ -339,8 +344,8 @@ Done in Lisbon, on October 25th, 2000, in the Ukrainian, Portuguese and English 
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
 
 For the Ukraine:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15481553.pdf)

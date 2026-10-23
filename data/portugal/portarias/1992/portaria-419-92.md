@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419/1992/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1992-523642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df0b2a3d00484a03a87c92efc11ab38e89802c1937da1148325f78fb952a504f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a4d62c49e4e26d784fb9897f17e80bca2718d7fd71878b2d7c2ef1a7ea5c7b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Espetáculos e Divertimentos Públicos
-- Tauromaquia
 - Remuneração
+- Tauromaquia
 relationships:
 - type: amended_by
   target: pt:dre:232879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626065:por
+  label: "SUBSTITUÍDO O ANEXO II, PELA PORTARIA 932/94, DE 21 DE OUTUBRO, PUBLICADA NO DR.IS-B, 244.\0, 244."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/932-1994-626065
+  date: '1994-10-21'
+- type: amended_by
+  target: pt:dre:232879:por
+  label: "Actualizadas as remunerações devidas aos delegados técnicos tauromáquicos e substituída a tabela anexa, com a redacção\
+    \ da Port 932/94 de 21-Out, pela PORT.289/2003.2003.04.03.MF DR.IS-B [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/289-2003-232879
+  date: '2003-04-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/306/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/306/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:177825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674436:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:39Z'
   warnings: []
   errors: []
 ---
@@ -113,14 +132,14 @@ b) Para novilhadas populares, variedades taurinas e festivais taurinos - 15000$0
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 23 de Abril de 1992.**
+Assinada em 23 de Abril de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.
 
 ## ANEXO I — Requerimento de nomeação de delegados técnicos tauromáquicos, nos termos do artigo 3.º do [Decreto-Lei n.º 306/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1991-674436), de 17 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf))](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf)
 
 ## ANEXO II — Taxas a pagar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf))](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/118b00/24232424.pdf)

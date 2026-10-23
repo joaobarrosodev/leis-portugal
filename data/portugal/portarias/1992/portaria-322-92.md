@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/322/1992/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/322-1992-199096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ce3cf9784056c826654b7053a3d285d22dd77ed8e5d5172ae4bcf10660b3dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2efbb41ece795cfe13f8beb0a30ccf43d9ab7106bcdd0f1cea703c4af428237
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono Complementar a Crianças e Jovens Deficientes
+- Abono de Família
 - Prestações Familiares
 - Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
 - Regimes de Segurança Social
@@ -74,23 +75,30 @@ subjects:
 - Subsídio de Aleitação
 - Subsídio de Funeral
 - Subsídio de Nascimento
-- Abono de Família
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/56/1991/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56/1991/01/19/p/dre
+- type: cites
+  target: pt:dre:497784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574913:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:03Z'
   warnings: []
   errors: []
 ---
@@ -169,6 +177,6 @@ Revogação
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 16 de Março de 1992.**
+Assinada em 16 de Março de 1992.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

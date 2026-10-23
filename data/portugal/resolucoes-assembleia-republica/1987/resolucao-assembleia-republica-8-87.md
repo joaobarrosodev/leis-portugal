@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1987-662355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 726e53cda8902b6422adcd8ac4b94411cb4d404eb4d5f0508084aaba5f72f94e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d983912fb9c9d15dbf2bdaa10f6381e1ef012fc0698b1526fb994205375e8d4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Portugal
+- Quito
+- Segurança Social
+- Tratado da Comunidade Ibero Américana de Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:16Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +95,9 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 15 de Janeiro de 1987.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/05500/09540957.pdf))](https://files.diariodarepublica.pt/1s/1987/03/05500/09540957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/05500/09540957.pdf)
 
 TRATADO DA COMUNIDADE IBERO-AMERICANA DE SEGURANÇA SOCIAL
 
@@ -108,9 +113,9 @@ decidiram aprovar o seguinte:
 
 ## TÍTULO I — Nome, objectivo e estrutura
 
-###### Artigo 1.º A Comunidade Ibero-Americana de Segurança Social no quadro da Organização Ibero-Americana de Segurança Social, constituída pelos órgãos descritos no presente Tratado, tem como objectivo favorecer e intensificar o desenvolvimento da Convenção Ibero-Americana de Segurança Social e da Convenção de Cooperação no Domínio da Segurança Social, assinadas em 26 de Janeiro de 1978, em Quito.
+Artigo 1.º A Comunidade Ibero-Americana de Segurança Social no quadro da Organização Ibero-Americana de Segurança Social, constituída pelos órgãos descritos no presente Tratado, tem como objectivo favorecer e intensificar o desenvolvimento da Convenção Ibero-Americana de Segurança Social e da Convenção de Cooperação no Domínio da Segurança Social, assinadas em 26 de Janeiro de 1978, em Quito.
 
-###### Art. 2.º São órgãos da Comunidade Ibero-Americana de Segurança Social:
+Art. 2.º São órgãos da Comunidade Ibero-Americana de Segurança Social:
 
 a) O Conselho da Comunidade;
 
@@ -118,21 +123,21 @@ b) O Comité Técnico da Comunidade.
 
 ## TÍTULO II — Do Conselho da Comunidade
 
-###### Art. 3.º O Conselho da Comunidade é o órgão encarregado de sugerir, promover, fomentar, coordenar e apreciar as acções destinadas à aplicação das Convenções Ibero-Americanas de Segurança Social de Quito.
+Art. 3.º O Conselho da Comunidade é o órgão encarregado de sugerir, promover, fomentar, coordenar e apreciar as acções destinadas à aplicação das Convenções Ibero-Americanas de Segurança Social de Quito.
 
-###### Art. 4.º O Conselho da Comunidade é integrado pelos seguintes membros:
+Art. 4.º O Conselho da Comunidade é integrado pelos seguintes membros:
 
 a) De carácter representativo: a autoridade ou autoridades competentes dos Estados contratantes em matéria de Segurança Social;
 
 b) Por inerência: o presidente, os vice-presidentes e o secretário-geral da Organização Ibero-Americana de Segurança Social.
 
-###### Art. 5.º Entende-se por autoridades competentes as que se encontram mencionadas na alínea b) do artigo 4.º da Convenção Ibero-Americana de Segurança Social de Quito.
+Art. 5.º Entende-se por autoridades competentes as que se encontram mencionadas na alínea b) do artigo 4.º da Convenção Ibero-Americana de Segurança Social de Quito.
 
-###### Art. 6.º A presidência do Conselho da Comunidade recai, para cada reunião, no titular da autoridade competente do país sede da mesma, o qual permanece no cargo até à reunião seguinte. Esta designação não tem carácter pessoal e está vinculada a quem esteja investido em autoridade competente em cada país.
+Art. 6.º A presidência do Conselho da Comunidade recai, para cada reunião, no titular da autoridade competente do país sede da mesma, o qual permanece no cargo até à reunião seguinte. Esta designação não tem carácter pessoal e está vinculada a quem esteja investido em autoridade competente em cada país.
 
-###### Art. 7.º O secretário-geral da Organização Ibero-Americana de Segurança Social exercerá o cargo de secretário do Conselho da Comunidade.
+Art. 7.º O secretário-geral da Organização Ibero-Americana de Segurança Social exercerá o cargo de secretário do Conselho da Comunidade.
 
-###### Art. 8.º São funções do Conselho da Comunidade:
+Art. 8.º São funções do Conselho da Comunidade:
 
 a) Sugerir e coordenar as acções de Segurança Social da Comunidade Ibero-Americana com vista à viabilidade das Convenções Ibero-Americanas de Segurança Social de Quito;
 
@@ -144,21 +149,21 @@ d) Considerar outras acções conducentes ao cumprimento dos objectivos das Conv
 
 e) Apreciar os resultados da aplicação do presente Tratado, bem como estudar e recomendar as modificações que sejam necessárias às Convenções.
 
-###### Art. 9.º O Conselho da Comunidade efectuará reunião ordinária uma vez por ano, por ocasião da reunião do Comité Permanente da Organização Ibero-Americana de Segurança Social, e reuniões extraordinárias sempre que a urgência dos assuntos o exija.
+Art. 9.º O Conselho da Comunidade efectuará reunião ordinária uma vez por ano, por ocasião da reunião do Comité Permanente da Organização Ibero-Americana de Segurança Social, e reuniões extraordinárias sempre que a urgência dos assuntos o exija.
 
 As reuniões extraordinárias serão convocadas pelo presidente da Conselho da Comunidade, a pedido de cinco dos seus membros de carácter representativo. Em cada reunião anual ordinária será designado o país sede e determinada a data em que terá lugar a reunião ordinária seguinte do Conselho da Comunidade.
 
 ## TÍTULO III — Do Comité Técnico da Comunidade
 
-###### Art. 10.º O Comité Técnico da Comunidade é o órgão encarregado de facilitar a aplicação das Convenções Ibero-Americanas de Segurança Social de Quito, em conformidade com as resoluções do Conselho da Comunidade.
+Art. 10.º O Comité Técnico da Comunidade é o órgão encarregado de facilitar a aplicação das Convenções Ibero-Americanas de Segurança Social de Quito, em conformidade com as resoluções do Conselho da Comunidade.
 
-###### Art. 11.º O Comité Técnico da Comunidade é integrado pelo representante do organismo de ligação de cada Estado contratante, de acordo com o disposto na alínea d) do artigo 4.º da Convenção Ibero-Americana de Segurança Social de Quito.
+Art. 11.º O Comité Técnico da Comunidade é integrado pelo representante do organismo de ligação de cada Estado contratante, de acordo com o disposto na alínea d) do artigo 4.º da Convenção Ibero-Americana de Segurança Social de Quito.
 
-###### Art. 12.º O secretário do Conselho da Comunidade exercerá a presidência do Comité Técnico.
+Art. 12.º O secretário do Conselho da Comunidade exercerá a presidência do Comité Técnico.
 
-###### Art. 13.º O Comité Técnico reunirá ordinariamente uma vez por ocasião da reunião do Conselho da Comunidade e extraordinariamente a convocação do presidente.
+Art. 13.º O Comité Técnico reunirá ordinariamente uma vez por ocasião da reunião do Conselho da Comunidade e extraordinariamente a convocação do presidente.
 
-###### Art. 14.º São funções do Comité Técnico da Comunidade as seguintes:
+Art. 14.º São funções do Comité Técnico da Comunidade as seguintes:
 
 a) Preparar os projectos de acordo, resoluções, normas e disposições administrativas para aplicação das Convenções Ibero-Americanas de Segurança Social de Quito;
 
@@ -174,16 +179,16 @@ f) Promover reuniões das comissões mistas de peritos, previstas no artigo 20.�
 
 ## TÍTULO IV — Assinatura, ratificação e vigência
 
-###### Art. 15.º O presente Tratado será assinado pelos plenipotenciários ou delegados dos Governos em acto conjunto, que terá carácter institucional. Os países do âmbito da Organização Ibero-Americana de Segurança Social que não tenham participado no referido acto poderão aderir posteriormente.
+Art. 15.º O presente Tratado será assinado pelos plenipotenciários ou delegados dos Governos em acto conjunto, que terá carácter institucional. Os países do âmbito da Organização Ibero-Americana de Segurança Social que não tenham participado no referido acto poderão aderir posteriormente.
 
-###### Art. 16.º O presente Tratado será aprovado e ratificado pelos Estados, em conformidade com as suas próprias legislações nacionais. Os instrumentos de ratificação serão depositados na Secretaria-Geral da Organização Ibero-Americana de Segurança Social, que comunicará a data de cada depósito aos Estados fundadores e aderentes.
+Art. 16.º O presente Tratado será aprovado e ratificado pelos Estados, em conformidade com as suas próprias legislações nacionais. Os instrumentos de ratificação serão depositados na Secretaria-Geral da Organização Ibero-Americana de Segurança Social, que comunicará a data de cada depósito aos Estados fundadores e aderentes.
 
-###### Art. 17.º O Tratado entrará em vigor 90 dias após dez países terem efectuado o depósito do respectivo instrumento de ratificação ou adesão. Para os Estados que o ratifiquem posteriormente a esta data, o Tratado entrará em vigor após 30 dias contados a partir da data de depósito do respectivo instrumento de ratificação ou adesão.
+Art. 17.º O Tratado entrará em vigor 90 dias após dez países terem efectuado o depósito do respectivo instrumento de ratificação ou adesão. Para os Estados que o ratifiquem posteriormente a esta data, o Tratado entrará em vigor após 30 dias contados a partir da data de depósito do respectivo instrumento de ratificação ou adesão.
 
-###### Art. 18.º O Tratado poderá ser denunciado pelas Partes contratantes em qualquer momento, e a denúncia produzirá efeitos seis meses após o dia da sua notificação, sem que tal afecte os direitos adquiridos ou as obrigações contraídas.
+Art. 18.º O Tratado poderá ser denunciado pelas Partes contratantes em qualquer momento, e a denúncia produzirá efeitos seis meses após o dia da sua notificação, sem que tal afecte os direitos adquiridos ou as obrigações contraídas.
 
 ## TÍTULO V — Regime económico
 
-###### Art. 19.º As despesas de funcionamento da Comunidade Ibero-Americana de Segurança Social serão assumidas pela Organização Ibero-Americana de Segurança Social.
+Art. 19.º As despesas de funcionamento da Comunidade Ibero-Americana de Segurança Social serão assumidas pela Organização Ibero-Americana de Segurança Social.
 
-**Assinado na cidade de São Francisco de Quito, em 25 exemplares de mesmo teor, aos 17 de Março de 1982.**
+Assinado na cidade de São Francisco de Quito, em 25 exemplares de mesmo teor, aos 17 de Março de 1982.

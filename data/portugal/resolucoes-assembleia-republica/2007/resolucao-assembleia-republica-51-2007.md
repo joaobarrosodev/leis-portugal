@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/51/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2007-641434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7afd4606240edc74230160d333c841903ac6d7ac86f1d497cc0d02de92e920da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75989eb7d93e776b11f67399c33339bcf22576334b944fa17907d24937654df7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
+- Bruxelas
 - CE Países
 - Convenção
 - Portugal
-- Bruxelas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:641437:por
+  label: "Ratificado o Acordo Interno pelo DEC.108/2007.15.10.2007.PR, DR.IS [198] de 15.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/108-2007-641437
+  date: '2007-10-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:49Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO INTERNO ENTRE OS REPRESENTANTES DOS GOVERNOS DOS ESTADOS MEMBROS, REUNIDOS NO CONSELHO, QUE ALTERA O ACORDO INTERNO DE 18 DE SETEMBRO DE 2000 RELATIVO ÀS MEDIDAS A ADOPTAR E AOS PROCEDIMENTOS A SEGUIR PARA A EXECUÇÃO DO ACORDO DE PARCERIA ACP-CE.
 
@@ -153,7 +158,7 @@ Estas medidas mantêm-se em vigor até o Conselho recorrer ao procedimento aplic
 
 Para esse efeito, o Conselho procede, periodicamente e pelo menos de seis em seis meses, à revisão das medidas acima referidas.
 
-**O Presidente do Conselho notifica as medidas adoptadas ao Estado ACP em causa e ao Conselho de Ministros ACP-CE, antes da sua entrada em vigor.**
+O Presidente do Conselho notifica as medidas adoptadas ao Estado ACP em causa e ao Conselho de Ministros ACP-CE, antes da sua entrada em vigor.
 
 A decisão do Conselho é publicada no Jornal Oficial da União Europeia. Se as medidas forem adoptadas imediatamente, a sua notificação é dirigida ao Estado ACP e ao Conselho de Ministros ACP-CE, em simultâneo com um convite para a realização de consultas.
 
@@ -169,4 +174,4 @@ O presente Acordo entra em vigor na mesma data que o Acordo que altera o Acordo 
 
 (2) A data de entrada em vigor do presente Acordo será publicada no Jornal Oficial da União Europeia pelo Secretariado-Geral do Conselho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0740107406.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0740107406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0740107406.pdf)

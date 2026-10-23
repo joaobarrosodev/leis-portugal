@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/425/1992/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/425-1992-523401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8db56b67b7f762934080e311d2c47b060c77053dccfd09c3e86ff0c775013a9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8de5e6c3b42c7b06e236bb4c0eaaa17059a26251e658068ef772bb7ff41b3e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Formação Profissional
-- Plano de Estudos
 - Curso de Especialização
+- Formação Profissional
 - Pessoal de Informática
+- Plano de Estudos
 - Política de Emprego
 - Regulamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:48Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +111,7 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 7 de Abril de 1992.**
+Assinada em 7 de Abril de 1992.
 
 Pelo Ministro da Educação, Manuel Joaquim Pinho Moreira de Azevedo, Secretário de Estado dos Ensinos Básico e Secundário. - Pelo Ministro do Emprego e da Segurança Social, António Morgado Pinto Cardoso, Secretário de Estado do Emprego e Formação Profissional.
 
@@ -339,7 +351,7 @@ XII - Disposições finais e transitórias
 
 ## ANEXO I — Mapa resumo dos cursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
 
 ## ANEXO II — CURSO AUXILIAR DE INFORMÁTICA
 
@@ -347,7 +359,7 @@ PLANO CURRICULAR
 
 (Carga Horária Mínima)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
 
 ## ANEXO III — CURSO TÉCNICO DE INFORMÁTICA
 
@@ -355,7 +367,7 @@ PLANO CURRICULAR
 
 (Carga Horária Mínima)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
 
 ## ANEXO IV — Curso de especialização
 
@@ -383,4 +395,4 @@ a) As evoluções tecnológicas específicas, os produtos existentes no mercado 
 
 b) Os conteúdos programáticos serão definidos pela Comissão Nacional de Aprendizagem, analisando eventualmente propostas da entidade formadora e tendo em conta os parâmetros referidos na alínea anterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24822487.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 101/1992, 1º Suplemento, Série I-B de 1992-05-02
   number: '101'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2032-(2) a 2032-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378-a/1992/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-a-1992-433997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b47252c6c25a9c50e8047be0f0871ba6be8a77b759973213041077c71767dc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56f517effa477a33714257f7b530857d8a2bbe39d240d601bad80b35aaee9fd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cirurgia
 - Consulta Médica
 - Internamento Hospitalar
 - Serviço Nacional de Saúde
-- Cirurgia
 - Serviços Complementares de Diagnóstico
 - TAXA de Prestação de Serviços
 relationships:
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/608/1991/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/608/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:196885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668284:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:37Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +211,7 @@ Hospitais distritais - 4180$00.
 
 9.º Serviço domiciliário (apoio pós-parto) - 3025$00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf))](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
 
 12.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra, Centro de Saúde Mental Infantil do Porto e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 10.º e 11.º para hospitais centrais.
 
@@ -211,7 +219,7 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 13.º Diárias de internamento em quarto particular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf))](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
 
 14.º Os preços referidos no número anterior serão globais, incluindo todos os serviços prestados no internamento, à excepção dos honorários médicos e dos discriminados no n.º 11.º, a facturar segundo a tabela aí fixada.
 
@@ -221,7 +229,7 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 2) Ao preço aplicado nos termos da alínea anterior acrescem os seguintes valores por dia de internamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf))](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
 
 3) Aos preços estipulados nos n.os 1) e 2) acrescem ainda os honorários clínicos.
 
@@ -233,8 +241,8 @@ Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde
 
 Ministério da Saúde.
 
-**Assinada em 30 de Abril de 1992.**
+Assinada em 30 de Abril de 1992.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf))](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/101b01/00020015.pdf)

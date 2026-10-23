@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/996/1991/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/996-1991-292738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b8d477eefc37f402a3b44991776a56fb68017ff196ae5c9524051dd97767c5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2ecb8d2eb1d4ef1105b96c778ce270204066a6a7da7d71dc01b7644d6e03ce2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Entidade Certificadora
 - Certificado de Qualidade
-- Setúbal
+- Entidade Certificadora
 - Queijo
-relationships: []
+- Setúbal
+relationships:
+- type: amended_by
+  target: pt:dre:616219:por
+  label: "PRORROGADO O PRAZO ESTBELECIDO NO NUMERO 8 PELA PORTARIA 1149/92, PUBLICADA NO DR.IS-B, 288, DE 921215.\01215.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1149-1992-616219
+- type: cites
+  target: pt:dre:178084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:08Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +156,8 @@ d) A utilização de denominações como «Queijo Azeitão», ou «Tipo Azeitão
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 13 de Setembro de 1991.**
+Assinada em 13 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/225b00/50805081.pdf))](https://files.diariodarepublica.pt/1s/1991/09/225b00/50805081.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/225b00/50805081.pdf)

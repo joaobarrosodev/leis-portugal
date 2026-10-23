@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-1998-197337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4a7b4f5c4da4211f0df2b3d09e1a6e9e6d23e56396a8d6b03d145dc13c362c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6f93bf81f3a1a413932fb06649e98ef30537685de50a23b17ad281612ff539c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Paris
+- Portugal
 - Privilegios e Imunidades
 - União Latina
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:197336:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.10/98.1998.03.19.PR, DR.IS-A [66]\
+    \ de 19/Mar/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/10-1998-197336
+  date: '1998-03-19'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 22 de Janeiro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UNIÃO LATINA
 
@@ -217,8 +223,8 @@ Feito em Paris, em 6 de Setembro de 1995, em dois exemplares em língua portugue
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)
 
 Pela União Latina:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)](https://files.diariodarepublica.pt/1s/1998/03/066a00/11931195.pdf)

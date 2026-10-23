@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/62/2008/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/62-2008-439852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bbd39cea123f00f12bf23b890ccc227d531a4664469f23a9a95c729e4b0c346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 990fb6c4df945388f1606bbbf3d26a774bea4c1ea43e38ac86dfbda0ade35a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,32 @@ reuse:
 subjects:
 - Água
 - ÁGUA Superficial
+- Águas Subterrâneas
 - Albufeira.cidade
+- Bacia Hidrográfica
 - Convenção
-- Portugal
-- Recursos Hídricos
 - Espanha
 - Madrid
+- Portugal
 - Proteção do Ambiente
-- Bacia Hidrográfica
-- Águas Subterrâneas
-relationships: []
+- Recursos Hídricos
+relationships:
+- type: amended_by
+  target: pt:dre:439851:por
+  label: "Ratificado o Protocolo de Revisão da Convenção e o Protocolo Adicional, pela DEC.147/2008.14.11.2008.PR, DR.IS [222]\
+    \ de 14.11.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/147-2008-439851
+  date: '2008-11-14'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:24Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de Setembro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOLO DE REVISÃO DA CONVENÇÃO SOBRE COOPERAÇÃO PARA A PROTECÇÃO E O APROVEITAMENTO SUSTENTÁVEL DAS ÁGUAS DAS BACIAS HIDROGRÁFICAS LUSO-ESPANHOLAS E O PROTOCOLO ADICIONAL, ASSINADOS EM ALBUFEIRA EM 30 DE NOVEMBRO DE 1998.
 
@@ -257,7 +263,7 @@ O n.º 4 do Anexo ao Protocolo Adicional passa a ter a seguinte redacção:
 
 «4 - A precipitação de referência está calculada para cada estação de monitorização, de acordo com os valores das precipitações observadas nas estações pluviométricas afectados pelos seguintes coeficientes de ponderação associados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 Os valores médios foram calculados de acordo com os registos do período de 1945-1946 a 2006-2007 e serão actualizados a cada cinco anos.»
 
@@ -271,7 +277,7 @@ Os valores médios foram calculados de acordo com os registos do período de 194
 
 O presente Protocolo entrará em vigor nos termos do artigo 31.º da Convenção de Albufeira.
 
-**Assinado em 4 de Abril de 2008, em dois originais, nas línguas portuguesa e castelhana, fazendo ambos os textos igualmente fé.**
+Assinado em 4 de Abril de 2008, em dois originais, nas línguas portuguesa e castelhana, fazendo ambos os textos igualmente fé.
 
 Pelo Governo da República Portuguesa, Francisco Nunes Correia, Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
 
@@ -399,25 +405,25 @@ a) No açude de Badajoz:
 
 i) Caudal integral anual:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 ii) Caudal integral trimestral:
 
 De 1 de Outubro a 31 de Dezembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 De 1 de Janeiro a 31 de Março:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 De 1 de Abril a 30 de Junho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 De 1 de Julho a 30 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 A data de controlo dos volumes totais armazenados nas albufeiras de referência e da percentagem de precipitação registada corresponde ao dia 1 do 3.º mês de cada trimestre. A percentagem de precipitação será calculada com base na precipitação acumulada durante seis meses até ao dia 1 do 3.º mês do trimestre, sobre a média da precipitação de referência acumulada no mesmo período;
 
@@ -581,7 +587,7 @@ El punto 4 del Anexo al Protocolo Adicional pasa a tener la siguiente redacción
 
 «4 - La precipitación de referencia está calculada, para cada estación de control, de acuerdo con los valores de las precipitaciones observadas en las estaciones pluviométricas, afectados por los siguientes coeficientes de ponderación asociados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 Los valores medios se entenderán calculados de acuerdo con los registros del período 1945-46 a 2006-07 y serán actualizados cada cinco anos.»
 
@@ -723,23 +729,23 @@ a) En el Azud de Badajoz:
 
 i) Caudal integral anual:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 ii) Caudal integral trimestral: 1 de octubre a 31 de diciembre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 1 de enero a 31 de marzo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 1 de abril a 30 de junio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 1 de julio a 30 de septiembre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22200/0796107969.pdf)
 
 La fecha del control de los volúmenes totales almacenados en los embalses de referencia y del porcentaje de la precipitación registrada corresponde al día 1 del tercer mes de cada trimestre. El porcentaje de precipitación será calculado con base en la precipitación acumulada durante seis meses hasta el día 1 del tercer mes del trimestre, sobre la media de la precipitación de referencia acumulada en el mismo período;
 

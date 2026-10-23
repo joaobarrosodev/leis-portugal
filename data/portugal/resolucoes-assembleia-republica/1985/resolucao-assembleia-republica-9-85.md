@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 54/1985, 1º Suplemento, Série I de 1985-03-06
   number: '54'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 556-(1) a 556-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05401/00010063.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1985-222256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e9d9b870c0c5de41789363f6a1869b0a494f6ddbdec3d177f8c24d005b8b61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0773784ae91ac4b2e0f45ca518738b4f4ad07b62af9307e75495c19d888118a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Regimento
+relationships:
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 373
+  article_count: 372
   section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:06Z'
   warnings: []
   errors: []
 ---
@@ -1490,7 +1500,7 @@ A votação incide sobre a concessão de autorização.
 
 A autorização toma a forma de resolução.
 
-###### ARTIGO 193.ºÉ aditado um novo artigo 188.º, com a seguinte redacção:
+ARTIGO 193.ºÉ aditado um novo artigo 188.º, com a seguinte redacção:
 
 ###### Artigo 188.º — (Convocação imediata da Assembleia)
 
@@ -1744,7 +1754,7 @@ Conta Geral do Estado, relatórios de execução do Plano e outra contas públic
 
 ###### Artigo 217.º — (Parecer do Conselho Nacional do Plano)
 
-**O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.**
+O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
 ###### Artigo 218.º — (Parecer)
 
@@ -2286,7 +2296,7 @@ O Regimento da Assembleia da República, no seu novo texto, é publicado conjunt
 
 Aprovada em 29 de Novembro de 1984.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
 
@@ -3080,7 +3090,7 @@ Serão marcadas reuniões em que os membros do Governo estarão presentes para r
 
 ###### Artigo 63.º — (Apreciação de outras matérias)
 
-**O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:**
+O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de Deputados;
 
@@ -3234,7 +3244,7 @@ O período de antes da ordem do dia é improrrogável, salvo se houver declaraç
 
 ###### Artigo 78.º — (Convite a individualidades estrangeiras)
 
-**O Presidente pode, a título excepcional, ouvida a Conferência convidar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.**
+O Presidente pode, a título excepcional, ouvida a Conferência convidar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso de palavra
 
@@ -3804,7 +3814,7 @@ Quando a comissão se considere incompetente para apreciação do texto, deve co
 
 ###### Artigo 139.º — (Envio de propostas de alteração)
 
-**O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 140.º — (Legislação do trabalho)
 
@@ -3842,7 +3852,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 145.º — (Conhecimento prévio dos projectos, propostas de lei ou de resolução)
 
@@ -3878,7 +3890,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 Até ao anúncio da votação podem dez Deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que for designado, não se aplicando neste caso o disposto no artigo 145.º
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 149.º — (Objecto)
 
@@ -3888,7 +3902,9 @@ Até ao anúncio da votação podem dez Deputados, pelo menos, requerer a baixa 
 
 3 - A Assembleia pode deliberar que a discussão e a votação incidam sobre divisão do projecto ou proposta cuja autonomia o justifique.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 150.º — (Objecto)
 
@@ -3926,7 +3942,9 @@ A requerimento de dez Deputados, a votação na especialidade é adiada para a r
 
 No caso de votação na especialidade pela comissão, o Plenário pode deliberar, a todo o tempo, avocá-la a si, a requerimento de, pelo menos, dez Deputados.
 
-##### SUBDIVISÃO IV — Votação final global
+SUBDIVISÃO IV
+
+Votação final global
 
 ###### Artigo 155.º — (Votação final global)
 
@@ -4064,7 +4082,9 @@ Se o projecto for aprovado sem alterações, o decreto da Assembleia da Repúbli
 
 ##### DIVISÃO III — Autorização e ratificação da declaração do estado de sítio ou do estado de emergência
 
-##### SUBDIVISÃO I — Autorização para declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO I
+
+Autorização para declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 174.º — (Reunião da Assembleias)
 
@@ -4090,7 +4110,9 @@ A votação incide sobre a concessão de autorização.
 
 A autorização toma a forma de lei quando concedida pelo Plenário e de resolução quando concedida pela Comissão Permanente.
 
-##### SUBDIVISÃO II — Ratificação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO II
+
+Ratificação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 178.º — (Convocação imediata da Assembleia)
 
@@ -4114,7 +4136,9 @@ A votação incide sobre a concessão de ratificação.
 
 No caso de o Presidente da República ter solicitado a renovação da autorização da Assembleia da República para a declaração do estado de sítio ou do estado de emergência, aplicam-se, com as necessárias adaptações, as disposições constantes dos artigos anteriores.
 
-##### SUBDIVISÃO III — Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO III
+
+Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 183.º — (Apreciação da aplicação)
 
@@ -4356,7 +4380,7 @@ A redacção final incumbe à Comissão de Economia, Finanças e Plano, que disp
 
 ###### Artigo 217.º — (Parecer do Conselho Nacional do Plano)
 
-**O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.**
+O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
 ###### Artigo 218.º — (Parecer)
 
@@ -4572,7 +4596,7 @@ A lista dos requerimentos não respondidos é publicada semestralmente no Diári
 
 2 - São rejeitadas as petições cujo autor ou cujos autores se não encontrem devidamente identificados, nos termos do n.º 2 do artigo anterior.
 
-###### Artigo 246.º(Seguimento)
+Artigo 246.º(Seguimento)
 
 1 - Uma vez admitidas e numeradas, as petições são enviadas à comissão competente em razão da matéria.
 
@@ -4600,7 +4624,7 @@ b) Que o Presidente ou as comissões entendam que devem ser publicadas.
 
 ###### Artigo 250.º — (Comunicação ao autor ou aos autores da petição)
 
-**O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO IX — Inquéritos
 

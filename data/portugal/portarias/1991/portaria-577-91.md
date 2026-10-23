@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/577/1991/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1991-649351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fcc50a11c234881a134c7194158b145a9fffefe54db798da2056a73dbc7cd2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7036d58a9ecf6fc42db9620d3647728d60a8835501bf04e34b7c03d4a53a60b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,58 @@ relationships:
   target: pt:dre:642209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484114:por
+  label: "Renovada por doze anos a concessão de zona de caça pela PORT.1173/2003.02.10.2003.MADRP, DR.IS-B [228] de 02.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1173-2003-484114
+  date: '1991-06-27'
+- type: amended_by
+  target: pt:dre:669519:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e actividades\
+    \ de carácter venatório na zona de caça pela PORT.623/2003.2003.07.23.MADRP DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-2003-669519
+  date: '2003-07-23'
+- type: amended_by
+  target: pt:dre:642209:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 1173/2003\
+    \ de 02-Out, pela PORT.1205/2007.19.09.2007.MAOTDR, DR.IS [181] de 19.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1205-2007-642209
+  date: '2007-09-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:58Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/145b00/32763276.pdf))](https://files.diariodarepublica.pt/1s/1991/06/145b00/32763276.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/145b00/32763276.pdf)

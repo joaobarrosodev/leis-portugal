@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/2000/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2000-506415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 271a10bc7ccf0317da88c45123321189cfc871e08f18fca705b55d47f0f943fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e8022001e1e0c81579c93c00dbae932d7240c612c8ca4be09543efb400ad018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Património Cultural
-- HAIA
 - Guerra
+- HAIA
+- Património Cultural
+- Portugal
 - Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:114661389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506414:por
+  label: "Ratificada a convenção pelo DEC.13/2000.2000.03.10.PR DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-2000-506414
+  date: '2000-03-10'
+- type: amended_by
+  target: pt:dre:114661389:por
+  label: Aprovado, para adesão, o Segundo Protocolo à Convenção para a Proteção de Bens Culturais em Caso de Conflito Armado
+    pelo(a) Resolução da Assembleia da República n.º 41/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/41-2018-114661389
+  date: '2018-02-09'
 article_structure:
   article_count: 40
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:05Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +110,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de Dezembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION POUR LA PROTECTION DES BIENS CULTURELS EN CAS DE CONFLIT ARMÉ
 

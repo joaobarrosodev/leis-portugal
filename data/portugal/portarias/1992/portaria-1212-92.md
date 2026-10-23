@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1212/1992/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1212-1992-621702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2c7b5dd232f65eef7ec0bb50f922d74250b54242c8dfd381976c3e658864f03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf060152ee9a523518f29241a075d6b9e76f8e509f531864f2d98cb29b474a89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73924156:por
+  label: Revogado o Plano de Pormenor da Zona Industrial Concelhia da Batalha/Parque Industrial da Jardoeira, ratificado pela
+    presente portaria, pelo(a) Aviso n.º 3836/2016 - Diário da República n.º 56/2016, Série II de 2016-03-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3836-2016-73924156
+  date: '2016-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:32Z'
   warnings: []
   errors: []
 ---
@@ -115,27 +185,27 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Dezembro de 1992.**
+Assinada em 1 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)
 
 Regulamento do Plano de Pormenor da Zona Industrial Concelhia da Batalha
 
 ### CAPÍTULO I
 
-###### Artigo 1.º O Plano de Pormenor da Zona Industrial Concelhia da Batalha, loteamento industrial, abrange uma área de 12,2 ha, limitada a norte-poente e sul por caminhos vicinais, a norte-nascente pela estrada nacional n.º 356 e a nascente e poente por parcelas cadastrais, conforme a planta n.º 5 B anexa ao presente Regulamento.
+Artigo 1.º O Plano de Pormenor da Zona Industrial Concelhia da Batalha, loteamento industrial, abrange uma área de 12,2 ha, limitada a norte-poente e sul por caminhos vicinais, a norte-nascente pela estrada nacional n.º 356 e a nascente e poente por parcelas cadastrais, conforme a planta n.º 5 B anexa ao presente Regulamento.
 
-###### Art. 2.º Para efeitos do presente diploma e nos contratos respeitantes à Zona Industrial Concelhia, esta divide-se em duas zonas, denominadas Zona de Administração do Loteamento e Serviços de Apoio e Zona Industrial, Oficinal ou de Armazéns, possuindo cada uma delas um regime diferente do ponto de vista urbanístico e ambiental.
+Art. 2.º Para efeitos do presente diploma e nos contratos respeitantes à Zona Industrial Concelhia, esta divide-se em duas zonas, denominadas Zona de Administração do Loteamento e Serviços de Apoio e Zona Industrial, Oficinal ou de Armazéns, possuindo cada uma delas um regime diferente do ponto de vista urbanístico e ambiental.
 
-###### Art. 3.º - 1 - A Zona de Administração do Loteamento e Serviços de Apoio corresponde à área onde se localizam os serviços administrativos do loteamento, às áreas livres públicas e ainda às infra-estruturas básicas.
+Art. 3.º - 1 - A Zona de Administração do Loteamento e Serviços de Apoio corresponde à área onde se localizam os serviços administrativos do loteamento, às áreas livres públicas e ainda às infra-estruturas básicas.
 
 2 - A Zona Industrial, Oficinal ou de Armazéns é o espaço reservado para instalação de unidades industriais ou oficinas autorizadas para o loteamento e de unidades para depósito de produtos, sem que os mesmos sejam objecto de qualquer transformação durante a sua permanência no local.
 
 ### CAPÍTULO II
 
-###### Art. 4.º Para efeitos do presente Regulamento, utilizam-se os seguintes conceitos urbanísticos:
+Art. 4.º Para efeitos do presente Regulamento, utilizam-se os seguintes conceitos urbanísticos:
 
 a) Superfície total do lote (St) - entende-se por superfície total de um lote a superfície do terreno correspondente a cada um dos lotes definidos na planta de síntese (desenho n.º 5) indicada no respectivo quadro resumo e correspondente ao somatório da superfície de implantação e de áreas livres;
 
@@ -169,114 +239,114 @@ m) Área non aedificandi - área onde não serão permitidas novas operações d
 
 ### CAPÍTULO III
 
-###### Art. 5.º Na Zona Industrial Concelhia da Batalha são constituídos 31 lotes, com a localização, área e destino constantes da planta de síntese e quadro I, anexo ao presente Regulamento.
+Art. 5.º Na Zona Industrial Concelhia da Batalha são constituídos 31 lotes, com a localização, área e destino constantes da planta de síntese e quadro I, anexo ao presente Regulamento.
 
-###### Art. 6.º - 1 - Os lotes industriais, oficinais ou para armazéns subordinar-se-ão ao regime urbanístico constante do quadro II, anexo ao presente Regulamento.
+Art. 6.º - 1 - Os lotes industriais, oficinais ou para armazéns subordinar-se-ão ao regime urbanístico constante do quadro II, anexo ao presente Regulamento.
 
 2 - As disposições do presente Regulamento aplicam-se igualmente ao lote n.º 2, exceptuando o afastamento da construção ao limite frontal do lote (Rua Um), que respeitará a implantação aprovada pela Câmara Municipal da Batalha.
 
 ### CAPÍTULO IV
 
-###### Art. 7.º O abastecimento de água será garantido por uma rede exclusiva do loteamento, a partir da rede municipal de abastecimento.
+Art. 7.º O abastecimento de água será garantido por uma rede exclusiva do loteamento, a partir da rede municipal de abastecimento.
 
-###### Art. 8.º Poderá ser indeferido o pedido de instalação no loteamento industrial de estabelecimentos que pela sua natureza e dimensão sejam grandes consumidores de água.
+Art. 8.º Poderá ser indeferido o pedido de instalação no loteamento industrial de estabelecimentos que pela sua natureza e dimensão sejam grandes consumidores de água.
 
-###### Art. 9.º Sem prejuízo do disposto nos artigos 40.º a 45.º do [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março, não poderão ser descarregadas águas residuais na ETAR do loteamento industrial quando impliquem prejuízos para o sistema de tratamento instalado.
+Art. 9.º Sem prejuízo do disposto nos artigos 40.º a 45.º do [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março, não poderão ser descarregadas águas residuais na ETAR do loteamento industrial quando impliquem prejuízos para o sistema de tratamento instalado.
 
-###### Art. 10.º No acto do licenciamento da unidade industrial deverão ser sempre fixadas as condições a que o efluente deverá obedecer, nomeadamente quanto a caudais e cargas admissíveis, bem como situações em que poderão ser reajustadas.
+Art. 10.º No acto do licenciamento da unidade industrial deverão ser sempre fixadas as condições a que o efluente deverá obedecer, nomeadamente quanto a caudais e cargas admissíveis, bem como situações em que poderão ser reajustadas.
 
-###### Art. 11.º O tratamento dos efluentes industriais de cada uma das unidades instaladas deverá ser realizado em instalação própria antes de serem lançados no colector geral do parque.
+Art. 11.º O tratamento dos efluentes industriais de cada uma das unidades instaladas deverá ser realizado em instalação própria antes de serem lançados no colector geral do parque.
 
-###### Art. 12.º É proibido o lançamento de águas residuais no solo.
+Art. 12.º É proibido o lançamento de águas residuais no solo.
 
 ### CAPÍTULO V
 
-###### Art. 13.º - 1 - As unidades industriais instaladas ficarão responsáveis por dar destino adequado aos seus resíduos industriais, conforme o estabelecido no [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, e na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio, dos Ministérios do Plano e da Administração do Território e da Indústria e Comércio.
+Art. 13.º - 1 - As unidades industriais instaladas ficarão responsáveis por dar destino adequado aos seus resíduos industriais, conforme o estabelecido no [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, e na [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio, dos Ministérios do Plano e da Administração do Território e da Indústria e Comércio.
 
 2 - No caso de a unidade possuir estação de tratamento deverá ser justificado tecnicamente o tratamento dos diferentes efluentes que resultem do processo de produção.
 
-###### Art. 14.º As unidades industriais instaladas poderão acordar com a Câmara Municipal, sempre que esta o aceite, a recolha, transporte, armazenagem, eliminação e utilização dos resíduos industriais.
+Art. 14.º As unidades industriais instaladas poderão acordar com a Câmara Municipal, sempre que esta o aceite, a recolha, transporte, armazenagem, eliminação e utilização dos resíduos industriais.
 
-###### Art. 15.º O destino a dar pelas unidades industriais aos resíduos industriais deverá constar das condições de licenciamento.
+Art. 15.º O destino a dar pelas unidades industriais aos resíduos industriais deverá constar das condições de licenciamento.
 
-###### Art. 16.º É proibido o lançamento de resíduos industriais no solo.
+Art. 16.º É proibido o lançamento de resíduos industriais no solo.
 
 ### CAPÍTULO VI
 
-###### Art. 17.º - 1 - É proibido o lançamento de óleos usados no solo, nas águas e nos esgotos.
+Art. 17.º - 1 - É proibido o lançamento de óleos usados no solo, nas águas e nos esgotos.
 
 2 - É proibida a eliminação de óleos usados por processos de queima que provoquem poluição atmosférica acima dos níveis estabelecidos pelas disposições legais em vigor.
 
-###### Art. 18.º A utilização de óleos usados está sujeita a licenciamento e controlo técnico.
+Art. 18.º A utilização de óleos usados está sujeita a licenciamento e controlo técnico.
 
-###### Art. 19.º Os detentores de óleo usado são obrigados na sua fábrica a observar adequadas normas de segurança, nomeadamente as estabelecidas no Regulamento de Segurança das Instalações para Armazenagem e Tratamento Industrial dos Petróleos Brutos, seus Derivados e Resíduos, aprovado pelo Decreto-Lei n.º 26270, de 9 de Março de 1947.
+Art. 19.º Os detentores de óleo usado são obrigados na sua fábrica a observar adequadas normas de segurança, nomeadamente as estabelecidas no Regulamento de Segurança das Instalações para Armazenagem e Tratamento Industrial dos Petróleos Brutos, seus Derivados e Resíduos, aprovado pelo Decreto-Lei n.º 26270, de 9 de Março de 1947.
 
-###### Art. 20.º Na recolha e transporte de óleo usado, as operações de carregamento, descarga e manuseamento devem ser acompanhadas dos cuidados necessários à prevenção de qualquer forma de poluição do solo ou das águas, bem como qualquer risco de inflamação.
+Art. 20.º Na recolha e transporte de óleo usado, as operações de carregamento, descarga e manuseamento devem ser acompanhadas dos cuidados necessários à prevenção de qualquer forma de poluição do solo ou das águas, bem como qualquer risco de inflamação.
 
-###### Art. 21.º A actividade de regeneração de óleo usado depende do licenciamento da Direcção-Geral de Energia.
+Art. 21.º A actividade de regeneração de óleo usado depende do licenciamento da Direcção-Geral de Energia.
 
-###### Art. 22.º Da detenção de óleo usado em quantidade superior a 200 l e até aos limites do licenciamento é obrigatória a informação à Direcção-Geral de Energia.
+Art. 22.º Da detenção de óleo usado em quantidade superior a 200 l e até aos limites do licenciamento é obrigatória a informação à Direcção-Geral de Energia.
 
-###### Art. 23.º Nas instalações industriais ou outras deve existir o registo actualizado das entidades e utilização de óleos novos e das quantidades, ligas e destino do óleo usado obtido.
+Art. 23.º Nas instalações industriais ou outras deve existir o registo actualizado das entidades e utilização de óleos novos e das quantidades, ligas e destino do óleo usado obtido.
 
-###### Art. 24.º A difusão de óleos usados fica sujeita ao disposto no [Decreto-Lei n.º 216/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1981-579964), de 28 de Junho.
+Art. 24.º A difusão de óleos usados fica sujeita ao disposto no [Decreto-Lei n.º 216/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1981-579964), de 28 de Junho.
 
 ### CAPÍTULO VII
 
-###### Art. 25.º As unidades industriais deverão obedecer ao disposto no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, bem como no [Despacho Normativo n.º 22/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1987-662494), de 20 de Março, a fim de salvaguardar e preservar o ambiente numa política de melhoria da qualidade do ar.
+Art. 25.º As unidades industriais deverão obedecer ao disposto no [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, bem como no [Despacho Normativo n.º 22/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1987-662494), de 20 de Março, a fim de salvaguardar e preservar o ambiente numa política de melhoria da qualidade do ar.
 
-###### Art. 26.º - 1 - Tendo em vista limitar o aumento da poluição, são fixados como valores gerais os estabelecidos no anexo II do [Despacho Normativo n.º 29/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1987-662156), de 20 de Março.
+Art. 26.º - 1 - Tendo em vista limitar o aumento da poluição, são fixados como valores gerais os estabelecidos no anexo II do [Despacho Normativo n.º 29/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1987-662156), de 20 de Março.
 
 2 - Se, porém, for julgado conveniente, poderão ser estabelecidos valores gerais inferiores aos estabelecidos no referido anexo II.
 
 ### CAPÍTULO VIII
 
-###### Art. 27.º As unidades industriais deverão obedecer quer na construção quer na laboração ao disposto no Regulamento Geral sobre o Ruído, aprovado pelo [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, de molde que não sejam ultrapassados os níveis de ruído por ele permitidos, quer para o interior quer para o exterior do estabelecimento.
+Art. 27.º As unidades industriais deverão obedecer quer na construção quer na laboração ao disposto no Regulamento Geral sobre o Ruído, aprovado pelo [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, de molde que não sejam ultrapassados os níveis de ruído por ele permitidos, quer para o interior quer para o exterior do estabelecimento.
 
 ### CAPÍTULO IX
 
-###### Art. 28.º As unidades industriais, bem como a actividade nelas exercidas, deverão obedecer ao disposto nos Decretos-Leis n.os [224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho, e [280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho.
+Art. 28.º As unidades industriais, bem como a actividade nelas exercidas, deverão obedecer ao disposto nos Decretos-Leis n.os [224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho, e [280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho.
 
 ### CAPÍTULO X
 
-###### Art. 29.º No interior dos lotes não poderão ser depositados resíduos sólidos que provoquem a degradação ambiental ou paisagística.
+Art. 29.º No interior dos lotes não poderão ser depositados resíduos sólidos que provoquem a degradação ambiental ou paisagística.
 
-###### Art. 30.º Nas zonas livres públicas não podem ser constituídos depósitos de materiais ou resíduos.
+Art. 30.º Nas zonas livres públicas não podem ser constituídos depósitos de materiais ou resíduos.
 
-###### Art. 31.º - 1 - O estacionamento de veículos no exterior dos lotes só é autorizado nos locais expressamente destinados para o efeito.
+Art. 31.º - 1 - O estacionamento de veículos no exterior dos lotes só é autorizado nos locais expressamente destinados para o efeito.
 
 2 - As cargas e descargas devem ser efectuadas no interior dos lotes.
 
-###### Art. 32.º Junto ao limite do loteamento com a zona agro-florestal e residencial, respectivamente a poente e a nascente, devem ser previstas faixas de protecção arbórea com o mínimo de 30 m de largura. Estas faixas serão separadas dos lotes por um corredor em terreno limpo com um mínimo de 7 m de largura, modelado e tratado de forma a poder constituir um acesso viário numa emergência.
+Art. 32.º Junto ao limite do loteamento com a zona agro-florestal e residencial, respectivamente a poente e a nascente, devem ser previstas faixas de protecção arbórea com o mínimo de 30 m de largura. Estas faixas serão separadas dos lotes por um corredor em terreno limpo com um mínimo de 7 m de largura, modelado e tratado de forma a poder constituir um acesso viário numa emergência.
 
 A norte da via de acesso R1 deverá ser prevista uma faixa de protecção arbórea com o mínimo de 10 m de largura.
 
-###### Art. 33.º A separação com o exterior da frente principal ou secundária dos lotes deverá ser feita por um muro maciço com 1,2 m de altura. Por opção do proprietário, o muro poderá ser encimado por uma rede até 1,30 m de altura, no total máximo de 2,50 m.
+Art. 33.º A separação com o exterior da frente principal ou secundária dos lotes deverá ser feita por um muro maciço com 1,2 m de altura. Por opção do proprietário, o muro poderá ser encimado por uma rede até 1,30 m de altura, no total máximo de 2,50 m.
 
-###### Art. 34.º É rigorosamente proibida a instalação e funcionamento de estaleiros.
+Art. 34.º É rigorosamente proibida a instalação e funcionamento de estaleiros.
 
-###### Art. 35.º A afixação de publicidade na área da Zona Industrial, loteamento industrial, em lugares públicos ou deste perceptível, de carácter comercial, através de inscrições, tabuletas, anúncios, cartazes ou outros objectos, ou da emissão por meios mecânicos ou eléctricos de sons e imagens destinados a chamar a atenção, depende de licença da Câmara Municipal da Batalha.
+Art. 35.º A afixação de publicidade na área da Zona Industrial, loteamento industrial, em lugares públicos ou deste perceptível, de carácter comercial, através de inscrições, tabuletas, anúncios, cartazes ou outros objectos, ou da emissão por meios mecânicos ou eléctricos de sons e imagens destinados a chamar a atenção, depende de licença da Câmara Municipal da Batalha.
 
-###### Art. 36.º Os estabelecimentos industriais devem respeitar rigorosamente a legislação em vigor referente a este tipo de estabelecimentos, nomeadamente o disposto no [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e no [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
+Art. 36.º Os estabelecimentos industriais devem respeitar rigorosamente a legislação em vigor referente a este tipo de estabelecimentos, nomeadamente o disposto no [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e no [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
 
-###### Art. 37.º Os projectos para licenciamento de edifícios industriais deverão incluir o projecto de arranjo exterior das áreas livres dos respectivos lotes, devendo aquelas áreas, quando não impermeabilizadas, constituir espaços verdes plantados, na medida em que tal não prejudique o pleno funcionamento da unidade.
+Art. 37.º Os projectos para licenciamento de edifícios industriais deverão incluir o projecto de arranjo exterior das áreas livres dos respectivos lotes, devendo aquelas áreas, quando não impermeabilizadas, constituir espaços verdes plantados, na medida em que tal não prejudique o pleno funcionamento da unidade.
 
-###### Art. 38.º A zona de administração do loteamento e para instalação dos serviços de apoio deverá ser exclusivamente reservada para este fim.
+Art. 38.º A zona de administração do loteamento e para instalação dos serviços de apoio deverá ser exclusivamente reservada para este fim.
 
-###### Art. 39.º Sem prejuízo das construções já existentes, é considerada non aedificandi a área compreendida entre o limite do loteamento industrial e a estrada nacional n.º 356.
+Art. 39.º Sem prejuízo das construções já existentes, é considerada non aedificandi a área compreendida entre o limite do loteamento industrial e a estrada nacional n.º 356.
 
-###### Art. 40.º A gestão da Zona Industrial Concelhia e as condições de alienação dos lotes serão objecto de regulamento autónomo, complementar do presente diploma.
+Art. 40.º A gestão da Zona Industrial Concelhia e as condições de alienação dos lotes serão objecto de regulamento autónomo, complementar do presente diploma.
 
-###### Art. 41.º O Plano da Zona Industrial Concelhia da Batalha é constituído por peças gráficas, pela memória descritiva e pelo presente Regulamento.
+Art. 41.º O Plano da Zona Industrial Concelhia da Batalha é constituído por peças gráficas, pela memória descritiva e pelo presente Regulamento.
 
 QUADRO I
 
 Dimensão e uso dos lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)
 
 QUADRO II
 
 Índices de ocupação e construção, volumetria e afastamentos aos limites dos lotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/296b00/59435946.pdf)

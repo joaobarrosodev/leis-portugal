@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/50/2001/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/50-2001-388224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dfd38cda17bd40999e0337e170101fa77f4397f6dd193905289dfe5454fb1f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d3942789ac248d1c8fb0154c039915a72e0e82639b227aadb824b99c639ad1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Estrasburgo
+- Portugal
 - Televisão
 - Televisão Transfronteiras
 relationships:
+- type: amended_by
+  target: pt:dre:388222:por
+  label: "Ratificada a Convenção e respectivo Protocolo de alteração, aprovados para ratificação pelo presente diploma, pelo\
+    \ DEC.36/2001.2001.06.28.PR, DR.IS-A [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/36-2001-388222
+  date: '2001-06-28'
 - type: cites
   target: celex:31989L0552
   label: null
@@ -82,15 +88,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/36/oj
 article_structure:
-  article_count: 72
+  article_count: 70
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:36Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de Maio de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 EUROPEAN CONVENTION ON TRANSFRONTIER TELEVISION
 
@@ -2343,7 +2349,7 @@ Nenhuma outra reserva será admitida.
 
 ###### Artigo 34.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho, os outros Estados Partes na Convenção Cultural Europeia, a Comunidade Económica Europeia e qualquer outro Estado que tenha aderido ou que tenha sido convidado a aderir à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho, os outros Estados Partes na Convenção Cultural Europeia, a Comunidade Económica Europeia e qualquer outro Estado que tenha aderido ou que tenha sido convidado a aderir à presente Convenção:
 
 a) De qualquer assinatura;
 
@@ -2697,13 +2703,17 @@ O n.º 2 do artigo 18.º passa a ser o n.º 3.
 
 Serviços de programas consagrados exclusivamente à autopromoção ou à televenda
 
-###### Artigo 18.º-A — Serviços de programas consagrados exclusivamente à autopromoção
+Artigo 18.º-A
+
+Serviços de programas consagrados exclusivamente à autopromoção
 
 1 - As disposições da presente Convenção são aplicáveis, por analogia, aos serviços de programas consagrados exclusivamente à autopromoção.
 
 2 - Serão autorizadas outras formas de publicidade nesses serviços, no respeito dos limites previstos no artigo 12.º, n.os 1 e 2.
 
-###### Artigo 18.º-B — Serviços de programas consagrados exclusivamente à televenda
+Artigo 18.º-B
+
+Serviços de programas consagrados exclusivamente à televenda
 
 1 - As disposições da presente Convenção são aplicáveis, por analogia, aos serviços de programas consagrados exclusivamente à televenda.
 
@@ -2801,7 +2811,7 @@ O presente Protocolo ficará aberto à aceitação pelas Partes na Convenção. 
 
 ###### Artigo 36.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, as outras Partes na Convenção e a Comunidade Europeia:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, as outras Partes na Convenção e a Comunidade Europeia:
 
 a) Do depósito de qualquer instrumento de aceitação;
 

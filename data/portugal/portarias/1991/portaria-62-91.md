@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/1991/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73caf65f9b049a6a182b39f5a68f5b665d29843aac707cf3ec54ffdf4cb1c9fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a77b78b0b6dec41cf30fccfb2edd1d7662bc6e1f0a708fedae6a7f21f1e9ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,55 @@ reuse:
 subjects:
 - Embarcação
 - Junta Autónoma dos Portos
+- Portos
 - Regulamento
 - Regulamento de Tarifas das Juntas Autónomas dos Portos
-- Portos
 - Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:189353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189353:por
+  label: "Alterados os artigos 57.º, 62.º, 66.º e 83.º do Regulamento, aprovado pelo Decreto-Lei 291/79 de 16 de Agosto, na\
+    \ redacção do presente diploma, pela PORT.290/92.02.04.1992.MM, DR.IS-B [78] de 02.04.1992 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1992-189353
+  date: '1992-04-02'
+- type: cites
+  target: pt:dre:204812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:01Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +251,7 @@ Entre ilhas do mesmo arquipélago, em embarcações de qualquer classe (só no e
 
 b) Por cada tonelada, para as mercadorias movimentadas, excepto as de tráfego no interior dos portos e o pescado transaccionado ou avaliado em lotas, conforme o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/019b00/04100412.pdf))](https://files.diariodarepublica.pt/1s/1991/01/019b00/04100412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/019b00/04100412.pdf)
 
 c) Para as mercadorias movimentadas em embarcações exclusivamente dentro da área de jurisdição de cada administração portuária, sem ultrapassar os limites das obras exteriores do respectivo porto - 15$00;
 
@@ -241,6 +271,6 @@ f) ...
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 2 de Janeiro de 1991.**
+Assinada em 2 de Janeiro de 1991.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.

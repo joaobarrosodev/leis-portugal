@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 170/1991, 1º Suplemento, Série I-A de 1991-07-26
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3722-(120) a 3722-(131)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/170a01/01200131.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/18/1991/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-1991-164271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fad7e8d3ae666103803539d9ad32857944fff50506bd4f52bb2d5e55369daa48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9a69ab10908177ca461e4f0c64348556f05c7906e5edea7670aa75193934ede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - ACP Países
 - Ajuda Comunitária
-- Financiamento
 - BEI
 - CEE
 - Convenção
-- Portugal
-- FED
-- Lomé
 - Desenvolvimento Económico
+- FED
+- Financiamento
+- Lomé
+- Portugal
 relationships:
 - type: cites
   target: celex:31978R3180
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1989/1971/oj
 article_structure:
-  article_count: 30
+  article_count: 36
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:22Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +107,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 14 de Maio de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ACORDO INTERNO RELATIVO AO FINANCIAMENTO E GESTÃO DAS AJUDAS DA COMUNIDADE NO ÂMBITO DA QUARTA CONVENÇÃO ACP-CEE.
 
@@ -133,7 +133,9 @@ Após consulta à Comissão;
 
 acordaram nas disposições seguintes:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 1 - Os Estados membros instituem um sétimo Fundo Europeu de Desenvolvimento (1990), adiante designado por Fundo.
 
@@ -255,7 +257,9 @@ Essas receitas serão utilizadas pela Comissão após parecer do Comité do FED,
 
 - Recorrer a estudos ou peritagens de montante limitado e de curta duração, em especial para reforçar as suas próprias capacidades de análise, de diagnóstico e de formulação das políticas de ajustamento estrutural.
 
-### CAPÍTULO II — Artigo 10.º
+### CAPÍTULO II
+
+###### Artigo 10.º
 
 1 - Sob reserva dos artigos 22.º, 23.º e 24.º e sem prejuízo das atribuições do Banco no respeitante à gestão de determinadas formas de ajuda, o Fundo é gerido pela Comissão em conformidade com as regras fixadas no regulamento financeiro a que se refere o artigo 32.º
 
@@ -297,7 +301,9 @@ Sem prejuízo dos mandatos gerais recebidos da Comunidade pelo Banco para a cobr
 
 A fim de realizar os objectivos da Convenção em matéria de financiamento e de apoio aos investimentos, uma parte significativa dos capitais de risco será consagrada ao apoio aos investimentos do sector privado, em especial às pequenas e médias empresas.
 
-### CAPÍTULO III — Artigo 17.º
+### CAPÍTULO III
+
+###### Artigo 17.º
 
 1 - A fim de garantir a coerência das acções de cooperação e uma melhor complementaridade com as ajudas bilaterais dos Estados membros, a Comissão comunicará aos Estados membros e aos seus representantes no local as fichas de identificação dos projectos logo que for tomada a decisão de proceder à sua instrução.
 
@@ -365,7 +371,9 @@ A assistência técnica poderá, se necessário e se os importadores assim o des
 
 2 - A Comissão informará os Estados membros, sempre que necessário e no mínimo uma vez por ano, da execução dos progrmas de apoio ao reajustamento e de todos os problemas relativos à manutenção da elegibilidade. Essa informação, acompanhada de todos os elementos necessários, incluindo estatísticas, cobrirá especialmente a boa aplicação do acordo celebrado com o organismo ACP responsável pela execução do programa, incluindo as disposições relativas às consultas referidas na alínea e), segundo travessão do segundo parágrafo, do n.º 1. Com base nessa informação, na evolução dos programas de importação e na coordenação com os outros dadores, o Conselho, sob proposta da comissão, poderá adaptar as regras de execução desses programas, tal como se encontram definidas no n.º 1.
 
-### CAPÍTULO IV — Artigo 21.º
+### CAPÍTULO IV
+
+###### Artigo 21.º
 
 1 - Para os recursos do Fundo geridos pela Comissão é instituído junto desta um comité, composto por representantes dos Governos dos Estados membros, designado «Comité do FED».
 
@@ -555,7 +563,9 @@ Se, pelo contrário, o Conselho se pronunciar a favor da proposta do Banco, este
 
 6 - O Conselho será periodicamente informado do resultado dos trabalhos efectuados pela Comissão e pelo Banco sobre a avaliação das realizações em curso ou concluídas, nomeadamente em relação aos objectivos de desenvolvimento pretendidos.
 
-### CAPÍTULO V — Artigo 31.º
+### CAPÍTULO V
+
+###### Artigo 31.º
 
 1 - Os montantes das transferências Stabex, referidas respectivamente na terceira parte, capítulo 1.º do título II, da Convenção e nas correspondentes disposições da Decisão, serão expressos em ecus.
 
@@ -567,7 +577,9 @@ Esse relatório descreverá, em especial, a incidência das transferências efec
 
 4 - O n.º 3 é igualmente aplicável no que se refere aos países e territórios.
 
-### CAPÍTULO VI — Artigo 32.º
+### CAPÍTULO VI
+
+###### Artigo 32.º
 
 As normas de execução do presente Acordo serão objecto de um regulamento financeiro a adoptar pelo Conselho, logo após a entrada em vigor da Convenção, deliberando pela maioria qualificada prevista no n.º 4 do artigo 21.º, com base num projecto da Comissão e após parecer do Banco, relativamente às disposições que lhe dizem respeito, e do Tribunal de Contas instituído pelo artigo 206.º do Tratado.
 
@@ -637,7 +649,7 @@ Declaração dos Estados membros e do Banco:
 
 Repartição das competêncis entre a Comissão e o Banco em matéria de financiamento de pequenas e médias empresas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/170a01/01200131.pdf))](https://files.diariodarepublica.pt/1s/1991/07/170a01/01200131.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/170a01/01200131.pdf)
 
 4 - Ad artigo 16.º:
 

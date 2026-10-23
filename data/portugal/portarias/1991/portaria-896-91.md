@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/896/1991/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/896-1991-302560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4bfae7dbf598a1828577a0c4336ceefc5376e2c4e8dac0c371601a10b8e51ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 347dd0e4ee0a99a9ab0e0395a92c35753c754868456f7f287aefc94ca48ca202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,60 @@ subjects:
 - Águeda
 - Alcobaça
 - Barcelos
+- Beja
 - Caldas da Rainha
 - Chaves
+- Évora
 - Extinção de Serviços
 - Faro
 - Fazenda Pública
+- Guarda
 - Ílhavo
 - Lagos
 - Moita
 - Olhão
 - Palmela
 - Paredes
-- Beja
-- VILA do Conde
-- Vila Real
 - Ponta Delgada
 - Portimão
 - Póvoa de Varzim
 - Santarém
-- Évora
 - Tesouraria da Fazenda Pública
 - Tomar
-- Guarda
 - Viana do Castelo
-relationships: []
+- VILA do Conde
+- Vila Real
+relationships:
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556023:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:44Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +154,12 @@ Manda o Governo, pelos Secretários de Estado do Orçamento e do Tesouro, em con
 
 Ministério das Finanças.
 
-**Assinada em 31 de Julho de 1991.**
+Assinada em 31 de Julho de 1991.
 
-**A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.**
+A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.
 
 MAPA
 
 Alterações do quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/201b00/46264626.pdf))](https://files.diariodarepublica.pt/1s/1991/09/201b00/46264626.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/201b00/46264626.pdf)

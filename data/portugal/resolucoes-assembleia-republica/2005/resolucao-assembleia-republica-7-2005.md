@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/7/2005/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/7-2005-604195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3efa93359cf0e9a84a7aa528e7fdb4ae00a764fb8f4e33b789255b443d24f974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7df0319f83d3977d3f51b1d1eef08451f200f1bf34b19c16e917dbc747e2461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Intelsat
 - Comunicações
+- Convenção
+- Intelsat
+- Portugal
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:604186:por
+  label: "Ratificadas as Emendas ao Acordo pelo DEC.11/2005.15.02.2005.PR, DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2005-604186
+  date: '2005-02-15'
 article_structure:
-  article_count: 0
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:09Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Dezembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 AMENDMENTS OF THE AGREEMENT RELATING TO THE INTERNATIONAL TELECOMMUNICATIONS SATELLITE ORGANIZATION (INTELSAT).
 
@@ -631,7 +636,7 @@ Desejando que a Sociedade honre os princípios fundamentais estabelecidos no art
 
 Tendo determinado que existe necessidade de uma organização de supervisão intergovernamental, da qual qualquer Estado membro das Nações Unidas ou da União Internacional das Telecomunicações se possa tornar Parte, para assegurar que a Sociedade cumpre os princípios fundamentais de forma contínua;»
 
-Artigo I
+###### Artigo I
 
 O artigo I («Definições») será alterado da seguinte forma:
 
@@ -687,7 +692,7 @@ Adicionar as seguintes novas definições depois do parágrafo q) e designar as 
 
 s) 'Administração' significa qualquer departamento ou agência governamental responsável pelo cumprimento das obrigações emergentes da Constituição da União Internacional das Telecomunicações, da Convenção da União Internacional de Telecomunicações e dos seus regulamentos administrativos.»
 
-Artigo II
+###### Artigo II
 
 O artigo II será alterado da seguinte forma:
 
@@ -697,7 +702,7 @@ Eliminar todo o texto do artigo II e inserir em seu lugar o seguinte:
 
 «Tendo em atenção os princípios enunciados no Preâmbulo do presente Acordo, as Partes estabelecem a Organização Internacional de Telecomunicações por Satélites, adiante referida como 'ITSO'.»
 
-Artigo III
+###### Artigo III
 
 O artigo III será alterado da seguinte forma:
 
@@ -721,7 +726,7 @@ ii) Servir os seus clientes de obrigação de conectividade dependente; e
 
 iii) Fornecer acesso não discriminatório ao sistema da Sociedade.»
 
-Artigo IV
+###### Artigo IV
 
 O artigo IV será alterado da seguinte forma:
 
@@ -731,7 +736,7 @@ Eliminar «INTELSAT» e inserir em seu lugar «ITSO» no parágrafo a).
 
 Redesignar todo o texto do artigo IV («Personalidade jurídica»), alterado, como artigo VI, excepto o anterior parágrafo b) do artigo III, alterado acima, o qual será inserido como novo texto do artigo IV.
 
-Artigo V
+###### Artigo V
 
 O artigo V será alterado da seguinte forma:
 
@@ -741,7 +746,7 @@ Eliminar todo o texto do artigo V e inserir em seu lugar o seguinte:
 
 «A ITSO adoptará todas as acções apropriadas, incluindo a celebração do Acordo do Serviço Público, para supervisionar a execução dos princípios fundamentais pela Sociedade, em particular o princípio do acesso não discriminatório ao sistema da Sociedade aos serviços públicos de telecomunicações existentes e futuros oferecidos pela Sociedade, quando a capacidade do segmento espacial estiver disponível numa base comercial.»
 
-Artigo VI
+###### Artigo VI
 
 O artigo VI será alterado da seguinte forma:
 
@@ -757,7 +762,7 @@ a) A Assembleia de Partes; e
 
 b) Um órgão executivo, dirigido pelo Director-Geral, responsável pela Assembleia de Partes.»
 
-Artigo VII
+###### Artigo VII
 
 O artigo VII («Assembleia de Partes») será alterado da seguinte forma:
 
@@ -771,11 +776,11 @@ Inserir o seguinte novo texto como artigo VII:
 
 b) Caso a ITSO continue a existir para além dos 12 anos, deverá obter financiamento através do Acordo de Serviço Público.»
 
-Artigo VIII
+###### Artigo VIII
 
 O artigo VIII («Assembleia de Signatários») será alterado da seguinte forma: eliminar o título e todo o texto do anterior artigo VIII e inserir em seu lugar o texto e o título alterados do artigo VI, com as alterações acima e com a nova designação acima referida de artigo VIII.
 
-Artigo IX
+###### Artigo IX
 
 O artigo IX será alterado da seguinte forma:
 
@@ -851,7 +856,7 @@ Inserir o seguinte novo parágrafo g):
 
 Redesignar o parágrafo h) como parágrafo i) e eliminar «INTELSAT» e todas as palavras a seguir até ao final da frase e inserir em seu lugar «ITSO».
 
-Artigo X
+###### Artigo X
 
 O artigo X será alterado da seguinte forma:
 
@@ -1065,15 +1070,15 @@ Indicação geral aplicável a todos os artigos
 
 Os artigos, alterados, serão reordenados por ordem numérica e os parágrafos de cada um, com as respectivas alterações, serão também reordenados por ordem alfabética.
 
-## ANEXO A
+ANEXO A
 
 O anexo A será eliminado na sua globalidade.
 
-## ANEXO B
+ANEXO B
 
 O anexo B será eliminado na sua globalidade.
 
-## ANEXO C
+ANEXO C
 
 O anexo C será alterado da seguinte forma:
 
@@ -1115,7 +1120,7 @@ No artigo 13, eliminar «e o Acordo de Exploração» em ambos os locais em que 
 
 No artigo 14, eliminar «INTELSAT» em ambos os locais em que ocorre e inserir em seu lugar «ITSO» e eliminar «para efeitos do artigo 8 do Acordo de Exploração».
 
-## ANEXO D
+ANEXO D
 
 O anexo D será eliminado na globalidade.
 

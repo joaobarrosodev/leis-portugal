@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/1992/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-1992-144252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b252b713a30db04bd36af0cf9ca7c425c0ca8aa57e797ce5c1c2898d60c3197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27e36ba35fd29d0e29cd09c03257cc598d02318a210922cd36988f19995623ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vila Franca de Xira
 - Hospital Distrital
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-relationships: []
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:178097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:16:48Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +164,6 @@ b) Auxiliar de acção médica - sete lugares.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Outubro de 1991.**
+Assinada em 30 de Outubro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuel Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.

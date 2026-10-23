@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 111/1997, 1º Suplemento, Série I-A de 1997-05-14
   number: '111'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2386-(2) a 2386-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28-a/1997/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-a-1997-232137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5243904acf4452ff12bcd8661c01f17a0c21da92bbcb67736038d7f7dfdfc1f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83a7623a4e6b4d05d960465afe7ec7f8e20a551538a14cf483b9d8a707f76ac6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Portugal
 - Europa
-- Interpretação do Direito
 - Forças Armadas
+- Interpretação do Direito
+- Portugal
 - Tratado sobre Forças Armadas Convencionais na Europa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:08Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 14 de Maio de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ANNEX A
 
@@ -181,7 +181,7 @@ VI
 
 2 - This Document, in all six official languages of the Treaty, shall be deposited with the Government of the Kingdom of the Netherlands, as the designated Depositary for the Treaty, which shall circulate copies of this Document to all States Parties.
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)
+[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)
 
 ANNEXE A
 
@@ -267,7 +267,7 @@ VI
 
 2 - Le présent Document est déposé, dans les six langues officielles du Traité, auprès du Gouvernement du Royaume des Pays-Bas, dépositaire désigné du Traité, qui diffuse des exemplaires à tous les Etats Parties.
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)
+[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)](https://files.diariodarepublica.pt/1s/1997/05/111a01/00020013.pdf)
 
 ## ANEXO A
 

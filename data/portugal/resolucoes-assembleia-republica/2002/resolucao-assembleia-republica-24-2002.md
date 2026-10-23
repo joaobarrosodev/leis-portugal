@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24/2002/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-2002-301258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62e78035df690fd49580eeede716b17b1598811e0b967769182d154f9bdc62f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f14425e1a5879f5d3cd07083006c9ea3bc1dc8e4a47ad5988e7241442a365c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Financiamento
 - CE Países
 - Comunidade Europeia
 - Convenção
 - Cotonu
+- Financiamento
 - Portugal
 - Tratado CEE
 relationships:
+- type: amended_by
+  target: pt:dre:301251:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.22/2002.2002.04.04.PR, DR.IS-A\
+    \ [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/22-2002-301251
+  date: '2002-04-04'
 - type: cites
   target: celex:31991D0482
   label: null
@@ -97,13 +103,13 @@ relationships:
 article_structure:
   article_count: 36
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:41Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +122,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO INTERNO ENTRE OS REPRESENTANTES DOS GOVERNOS DOS ESTADOS-MEMBROS, REUNIDOS NO CONSELHO, RELATIVO AO FINANCIAMENTO E À GESTÃO DA AJUDA CONCEDIDA PELA COMUNIDADE NO ÂMBITO DO PROTOCOLO FINANCEIRO DO ACORDO DE PARCERIA ENTRE OS ESTADOS DE ÁFRICA, DAS CARAÍBAS E DO PACÍFICO, POR UM LADO, E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR OUTRO, ASSINADO EM COTONU, NO BENIM, EM 23 DE JUNHO DE 2000, BEM COMO À CONCESSÃO DE ASSISTÊNCIA FINANCEIRA AOS PAÍSES E TERRITÓRIOS ULTRAMARINOS AOS QUAIS SE APLICA A PARTE IV DO [TRATADO CE](https://diariodarepublica.pt/application/external/tratado), ASSINADO EM 18 DE SETEMBRO EM BRUXELAS.
 
@@ -162,7 +168,7 @@ acordaram no seguinte:
 
 a) Um montante máximo de 13800 milhões de euros financiados pelos Estados-Membros, com a seguinte repartição:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)
 
 Esse montante global é repartido do seguinte modo:
 
@@ -414,7 +420,7 @@ Caso se verifiquem as circunstâncias excepcionais referidas nos artigos 72.º e
 
 3 - No Comité do FED os votos dos Estados-Membros terão a seguinte ponderação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30423055.pdf)
 
 4 - O Comité do FED pronuncia-se por maioria qualificada de 145 votos, expressando o voto favorável de pelo menos oito Estados-Membros.
 

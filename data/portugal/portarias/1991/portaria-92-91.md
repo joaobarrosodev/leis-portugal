@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/027b00/05220522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/92/1991/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-1991-509778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4cd2a50cb97941324e2f85c53b3fc71805649bbf8e4f3a029bc4f69b013c700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f68e39a267158baa58e85629da2aa7071672669153ced86de5de97bc31dd9ca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
 subjects:
 - RDP
 - TAXA de Radiodifusão
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:247046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426921:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:149824:por
+  label: "REVOGADA PELA PORTARIA 65/92, PUBLICADA NO DR.IS-B, 27, DE 920201.\001.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1992-149824
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:19Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +118,6 @@ Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia, do Com�
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 14 de Janeiro de 1991.**
+Assinada em 14 de Janeiro de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.

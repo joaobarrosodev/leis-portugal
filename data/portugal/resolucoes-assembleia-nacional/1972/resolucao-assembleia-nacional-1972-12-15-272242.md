@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 290/1972, 1º Suplemento, Série I de 1972-12-15
   number: '290'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1950-(1) a 1950-(105)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf
 entry_into_force_dates: []
@@ -48,40 +48,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1972-272242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62e26585713dd2e33e406eea6377be16c1bc645b6890c29fee18712f3d322f03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f1eaedb8bd64255f80bd1ada447e0950513a03c3b252fc899548a84efef2f6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CECA
+- CEE
+- Circulação de Mercadorias
+- Comité Misto
+- Convenção
+- Direitos Aduaneiros
+- Exportação
+- Importação
+- Irlanda
+- Pauta Aduaneira
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:158378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408939:por
+  label: Aprovado para ratificação o Acordo Intercalar ao presente Acordo entre a República Portuguesa e a Comunidade Económica
+    Europeia pelo(a) Decreto n.º 715/76 - Diário da República n.º 236/1976, Série I de 1976-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/715-1976-408939
+  date: '1976-10-08'
+- type: amended_by
+  target: pt:dre:381364:por
+  label: "Tornado público o teor da decisão 1/78 do Comité Misto de 12.12.1978 que altera os parágrafos 1, 2 e 3 do artigo\
+    \ 8.º, renumerados os parágrafos 4.º e 5.º e alterado o parágrafo 2.º do artigo 13.º do protocolo n.º 3 relativo à definição\
+    \ de produtos originários e aos métodos de Cooperação Administrativa, constante do Quadro II - Portugal do Acordo entre\
+    \ os Estados Membros da CECA e a CECA por um lado, e a República Portuguesa por outro lado, e o Acordo entre a CEE e a\
+    \ República Portuguesa aprovado pelo presente diploma, pelo AV.DD2842.03.08.1979.MNE, DR.IS [178] de 03.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1979-381364
+  date: '1979-08-03'
+- type: amended_by
+  target: pt:dre:600903:por
+  label: "Substituído o segundo parágrafo da nota explicativa n.º 6 do Protocolo n.º 3 do Acordo entre a República Portuguesa\
+    \ e a Comunidade Económica Europeia, aprovado no presente diploma, pelo AV.DD418.26.01.1982.MNE, DR.IS [21] de 26.01.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1982-600903
+  date: '1982-01-26'
+- type: amended_by
+  target: pt:dre:311456:por
+  label: "Acrescentados ao presente Protocolo os documentos que fazem parte integrante do Acordo, pelo DEC.19/83.1983.03.01.MNE,\
+    \ DR.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/19-1983-311456
+  date: '1983-03-01'
+- type: amended_by
+  target: pt:dre:158378:por
+  label: "Ratificado o Tratado de Amesterdão (aprovado para ratificação pela Res 7/99 de 19-Fev que altera disposições do\
+    \ Tratado CECA, pelo DEC.65/99.1999.02.19.PR DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-1999-158378
+  date: '1999-02-19'
+- type: cites
+  target: pt:dre:184508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680808:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684661:por
+  label: Rectificados a o n.º 1 do art. 4.º e os anexos A, D e E do Acordo entre os Estados Membros da Comunidade Europeia
+    do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado,
+    e do Acordo entre a Comunidade Económica Europeia e a República Portuguesa pelo(a) Rectificação - Diário do Governo n.º
+    45/1973, Série I de 1973-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1973-684661
+  date: '1973-02-22'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:20Z'
   warnings: []
   errors: []
 ---
@@ -392,13 +453,13 @@ Depois de 1 de Janeiro de 1973, o presente Acordo entrará em vigor no primeiro 
 
 As disposições aplicáveis em 1 de Abril de 1973 serão aplicadas na entrada em vigor do presente Acordo se esta se verificar após essa data.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Done at Brussels on this twenty-second day of July in the year one thousand nine hundred and seventy-two.
 
 Fait à Bruxelles, le vingt-deux juillet mil neuf cent soixante-douze.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Feito em Bruxelas, aos vinte e dois de Julho de mil novecentos e setenta e dois.
 
@@ -446,7 +507,7 @@ Ireland:
 
 Geoffrey Rippon.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Edmund P. Wellenstein.
 
@@ -456,7 +517,7 @@ Rui Patrício.
 
 ## ANEXO — Lista dos produtos referidos no artigo 1 do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 1 RELATIVO AO REGIME PAUTAL APLICÁVEL EM PORTUGAL A CERTOS PRODUTOS
 
@@ -464,11 +525,11 @@ PROTOCOLO N.º 1 RELATIVO AO REGIME PAUTAL APLICÁVEL EM PORTUGAL A CERTOS PRODU
 
 1. Em derrogação do disposto no artigo 2 do Acordo, os direitos de importação aplicados em Portugal aos produtos originários da Comunidade na sua composição original e da Irlanda e enumerados na lista anexa serão eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 2. Para os produtos originários da Dinamarca, da Noruega e do Reino Unido e enumerados na mesma lista, os direitos de importação aplicados em Portugal serão eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 3. A partir de 1 de Julho de 1977, Portugal aplicará a todos os Estados membros da Comunidade, sem discriminação, o tratamento mais favorável resultante das reduções efectuadas, em conformidade com o disposto no presente artigo, dos direitos de base a que se refere o artigo 4 do Acordo.
 
@@ -480,7 +541,7 @@ Em derrogação do disposto no artigo 2 do Acordo e no artigo 1 do presente Prot
 
 Lista relativa aos produtos submetidos, quando da importação em Portugal, aos direitos da Pauta Portuguesa, reduzidos nas proporções e segundo os calendários indicados no artigo 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 NOTA
 
@@ -518,7 +579,7 @@ Em derrogação do disposto no artigo 10 do Acordo, relativamente aos produtos o
 
 Quando, durante dois anos consecutivos, as importações em Portugal dos produtos originários da Comunidade enumerados na referida lista forem inferiores ao contingente estabelecido, as importações desses produtos serão liberalizadas.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ACTA FINAL
 
@@ -530,13 +591,13 @@ Declaração interpretativa relativa à definição da expressão «Partes Contr
 
 2. Declaração do Governo da República Federal da Alemanha relativa à aplicação do Acordo a Berlim.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Done at Brussels on this twenty-second day of July in the year one thousand nine hundred and seventy-two.
 
 Fait à Bruxelies, le vingt-deux juillet mil neuf cent soixante-douze.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Feito em Bruxelas, aos vinte e dois de Julho de mil novecentos e setenta e dois.
 
@@ -548,7 +609,7 @@ På Konseriget Danmarks vegne:
 
 Finn Olav Gundelczch.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Sigismund von Braum.
 
@@ -582,7 +643,7 @@ Northen Ireland:
 
 Geoffrey Rippon
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Jean-François Deniau.
 
@@ -928,17 +989,17 @@ Depois dessa data, o presente Acordo entrará em vigor no primeiro dia do segund
 
 As disposições aplicáveis em 1 de Abril de 1973 serão aplicadas na entrada em vigor do presente Acordo se esta se verificar após essa data.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Done at Brussels on this twenty-second day of July in the year one thousand nine hundred and seventy-two.
 
 Fait à Bruxelles, le vingt-deux juillet mil neuf cent soixante-douze.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Feito em Bruxelas, aos vinte e dois de Julho de mil novecentos e setenta e dois.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 W. K. N. Schmelzer.
 
@@ -954,35 +1015,35 @@ Ruy Teixeira Guerra.
 
 ## ANEXO I — Lista dos produtos referidos no artigo 2 do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO II — Listas dos produtos submetidos, quando da importação em Portugal, às disposições do artigo 4 do Acordo
 
 Lista A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Lista B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Nota. - Na fórmula para o cálculo dos direitos P representa o peso do automóvel em quintais métricos e tx a taxa em escudos. As taxas obtidas pela sua aplicação devem arredondar-se, por defeito, até cinco centavos e nos outros casos por excesso. A taxa, porém, nunca poderá ser inferior a 15$50 por quilograma.
 
 Lista C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO III
 
 Lista dos produtos submetidos, quando da importação em Portugal, às disposições do parágrafo 1, 2.ª alínea do artigo 5 do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO IV
 
 Lista dos produtos submetidos, quando da importação no Reino Unido, às disposições do parágrafo 3 do artigo 5 do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 1 RELATIVO AO REGIME APLICÁVEL A CERTOS PRODUTOS
 
@@ -992,15 +1053,15 @@ PROTOCOLO N.º 1 RELATIVO AO REGIME APLICÁVEL A CERTOS PRODUTOS
 
 1. Os direitos de importação aplicáveis pela Comunidade na sua composição original aos produtos classificados nos capítulos 48 e 49 da Pauta Aduaneira Comum, com excepção dos produtos classificados na posição 48.09. «Chapas para construções, de pasta de papel, madeira desfibrada ou outras matérias vegetais desfibradas, mesmo aglomeradas com resinas, naturais ou artificiais, ou com outros aglomerantes similares», serão eliminados progressivamente segundo o ritmo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 2. Os direitos de importação aplicáveis na Irlanda aos produtos referidos no parágrafo 1 serão eliminados progressivamente segundo o ritmo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 3. Em derrogação do disposto no artigo 3 do Acordo, a Dinamarca, a Noruega e o Reino Unido aplicam, quando da importação dos produtos referidos no parágrafo 1, originários de Portugal, os direitos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 4. Durante o período compreendido entre 1 de Janeiro de 1974 e 31 de Dezembro de 1983, a Dinamarca, a Noruega e o Reino Unido têm a faculdade de abrir anualmente à importação de produtos originários de Portugal os contingentes pautais com direito nulo cujo montante, indicado no Anexo A para o ano de 1974, é igual à média das importações efectuadas durante os anos de 1968 a 1971 aumentada cumulativamente quatro vezes de 5 por cento;
 
@@ -1012,7 +1073,7 @@ a partir de 1 de Janeiro de 1975 o montante desses contingentes pautais será au
 
 1. As importações dos produtos referidos no artigo 1 e dos produtos enumerados no quadro seguinte são submetidas a plafonds anuais, para além dos quais os direitos de importação aplicáveis em relação a terceiros países podem ser restabelecidos, em conformidade com as disposições dos parágrafos 2 a 10:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 2. Tendo em atenção a possibilidade que a Comunidade tem de diferir a aplicação de plafonds em relação a certos produtos, os plafonds fixados para o ano de 1973 são os indicados no Anexo B. Estes plafonds são calculados tendo em consideração que a Comunidade na sua composição original e a Irlanda efectuam a primeira redução pautal em 1 de Abril de 1973.
 
@@ -1032,7 +1093,7 @@ Em relação aos produtos referidos no presente Protocolo e não enumerados no A
 
 Nesse caso, antes de 1 de Julho de 1977, a Irlanda restabelece a cobrança dos direitos aplicáveis nesse momento em relação a países terceiros e a Dinamarca, a Noruega e o Reino Unido procederão à cobrança dos direitos de importação a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Os direitos de importação resultantes da aplicação do disposto no artigo 1 do presente Protocolo e no artigo 3 do Acordo são restabelecidos em 1 de Janeiro do ano seguinte, em relação aos produtos referidos no artigo 1 do presente Protocolo e aos produtos referidos no parágrafo 1 do presente artigo.
 
@@ -1048,7 +1109,7 @@ Em relação aos produtos referidos no parágrafo 1, os plafonds serão eliminad
 
 Em derrogação do disposto no artigo 3 do Acordo, os direitos de importação aplicáveis na Irlanda aos produtos originários de Portugal enumerados no Anexo C serão eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 #### SECÇÃO B — Regime aplicável à importação em Portugal de certos produtos originários da Comunidade
 
@@ -1056,21 +1117,21 @@ Em derrogação do disposto no artigo 3 do Acordo, os direitos de importação a
 
 1. Em derrogação do disposto no artigo 3 do Acordo, os direitos de importação aplicados em Portugal aos produtos originários da Comunidade na sua composição original e da Irlanda, enumerados nas listas A e B do Anexo D, serão eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 2. Para os produtos originários da Dinamarca da Noruega e do Reino Unido, enumerados nas mesmas listas A e B, os direitos de importação aplicados em Portugal serão eliminados progressivamente nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 3. Em relação aos produtos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Quando originários da Comunidade na sua composição original e da Irlanda, Portugal aplica o regime previsto no artigo 3 do Acordo;
 
 Quando originários da Dinamarca, da Noruega e do Reino Unido, Portugal elimina os direitos de importação nas proporções e segundo o calendário seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 4. Para os produtos originários da Dinamarca, da Noruega e do Reino Unido não referidos nos parágrafos 1, 2 e 3, Portugal elimina, em 1 de Janeiro de 1973, os direitos que subsistam nessa data em relação a esses três países.
 
@@ -1080,7 +1141,7 @@ Quando originários da Dinamarca, da Noruega e do Reino Unido, Portugal elimina 
 
 1. As importações dos produtos enumerados no quadro seguinte são submetidos a um plafond anual para além do qual os direitos de importação aplicáveis a terceiros países podem ser restabelecidos, segundo o disposto nos parágrafos 2 a 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 2. Tendo em atenção a possibilidade que Portugal tem de diferir a aplicação de plafonds em relação a certos produtos, os plafonds fixados para o ano de 1973 são os indicados no Anexo E. A partir de 1 de Janeiro de 1974 o montante desses plafonds será aumentado anualmente de 10 por cento.
 
@@ -1112,17 +1173,17 @@ Os direitos de importação resultantes do disposto no artigo 3 do Acordo são r
 
 Dinamarca, Noruega, Reino Unido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO B — Lista dos «plafonds» para o ano de 1973
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO C
 
 Relativo aos produtos submetidos, quando da importação na Irlanda, aos direitos da Pauta Aduaneira Irlandesa que serão reduzidos nas proporções e segundo o calendário constante do artigo 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO D
 
@@ -1132,17 +1193,17 @@ Lista A
 
 Relativa aos produtos submetidos, quando da importação em Portugal, aos direitos da Pauta Portuguesa, reduzidos nas proporções e segundo os calendários referidos no artigo 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Lista B
 
 Relativa aos produtos submetidos, quando da importação em Portugal, aos direitos da Pauta Portuguesa, reduzidos nas proporções e segundo os calendários referidos no artigo 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO E — Lista dos «plafonds» para o ano de 1973
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 2 RELATIVO AOS PRODUTOS SUJEITOS A REGIME ESPECIAL PARA TOMAR EM CONSIDERAÇÃO AS DIFERENÇAS DE CUSTO DOS PRODUTOS AGRÍCOLAS INCORPORADOS.
 
@@ -1198,7 +1259,7 @@ Em 1 de Julho de 1977.
 
 3. Em derrogação do disposto no parágrafo 3 do artigo 5 do Acordo e sob reserva da aplicação a efectuar pela Comunidade do parágrafo 5 do artigo 39 da «Acta relativa às condições de adesão e às adaptações dos tratados», estabelecida e decidida no âmbito da Conferência entre as Comunidades Europeias e o Reino da Dinamarca, a Irlanda, o Reino da Noruega e o Reino Unido da Grã-Bretanha e da Irlanda do Norte, relativamente aos direitos específicos ou à parte específica dos direitos mistos da Pauta Aduaneira do Reino Unido, os parágrafos 1 e 2 são aplicados arredondando-se à quarta decimal para os produtos a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 4. Para os produtos classificados nas posições 19.03, 22.06 e 35.01 B da Pauta Aduaneira do Reino Unido e enumerados no quadro I anexo ao presente Protocolo, o Reino Unido pode diferir a primeira das reduções pautais previstas no parágrafo 2 até 1 de Julho de 1973.
 
@@ -1216,13 +1277,13 @@ QUADRO I
 
 Comunidade Económica Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 QUADRO II
 
 Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 3 RELATIVO À DEFINIÇÃO DE PRODUTOS ORIGINÁRIOS E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -1580,23 +1641,23 @@ No caso de serem importados na Dinamarca, na Noruega ou no Reino Unido produtos 
 
 Lista das operações ou transformações que implicam uma mudança de posição pautal, mas que não conferem a qualidade de «produtos originários» aos produtos a elas submetidos, ou que a conterem só em determinadas condições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO III — Lista B
 
 Lista das operações ou transformações que não implicam uma mudança de posição pautal mas que, não obstante, conferem a qualidade de «produtos originários» aos produtos a elas submetidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO IV — Lista C
 
 Lista dos produtos excluídos da aplicação do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ## ANEXO V — Acordo C. E. E. - Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Notas que constam do verso do certificado A. P. 1
 
@@ -1636,7 +1697,7 @@ Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou 
 
 Acordo C. E. E. - Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Declaração do exportador
 
@@ -1692,7 +1753,7 @@ Para as mercadorias obtidas: o preço «à saída da fábrica», isto é, o pre�
 
 ## ANEXO VI — Acordo C. E. E. - Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Nota que constam do verso do certificado A. W. 1
 
@@ -1732,7 +1793,7 @@ Fica sujeita à aplicação de sanções toda e qualquer pessoa que forneça ou 
 
 Acordo C. E. E. - Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Declaração do exportador
 
@@ -1806,9 +1867,9 @@ Em derrogação do disposto no artigo 7 do Acordo, Portugal pode manter em vigor
 
 O montante dessas taxas pode ser modificado com o acordo do Comité Misto.
 
-### CAPÍTULO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+### CAPÍTULO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
-### CAPÍTULO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+### CAPÍTULO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 6 RELATIVO AO REGIME ESPECIAL APLICÁVEL ÀS IMPORTAÇÕES DE VEÍCULOS AUTOMÓVEIS E À INDÚSTRIA DA MONTAGEM EM PORTUGAL.
 
@@ -1840,7 +1901,7 @@ Portugal abre a favor de cada importador-montador, para a importação de veícu
 
 Portugal abre anualmente contingentes para a importação de veículos automóveis de peso bruto superior a 3500 kg, originários da Comunidade, em conformidade com as modalidades seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ###### ARTIGO 5
 
@@ -1870,7 +1931,7 @@ Durante o 2.º semestre, o volume de cada contingente é igual a metade do conti
 
 ## ANEXO I — Lista dos contingentes referidos no parágrafo o 1 do artigo 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Declaração interpretativa da República Portuguesa relativa ao cálculo dos direitos de importação que incidem sobre os veículos automóveis classificados na posição pautal 87.02 da Nomenclatura de Bruxelas referido nos artigos 6 e 7.
 
@@ -1902,7 +1963,7 @@ Quando, durante dois anos consecutivos, as importações em Portugal dos produto
 
 b) Portugal eliminará, o mais tardar em 1 de Janeiro de 1985, as restrições quantitativas ou medidas de efeitos equivalentes aplicáveis à importação dos produtos petrolíferos mencionados no artigo 16 do Acordo.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 PROTOCOLO N.º 8 RELATIVO AO REGIME APLICÁVEL A CERTOS PRODUTOS AGRÍCOLAS
 
@@ -1910,7 +1971,7 @@ PROTOCOLO N.º 8 RELATIVO AO REGIME APLICÁVEL A CERTOS PRODUTOS AGRÍCOLAS
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções indicadas para cada um deles e segundo as condições previstas no artigo 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ###### ARTIGO 2
 
@@ -1926,13 +1987,13 @@ Em relação aos preparados e conservas de sardinha, classificados na subposiç�
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções e dentro dos limites dos contingentes pautais indicados para cada um deles, segundo as condições previstas no artigo 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ###### ARTIGO 5
 
 Para os produtos a seguir enumerados, originários de Portugal, os direitos de importação na Comunidade são reduzidos nas proporções indicadas para cada um deles e segundo as condições previstas no artigo 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ###### ARTIGO 6
 
@@ -1940,11 +2001,11 @@ Para os produtos a seguir enumerados, originários de Portugal, os direitos de i
 
 2. Para os produtos referidos nos artigos 1, 2 e 3, a Dinamarca, a Noruega e o Reino Unido eliminam progressivamente a diferença existente entre os direitos efectivamente aplicados em 1 de Janeiro de 1972 e os direitos que resultam da aplicação dos referidos artigos, segundo o ritmo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Em derrogação do calendário acima mencionado, a última redução efectuar-se-á em 1 de Janeiro de 1978, para os produtos a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 3. Em derrogação do disposto no parágrafo 1, nos casos em que a sua aplicação seja susceptível de provocar movimentos pautais que se afastem momentaneamente da aproximação ao direito final, a Dinamarca, a Irlanda, a Noruega e o Reino Unido podem manter os direitos de importação respectivos até ao momento em que estes sejam igualados por uma aproximação ulterior ou, se for caso disso, aplicar o direito resultante de uma aproximação ulterior logo que um movimento pautal atinja ou ultrapasse esse nível.
 
@@ -1956,7 +2017,7 @@ Em relação à Dinamarca, à Noruega e ao Reino Unido os direitos de importaç�
 
 Para os produtos a seguir enumerados, Portugal compromete-se a adoptar as disposições apropriadas com o objectivo de manter e aumentar, se possível, em condições normais de mercado, nomeadamente no que se refere à igualdade de preços e qualidade, a quota-parte da Comunidade nas importações destes produtos, calculada com base nos anos de 1969, 1970 e 1971:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 ACTA FINAL
 
@@ -1974,13 +2035,13 @@ tomaram nota das declarações seguintes, anexas à presente acta:
 
 3. Declaração da República Portuguesa relativa à aplicação do Protocolo n.º 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Done at Brussels on this twenty-second day of July in the year on a thousand nine hundred and seventy-two.
 
 Fait à Bruxelles, la vingt-deux juillet mil neuf cent soixante-douze.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf))](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/29001/00010105.pdf)
 
 Feito em Bruxelas, aos vinte e dois de Julho de mil novecentos e setenta e dois.
 
@@ -2030,10 +2091,10 @@ A República Portuguesa assegurará que a quota-parte da Comunidade Económica E
 
 Carlos Monteiro do Amaral Netto.
 
-**Promulgada em 15 de Dezembro da 1972.**
+Promulgada em 15 de Dezembro da 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Marcello Caetano.

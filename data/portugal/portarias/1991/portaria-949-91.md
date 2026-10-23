@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/1991/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-1991-301418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3e081f8b094dde1018d71b24b31daac7d3bb0483f9c3fbe1d43fcae6b5e7d52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47d2832e32d4676125240ac21b7632b0b0cf86509820dd62e3d024041deafd3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Europeus
 - Dinensino-ensino Desenvolvimento e Cooperação
 - Ensino Particular
 - Licenciatura
+- Plano de Estudos
 - Universidade Moderna
 relationships:
 - type: amended_by
   target: pt:dre:524637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482399:por
+  label: "Alterada a denominação do curso de licenciatura em Estudos Europeus, na redacção da Port 311/98, de 20-Mai, pela\
+    \ PORT.1186/2003.09.10.2003.MCES, DR.IS-B [234] de 09.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1186-2003-482399
+  date: '1991-09-18'
+- type: amended_by
+  target: pt:dre:524636:por
+  label: "Alterado o plano de estudos do Curso de Estudos Europeus (licenciatura ministrada no Porto), pela PORT.311/98.1998.05.20.ME,\
+    \ DR.IS-B [116]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1998-524636
+  date: '1998-05-20'
+- type: amended_by
+  target: pt:dre:524637:por
+  label: "Alterado o plano de estudos do Curso de Estudos Europeus (licenciatura ministrada no Lisboa), pela PORT.312/98.1998.05.20.ME,\
+    \ DR.IS-B [116]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-1998-524637
+  date: '1998-05-20'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:59Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +132,10 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 4 de Setembro de 1991.**
+Assinada em 4 de Setembro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Curso de Estudos Europeus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/215b00/49374937.pdf))](https://files.diariodarepublica.pt/1s/1991/09/215b00/49374937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/215b00/49374937.pdf)

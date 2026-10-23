@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-1984-661152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f18ec7ef52c4a7dbae8f9b8ccb8c2e24ed36916c10829b42d168f788135f04c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fedfaf3dd8fc674aae6aee9a6dc8d66be95036ffe429cc7933d05d578cb02ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Direito de Família
+- Portugal
+- Registo Civil
+- Roma
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:21Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 CONVENTION PORTANT EXTENSION DE LA COMPÉTENCE DES AUTORITÉS QUALIFIÉS POUR RECEVOIR LES RECONAISSANCES D'ENFANTS NATURELS.
 
@@ -211,39 +216,39 @@ CONVENÇÃO DESTINADA A ALARGAR A COMPETÊNCIA DAS AUTORIDADES QUALIFICADAS PARA
 
 Os Governos da República Federal da Alemanha, da República da Áustria, do Reino da Bélgica, da República Francesa, do Reino da Grécia, da República Italiana, do Grão-Ducado do Luxemburgo, do Reino dos Países Baixos, da Confederação Suíça e da República Turca, membros da Comissão Internacional do Estado Civil, desejosos de permitir aos nacionais dos seus respectivos Estados fazerem o reconhecimento de filhos naturais no território de outros Estados contratantes como o poderiam fazer no território do seu próprio Estado e de facilitar assim tal reconhecimento, acordaram nas seguintes disposições:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Para o efeito da presente Convenção, o acto pelo qual uma pessoa declara ser pai de um filho natural é designado por «reconhecimento com filiação» ou por «reconhecimento sem filiação», conforme esta declaração se destine ou não a estabelecer um vínculo jurídico de filiação entre aquele que a faz e o filho natural que dela é objecto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 No território dos Estados contratantes cuja legislação somente prevê o reconhecimento sem filiação, os nacionais dos outros Estados contratantes cuja legislação preveja o reconhecimento com filiação são admitidos a fazer um reconhecimento com filiação.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 No território dos Estados contratantes cuja legislação somente prevê o reconhecimento com filiação os nacionais dos outros Estados contratantes cuja legislação preveja o reconhecimento sem filiação são admitidos a fazer um reconhecimento sem filiação.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As declarações previstas nos artigos 2.º e 3.º são recebidas pelo funcionário do registo civil ou por qualquer outra autoridade competente, segundo a forma prevista na lei local, e devem mencionar sempre a nacionalidade de que se prevaleceu o declarante. Estas declarações têm o mesmo valor que teriam se prestadas perante a autoridade competente do país do declarante.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 As certidões de cópia integral ou de narrativa dos actos que contenham as declarações previstas nos artigos 2.º e 3.º, devidamente certificadas e com a assinatura e o selo da autoridade que as emitiu, estão dispensadas de legalização no território dos Estados contratantes.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 A presente Convenção será ratificada e os instrumentos de ratificação serão depositados junto do Conselho Federal Suíço.
 
 Este avisará os Estados contratantes e o Secretariado-Geral da Comissão Internacional do Estado Civil de todo o depósito de instrumentos de ratificação.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A presente Convenção entrará em vigor no 30.º dia seguinte à data do depósito do segundo instrumento de ratificação previsto no artigo anterior.
 
 Para cada Estado signatário que ratifique posteriormente a Convenção, esta entrará em vigor no 30.º dia seguinte à data do depósito do seu instrumento de ratificação.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 A presente Convenção aplica-se de pleno direito a todo o território metropolitano de cada Estado contratante.
 
@@ -255,19 +260,19 @@ O Conselho Federal Suíço avisará da nova notificação cada um dos Estados co
 
 A Convenção deixará de ser aplicável ao território visado no 60.º dia seguinte à data em que o Conselho Federal Suíço tiver recebido a dita notificação.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Qualquer Estado membro da Comissão Internacional do Estado Civil poderá aderir à presente Convenção. O Estado que deseje aderir notificará a sua intenção por documento, que será depositado junto do Conselho Federal Suíço. Este avisará cada um dos Estados contratantes e o Secretariado-Geral da Comissão Internacional do Estado Civil de todo o depósito de acto de adesão. A Convenção entrará em vigor para o Estado aderente no 30.º dia seguinte à data do depósito do acto de adesão.
 
 O depósito do acto de adesão não poderá ter lugar senão depois da entrada em vigor da presente Convenção.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A presente Convenção pode ser submetida a revisões.
 
 A proposta de revisão será apresentada ao Conselho Federal Suíço, que a notificará aos diversos Estados contratantes, bem como ao Secretariado-Geral da comissão Internacional do Estado Civil.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 A presente Convenção terá a duração de 10 anos, a partir da data indicada na primeira alínea do artigo 7.º
 
@@ -321,4 +326,4 @@ Pelo Governo da República Turca:
 
 M. Kenanoglu.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/64/2008/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/64-2008-444187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620eb97ba18430a32e8021beee2d0737823e34150dee5039f43479abfad1533a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2897ef6603b718793d15c67f3ea057e407da843fc2e24f6e71f8aa6196a431a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Madeiras Tropicais
 - Genebra
-relationships: []
+- Madeiras Tropicais
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:444186:por
+  label: "Ratificado o Acordo Internacional, pelo DEC.153/2008.12.12.2008.PR, DR.IS [240] de 12.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/153-2008-444186
+  date: '2008-12-12'
 article_structure:
   article_count: 46
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:25Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 17 de Outubro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 INTERNATIONAL TROPICAL TIMBER AGREEMENT, 2006
 
@@ -863,7 +868,7 @@ ANNEX A
 
 List of Governments attending the United Nations Conference for the Negotiation of a Successor Agreement to the International Tropical Timber Agreement, 1994, that are potential producer members as defined in article 2 («Definitions») and indicative allocation of votes as per article 10 («Distribution of votes»).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf)
 
 ANNEX B
 
@@ -1493,7 +1498,7 @@ Nenhuma disposição do presente Acordo permite o recurso a medidas destinadas a
 
 ###### Artigo 35.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é designado depositário do presente Acordo.**
+O Secretário-Geral da Organização das Nações Unidas é designado depositário do presente Acordo.
 
 ###### Artigo 36.º — Assinatura, ratificação, aceitação e aprovação
 
@@ -1601,7 +1606,7 @@ Feito em Genebra em 27 de Janeiro de 2006, os textos do presente Acordo nas lín
 
 Lista dos Governos que participam na Conferência das Nações Unidas para a negociação de um Acordo destinado a suceder ao Acordo Internacional de 1994 sobre as Madeiras Tropicais que são potenciais membros produtores, na acepção do artigo 2.º («Definições») e repartição indicativa dos votos nos termos do artigo 10.º («Repartição dos votos»).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24000/0871208736.pdf)
 
 ## ANEXO B
 

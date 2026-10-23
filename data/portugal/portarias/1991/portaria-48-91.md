@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/014b00/02670268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/48/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/48-1991-495317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4944877fd8cead6c6ca519ceadae511eb41e5f3991257ef824d5ec8f8b7abdbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09519192fa07d9fbf5630aeb2f9d327fcea581a91347e8ba2d9dc23955e1bae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,22 @@ relationships:
   target: celex:31978L1031
   label: null
   source: http://data.europa.eu/eli/dir/1978/1031/oj
+- type: repealed_by
+  target: pt:dre:262137:por
+  label: "Revogada a partir de 15.01.2007 pela PORT.57/2007.10.01.2007.MEI, DR.IS [7] de 10.01.2007, sem prejuízo do disposto\
+    \ no art. 21º do Dec Lei 192/2006 de 26-Set\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2007-262137
+  date: '2007-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:36Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +118,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, que seja aprovado o Regu
 
 Ministério da Indústria e Energia.
 
-**Assinada em 2 de Janeiro de 1991.**
+Assinada em 2 de Janeiro de 1991.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 REGULAMENTO DO CONTROLO METROLÓGICO DAS DIFERENCIADORAS PONDERAIS AUTOMÁTICAS DE CONTROLO E DE CLASSIFICAÇÃO
 

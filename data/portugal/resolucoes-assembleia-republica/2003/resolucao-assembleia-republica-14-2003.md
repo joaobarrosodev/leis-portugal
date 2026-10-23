@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/2003/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-2003-220502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a351bc6d3c0f7cb59c2422425c6cacc9a635ff3581ee9a39a9e78e1ec0dd9e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01852db66beb55716a559828058ba4a175106620fcd7b19b237897ad9a138eda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,17 +73,22 @@ subjects:
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:220500:por
+  label: "Ratificado o Acordo pelo DEC.12/2003.2003.03.04.PR DR.IS-A [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2003-220500
+  date: '2003-03-04'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:51Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Dezembro de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ## ANEXO
 
@@ -300,11 +305,11 @@ Feito em 15 de Novembro de 2000, em Andorra, em duas versões originais, nas lí
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
 
 Pelo Principado de Andorra:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
 
 PROTOCOLO ESTABELECIDO NOS TERMOS DO ARTIGO 17.º DO ACORDO ENTRE A REPÚBLICA PORTUGUESA E O PRINCIPADO DE ANDORRA SOBRE TRANSPORTES INTERNACIONAIS RODOVIÁRIOS DE PASSAGEIROS E DE MERCADORIAS.
 
@@ -386,10 +391,10 @@ Feito em 15 de Novembro de 2000, em Andorra, em duas versões originais, nas lí
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
 
 Pelo Principado de Andorra:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)
 
 [(ver texto em língua catalã no documento original)](https://files.diariodarepublica.pt/1s/2003/03/053a00/14781486.pdf)

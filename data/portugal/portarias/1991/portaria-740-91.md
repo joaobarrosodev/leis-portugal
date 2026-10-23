@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/175b00/37793780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/740/1991/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-1991-686856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa28196aa6b840c1a19c4a42095a6eb1788c56c9f5e308db76c8d79fd41c40d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b066ed6b1becf01177b14ffb6caeb31a3ceb08ae09c29865cd55ac80d15ffb82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,26 @@ relationships:
   target: pt:dre:261338:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261338:por
+  label: ALTERADOS OS MONTANTES PREVISTOS NO NUM 11 BEM COMO O PREVISTO NAS VARIAS ALS DO NUM 1 E NO NUM 2 PELA PORT 819/92
+    DE 19-AGO DR.IS-B [190],
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/819-1992-261338
+  date: '1991-08-19'
+- type: cites
+  target: pt:dre:573547:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:02Z'
   warnings: []
   errors: []
 ---
@@ -152,6 +162,6 @@ b) Para cada praticante (titular ou suplente) dos desportos colectivos:
 
 Ministério da Educação.
 
-**Assinada em 28 de Junho de 1991.**
+Assinada em 28 de Junho de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

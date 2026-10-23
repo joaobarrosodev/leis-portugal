@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 219/1991, 1º Suplemento, Série I-B de 1991-09-23
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5020-(2) a 5020-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/975-b/1991/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-b-1991-475478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b2295ef51f330469dbb1b08f71f895d7137d88f2aa9d162e6561209819c59c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e58bee26f02d06c8ff50d8629878fce8b898fe25a1270fba3171e5f90348333c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Regional de Segurança Social
-- Pessoal Operário
 - Lisboa
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
 - Pessoal de Informática
+- Pessoal Docente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Pessoal Docente
 - Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, APROVADO PELA PORTARIA 155/92, PUBLICADA NO DR.IS-B, 199, DE 920829. ALTERADO O QUADRO\
+    \ DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DE LISBOA, PELO DESPACHO NORMATIVO 151/92, PUBLICADO NO DR.IS-B, 194,\
+    \ DE 920824. ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DE LISBOA, PELA PORTARIA 1163/92, PUBLICADA\
+    \ NO DR.IS-B, 291, DE 921218. ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA SOCIAL SOCIAL DE LISBOA, PELA\
+    \ PORTARIA 461/93, PUBLICADA NO DR.IS-B, 101, DE 930430. ALTERADO O QUADRO DE PESSOAL DO CENTRO REGIONAL DE SEGURANÇA\
+    \ SOCIAL DE LISBOA, PELA PORTARIA 475/93, PUBLICADA NO DR.IS-B, 104, DE 930505. ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO\
+    \ NORMATIVO 216/93, DE 28 DE JUNHO, PUBLICADO NO DR.IS-B, 199, DE 930825. ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO\
+    \ NORMATIVO 228/93, DE 28 DE JULHO, PUBLICADO NO DR.IS-B, 200, DE 930826.\0 28 DE JULHO, PUBLICADO NO DR.IS-B, 200, DE\
+    \ 930826.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:273825:por
   label: Última alteração registada na importação inicial
@@ -90,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/161/1991/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/161/1991/02/25/p/dre
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:38Z'
   warnings: []
   errors: []
 ---
@@ -128,14 +168,14 @@ Manda o Governo, pelos Secretários de Estado do Orçamento e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 16 de Setembro de 1991.**
+Assinada em 16 de Setembro de 1991.
 
-**A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
 
 ## ANEXO I — QUADRO DO CENTRO REGIONAL DE SEGURANÇA SOCIAL DE LISBOA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf)
 
 ## ANEXO II — PESSOAL ABRANGIDO PELA PORTARIA N.º 193/79, DE 21 DE ABRIL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/219b01/00020005.pdf)

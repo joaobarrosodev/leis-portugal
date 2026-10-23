@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/884/1991/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/884-1991-403919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2701526d540517f3a550efc94e72d6a4d9b5c8a52c3fabf0c01e4558dba8c71a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 201ec3354cee14837a72ebb5e2c3550e66eb28b13b7930ef552cdb742398c506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,25 @@ relationships:
   target: pt:dre:290977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331408:por
+  label: "Alterado o n.º 2.º e aditado um número 3 pela PORT.1161/91.11.11.1991.MOPTC, DR.IS-B [259] de 11.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1161-1991-331408
+  date: '1991-11-11'
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:26Z'
   warnings: []
   errors: []
 ---
@@ -147,8 +156,8 @@ Só poderão ser utilizadas chapas de matrícula cujo modelo tenha sido aprovado
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 7 de Agosto de 1991.**
+Assinada em 7 de Agosto de 1991.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Ferreira do Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/197b00/44734476.pdf))](https://files.diariodarepublica.pt/1s/1991/08/197b00/44734476.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/197b00/44734476.pdf)

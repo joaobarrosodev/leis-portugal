@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25/2009/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-2009-603945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003baed94955fe2cbd254a863d5dbf6d28f47564ce4c757da92863a8629dbd56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c437e69140b27ba168ba3fb1038738171230a106307bc78e72c1a3823909472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Kosovo
+- Albânia
+- Bósnia-herzegovina
 - Bulgária
 - CE Países
 - Comunidade Europeia
-- Bósnia-herzegovina
 - Convenção
-- Portugal
-- Espaço de Aviação Comum Europeu
-- Noruega
-- Sérvia
-- Islândia
-- Roménia
-- Montenegro
-- Macedónia
-- Albânia
-- Luxemburgo
 - Croácia
+- Espaço de Aviação Comum Europeu
+- Islândia
+- Kosovo
+- Luxemburgo
+- Macedónia
+- Montenegro
+- Noruega
+- Portugal
+- Roménia
+- Sérvia
 relationships:
+- type: amended_by
+  target: pt:dre:603947:por
+  label: "Ratificado o presente Acordo pelo DEC.30/2009.15.04.2009.PR, DR.IS [73] de 15.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/30-2009-603947
+  date: '2009-04-15'
 - type: cites
   target: celex:31992R2407
   label: null
@@ -140,15 +145,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli
 article_structure:
-  article_count: 87
+  article_count: 85
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:24Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +166,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Fevereiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO MULTILATERAL ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, A REPÚBLICA DA ALBÂNIA, A BÓSNIA E HERZEGOVINA, A REPÚBLICA DA BULGÁRIA, A REPÚBLICA DA CROÁCIA, A REPÚBLICA DA ISLÂNDIA, A Antiga República JUGOSLAVA DA MACEDÓNIA, A REPÚBLICA DE MONTENEGRO, O REINO DA NORUEGA, A ROMÉNIA, A REPÚBLICA DA SÉRVIA E A MISSÃO DE ADMINISTRAÇÃO PROVISÓRIA DAS NAÇÕES UNIDAS PARA O KOSOVO (1) SOBRE O ESTABELECIMENTO DE UM ESPAÇO DE AVIAÇÃO COMUM EUROPEU.
 
@@ -549,11 +554,11 @@ Regulamento (CEE) n.º [2408/92](https://data.europa.eu/eli/reg/1992/2408/oj?loc
 
 Conforme alterado ou adaptado por:
 
-###### Artigo 29.º do acto relativo às condições de adesão da República da Áustria, da República da Finlândia e do Reino da Suécia;
+Artigo 29.º do acto relativo às condições de adesão da República da Áustria, da República da Finlândia e do Reino da Suécia;
 
 Decisão do Comité Misto do EEE n.º 7/94, de 21 de Março, que altera o Protocolo n.º 47 e determinados anexos ao Acordo EEE;
 
-###### Artigo 20.º do acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia (a seguir designado «Acto de Adesão de 2003»).
+Artigo 20.º do acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia (a seguir designado «Acto de Adesão de 2003»).
 
 Disposições aplicáveis - artigos 1.º a 15.º e anexos i, ii e iii.
 
@@ -1541,6 +1546,6 @@ Nos casos em que legislação referida no anexo i estabelece a obrigação de se
 
 2 - Até ao termo do segundo período de transição, caso sejam identificadas deficiências em matéria de segurança extrínseca, a Comunidade Europeia pode exigir que a autorização de uma transportadora aérea com licença emitida pela MINUK para explorar rotas aéreas com destino, origem ou no interior da Comunidade Europeia seja sujeita a uma avaliação específica da segurança extrínseca. Essa avaliação será realizada prontamente pela Comunidade Europeia a fim de evitar qualquer demora injustificada no exercício dos direitos de tráfego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07300/0223002256.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07300/0223002256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07300/0223002256.pdf)
 
 (1) Nos termos da Resolução n.º 1244, do Conselho de Segurança da ONU, de 10 de Junho de 1999.

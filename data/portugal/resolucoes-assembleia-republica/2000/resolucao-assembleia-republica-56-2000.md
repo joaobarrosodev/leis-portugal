@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56/2000/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-2000-302963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49e34aa5fd15602d2952d29125dace174e47440f436a8e502e1cf82f977601a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 934f5adafe4cc7fd8ee8050c5376e6ae2eb2c24587cd4b989887c6a238c8e99e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
+- Bruxelas
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
-- Bruxelas
+- Imposto sobre o Rendimento
 - Luxemburgo
+- Património
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:552553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302965:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.29/2000.2000.06.14.PR DR.IS-A [149]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-2000-302965
+  date: '2000-06-14'
+- type: amended_by
+  target: pt:dre:552553:por
+  label: "Aprovado o Protocolo e o Protocolo Adicional que alteram a Convenção e o respetivo Protocolo aprovados pelo presente\
+    \ diploma, retificado pelo Dec 29/2000, de 14-jun, pela RES.45/2012.12.04.2012.AR, DR.IS [73] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/45-2012-552553
+  date: '2012-04-12'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:48Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Abril de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O GRÃO-DUCADO DO LUXEMBURGO PARA EVITAR AS DUPLAS TRIBUTAÇÕES E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E O PATRIMÓNIO.
 
@@ -532,11 +544,11 @@ Feito em duplicado, em Bruxelas, aos 25 dias do mês de Maio de 1999, nas língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 Pelo Governo do Grão-Ducado do Luxemburgo:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 PROTOCOLO
 
@@ -566,11 +578,11 @@ Feito em duplicado, em Bruxelas, aos 25 dias do mês de Maio de 1999, nas língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 Pelo Governo do Grão-Ducado do Luxemburgo:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 CONVENTION ENTRE LA RÉPUBLIQUE PORTUGAISE ET LE GRAND-DUCHÉ DE LUXEMBOURG TENDANT A ÉVITER LES DOUBLES IMPOSITIONS ET À PRÉVENIR L'ÉVASION FISCALE EN MATIÈRE D'IMPÔTS SUR LE REVENU ET SUR LA FORTUNE.
 
@@ -1062,11 +1074,11 @@ Fait en double exemplaire à Bruxelles, le 25 mai 1999, en langues portugaise et
 
 Pour le Gouvernement de la Repúblique Portugaise:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 Pour le Gouvernement du Grand-Duché de Luxembourg:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 PROTOCOLE
 
@@ -1094,8 +1106,8 @@ Fait en double exemplaire à Bruxelles, le 25 mai 1999, en langues portugaise et
 
 Pour le Gouvernement de la République Portugaise:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
 
 Pour le Gouvernement du Grand-Duché de Luxembourg:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)](https://files.diariodarepublica.pt/1s/2000/06/149a00/28142832.pdf)

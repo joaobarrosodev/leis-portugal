@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1058/1992/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1058-1992-585020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71499187cff8e428aa0c22d0b5644c6d12e61a43a2dff4b17499ce797e9a1525
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55fac420e90bbda049293853c7c9b1a4935a7f9586395c40b0330074aa8ff8dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 - Serviço Nacional de Bombeiros
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573686:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +110,7 @@ Manda o Governo, pelos Ministros da Administração Interna e das Finanças, o s
 
 Ministérios da Administração Interna e das Finanças.
 
-**Assinada em 28 de Agosto de 1992.**
+Assinada em 28 de Agosto de 1992.
 
 Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
@@ -110,4 +118,4 @@ Mapa anexo à Portaria n.º 1058/92
 
 Quadro de pessoal do Serviço Nacional de Bombeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395239.pdf))](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/263b00/52395239.pdf)

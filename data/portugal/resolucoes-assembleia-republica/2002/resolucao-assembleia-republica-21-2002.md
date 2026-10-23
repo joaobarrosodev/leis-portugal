@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/21/2002/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-2002-263033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64d2aa1e538485cc1eeee961fb65f5019299f66647267c32d4d6e90c6dd3dcc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c05677308a495b6423f6cfb6f3a4f668601a96b003f5db1fbe235c1d3b2946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,27 @@ subjects:
 - CE Países
 - Centro de Satélites da União Europeia
 - Convenção
-- Portugal
 - Decisão CE
-- União Europeia
 - Instituto de Estudos de Segurança
+- Portugal
 - Privilegios e Imunidades
-relationships: []
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:263036:por
+  label: "Ratificada pelo DEC.19/2002.2002.03.21.PR, DR.IS-A [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/19-2002-263036
+  date: '2002-03-21'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:37Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 DECISÃO DOS REPRESENTANTES DOS GOVERNOS DOS ESTADOS-MEMBROS DA UNIÃO EUROPEIA, REUNIDOS NO CONSELHO, DE 15 DE OUTUBRO DE 2001, RELATIVA AOS PRIVILÉGIOS E IMUNIDADES CONCEDIDOS AO INSTITUTO DE ESTUDOS DE SEGURANÇA E AO CENTRO DE SATÉLITES DA UNIÃO EUROPEIA, BEM COMO AOS SEUS ÓRGÃOS E AOS MEMBROS DO SEU PESSOAL.
 
@@ -196,7 +201,7 @@ A presente decisão será publicada no Jornal Oficial.
 
 (nota 1) Acções comuns 2001/554/PESC (JO, n.º L 200, de 25-7-2001, a p. 1) e 2001/555/PESC, de 25 de Julho de 2001 (JO, n.º L 200, de 25-7-2001, a p. 5).
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
+[[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
 
 DECISION OF THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN UNION, MEETING WITHIN THE COUNCIL, OF 15-10-2001, ON THE PRIVILEGES AND IMMUNITIES GRANTED TO THE EUROPEAN UNION INSTITUTE FOR SECURITY STUDIES AND THE EUROPEAN UNION SATELLITE CENTRE, AND TO THEIR BODIES AND STAFF MEMBERS.
 
@@ -438,7 +443,7 @@ La présente décision est publiée au Journal officiel.
 
 (nota 1) Actions communes 2001/554/PESC (JO L 200 du 25-7-2001, p. 1) et 2001/555/PESC (JO L 200 du 25-7-2001, p. 5).
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
+[[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
 
 Declarações da delegação alemã
 
@@ -450,7 +455,7 @@ Um debate sobre a concessão de privilégios e imunidades é uma condição pré
 
 A posição alemã assenta no princípio de que os privilégios e imunidades (em especial privilégios fiscais e a isenção da tributação nacional) no âmbito da UE, de futuro, só devem ser concedidos se forem absolutamente indispensáveis no contexto do processo de integração dos Estados-Membros na UE.»
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
+[[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068a00/27092732.pdf)
 
 Déclarations faites par la Républic que fédérale d'Allemagne
 

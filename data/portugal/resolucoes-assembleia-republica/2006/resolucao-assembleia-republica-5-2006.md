@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/5/2006/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/5-2006-551796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49de035179448a5243cc0d36033bc089d1b8a4d2d3d6cf3c99d14f45db44a614
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efb4678f3cf9c3839235b5d0024a87c7250c117f179aa1429bd2973e9f5c8cc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,30 @@ subjects:
 - ERC
 - Nomeação
 relationships:
+- type: amended_by
+  target: pt:dre:342795:por
+  label: "Declarado que Luís Gonçalves da Silva renunciou ao cargo de vogal do conselho regulador, pela DECL.14/2010.01.10.2010.AR,\
+    \ DR.IS [192] de 01.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/14-2010-342795
+  date: '2010-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:08Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +113,4 @@ Rui Nelson Gonçalves de Assis Ferreira.
 
 Aprovada em 2 de Fevereiro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

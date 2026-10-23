@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/58/1998/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/58-1998-234099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f28770dab635d5cecafb478fdd9921896938b5342e9cca6590997fc40176dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 448c9ff261dd7b0038168eb964da3c7039e35297464053b806884241e7b2a3fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,11 +72,17 @@ subjects:
 - CECA
 - Comunidade Europeia
 - Convenção
-- Portugal
-- União Europeia
 - Euratom
 - Luxemburgo
+- Portugal
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:234100:por
+  label: "Ratificado o Acordo Europeu, aprovado para ratificação pelo presente diploma, pelo DEC.52/98.1998.11.10.PR, DR.IS-A\
+    \ [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/52-1998-234100
+  date: '1998-11-10'
 - type: cites
   target: celex:31989R3906
   label: null
@@ -112,13 +118,13 @@ relationships:
 article_structure:
   article_count: 200
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:34Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +137,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 18 de Setembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, AGINDO NO ÂMBITO DA UNIÃO EUROPEIA, POR UM LADO, E A REPÚBLICA DA ESLOVÉNIA, POR OUTRO.
 
@@ -1699,7 +1705,7 @@ O presente Acordo deixará de vigorar seis meses após a data dessa notificaçã
 
 ###### Artigo 128.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 129.º
 
@@ -1725,15 +1731,15 @@ A data da entrada em vigor do Acordo Provisório, em relação às obrigações 
 
 1 de Janeiro de 1996, em relação às obrigações que produzam efeitos após a data da entrada em vigor que têm como referência a data da entrada em vigor.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO I — Lista das mercadorias a que se referem os artigos 9.º e 19.º do Acordo
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO II — Lista das mercadorias a que se refere o n.º 2 do artigo 10.º
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO III — Lista dos produtos a que se refere o n.º 2 do artigo 11.º
 
@@ -3953,6 +3959,30 @@ A data da entrada em vigor do Acordo Provisório, em relação às obrigações 
 
 720249.
 
+72029919
+
+72029930
+
+72029980
+
+72089090
+
+72099090
+
+72113031
+
+72113039
+
+72113050
+
+72113090
+
+72114195
+
+72114199
+
+72114991
+
 72114999.
 
 72119019.
@@ -4771,6 +4801,8 @@ ex 87021011 (ver nota 1).
 
 ex 87029011 (ver nota a).
 
+87029019
+
 87029031.
 
 87029039.
@@ -4933,31 +4965,31 @@ Nota
 
 ## ANEXO V — Mercadorias a que se referem os n.os 1 e 2 do artigo 18.º
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO VI — Lista dos produtos a que se refere o n.º 2 do artigo 21.º
 
 A importação na Comunidade dos produtos seguidamente enunciados, originários da Eslovénia, está sujeita às seguintes concessões:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO VII — Lista dos produtos a que se refere o n.º 4 do artigo 21.º
 
 O direito aplicável à importação na Eslovénia dos produtos seguidamente enunciados, originários da Comunidade, será reduzido em 50%:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO VIIIa — Lista dos produtos a que se refere o artigo 24.º
 
 Produtos originários da Eslovénia relativamente aos quais a Comunidade concede contingentes pautais
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO VIIIb — Lista dos produtos a que se refere o artigo 24.º
 
 Produtos originários da Comunidade relativamente aos quais a Eslovénia concede contingentes pautais
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO IXa — Direito de estabelecimento: sectores relacionados com o período de transição
 
@@ -5147,7 +5179,7 @@ A Eslovénia reduzirá progressivamente os encargos de exportação equivalentes
 
 relativamente aos seguintes produtos:
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO XIII
 
@@ -5217,7 +5249,7 @@ A partir da data de entrada em vigor do presente Acordo não serão aplicadas no
 
 Limites máximos pautais comunitários
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO IIa — Direitos aduaneiros a que se refere o n.º 3 do artigo 2.º
 
@@ -6893,11 +6925,11 @@ Esses acordos devem assegurar a igualdade de tratamento de todas as partes inter
 
 ## ANEXO I — Direitos aplicáveis à importação na Comunidade de mercadorias originárias da Eslovénia
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO II — Direitos aplicáveis à importação na Eslovénia de mercadorias originárias da Comunidade
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 PROTOCOLO N.º 4, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -7151,7 +7183,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 3 - As autoridades aduaneiras só podem emitir um certificado de circulação EUR.1 a posteriori depois de terem verificado a coerência dos elementos do pedido do exportador com os documentos do processo correspondente.
 
-4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf))](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
+4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -7159,7 +7191,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 1 - Em caso de furto, extravio ou destruição de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação em posse dessas autoridades.
 
-2 - A segunda via assim emitida deve conter as seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf))](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
+2 - A segunda via assim emitida deve conter as seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -7185,7 +7217,7 @@ a) Conter antecipadamente a marca do carimbo da estância aduaneira competente d
 
 b) Conter a marca, aposta pelo exportador autorizado, de um carimbo especial aprovado pelas autoridades aduaneiras do Estado de exportação e ao modelo que consta do anexo V do presente Protocolo, podendo essa marca ser previamente impressa nos formulários.
 
-4 - Nos casos referidos na alínea a) do n.º 3, deve ser inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: [([ver documento original](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf))](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
+4 - Nos casos referidos na alínea a) do n.º 3, deve ser inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções: [(ver documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf).
 
 5 - A casa n.º 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -7569,7 +7601,7 @@ o) Tratamento por descargas eléctricas de alta frequência, apenas no que respe
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -7593,7 +7625,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 ## ANEXO V — Espécime do cunho do carimbo a que se refere o n.º 3, alínea b), do artigo 20.º
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[[[[[[[[[[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
 
 PROTOCOLO N.º 5, RELATIVO À ASSISTÊNCIA MÚTUA EM MATÉRIA ADUANEIRA ENTRE AUTORIDADES ADMINISTRATIVAS
 
@@ -7991,4 +8023,4 @@ Declaração da Eslovénia
 
 A Eslovénia declara a sua intenção de recorrer a todos os instrumentos adequados para promover o desenvolvimento do porto de Koper.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)](https://files.diariodarepublica.pt/1s/1998/11/260a00/59906110.pdf)

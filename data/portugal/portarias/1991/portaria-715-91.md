@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/166b00/36753675.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/715/1991/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1991-662754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313eb9a295c145de6e7df1a6b92066c476467beda029ae7d4a327d3e2ed6ae84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcba97f1d827d631398077cb40abc90c5c7e7ab0d226c36900b945c952e6e414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Embalagem
 - Comércio
+- Embalagem
 - TEOR Álcoolico
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:643569:por
@@ -80,16 +80,21 @@ relationships:
   target: celex:31975L0106
   label: null
   source: http://data.europa.eu/eli/dir/1975/106/oj
+- type: repealed_by
+  target: pt:dre:643569:por
+  label: "Revogada pela PORT.351/93.24.03.1993.MA, DR.IS-B [70] de 24.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1993-643569
+  date: '1993-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:21Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +135,6 @@ g) ...
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

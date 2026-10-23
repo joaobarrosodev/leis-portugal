@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/048a00/10041004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25/2004/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-2004-568932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdab2c54b30779f3e03560623257b7f78bb0bf67cf59c32c6ff0175c5fce4880
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e77d13f2cdefceaebd005b4d40fe159ecb4279e448476bf46cead42e62a1ef96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Canal Parlamento
 - Conselho de Direção
 - Difusão da Informação
-- Assembleia da República
 - Internet
-- Televisão por CABO
 - Programa Audiovisual
+- Televisão por CABO
 relationships:
 - type: amended_by
   target: pt:dre:637188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:23/2000
+  label: "Altera o artigo 1.º da Resolução da Assembleia da República n.º 23/2000, de 2 de Março, DR.IS-A [69] de 22/Mar/2000\0\
+    \0"
+  source: null
+  date: '2000-03-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/23/2000/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/23/2000/03/22/p/dre
+- type: cites
+  target: pt:dre:515248:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637188:por
+  label: "Revogada, a partir de 25.08.2007, a Res 23/2000 de 22-Mar, alterada pelo presente diploma (revogado na mesma data),\
+    \ pela RES.37/2007.20.08.2007.AR, DR.IS [159] de 20.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/37-2007-637188
+  date: '2007-08-20'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:02Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +131,4 @@ O artigo 1.º da [Resolução da Assembleia da República n.º 23/2000](https://
 
 Aprovada em 5 de Fevereiro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.

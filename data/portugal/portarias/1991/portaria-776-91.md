@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/776/1991/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/776-1991-681611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52b92338d417a873447302750efe43c947121811309ceff907e904af1ab18d1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 612534a5ff49e09f24a0983fd69fd9128065ccb44ee24a1a20dd46284f49e646
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,24 @@ reuse:
 subjects:
 - Alvará
 - Comissão de Alvarás de Empresas de Obras Públicas e Particulares
-- Construção Civil
 - Conselho de Mercados de Obras Públicas e Particulares
+- Construção Civil
 - Empreitada de Obras Públicas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:52Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +104,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1.º Às classes das autorizações contidas nos alvarás de empreiteiro de obras públicas e de industrial da construção civil correspondem os valores das obras indicados no quadro, seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/180b00/39473948.pdf))](https://files.diariodarepublica.pt/1s/1991/08/180b00/39473948.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/180b00/39473948.pdf)
 
 2.º As autorizações contidas em alvarás emitidos ou modificados anteriormente à entrada em vigor da presente portaria beneficiam automaticamente das elevações de limite de classe fixadas no número anterior.
 
@@ -108,6 +112,6 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 3 de Julho de 1991.**
+Assinada em 3 de Julho de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.

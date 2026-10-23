@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/73/2004/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/73-2004-551182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:15:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b483ef680018b800474300f3685d6e647e8d710f7d630d1563777fe2289bdd52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 475d849db8fb07288b9a0fb31f659b9e13d4fc88c953c8a1d456258cf6bef73f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:15:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - ACTO Constitutivo
-- OMS
+- Convenção
 - Genebra
-relationships: []
+- OMS
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:551184:por
+  label: "Ratificadas as emendas aos arts. 7.º, 24.º (com as alterações introduzidas pelo texto ratificado pelo Dec 60/93,\
+    \ de 14-Dez), 25.º (com as alterações introduzidas pelo texto ratificado pelo Dec 60/93, de 14-Dez) e 74.º da Constituição\
+    \ da Organização Mundial de Saúde, aprovadas, para ratificação, pelo presente diploma, cujo texto consta de Av do MNE,\
+    \ de 10-Jul de 1948, pelo DEC.79/2004.16.11.2004.PR, DR.IS-A [269] de 16.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/79-2004-551184
+  date: '2004-11-16'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:15:21Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de Setembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 Dix-Huitème Assemblée mondiale de la Santé - Genève 4-21 mai 1965 partie I - Resolutions et decisons
 
@@ -229,7 +237,7 @@ Decide que qualquer notificação de aceitação se efectuará pelo depósito de
 
 ## ANEXO
 
-###### Artigo 7.º - suprimir e substituir por:
+Artigo 7.º - suprimir e substituir por:
 
 «Artigo 7.º
 
@@ -247,11 +255,11 @@ Considerando que o Conselho Executivo deverá ser constituído por 32 a 34 membr
 
 1 - Adopta as seguintes emendas aos artigos 24.º e 25.º da Constituição, fazendo os textos em inglês, árabe, chinês, espanhol, francês e russo igualmente fé:
 
-###### Artigo 24.º - suprimir e substituir pelo seguinte texto:
+Artigo 24.º - suprimir e substituir pelo seguinte texto:
 
 «O Conselho será composto por 34 pessoas indicadas por outros tantos Estados membros. A Assembleia de Saúde elegerá, tendo em conta uma distribuição geográfica equitativa, os membros com direito a indicar um delegado para fazer parte do Conselho, desde que, pelo menos, três desses membros sejam eleitos de entre cada uma das organizações regionais criadas nos termos do artigo 44.º Cada um desses Estados enviará ao Conselho uma pessoa tecnicamente qualificada no domínio da saúde, que poderá ser acompanhada de substitutos e conselheiros.»
 
-###### Artigo 25.º - suprimir e substituir pelo seguinte texto:
+Artigo 25.º - suprimir e substituir pelo seguinte texto:
 
 «Estes membros serão eleitos por três anos e poderão ser reeleitos; contudo, quanto aos membros eleitos na primeira sessão da Assembleia de Saúde realizada após a entrada em vigor da emenda à presente Constituição, que eleva o número de membros do Conselho de 32 para 34, o mandato dos membros adicionais eleitos será, se for necessário, de duração inferior, de forma a facilitar a eleição anual de, pelo menos, um membro de cada organização regional.»
 
@@ -273,6 +281,6 @@ A 31.ª Assembleia Mundial de Saúde:
 
 Emenda ao artigo 74.º da Constituição
 
-###### Artigo 74.º - suprimir e substituir por:
+Artigo 74.º - suprimir e substituir por:
 
 «Os textos em árabe, chinês, inglês, francês, russo e espanhol desta Constituição serão considerados igualmente autênticos.»

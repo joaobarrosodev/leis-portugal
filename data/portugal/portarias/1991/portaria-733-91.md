@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/174b00/37643765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/733/1991/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-1991-686433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49cf4bd3fd21e6cb318a03070bf29fbfc714bad486aec64fa1ebb5be97319f43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee727902983de6d62d024e8e14ce54358cfabf1b359f87ba70b2fa2c3bfd6873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,49 @@ relationships:
   target: pt:dre:507633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507633:por
+  label: "Totalmente revogada pela Port.131/97.1997.02.22.ME, DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-1997-507633
+  date: '1997-02-22'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:52Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +154,7 @@ O modelo de diploma de estudos superiores especializados conferido pelo Institut
 
 Ministério da Educação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -135,13 +168,13 @@ R (ver nota a) P
 
 Instituto Politécnico de Leiria, ... (ver nota i).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota j).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota j).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Educação de Leiria, ... (ver nota l).**
+O Presidente da Comissão Instaladora da Escola Superior de Educação de Leiria, ... (ver nota l).
 
 O Administrador do Instituto Politécnico de Leiria, ... (ver nota m).
 
-**O Secretário da Escola Superior de Educação de Leiria, ... (ver nota n).**
+O Secretário da Escola Superior de Educação de Leiria, ... (ver nota n).
 
 (nota a) Símbolo do Instituto Politécnico de Leiria.
 
@@ -179,13 +212,13 @@ R (ver nota a) P
 
 Instituto Politécnico de Leiria, ... (ver nota i).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota j).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota j).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Educação de Leiria, ... (ver nota l).**
+O Presidente da Comissão Instaladora da Escola Superior de Educação de Leiria, ... (ver nota l).
 
 O Administrador do Instituto Politécnico de Leiria, ... (ver nota m).
 
-**O Secretário da Escola Superior de Educação de Leiria, ... (ver nota n).**
+O Secretário da Escola Superior de Educação de Leiria, ... (ver nota n).
 
 (nota a) Símbolo do Instituto Politécnico de Leiria.
 
@@ -225,13 +258,13 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico de Leiria, ... (ver nota l).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota m).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Leiria, ... (ver nota m).
 
-**O Presidente da Comissão Instaladora da ... (ver nota f) (ver nota n).**
+O Presidente da Comissão Instaladora da ... (ver nota f) (ver nota n).
 
 O Administrador do Instituto Politécnico de Leiria, ... (ver nota o).
 
-**O Secretário da ... (ver nota f) ... (ver nota p).**
+O Secretário da ... (ver nota f) ... (ver nota p).
 
 (nota a) Emblema do Instituto Politécnico de Leiria.
 

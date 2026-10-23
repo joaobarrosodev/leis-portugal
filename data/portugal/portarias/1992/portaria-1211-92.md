@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1211/1992/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1992-621701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40b0eb903d9a47d3debdd1f2db93793cea7ee257e64af169efb6eddbb1a307b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42796174713a8d126232d498ccd3c58ded6e1c8da7e08296bb2274ec21c5b1c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Loteamento Urbano
+- Ordenamento do Território
 - Palmela
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
 - Prédio Rústico
 - Regulamento
 relationships:
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:1165926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:31Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +123,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 1 de Dezembro de 1992.**
+Assinada em 1 de Dezembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Plano de Pormenor de Alfaçanhas, Escalrachal, no município de Palmela
 
@@ -147,4 +159,4 @@ Notas
 
 3 - Este processo destina-se a substituir o anteriormente apresentado para o mesmo local, o qual se identifica pelo processo L 18/83, transitando para o actual toda a documentação que venha a ser necessária para o andamento do mesmo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf)

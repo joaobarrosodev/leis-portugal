@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/1997/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-1997-397535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6d01c9860f68c37ddef9b2279fc8359a980eb499eae54a8f58bad1bfe67af2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6747bea2dbe1a322d40e354e2f59fb12e1242b5e3ce0823491c1ac018430d103
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,36 +69,36 @@ reuse:
 subjects:
 - Alfândega
 - CE Países
+- Comércio
 - Comércio Internacional
 - Comunidade Europeia
-- Convenção
-- Cooperação Financeira
-- Cooperação Jurídica
-- Portugal
 - Concorrência
-- GATT
-- Livre Circulação de Capitais
-- Política Aduaneira
+- Convenção
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
+- Cooperação Jurídica
 - Cooperação Política
+- GATT
+- Livre Circulação de Capitais
+- Luxemburgo
+- Política Aduaneira
+- Portugal
 - Prestação de Serviços
 - Regulamentação Aduaneira
-- Comércio
-- Luxemburgo
 relationships: []
 article_structure:
   article_count: 124
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:04Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +111,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE PARCERIA E COOPERAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A UCRÂNIA, POR OUTRO.
 
@@ -1203,7 +1203,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 106.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 107.º
 
@@ -1221,7 +1221,7 @@ A partir da sua entrada em vigor, o presente Acordo substitui, nas relações en
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entrada em vigor do presente Acordo, as disposições de certas partes do presente Acordo entrarem em vigor em 1994, através de um acordo provisório entre a Comunidade e a Ucrânia, as Partes acordam em que, nessas circunstâncias, se entende por «data de entrada em vigor do Acordo» a data de entrada em vigor do acordo provisório.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
 
 ## ANEXO I — Lista indicativa das vantagens concedidas pela Ucrânia aos Estados Independentes nos termos do artigo 12.º
 
@@ -1379,7 +1379,7 @@ Algumas actividades profissionais - em alguns sectores, as actividades profissio
 
 Edifícios e monumentos históricos.
 
-## APÊNDICE DO ANEXO V
+APÊNDICE DO ANEXO V
 
 Serviços financeiros: definições
 
@@ -1643,7 +1643,7 @@ Entende-se que uma presença comercial deve assumir a forma de filiais ou sucurs
 
 A expressão «legislação aplicável» traduz-se em ucraniano pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
 
 Declaração comum relativa à noção de «controlo» mencionada na alínea b) do artigo 32.º e no artigo 43.º
 
@@ -1663,7 +1663,7 @@ Para efeitos do presente Acordo, as Partes acordam em que a propriedade intelect
 
 As Partes declaram que a expressão «propriedade intelectual, industrial e comercial» se traduz em ucraniano pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
 
 Declaração comum relativa ao artigo 102.º
 
@@ -1691,7 +1691,7 @@ Queira aceitar, Exmo. Senhor, a expressão da minha mais elevada consideração.
 
 Pelo Governo da Ucrânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
 
 Agradeço a carta de V. Ex.ª com data de hoje, do seguinte teor:
 
@@ -1711,4 +1711,4 @@ Queira aceitar, Exmo. Senhor, a expressão da minha mais elevada consideração.
 
 Pelas Comunidades Europeias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf))](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/111a00/23242349.pdf)

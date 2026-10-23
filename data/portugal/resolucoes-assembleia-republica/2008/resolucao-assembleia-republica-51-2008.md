@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/51/2008/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2008-453839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33a24a3ed10e506051f249149f185cd8c32c73224049459111b6e83a17e2eee4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e72903933cc1474f016c859c902de36a734ee9a877e7bbdb075bc74cb7318a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
-- HAIA
-- Execução de Sentença
 - Cooperação Judiciária
+- Execução de Sentença
+- HAIA
+- ONU
+- Portugal
 - Tribunal Penal Internacional
 relationships:
+- type: amended_by
+  target: pt:dre:453849:por
+  label: "Ratificada a Convenção pelo DEC.69/2008.16.09.2008.PR, DR.IS [179] de 16.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/69-2008-453849
+  date: '2008-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/102/2001/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/102/2001/08/25/p/dre
+- type: cites
+  target: pt:dre:515630:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +109,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Julho de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E AS NAÇÕES UNIDAS SOBRE A EXECUÇÃO DE SENTENÇAS DO TRIBUNAL PENAL INTERNACIONAL PARA A EX-JUGOSLÁVIA
 
@@ -156,7 +165,7 @@ c) Sempre que tal se revele oportuno, quaisquer relatórios médicos ou psicoló
 
 ###### Artigo 4.º — Transferência da pessoa condenada
 
-**O Secretário deverá efectuar as diligências necessárias à transferência da pessoa condenada entre o Tribunal Internacional e as autoridades competentes de Portugal. O Secretário deverá informar a pessoa condenada sobre o conteúdo do presente Acordo antes da sua transferência.**
+O Secretário deverá efectuar as diligências necessárias à transferência da pessoa condenada entre o Tribunal Internacional e as autoridades competentes de Portugal. O Secretário deverá informar a pessoa condenada sobre o conteúdo do presente Acordo antes da sua transferência.
 
 ###### Artigo 5.º — Non bis in idem
 
@@ -226,11 +235,11 @@ Feito na Haia aos 19 de Dezembro de 2007, em dois exemplares, nas línguas portu
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
 
 Pelas Nações Unidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE UNITED NATIONS ON THE ENFORCEMENT OF SENTENCES OF THE INTERNATIONAL CRIMINAL TRIBUNAL FOR THE FORMER YUGOSLAVIA.
 
@@ -382,8 +391,8 @@ Done at The Hague on this 19th day of December 2007, in duplicate, in Portuguese
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
 
 For the United Nations:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17900/0672106725.pdf)

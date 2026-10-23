@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24/1996/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1996-414586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feacf4f3dbaa6651d4c877bfdbe0d0cfa75eae50bfda817e7011b85c7ff5056f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d020b33900f36c19badda5a8796e555b2088385b053d04739fed4ed69ef1d206
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,28 +71,28 @@ subjects:
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Corfu
-- Portugal
-- GATT
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Internacional
 - Cooperação Política
+- Corfu
+- GATT
+- Portugal
 - Produto Siderúrgico
 - Regulamentação Aduaneira
 - Rússia
 relationships: []
 article_structure:
   article_count: 126
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:02Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +105,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 22 de Março de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE PARCERIA E COOPERAÇÃO QUE ESTABELECE UMA PARCERIA ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A FEDERAÇÃO RUSSA, POR OUTRO.
 
@@ -1719,7 +1719,7 @@ B - No que diz respeito aos serviços de seguros referidos na parte A, n.º 1) e
 
 ## ANEXO N.º 8 — Disposições relativas aos artigos 34.º e 38.º
 
-# Parte A
+## Parte A
 
 As consultas serão iniciadas no prazo de 30 dias a contar da data de apresentação do pedido pela primeira Parte. Realizar-se-ão tendo em vista chegar a acordo num dos domínios seguintes:
 
@@ -1731,7 +1731,7 @@ Ajustamentos a efectuar pela primeira Parte a fim de compensar a situação mais
 
 Se não se chegar a acordo no prazo de 60 dias a contar da data do pedido de consultas apresentado pela primeira Parte, esta pode efectuar os ajustamentos compensatórios adequados das suas obrigações. Estes ajustamentos serão efectuados na medida e durante o período necessários para ter em conta a situação consideravelmente mais restritiva criada pela outra Parte. Deve ser dada prioridade às medidas que causem menor perturbação ao funcionamento do Acordo. Os direitos adquiridos pelos operadores económicos nos termos do Acordo no momento em que foram efectuados os referidos ajustamentos não serão afectados por estes últimos.
 
-# Parte B
+## Parte B
 
 1 - Num espírito de parceria e cooperação, o Governo da Rússia informará a Comunidade, durante um período de transição de três anos a contar da assinatura do Acordo, sobre as suas intenções de apresentar novas disposições legislativas ou adoptar disposições regulamentares susceptíveis de tornar as condições de estabelecimento ou de exercício de actividades das filiais e sucursais russas de sociedades comunitárias mais restritivas do que as existentes antes da data da assinatura do Acordo. A Comunidade pode solicitar à Rússia que lhe comunique os projectos dessas disposições legislativas ou regulamentares e inicie consultas sobre os referidos projectos.
 
@@ -1929,7 +1929,7 @@ As Partes renunciarão a exigir à outra Parte o reembolso de despesas resultant
 
 2 - Sem prejuízo do artigo 10.º, esses acordos não prejudicam as disposições comunitárias que regulam a comunicação, entre os serviços competentes da Comissão das Comunidades Europeias e as autoridades aduaneiras dos Estados membros, de quaisquer informações aduaneiras que se possam revestir de interesse para a Comunidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf))](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf)
 
 ACTO FINAL
 
@@ -2331,4 +2331,4 @@ Declaração da Rússia relativa ao artigo 36.º
 
 A Rússia declara que não podem ser considerados pessoas singulares os prestadores de serviços referidos na declaração da Comunidade relativa ao artigo 36.º que sejam representantes de uma sociedade da Comunidade ou de uma sociedade da Rússia e que solicitem a entrada temporária tendo em vista negociar a venda de serviços transfronteiras ou estabelecer acordos para a venda de serviços por conta dessa sociedade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf))](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/160a00/18961933.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/2/1995/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/2-1995-144980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1565761f0792b4e063d5ac0f1634baa3646eaf55d6b9cea922d0867724a7bd10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea405fa432f10debda7bf05f185c4f58be3f089b6cf483da0489ebd2812f4dbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Cooperação Militar
 - Lisboa
 - Marrocos
-- Cooperação Militar
+- Portugal
 relationships: []
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:52Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 27 de Outubro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO DE COOPERAÇÃO EM MATÉRIA DE DEFESA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS.
 
@@ -190,4 +190,4 @@ Pelo Governo do Reino de Marrocos:
 
 Abdellatif Filali, Ministro de Estado Encarregado dos Negócios Estrangeiros e da Cooperação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/018a00/03620364.pdf))](https://files.diariodarepublica.pt/1s/1995/01/018a00/03620364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/018a00/03620364.pdf)

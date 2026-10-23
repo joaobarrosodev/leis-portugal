@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1989-615579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da05881113b2b1b46de76d3c4694c0cd9573eed3efc5bf64b4490573615c74fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303126e1bb32b4278942659978a8c0a0c5a1f9fd80a5d662f8f0888d4f4bd9c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Genebra
+- Madeiras Tropicais
+- Organização Internacional das Madeiras Tropicais
+- Portugal
+- Produto de BASE
+- Produto em Madeira
 relationships: []
 article_structure:
   article_count: 43
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:26Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 19 de Janeiro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ## ANEXO — RÉSOLUTIONS ADOPTÉES PAR LA CONFÉRENCE DES NATIONS UNIES SUR LES BOIS TROPICAUX, 1983
 
@@ -998,7 +1005,7 @@ ANNEXE C
 
 Donnés statistiques et indicateurs spécifiques jugés nécessaires pour la surveillance du commerce international des bois tropicaux (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
 
 (nota *) Tableau annexé à l'Accord comme suite au consensus auquel le Comité exécutif de la Conférence a abouti le 29 mars 1983.
 
@@ -1500,7 +1507,7 @@ Qualquer queixa contra um membro por não cumprimento das obrigações que para 
 
 ###### Artigo 33.º — Depositário
 
-**O Secretário-Geral das Nações Unidas é designado depositário do presente Acordo.**
+O Secretário-Geral das Nações Unidas é designado depositário do presente Acordo.
 
 ###### Artigo 34.º — Assinatura, ratificação, aceitação e aprovação
 
@@ -1602,16 +1609,16 @@ Feito em Genebra, aos 18 de Novembro de 1983, fazendo os textos do presente Acor
 
 Lista dos países produtores dotados de recursos florestais e ou exportadores brutos de madeiras tropicais em termos de vá lume e repartição dos votos para os fins do artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
 
 ## ANEXO B — Lista dos países consumidores e repartição dos votos para os fins do artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
 
 ## ANEXO C — Dados estatísticos e Indicadores específicos considerados necessários para a vigilância do comércio internacional de madeiras tropicais (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08500/15221547.pdf)
 
 (nota *) Quadro anexo ao Acordo na sequência do consenso obtido no Comité Executivo da Conferência em 29 de Março de 1983.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.

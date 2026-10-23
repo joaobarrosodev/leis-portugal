@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/74/2004/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2004-551189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17c4888955fdf9d6739208d422d46b831dd57b4f17a9852f4aec06742333fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b2f53c49f06093e9cbd62b26033238e690ae329a236ccf720f8775cfcc112d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
 subjects:
 - Concordata
 - Convenção
-- Portugal
 - Igreja Católica
+- Portugal
 - Vaticano
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:551186:por
+  label: "Ratificada a Concordata entre a República Portuguesa e a Santa Sé aprovada, para ratificação, pelo presente diploma,\
+    \ pelo DEC.80/2004.16.11.2004.PR, DR.IS-A [269] de 16.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/80-2004-551186
+  date: '2004-11-16'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:15:22Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Setembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONCORDATA ENTRE A REPÚBLICA PORTUGUESA E A SANTA SÉ
 
@@ -378,7 +384,7 @@ Ficam ressalvadas as situações jurídicas existentes e constituídas ao abrigo
 
 A presente Concordata entrará em vigor com a troca dos instrumentos de ratificação, substituindo a Concordata de 7 de Maio de 1940.
 
-**Assinada em três exemplares autênticos em língua portuguesa e em língua italiana, fazendo todos fé, aos 18 dias do mês de Maio do ano de 2004.**
+Assinada em três exemplares autênticos em língua portuguesa e em língua italiana, fazendo todos fé, aos 18 dias do mês de Maio do ano de 2004.
 
 Pela República Portuguesa:
 

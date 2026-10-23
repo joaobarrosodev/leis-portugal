@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1990-335408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 122ea226a77145882886326d49043b8c10fd95b4ac6597e3c39e48600d58efb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bafa4dfb5246aed8df4a2397d1f2e63669b61e0e90298afc51935eb508c73adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Convenção
+- Direitos do Homem
+- Estrasburgo
+- Portugal
+- Privilegios e Imunidades
+- Tortura
+- Vítima
 relationships:
 - type: amended_by
   target: pt:dre:380359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332894:por
+  label: "Ratificada a Convenção, pelo DEC.8/90.20.02.1990.PR, DR.IS [43] de 20.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-1990-332894
+  date: '1990-02-20'
+- type: amended_by
+  target: pt:dre:380359:por
+  label: "Alterado o art 5º da Convenção, pelo Protocolo nº 2 à Convenção aprovado para ratificação pela RES.19/97.1997.01.31.AR,\
+    \ DR.IS-A [100] de 1997.04.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/19-1997-380359
+  date: '1997-01-31'
+- type: amended_by
+  target: pt:dre:383026:por
+  label: "Alterados os art 5º, 12º, 18º, 19º, 20º e 23º da Convenção aprovada para ratificação pelo presente diploma, pelo\
+    \ Protocolo nº 1 à Convenção aprovado para ratificação, pela Res 24/97.1997.01.31.AR, DR.IS-A [103] de 05/Mai/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/24-1997-383026
+  date: '1997-01-31'
 article_structure:
-  article_count: 18
+  article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +117,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Dezembro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENTION EUROPÉENNE POUR LA PRÉVENTION DE LA TORTURE ET DES PEINES OU TRAITEMENTS INHUMAINS OU DÉGRADANTS.
 
@@ -402,7 +427,9 @@ Convencidos de que a protecção das pessoas privadas de liberdade contra a tort
 
 acordaram no seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 É instituído um Comité Europeu para a Prevenção da Tortura e das Penas ou Tratamentos Desumanos ou Degradantes (a seguir designado por «o Comité»). Por meio de visitas, o Comité examina o modo como são tratadas as pessoas privadas de liberdade, com vista a reforçar, caso seja necessário, a sua protecção contra a tortura e as penas ou tratamentos desumanos ou degradantes.
 
@@ -414,7 +441,9 @@ Qualquer Parte autoriza a visita, nos termos da presente Convenção, a todos os
 
 O Comité e as autoridades nacionais competentes da Parte visada cooperam com vista à aplicação da presente Convenção.
 
-### CAPÍTULO II — Artigo 4.º
+### CAPÍTULO II
+
+###### Artigo 4.º
 
 1 - O Comité é composto por um número de membros igual ao das Partes.
 
@@ -440,7 +469,9 @@ O Comité e as autoridades nacionais competentes da Parte visada cooperam com vi
 
 3 - O secretariado do Comité é assegurado pelo secretário-geral do Conselho da Europa.
 
-### CAPÍTULO III — Artigo 7.º
+### CAPÍTULO III
+
+###### Artigo 7.º
 
 1 - O Comité organiza a visita aos locais referidos no artigo 2.º Para além das visitas periódicas, o Comité pode organizar outras visitas quando considere que as circunstâncias o exijam.
 
@@ -502,7 +533,9 @@ Os membros do Comité, bem como os peritos e quaisquer outras pessoas que o assi
 
 3 - Excepcionalmente, uma Parte pode declarar que um perito ou qualquer outra pessoa que assista o Comité pode não ser admitido a participar na visita a um local sob a sua jurisdição.
 
-### CAPÍTULO IV — Artigo 15.º
+### CAPÍTULO IV
+
+###### Artigo 15.º
 
 Cada uma das Partes comunica ao Comité o nome e endereço da autoridade competente para receber as notificações dirigidas ao seu governo, bem como de qualquer agente de ligação que possa ter designado.
 
@@ -518,7 +551,9 @@ O Comité, os seus membros e os peritos mencionados no n.º 2 do artigo 7.º goz
 
 3 - O Comité não visitará os locais que as representações ou delegações das potências protectoras ou do Comité Internacional da Cruz Vermelha visitem efectiva e regularmente em virtude das Convenções de Genebra de 12 de Agosto de 1949 e dos seus Protocolos adicionais de 8 de Junho de 1977.
 
-### CAPÍTULO V — Artigo 18.º
+### CAPÍTULO V
+
+###### Artigo 18.º
 
 A presente Convenção encontra-se aberta à assinatura dos Estados membros do Conselho da Europa. Será submetida a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, de aceitação ou de aprovação serão depositados junto do secretário-geral do Conselho da Europa.
 
@@ -548,7 +583,7 @@ Não são admitidas reservas às disposições da presente Convenção.
 
 ###### Artigo 23.º
 
-**O secretário-geral do Conselho da Europa notificará os Estados membros do Conselho da Europa:**
+O secretário-geral do Conselho da Europa notificará os Estados membros do Conselho da Europa:
 
 a) De qualquer assinatura;
 

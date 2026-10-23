@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1992, 13º Suplemento, Série I-B de 1992-12-31
   number: '301'
   series: I
-  supplement: 13º Suplemento
+  supplement: null
   pages: 6056-(88) a 6056-(90)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1243/1992/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1243-1992-237800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f84fa4a098e9a3f1db94cc51286b3c2b40235adbe7246d6956786bb359af2b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2998c2f3da04bf0d6c732396acb413aae510e96932dfdd577f94325d35560181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Gestão dos Recursos
 - Licenciamento
-- Recursos do Mar
+- Pesca
 - Pesca Profissional
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:356770:por
@@ -84,16 +84,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/740/1992/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/740/1992/07/22/p/dre
+- type: cites
+  target: pt:dre:292514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261933:por
+  label: "Revogado o n.º 9.º pela PORT.296/94.17.05.1994.MM, DR.IS-B [114] de 17.05.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1994-261933
+  date: '1994-05-17'
+- type: repealed_by
+  target: pt:dre:284925:por
+  label: "Revogada pela PORT.1102-H/2000.2000.11.22.MADRP DR.IS-B [270]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-h-2000-284925
+  date: '2000-11-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:21Z'
   warnings: []
   errors: []
 ---
@@ -184,18 +222,18 @@ c) Durante esse mesmo período, só podem operar com outras artes para que estej
 
 Ministério do Mar.
 
-**Assinada em 31 de Dezembro de 1992.**
+Assinada em 31 de Dezembro de 1992.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
 
 ## ANEXO I — Malhagens mínimas das redes de emalhar
 
 (n.º 4.º da Portaria n.º 1243/92)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf))](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf)
 
 ## ANEXO II — Dimensões das redes de emalhar
 
 (n.os 10.º e 11.º da Portaria n.º 1243/92)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf))](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/301b13/00880090.pdf)

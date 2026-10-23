@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/1991/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-1991-616672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bcc54cf6d8c9e898c4fe4b5b275dc77906b3d5f7b42c7fcf0fd1fab0fa81b04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa607f0b439f2a757456c57e3aad52a51b15bdedb9bee6d33427339c4a63aded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,30 @@ reuse:
 subjects:
 - Assembleia da República
 - Regimento
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA RECTIFICAÇÃO NUMERO 10/91, DE 16/4 91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 99,\
+    \ DE 910430.\010430.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 307
+  article_count: 308
   section_count: 78
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:16Z'
   warnings: []
   errors: []
 ---
@@ -88,33 +101,33 @@ Alterações ao Regimento da Assembleia da República
 
 A Assembleia da República aprova, ao abrigo da alínea a) do artigo 178.º da Constituição e nos termos do n.º 5 do artigo 289.º do Regimento, as seguintes alterações ao Regimento da Assembleia da República:
 
-###### Artigo 1.º No artigo 5.º, n.º 1, a alínea b) é substituída por:
+Artigo 1.º No artigo 5.º, n.º 1, a alínea b) é substituída por:
 
 b) Apresentar projectos de lei, de referendo, de resolução e de deliberação;
 
-###### Art. 2.º No artigo 13.º, n.º 1, é substituído «30» por «um décimo» e «50» por «um quinto do número de Deputados».
+Art. 2.º No artigo 13.º, n.º 1, é substituído «30» por «um décimo» e «50» por «um quinto do número de Deputados».
 
-###### Art. 3.º No artigo 22.º, n.º 2, é substituída a expressão «mais de 25 Deputados» por «um décimo ou mais do número de Deputados».
+Art. 3.º No artigo 22.º, n.º 2, é substituída a expressão «mais de 25 Deputados» por «um décimo ou mais do número de Deputados».
 
-###### Art. 4.º No artigo 23.º, o n.º 1 é substituído por:
+Art. 4.º No artigo 23.º, o n.º 1 é substituído por:
 
 1 - Os Vice-Presidentes, Secretários e Vice-Secretários são eleitos por legislatura.
 
-###### Art. 5.º - 1 - No artigo 28.º, o n.º 1 passa a corpo do artigo, com a seguinte redacção:
+Art. 5.º - 1 - No artigo 28.º, o n.º 1 passa a corpo do artigo, com a seguinte redacção:
 
 A Mesa mantém-se em funções até ao início da nova legislatura.
 
 2 - É eliminado o n.º 2.
 
-###### Art. 6.º No artigo 31.º, o n.º 1 é substituído por:
+Art. 6.º No artigo 31.º, o n.º 1 é substituído por:
 
 1 - A designação dos representantes na Comissão de Regimento e Mandatos, na Comissão de Petições e nas comissões especializadas permanentes faz-se pelo período da legislatura.
 
-###### Art. 7.º No artigo 35.º, a alínea c) é substituída por:
+Art. 7.º No artigo 35.º, a alínea c) é substituída por:
 
 c) Emitir parecer sobre a suspensão e perda do mandato;
 
-###### Art. 8.º - 1 - No artigo 37.º, o corpo do artigo passa a n.º 1, com a seguinte redacção:
+Art. 8.º - 1 - No artigo 37.º, o corpo do artigo passa a n.º 1, com a seguinte redacção:
 
 1 - Compete à Comissão de Petições apreciar, nos termos da lei e deste Regimento, as petições dirigidas à Assembleia da República.
 
@@ -126,21 +139,21 @@ c) Emitir parecer sobre a suspensão e perda do mandato;
 
 3 - A Comissão de Petições e as comissões especializadas referidas no número anterior podem ouvir os peticionantes, solicitar depoimentos de quaisquer cidadãos e requerer informações e documentos a outros órgãos de soberania ou a quaisquer serviços públicos ou privados, sem prejuízo do disposto na lei sobre sigilo profissional ou segredo de Estado.
 
-###### Art. 9.º No artigo 45.º, o n.º 3 é substituído por:
+Art. 9.º No artigo 45.º, o n.º 3 é substituído por:
 
 3 - As representações e deputações da Assembleia da República elaboram um relatório com as informações necessárias à avaliação da realização das suas finalidades, finda a sua missão, ou, sendo permanentes, de três em três meses, o qual será remetido ao Presidente e, se este o decidir, apresentado em Plenário, sendo, em qualquer caso, publicado no Diário.
 
-###### Art. 10.º - 1 - No artigo 58.º, n.º 1, 2.º, é substituído «j)» por «m)».
+Art. 10.º - 1 - No artigo 58.º, n.º 1, 2.º, é substituído «j)» por «m)».
 
 2 - No n.º 1, 4.º, é substituído o actual texto por «Votação de moções de confiança ou de censura ao Governo».
 
-###### Art. 11.º - 1 - No artigo 62.º, n.º 1, alínea b), é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
+Art. 11.º - 1 - No artigo 62.º, n.º 1, alínea b), é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
 
 2 - No n.º 1, alínea c), é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
 
 3 - No n.º 2, é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
 
-###### Art. 12.º - 1 - No artigo 70.º, o n.º 1 é substituído por:
+Art. 12.º - 1 - No artigo 70.º, o n.º 1 é substituído por:
 
 1 - Os grupos parlamentares podem requerer a interrupção da reunião plenária uma vez em cada semana.
 
@@ -148,7 +161,7 @@ c) Emitir parecer sobre a suspensão e perda do mandato;
 
 2 - A interrupção a que se refere o número anterior, se deliberada, não pode exceder quinze minutos quando requerida por grupos parlamentares com menos de um décimo do número de Deputados, nem trinta minutos quando se trate de grupo com um décimo ou mais do número de Deputados.
 
-###### Art. 13.º - 1 - No artigo 72.º, n.º 1, é aditada uma nova alínea com a seguinte redacção:
+Art. 13.º - 1 - No artigo 72.º, n.º 1, é aditada uma nova alínea com a seguinte redacção:
 
 e) À realização de debates de urgência.
 
@@ -156,7 +169,7 @@ e) À realização de debates de urgência.
 
 2 - O período de antes da ordem do dia, para os fins referidos nas alíneas b), c) e d), tem a duração normal de uma hora, sendo essa duração elevada para duas horas quando inclua o debate referido na alínea e), e é distribuído proporcionalmente ao número de Deputados de cada grupo parlamentar.
 
-###### Art. 14.º O artigo 76.º é substituído por:
+Art. 14.º O artigo 76.º é substituído por:
 
 ###### Artigo 76.º — Apreciação de relatórios, assuntos de relevante importância e assuntos de interesse local, regional e sectorial
 
@@ -172,7 +185,7 @@ d) Realização de debates sobre assuntos de relevante importância;
 
 e) Realização de debates sobre assuntos de interesse local, regional ou sectorial.
 
-###### Art. 15.º - 1 - O corpo do artigo 80.º passa a n.º 1.
+Art. 15.º - 1 - O corpo do artigo 80.º passa a n.º 1.
 
 2 - É aditado um n.º 2, com a seguinte redacção:
 
@@ -182,57 +195,57 @@ e) Realização de debates sobre assuntos de interesse local, regional ou sector
 
 3 - A intervenção a que se refere o número anterior é feita pela ordem de inscrição, alternando Deputados de diferentes grupos parlamentares, desde que inscritos, e segundo uma preferência proporcional à sua composição numérica, sem exclusão dos Deputados independentes.
 
-###### Art. 16.º - 1 - O corpo do artigo 82.º passa a n.º 1.
+Art. 16.º - 1 - O corpo do artigo 82.º passa a n.º 1.
 
 2 - É aditado um n.º 2, com a seguinte redacção:
 
 2 - A seu pedido, com fundamento em razões de urgência ou oportunidade, os membros do Governo podem intervir no período de antes da ordem do dia nas condições que o Presidente determinar, pelo tempo máximo de seis minutos, não contando o respectivo tempo para os limites estabelecidos no artigo 75.º
 
-###### Art. 17.º No artigo 90.º, n.º 2, é substituída a expressão «no termo» por «até ao termo».
+Art. 17.º No artigo 90.º, n.º 2, é substituída a expressão «no termo» por «até ao termo».
 
-###### Art. 18.º O artigo 95.º é substituído por:
+Art. 18.º O artigo 95.º é substituído por:
 
 ###### Artigo 95.º — Uso da palavra pelos membros da Mesa
 
 Se os membros da Mesa quiserem usar da palavra em reunião plenária na qual se encontrem em funções, não podem reassumi-las até ao termo do debate ou da votação, se a esta houver lugar.
 
-###### Art. 19.º No artigo 108.º é aditado um n.º 4, com a seguinte redacção:
+Art. 19.º No artigo 108.º é aditado um n.º 4, com a seguinte redacção:
 
 4 - Quando a Comissão de Petições use da faculdade estabelecida nos n.os 2 e 3 do artigo 37.º, os Deputados que sejam seus membros podem participar, sem direito a voto, nas reuniões das comissões especializadas em que o assunto seja apreciado.
 
-###### Art. 20.º No artigo 109.º, o n.º 3 é substituído por:
+Art. 20.º No artigo 109.º, o n.º 3 é substituído por:
 
 3 - As diligências previstas neste artigo são efectuadas através do presidente da comissão, delas sendo dado conhecimento ao Presidente da Assembleia da República.
 
-###### Art. 21.º No artigo 110.º, o n.º 2 é substituído por:
+Art. 21.º No artigo 110.º, o n.º 2 é substituído por:
 
 2 - As diligências previstas neste artigo são efectuadas através do presidente da comissão, delas sendo dado conhecimento ao Presidente da Assembleia da República.
 
-###### Art. 22.º No artigo 111.º é aditada uma alínea g), com a seguinte redacção:
+Art. 22.º No artigo 111.º é aditada uma alínea g), com a seguinte redacção:
 
 g) Fornecer, semanalmente, à comunicação social informação sobre o trabalho efectuado ou em curso.
 
-###### Art. 23.º No artigo 114.º é aditado um n.º 5, com a seguinte redacção:
+Art. 23.º No artigo 114.º é aditado um n.º 5, com a seguinte redacção:
 
 5 - São referidos nominalmente nas actas os Deputados que votaram, assim como o sentido do seu voto, desde que um terço dos membros da comissão o requeira.
 
-###### Art. 24.º No artigo 123.º, n.º 1, a alínea l) é substituída por:
+Art. 24.º No artigo 123.º, n.º 1, a alínea l) é substituída por:
 
 l) Os textos das petições que tenham de ser publicados, os relatórios da Comissão de Petições que sobre elas recaírem e todos aqueles a que a Comissão de Petições entenda dar publicidade.
 
-###### Art. 25.º No artigo 137.º, n.º 2, é substituída a expressão «da distribuição ou da rejeição» por «da decisão do Presidente».
+Art. 25.º No artigo 137.º, n.º 2, é substituída a expressão «da distribuição ou da rejeição» por «da decisão do Presidente».
 
-###### Art. 26.º No artigo 143.º, o n.º 1 é substituído por:
+Art. 26.º No artigo 143.º, o n.º 1 é substituído por:
 
 1 - Tratando-se de legislação do trabalho, a comissão promove a apreciação do projecto ou proposta pelas comissões de trabalhadores e associações sindicais, para efeitos da alínea d) do n.º 5 do artigo 54.º e do n.º 2 do artigo 56.º da Constituição.
 
-###### Art. 27.º - 1 - O corpo do artigo 147.º passa a n.º 1.
+Art. 27.º - 1 - O corpo do artigo 147.º passa a n.º 1.
 
 2 - É aditado um n.º 2, com a seguinte redacção:
 
 2 - Os projectos e propostas de lei, devidamente impressos, são editados de forma autónoma e colocados à venda ao público na própria Assembleia.
 
-###### Art. 28.º - 1 - No artigo 150.º, o n.º 3 é substituído por:
+Art. 28.º - 1 - No artigo 150.º, o n.º 3 é substituído por:
 
 3 - A cada grupo parlamentar é garantido um tempo mínimo de intervenção em face da natureza e importância do assunto a discutir, que nunca pode ser inferior a seis minutos.
 
@@ -246,25 +259,25 @@ l) Os textos das petições que tenham de ser publicados, os relatórios da Comi
 
 4 - Os n.os 5 e 6 passam, respectivamente, a n.os 6 e 7.
 
-###### Art. 29.º No artigo 151.º, n.º 2, é substituída a expressão «com mais de 25 Deputados» por «com um décimo ou mais do número de Deputados».
+Art. 29.º No artigo 151.º, n.º 2, é substituída a expressão «com mais de 25 Deputados» por «com um décimo ou mais do número de Deputados».
 
-###### Art. 30.º O corpo do artigo 154.º é substituído por:
+Art. 30.º O corpo do artigo 154.º é substituído por:
 
 Salvo o disposto nos n.os 4 e 6 do artigo 171.º da Constituição e no Regimento, a discussão e votação na especialidade cabem à comissão competente em razão da matéria.
 
-###### Art. 31.º O corpo do artigo 158.º é substituído por:
+Art. 31.º O corpo do artigo 158.º é substituído por:
 
 A requerimento de 10 Deputados, a votação na especialidade, quando incida sobre propostas de alteração apresentadas durante a reunião, é adiada para o momento que precede a votação final global, sem prejuízo da discussão e votação das disposições seguintes.
 
-###### Art. 32.º No artigo 174.º, o n.º 1 é substituído por:
+Art. 32.º No artigo 174.º, o n.º 1 é substituído por:
 
 1 - A iniciativa legislativa em matéria de estatuto do território de Macau, para efeitos de alterações ao estatuto em vigor ou da sua substituição, nos termos do artigo 292.º da Constituição, compete à Assembleia Legislativa de Macau ou ao Governador de Macau, nesse caso ouvida a Assembleia Legislativa de Macau e precedendo parecer do Conselho de Estado.
 
-###### Art. 33.º No artigo 179.º, o n.º 1 é substituído por:
+Art. 33.º No artigo 179.º, o n.º 1 é substituído por:
 
 1 - Tendo o Presidente da República solicitado autorização à Assembleia da República para a declaração do estado de sítio ou do estado de emergência, nos termos do artigo 19.º, da alínea d) do artigo 137.º e do artigo 141.º da Constituição, o Presidente da Assembleia promove a sua imediata apreciação pelo Plenário ou pela Comissão Permanente, no caso de a Assembleia não estar reunida nem ser possível a sua reunião imediata.
 
-###### Art. 34.º - 1 - O corpo do artigo 198.º passa a n.º 1, com a seguinte redacção:
+Art. 34.º - 1 - O corpo do artigo 198.º passa a n.º 1, com a seguinte redacção:
 
 1 - Requerida a apreciação de um decreto-lei elaborado no uso de autorização legislativa, e no caso de serem apresentadas propostas de alteração, a Assembleia poderá suspender, no todo ou em parte, mediante resolução, a vigência do decreto-lei até à publicação da lei que o vier a alterar ou até à rejeição de todas aquelas propostas.
 
@@ -272,7 +285,7 @@ A requerimento de 10 Deputados, a votação na especialidade, quando incida sobr
 
 2 - A suspensão caduca decorridas 10 reuniões plenárias sem que a Assembleia se tenha pronunciado a final sobre a ratificação nos termos do artigo 203.º
 
-###### Art. 35.º O artigo 203.º é substituído por:
+Art. 35.º O artigo 203.º é substituído por:
 
 ###### Artigo 203.º — Alteração ao decreto-lei
 
@@ -290,7 +303,7 @@ A requerimento de 10 Deputados, a votação na especialidade, quando incida sobr
 
 7 - Se forem rejeitadas pela comissão todas as propostas de alteração ou forem esgotados os prazos referidos nos n.os 3 e 4, considera-se caduco o processo de ratificação, sendo o Plenário de imediato informado do facto e remetida para publicação no Diário da República a respectiva declaração.
 
-###### Art. 36.º No artigo 205.º, o n.º 1 é substituído por:
+Art. 36.º No artigo 205.º, o n.º 1 é substituído por:
 
 1 - As convenções e os tratados sujeitos a aprovação da Assembleia da República, nos termos da alínea j) do artigo 164.º da Constituição, são enviados pelo Governo à Assembleia da República.
 
@@ -300,23 +313,23 @@ O n.º 2 é substituído por:
 
 No n.º 3 é substituído «p)» por «s)».
 
-###### Art. 37.º No artigo 210.º, n.º 2, é substituído «p)» por «s)».
+Art. 37.º No artigo 210.º, n.º 2, é substituído «p)» por «s)».
 
-###### Art. 38.º No artigo 237.º, o n.º 1 é substituído por:
+Art. 38.º No artigo 237.º, o n.º 1 é substituído por:
 
 1 - As perguntas ao Governo são feitas em reuniões semanais para esse fim designadas, que não terão período de antes da ordem do dia.
 
-###### Art. 39.º No artigo 238.º, n.º 1, é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
+Art. 39.º No artigo 238.º, n.º 1, é substituída a expressão «25 Deputados» por «um décimo do número de Deputados».
 
-###### Art. 40.º No artigo 239.º, o n.º 5 é substituído por:
+Art. 40.º No artigo 239.º, o n.º 5 é substituído por:
 
 5 - Pode ser estabelecido o regime de tempo global, adoptando-se, com as necessárias adaptações, as respectivas regras, caso em que podem, nesses termos, intervir Deputados de qualquer grupo parlamentar.
 
-###### Art. 41.º O corpo do artigo 240.º é substituído por:
+Art. 41.º O corpo do artigo 240.º é substituído por:
 
 No caso do exercício do direito previsto na alínea c) do n.º 2 do artigo 183.º da Constituição, o debate sobre política geral inicia-se até ao décimo dia posterior à publicação da interpelação no Diário ou à sua distribuição em folhas avulsas.
 
-###### Art. 42.º O artigo 245.º é substituído por:
+Art. 42.º O artigo 245.º é substituído por:
 
 ###### Artigo 245.º — Exercício do direito de petição
 
@@ -324,7 +337,7 @@ No caso do exercício do direito previsto na alínea c) do n.º 2 do artigo 183.
 
 2 - Sempre que no Regimento se empregar unicamente o termo «petição», entende-se que o mesmo se aplica a todas as modalidades referidas no número anterior.
 
-###### Art. 43.º O artigo 246.º é substituído por:
+Art. 43.º O artigo 246.º é substituído por:
 
 ###### Artigo 246.º — Forma
 
@@ -336,7 +349,7 @@ No caso do exercício do direito previsto na alínea c) do n.º 2 do artigo 183.
 
 4 - Sem prejuízo do disposto nos números anteriores, as petições não estão sujeitas a qualquer outra formalidade ou processo específico.
 
-###### Art. 44.º O artigo 247.º é substituído por:
+Art. 44.º O artigo 247.º é substituído por:
 
 ###### Artigo 247.º — Apresentação e seguimento
 
@@ -354,7 +367,7 @@ b) Se foram observados os requisitos mencionados nos n.os 1 e 2 do artigo anteri
 
 5 - Se a petição for admitida, mas faltar algum dos requisitos referidos no artigo 246.º, a Comissão fixa ao interessado um prazo não superior a vinte dias para suprir as deficiências verificadas, advertindo-o de que a sua não observância determina o arquivamento da petição.
 
-###### Art. 45.º O artigo 248.º é substituído por:
+Art. 45.º O artigo 248.º é substituído por:
 
 ###### Artigo 248.º — Exame pela Comissão
 
@@ -368,7 +381,7 @@ b) Se foram observados os requisitos mencionados nos n.os 1 e 2 do artigo anteri
 
 5 - A Comissão de Petições elabora as normas reguladoras da sua actividade que considere necessárias para assegurar o eficaz cumprimento da lei e deste Regimento.
 
-###### Art. 46.º É aditado um novo artigo 250.º, com a seguinte redacção:
+Art. 46.º É aditado um novo artigo 250.º, com a seguinte redacção:
 
 ###### Artigo 250.º — Apreciação pelo Plenário
 
@@ -378,7 +391,7 @@ b) Se foram observados os requisitos mencionados nos n.os 1 e 2 do artigo anteri
 
 3 - O debate inicia-se com a apresentação do relatório da Comissão, intervindo seguidamente um representante de cada grupo parlamentar por período não superior a dez minutos cada um.
 
-###### Art. 47.º - 1 - É aditado um novo artigo 251.º, com a seguinte redacção:
+Art. 47.º - 1 - É aditado um novo artigo 251.º, com a seguinte redacção:
 
 ###### Artigo 251.º — Âmbito da apreciação pelo Plenário
 
@@ -386,7 +399,7 @@ b) Se foram observados os requisitos mencionados nos n.os 1 e 2 do artigo anteri
 
 2 - Do que se passar será dado conhecimento ao primeiro signatário da petição, a quem será enviado um exemplar do número do Diário da Assembleia da República em que se mostre reproduzido o debate, a eventual apresentação de qualquer proposta com ele conexa e o resultado da respectiva votação.
 
-###### Art. 48.º O artigo 250.º, que passa a artigo 252.º, é substituído por:
+Art. 48.º O artigo 250.º, que passa a artigo 252.º, é substituído por:
 
 ###### Artigo 252.º — Publicação
 
@@ -400,7 +413,7 @@ b) Que o Presidente da Assembleia da República, sob proposta da Comissão de Pe
 
 3 - Semestralmente, a Comissão relatará ao Plenário o sentido essencial das petições recebidas e das medidas sobre elas tomadas.
 
-###### Art. 49.º É aditado um novo artigo 253.º, com a seguinte redacção:
+Art. 49.º É aditado um novo artigo 253.º, com a seguinte redacção:
 
 ###### Artigo 253.º — Efeitos
 
@@ -434,17 +447,17 @@ n) O seu arquivamento, com conhecimento ao peticionante ou peticionantes.
 
 2 - As diligências previstas nas alíneas b), d), e), f), g), h), i), l) e m) são efectuadas pelo Presidente da Assembleia da República, a solicitação e sob proposta da Comissão de Petições.
 
-###### Art. 50.º A numeração dos artigos 251.º a 262.º aumenta três unidades.
+Art. 50.º A numeração dos artigos 251.º a 262.º aumenta três unidades.
 
-###### Art. 51.º No artigo 252.º, que passa a 255.º, o n.º 1 é substituído por:
+Art. 51.º No artigo 252.º, que passa a 255.º, o n.º 1 é substituído por:
 
 1 - Os inquéritos parlamentares destinam-se a averiguar do cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração.
 
-###### Art. 52.º No artigo 253.º, que passa a 256.º, no n.º 1, a alínea c) é substituída por:
+Art. 52.º No artigo 253.º, que passa a 256.º, no n.º 1, a alínea c) é substituída por:
 
 c) A um décimo do número de Deputados, pelo menos;
 
-###### Art. 53.º O artigo 257.º, que passa a 260.º, é substituído por:
+Art. 53.º O artigo 257.º, que passa a 260.º, é substituído por:
 
 ###### Artigo 260.º — Apresentação de relatório
 
@@ -460,23 +473,25 @@ c) O sentido de voto de cada membro da Comissão, assim como as declarações de
 
 3 - O relatório é apresentado ao Presidente a fim de ser publicado no Diário.
 
-###### Art. 54.º É aditado um novo artigo 266.º, com a seguinte redacção:
+Art. 54.º É aditado um novo artigo 266.º, com a seguinte redacção:
 
-#### SECÇÃO XI — Artigo 266.º
+#### SECÇÃO XI
+
+###### Artigo 266.º
 
 Relatórios de outras entidades
 
 As disposições da secção anterior são aplicáveis, com as devidas adaptações, aos relatórios que legalmente devam ser apresentados à Assembleia da República.
 
-###### Art. 55.º A numeração dos artigos 263.º e seguintes aumenta quatro unidades.
+Art. 55.º A numeração dos artigos 263.º e seguintes aumenta quatro unidades.
 
-###### Art. 56.º No artigo 279.º, que passa a 283.º, o n.º 2 é substituído por:
+Art. 56.º No artigo 279.º, que passa a 283.º, o n.º 2 é substituído por:
 
 2 - A apresentação é feita perante o Presidente, até ao termo da reunião anterior àquela em que tiver lugar a eleição, acompanhada do curriculum vitae do candidato e da declaração de aceitação de candidatura.
 
 Aprovada em 7 de Março de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
 
@@ -1224,7 +1239,7 @@ Serão marcadas reuniões em que os membros do Governo estarão presentes para r
 
 ###### Artigo 64.º — Apreciação de outras matérias
 
-**O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:**
+O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de Deputados;
 
@@ -1386,7 +1401,7 @@ e) Realização de debates sobre assuntos de interesse local, regional ou sector
 
 ###### Artigo 79.º — Convite a individualidades estrangeiras
 
-**O Presidente pode, a título excepcional, ouvida a Conferência, convocar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.**
+O Presidente pode, a título excepcional, ouvida a Conferência, convocar individualidades estrangeiras de visita a Portugal a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1982,7 +1997,7 @@ Quando a comissão se considere incompetente para apreciação do texto, deve co
 
 ###### Artigo 142.º — Envio de propostas de alteração
 
-**O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 143.º — Legislação do trabalho
 
@@ -2026,7 +2041,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 149.º — Conhecimento prévio dos projectos, propostas de lei ou de resolução
 
@@ -2064,7 +2081,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 Até ao anúncio da votação podem 10 Deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que for designado, não se aplicando neste caso o disposto no artigo 149.º
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 153.º — Objecto
 
@@ -2074,7 +2093,9 @@ Até ao anúncio da votação podem 10 Deputados, pelo menos, requerer a baixa d
 
 3 - A Assembleia pode deliberar que a discussão e a votação incidam sobre divisão do projecto ou proposta cuja autonomia o justifique.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 154.º — Regra geral
 
@@ -2114,7 +2135,9 @@ A requerimento de 10 Deputados, a votação na especialidade, quando incida sobr
 
 No caso de votação na especialidade pela comissão, o Plenário pode deliberar, a todo o tempo, avocá-la a si, a requerimento de, pelo menos, 10 Deputados.
 
-##### SUBDIVISÃO IV — Votação final global
+SUBDIVISÃO IV
+
+Votação final global
 
 ###### Artigo 160.º — Votação final global
 
@@ -2250,7 +2273,9 @@ Se o projecto for aprovado sem alterações, o decreto da Assembleia da Repúbli
 
 ##### DIVISÃO III — Autorização a ratificação da declaração do estado de sítio ou do estado de emergência
 
-##### SUBDIVISÃO I — Autorização para declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO I
+
+Autorização para declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 179.º — Reunião da Assembleia
 
@@ -2278,7 +2303,9 @@ A votação incide sobre a concessão de autorização.
 
 A autorização toma a forma de lei quando concedida pelo Plenário e de resolução quando concedida pela Comissão Permanente.
 
-##### SUBDIVISÃO II — Ratificação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO II
+
+Ratificação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 183.º — Convocação imediata da Assembleia
 
@@ -2302,7 +2329,9 @@ A votação incide sobre a concessão de ratificação.
 
 No caso de o Presidente da República ter solicitado a renovação da autorização da Assembleia da República para a declaração do estado de sítio ou do estado de emergêndcia, aplicam-se, com as necessárias adaptações, as disposições constantes dos artigos anteriores.
 
-##### SUBDIVISÃO III — Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO III
+
+Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 188.º — Apreciação da aplicação
 
@@ -2544,7 +2573,7 @@ A redacção final incumbe à comissão competente em razão da matéria, que di
 
 ###### Artigo 222.º — Parecer do Conselho Nacional do Plano
 
-**O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.**
+O Presidente da Assembleia remete o texto do relatório de execução do Plano ao Conselho Nacional do Plano, para os efeitos do disposto na alínea d) do n.º 1 do artigo 17.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
 ###### Artigo 223.º — Parecer
 
@@ -2836,7 +2865,7 @@ n) O seu arquivamento, com conhecimento ao peticionante ou peticionantes.
 
 ###### Artigo 254.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da Comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da Comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO IX — Inquéritos
 
@@ -2930,7 +2959,9 @@ Quando o Provedor de Justiça se dirija à Assembleia por a Administração não
 
 Quando o Provedor de Justiça dirija à Assembleia recomendações legislativas, são estas remetidas, com os documentos que as acompanham, aos grupos parlamentares para os fins que estes entendam convenientes, e são publicados no Diário.
 
-#### SECÇÃO XI — Artigo 266.º
+#### SECÇÃO XI
+
+###### Artigo 266.º
 
 Relatórios de outras entidades
 

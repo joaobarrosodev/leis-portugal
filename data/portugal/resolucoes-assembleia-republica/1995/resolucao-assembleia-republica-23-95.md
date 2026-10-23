@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23/1995/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1995-230566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36637d0116424ced0cdc568308925dae3c99f1affeb23af5cc2f9f7b449c59aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f0ce66f33941bbf8b88e634d109deffd77e3bd3938922c09e577930e0ce26bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,22 @@ subjects:
 - Asilo Político
 - BONA
 - Convenção
-- Portugal
 - Dublin
 - Fronteiras
-- Refugiado
 - Livre Circulação de Pessoas
+- Portugal
+- Refugiado
 relationships: []
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:57Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 25 de Janeiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLO RELATIVO ÀS CONSEQUÊNCIAS DA ENTRADA EM VIGOR DA CONVENÇÃO DE DUBLIM SOBRE DETERMINADAS DISPOSIÇÕES DA CONVENÇÃO DE APLICAÇÃO DO ACORDO DE SCHENGEN.
 
@@ -132,4 +132,4 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, apuser
 
 Feito em Bona em 26 de Abril de 1994, num único exemplar em língua alemã, espanhola, francesa, grega, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos sete textos, que serão depositados nos arquivos do Governo do Grão-Ducado do Luxemburgo, que enviará uma cópia autenticada a cada uma das Partes Contratantes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/086a00/21222123.pdf))](https://files.diariodarepublica.pt/1s/1995/04/086a00/21222123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/086a00/21222123.pdf)

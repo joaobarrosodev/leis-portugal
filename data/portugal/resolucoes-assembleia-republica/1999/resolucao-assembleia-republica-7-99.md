@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/7/1999/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/7-1999-158380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c506e45ab9e3b176df8ec0dda2477c6cc2775526f5a39375e2e41f65c4d0c89a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c71508c83496e6a4c6541e5b450a6ab4847d2ec14809b43419170ba64311a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,33 @@ subjects:
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
-- União Europeia
 - Maastricht
+- Portugal
 - Tratado CECA
 - Tratado CEE
 - Tratado da União Europeia
 - Tratado de Amesterdão
 - Tratado Euratom
-relationships: []
+- União Europeia
+relationships:
+- type: corrected_by
+  target: pt:dre:452182:por
+  label: Rectificado o texto original da versão portuguesa do Tratado de Amesterdão, que altera o Tratado da União Europeia,
+    os Tratados que instituem as Comunidades Europeias e alguns actos relativos a esses tratados, assinado em Amesterdão em
+    2 de Outubro de 1997, aprovado para ratificação pelo presente diploma, ratificado pelo Dec 65/99, de 19-Fev, pelo AV.203/2008.30.09.2008.MNE,
+    DR.IS [189] de 30.09.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/203-2008-452182
+  date: '2008-09-30'
 article_structure:
-  article_count: 435
-  section_count: 115
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 48
+  section_count: 54
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:20Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +126,7 @@ São publicadas em língua portuguesa, para fins meramente informativos, a vers�
 
 Aprovada em 6 de Janeiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 TRATADO DE AMESTERDÃO QUE ALTERA O TRATADO DA UNIÃO EUROPEIA, OS TRATADOS QUE INSTITUEM AS COMUNIDADES EUROPEIAS E ALGUNS ACTOS RELATIVOS A ESSES TRATADOS.
 
@@ -132,11 +140,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Niels Helveg Petersen, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Klaus Kinkel, Ministro dos Negócios Estrangeiros e Vice-Chanceler Federal;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Theodoros Pangalos, Ministro dos Negócios Estrangeiros;
 
@@ -144,7 +152,7 @@ Sua Majestade o Rei de Espanha:
 
 Juan Abel Matutes, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Hubert Védrine, Ministro dos Negócios Estrangeiros;
 
@@ -152,7 +160,7 @@ A Comissão autorizada pelo artigo 14.º da Constituição da Irlanda a exercer 
 
 Raphael P. Burke, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Lamberto Dini, Ministro dos Negócios Estrangeiros;
 
@@ -164,15 +172,15 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Hans van Mierlo, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Wolfgang Schüssel, Ministro Federal dos Negócios Estrangeiros e Vice-Chanceler;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Jaime Gama, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Finlândia:**
+O Presidente da República da Finlândia:
 
 Tarja Halonen, Ministra dos Negócios Estrangeiros;
 
@@ -186,7 +194,7 @@ Douglas Henderson, Ministro Adjunto e Ministro dos Negócios Estrangeiros e do C
 
 os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e devida forma, acordaram no seguinte:
 
-# PARTE I — Alterações substantivas
+## PARTE I — Alterações substantivas
 
 ###### Artigo 1.º
 
@@ -440,7 +448,7 @@ Sem prejuízo do disposto no artigo 151.º do Tratado que institui a Comunidade 
 
 Artigo J.16
 
-**O Secretário-Geral do Conselho, alto representante para a política externa e de segurança comum, assistirá o Conselho nas questões do âmbito da política externa e de segurança comum, contribuindo nomeadamente para a formulação, elaboração e execução das decisões políticas e, quando necessário, actuando em nome do Conselho a pedido da Presidência, conduzindo o diálogo político com terceiros.**
+O Secretário-Geral do Conselho, alto representante para a política externa e de segurança comum, assistirá o Conselho nas questões do âmbito da política externa e de segurança comum, contribuindo nomeadamente para a formulação, elaboração e execução das decisões políticas e, quando necessário, actuando em nome do Conselho a pedido da Presidência, conduzindo o diálogo político com terceiros.
 
 Artigo J.17
 
@@ -808,7 +816,7 @@ O Conselho delibera por unanimidade em todo o processo previsto no artigo 189.º
 
 Vistos, asilo, imigração e outras políticas relativas à livre circulação de pessoas
 
-###### Artigo 73.º-I
+Artigo 73.º-I
 
 A fim de criar progressivamente um espaço de liberdade, de segurança e de justiça, o Conselho adoptará:
 
@@ -822,7 +830,7 @@ d) Medidas destinadas a incentivar e reforçar a cooperação administrativa a q
 
 e) Medidas no domínio da cooperação policial e judiciária em matéria penal, destinadas a assegurar um elevado nível de segurança através da prevenção e combate da criminalidade na União, nos termos do Tratado da União Europeia.
 
-###### Artigo 73.º-J
+Artigo 73.º-J
 
 O Conselho, deliberando nos termos do artigo 73.º-O, adoptará, no prazo de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão:
 
@@ -844,7 +852,7 @@ iv) Regras em matéria de visto uniforme;
 
 3) Medidas que estabeleçam as condições da livre circulação de nacionais de países terceiros no território dos Estados membros durante um período não superior a três meses.
 
-###### Artigo 73.º-K
+Artigo 73.º-K
 
 O Conselho, deliberando nos termos do artigo 73.º-O, adoptará no prazo de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão:
 
@@ -876,13 +884,13 @@ As medidas adoptadas pelo Conselho em aplicação dos n.os 3) e 4) não impedir�
 
 O prazo de cinco anos acima previsto não é aplicável às medidas a adoptar nos termos da alínea b) do n.º 2), da alínea a) do n.º 3) e do n.º 4).
 
-###### Artigo 73.º-L
+Artigo 73.º-L
 
 1 - O disposto no presente título não prejudica o exercício das responsabilidades que incumbem aos Estados membros em matéria de manutenção da ordem pública e de garantia da segurança interna.
 
 2 - No caso de um ou mais Estados membros serem confrontados com uma situação de emergência caracterizada por um súbito afluxo de nacionais de países terceiros, e sem prejuízo do disposto no n.º 1, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar medidas provisórias, de duração não superior a seis meses, a favor desses Estados membros.
 
-###### Artigo 73.º-M
+Artigo 73.º-M
 
 As medidas no domínio da cooperação judiciária em matéria civil que tenham uma incidência transfronteiriça, a adoptar nos termos do artigo 73.º-O e na medida do necessário ao bom funcionamento do mercado interno, terão por objectivo, nomeadamente:
 
@@ -898,11 +906,11 @@ b) Promover a compatibilidade das normas aplicáveis nos Estados membros em mat�
 
 c) Eliminar os obstáculos à boa tramitação das acções cíveis, promovendo, se necessário, a compatibilidade das normas de processo civil aplicáveis nos Estados membros.
 
-###### Artigo 73.º-N
+Artigo 73.º-N
 
 O Conselho, deliberando nos termos do artigo 73.º-O, adoptará medidas destinadas a assegurar uma cooperação entre os serviços competentes das administrações dos Estados membros nos domínios abrangidos pelo presente título, bem como entre esses serviços e a Comissão.
 
-###### Artigo 73.º-O
+Artigo 73.º-O
 
 1 - Durante um período transitório de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão, o Conselho delibera por unanimidade, sob proposta da Comissão ou por iniciativa de um Estado membro e após consulta ao Parlamento Europeu.
 
@@ -916,7 +924,7 @@ O Conselho, deliberando nos termos do artigo 73.º-O, adoptará medidas destinad
 
 4 - Findo um período de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão, as medidas previstas no n.º 2), subalíneas ii) e iv) da alínea b), do artigo 73.º-J serão adoptadas pelo Conselho nos termos do artigo 189.º-B.
 
-###### Artigo 73.º-P
+Artigo 73.º-P
 
 1 - O artigo 177.º é aplicável ao presente título, nas circunstâncias e condições a seguir enunciadas: sempre que uma questão sobre a interpretação do presente título ou sobre a validade ou interpretação dos actos adoptados pelas instituições da Comunidade com base no presente título seja suscitada em processo pendente perante um órgão jurisdicional nacional cujas decisões não sejam susceptíveis de recurso judicial previsto no direito interno, esse órgão, se considerar que uma decisão sobre essa questão é necessária ao julgamento da causa, deve pedir ao Tribunal de Justiça que sobre ela se pronuncie.
 
@@ -924,7 +932,7 @@ O Conselho, deliberando nos termos do artigo 73.º-O, adoptará medidas destinad
 
 3 - O Conselho, a Comissão ou um Estado membro podem solicitar ao Tribunal de Justiça que se pronuncie sobre uma questão de interpretação do presente título ou de actos adoptados pelas instituições da Comunidade com base nele. A decisão proferida pelo Tribunal de Justiça em resposta a esse pedido não é aplicável às decisões dos órgãos jurisdicionais dos Estados membros que constituam caso julgado.
 
-###### Artigo 73.º-Q
+Artigo 73.º-Q
 
 O presente título é aplicável sob reserva do disposto no Protocolo Relativo à Posição do Reino Unido e da Irlanda e no Protocolo Relativo à Posição da Dinamarca e sem prejuízo do Protocolo Relativo à Aplicação de Certos Aspectos do Artigo 7.º-A do Tratado Que Institui a Comunidade Europeia ao Reino Unido e à Irlanda.»
 
@@ -962,23 +970,23 @@ Se a complexidade da questão o justificar, e não existindo perigo para a saúd
 
 Emprego
 
-###### Artigo 109.º-N
+Artigo 109.º-N
 
 Os Estados membros e a Comunidade empenhar-se-ão, nos termos do presente título, em desenvolver uma estratégia coordenada em matéria de emprego e, em especial, em promover uma mão-de-obra qualificada, formada e susceptível de adaptação, bem como mercados de trabalho que reajam rapidamente às mudanças económicas, tendo em vista alcançar os objectivos enunciados no artigo B do Tratado da União Europeia e no artigo 2.º do presente Tratado.
 
-###### Artigo 109.º-O
+Artigo 109.º-O
 
 1 - Através das suas políticas de emprego, os Estados membros contribuirão para a realização dos objectivos previstos no artigo 109.º-N, de forma coerente com as orientações gerais das políticas económicas dos Estados membros e da Comunidade adoptadas em aplicação do n.º 2 do artigo 103.º
 
 2 - Tendo em conta as práticas nacionais relativas às responsabilidades dos parceiros sociais, os Estados membros considerarão a promoção do emprego uma questão de interesse comum e coordenarão a sua acção nesse domínio no âmbito do Conselho, nos termos do disposto no artigo 109.º-Q.
 
-###### Artigo 109.º-P
+Artigo 109.º-P
 
 1 - A Comunidade contribuirá para a realização de um elevado nível de emprego, incentivando a cooperação entre os Estados membros, apoiando e, se necessário, completando a sua acção. Ao fazê-lo, respeitará as competências dos Estados membros.
 
 2 - O objectivo de alcançar um elevado nível de emprego será tomado em consideração na definição e execução das políticas e acções comunitárias.
 
-###### Artigo 109.º-Q
+Artigo 109.º-Q
 
 1 - O Conselho Europeu procederá anualmente à avaliação da situação do emprego na Comunidade e adoptará conclusões nessa matéria, com base num relatório anual conjunto do Conselho e da Comissão.
 
@@ -990,13 +998,13 @@ Os Estados membros e a Comunidade empenhar-se-ão, nos termos do presente títul
 
 5 - Com base nos resultados daquela análise, o Conselho e a Comissão apresentarão anualmente ao Conselho Europeu um relatório conjunto sobre a situação do emprego na Comunidade e a aplicação das orientações em matéria de emprego.
 
-###### Artigo 109.º-R
+Artigo 109.º-R
 
 O Conselho, deliberando nos termos do artigo 189.º-B e após consulta ao Comité Económico e Social e ao Comité das Regiões, pode adoptar acções de incentivo destinadas a fomentar a cooperação entre os Estados membros e apoiar a sua acção no domínio do emprego, por meio de iniciativas que tenham por objectivo desenvolver o intercâmbio de informações e de boas práticas, facultar análises comparativas e consultadoria, promover abordagens inovadoras e avaliar a experiência adquirida, em especial mediante o recurso a projectos piloto.
 
 Essas acções não incluirão a harmonização das disposições legislativas e regulamentares dos Estados membros.
 
-###### Artigo 109.º-S
+Artigo 109.º-S
 
 O Conselho, após consulta ao Parlamento Europeu, criará um Comité do Emprego, com carácter consultivo, para promover a coordenação das políticas em matéria de emprego e de mercado de trabalho entre os Estados membros. O Comité terá por funções:
 
@@ -1018,7 +1026,7 @@ Os Estados membros e a Comissão nomearão, cada um, dois membros do Comité.»
 
 Cooperação aduaneira
 
-###### Artigo 116.º
+Artigo 116.º
 
 No âmbito de aplicação do presente Tratado, o Conselho, deliberando nos termos do artigo 189.º-B, tomará medidas destinadas a reforçar a cooperação aduaneira entre os Estados membros e entre estes e a Comissão. Essas medidas não dirão respeito à aplicação do direito penal nacional nem à administração da justiça nos Estados membros.»
 
@@ -1032,7 +1040,7 @@ Para o efeito, a Comunidade e os Estados membros desenvolverão acções que ten
 
 A Comunidade e os Estados membros consideram que esse desenvolvimento decorrerá não apenas do funcionamento do mercado comum, que favorecerá a harmonização dos sistemas sociais, mas igualmente dos processos previstos no presente Tratado e da aproximação das disposições legislativas, regulamentares e administrativas.
 
-###### Artigo 118.º
+Artigo 118.º
 
 1 - A fim de realizar os objectivos enunciados no artigo 117.º, a Comunidade apoiará e completará a acção dos Estados membros nos seguintes domínios:
 
@@ -1072,7 +1080,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 6 - O disposto no presente artigo não é aplicável às remunerações, ao direito sindical, ao direito de greve e ao direito de lock-out.
 
-###### Artigo 118.º-A
+Artigo 118.º-A
 
 1 - À Comissão caberá promover a consulta dos parceiros sociais ao nível comunitário e tomar todas as medidas necessárias para facilitar o seu diálogo, assegurando um apoio equilibrado às partes.
 
@@ -1082,7 +1090,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 4 - Ao efectuarem essa consulta, os parceiros sociais podem informar a Comissão do seu desejo de dar início ao processo previsto no artigo 118.º-B. A duração deste não pode exceder nove meses, salvo prorrogação decidida em comum por esses parceiros sociais e pela Comissão.
 
-###### Artigo 118.º-B
+Artigo 118.º-B
 
 1 - O diálogo entre os parceiros sociais ao nível comunitário pode conduzir, se estes o entenderem desejável, a relações contratuais, incluindo acordos.
 
@@ -1090,7 +1098,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 O Conselho delibera por maioria qualificada, salvo se o acordo em causa contiver uma ou mais disposições relativas a um dos domínios previstos no n.º 3 do artigo 118.º, caso em que delibera por unanimidade.
 
-###### Artigo 118.º-C
+Artigo 118.º-C
 
 Tendo em vista a realização dos objectivos do artigo 117.º e sem prejuízo das demais disposições do presente Tratado, a Comissão incentivará a cooperação entre os Estados membros e facilitará a coordenação das suas acções nos domínios da política social abrangidos pelo presente capítulo, designadamente em questões relativas:
 
@@ -1112,7 +1120,7 @@ Para o efeito, a Comissão actuará em estreito contacto com os Estados membros,
 
 Antes de formular os pareceres previstos no presente artigo, a Comissão consultará o Comité Económico e Social.
 
-###### Artigo 119.º
+Artigo 119.º
 
 1 - Os Estados membros assegurarão a aplicação do princípio da igualdade de remuneração entre trabalhadores masculinos e femininos, por trabalho igual ou de valor igual.
 
@@ -1128,11 +1136,11 @@ b) A remuneração do trabalho pago por unidade de tempo seja a mesma para um me
 
 4 - A fim de assegurar, na prática, a plena igualdade entre homens e mulheres na vida profissional, o princípio da igualdade de tratamento não obsta a que os Estados membros mantenham ou adoptem medidas que prevejam regalias específicas destinadas a facilitar o exercício de uma actividade profissional pelas pessoas do sexo sub-representado, ou a prevenir ou compensar desvantagens na sua carreira profissional.
 
-###### Artigo 119.º-A
+Artigo 119.º-A
 
 Os Estados membros esforçar-se-ão por manter a equivalência existente dos regimes de férias pagas.
 
-###### Artigo 120.º
+Artigo 120.º
 
 A Comissão elaborará anualmente um relatório sobre a evolução na realização dos objectivos a que se refere o artigo 117.º, incluindo a situação demográfica na Comunidade. Esse relatório será enviado ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social.
 
@@ -1662,7 +1670,7 @@ O Acto Relativo à Eleição dos Representantes ao Parlamento Europeu por Sufrá
 
 «1 - Até à entrada em vigor do processo uniforme ou de um processo baseado em princípios comuns, previsto no artigo 7.º, e sem prejuízo das demais disposições do presente Acto, cada um dos Estados membros estabelecerá o processo adequado ao preenchimento, até ao termo do período quinquenal a que se refere o artigo 3.º, das vagas ocorridas durante esse período.»
 
-# PARTE II — Disposições de simplificação
+## PARTE II — Disposições de simplificação
 
 ###### Artigo 6.º
 
@@ -2438,7 +2446,7 @@ As disposições anteriores serão igualmente aplicáveis ao Instituto Monetári
 
 As disposições do Tratado que institui a Comunidade Europeia, do Tratado que institui a Comunidade Europeia do Carvão e do Aço e do Tratado que institui a Comunidade Europeia da Energia Atómica relativas à competência do Tribunal de Justiça das Comunidades Europeias e ao exercício dessa competência são aplicáveis às disposições da presente parte, bem como às disposições do Protocolo Relativo aos Privilégios e Imunidades, a que se refere o n.º 5 do artigo 9.º
 
-# PARTE III — Disposições gerais e finais
+## PARTE III — Disposições gerais e finais
 
 ###### Artigo 12.º
 
@@ -2464,17 +2472,17 @@ O presente Tratado tem vigência ilimitada.
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, italiana, irlandesa, neerlandesa, portuguesa e sueca, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual dele remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
+[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
 
 ## ANEXO — Quadros de correspondência a que se refere o artigo 12.º do Tratado de Amesterdão
 
 A) Tratado da União Europeia
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
 
 B) Tratado que institui a Comunidade Europeia
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
 
 PROTOCOLOS
 
@@ -2662,7 +2670,9 @@ Tendo em conta o artigo 3.º do Protocolo Que Integra o Acervo de Schengen no â
 
 acordaram nas disposições seguintes, que vêm anexas ao Tratado que institui a Comunidade Europeia e ao Tratado da União Europeia:
 
-# PARTE I — Artigo 1.º
+## PARTE I
+
+###### Artigo 1.º
 
 A Dinamarca não participará na adopção pelo Conselho das medidas propostas em aplicação do título III-A do Tratado que institui a Comunidade Europeia. Em derrogação do n.º 2 do artigo 148.º do Tratado que institui a Comunidade Europeia, a maioria qualificada é definida como sendo constituída pela mesma proporção dos votos ponderados dos membros do Conselho em causa fixada no citado n.º 2 do artigo 148.º Será necessária a unanimidade dos membros do Conselho, com excepção do representante do Governo da Dinamarca, para as decisões que o Conselho deva adoptar por unanimidade.
 
@@ -2684,11 +2694,15 @@ Os artigos 1.º, 2.º e 3.º não são aplicáveis às medidas que determinem qu
 
 2 - Se a Dinamarca decidir não aplicar uma decisão do Conselho na acepção do n.º 1, os Estados membros a que se refere o artigo 1.º do Protocolo Que Integra o Acervo de Schengen no âmbito da União Europeia analisarão as medidas adequadas a tomar.
 
-# PARTE II — Artigo 6.º
+## PARTE II
+
+###### Artigo 6.º
 
 No que respeita às medidas adoptadas pelo Conselho no domínio abrangido pelo n.º 1 do artigo J.3 e pelo artigo J.7 do Tratado da União Europeia, a Dinamarca não participa na elaboração nem na execução de decisões e acções da União com implicações em matéria de defesa, mas não levantará obstáculos ao desenvolvimento de uma cooperação reforçada entre Estados membros neste domínio. Nesse caso, a Dinamarca não participará na sua adopção. A Dinamarca não será obrigada a contribuir para o financiamento das despesas operacionais decorrentes dessas medidas.
 
-# PARTE III — Artigo 7.º
+## PARTE III
+
+###### Artigo 7.º
 
 A Dinamarca pode, a todo o tempo, e de acordo com as suas normas constitucionais, informar os demais Estados membros de que não pretende continuar a invocar a totalidade ou parte do presente Protocolo. Nesse caso, a Dinamarca aplicará integralmente todas as medidas pertinentes então em vigor, tomadas no âmbito da União Europeia.
 
@@ -2886,21 +2900,21 @@ I - Texto do Tratado
 
 Preâmbulo.
 
-## Título I - Disposições comuns.
+Título I - Disposições comuns.
 
-## Título II - Disposições que alteram o Tratado que institui a Comunidade Económica Europeia tendo em vista a instituição da Comunidade Europeia.
+Título II - Disposições que alteram o Tratado que institui a Comunidade Económica Europeia tendo em vista a instituição da Comunidade Europeia.
 
-## Título III - Disposições que alteram o Tratado que institui a Comunidade Europeia do Carvão e do Aço.
+Título III - Disposições que alteram o Tratado que institui a Comunidade Europeia do Carvão e do Aço.
 
-## Título IV - Disposições que alteram o Tratado que institui a Comunidade Europeia da Energia Atómica.
+Título IV - Disposições que alteram o Tratado que institui a Comunidade Europeia da Energia Atómica.
 
-## Título V - Disposições relativas à política externa e de segurança comum.
+Título V - Disposições relativas à política externa e de segurança comum.
 
-## Título VI - Disposições relativas à cooperação policial e judiciária em matéria penal.
+Título VI - Disposições relativas à cooperação policial e judiciária em matéria penal.
 
-## Título VII - Disposições relativas à cooperação reforçada.
+Título VII - Disposições relativas à cooperação reforçada.
 
-## Título VIII - Disposições finais.
+Título VIII - Disposições finais.
 
 II - Protocolos (texto não reproduzido)
 
@@ -2972,13 +2986,13 @@ Uffe Ellemann-Jensen, Ministro dos Negócios Estrangeiros;
 
 Anders Fogh Rasmussen, Ministro da Economia;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Hans-Dietrich Genscher, Ministro dos Negócios Estrangeiros;
 
 Theodor Waigel, Ministro Federal das Finanças;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Antonios Samaras, Ministro dos Negócios Estrangeiros;
 
@@ -2990,19 +3004,19 @@ Francisco Fernández Ordónez, Ministro dos Negócios Estrangeiros;
 
 Carlos Solchaga Catalán, Ministro da Economia e Finanças;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Roland Dumas, Ministro dos Negócios Estrangeiros;
 
 Pierre Bérégovoy, Ministro da Economia, Finanças e Orçamento;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Gerard Collins, Ministro dos Negócios Estrangeiros;
 
 Bertie Ahern, Ministro das Finanças;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Gianni de Michelis, Ministro dos Negócios Estrangeiros;
 
@@ -3020,7 +3034,7 @@ Hans van den Broek, Ministro dos Negócios Estrangeiros;
 
 Willem Kok, Ministro das Finanças;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 João de Deus Pinheiro, Ministro dos Negócios Estrangeiros;
 
@@ -3036,7 +3050,7 @@ os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e d
 
 ## TÍTULO I — Disposições comuns
 
-###### Artigo 1.º (ex-artigo A)
+Artigo 1.º (ex-artigo A)
 
 Pelo presente Tratado, as Altas Partes Contratantes instituem entre si uma união europeia, adiante designada por União.
 
@@ -3044,7 +3058,7 @@ O presente Tratado assinala uma nova etapa no processo de criação de uma uniã
 
 A União funda-se nas Comunidades Europeias, completadas pelas políticas e formas de cooperação instituídas pelo presente Tratado. A União tem por missão organizar de forma coerente e solidária as relações entre os Estados membros e entre os respectivos povos.
 
-###### Artigo 2.º (ex-artigo B)
+Artigo 2.º (ex-artigo B)
 
 A União atribui-se os seguintes objectivos:
 
@@ -3060,13 +3074,13 @@ A União atribui-se os seguintes objectivos:
 
 Os objectivos da União serão alcançados de acordo com as disposições do presente Tratado e nas condições e segundo o calendário nele previstos, respeitando o princípio da subsidiariedade, tal como definido no artigo 5.º do Tratado que institui a Comunidade Europeia.
 
-###### Artigo 3.º (ex-artigo C)
+Artigo 3.º (ex-artigo C)
 
 A União dispõe de um quadro institucional único, que assegura a coerência e a continuidade das acções empreendidas para atingir os seus objectivos, respeitando e desenvolvendo simultaneamente o acervo comunitário.
 
 A União assegurará, em especial, a coerência do conjunto da sua acção externa no âmbito das políticas que adoptar em matéria de relações externas, de segurança, de economia e de desenvolvimento. Cabe ao Conselho e à Comissão a responsabilidade de assegurar essa coerência, cooperando para o efeito. O Conselho e a Comissão assegurarão a execução dessas políticas de acordo com as respectivas competências.
 
-###### Artigo 4.º (ex-artigo D)
+Artigo 4.º (ex-artigo D)
 
 O Conselho Europeu dará à União os impulsos necessários ao seu desenvolvimento e definirá as respectivas orientações políticas gerais.
 
@@ -3074,11 +3088,11 @@ O Conselho Europeu reúne os chefes de Estado ou de governo dos Estados membros,
 
 O Conselho Europeu apresentará ao Parlamento Europeu um relatório na sequência de cada uma das suas reuniões, bem como um relatório escrito anual sobre os progressos realizados pela União.
 
-###### Artigo 5.º (ex-artigo E)
+Artigo 5.º (ex-artigo E)
 
 O Parlamento Europeu, o Conselho, a Comissão, o Tribunal de Justiça e o Tribunal de Contas exercem as suas competências nas condições e de acordo com os objectivos previstos, por um lado, nas disposições dos Tratados que instituem as Comunidades Europeias e nos tratados e actos subsequentes que os alteraram ou completaram e, por outro, nas demais disposições do presente Tratado.
 
-###### Artigo 6.º (ex-artigo F)
+Artigo 6.º (ex-artigo F)
 
 1 - A União assenta nos princípios da liberdade, da democracia, do respeito pelos direitos do homem e pelas liberdades fundamentais, bem como do Estado de direito, princípios que são comuns aos Estados membros.
 
@@ -3088,7 +3102,7 @@ O Parlamento Europeu, o Conselho, a Comissão, o Tribunal de Justiça e o Tribun
 
 4 - A União dotar-se-á dos meios necessários para atingir os seus objectivos e realizar com êxito as suas políticas.
 
-###### Artigo 7.º (ex-artigo F.1)
+Artigo 7.º (ex-artigo F.1)
 
 1 - O Conselho, reunido a nível de chefes de Estado ou de governo e deliberando por unanimidade, sob proposta de um terço dos Estados membros, ou da Comissão, e após parecer favorável do Parlamento Europeu, pode verificar a existência de uma violação grave e persistente, por parte de um Estado membro, de algum dos princípios enunciados no n.º 1 do artigo 6.º, após ter convidado o governo desse Estado membro a apresentar as suas observações sobre a questão.
 
@@ -3106,25 +3120,25 @@ O presente número é igualmente aplicável em caso de suspensão do direito de 
 
 ## TÍTULO II — Disposições que alteram o Tratado que institui a Comunidade Económica Europeia tendo em vista a instituição da Comunidade Europeia
 
-###### Artigo 8.º (ex-artigo G)
+Artigo 8.º (ex-artigo G)
 
 (Não reproduzido.)
 
 ## TÍTULO III — Disposições que alteram o Tratado que institui a Comunidade Europeia do Carvão e do Aço
 
-###### Artigo 9.º (ex-artigo H)
+Artigo 9.º (ex-artigo H)
 
 (Não reproduzido.)
 
 ## TÍTULO IV — Disposições que alteram o Tratado que institui a Comunidade Europeia da Energia Atómica
 
-###### Artigo 10.º (ex-artigo I)
+Artigo 10.º (ex-artigo I)
 
 (Não reproduzido.)
 
 ## TÍTULO V — Disposições relativas à política externa e de segurança comum
 
-###### Artigo 11.º (ex-artigo J.1)
+Artigo 11.º (ex-artigo J.1)
 
 1 - A União definirá e executará uma política externa e de segurança comum extensiva a todos os domínios da política externa e de segurança, que terá por objectivos:
 
@@ -3144,7 +3158,7 @@ Os Estados membros actuarão de forma concertada a fim de reforçar e desenvolve
 
 O Conselho assegura a observância destes princípios.
 
-###### Artigo 12.º (ex-artigo J.2)
+Artigo 12.º (ex-artigo J.2)
 
 A União prosseguirá os objectivos enunciados no artigo 11.º:
 
@@ -3158,7 +3172,7 @@ A União prosseguirá os objectivos enunciados no artigo 11.º:
 
 - reforçando a cooperação sistemática entre os Estados membros na condução da política.
 
-###### Artigo 13.º (ex-artigo J.3)
+Artigo 13.º (ex-artigo J.3)
 
 1 - O Conselho Europeu definará os princípios e as orientações gerais da política externa e de segurança comum, incluindo em matérias com implicações no domínio da defesa.
 
@@ -3172,7 +3186,7 @@ O Conselho recomendará ao Conselho Europeu estratégias comuns e executá-las-�
 
 O Conselho assegura a unidade, coerência e eficácia da acção da União.
 
-###### Artigo 14.º (ex-artigo J.4)
+Artigo 14.º (ex-artigo J.4)
 
 1 - O Conselho adoptará acções comuns. As acções comuns incidirão sobre situações específicas em que se considere necessária uma acção operacional por parte da União. As acções comuns definirão os respectivos objectivos e âmbito, os meios a pôr à disposição da União e condições de execução respectivas e, se necessário, a sua duração.
 
@@ -3188,15 +3202,15 @@ O Conselho assegura a unidade, coerência e eficácia da acção da União.
 
 7 - Em caso de dificuldades importantes na execução de uma acção comum, os Estados membros submeterão a questão ao Conselho, que sobre ela deliberará, procurando encontrar as soluções adequadas. Estas soluções não podem ser contrárias aos objectivos da acção comum, nem prejudicar a eficácia desta.
 
-###### Artigo 15.º (ex-artigo J.5)
+Artigo 15.º (ex-artigo J.5)
 
 O Conselho adoptará posições comuns. As posições definirão a abordagem global de uma questão específica de natureza geográfica ou temática pela União. Os Estados membros zelarão pela coerência das suas políticas nacionais com as posições comuns.
 
-###### Artigo 16.º (ex-artigo J.6)
+Artigo 16.º (ex-artigo J.6)
 
 Os Estados membros informar-se-ão mutuamente e concertar-se-ão no âmbito do Conselho sobre todas as questões da política externa e de segurança que se revistam de interesse geral, de modo a garantir que a influência da União se exerça da forma mais eficaz, através da convergência das suas acções.
 
-###### Artigo 17.º (ex-artigo J.7)
+Artigo 17.º (ex-artigo J.7)
 
 1 - A política externa e de segurança comum abrange todas as questões relativas à segurança da União, incluindo a definição gradual de uma política de defesa comum, nos termos do disposto no segundo parágrafo, que poderá conduzir a uma defesa comum, se o Conselho Europeu assim o decidir. Neste caso, o Conselho Europeu recomendará aos Estados membros que adoptem uma decisão nesse sentido, nos termos das respectivas normas constitucionais.
 
@@ -3220,7 +3234,7 @@ As decisões com repercussões no domínio da defesa a que se refere o presente 
 
 5 - A fim de promover a realização dos objectivos definidos no presente artigo, as respectivas disposições serão revistas nos termos do artigo 48.º
 
-###### Artigo 18.º (ex-artigo J.8)
+Artigo 18.º (ex-artigo J.8)
 
 1 - A Presidência representará a União nas matérias do âmbito da política externa e de segurança comum.
 
@@ -3232,7 +3246,7 @@ As decisões com repercussões no domínio da defesa a que se refere o presente 
 
 5 - Sempre que o considere necessário, o Conselho pode nomear um representante especial, a quem será conferido um mandato relativo a questões políticas específicas.
 
-###### Artigo 19.º (ex-artigo J.9)
+Artigo 19.º (ex-artigo J.9)
 
 1 - Os Estados membros coordenarão a sua acção no âmbito das organizações internacionais e em conferências internacionais. Nessas instâncias defenderão as posições comuns.
 
@@ -3242,25 +3256,25 @@ Nas organizações internacionais e em conferências internacionais em que não 
 
 Os Estados membros que sejam igualmente membros do Conselho de Segurança das Nações Unidas concertar-se-ão e manterão os outros Estados membros plenamente informados. Os Estados membros que são membros permanentes do Conselho de Segurança das Nações Unidas defenderão, no exercício das suas funções, as posições e os interesses da União, sem prejuízo das responsabilidades que lhes incumbem por força da Carta das Nações Unidas.
 
-###### Artigo 20.º (ex-artigo J.10)
+Artigo 20.º (ex-artigo J.10)
 
 As missões diplomáticas e consulares dos Estados membros e as delegações da Comissão nos países terceiros e nas conferências internacionais, bem como as respectivas representações junto das organizações internacionais, concertar-se-ão no sentido de assegurar a observância e a execução das posições comuns e das acções comuns adoptadas pelo Conselho.
 
 As referidas missões, delegações e representações intensificarão a sua cooperação através do intercâmbio de informações, procedendo a avaliações comuns e contribuindo para a aplicação das disposições a que se refere o artigo 20.º do Tratado que institui a Comunidade Europeia.
 
-###### Artigo 21.º (ex-artigo J.11)
+Artigo 21.º (ex-artigo J.11)
 
 A Presidência consultará o Parlamento Europeu sobre os principais aspectos e as opções fundamentais da política externa e de segurança comum e zelará por que as opiniões daquela instituição sejam devidamente tomadas em consideração. O Parlamento Europeu será regularmente informado pela Presidência e pela Comissão sobre a evolução da política externa e de segurança da União.
 
 O Parlamento Europeu pode dirigir perguntas ou apresentar recomendações ao Conselho. Procede anualmente a um debate sobre os progressos realizados na execução da política externa e de segurança comum.
 
-###### Artigo 22.º (ex-artigo J.12)
+Artigo 22.º (ex-artigo J.12)
 
 1 - Qualquer Estado membro ou a Comissão podem submeter ao Conselho todas as questões do âmbito da política externa e de segurança comum e apresentar-lhe propostas.
 
 2 - Nos casos que exijam uma decisão rápida, a Presidência convocará, por iniciativa própria ou a pedido da Comissão ou de um Estado membro, uma reunião extraordinária do Conselho, no prazo de quarenta e oito horas ou, em caso de absoluta necessidade, num prazo mais curto.
 
-###### Artigo 23.º (ex-artigo J.13)
+Artigo 23.º (ex-artigo J.13)
 
 1 - As decisões ao abrigo do presente título serão adoptadas pelo Conselho, deliberando por unanimidade. As abstenções dos membros presentes ou representados não impedem a adopção dessas decisões.
 
@@ -3280,25 +3294,25 @@ O disposto no presente número não é aplicável às decisões que tenham impli
 
 3 - Em questões de natureza processual, o Conselho delibera por maioria dos seus membros.
 
-###### Artigo 24.º (ex-artigo J.14)
+Artigo 24.º (ex-artigo J.14)
 
 Sempre que seja necessário celebrar um acordo com um ou mais Estados ou organizações internacionais em aplicação do presente título, o Conselho, deliberando por unanimidade, pode autorizar a Presidência, eventualmente assistida pela Comissão, a encetar negociações para esse efeito. Esses acordos serão celebrados pelo Conselho, deliberando por unanimidade, sob recomendação da Presidência. Nenhum acordo vinculará um Estado membro cujo representante no Conselho declare que esse acordo deve obedecer às normas constitucionais do respectivo Estado; os restantes membros do Conselho podem decidir que o acordo lhes será provisoriamente aplicável.
 
 O disposto no presente artigo é igualmente aplicável às matérias abrangidas pelo título VI.
 
-###### Artigo 25.º (ex-artigo J.15)
+Artigo 25.º (ex-artigo J.15)
 
 Sem prejuízo do disposto no artigo 207.º do Tratado que institui a Comunidade Europeia, um Comité Político acompanhará a situação internacional nos domínios pertencentes ao âmbito da política externa e de segurança comum e contribuirá para a definição das políticas, emitindo pareceres destinados ao Conselho, a pedido deste ou por sua própria iniciativa. O Comité Político acompanhará igualmente a execução das políticas acordadas, sem prejuízo das competências da Presidência e da Comissão.
 
-###### Artigo 26.º (ex-artigo J.16)
+Artigo 26.º (ex-artigo J.16)
 
-**O Secretário-Geral do Conselho, alto representante para a política externa e de segurança comum, assistirá o Conselho nas questões do âmbito da política externa e de segurança comum, contribuindo nomeadamente para a formulação, elaboração e execução das decisões políticas e, quando necessário, actuando em nome do Conselho a pedido da Presidência, conduzindo o diálogo político com terceiros.**
+O Secretário-Geral do Conselho, alto representante para a política externa e de segurança comum, assistirá o Conselho nas questões do âmbito da política externa e de segurança comum, contribuindo nomeadamente para a formulação, elaboração e execução das decisões políticas e, quando necessário, actuando em nome do Conselho a pedido da Presidência, conduzindo o diálogo político com terceiros.
 
-###### Artigo 27.º (ex-artigo J.17)
+Artigo 27.º (ex-artigo J.17)
 
 A Comissão será plenamente associada aos trabalhos realizados no domínio da política externa e de segurança comum.
 
-###### Artigo 28.º (ex-artigo J.18)
+Artigo 28.º (ex-artigo J.18)
 
 1 - Os artigos 189.º, 190.º, 196.º a 199.º, 203.º, 204.º, 206.º a 209.º, 213.º a 219.º, 255.º e 290.º do Tratado que institui a Comunidade Europeia são aplicáveis às disposições relativas aos domínios previstos no presente título.
 
@@ -3312,7 +3326,7 @@ Nos casos em que as despesas não sejam imputadas ao orçamento das Comunidades 
 
 ## TÍTULO VI — Disposições relativas à cooperação policial e judiciária em matéria penal
 
-###### Artigo 29.º (ex-artigo K.1)
+Artigo 29.º (ex-artigo K.1)
 
 Sem prejuízo das competências da Comunidade Europeia, será objectivo da União facultar aos cidadãos um elevado nível de protecção num espaço de liberdade, segurança e justiça, mediante a instituição de acções em comum entre os Estados membros no domínio da cooperação policial e judiciária em matéria penal e a prevenção e combate do racismo e da xenofobia.
 
@@ -3324,7 +3338,7 @@ Este objectivo será atingido prevenindo e combatendo a criminalidade, organizad
 
 - uma aproximação, quando necessário, das disposições de direito penal dos Estados membros, nos termos do disposto na alínea e) do artigo 31.º
 
-###### Artigo 30.º (ex-artigo K.2)
+Artigo 30.º (ex-artigo K.2)
 
 1 - A acção em comum no domínio da cooperação policial abrange:
 
@@ -3346,7 +3360,7 @@ c) Promoverá o estabelecimento de contactos entre magistrados e investigadores 
 
 d) Criará uma rede de investigação, documentação e estatística sobre a criminalidade transfronteiriça.
 
-###### Artigo 31.º (ex-artigo K.3)
+Artigo 31.º (ex-artigo K.3)
 
 A acção em comum no domínio da cooperação judiciária em matéria penal terá por objectivo, nomeadamente:
 
@@ -3360,15 +3374,15 @@ d) Prevenir os conflitos de jurisdição entre Estados membros;
 
 e) Adoptar gradualmente medidas que prevejam regras mínimas quanto aos elementos constitutivos das infracções penais e às sanções aplicáveis nos domínios da criminalidade organizada, do terrorismo e do tráfico ilícito de droga.
 
-###### Artigo 32.º (ex-artigo K.4)
+Artigo 32.º (ex-artigo K.4)
 
 O Conselho definirá as condições e limites dentro dos quais as autoridades competentes a que se referem os artigos 30.º e 31.º podem intervir no território de outro Estado membro, em articulação e em acordo com as autoridades desse Estado.
 
-###### Artigo 33.º (ex-artigo K.5)
+Artigo 33.º (ex-artigo K.5)
 
 O presente título não prejudica o exercício das responsabilidades que incumbem aos Estados membros em matéria de manutenção da ordem pública e de garantia da segurança interna.
 
-###### Artigo 34.º (ex-artigo K.6)
+Artigo 34.º (ex-artigo K.6)
 
 1 - Nos domínios previstos no presente título, os Estados membros devem informar-se e consultar-se mutuamente no âmbito do Conselho, de modo a coordenarem a sua acção. Para o efeito, devem instituir uma colaboração entre os competentes serviços das respectivas administrações.
 
@@ -3388,7 +3402,7 @@ Após adopção por parte de, pelo menos, metade dos Estados membros, essas conv
 
 4 - Em questões de natureza processual, o Conselho delibera por maioria dos seus membros.
 
-###### Artigo 35.º (ex-artigo K.7)
+Artigo 35.º (ex-artigo K.7)
 
 1 - O Tribunal de Justiça das Comunidades Europeias é competente, sob reserva das condições constantes do presente artigo, para decidir a título prejudicial sobre a validade e a interpretação das decisões quadro e das decisões, sobre a interpretação das convenções estabelecidas ao abrigo do presente título e sobre a validade e a interpretação das respectivas medidas de aplicação.
 
@@ -3408,7 +3422,7 @@ b) Qualquer órgão jurisdicional desse Estado pode pedir ao Tribunal de Justiç
 
 7 - O Tribunal de Justiça é competente para decidir sobre qualquer litígio entre Estados membros decorrente da interpretação ou da execução dos actos adoptados em aplicação do n.º 2 do artigo 34.º, sempre que o diferendo não possa ser resolvido pelo Conselho no prazo de seis meses a contar da data em que lhe tenha sido submetido por um dos seus membros. O Tribunal de Justiça é igualmente competente para decidir sobre qualquer litígio entre os Estados membros e a Comissão decorrente da interpretação ou da aplicação das convenções elaboradas ao abrigo do n.º 2, alínea d), do artigo 34.º
 
-###### Artigo 36.º (ex-artigo K.8)
+Artigo 36.º (ex-artigo K.8)
 
 1 - É instituído um Comité de Coordenação constituído por altos funcionários. Além do seu papel de coordenação, o Comité tem por missão:
 
@@ -3418,17 +3432,17 @@ b) Qualquer órgão jurisdicional desse Estado pode pedir ao Tribunal de Justiç
 
 2 - A Comissão será plenamente associada aos trabalhos nos domínios previstos no presente título.
 
-###### Artigo 37.º (ex-artigo K.9)
+Artigo 37.º (ex-artigo K.9)
 
 Os Estados membros expressarão, nas organizações internacionais e nas conferências internacionais em que participem, as posições comuns adoptadas em aplicação das disposições do presente título.
 
 O disposto nos artigos 18.º e 19.º aplicar-se-á, quando adequado, às matérias abrangidas pelo presente título.
 
-###### Artigo 38.º (ex-artigo K.10)
+Artigo 38.º (ex-artigo K.10)
 
 Os acordos a que se refere o artigo 24.º podem abranger questões do âmbito do presente título.
 
-###### Artigo 39.º (ex-artigo K.11)
+Artigo 39.º (ex-artigo K.11)
 
 1 - Previamente à adopção de qualquer das medidas a que se refere o n.º 2, alíneas b), c) e d), do artigo 34.º, o Conselho consultará o Parlamento Europeu. Este emitirá parecer num prazo que pode ser fixado pelo Conselho e não pode ser inferior a três meses. Se o Parlamento Europeu não tiver emitido parecer nesse prazo, o Conselho pode deliberar.
 
@@ -3436,7 +3450,7 @@ Os acordos a que se refere o artigo 24.º podem abranger questões do âmbito do
 
 3 - O Parlamento Europeu pode dirigir perguntas ou apresentar recomendações ao Conselho. Procederá anualmente a um debate sobre progressos realizados nos domínios a que se refere o presente título.
 
-###### Artigo 40.º (ex-artigo K.12)
+Artigo 40.º (ex-artigo K.12)
 
 1 - Os Estados membros que se proponham instaurar entre si uma cooperação reforçada podem ser autorizados, respeitando o disposto nos artigos 43.º e 44.º, a recorrer às instituições, processos e mecanismos previstos nos Tratados, desde que a cooperação prevista:
 
@@ -3458,7 +3472,7 @@ As disposições do Tratado que institui a Comunidade Europeia relativas às com
 
 5 - O presente artigo não prejudica o disposto no Protocolo Que Integra o Acervo de Schengen no âmbito da União Europeia.
 
-###### Artigo 41.º (ex-artigo K.13)
+Artigo 41.º (ex-artigo K.13)
 
 1 - Os artigos 189.º, 190.º, 195.º, 196.º a 199.º, 203.º, 204.º, o n.º 3 do artigo 205.º e os artigos 206.º a 209.º, 213.º a 219.º, 255.º e 290.º do Tratado que institui a Comunidade Europeia são aplicáveis às disposições relativas aos domínios previstos no presente título.
 
@@ -3468,15 +3482,15 @@ As disposições do Tratado que institui a Comunidade Europeia relativas às com
 
 4 - O processo orçamental estabelecido no Tratado que institui a Comunidade Europeia é aplicável às despesas que fiquem a cargo do orçamento das Comunidades Europeias.
 
-###### Artigo 42.º (ex-artigo K.14)
+Artigo 42.º (ex-artigo K.14)
 
 O Conselho, deliberando por unanimidade, por iniciativa da Comissão ou de um Estado membro, e após consulta ao Parlamento Europeu, pode decidir tornar aplicável o título IV do Tratado que institui a Comunidade Europeia a acções nos domínios a que se refere o artigo 29.º, determinando simultaneamente correspondentes condições de votação. O Conselho recomendará a adopção dessa decisão pelos Estados membros, nos termos das respectivas normas constitucionais.
 
-## TÍTULO VII (ex-título VI-A)
+TÍTULO VII (ex-título VI-A)
 
 Disposições relativas à cooperação reforçada
 
-###### Artigo 43.º (ex-artigo K.15)
+Artigo 43.º (ex-artigo K.15)
 
 1 - Os Estados membros que se proponham instituir entre si uma cooperação reforçada podem recorrer às instituições, processos e mecanismos previstos no presente Tratado e no Tratado que institui a Comunidade Europeia, desde que a cooperação prevista:
 
@@ -3498,19 +3512,19 @@ h) Observe os critérios adicionais específicos constantes, respectivamente, do
 
 2 - Os Estados membros aplicarão, no que lhes diga respeito, os actos e decisões adoptados para execução da cooperação em que participem. Os Estados membros que não participem nessa cooperação não dificultarão a sua execução por parte dos Estados membros participantes.
 
-###### Artigo 44.º (ex-artigo K.16)
+Artigo 44.º (ex-artigo K.16)
 
 1 - Para efeitos da adopção dos actos e decisões necessários à execução da cooperação a que se refere o artigo 43.º, são aplicáveis as disposições institucionais pertinentes do presente Tratado e do Tratado que institui a Comunidade Europeia. No entanto, embora todos os membros do Conselho possam tomar parte nas deliberações, só aqueles que representam os Estados membros participantes podem intervir na adopção das decisões. A maioria qualificada é definida como sendo constituída pela mesma proporção dos votos ponderados dos membros do Conselho em causa fixada no n.º 2 do artigo 205.º do Tratado que institui a Comunidade Europeia. A unanimidade é constituída apenas pelos votos desses membros do Conselho.
 
 2 - As despesas decorrentes da execução da cooperação que não sejam custos administrativos em que incorram as instituições ficam a cargo dos Estados membros participantes, salvo decisão em contrário do Conselho, deliberando por unanimidade.
 
-###### Artigo 45.º (ex-artigo K.17)
+Artigo 45.º (ex-artigo K.17)
 
 O Conselho e a Comissão informarão regularmente o Parlamento Europeu da evolução da cooperação reforçada instaurada com base no presente título.
 
 ## TÍTULO VIII — Disposições finais
 
-###### Artigo 46.º (ex-artigo L)
+Artigo 46.º (ex-artigo L)
 
 As disposições do Tratado que institui a Comunidade Europeia, do Tratado que institui a Comunidade Europeia do Carvão e do Aço e do Tratado que institui a Comunidade Europeia da Energia Atómica relativas à competência do Tribunal de Justiça das Comunidades Europeias e ao exercício dessa competência apenas serão aplicáveis às seguintes disposições do presente Tratado:
 
@@ -3524,11 +3538,11 @@ d) N.º 2 do artigo 6.º no que respeita à acção das instituições, na medid
 
 e) Artigos 46.º a 53.º
 
-###### Artigo 47.º (ex-artigo M)
+Artigo 47.º (ex-artigo M)
 
 Sem prejuízo das disposições que alteram o Tratado que institui a Comunidade Económica Europeia tendo em vista a instituição da Comunidade Europeia, o Tratado que institui a Comunidade Europeia do Carvão e do Aço e o Tratado que institui a Comunidade Europeia da Energia Atómica, nenhuma disposição do presente Tratado afecta os Tratados que instituem as Comunidades Europeias nem os tratados e actos subsequentes que os alteraram ou completaram.
 
-###### Artigo 48.º (ex-artigo N)
+Artigo 48.º (ex-artigo N)
 
 O governo de qualquer Estado membro ou a Comissão podem submeter ao Conselho projectos de revisão dos tratados em que se funda a União.
 
@@ -3536,29 +3550,29 @@ Se o Conselho, após consulta do Parlamento Europeu e, quando for adequado, da C
 
 As alterações entrarão em vigor após ratificação por todos os Estados membros, de acordo com as respectivas normas constitucionais.
 
-###### Artigo 49.º (ex-artigo O)
+Artigo 49.º (ex-artigo O)
 
 Qualquer Estado europeu que respeite os princípios enunciados no n.º 1 do artigo 6.º pode pedir para se tornar membro da União. Dirigirá o respectivo pedido ao Conselho, que se pronunciará por unanimidade, após ter consultado a Comissão e após parecer favorável do Parlamento Europeu, que se pronunciará por maioria absoluta dos membros que o compõem.
 
 As condições de admissão e as adaptações dos tratados em que se funda a União, decorrentes dessa admissão, serão objecto de acordo entre os Estados membros e o Estado peticionário. Esse acordo será submetido à ratificação de todos os Estados Contratantes, de acordo com as respectivas normas constitucionais.
 
-###### Artigo 50.º (ex-artigo P)
+Artigo 50.º (ex-artigo P)
 
 1 - São revogados os artigos 2.º a 7.º e 10.º a 19.º do Tratado que institui um Conselho único e uma Comissão única das Comunidades Europeias, assinado em Bruxelas em 8 de Abril de 1965.
 
 2 - São revogados o artigo 2.º, o n.º 2 do artigo 3.º e o título III do Acto Único Europeu, assinado no Luxemburgo em 17 de Fevereiro de 1986 e na Haia em 28 de Fevereiro de 1986.
 
-###### Artigo 51.º (ex-artigo Q)
+Artigo 51.º (ex-artigo Q)
 
 O presente Tratado tem vigência ilimitada.
 
-###### Artigo 52.º (ex-artigo R)
+Artigo 52.º (ex-artigo R)
 
 1 - O presente Tratado será ratificado pelas Altas Partes Contratantes, de acordo com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
 
 2 - O presente Tratado entrará em vigor no dia 1 de Janeiro de 1993, se tiverem sido depositados todos os instrumentos de ratificação ou, na falta desse depósito, no 1.º dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que proceder a esta formalidade em último lugar.
 
-###### Artigo 53.º (ex-artigo S)
+Artigo 53.º (ex-artigo S)
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
 
@@ -3624,125 +3638,125 @@ I - Texto do Tratado
 
 Preâmbulo.
 
-# Parte I - Os princípios.
+Parte I - Os princípios.
 
-# Parte II - A cidadania da União.
+Parte II - A cidadania da União.
 
-# Parte III - As políticas da Comunidade.
+Parte III - As políticas da Comunidade.
 
-## Título I - A livre circulação de mercadorias.
+Título I - A livre circulação de mercadorias.
 
-### Capítulo 1 - A união aduaneira.
+Capítulo 1 - A união aduaneira.
 
-### Capítulo 2 - A proibição das restrições quantitativas entre os Estados membros.
+Capítulo 2 - A proibição das restrições quantitativas entre os Estados membros.
 
-## Título II - A agricultura.
+Título II - A agricultura.
 
-## Título III - A livre circulação de pessoas, de serviços e de capitais.
+Título III - A livre circulação de pessoas, de serviços e de capitais.
 
-### Capítulo 1 - Os trabalhadores.
+Capítulo 1 - Os trabalhadores.
 
-### Capítulo 2 - O direito de estabelecimento.
+Capítulo 2 - O direito de estabelecimento.
 
-### Capítulo 3 - Os serviços.
+Capítulo 3 - Os serviços.
 
-### Capítulo 4 - Os capitais e os pagamentos.
+Capítulo 4 - Os capitais e os pagamentos.
 
-## Título IV - Vistos, asilo, imigração e outras políticas relativas à livre circulação de pessoas.
+Título IV - Vistos, asilo, imigração e outras políticas relativas à livre circulação de pessoas.
 
-## Título V - Os transportes.
+Título V - Os transportes.
 
-## Título VI - As regras comuns relativas à concorrência, à fiscalidade e à aproximação das legislações.
+Título VI - As regras comuns relativas à concorrência, à fiscalidade e à aproximação das legislações.
 
-### Capítulo 1 - As regras de concorrência.
+Capítulo 1 - As regras de concorrência.
 
-#### Secção 1 - As regras aplicáveis às empresas.
+Secção 1 - As regras aplicáveis às empresas.
 
-#### Secção 2 - Os auxílios concedidos pelos Estados.
+Secção 2 - Os auxílios concedidos pelos Estados.
 
-### Capítulo 2 - Disposições fiscais.
+Capítulo 2 - Disposições fiscais.
 
-### Capítulo 3 - A aproximação da legislação.
+Capítulo 3 - A aproximação da legislação.
 
-## Título VII - A política económica e monetária.
+Título VII - A política económica e monetária.
 
-### Capítulo 1 - A política económica.
+Capítulo 1 - A política económica.
 
-### Capítulo 2 - A política monetária.
+Capítulo 2 - A política monetária.
 
-### Capítulo 3 - Disposições institucionais.
+Capítulo 3 - Disposições institucionais.
 
-### Capítulo 4 - Disposições transitórias.
+Capítulo 4 - Disposições transitórias.
 
 ## Título VIII - Emprego.
 
-## Título IX - A política comercial comum.
+Título IX - A política comercial comum.
 
-## Título X - A cooperação aduaneira.
+Título X - A cooperação aduaneira.
 
-## Título XI - A política social, a educação, a formação profissional e a juventude.
+Título XI - A política social, a educação, a formação profissional e a juventude.
 
-### Capítulo 1 - Disposições sociais.
+Capítulo 1 - Disposições sociais.
 
-### Capítulo 2 - O Fundo Social Europeu.
+Capítulo 2 - O Fundo Social Europeu.
 
-### Capítulo 3 - A educação, a formação profissional e a juventude.
+Capítulo 3 - A educação, a formação profissional e a juventude.
 
-## Título XII - A cultura.
+Título XII - A cultura.
 
-## Título XIII - A saúde pública.
+Título XIII - A saúde pública.
 
-## Título XIV - A defesa dos consumidores.
+Título XIV - A defesa dos consumidores.
 
-## Título XV - As redes transeuropeias.
+Título XV - As redes transeuropeias.
 
 Títulos XVI - A indústria.
 
-## Título XVII - A coesão económica e social.
+Título XVII - A coesão económica e social.
 
-## Título XVIII - A investigação e o desenvolvimento tecnológico.
+Título XVIII - A investigação e o desenvolvimento tecnológico.
 
-## Título XIX - O ambiente.
+Título XIX - O ambiente.
 
-## Título XX - A cooperação para o desenvolvimento.
+Título XX - A cooperação para o desenvolvimento.
 
-# Parte IV - A associação dos países e territórios ultramarinos.
+Parte IV - A associação dos países e territórios ultramarinos.
 
-# Parte V - As instituições da Comunidade.
+Parte V - As instituições da Comunidade.
 
-## Título I - Disposições institucionais.
+Título I - Disposições institucionais.
 
-### Capítulo 1 - As instituições.
+Capítulo 1 - As instituições.
 
-#### Secção 1 - O Parlamento Europeu.
+Secção 1 - O Parlamento Europeu.
 
 #### Secção 2 - O Conselho.
 
-#### Secção 3 - A Comissão.
+Secção 3 - A Comissão.
 
-#### Secção 4 - O Tribunal de Justiça.
+Secção 4 - O Tribunal de Justiça.
 
-#### Secção 5 - O Tribunal de Contas.
+Secção 5 - O Tribunal de Contas.
 
-### Capítulo 2 - Disposições comuns a várias instituições.
+Capítulo 2 - Disposições comuns a várias instituições.
 
-### Capítulo 3 - O Comité Económico e Social.
+Capítulo 3 - O Comité Económico e Social.
 
-### Capítulo 4 - O Comité das Regiões.
+Capítulo 4 - O Comité das Regiões.
 
-### Capítulo 5 - Banco Europeu de Investimento.
+Capítulo 5 - Banco Europeu de Investimento.
 
-## Título II - Disposições financeiras.
+Título II - Disposições financeiras.
 
-# Parte VI - Disposições gerais e finais.
+Parte VI - Disposições gerais e finais.
 
 Disposições finais.
 
 Anexos:
 
-## Anexo I - Lista prevista no artigo 32.º do Tratado.
+Anexo I - Lista prevista no artigo 32.º do Tratado.
 
-## Anexo II - Países e territórios ultramarinos aos quais se aplicam as disposições da parte IV do Tratado.
+Anexo II - Países e territórios ultramarinos aos quais se aplicam as disposições da parte IV do Tratado.
 
 II - Protocolos (texto não reproduzido)
 
@@ -3852,19 +3866,19 @@ Sr. Paul Henri Spaak, Ministro dos Negócios Estrangeiros;
 
 Barão J. Ch. Snoy et d'Oppuers, Secretário-Geral do Ministério dos Assuntos Económicos, chefe da delegação belga junto da Conferência Intergovernamental;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Sr. Doutor Konrad Adenauer, Chanceler Federal;
 
 Sr. Professor Doutor Walter Hallstein, Secretário de Estado dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Sr. Christian Pineau, Ministro dos Negócios Estrangeiros;
 
 Sr. Maurice Faure, Secretário de Estado dos Negócios Estrangeiros;
 
-**O Presidente de República Italiana:**
+O Presidente de República Italiana:
 
 Sr. Antonio Segni, Presidente do Conselho de Ministros;
 
@@ -3884,17 +3898,17 @@ Sr. J. Linthorst Homan, chefe da delegação neerlandesa junto da Conferência I
 
 os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e devida forma, acordaram no seguinte:
 
-# PARTE I — Os princípios
+## PARTE I — Os princípios
 
-###### Artigo 1.º (ex-artigo 1.º)
+Artigo 1.º (ex-artigo 1.º)
 
 Pelo presente Tratado, as Altas Partes Contratantes instituem entre si uma Comunidade Europeia.
 
-###### Artigo 2.º (ex-artigo 2.º)
+Artigo 2.º (ex-artigo 2.º)
 
 A Comunidade tem como missão, através da criação de um mercado comum e de uma união económica e monetária e da aplicação das políticas ou acções comuns a que se referem os artigos 3.º e 4.º, promover, em toda a Comunidade, o desenvolvimento harmonioso, equilibrado e sustentável das actividades económicas, um elevado nível de emprego e de protecção social, a igualdade entre homens e mulheres, um crescimento sustentável e não inflacionista, um alto grau de competitividade e de convergência dos comportamentos das economias, um elevado nível de protecção e de melhoria da qualidade do ambiente, o aumento do nível e da qualidade de vida, a coesão económica e social e a solidariedade entre os Estados membros.
 
-###### Artigo 3.º (ex-artigo 3.º)
+Artigo 3.º (ex-artigo 3.º)
 
 1 - Para alcançar os fins enunciados no artigo 2.º, a acção da Comunidade implica, nos termos do disposto e segundo o calendário previsto no presente Tratado:
 
@@ -3942,7 +3956,7 @@ u) Medidas nos domínios da energia, da protecção civil e do turismo.
 
 2 - Na realização de todas as acções previstas no presente artigo, a Comunidade terá por objectivo eliminar as desigualdades e promover a igualdade entre homens e mulheres.
 
-###### Artigo 4.º (ex-artigo 3.º-A)
+Artigo 4.º (ex-artigo 3.º-A)
 
 1 - Para alcançar os fins enunciados no artigo 2.º, a acção dos Estados membros e da Comunidade implica, nos termos do disposto e segundo o calendário previsto no presente Tratado, a adopção de uma política económica baseada na estreita coordenação das políticas económicas dos Estados membros, no mercado interno e na definição de objectivos comuns, e conduzida de acordo com o princípio de uma economia de mercado aberto e de livre concorrência.
 
@@ -3950,7 +3964,7 @@ u) Medidas nos domínios da energia, da protecção civil e do turismo.
 
 3 - Essa acção dos Estados membros e da Comunidade implica a observância dos seguintes princípios orientadores: preços estáveis, finanças públicas e condições monetárias sólidas e balança de pagamentos sustentável.
 
-###### Artigo 5.º (ex-artigo 3.º-B)
+Artigo 5.º (ex-artigo 3.º-B)
 
 A Comunidade actuará nos limites das atribuições que lhe são conferidas e dos objectivos que lhe são cometidos pelo presente Tratado.
 
@@ -3958,11 +3972,11 @@ Nos domínios que não sejam das suas atribuições exclusivas, a Comunidade int
 
 A acção da Comunidade não deve exceder o necessário para atingir os objectivos do presente Tratado.
 
-###### Artigo 6.º (ex-artigo 3.º-C)
+Artigo 6.º (ex-artigo 3.º-C)
 
 As exigências em matéria de protecção do ambiente devem ser integradas na definição e execução das políticas e acções da Comunidade previstas no artigo 3.º, em especial com o objectivo de promover um desenvolvimento sustentável.
 
-###### Artigo 7.º (ex-artigo 4.º)
+Artigo 7.º (ex-artigo 4.º)
 
 1 - A realização das tarefas confiadas à Comunidade é assegurada por:
 
@@ -3980,21 +3994,21 @@ Cada instituição actua nos limites das atribuições e competências que lhe s
 
 2 - O Conselho e a Comissão são assistidos por um Comité Económico e Social e por um Comité das Regiões, com funções consultivas.
 
-###### Artigo 8.º (ex-artigo 4.º-A)
+Artigo 8.º (ex-artigo 4.º-A)
 
 São instituídos, de acordo com os procedimentos previstos no presente Tratado, um Sistema Europeu de Bancos Centrais, adiante designado por SEBC, e um Banco Central Europeu, adiante designado por BCE, os quais actuarão nos limites das atribuições que lhes são conferidas pelo presente Tratado e pelos Estatutos do SEBC e do BCE, adiante designados por Estatutos do SEBC, que lhe vêm anexos.
 
-###### Artigo 9.º (ex-artigo 4.º-B)
+Artigo 9.º (ex-artigo 4.º-B)
 
 É instituído um Banco Europeu de Investimento, que actuará nos limites das atribuições que lhe são conferidas pelo presente Tratado e pelos Estatutos que lhe vêm anexos.
 
-###### Artigo 10.º (ex-artigo 5.º)
+Artigo 10.º (ex-artigo 5.º)
 
 Os Estados membros tomarão todas as medidas gerais ou especiais capazes de assegurar o cumprimento das obrigações decorrentes do presente Tratado ou resultantes de actos das instituições da Comunidade. Os Estados membros facilitarão à Comunidade o cumprimento da sua missão.
 
 Os Estados membros abster-se-ão de tomar quaisquer medidas susceptíveis de pôr em perigo a realização dos objectivos do presente Tratado.
 
-###### Artigo 11.º (ex-artigo 5.º-A)
+Artigo 11.º (ex-artigo 5.º-A)
 
 1 - Os Estados membros que se proponham instituir entre si uma cooperação reforçada podem ser autorizados, sob reserva do disposto nos artigos 43.º e 44.º do Tratado da União Europeia, a recorrer às instituições, processos e mecanismos previstos no presente Tratado, desde que a a cooperação prevista:
 
@@ -4020,17 +4034,17 @@ Os Estados membros que se proponham instituir a cooperação reforçada a que se
 
 5 - O presente artigo não prejudica o disposto no Protocolo Que Integra o Acervo de Schengen no âmbito da União Europeia.
 
-###### Artigo 12.º (ex-artigo 6.º)
+Artigo 12.º (ex-artigo 6.º)
 
 No âmbito de aplicação do presente Tratado, e sem prejuízo das suas disposições especiais, é proibida toda e qualquer discriminação em razão da nacionalidade.
 
 O Conselho, deliberando nos termos do artigo 251.º, pode adoptar normas destinadas a proibir essa discriminação.
 
-###### Artigo 13.º (ex-artigo 6.º-A)
+Artigo 13.º (ex-artigo 6.º-A)
 
 Sem prejuízo das demais disposições do presente Tratado e dentro dos limites das competências que este confere à Comunidade, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, pode tomar as medidas necessárias para combater a discriminação em razão do sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual.
 
-###### Artigo 14.º (ex-artigo 7.º-A)
+Artigo 14.º (ex-artigo 7.º-A)
 
 1 - A Comunidade adoptará as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992, nos termos do disposto no presente artigo, nos artigos 15.º e 26.º, no n.º 2 do artigo 47.º e nos artigos 49.º, 80.º, 93.º e 95.º e sem prejuízo das demais disposições do presente Tratado.
 
@@ -4038,41 +4052,41 @@ Sem prejuízo das demais disposições do presente Tratado e dentro dos limites 
 
 3 - O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, definirá as orientações e condições necessárias para assegurar um progresso equilibrado no conjunto dos sectores abrangidos.
 
-###### Artigo 15.º (ex-artigo 7.º-C)
+Artigo 15.º (ex-artigo 7.º-C)
 
 Aquando da formulação das suas propostas destinadas a realizar os objectivos enunciados no artigo 14.º, a Comissão terá em conta a amplitude do esforço que certas economias que apresentam diferenças de desenvolvimento devem suportar durante o período de estabelecimento do mercado interno e pode propor as disposições adequadas.
 
 Se estas disposições tomarem a forma de derrogações, devem ter carácter temporário e implicar o mínimo possível de perturbações no funcionamento do mercado comum.
 
-###### Artigo 16.º (ex-artigo 7.º-D)
+Artigo 16.º (ex-artigo 7.º-D)
 
 Sem prejuízo do disposto nos artigos 73.º, 86.º e 87.º, atendendo à posição que os serviços de interesse económico geral ocupam no conjunto dos valores comuns da União e ao papel que desempenham na promoção da coesão social e territorial, a Comunidade e os seus Estados membros, dentro do limite das respectivas competências e no âmbito de aplicação do presente Tratado, zelarão por que esses serviços funcionem com base em princípios e em condições que lhes permitam cumprir as suas missões.
 
-# PARTE II — A cidadania da União
+## PARTE II — A cidadania da União
 
-###### Artigo 17.º (ex-artigo 8.º)
+Artigo 17.º (ex-artigo 8.º)
 
 1 - É instituída a cidadania da União. É cidadão da União qualquer pessoa que tenha a nacionalidade de um Estado membro. A cidadania da União é complementar da cidadania nacional e não a substitui.
 
 2 - Os cidadãos da União gozam dos direitos e estão sujeitos aos deveres previstos no presente Tratado.
 
-###### Artigo 18.º (ex-artigo 8.º-A)
+Artigo 18.º (ex-artigo 8.º-A)
 
 1 - Qualquer cidadão da União goza do direito de circular e permanecer livremente no território dos Estados membros, sem prejuízo das limitações e condições previstas no presente Tratado e nas disposições adoptadas em sua aplicação.
 
 2 - O Conselho pode adoptar disposições destinadas a facilitar o exercício dos direitos a que se refere o número anterior; salvo disposição em contrário do presente Tratado, o Conselho delibera nos termos do artigo 251.º O Conselho delibera por unanimidade em todo o processo previsto nesse artigo.
 
-###### Artigo 19.º (ex-artigo 8.º-B)
+Artigo 19.º (ex-artigo 8.º-B)
 
 1 - Qualquer cidadão da União residente num Estado membro que não seja o da sua nacionalidade goza do direito de eleger e de ser eleito nas eleições municipais do Estado membro de residência, nas mesmas condições que os nacionais desse Estado. Esse direito será excercido sem prejuízo das modalidades adoptadas pelo Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu; e essas regras podem prever disposições derrogatórias sempre que problemas específicos de um Estado membro o justifiquem.
 
 2 - Sem prejuízo do disposto no n.º 4 do artigo 190.º e das disposições adoptadas em sua aplicação, qualquer cidadão da União residente num Estado membro que não seja o da sua nacionalidade goza do direito de eleger e de ser eleito nas eleições para o Parlamento Europeu do Estado membro de residência nas mesmas condições que os nacionais desse Estado. Esse direito será exercido sem prejuízo das modalidades adoptadas pelo Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu; essas regras podem prever disposições derrogatórias sempre que problemas específicos de um Estado membro o justifiquem.
 
-###### Artigo 20.º (ex-artigo 8.º-C)
+Artigo 20.º (ex-artigo 8.º-C)
 
 Qualquer cidadão da União beneficia, no território de países terceiros em que o Estado membro de que é nacional não se encontre representado, de protecção por parte das autoridades diplomáticas e consulares de qualquer Estado membro nas mesmas condições que os nacionais desse Estado. Os Estados membros estabelecem entre si as regras necessárias e encetam as negociações internacionais requeridas para garantir essa protecção.
 
-###### Artigo 21.º (ex-artigo 8.º-D)
+Artigo 21.º (ex-artigo 8.º-D)
 
 Qualquer cidadão da União goza do direito de petição ao Parlamento Europeu, nos termos do disposto no artigo 194.º
 
@@ -4080,37 +4094,37 @@ Qualquer cidadão da União pode dirigir-se ao Provedor de Justiça instituído 
 
 Qualquer cidadão da União pode dirigir-se por escrito a qualquer das instituições ou órgãos a que se refere o presente artigo ou o artigo 7.º numa das línguas previstas no artigo 314.º e obter uma resposta redigida na mesma língua.
 
-###### Artigo 22.º (ex-artigo 8.º-E)
+Artigo 22.º (ex-artigo 8.º-E)
 
 A Comissão apresentará ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social, de três em três anos, um relatório sobre a aplicação das disposições da presente parte. Esse relatório terá em conta o desenvolvimento da União.
 
 Com base nesses relatórios, e sem prejuízo das demais disposições do presente Tratado, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, pode aprovar disposições destinadas a aprofundar os direitos previstos na presente parte, cuja adopção recomendará aos Estados membros, nos termos das respectivas normas constitucionais.
 
-# PARTE III — As políticas da Comunidade
+## PARTE III — As políticas da Comunidade
 
 ## TÍTULO I — A livre circulação de mercadorias
 
-###### Artigo 23.º (ex-artigo 9.º)
+Artigo 23.º (ex-artigo 9.º)
 
 1 - A Comunidade assenta numa união aduaneira que abrange a totalidade do comércio de mercadorias e implica a proibição, entre os Estados membros, de direitos aduaneiros de importação e de exportação e de quaisquer encargos de efeito equivalente, bem como a adopção de uma Pauta Aduaneira Comum nas suas relações com países terceiros.
 
 2 - O disposto no artigo 25.º e no capítulo 2 do presente título é aplicável tanto aos produtos originários dos Estados membros como aos produtos provenientes de países terceiros que se encontrem em livre prática nos Estados membros.
 
-###### Artigo 24.º (ex-artigo 10.º)
+Artigo 24.º (ex-artigo 10.º)
 
 Consideram-se em livre prática num Estado membro os produtos provenientes de países terceiros em relação aos quais se tenham cumprido as formalidades de importação e cobrado os direitos aduaneiros ou encargos de efeito equivalente exigíveis nesse Estado membro e que não tenham beneficiado de draubaque total ou parcial desses direitos ou encargos.
 
 ### CAPÍTULO 1 — A união aduaneira
 
-###### Artigo 25.º (ex-artigo 12.º)
+Artigo 25.º (ex-artigo 12.º)
 
 São proibidos entre os Estados membros os direitos aduaneiros de importação e de exportação ou os encargos de efeito equivalente. Esta proibição é igualmente aplicável aos direitos aduaneiros de natureza fiscal.
 
-###### Artigo 26.º (ex-artigo 28.º)
+Artigo 26.º (ex-artigo 28.º)
 
 Os direitos da Pauta Aduaneira Comum são fixados pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.
 
-###### Artigo 27.º (ex-artigo 29.º)
+Artigo 27.º (ex-artigo 29.º)
 
 No exercício das funções que lhe são confiadas no presente capítulo, a Comissão orientar-se-á:
 
@@ -4124,19 +4138,19 @@ d) Pela necessidade de evitar perturbações graves na vida económica dos Estad
 
 ### CAPÍTULO 2 — A proibição das restrições quantitativas entre os Estados membros
 
-###### Artigo 28.º (ex-artigo 30.º)
+Artigo 28.º (ex-artigo 30.º)
 
 São proibidas, entre os Estados membros, as restrições quantitativas à importação, bem como todas as medidas de efeito equivalente.
 
-###### Artigo 29.º (ex-artigo 34.º)
+Artigo 29.º (ex-artigo 34.º)
 
 São proibidas, entre os Estados membros, as restrições quantitativas à exportação, bem como todas as medidas de efeito equivalente.
 
-###### Artigo 30.º (ex-artigo 36.º)
+Artigo 30.º (ex-artigo 36.º)
 
 As disposições dos artigos 28.º e 29.º são aplicáveis sem prejuízo das proibições ou restrições à importação, exportação ou trânsito justificadas por razões de moralidade pública, ordem pública e segurança pública, de protecção da saúde e da vida das pessoas e animais ou de preservação das plantas, de protecção do património nacional de valor artístico, histórico ou arqueológico, ou de protecção da propriedade industrial e comercial. Todavia, tais proibições ou restrições não devem constituir nem um meio de discriminação arbitrária nem qualquer restrição dissimulada ao comércio entre os Estados membros.
 
-###### Artigo 31.º (ex-artigo 37.º)
+Artigo 31.º (ex-artigo 37.º)
 
 1 - Os Estados membros adaptarão os monopólios nacionais de natureza comercial, de modo que esteja assegurada a exclusão de toda e qualquer discriminação entre nacionais dos Estados membros, quanto às condições de abastecimento e de comercialização.
 
@@ -4148,7 +4162,7 @@ O disposto no presente artigo é aplicável a qualquer organismo através do qua
 
 ## TÍTULO II — A agricultura
 
-###### Artigo 32.º (ex-artigo 38.º)
+Artigo 32.º (ex-artigo 38.º)
 
 1 - O mercado comum abrange a agricultura e o comércio de produtos agrícolas. Por «produtos agrícolas» entendem-se os produtos do solo, da pecuária e da pesca, bem como os produtos do primeiro estádio de transformação que estejam em relação directa com estes produtos.
 
@@ -4158,7 +4172,7 @@ O disposto no presente artigo é aplicável a qualquer organismo através do qua
 
 4 - O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum.
 
-###### Artigo 33.º (ex-artigo 39.º)
+Artigo 33.º (ex-artigo 39.º)
 
 1 - A política agrícola comum tem como objectivos:
 
@@ -4180,7 +4194,7 @@ b) A necessidade de efectuar gradualmente as adaptações adequadas;
 
 c) O facto de a agricultura constituir, nos Estados membros, um sector intimamente ligado ao conjunto da economia.
 
-###### Artigo 34.º (ex-artigo 40.º)
+Artigo 34.º (ex-artigo 40.º)
 
 1 - A fim de atingir os objectivos definidos no artigo 33.º, é criada uma organização comum dos mercados agrícolas.
 
@@ -4200,7 +4214,7 @@ Uma eventual política comum de preços deve assentar em critérios comuns e em 
 
 3 - A fim de permitir que a organização comum referida no n.º 1 atinja os seus objectivos, podem ser criados um ou mais fundos agrícolas de orientação e garantia.
 
-###### Artigo 35.º (ex-artigo 41.º)
+Artigo 35.º (ex-artigo 41.º)
 
 Tendo em vista alcançar os objectivos definidos no artigo 33.º, pode prever-se, no âmbito da política agrícola comum, nomeadamente:
 
@@ -4208,7 +4222,7 @@ a) Uma coordenação eficaz dos esforços empreendidos nos domínios da formaç�
 
 b) As acções comuns destinadas a promover o consumo de certos produtos.
 
-###### Artigo 36.º (ex-artigo 42.º)
+Artigo 36.º (ex-artigo 42.º)
 
 As disposições do capítulo relativo às regras de concorrência só são aplicáveis à produção e ao comércio dos produtos agrícolas, na medida em que tal seja determinado pelo Conselho, no âmbito do disposto nos n.os 2 e 3 do artigo 37.º e em conformidade com o processo aí previsto, tendo em conta os objectivos definidos no artigo 33.º
 
@@ -4218,7 +4232,7 @@ a) Para a protecção de explorações em situação desfavorável devido a cond
 
 b) No âmbito de programas de desenvolvimento económico.
 
-###### Artigo 37.º (ex-artigo 43.º)
+Artigo 37.º (ex-artigo 43.º)
 
 1 - A fim de traçar as linhas directrizes de uma política agrícola comum, a Comissão convocará, logo após a entrada em vigor do presente Tratado, uma conferência dos Estados membros para proceder à comparação das suas políticas agrícolas, efectuando, nomeadamente, o balanço dos seus recursos e necessidades.
 
@@ -4236,7 +4250,7 @@ b) Se essa organização assegurar às trocas comerciais na Comunidade condiçõ
 
 4 - Se for criada uma organização comum para certas matérias-primas sem que exista ainda uma organização comum para os correspondentes produtos transformados, essas matérias-primas, quando utilizadas em produtos transformados destinados à exportação para países terceiros, podem ser importadas do exterior da Comunidade.
 
-###### Artigo 38.º (ex-artigo 46.º)
+Artigo 38.º (ex-artigo 46.º)
 
 Quando, em qualquer Estado membro, um produto for submetido a uma organização nacional de mercado ou a outra regulamentação interna de efeito equivalente que afecte a concorrência de produção similar noutro Estado membro, será aplicado pelos Estados membros um direito de compensação à entrada desse produto proveniente do Estado membro em que tal organização ou regulamentação exista, a menos que esse Estado aplique um direito de compensação à saída do referido produto.
 
@@ -4246,7 +4260,7 @@ A Comissão fixará o montante desses direitos, na medida em que tal for necess�
 
 ### CAPÍTULO 1 — Os trabalhadores
 
-###### Artigo 39.º (ex-artigo 48.º)
+Artigo 39.º (ex-artigo 48.º)
 
 1 - A livre circulação dos trabalhadores fica assegurada na Comunidade.
 
@@ -4264,7 +4278,7 @@ d) Permanecer no território de um Estado membro depois de nele ter exercido uma
 
 4 - O disposto no presente artigo não é aplicável aos empregos na administração pública.
 
-###### Artigo 40.º (ex-artigo 49.º)
+Artigo 40.º (ex-artigo 49.º)
 
 O Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º e após consulta do Comité Económico e Social, tomará, por meio de directivas ou de regulamentos, as medidas necessárias à realização da livre circulação dos trabalhadores, tal como se encontra definida no artigo anterior, designadamente:
 
@@ -4276,11 +4290,11 @@ c) Eliminando todos os prazos e outras restrições previstas quer na legislaç�
 
 d) Criando mecanismos adequados a pôr em contacto as ofertas e pedidos de emprego e a facilitar o seu equilíbrio em condições tais que excluam riscos graves para o nível de vida e de emprego nas diversas regiões e indústrias.
 
-###### Artigo 41.º (ex-artigo 50.º)
+Artigo 41.º (ex-artigo 50.º)
 
 Os Estados membros devem fomentar, no âmbito de um programa comum, o intercâmbio de jovens trabalhadores.
 
-###### Artigo 42.º (ex-artigo 51.º)
+Artigo 42.º (ex-artigo 51.º)
 
 O Conselho, deliberando nos termos do artigo 251.º, tomará, no domínio da segurança social, as medidas necessárias ao estabelecimento da livre circulação dos trabalhadores, instituindo, designadamente, um sistema que assegure aos trabalhadores migrantes e às pessoas que deles dependam:
 
@@ -4292,13 +4306,13 @@ O Conselho delibera por unanimidade em todo o processo previsto no artigo 251.º
 
 ### CAPÍTULO 2 — O direito de estabelecimento
 
-###### Artigo 43.º (ex-artigo 52.º)
+Artigo 43.º (ex-artigo 52.º)
 
 No âmbito das disposições seguintes, são proibidas as restrições à liberdade de estabelecimentos dos nacionais de um Estado membro. Esta proibição abrangerá igualmente as restrições à constituição de agências, sucursais ou filiais pelos nacionais de um Estado membro estabelecidos no território de outro Estado membro.
 
 A liberdade de estabelecimento compreende tanto o acesso às actividades não assalariadas e o seu exercício como a constituição e a gestão de empresas e designadamente de sociedades, na acepção do segundo parágrafo do artigo 48.º, nas condições definidas no país de estabelecimento para os seus próprios nacionais, sem prejuízo do disposto no capítulo relativo aos capitais.
 
-###### Artigo 44.º (ex-artigo 54.º)
+Artigo 44.º (ex-artigo 54.º)
 
 1 - Para realizar a liberdade de estabelecimento numa determinada actividade, o Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º, e após consulta do Comité Económico e Social, adoptará directivas.
 
@@ -4320,19 +4334,19 @@ g) Coordenando as garantias que, para protecção dos interesses dos sócios e d
 
 h) Certificando-se de que as condições de estabelecimento não sejam falseadas pelos auxílios concedidos pelos Estados membros.
 
-###### Artigo 45.º (ex-artigo 55.º)
+Artigo 45.º (ex-artigo 55.º)
 
 As disposições do presente capítulo não são aplicáveis às actividades que, num Estado membro, estejam ligadas, mesmo ocasionalmente, ao exercício da autoridade pública.
 
 O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode determinar que as disposições do presente capítulo não são aplicáveis a certas actividades.
 
-###### Artigo 46.º (ex-artigo 56.º)
+Artigo 46.º (ex-artigo 56.º)
 
 1 - As disposições do presente capítulo e as medidas tomadas em sua execução não prejudicam a aplicabilidade das disposições legislativas, regulamentares e administrativas que prevejam um regime especial para os estrangeiros e sejam justificadas por razões de ordem pública, segurança pública e saúde pública.
 
 2 - O Conselho, deliberando nos termos do artigo 251.º, adoptará directivas para a coordenação das citadas disposições.
 
-###### Artigo 47.º (ex-artigo 57.º)
+Artigo 47.º (ex-artigo 57.º)
 
 1 - A fim de facilitar o acesso às actividades não assalariadas e ao seu exercício, o Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º, adoptará directivas que visem o reconhecimento mútuo de diplomas, certificados e outros títulos.
 
@@ -4340,7 +4354,7 @@ O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode
 
 3 - No que diz respeito às profissões médicas, paramédicas e farmacêuticas, a eliminação progressiva das restrições dependerá da coordenação das respectivas condições de exercício nos diversos Estados membros.
 
-###### Artigo 48.º (ex-artigo 58.º)
+Artigo 48.º (ex-artigo 58.º)
 
 As sociedades constituídas em conformidade com a legislação de um Estado membro e que tenham a sua sede social, administração central ou estabelecimento principal na Comunidade são, para efeitos do disposto no presente capítulo, equiparadas às pessoas singulares, nacionais dos Estados membros.
 
@@ -4348,13 +4362,13 @@ Por «sociedades» entendem-se as sociedades de direito civil ou comercial, incl
 
 ### CAPÍTULO 3 — Os serviços
 
-###### Artigo 49.º (ex-artigo 59.º)
+Artigo 49.º (ex-artigo 59.º)
 
 No âmbito das disposições seguintes, as restrições à livre prestação de serviços na Comunidade serão proibidas em relação aos nacionais dos Estados membros estabelecidos num Estado da Comunidade que não seja o do destinatário da prestação.
 
 O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode determinar que as disposições do presente capítulo são extensivas aos prestadores de serviços nacionais de um Estado terceiro e estabelecidos na Comunidade.
 
-###### Artigo 50.º (ex-artigo 60.º)
+Artigo 50.º (ex-artigo 60.º)
 
 Para efeitos do disposto no presente Tratado, consideram-se «serviços» as prestações realizadas normalmente mediante remuneração, na medida em que não sejam reguladas pelas disposições relativas à livre circulação de mercadorias, de capitais e de pessoas.
 
@@ -4370,47 +4384,47 @@ d) Actividades das profissões liberais.
 
 Sem prejuízo do disposto no capítulo relativo ao direito de estabelecimento, o prestador de serviços pode, para a execução da prestação, exercer, a título temporário, a sua actividade no Estado onde a prestação é realizada, nas mesmas condições que esse Estado impõe aos seus próprios nacionais.
 
-###### Artigo 51.º (ex-artigo 61.º)
+Artigo 51.º (ex-artigo 61.º)
 
 1 - A livre prestação de serviços em matéria de transportes é regulada pelas disposições constantes do título relativo aos transportes.
 
 2 - A liberalização dos serviços bancários e de seguros ligados a movimentos de capitais deve efectuar-se de harmonia com a liberalização da circulação dos capitais.
 
-###### Artigo 52.º (ex-artigo 63.º)
+Artigo 52.º (ex-artigo 63.º)
 
 1 - Para realizar a liberalização de um determinado serviço, o Conselho, sob proposta da Comissão e após consulta do Comité Económico e Social e do Parlamento Europeu, adoptará directivas, por maioria qualificada.
 
 2 - As directivas a que se refere o n.º 1 contemplarão, em geral, prioritariamente os serviços que influem de modo directo nos custos de produção, ou cuja liberalização contribua para fomentar as trocas comerciais de mercadorias.
 
-###### Artigo 53.º (ex-artigo 64.º)
+Artigo 53.º (ex-artigo 64.º)
 
 Os Estados membros declaram-se dispostos a proceder à liberalização dos serviços para além do que é exigido por força das directivas adoptadas em execução do n.º 1 do artigo 52.º, caso a sua situação económica geral e a situação do sector em causa lho permitirem.
 
 Para o efeito, a Comissão dirigirá recomendações aos Estados membros em causa.
 
-###### Artigo 54.º (ex-artigo 65.º)
+Artigo 54.º (ex-artigo 65.º)
 
 Enquanto não forem suprimidas as restrições à livre prestação de serviços, cada Estado membro aplicá-las-á, sem qualquer distinção em razão da nacionalidade ou da residência, a todos os prestadores de serviços referidos no primeiro parágrafo do artigo 49.º
 
-###### Artigo 55.º (ex-artigo 66.º)
+Artigo 55.º (ex-artigo 66.º)
 
 As disposições dos artigos 45.º a 48.º, inclusive, são aplicáveis à matéria regulada no presente capítulo.
 
 ### CAPÍTULO 4 — Os capitais e os pagamentos
 
-###### Artigo 56.º (ex-artigo 83.º-B)
+Artigo 56.º (ex-artigo 83.º-B)
 
 1 - No âmbito das disposições do presente capítulo, são proibidas todas as restrições aos movimentos de capitais entre Estados membros e entre Estados membros e países terceiros.
 
 2 - No âmbito das disposições do presente capítulo, são proibidas todas as restrições aos pagamentos entre Estados membros e entre Estados membros e países terceiros.
 
-###### Artigo 57.º (ex-artigo 73.º-C)
+Artigo 57.º (ex-artigo 73.º-C)
 
 1 - O disposto no artigo 56.º não prejudica a aplicação a países terceiros de quaisquer restrições em vigor em 31 de Dezembro de 1993 ao abrigo de legislação nacional ou comunitária adoptada em relação à circulação de capitais provenientes ou com destino a países terceiros que envolva investimento directo, incluindo o investimento imobiliário, estabelecimento, prestação de serviços financeiros ou admissão de valores mobiliários em mercados de capitais.
 
 2 - Ao mesmo tempo que se esforça por alcançar, em toda a medida do possível, o objectivo da livre circulação de capitais entre Estados membros e países terceiros, e sem prejuízo dos restantes capítulos do presente Tratado, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar medidas relativas à circulação de capitais provenientes ou com destino a países terceiros que envolva investimento directo, incluindo o investimento imobiliário, estabelecimento, prestação de serviços financeiros ou admissão de valores mobiliários em mercados de capitais. É exigida unanimidade relativamente às medidas a adoptar ao abrigo do presente número que constituam um retrocesso da legislação comunitária em relação à liberalização dos movimentos de capitais provenientes ou com destino a países terceiros.
 
-###### Artigo 58.º (ex-artigo 73.º-D)
+Artigo 58.º (ex-artigo 73.º-D)
 
 1 - O disposto no artigo 56.º não prejudica o direito de os Estados membros:
 
@@ -4422,11 +4436,11 @@ b) Tomarem todas as medidas indispensáveis para impedir infracções às suas l
 
 3 - As medidas e procedimentos a que se referem os n.os 1 e 2 não devem constituir um meio de discriminação arbitrária, nem uma restrição dissimulada à livre circulação de capitais e pagamentos, tal como definida no artigo 56.º
 
-###### Artigo 59.º (ex-artigo 73.º-F)
+Artigo 59.º (ex-artigo 73.º-F)
 
 Sempre que, em circunstâncias excepcionais, os movimentos de capitais provenientes ou com destino a países terceiros causem ou ameacem causar graves dificuldades ao funcionamento da união económica e monetária, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta de BCE, pode tomar medidas de salvaguarda em relação a países terceiros, por um período não superior a seis meses, se essas medidas forem estritamente necessárias.
 
-###### Artigo 60.º (ex-artigo 73.º-G)
+Artigo 60.º (ex-artigo 73.º-G)
 
 1 - Se, no caso previsto no artigo 301.º, for considerada necessária uma acção da Comunidade, o Conselho, de acordo com o procedimento previsto no artigo 301.º, pode tomar, relativamente aos países terceiros em causa, as medidas urgentes necessárias em matéria de movimentos de capitais e de pagamentos.
 
@@ -4434,11 +4448,11 @@ Sempre que, em circunstâncias excepcionais, os movimentos de capitais provenien
 
 O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode decidir que o Estado membro em causa deve alterar ou revogar essas medidas. O Presidente do Conselho informará o Parlamento Europeu das decisões tomadas pelo Conselho.
 
-## TÍTULO IV (ex-título III-A)
+TÍTULO IV (ex-título III-A)
 
 Vistos, asilo, imigração e outras políticas relativas à livre circulação de pessoas
 
-###### Artigo 61.º (ex-artigo 73.º-I)
+Artigo 61.º (ex-artigo 73.º-I)
 
 A fim de criar progressivamente um espaço de liberdade, de segurança e de justiça, o Conselho adoptará:
 
@@ -4452,7 +4466,7 @@ d) Medidas destinadas a incentivar e reforçar a cooperação administrativa a q
 
 e) Medidas no domínio da cooperação policial e judiciária em matéria penal, destinadas a assegurar um elevado nível de segurança através da prevenção e combate da criminalidade na União, nos termos do Tratado da União Europeia.
 
-###### Artigo 62.º (ex-artigo 73.º-J)
+Artigo 62.º (ex-artigo 73.º-J)
 
 O Conselho, deliberando nos termos do artigo 67.º, adoptará, no prazo de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão:
 
@@ -4474,7 +4488,7 @@ iv) Regras em matéria de visto uniforme;
 
 3) Medidas que estabeleçam as condições da livre circulação de nacionais de países terceiros no território dos Estados membros durante um período não superior a três meses.
 
-###### Artigo 63.º (ex-artigo 73.º-K)
+Artigo 63.º (ex-artigo 73.º-K)
 
 O Conselho, deliberando nos termos do artigo 67.º, adoptará, no prazo de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão:
 
@@ -4506,13 +4520,13 @@ As medidas adoptadas pelo Conselho em aplicação dos n.os 3) e 4) não impedir�
 
 O prazo de cinco anos acima previsto não é aplicável às medidas a adoptar nos termos da alínea b) do n.º 2), da alínea a) do n.º 3) e do n.º 4).
 
-###### Artigo 64.º (ex-artigo 73.º-L)
+Artigo 64.º (ex-artigo 73.º-L)
 
 1 - O disposto no presente título não prejudica o exercício das responsabilidades que incumbem aos Estados membros em matéria de manutenção da ordem pública e de garantia da segurança interna.
 
 2 - No caso de um ou mais Estados membros serem confrontados com uma situação de emergência caracterizada por um súbito afluxo de nacionais de países terceiros, e sem prejuízo do disposto no n.º 1, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar medidas provisórias, de duração não superior a seis meses, a favor desses Estados membros.
 
-###### Artigo 65.º (ex-artigo 73.º-M)
+Artigo 65.º (ex-artigo 73.º-M)
 
 As medidas no domínio da cooperação judiciária em matéria civil que tenham uma incidência transfronteiriça, a adoptar nos termos do artigo 67.º e na medida do necessário ao bom funcionamento do mercado interno, terão por objectivo, nomeadamente:
 
@@ -4528,11 +4542,11 @@ b) Promover a compatibilidade das normas aplicáveis nos Estados membros em mat�
 
 c) Eliminar os obstáculos à boa tramitação das acções cíveis, promovendo, se necessário, a compatibilidade das normas de processo civil aplicáveis nos Estados membros.
 
-###### Artigo 66.º (ex-artigo 73.º-N)
+Artigo 66.º (ex-artigo 73.º-N)
 
 O Conselho, deliberando nos termos do artigo 67.º, adoptará medidas destinadas a assegurar uma cooperação entre os serviços competentes das administrações dos Estados membros nos domínios abrangidos pelo presente título bem como entre esses serviços e a Comissão.
 
-###### Artigo 67.º (ex-artigo 73.º-O)
+Artigo 67.º (ex-artigo 73.º-O)
 
 1 - Durante um período transitório de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão, o Conselho delibera por unanimidade, sob proposta da Comissão ou por iniciativa de um Estado membro e após consulta ao Parlamento Europeu.
 
@@ -4546,7 +4560,7 @@ O Conselho, deliberando nos termos do artigo 67.º, adoptará medidas destinadas
 
 4 - Findo um período de cinco anos a contar da data de entrada em vigor do Tratado de Amesterdão, as medidas previstas no n.º 2), subalíneas ii) e iv) da alínea b), do artigo 62.º serão adoptadas pelo Conselho nos termos do artigo 251.º
 
-###### Artigo 68.º (ex-artigo 73.º-P)
+Artigo 68.º (ex-artigo 73.º-P)
 
 1 - O artigo 234.º é aplicável ao presente título, nas circunstâncias e condições a seguir enunciadas: sempre que uma questão sobre a interpretação do presente título ou sobre a validade ou interpretação dos actos adoptados pelas instituições da Comunidade com base no presente título seja suscitada em processo pendente perante um órgão jurisdicional nacional cujas decisões não sejam susceptíveis de recurso judicial previsto no direito interno, esse órgão, se considerar que uma decisão sobre essa questão é necessária ao julgamento da causa, deve pedir ao Tribunal de Justiça que sobre ela se pronuncie.
 
@@ -4554,19 +4568,19 @@ O Conselho, deliberando nos termos do artigo 67.º, adoptará medidas destinadas
 
 3 - O Conselho, a Comissão ou um Estado membro podem solicitar ao Tribunal de Justiça que se pronuncie sobre uma questão de interpretação do presente título ou de actos adoptados pelas instituições da Comunidade com base nele. A decisão proferida pelo Tribunal de Justiça em resposta a esse pedido não é aplicável às decisões dos órgãos jurisdicionais dos Estados membros que constituam caso julgado.
 
-###### Artigo 69.º (ex-artigo 73.º-Q)
+Artigo 69.º (ex-artigo 73.º-Q)
 
 O presente título é aplicável sob reserva do disposto no Protocolo Relativo à Posição do Reino Unido e da Irlanda e no Protocolo Relativo à Posição da Dinamarca e sem prejuízo do Protocolo Relativo à Aplicação de Certos Aspectos do Artigo 14.º do Tratado Que Institui a Comunidade Europeia ao Reino Unido e à Irlanda.
 
-## TÍTULO V (ex-título IV)
+TÍTULO V (ex-título IV)
 
 Os transportes
 
-###### Artigo 70.º (ex-artigo 74.º)
+Artigo 70.º (ex-artigo 74.º)
 
 No que diz respeito à matéria regulada no presente título, os Estados membros prosseguirão os objectivos do Tratado no âmbito de uma política comum dos transportes.
 
-###### Artigo 71.º (ex-artigo 75.º)
+Artigo 71.º (ex-artigo 75.º)
 
 1 - Para efeitos de aplicação do artigo 70.º, e tendo em conta os aspectos específicos dos transportes, o Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social e ao Comité das Regiões, estabelece:
 
@@ -4580,19 +4594,19 @@ d) Quaisquer outras disposições adequadas.
 
 2 - Em derrogação do procedimento previsto no n.º 1, as disposições que incidam sobre os princípios do regime dos transportes e cuja aplicação seja susceptível de afectar gravemente o nível de vida e o emprego em certas regiões, bem como a exploração dos equipamentos de transporte, tendo em conta a necessidade de adaptação ao desenvolvimento económico que vier a resultar do estabelecimento do mercado comum, serão adoptadas pelo Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu e do Comité Económico e Social.
 
-###### Artigo 72.º (ex-artigo 76.º)
+Artigo 72.º (ex-artigo 76.º)
 
 Enquanto não forem adoptadas as disposições referidas no n.º 1 do artigo 71.º, e salvo acordo unânime do Conselho, nenhum dos Estados membros pode alterar as diversas disposições que regulem a matéria em 1 de Janeiro de 1958, ou quanto aos Estados que aderem à Comunidade, à data da respectiva adesão, de tal modo que elas, nos seus efeitos directos ou indirectos, se tornem, para os transportadores dos restantes Estados membros, menos favoráveis do que para os transportadores nacionais desse Estado.
 
-###### Artigo 73.º (ex-artigo 77.º)
+Artigo 73.º (ex-artigo 77.º)
 
 São compatíveis com o presente Tratado os auxílios que vão ao encontro das necessidades de coordenação dos transportes ou correspondam ao reembolso de certas prestações inerentes à noção de serviço público.
 
-###### Artigo 74.º (ex-artigo 78.º)
+Artigo 74.º (ex-artigo 78.º)
 
 Qualquer medida relativa aos preços e condições de transporte, tomada no âmbito do presente Tratado, deve ter em consideração a situação económica dos transportadores.
 
-###### Artigo 75.º (ex-artigo 79.º)
+Artigo 75.º (ex-artigo 79.º)
 
 1 - Devem ser suprimidas, no tráfego interno da Comunidade, as discriminações que consistam na aplicação, por parte de um transportador, e idênticas mercadorias e nas mesmas relações de tráfego, de preços e condições de transporte diferentes, em razão do país de origem ou de destino dos produtos transportados.
 
@@ -4604,7 +4618,7 @@ O Conselho pode, designadamente, tomar as medidas necessárias que permitam às 
 
 4 - A Comissão, por iniciativa própria ou a pedido de qualquer Estado membro, examinará os casos de discriminação previstos no n.º 1 e, após consulta de todos os Estados membros interessados, tomará as decisões necessárias, no âmbito da regulamentação adoptada nos termos do n.º 3.
 
-###### Artigo 76.º (ex-artigo 80.º)
+Artigo 76.º (ex-artigo 80.º)
 
 1 - Fica proibido a qualquer Estado membro, salvo autorização da Comissão, impor aos transportes efectuados na Comunidade preços e condições que impliquem qualquer elemento de apoio ou protecção em benefício de uma ou mais empresas ou indústrias determinadas.
 
@@ -4614,7 +4628,7 @@ Após consulta de todos os Estados membros interessados, a Comissão tomará as 
 
 3 - A proibição prevista no n.º 1 não é aplicável às tarifas de concorrência.
 
-###### Artigo 77.º (ex-artigo 81.º)
+Artigo 77.º (ex-artigo 81.º)
 
 Os encargos ou taxas que, para além dos preços de transporte, forem cobrados por um transportador na passagem das fronteiras não devem ultrapassar um nível razoável, tendo em conta os custos reais efectivamente ocasionados por essa passagem.
 
@@ -4622,15 +4636,15 @@ Os Estados membros esforçar-se-ão por reduzir progressivamente esses custos.
 
 A Comissão pode dirigir recomendações aos Estados membros, tendo em vista a aplicação do presente artigo.
 
-###### Artigo 78.º (ex-artigo 82.º)
+Artigo 78.º (ex-artigo 82.º)
 
 As disposições do presente título não prejudicam as medidas tomadas na República Federal da Alemanha, desde que sejam necessárias para compensar as desvantagens económicas que a divisão da Alemanha causa na economia de certas regiões da República Federal afectadas por essa divisão.
 
-###### Artigo 79.º (ex-artigo 83.º)
+Artigo 79.º (ex-artigo 83.º)
 
 Um comité consultivo, composto por peritos designados pelos governos dos Estados membros, será instituído junto da Comissão. A Comissão consultá-lo-á em matéria de transportes, sempre que o considere oportuno, sem prejuízo das atribuições do Comité Económico e Social.
 
-###### Artigo 80.º (ex-artigo 84.º)
+Artigo 80.º (ex-artigo 84.º)
 
 1 - As disposições do presente título são aplicáveis aos transportes por caminho de ferro, por estrada e por via navegável.
 
@@ -4638,7 +4652,7 @@ Um comité consultivo, composto por peritos designados pelos governos dos Estado
 
 São aplicáveis as disposições processuais do artigo 71.º
 
-## TÍTULO VI (ex-título V)
+TÍTULO VI (ex-título V)
 
 As regras comuns relativas à concorrência, à fiscalidade e à aproximação das legislações
 
@@ -4646,7 +4660,7 @@ As regras comuns relativas à concorrência, à fiscalidade e à aproximação d
 
 #### SECÇÃO 1 — As regras aplicáveis às empresas
 
-###### Artigo 81.º (ex-artigo 85.º)
+Artigo 81.º (ex-artigo 85.º)
 
 1 - São incompatíveis com o mercado comum e proibidos todos os acordos entre empresas, todas as decisões de associações de empresas e todas as práticas concertadas que sejam susceptíveis de afectar o comércio entre os Estados membros e que tenham por objectivo ou efeito impedir, restringir ou falsear a concorrência no mercado comum, designadamente as que consistam em:
 
@@ -4676,7 +4690,7 @@ a) Não imponham às empresas em causa quaisquer restrições que não sejam ind
 
 b) Nem dêem a essas empresas a possibilidade de eliminar a concorrência relativamente a uma parte substancial dos produtos em causa.
 
-###### Artigo 82.º (ex-artigo 86.º)
+Artigo 82.º (ex-artigo 86.º)
 
 É incompatível com o mercado comum e proibido, na medida em que tal seja susceptível de afectar o comércio entre os Estados membros, o facto de uma ou mais empresas explorarem de forma abusiva uma posição dominante no mercado comum ou numa parte substancial deste.
 
@@ -4690,7 +4704,7 @@ c) Aplicar, relativamente a parceiros comerciais, condições desiguais no caso 
 
 d) Subordinar a celebração de contratos à aceitação, por parte dos outros contraentes, de prestações suplementares que, pela sua natureza ou de acordo com os usos comerciais, não têm ligação com o objecto desses contratos.
 
-###### Artigo 83.º (ex-artigo 87.º)
+Artigo 83.º (ex-artigo 87.º)
 
 1 - Os regulamentos ou directivas necessários à aplicação dos princípios constantes dos artigos 81.º e 82.º serão estabelecidos pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, após consulta do Parlamento Europeu.
 
@@ -4706,17 +4720,17 @@ d) Definir as funções respectivas da Comissão e do Tribunal de Justiça quant
 
 e) Definir as relações entre as legislações nacionais e as disposições constantes da presente secção ou as adoptadas em execução do presente artigo.
 
-###### Artigo 84.º (ex-artigo 88.º)
+Artigo 84.º (ex-artigo 88.º)
 
 Até à data da entrada em vigor das disposições adoptadas em execução do artigo 83.º, as autoridades dos Estados membros decidirão sobre a admissibilidade dos acordos, decisões e práticas concertadas e sobre a exploração abusiva de uma posição dominante no mercado comum, em conformidade com o direito dos seus próprios países e com o disposto no artigo 81.º, designadamente no n.º 3, e no artigo 82.º
 
-###### Artigo 85.º (ex-artigo 89.º)
+Artigo 85.º (ex-artigo 89.º)
 
 1 - Sem prejuízo do disposto no artigo 84.º, a Comissão velará pela aplicação dos princípios enunciados nos artigos 81.º e 82.º A pedido de um Estado membro, ou oficiosamente, e em cooperação com as autoridades competentes dos Estados membros, que lhe prestarão assistência, a Comissão instruirá os casos de presumível infracção a estes princípios. Se a Comissão verificar que houve infracção, proporá os meios adequados para se lhe pôr termo.
 
 2 - Se a infracção não tiver cessado, a Comissão declarará verificada essa infracção aos princípios, em decisão devidamente fundamentada. A Comissão pode publicar a sua decisão e autorizar os Estados membros a tomarem as medidas, de que fixará as condições e modalidades, necessárias para sanar a situação.
 
-###### Artigo 86.º (ex-artigo 90.º)
+Artigo 86.º (ex-artigo 90.º)
 
 1 - No que respeita às empresas públicas e às empresas a que concedam direitos especiais ou exclusivos, os Estados membros não tomarão nem manterão qualquer medida contrária ao disposto no presente Tratado, designadamente ao disposto nos artigos 12.º e 81.º a 89.º, inclusive.
 
@@ -4726,7 +4740,7 @@ Até à data da entrada em vigor das disposições adoptadas em execução do ar
 
 #### SECÇÃO 2 — Os auxílios concedidos pelos Estados
 
-###### Artigo 87.º (ex-artigo 92.º)
+Artigo 87.º (ex-artigo 92.º)
 
 1 - Salvo disposição em contrário do presente Tratado, são incompatíveis com o mercado comum, na medida em que afectem as trocas comerciais entre os Estados membros, os auxílios concedidos pelos Estados ou provenientes de recursos estatais, independentemente da forma que assumam, que falseiem ou ameacem falsear a concorrência, favorecendo certas empresas ou certas produções.
 
@@ -4750,7 +4764,7 @@ d) Os auxílios destinados a promover a cultura e a conservação do património
 
 e) As outras categorias de auxílios determinadas por decisão do Conselho, deliberando por maioria qualificada, sob proposta da Comissão.
 
-###### Artigo 88.º (ex-artigo 93.º)
+Artigo 88.º (ex-artigo 93.º)
 
 1 - A Comissão procederá, em cooperação com os Estados membros, ao exame permanente dos regimes de auxílios existentes nesses Estados. A Comissão proporá também aos Estados membros as medidas adequadas que sejam exigidas pelo desenvolvimento progressivo ou pelo funcionamento do mercado comum.
 
@@ -4764,37 +4778,37 @@ Todavia, se o Conselho não se pronunciar no prazo de três meses a contar da da
 
 3 - Para que possa apresentar as suas observações, deve a Comissão ser informada atempadamente dos projectos relativos à instituição ou alteração de quaisquer auxílios. Se a Comissão considerar que determinado projecto de auxílio não é compatível com o mercado comum nos termos do artigo 87.º, deve sem demora dar início ao procedimento previsto no número anterior. O Estado membro em causa não pode pôr em execução as medidas projectadas antes de tal procedimento haver sido objecto de uma decisão final.
 
-###### Artigo 89.º (ex-artigo 94.º)
+Artigo 89.º (ex-artigo 94.º)
 
 O Conselho, deliberando por uma maioria qualificada, sob proposta da Comissão, e após consulta do Parlamento Europeu, pode adoptar todos os regulamentos adequados à execução dos artigos 87.º e 88.º e fixar, designadamente, as condições de aplicação do n.º 3 do artigo 88.º e as categorias de auxílios que ficam dispensadas desse procedimento.
 
 ### CAPÍTULO 2 — Disposições fiscais
 
-###### Artigo 90.º (ex-artigo 95.º)
+Artigo 90.º (ex-artigo 95.º)
 
 Nenhum Estado membro fará incidir, directa ou indirectamente, sobre os produtos dos outros Estados membros imposições internas, qualquer que seja a sua natureza, superiores às que incidam, directa ou indirectamente, sobre produtos nacionais similares.
 
 Além disso, nenhum Estado membro fará incidir sobre os produtos dos outros Estados membros imposições internas de modo a proteger indirectamente outras produções.
 
-###### Artigo 91.º (ex-artigo 96.º)
+Artigo 91.º (ex-artigo 96.º)
 
 Os produtos exportados para o território de um dos Estados membros não podem beneficiar de qualquer reembolso de imposições internas, superior às imposições que sobre eles tenham incidido, directa ou indirectamente.
 
-###### Artigo 92.º (ex-artigo 98.º)
+Artigo 92.º (ex-artigo 98.º)
 
 Relativamente às imposições que não sejam os impostos sobre o volume de negócios, sobre consumos específicos e outros impostos indirectos, só podem ser concedidas exonerações e reembolsos à exportação para outros Estados membros, ou lançados direitos de compensação às importações provenientes de Estados membros, desde que as medidas projectadas tenham sido previamente aprovadas pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão, para vigorarem por um período de tempo limitado.
 
-###### Artigo 93.º (ex-artigo 99.º)
+Artigo 93.º (ex-artigo 99.º)
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão, e após consulta do Parlamento Europeu e do Comité Económico e Social, adopta as disposições relacionadas com a harmonização das legislações relativas aos impostos sobre o volume de negócios, aos impostos especiais de consumo e a outros impostos indirectos, na medida em que essa harmonização seja necessária para assegurar o estabelecimento e o funcionamento do mercado interno no prazo previsto no artigo 14.º
 
 ### CAPÍTULO 3 — A aproximação das legislações
 
-###### Artigo 94.º (ex-artigo 100.º)
+Artigo 94.º (ex-artigo 100.º)
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão, e após consulta do Parlamento Europeu e do Comité Económico e Social, adopta directivas para a aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros que tenham incidência directa no estabelecimento ou no funcionamento do mercado comum.
 
-###### Artigo 95.º (ex-artigo 100.º-A)
+Artigo 95.º (ex-artigo 100.º-A)
 
 1 - Em derrogação do artigo 94.º e salvo disposição em contrário do presente Tratado, aplicam-se as disposições seguintes à realização dos objectivos enunciados no artigo 14.º O Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º, e após consulta do Comité Económico e Social, adopta as medidas relativas à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros, que tenham por objecto o estabelecimento e o funcionamento do mercado interno.
 
@@ -4820,29 +4834,29 @@ Se a complexidade da questão o justificar, e não existindo perigo para a saúd
 
 10 - As medidas de harmonização acima referidas compreenderão, nos casos adequados, uma cláusula de salvaguarda que autorize os Estados membros a tomarem, por uma ou mais razões não económicas previstas no artigo 30.º, medidas provisórias sujeitas a um processo comunitário de controlo.
 
-###### Artigo 96.º (ex-artigo 101.º)
+Artigo 96.º (ex-artigo 101.º)
 
 Se a Comissão explicar que a existência de uma disparidade entre as disposições legislativas, regulamentares ou administrativas dos Estados membros falseia as condições de concorrência no mercado comum, provocando assim uma distorção que deve ser eliminada, consultará os Estados membros em causa.
 
 Se desta consulta não resultar um acordo que elimine a distorção em causa, o Conselho, sob proposta da Comissão, deliberando por maioria qualificada, adoptará as directivas necessárias para o efeito. A Comissão e o Conselho podem tomar quaisquer outras medidas adequadas previstas no presente Tratado.
 
-###### Artigo 97.º (ex-artigo 102.º)
+Artigo 97.º (ex-artigo 102.º)
 
 1 - Quando houver motivo para recear que a adopção ou alteração de uma disposição legislativa, regulamentar ou administrativa possa provocar uma distorção, na acepção do artigo anterior, o Estado membro que pretenda tomar essa medida consultará a Comissão. Após ter consultado os Estados membros, a Comissão recomendará aos Estados interessados as medidas adequadas, tendentes a evitar a distorção em causa.
 
 2 - Se o Estado que pretende adoptar ou alterar disposições nacionais não proceder em conformidade com a recomendação que a Comissão lhe dirigiu, não se pode pedir aos outros Estados membros que, por força do artigo 96.º, alterem as suas disposições nacionais a fim de eliminarem tal distorção. Se o Estado membro que ignorou a recomendação da Comissão provocar uma distorção em seu exclusivo detrimento, não é aplicável o disposto no artigo 96.º
 
-## TÍTULO VII (ex-título VI)
+TÍTULO VII (ex-título VI)
 
 A política económica e monetária
 
 ### CAPÍTULO 1 — A política económica
 
-###### Artigo 98.º (ex-artigo 102.º-A)
+Artigo 98.º (ex-artigo 102.º-A)
 
 Os Estados membros conduzirão as suas políticas económicas no sentido de contribuir para a realização dos objectivos da Comunidade, tal como se encontram definidos no artigo 2.º, e no âmbito das orientações gerais a que se refere o n.º 2 do artigo 99.º Os Estados membros e a Comunidade actuarão de acordo com o princípio de uma economia de mercado aberto e de livre concorrência, favorecendo uma repartição eficaz dos recursos, e em conformidade com os princípios estabelecidos no artigo 4.º
 
-###### Artigo 99.º (ex-artigo 103.º)
+Artigo 99.º (ex-artigo 103.º)
 
 1 - Os Estados membros consideram as suas políticas económicas uma questão de interesse comum e coordená-las-ão no Conselho, de acordo com o disposto no artigo 98.º
 
@@ -4858,35 +4872,35 @@ Para efeitos desta supervisão multilateral, os Estados membros enviarão inform
 
 4 - Sempre que se verificar, no âmbito do procedimento a que se refere o n.º 3, que as políticas económicas de determinado Estado membro não são compatíveis com as grandes orientações a que se refere o n.º 2 ou que são susceptíveis de comprometer o bom funcionamento da união económica e monetária, o Conselho, deliberando por maioria qualificada, sob recomendação da Comissão, pode dirigir as recomendações necessárias ao Estado membro em causa. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode decidir tornar públicas as suas recomendações.
 
-**O Presidente do Conselho e a Comissão apresentarão um relatório ao Parlamento Europeu sobre os resultados da supervisão multilateral. O Presidente do Conselho pode se convidado a comparecer perante a competente Comissão do Parlamento Europeu, se o Conselho tiver tornado públicas as suas recomendações.**
+O Presidente do Conselho e a Comissão apresentarão um relatório ao Parlamento Europeu sobre os resultados da supervisão multilateral. O Presidente do Conselho pode se convidado a comparecer perante a competente Comissão do Parlamento Europeu, se o Conselho tiver tornado públicas as suas recomendações.
 
 5 - O Conselho, deliberando de acordo com o procedimento previsto no artigo 252.º, pode aprovar as regras do procedimento de supervisão multilateral a que se referem os n.os 3 e 4 do presente artigo.
 
-###### Artigo 100.º (ex-artigo 103.º-A)
+Artigo 100.º (ex-artigo 103.º-A)
 
 1 - Sem prejuízo de quaisquer outros procedimentos previstos no presente Tratado, o Conselho, deliberando por unanimidade, sob proposta da Comissão, pode decidir das medidas apropriadas à situação económica, em especial em caso de dificuldades graves no aprovisionamento de certos produtos.
 
 2 - Sempre que um Estado membro se encontre em dificuldades ou sob grave ameaça de dificuldades devidas a ocorrências excepcionais que não possa controlar, o Conselho, deliberando por unanimidade, sob proposta da Comissão, pode, sob certas condições, conceder ajuda financeira comunitária ao Estado membro em questão. Caso essas graves dificuldades sejam devidas a calamidades naturais, o Conselho deliberará por maioria qualificada. O Presidente do Conselho informará o Parlamento Europeu da decisão tomada.
 
-###### Artigo 101.º (ex-artigo 104.º)
+Artigo 101.º (ex-artigo 104.º)
 
 1 - É proibida a concessão de créditos sob a forma de descobertos ou sob qualquer outra forma pelo BCE ou pelos bancos centrais nacionais dos Estados membros, adiante designados «bancos centrais nacionais», em benefício de instituições ou organismos da Comunidade, governos centrais, autoridades regionais, locais, ou outras autoridades públicas, outros organismos do sector público ou empresas públicas dos Estados membros, bem como a compra directa de títulos de dívida a essas entidades, pelo BCE ou pelos bancos centrais nacionais.
 
 2 - As disposições do n.º 1 não se aplicam às instituições de crédito de capitais públicos às quais, no contexto da oferta de reservas pelos bancos centrais, será dado, pelos bancos centrais nacionais e pelo BCE, o mesmo tratamento que às instituições de crédito privadas.
 
-###### Artigo 102.º (ex-artigo 104.º-A)
+Artigo 102.º (ex-artigo 104.º-A)
 
 1 - São proibidas quaisquer medidas não baseadas em considerações de ordem prudencial que possibilitem o acesso privilegiado às instituições financeiras por parte das instituições ou organismos da Comunidade, dos governos centrais, das autoridades regionais ou locais, ou outras autoridades públicas, de outros organismos do sector público ou de empresas públicas dos Estados membros.
 
 2 - O Conselho, deliberando de acordo com o procedimento previsto no artigo 252.º, estabelecerá, até 1 de Janeiro de 1994, as definições para a aplicação da proibição a que se refere o n.º 1.
 
-###### Artigo 103.º (ex-artigo 104.º-B)
+Artigo 103.º (ex-artigo 104.º-B)
 
 1 - Sem prejuízo das garantias financeiras mútuas para a execução conjunta de projectos específicos, a Comunidade não é responsável pelos compromissos dos governos centrais, das autoridades regionais ou locais, ou de outras autoridades públicas, dos outros organismos do sector público ou das empresas públicas de qualquer Estado membro, nem assumirá esses compromissos. Sem prejuízo das garantias financeiras mútuas para a execução conjunta de projectos específicos, os Estados membros não são responsáveis pelos compromissos dos governos centrais, das autoridades regionais ou locais, ou de outras autoridades públicas, dos outros organismos do sector público ou das empresas públicas de outros Estados membros, nem assumirão esses compromissos.
 
 2 - O Conselho, deliberando de acordo com o procedimento previsto no artigo 252.º, pode, se necessário, estabelecer definições para a aplicação das proibições a que se referem o artigo 101.º e o presente artigo.
 
-###### Artigo 104.º (ex-artigo 104.º-C)
+Artigo 104.º (ex-artigo 104.º-C)
 
 1 - Os Estados membros devem evitar défices orçamentais excessivos.
 
@@ -4932,7 +4946,7 @@ Nesse caso, o Conselho pode pedir ao Estado membro em causa que lhe apresente re
 
 - impor multas de importância apropriada.
 
-**O Presidente do Conselho informará o Parlamento Europeu das decisões tomadas.**
+O Presidente do Conselho informará o Parlamento Europeu das decisões tomadas.
 
 12 - O Conselho revogará parte ou a totalidade das decisões a que se referem os n.os 6 a 9 e 11 na medida em que considere que o défice excessivo no Estado membro em causa foi corrigido. Se o Conselho tiver previamente tornado públicas as suas recomendações, deve, logo que a decisão tomada ao abrigo do n.º 8 tiver sido revogada, fazer uma declaração pública de que deixou de existir um défice excessivo no Estado membro em causa.
 
@@ -4946,7 +4960,7 @@ Sem prejuízo das demais disposições do presente número, o Conselho, delibera
 
 ### CAPÍTULO 2 — A política monetária
 
-###### Artigo 105.º (ex-artigo 105.º)
+Artigo 105.º (ex-artigo 105.º)
 
 1 - O objectivo primordial do SEBC é a manutenção da estabilidade dos preços. Sem prejuízo do objectivo da estabilidade dos preços, o SEBC apoiará as políticas económicas gerais na Comunidade tendo em vista contribuir para a realização dos objectivos da Comunidade tal como se encontram definidos no artigo 2.º O SEBC actuará de acordo com o princípio de uma economia de mercado aberto e de livre concorrência, incentivando a repartição eficaz dos recursos e observando os princípios definidos no artigo 4.º
 
@@ -4974,13 +4988,13 @@ O BCE pode apresentar pareceres sobre questões do âmbito das suas atribuiçõe
 
 6 - O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do BCE, e depois de ter recebido parecer favorável do Parlamento Europeu, pode conferir ao BCE atribuições específicas no que diz respeito às políticas relativas à supervisão prudencial das instituições de crédito e de outras instituições financeiras, com excepção das empresas de seguros.
 
-###### Artigo 106.º (ex-artigo 105.º-A)
+Artigo 106.º (ex-artigo 105.º-A)
 
 1 - O BCE tem o direito exclusivo de autorizar a emissão de notas de banco na Comunidade. O BCE e os bancos centrais nacionais podem emitir essas notas. As notas de banco emitidas pelo BCE e pelos bancos centrais nacionais são as únicas com curso legal na Comunidade.
 
 2 - Os Estados membros podem emitir moedas metálicas, sem prejuízo da aprovação pelo BCE do volume da respectiva emissão. O Conselho, deliberando de acordo com o procedimento previsto no artigo 252.º e após consulta do BCE, pode adoptar medidas para harmonizar as denominações e especificações técnicas de todas as moedas metálicas destinadas à circulação, na medida do necessário para permitir a sua fácil circulação dentro da Comunidade.
 
-###### Artigo 107.º (ex-artigo 106.º)
+Artigo 107.º (ex-artigo 106.º)
 
 1 - O SEBC é constituído pelo BCE e pelos bancos nacionais.
 
@@ -4994,15 +5008,15 @@ O BCE pode apresentar pareceres sobre questões do âmbito das suas atribuiçõe
 
 6 - O Conselho, deliberando por maioria qualificada, quer sob proposta da Comissão e após consulta do Parlamento Europeu e do BCE quer deliberando sob recomendação do BCE e após consulta do Parlamento Europeu e da Comissão, adoptará as disposições a que se referem os artigos 4.º, 5.º 4, 19.º 2, 20.º, 28.º 1, 29.º 2, 30.º 4 e 34.º 3 dos Estatutos do SEBC.
 
-###### Artigo 108.º (ex-artigo 107.º)
+Artigo 108.º (ex-artigo 107.º)
 
 No exercício dos poderes e no cumprimento das atribuições e deveres que lhes são conferidos pelo presente Tratado e pelos Estatutos do SEBC, o BCE, os bancos centrais nacionais, ou qualquer membro dos respectivos órgãos de decisão não podem solicitar ou receber instruções das instituições ou organismos comunitários, dos governos dos Estados membros ou de qualquer outra entidade. As instituições e organismos comunitários, bem como os governos dos Estados membros, comprometem-se a respeitar este princípio e a não procurar influenciar os membros dos órgãos de decisão do BCE ou dos bancos centrais nacionais no exercício das suas funções.
 
-###### Artigo 109.º (ex-artigo 108.º)
+Artigo 109.º (ex-artigo 108.º)
 
 Cada um dos Estados membros assegurará, o mais tardar até à data da instituição do SEBC, a compatibilidade da respectiva legislação nacional, incluindo os estatutos do seu banco central nacional, com o presente Tratado e com os Estatutos do SEBC.
 
-###### Artigo 110.º (ex-artigo 108.º-A)
+Artigo 110.º (ex-artigo 108.º-A)
 
 1 - Para o desempenho das atribuições cometidas ao SEBC, o BCE, de acordo com as disposições do presente Tratado e nas condições definidas nos Estatutos do SEBC:
 
@@ -5024,7 +5038,7 @@ O BCE pode decidir publicar as suas decisões, recomendações e pareceres.
 
 3 - Nos limites e condições fixados pelo Conselho, de acordo com o procedimento previsto no n.º 6 do artigo 107.º, o BCE pode aplicar multas ou sanções pecuniárias temporárias às empresas em caso de incumprimento de obrigações decorrentes dos seus regulamentos e decisões.
 
-###### Artigo 111.º (ex-artigo 109.º)
+Artigo 111.º (ex-artigo 109.º)
 
 1 - Em derrogação do disposto no artigo 300.º, o Conselho, deliberando por unanimidade, sob recomendação do BCE ou da Comissão e após consulta do BCE, numa tentativa para chegar a um consenso com este último, compatível com o objectivo da estabilidade dos preços, e após consulta do Parlamento Europeu, de acordo com os mecanismos processuais referidos no n.º 3, pode celebrar acordos formais relativos a um sistema de taxas de câmbio do ecu em relação às moedas não comunitárias. O Conselho, deliberando por maioria qualificada, sob recomendação do BCE ou da Comissão e após consulta do BCE, numa tentativa para chegar a um consenso com este último compatível com o objectivo da estabilidade dos preços, pode adoptar, ajustar ou abandonar as taxas, centrais do ecu no sistema de taxas de câmbio. O Presidente do Conselho informará o Parlamento Europeu acerca da adopção, ajustamento ou abandono das taxas centrais do ecu.
 
@@ -5040,7 +5054,7 @@ Os acordos celebrados de acordo com o presente número vinculam as instituiçõe
 
 ### CAPÍTULO 3 — Disposições institucionais
 
-###### Artigo 112.º (ex-artigo 109.º-A)
+Artigo 112.º (ex-artigo 109.º-A)
 
 1 - O conselho do BCE é composto pelos membros da comissão executiva do BCE e pelos governadores dos bancos centrais nacionais.
 
@@ -5052,19 +5066,19 @@ A duração do respectivo mandato é de oito anos, não renováveis.
 
 Só nacionais dos Estados membros podem ser membros da comissão executiva.
 
-###### Artigo 113.º (ex-artigo 109.º-B)
+Artigo 113.º (ex-artigo 109.º-B)
 
 1 - O Presidente do Conselho e um membro da Comissão podem participar, sem direito de voto, nas reuniões do conselho do BCE.
 
-**O Presidente do Conselho pode submeter moções à deliberação do conselho do BCE.**
+O Presidente do Conselho pode submeter moções à deliberação do conselho do BCE.
 
 2 - O presidente do BCE será convidado a participar nas reuniões do Conselho sempre que este delibere sobre questões relativas aos objectivos e atribuições do SEBC.
 
 3 - O BCE enviará anualmente ao Parlamento Europeu, ao Conselho, à Comissão e ainda ao Conselho Europeu um relatório sobre as actividades do SEBC e sobre a política monetária do ano anterior e do ano em curso. O presidente do BCE apresentará esse relatório ao Conselho e ao Parlamento Europeu, que, com base nesse relatório, pode proceder a um debate de carácter geral.
 
-**O presidente do BCE e os outros membros da comissão executiva podem, a pedido do Parlamento Europeu ou por sua própria iniciativa, ser ouvidos pelas competentes comissões do Parlamento Europeu.**
+O presidente do BCE e os outros membros da comissão executiva podem, a pedido do Parlamento Europeu ou por sua própria iniciativa, ser ouvidos pelas competentes comissões do Parlamento Europeu.
 
-###### Artigo 114.º (ex-artigo 109.º-C)
+Artigo 114.º (ex-artigo 109.º-C)
 
 1 - Com o objectivo de promover a coordenação das políticas dos Estados membros na medida do necessário ao funcionamento do mercado interno, incluído um Comité Monetário de natureza consultiva.
 
@@ -5098,13 +5112,13 @@ Os Estados membros, a Comissão e o BCE nomearão, cada um, no máximo, dois mem
 
 4 - Além das funções previstas no n.º 2, o Comité, se e enquanto existirem Estados membros que beneficiem de uma derrogação nos termos dos artigos 122.º e 123.º, acompanhará a situação monetária e financeira e o sistema geral de pagamentos desses Estados membros e apresentará regularmente o correspondente relatório ao Conselho e à Comissão.
 
-###### Artigo 115.º (ex-artigo 109.º-D)
+Artigo 115.º (ex-artigo 109.º-D)
 
 O Conselho ou qualquer dos Estados membros pode solicitar à Comissão que apresente uma recomendação ou uma proposta, conforme o caso, relativamente a questões do âmbito de aplicação do n.º 4 do artigo 99.º, do artigo 104.º, com excepção do seu n.º 14, dos artigos 111.º, 121.º e 122.º e dos n.os 4 e 5 do artigo 123.º A Comissão analisa esse pedido e apresenta sem demora as suas conclusões ao Conselho.
 
 ### CAPÍTULO 4 — Disposições transitórias
 
-###### Artigo 116.º (ex-artigo 109.º-E)
+Artigo 116.º (ex-artigo 109.º-E)
 
 1 - A segunda fase da realização da união económica e monetária tem início em 1 de Janeiro de 1994.
 
@@ -5126,11 +5140,11 @@ O disposto no n.º 2 do artigo 100.º, nos n.os 1, 9 e 11 do artigo 104.º, nos 
 
 5 - No decurso da segunda fase, cada Estado membro deve, se for caso disso, iniciar o processo conducente à independência do seu banco central, nos termos do artigo 109.º
 
-###### Artigo 117.º (ex-artigo 109.º-F)
+Artigo 117.º (ex-artigo 109.º-F)
 
 1 - No início da segunda fase, é instituído e entra em funções um Instituto Monetário Europeu, a seguir designado por IME, que tem personalidade jurídica e é dirigido e gerido por um conselho, composto por um presidente e pelos governadores dos bancos centrais nacionais, um dos quais será vice-presidente.
 
-**O presidente é nomeado, de comum acordo, pelos governos dos Estados membros a nível de chefes de Estado ou de governo, sob recomendação do conselho do IME e após consulta do Parlamento Europeu e do Conselho. O presidente é escolhido de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário. Só pode ser presidente do IME um nacional dos Estados membros. O conselho do IME designa o vice-presidente.**
+O presidente é nomeado, de comum acordo, pelos governos dos Estados membros a nível de chefes de Estado ou de governo, sob recomendação do conselho do IME e após consulta do Parlamento Europeu e do Conselho. O presidente é escolhido de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário. Só pode ser presidente do IME um nacional dos Estados membros. O conselho do IME designa o vice-presidente.
 
 Os Estatutos do IME constam de um Protocolo anexo ao presente Tratado.
 
@@ -5182,13 +5196,13 @@ Nos limites e condições fixados pelo Conselho, deliberando por maioria qualifi
 
 9 - Durante a segunda fase, a sigla «BCE» utilizada nos artigos 230.º, 232.º, 233.º, 234.º, 237.º e 288.º deve ser entendida como uma referência ao IME.
 
-###### Artigo 118.º (ex-artigo 109.º-G)
+Artigo 118.º (ex-artigo 109.º-G)
 
 A composição do cabaz de moedas do ecu permanece inalterada.
 
 A partir do início da terceira fase, o valor do ecu é irrevogavelmente fixado de acordo com o disposto no n.º 4 do artigo 123.º
 
-###### Artigo 119.º (ex-artigo 109.º-H)
+Artigo 119.º (ex-artigo 109.º-H)
 
 1 - Se algum Estado membro se encontrar em dificuldades, ou sob grave ameaça de dificuldades relativamente à sua balança de pagamentos, quer estas resultem de um desequilíbrio global da sua balança quer do tipo de divisas de que dispõe, e se tais dificuldades forem susceptíveis de, designadamente, comprometer o funcionamento do mercado comum ou a progressiva realização da sua política comercial comum, a Comissão procederá imediatamente à análise da situação desse Estado, bem como da acção que ele empreendeu ou pode empreender, nos termos do presente Tratado, recorrendo a todos os meios de que dispõe. A Comissão indicará as medidas cuja adopção recomenda ao Estado em causa.
 
@@ -5210,7 +5224,7 @@ O Conselho, deliberando por maioria qualificada, pode revogar esta autorização
 
 4 - Sem prejuízo do disposto no n.º 6 do artigo 122.º, o presente artigo deixa de ser aplicado a partir do início da terceira fase.
 
-###### Artigo 120.º (ex-artigo 109.º-I)
+Artigo 120.º (ex-artigo 109.º-I)
 
 1 - Em caso de crise súbita na balança de pagamentos e se não for imediatamente tomada uma decisão, na acepção do n.º 2 do artigo 119.º, o Estado membro em causa pode, a título cautelar, tomar as medidas de protecção necessárias. Estas devem provocar o mínimo de perturbações no funcionamento do mercado comum e não exceder o estritamente indispensável para sanar as dificuldades súbitas que se tenham manifestado.
 
@@ -5220,7 +5234,7 @@ O Conselho, deliberando por maioria qualificada, pode revogar esta autorização
 
 4 - Sem prejuízo do disposto no n.º 6 do artigo 122.º, o presente artigo deixa de ser aplicável a partir do início da terceira fase.
 
-###### Artigo 121.º (ex-artigo 109.º-J)
+Artigo 121.º (ex-artigo 109.º-J)
 
 1 - A Comissão e o IME apresentarão relatórios ao Conselho sobre os progressos alcançados pelos Estados membros no cumprimento das suas obrigações relativas à realização da união económica e monetária. Esses relatórios devem conter um estudo da compatibilidade da legislação nacional de cada Estado membro, incluindo os estatutos do seu banco central nacional, com o disposto nos artigos 108.º e 109.º do presente Tratado e nos Estatutos do SEBC. Os relatórios analisarão igualmente a realização de um elevado grau de convergência sustentada, com base na observância, por cada Estado membro, dos seguintes critérios:
 
@@ -5254,7 +5268,7 @@ e, em caso afirmativo:
 
 4 - Se, no final de 1997, não tiver sido fixada a data para o início da terceira fase, esta tem início em 1 de Janeiro de 1999. Até de 1 de Julho de 1998, o Conselho, reunido a nível de chefes de Estado ou de governo, e depois de repetido o procedimento previsto nos n.os 1 e 2, com excepção do segundo travessão do n.º 2, tendo em conta os relatórios a que se refere o n.º 1 e o parecer do Parlamento Europeu, e deliberando por maioria qualificada, com base nas recomendações do Conselho a que se refere o n.º 2, confirmará quais os Estados membros que satisfazem as condições necessárias para a adopção de uma moeda única.
 
-###### Artigo 122.º (ex-artigo 109.º-K)
+Artigo 122.º (ex-artigo 109.º-K)
 
 1 - Se tiver sido tomada a decisão de fixar a data, de acordo com o disposto no n.º 3 do artigo 121.º, o Conselho, com base nas suas recomendações a que se refere o n.º 2 do artigo 121.º, deliberando por maioria qualificada, sob recomendação da Comissão, decidirá se alguns Estados membros e, em caso afirmativo, quais, devem beneficiar de uma derrogação tal como definida no n.º 3 do presente artigo. Esses Estados membros serão adiante designados «Estados membros que beneficiam de uma derrogação».
 
@@ -5270,7 +5284,7 @@ Se o Conselho tiver confirmado quais os Estados membros que satisfazem as condi�
 
 6 - O disposto nos artigos 119.º e 120.º continua a ser aplicável aos Estados membros que beneficiam de uma derrogação.
 
-###### Artigo 123.º (ex-artigo 109.º-L)
+Artigo 123.º (ex-artigo 109.º-L)
 
 1 - Imediatamente após ter sido tomada a decisão sobre a data de início da terceira fase, nos termos do disposto no n.º 3 do artigo 12.º ou, se for esse o caso, imediatamente após 1 de Julho de 1998:
 
@@ -5288,33 +5302,33 @@ Logo que a comissão executiva for nomeada, o SEBC e o BCE consideram-se institu
 
 5 - Se, de acordo com o procedimento previsto no n.º 2 do artigo 122.º, for decidido revogar uma derrogação, o Conselho, deliberando por unanimidade dos Estados membros que não beneficiam de uma derrogação e do Estado membro em causa, sob proposta da Comissão e após consulta do BCE, fixa a taxa à qual o ecu substitui a moeda do Estado membro em causa e toma as outras medidas necessárias para a introdução do ecu como moeda única no Estado membro em causa.
 
-###### Artigo 124.º (ex-artigo 109.º-M)
+Artigo 124.º (ex-artigo 109.º-M)
 
 1 - Até ao início da terceira fase, cada Estado membro tratará a sua política cambial como uma questão de interesse comum. Ao fazê-lo, os Estados membros terão em conta a experiência adquirida no âmbito de cooperação no Sistema Monetário Europeu (SME) e com a evolução do ecu, respeitando as competências existentes.
 
 2 - A partir do início da terceira fase e enquanto existirem Estados membros que beneficiem de uma derrogação, aplica-se à política cambial desses Estados membros, por analogia, o disposto no n.º 1.
 
-## TÍTULO VIII (ex-título VI-A)
+TÍTULO VIII (ex-título VI-A)
 
 Emprego
 
-###### Artigo 125.º (ex-artigo 109.º-N)
+Artigo 125.º (ex-artigo 109.º-N)
 
 Os Estados membros e a Comunidade empenhar-se-ão, nos termos do presente título, em desenvolver uma estratégia coordenada em matéria de emprego e, em especial, em promover uma mão-de-obra qualificada, formada e susceptível de adaptação, bem como mercados de trabalho que reajam rapidamente às mudanças económicas, tendo em vista alcançar os objectivos enunciados no artigo 2.º do Tratado da União Europeia e no artigo 2.º do presente Tratado.
 
-###### Artigo 126.º (ex-artigo 109.º-O)
+Artigo 126.º (ex-artigo 109.º-O)
 
 1 - Através das suas políticas de emprego, os Estados membros contribuirão para a realização dos objectivos previstos no artigo 125.º, de forma coerente com as orientações gerais das políticas económicas dos Estados membros e da Comunidade adoptadas em aplicação do n.º 2 do artigo 99.º
 
 2 - Tendo em conta as práticas nacionais relativas às responsabilidades dos parceiros sociais, os Estados membros considerarão a promoção do emprego uma questão de interesse comum e coordenarão a sua acção neste domínio no âmbito do Conselho, nos termos do disposto no artigo 128.º
 
-###### Artigo 127.º (ex-artigo 109.º-P)
+Artigo 127.º (ex-artigo 109.º-P)
 
 1 - A Comunidade contribuirá para a realização de um elevado nível de emprego, incentivando a cooperação entre os Estados membros, apoiando e, se necessário, completando a sua acção. Ao fazê-lo, respeitará as competências dos Estados membros.
 
 2 - O objectivo de alcançar um elevado nível de emprego será tomado em consideração na definição e execução das políticas e acções comunitárias.
 
-###### Artigo 128.º (ex-artigo 109.º-Q)
+Artigo 128.º (ex-artigo 109.º-Q)
 
 1 - O Conselho Europeu procederá anualmente à avaliação da situação do emprego na Comunidade e adoptará conclusões nessa matéria, com base num relatório anual conjunto do Conselho e da Comissão.
 
@@ -5326,13 +5340,13 @@ Os Estados membros e a Comunidade empenhar-se-ão, nos termos do presente títul
 
 5 - Com base nos resultados daquela análise, o Conselho e a Comissão apresentarão anualmente ao Conselho Europeu um relatório conjunto sobre a situação do emprego na Comunidade e a aplicação das orientações em matéria de emprego.
 
-###### Artigo 129.º (ex-artigo 109.º-R)
+Artigo 129.º (ex-artigo 109.º-R)
 
 O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social e ao Comité das Regiões, pode adoptar acções de incentivo destinadas a fomentar a cooperação entre os Estados membros e apoiar a sua acção no domínio do emprego, por meio de iniciativas que tenham por objectivo desenvolver o intercâmbio de informações e de boas práticas, facultar análises comparativas e consultadoria, promover abordagens inovadoras e avaliar a experiência adquirida, em especial mediante o recurso a projectos piloto.
 
 Essas acções não incluirão a harmonização das disposições legislativas e regulamentares dos Estados membros.
 
-###### Artigo 130.º (ex-artigo 109.º-S)
+Artigo 130.º (ex-artigo 109.º-S)
 
 O Conselho após consulta ao Parlamento Europeu, criará um Comité do Emprego, com carácter consultivo, para promover a coordenação das políticas em matéria de emprego e de mercado de trabalho entre os Estados membros. O Comité terá por funções:
 
@@ -5344,17 +5358,17 @@ No cumprimento do seu mandato, o Comité consultará os parceiros sociais.
 
 Os Estados membros e a Comissão nomearão, cada um, dois membros do Comité.
 
-## TÍTULO IX (ex-título VII)
+TÍTULO IX (ex-título VII)
 
 A política comercial comum
 
-###### Artigo 131.º (ex-artigo 110.º)
+Artigo 131.º (ex-artigo 110.º)
 
 Ao instituírem entre si uma união aduaneira, os Estados membros propõem-se contribuir, no interesse comum, para o desenvolvimento harmonioso do comércio mundial, para a supressão progressiva das restrições às trocas internacionais e para a redução das barreiras alfandegárias.
 
 A política comercial comum tomará em conta a incidência favorável que a supressão de direitos aduaneiros entre os Estados membros possa ter no aumento da capacidade concorrencial das empresas destes Estados.
 
-###### Artigo 132.º (ex-artigo 112.º)
+Artigo 132.º (ex-artigo 112.º)
 
 1 - Sem prejuízo dos compromissos assumidos pelos Estados membros no âmbito de outras organizações internacionais, os regimes de auxílios concedidos pelos Estados membros às exportações para países terceiros serão progressivamente harmonizados na medida em que tal for necessário para evitar que a concorrência entre as empresas da Comunidade seja falseada.
 
@@ -5362,7 +5376,7 @@ Sob proposta da Comissão, o Conselho, deliberando por maioria qualificada, adop
 
 2 - As disposições precedentes não são aplicáveis aos draubaques de direitos aduaneiros ou de encargos de efeito equivalente, nem aos reembolsos que resultem de imposições indirectas, incluindo os impostos sobre o volume de negócios, os impostos sobre consumos específicos e outros impostos indirectos, concedidos no momento da exportação de uma mercadoria de um Estado membro para um país terceiro, na medida em que esses draubaques ou reembolsos não excedam os direitos, encargos ou imposições que tenham incidido, directa ou indirectamente, sobre os produtos exportados.
 
-###### Artigo 133.º (ex-artigo 113.º)
+Artigo 133.º (ex-artigo 113.º)
 
 1 - A política comercial comum assenta em princípios uniformes, designadamente no que diz respeito às modificações pautais, à celebração de acordos pautais e comerciais, à uniformização das medidas de liberalização, à política de exportação, bem como às medidas de protecção do comércio, tais como as medidas a tomar em caso de dumping e de subvenções.
 
@@ -5378,7 +5392,7 @@ São aplicáveis as disposições pertinentes do artigo 300.º
 
 5 - O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, pode tornar extensivo o âmbito de aplicação dos n.os 1 a 4 às negociações e acordos internacionais relativos aos sectores dos serviços e aos direitos de propriedade intelectual, na medida em que não sejam abrangidos por esses números.
 
-###### Artigo 134.º (ex-artigo 115.º)
+Artigo 134.º (ex-artigo 115.º)
 
 A fim de garantir que a execução das medidas de política comercial, adoptadas nos termos do presente Tratado por qualquer Estado membro, não seja impedida por desvios de tráfego, ou sempre que haja disparidades nessas medidas que provoquem dificuldades económicas em um ou mais Estados, a Comissão recomendará os métodos a empregar pelos outros Estados membros para prestarem a cooperação necessária. Na falta dessa cooperação, a Comissão pode autorizar os Estados membros a tomarem as medidas de protecção necessárias, de que fixará as condições e modalidades.
 
@@ -5386,21 +5400,21 @@ Em caso de urgência, os Estados membros devem pedir autorização à Comissão,
 
 Devem ser prioritariamente escolhidas as medidas que provoquem o mínimo de perturbações no funcionamento do mercado comum.
 
-## TÍTULO X (ex-título VII-A)
+TÍTULO X (ex-título VII-A)
 
 Cooperação aduaneira
 
-###### Artigo 135.º (ex-artigo 116.º)
+Artigo 135.º (ex-artigo 116.º)
 
 No âmbito de aplicação do presente Tratado, o Conselho, deliberando nos termos do artigo 251.º, tomará medidas destinadas a reforçar a cooperação aduaneira entre os Estados membros e entre estes e a Comissão. Essas medidas não dirão respeito à aplicação do direito penal nacional, nem à administração da justiça nos Estados membros.
 
-## TÍTULO XI (ex-título VIII)
+TÍTULO XI (ex-título VIII)
 
 Política social, educação, formação profissional e juventude
 
 ### CAPÍTULO 1 — Disposições sociais
 
-###### Artigo 136.º (ex-artigo 117.º)
+Artigo 136.º (ex-artigo 117.º)
 
 A Comunidade e os Estados membros, tendo presentes os direitos sociais fundamentais, tal como os enunciam a Carta Social Europeia, assinada em Turim, em 18 de Outubro de 1961, e a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, de 1989, terão por objectivos a promoção do emprego, a melhoria das condições de vida e de trabalho, de modo a permitir a sua harmonização, assegurando simultaneamente essa melhoria, uma protecção social adequada, o diálogo entre parceiros sociais, o desenvolvimento dos recursos humanos, tendo em vista um nível de emprego elevado e duradouro, e a luta contra as exclusões.
 
@@ -5408,7 +5422,7 @@ Para o efeito, a Comunidade e os Estados membros desenvolverão acções que ten
 
 A Comunidade e os Estados membros consideram que esse desenvolvimento decorrerá não apenas do funcionamento do mercado comum, que favorecerá a harmonização dos sistemas sociais, mas igualmente dos processos previstos no presente Tratado e da aproximação das disposições legislativas, regulamentares e administrativas.
 
-###### Artigo 137.º (ex-artigo 118.º)
+Artigo 137.º (ex-artigo 118.º)
 
 1 - A fim de realizar os objectivos enunciados no artigo 136.º, a Comunidade apoiará e completará a acção dos Estados membros nos seguintes domínios:
 
@@ -5448,7 +5462,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 6 - O disposto no presente artigo não é aplicável às remunerações, ao direito sindical, ao direito de greve e ao direito de lock-out.
 
-###### Artigo 138.º (ex-artigo 118.º-A)
+Artigo 138.º (ex-artigo 118.º-A)
 
 1 - À Comissão caberá promover a consulta dos parceiros sociais ao nível comunitário e tomar todas as medidas necessárias para facilitar o seu diálogo, assegurando um apoio equilibrado às partes.
 
@@ -5458,7 +5472,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 4 - Ao efectuarem essa consulta, os parceiros sociais podem informar a Comissão do seu desejo de dar início ao processo previsto no artigo 139.º A duração deste não pode exceder nove meses, salvo prorrogação decidida em comum por esses parceiros sociais e pela Comissão.
 
-###### Artigo 139.º (ex-artigo 118.º-B)
+Artigo 139.º (ex-artigo 118.º-B)
 
 1 - O diálogo entre os parceiros sociais ao nível comunitário pode conduzir, se estes o entenderem desejável, a relações contratuais, incluindo acordos.
 
@@ -5466,7 +5480,7 @@ Nesse caso, assegurará que, o mais tardar na data em que determinada directiva 
 
 O Conselho delibera por maioria qualificada, salvo se o acordo em causa contiver uma ou mais disposições relativas a um dos domínios previstos no n.º 3 do artigo 137.º, caso em que delibera por unanimidade.
 
-###### Artigo 140.º (ex-artigo 118.º-C)
+Artigo 140.º (ex-artigo 118.º-C)
 
 Tendo em vista a realização dos objectivos do artigo 136.º e sem prejuízo das demais disposições do presente Tratado, a Comissão incentivará a cooperação entre os Estados membros e facilitará a coordenação das suas acções nos domínios da política social abrangidos pelo presente capítulo, designadamente em questões relativas:
 
@@ -5488,7 +5502,7 @@ Para o efeito, a Comissão actuará em estreito contacto com os Estados membros,
 
 Antes de formular os pareceres previstos no presente artigo, a Comissão consultará o Comité Económico e Social.
 
-###### Artigo 141.º (ex-artigo 119.º)
+Artigo 141.º (ex-artigo 119.º)
 
 1 - Os Estados membros assegurarão a aplicação do princípio da igualdade de remuneração entre trabalhadores masculinos e femininos, por trabalho igual ou de valor igual.
 
@@ -5504,21 +5518,21 @@ b) A remuneração do trabalho pago por unidade de tempo seja a mesma para um me
 
 4 - A fim de assegurar, na prática, a plena igualdade entre homens e mulheres na vida profissional, o princípio da igualdade de tratamento não obsta a que os Estados membros mantenham ou adoptem medidas que prevejam regalias específicas destinadas a facilitar o exercício de uma actividade profissional pelas pessoas do sexo sub-representado, ou a prevenir ou compensar desvantagens na sua carreira profissional.
 
-###### Artigo 142.º (ex-artigo 119.º-A)
+Artigo 142.º (ex-artigo 119.º-A)
 
 Os Estados membros esforçar-se-ão por manter a equivalência existente dos regimes de férias pagas.
 
-###### Artigo 143.º (ex-artigo 120.º)
+Artigo 143.º (ex-artigo 120.º)
 
 A Comissão elaborará anualmente um relatório sobre a evolução na realização dos objectivos a que se refere o artigo 136.º, incluindo a situação demográfica na Comunidade. Esse relatório será enviado ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social.
 
 O Parlamento Europeu pode convidar a Comissão a elaborar relatórios sobre problemas específicos respeitantes à situação social.
 
-###### Artigo 144.º (ex-artigo 121.º)
+Artigo 144.º (ex-artigo 121.º)
 
 O Conselho, deliberando por unanimidade, após consulta do Comité Económico e Social, pode incumbir a Comissão de funções relacionadas com a execução de medidas comuns, designadamente no que respeita à segurança social dos trabalhadores migrantes referidos nos artigos 39.º a 42.º, inclusive.
 
-###### Artigo 145.º (ex-artigo 122.º)
+Artigo 145.º (ex-artigo 122.º)
 
 No seu relatório anual a apresentar ao Parlamento Europeu, a Comissão consagrará um capítulo especial à evolução da situação social na Comunidade.
 
@@ -5526,23 +5540,23 @@ O Parlamento Europeu pode pedir à Comissão que elabore relatórios sobre probl
 
 ### CAPÍTULO 2 — Fundo Social Europeu
 
-###### Artigo 146.º (ex-artigo 123.º)
+Artigo 146.º (ex-artigo 123.º)
 
 A fim de melhorar as oportunidades de emprego dos trabalhadores no mercado interno e contribuir assim para uma melhoria do nível de vida, é instituído um Fundo Social Europeu, nos termos das disposições seguintes, que tem por objectivo promover facilidades de emprego e a mobilidade geográfica e profissional dos trabalhadores na Comunidade, bem como facilitar a adaptação às mutações industriais e à evolução dos sistemas de produção, nomeadamente através da formação e da reconversão profissionais.
 
-###### Artigo 147.º (ex-artigo 124.º)
+Artigo 147.º (ex-artigo 124.º)
 
 O Fundo é administrado pela Comissão.
 
 Nestas funções a Comissão é assistida por um comité presidido por um membro da Comissão e composto por representantes dos governos e das organizações sindicais de trabalhadores e das associações patronais.
 
-###### Artigo 148.º (ex-artigo 125.º)
+Artigo 148.º (ex-artigo 125.º)
 
 O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social e ao Comité das Regiões, adoptará as decisões de aplicação relativas ao Fundo Social Europeu.
 
 ### CAPÍTULO 3 — Educação, formação profissional e juventude
 
-###### Artigo 149.º (ex-artigo 126.º)
+Artigo 149.º (ex-artigo 126.º)
 
 1 - A Comunidade contribuirá para o desenvolvimento de uma educação de qualidade, incentivando a cooperação entre Estados membros e, se necessário, apoiando e completando a sua acção, respeitando integralmente a responsabilidade dos Estados membros pelo conteúdo do ensino e pela organização do sistema educativo, bem como a sua diversidade cultural e linguística.
 
@@ -5568,7 +5582,7 @@ O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité 
 
 - deliberando por maioria qualificada, sob proposta da Comissão, recomendações.
 
-###### Artigo 150.º (ex-artigo 127.º)
+Artigo 150.º (ex-artigo 127.º)
 
 1 - A Comunidade desenvolve uma política de formação profissional que apoie e complete as acções dos Estados membros, respeitando plenamente a responsabilidade dos Estados membros pelo conteúdo e pela organização da formação profissional.
 
@@ -5588,11 +5602,11 @@ O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité 
 
 4 - O Conselho, deliberando nos termos do artigo 251.º, e após consulta ao Comité Económico e Social e ao Comité das Regiões, adoptará medidas que contribuam para a realização dos objectivos a que se refere o presente artigo, com exclusão de qualquer harmonização das disposições legislativas e regulamentares dos Estados membros.
 
-## TÍTULO XII (ex-título IX)
+TÍTULO XII (ex-título IX)
 
 Cultura
 
-###### Artigo 151.º (ex-artigo 128.º)
+Artigo 151.º (ex-artigo 128.º)
 
 1 - A Comunidade contribuirá para o desenvolvimento das culturas dos Estados membros, respeitando a sua diversidade nacional e regional, e pondo simultaneamente em evidência o património cultural comum.
 
@@ -5616,11 +5630,11 @@ Cultura
 
 - deliberando por unanimidade, sob proposta da Comissão, recomendações.
 
-## TÍTULO XIII (ex-título X)
+TÍTULO XIII (ex-título X)
 
 Saúde pública
 
-###### Artigo 152.º (ex-artigo 129.º)
+Artigo 152.º (ex-artigo 129.º)
 
 1 - Na definição e execução de todas as políticas e acções da Comunidade será assegurado um elevado nível de protecção da saúde.
 
@@ -5646,11 +5660,11 @@ O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode
 
 5 - A acção da Comunidade no domínio da saúde pública respeitará plenamente as competências dos Estados membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos. Em especial, as medidas a que se refere a alínea a) do n.º 4 em nada afectam as disposições nacionais sobre doação de órgãos e de sangue ou sua utilização para fins médicos.
 
-## TÍTULO XIV (ex-título XI)
+TÍTULO XIV (ex-título XI)
 
 Defesa dos consumidores
 
-###### Artigo 153.º (ex-artigo 129.º-A)
+Artigo 153.º (ex-artigo 129.º-A)
 
 1 - A fim de promover os interesses dos consumidores e assegurar um elevado nível de defesa destes, a Comunidade contribuirá para a protecção da saúde, da segurança e dos interesses económicos dos consumidores, bem como para a promoção do seu direito à informação, à educação e à organização para a defesa dos seus interesses.
 
@@ -5666,17 +5680,17 @@ b) Medidas de apoio, complemento e acompanhamento da política seguida pelos Est
 
 5 - As medidas adoptadas nos termos do n.º 4 não obstam a que os Estados membros mantenham ou introduzam medidas de protecção mais estritas. Essas medidas devem ser compatíveis com o presente Tratado e serão notificadas à Comissão.
 
-## TÍTULO XV (ex-título XII)
+TÍTULO XV (ex-título XII)
 
 Redes transeuropeias
 
-###### Artigo 154.º (ex-artigo 129.º-B)
+Artigo 154.º (ex-artigo 129.º-B)
 
 1 - A fim de contribuir para a realização dos objectivos enunciados nos artigos 14.º e 158.º e de permitir que os cidadãos da União, os operadores económicos e as colectividades regionais e locais beneficiem plenamente das vantagens decorrentes da criação de um espaço sem fronteiras internas, a Comunidade contribuirá para a criação e o desenvolvimento de redes transeuropeias nos sectores das infra-estruturas dos transportes, das telecomunicações e da energia.
 
 2 - No âmbito de um sistema de mercados abertos e concorrenciais, a acção da Comunidade terá por objectivo fomentar a interconexão e a interoperabilidade das redes nacionais, bem como o acesso a essas redes. Terá em conta, em especial, a necessidade de ligar as regiões insulares, sem litoral e periféricas às regiões centrais da Comunidade.
 
-###### Artigo 155.º (ex-artigo 129.º-C)
+Artigo 155.º (ex-artigo 129.º-C)
 
 1 - A fim de realizar os objectivos enunciados no artigo 154.º, a Comunidade:
 
@@ -5692,17 +5706,17 @@ A acção da Comunidade terá em conta a potencial viabilidade económica dos pr
 
 3 - A Comunidade pode decidir cooperar com países terceiros para promover projectos de interesse comum e assegurar a interoperabilidade das redes.
 
-###### Artigo 156.º (ex-artigo 129.º-D)
+Artigo 156.º (ex-artigo 129.º-D)
 
 As orientações a que se refere o n.º 1 do artigo 155.º serão adoptadas pelo Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º, e após consulta do Comité Económico e Social e do Comité das Regiões.
 
 As orientações e projectos de interesse comum que digam respeito ao território de um Estado membro exigem a aprovação desse Estado membro.
 
-## TÍTULO XVI (ex-título XIII)
+TÍTULO XVI (ex-título XIII)
 
 Indústria
 
-###### Artigo 157.º (ex-artigo 130.º)
+Artigo 157.º (ex-artigo 130.º)
 
 1 - A Comunidade e os Estados membros zelarão por que sejam asseguradas as condições necessárias ao desenvolvimento da capacidade concorrencial da indústria da Comunidade.
 
@@ -5722,17 +5736,17 @@ Para o efeito, e no âmbito de um sistema de mercados abertos e concorrenciais, 
 
 A Comunidade não pode invocar o presente título para introduzir quaisquer medidas que possam conduzir a distorções de concorrência.
 
-## TÍTULO XVII (ex-título XIV)
+TÍTULO XVII (ex-título XIV)
 
 Coesão económica e social
 
-###### Artigo 158.º (ex-artigo 130.º-A)
+Artigo 158.º (ex-artigo 130.º-A)
 
 A fim de promover um desenvolvimento harmonioso do conjunto da Comunidade, esta desenvolverá e prosseguirá a sua acção no sentido de reforçar a sua coesão económica e social.
 
 Em especial, a Comunidade procurará reduzir a disparidade entre os níveis de desenvolvimento das diversas regiões e o atraso das regiões e das ilhas menos favorecidas, incluindo as zonas rurais.
 
-###### Artigo 159.º (ex-artigo 130.º-B)
+Artigo 159.º (ex-artigo 130.º-B)
 
 Os Estados membros conduzirão e coordenarão as suas políticas económicas tendo igualmente em vista atingir os objectivos enunciados no artigo 158.º A formulação e a concretização das políticas e acções da Comunidade, bem como a realização do mercado interno, terão em conta os objectivos enunciados no artigo 158.º e contribuirão para a sua realização. A Comunidade apoiará igualmente a realização desses objectivos pela acção por si desenvolvida através dos fundos com finalidade estrutural (Fundo Europeu de Orientação e de Garantia Agrícola, Secção Orientação; Fundo Social Europeu; Fundo Europeu de Desenvolvimento Regional), do Banco Europeu de Investimento e dos demais instrumentos financeiros existentes.
 
@@ -5740,27 +5754,27 @@ De três em três anos, a Comissão apresentará ao Parlamento Europeu, ao Conse
 
 Se se verificar a necessidade de acções específicas não inseridas no âmbito dos fundos, e sem prejuízo das medidas decididas no âmbito das outras políticas da Comunidade, essas acções podem ser aprovadas pelo Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, do Comité Económico e Social e do Comité das Regiões.
 
-###### Artigo 160.º (ex-artigo 130.º-C)
+Artigo 160.º (ex-artigo 130.º-C)
 
 O Fundo Europeu de Desenvolvimento Regional tem por objectivo contribuir para a correcção dos principais desequilíbrios regionais da Comunidade através de uma participação no desenvolvimento e no ajustamento estrutural das regiões menos desenvolvidas e na reconversão das regiões industriais em declínio.
 
-###### Artigo 161.º (ex-artigo 130.º-D)
+Artigo 161.º (ex-artigo 130.º-D)
 
 Sem prejuízo do disposto no artigo 162.º, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após parecer favorável do Parlamento Europeu e consulta do Comité Económico e Social e do Comité das Regiões, definirá as missões, os objectivos prioritários e a organização dos fundos com finalidade estrutural, o que poderá implicar o agrupamento desses fundos. O Conselho, deliberando de acordo com o mesmo procedimento, definirá igualmente as regras gerais que lhes serão aplicáveis, bem como as disposições necessárias para garantir a sua eficácia e a coordenação dos fundos entre si e com os demais instrumentos financeiros existentes.
 
 Um Fundo de Coesão, criado pelo Conselho segundo o mesmo procedimento, que contribuirá financeiramente para a realização de projectos nos domínios do ambiente e das redes transeuropeias em matéria de infra-estruturas de transportes.
 
-###### Artigo 162.º (ex-artigo 130.º-E)
+Artigo 162.º (ex-artigo 130.º-E)
 
 As decisões de aplicação relativas ao Fundo Europeu de Desenvolvimento Regional serão tomadas pelo Conselho, nos termos do artigo 251.º e após consulta ao Comité Económico e Social e ao Comité das Regiões.
 
 No que diz respeito ao Fundo Europeu de Orientação e de Garantia Agrícola, Secção Orientação, e ao Fundo Social Europeu, continuam a ser-lhes aplicáveis, respectivamente, os artigos 37.º e 148.º
 
-## TÍTULO XVIII (ex-título XV)
+TÍTULO XVIII (ex-título XV)
 
 Investigação e desenvolvimento tecnológico
 
-###### Artigo 163.º (ex-artigo 130.º-F)
+Artigo 163.º (ex-artigo 130.º-F)
 
 1 - A Comunidade tem por objectivo reforçar as bases científicas e tecnológicas da indústria comunitária e fomentar o desenvolvimento da sua capacidade concorrencial internacional, bem como promover as acções de investigação consideradas necessárias ao abrigo de outros capítulos do presente Tratado.
 
@@ -5768,7 +5782,7 @@ Investigação e desenvolvimento tecnológico
 
 3 - Todas as acções da Comunidade empreendidas ao abrigo do presente Tratado, incluindo os projectos de demonstração, no domínio da investigação e do desenvolvimento tecnológico serão decididas e realizadas de acordo com as disposições do presente título.
 
-###### Artigo 164.º (ex-artigo 130.º-G)
+Artigo 164.º (ex-artigo 130.º-G)
 
 Na prossecução destes objectivos, a Comunidade desenvolverá as seguintes acções, que serão complementares das empreendidas nos Estados membros:
 
@@ -5780,13 +5794,13 @@ c) Difusão e valorização dos resultados das actividades em matéria de invest
 
 d) Incentivo à formação e à mobilidade dos investigadores da Comunidade.
 
-###### Artigo 165.º (ex-artigo 130.º-H)
+Artigo 165.º (ex-artigo 130.º-H)
 
 1 - A Comunidade e os Estados membros coordenarão a sua acção em matéria de investigação e de desenvolvimento tecnológico, de forma a assegurar a coerência recíproca das políticas nacionais e da política comunitária.
 
 2 - A Comissão, em estreita colaboração com os Estados membros, pode tomar todas as iniciativas adequadas para promover a coordenação a que se refere o número anterior.
 
-###### Artigo 166.º (ex-artigo 130.º-I)
+Artigo 166.º (ex-artigo 130.º-I)
 
 1 - O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social, adoptará um programa quadro plurianual, do qual constarão todas as acções comunitárias.
 
@@ -5804,7 +5818,7 @@ O programa quadro:
 
 4 - Os programas específicos serão adoptados pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão, e após consulta do Parlamento Europeu e do Comité Económico e Social.
 
-###### Artigo 167.º (ex-artigo 130.º-J)
+Artigo 167.º (ex-artigo 130.º-J)
 
 Para a execução do programa quadro plurianual, o Conselho:
 
@@ -5812,41 +5826,41 @@ Para a execução do programa quadro plurianual, o Conselho:
 
 - fixará as regras aplicáveis à difusão dos resultados da investigação.
 
-###### Artigo 168.º (ex-artigo 130.º-K)
+Artigo 168.º (ex-artigo 130.º-K)
 
 Na execução do programa quadro plurianual, pode ser decidido adoptar programas complementares em que apenas participarão alguns Estados membros que assegurem o seu financiamento, sem prejuízo da eventual participação da Comunidade.
 
 O Conselho adoptará as regras aplicáveis aos programas complementares, nomeadamente em matéria de difusão dos conhecimentos e de acesso de outros Estados membros.
 
-###### Artigo 169.º (ex-artigo 130.º-L)
+Artigo 169.º (ex-artigo 130.º-L)
 
 Na execução do programa quadro plurianual, a Comunidade pode prever, com o acordo dos Estados membros interessados, a participação em programas de investigação e de desenvolvimento empreendidos por vários Estados membros, incluindo a participação nas estruturas criadas para a execução desses programas.
 
-###### Artigo 170.º (ex-artigo 130.º-M)
+Artigo 170.º (ex-artigo 130.º-M)
 
 Na execução do programa quadro plurianual, a Comunidade pode prever a cooperação em matéria de investigação, de desenvolvimento tecnológico e de demonstração comunitários com países terceiros ou organizações internacionais.
 
 As formas dessa cooperação podem ser objecto de acordos entre a Comunidade e as partes terceiras interessadas, que serão negociados e celebrados nos termos do artigo 300.º
 
-###### Artigo 171.º (ex-artigo 130.º-N)
+Artigo 171.º (ex-artigo 130.º-N)
 
 A Comunidade pode criar empresas comuns ou quaisquer outras estruturas necessárias à boa execução dos programas de investigação, de desenvolvimento tecnológico e de demonstração comunitários.
 
-###### Artigo 172.º (ex-artigo 130.º-O)
+Artigo 172.º (ex-artigo 130.º-O)
 
 O Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta ao Parlamento Europeu e ao Comité Económico e Social, adoptará as disposições a que se refere o artigo 171.º
 
 O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social, adoptará as disposições a que se referem os artigos 167.º, 168.º e 169.º A adopção dos programas complementares requer o acordo dos Estados membros interessados.
 
-###### Artigo 173.º (ex-artigo 130.º-P)
+Artigo 173.º (ex-artigo 130.º-P)
 
 No início de cada ano, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho. Esse relatório incidirá nomeadamente sobre as actividades desenvolvidas em matéria de investigação e de desenvolvimento tecnológico e de difusão dos resultados durante o ano anterior e sobre o programa de trabalhos para o ano em curso.
 
-## TÍTULO XIX (ex-título XVI)
+TÍTULO XIX (ex-título XVI)
 
 Ambiente
 
-###### Artigo 174.º (ex-artigo 130.º-R)
+Artigo 174.º (ex-artigo 130.º-R)
 
 1 - A política da Comunidade no domínio do ambiente contribuirá para a prossecução dos seguintes objectivos:
 
@@ -5876,7 +5890,7 @@ Neste contexto, as medidas de harmonização destinadas a satisfazer exigências
 
 O disposto no parágrafo anterior não prejudica a capacidade dos Estados membros para negociar nas instâncias internacionais e celebrar acordos internacionais.
 
-###### Artigo 175.º (ex-artigo 130.º-S)
+Artigo 175.º (ex-artigo 130.º-S)
 
 1 - O Conselho, deliberando nos termos do artigo 251.º e após consulta ao Comité Económico e Social e ao Comité das Regiões, adoptará as acções a empreender pela Comunidade para realizar os objectivos previstos no artigo 174.º
 
@@ -5902,15 +5916,15 @@ O Conselho, deliberando nas condições previstas no n.º 1 ou no n.º 2, consoa
 
 - um apoio financeiro proveniente do Fundo de Coesão criado nos termos do artigo 161.º
 
-###### Artigo 176.º (ex-artigo 130.º-T)
+Artigo 176.º (ex-artigo 130.º-T)
 
 As medidas de protecção adoptadas por força do artigo 175.º não obstam a que cada Estado membro mantenha ou introduza medidas de protecção reforçadas. Essas medidas devem ser compatíveis com o presente Tratado e serão notificadas à Comissão.
 
-## TÍTULO XX (ex-título XVII)
+TÍTULO XX (ex-título XVII)
 
 Cooperação para o desenvolvimento
 
-###### Artigo 177.º (ex-artigo 130.º-U)
+Artigo 177.º (ex-artigo 130.º-U)
 
 1 - A política da Comunidade em matéria de cooperação para o desenvolvimento, que é complementar das políticas dos Estados membros, deve fomentar:
 
@@ -5924,11 +5938,11 @@ Cooperação para o desenvolvimento
 
 3 - A Comunidade e os Estados membros respeitarão os compromissos e terão em conta os objectivos aprovados no âmbito das Nações Unidas e das demais organizações internacionais competentes.
 
-###### Artigo 178.º (ex-artigo 130.º-V)
+Artigo 178.º (ex-artigo 130.º-V)
 
 A Comunidade terá em conta os objectivos a que se refere o artigo 177.º nas políticas que puser em prática e que sejam susceptíveis de afectar os países em vias de desenvolvimento.
 
-###### Artigo 179.º (ex-artigo 130.º-W)
+Artigo 179.º (ex-artigo 130.º-W)
 
 1 - Sem prejuízo das demais disposições do presente Tratado, o Conselho, deliberando nos termos do artigo 251.º, adoptará as medidas necessárias para a prossecução dos objectivos a que se refere o artigo 177.º Essas medidas podem revestir a forma de programas plurianuais.
 
@@ -5936,21 +5950,21 @@ A Comunidade terá em conta os objectivos a que se refere o artigo 177.º nas po
 
 3 - O disposto no presente artigo não afecta a cooperação com os países de África, das Caraíbas e do Pacífico, no âmbito da Convenção ACP-CE.
 
-###### Artigo 180.º (ex-artigo 130.º-X)
+Artigo 180.º (ex-artigo 130.º-X)
 
 1 - A Comunidade e os Estados membros coordenarão as respectivas políticas em matéria de cooperação para o desenvolvimento e concertar-se-ão sobre os seus programas de ajuda, inclusivamente nas organizações internacionais e no decorrer de conferências internacionais. Podem empreender acções conjuntas. Os Estados membros contribuirão, se necessário, para a execução dos programas de ajuda comunitários.
 
 2 - A Comissão pode tomar todas as iniciativas necessárias para promover a coordenação a que se refere o número anterior.
 
-###### Artigo 181.º (ex-artigo 130.º-Y)
+Artigo 181.º (ex-artigo 130.º-Y)
 
 No âmbito das respectivas competências, a Comunidade e os Estados membros cooperarão com os países terceiros e as organizações internacionais competentes. As formas de cooperação da Comunidade podem ser objecto de acordos entre esta e as partes terceiras interessadas, os quais serão negociados e celebrados nos termos do artigo 300.º
 
 O disposto no parágrafo anterior não prejudica a capacidade dos Estados membros para negociar nas instâncias internacionais e celebrar acordos internacionais.
 
-# PARTE IV — A associação dos países e territórios ultramarinos
+## PARTE IV — A associação dos países e territórios ultramarinos
 
-###### Artigo 182.º (ex-artigo 131.º)
+Artigo 182.º (ex-artigo 131.º)
 
 Os Estados membros acordam em associar à Comunidade os países e territórios não europeus que mantêm relações especiais com a Dinamarca, a França, os Países Baixos e o Reino Unido. Estes países e territórios, a seguir denominados «países e territórios», vêm enumerados na lista constante do anexo II do presente Tratado.
 
@@ -5958,7 +5972,7 @@ A finalidade da associação é promover o desenvolvimento económico e social d
 
 Em conformidade com os princípios enunciados no preâmbulo do presente Tratado, a associação deve servir, fundamentalmente, para favorecer os interesses dos habitantes desses países e territórios e para fomentar a sua prosperidade de modo a conduzi-los ao desenvolvimento económico, social e cultural a que aspiram.
 
-###### Artigo 183.º (ex-artigo 132.º)
+Artigo 183.º (ex-artigo 132.º)
 
 A associação prosseguirá os seguintes objectivos:
 
@@ -5972,7 +5986,7 @@ A associação prosseguirá os seguintes objectivos:
 
 5) Nas relações entre os Estados membros e os países e territórios, o direito de estabelecimento dos nacionais e sociedades será regulado em conformidade com as disposições e pela aplicação dos procedimentos previstos no capítulo relativo ao direito de estabelecimento e numa base não discriminatória, sem prejuízo das disposições especiais adoptadas por força do artigo 187.º
 
-###### Artigo 184.º (ex-artigo 133.º)
+Artigo 184.º (ex-artigo 133.º)
 
 1 - As importações originárias dos países e territórios beneficiarão, ao entrarem nos Estados membros, da proibição dos direitos aduaneiros que, nos termos do presente Tratado, se deve proibir entre os Estados membros.
 
@@ -5986,23 +6000,23 @@ Estes direitos não podem exceder aqueles que incidam sobre as importações dos
 
 5 - A introdução ou modificação de direitos aduaneiros que incidem sobre as mercadorias importadas pelos países e territórios não deve originar, de direito ou de facto, qualquer discriminação directa ou indirecta entre as importações provenientes dos diversos Estados membros.
 
-###### Artigo 185.º (ex-artigo 134.º)
+Artigo 185.º (ex-artigo 134.º)
 
 Se o nível dos direitos aplicáveis às mercadorias provenientes de um país terceiro, ao entrarem num país ou território, for, em consequência da aplicação do n.º 1 do artigo 184.º, de ordem a provocar desvios de tráfego em prejuízo de qualquer Estado membro, este pode pedir à Comissão que proponha aos outros Estados membros as medidas necessárias para sanarem tal situação.
 
-###### Artigo 186.º (ex-artigo 135.º)
+Artigo 186.º (ex-artigo 135.º)
 
 Sem prejuízo das disposições respeitantes à saúde pública, segurança pública e ordem pública, a liberdade de circulação dos trabalhadores dos países e territórios nos Estados membros e a dos trabalhadores dos Estados membros nos países e territórios será regulada mediante convenções a concluir posteriormente, para as quais se exige a unanimidade dos Estados membros.
 
-###### Artigo 187.º (ex-artigo 136.º)
+Artigo 187.º (ex-artigo 136.º)
 
 O Conselho, deliberando por unanimidade, aprovará, a partir dos resultados conseguidos no âmbito da associação entre os países e territórios e a Comunidade e com base nos princípios enunciados no presente Tratado, as disposições relativas às modalidades e ao processo de associação entre os países e territórios e a Comunidade.
 
-###### Artigo 188.º (ex-artigo 136.º-A)
+Artigo 188.º (ex-artigo 136.º-A)
 
 As disposições dos artigos 182.º a 187.º são aplicáveis à Gronelândia, sem prejuízo das disposições específicas para a Gronelândia constantes do Protocolo Relativo ao Regime Especial Aplicável à Gronelândia, anexo ao presente Tratado.
 
-# PARTE V — As instituições da Comunidade
+## PARTE V — As instituições da Comunidade
 
 ## TÍTULO I — Disposições institucionais
 
@@ -6010,13 +6024,13 @@ As disposições dos artigos 182.º a 187.º são aplicáveis à Gronelândia, s
 
 #### SECÇÃO 1 — O Parlamento Europeu
 
-###### Artigo 189.º (ex-artigo 137.º)
+Artigo 189.º (ex-artigo 137.º)
 
 O Parlamento Europeu, composto por representantes dos povos dos Estados reunidos na Comunidade, exerce os poderes que lhe são atribuídos pelo presente Tratado.
 
 O número de deputados do Parlamento Europeu não será superior a 700.
 
-###### Artigo 190.º (ex-artigo 138.º)
+Artigo 190.º (ex-artigo 138.º)
 
 1 - Os representantes ao Parlamento Europeu dos povos dos Estados reunidos na Comunidade são eleitos por sufrágio universal directo.
 
@@ -6062,17 +6076,17 @@ O Conselho, deliberando por unanimidade, após parecer favorável do Parlamento 
 
 5 - O Parlamento Europeu estabelecerá o estatuto e as condições gerais de exercício das funções dos seus membros, após parecer da Comissão e mediante aprovação do Conselho, deliberando por unanimidade.
 
-###### Artigo 191.º (ex-artigo 138.º-A)
+Artigo 191.º (ex-artigo 138.º-A)
 
 Os partidos políticos ao nível europeu desempenham um importante papel como factor de integração na União. Contribuem para a criação de uma consciência europeia e para a expressão da vontade política dos cidadãos da União.
 
-###### Artigo 192.º (ex-artigo 138.º-B)
+Artigo 192.º (ex-artigo 138.º-B)
 
 Na medida em que o presente Tratado o prevê, o Parlamento Europeu participa no processo conducente à adopção dos actos comunitários, exercendo as suas atribuições no âmbito dos procedimentos definidos nos artigos 251.º e 252.º e emitindo pareceres favoráveis ou formulando pareceres consultivos.
 
 O Parlamento Europeu pode, por maioria dos seus membros, solicitar à Comissão que submeta à sua apreciação todas as propostas adequadas sobre as questões que se lhe afigure requererem a elaboração de actos comunitários para efeitos de aplicação do presente Tratado.
 
-###### Artigo 193.º (ex-artigo 138.º-C)
+Artigo 193.º (ex-artigo 138.º-C)
 
 No exercício das suas atribuições, o Parlamento Europeu pode, a pedido de um quarto dos seus membros, constituir uma comissão de inquérito temporária para analisar, sem prejuízo das atribuições conferidas pelo presente Tratado a outras instituições ou órgãos, alegações de infracção ou de má administração na aplicação do direito comunitário, excepto se os factos alegados estiverem em instância numa jurisdição, e enquanto o processo jurisdicional não se encontrar concluído.
 
@@ -6080,11 +6094,11 @@ A Comissão de inquérito temporária extingue-se com a apresentação do seu re
 
 As formas de exercício do direito de inquérito são determinadas de comum acordo pelo Parlamento Europeu, pelo Conselho e pela Comissão.
 
-###### Artigo 194.º (ex-artigo 138.º-D)
+Artigo 194.º (ex-artigo 138.º-D)
 
 Qualquer cidadão da União, bem como qualquer outra pessoa singular ou colectiva com residência ou sede estatutária num Estado membro, tem o direito de apresentar, a título individual ou em associação com outros cidadãos ou pessoas, petições ao Parlamento Europeu sobre qualquer questão que se integre nos domínios de actividade da Comunidade e lhe diga directamente respeito.
 
-###### Artigo 195.º (ex-artigo 138.º-E)
+Artigo 195.º (ex-artigo 138.º-E)
 
 1 - O Parlamento Europeu nomeará um Provedor de Justiça, com poderes para receber queixas apresentadas por qualquer cidadão da União ou qualquer pessoa singular ou colectiva com residência ou sede estatutária num Estado membro e respeitantes a casos de má administração na actuação das instituições ou organismos comunitários, com excepção do Tribunal de Justiça e do Tribunal de 1.ª Instância no exercício das respectivas funções jurisdicionais.
 
@@ -6100,13 +6114,13 @@ A pedido do Parlamento Europeu, o Tribunal de Justiça pode demitir o Provedor d
 
 4 - O Parlamento Europeu estabelecerá o estatuto e as condições gerais de exercício das funções do Provedor de Justiça, após parecer da Comissão e com aprovação do Conselho, deliberando por maioria qualificada.
 
-###### Artigo 196.º (ex-artigo 139.º)
+Artigo 196.º (ex-artigo 139.º)
 
 O Parlamento Europeu realiza uma sessão anual, reunindo-se por direito próprio na segunda terça-feira de Março.
 
 O Parlamento Europeu pode reunir-se em sessão extraordinária, a pedido da maioria dos seus membros, do Conselho ou da Comissão.
 
-###### Artigo 197.º (ex-artigo 140.º)
+Artigo 197.º (ex-artigo 140.º)
 
 O Parlamento Europeu designa, de entre os seus membros, o Presidente e a Mesa.
 
@@ -6116,23 +6130,23 @@ A Comissão responderá, oralmente ou por escrito, às questões que lhe forem c
 
 O Conselho será ouvido pelo Parlamento Europeu nas condições por ele estabelecidas no seu regulamento interno.
 
-###### Artigo 198.º (ex-artigo 141.º)
+Artigo 198.º (ex-artigo 141.º)
 
 Salvo disposição em contrário do presente Tratado, o Parlamento Europeu delibera por maioria absoluta dos votos expressos.
 
 O regulamento interno fixará o quórum.
 
-###### Artigo 199.º (ex-artigo 142.º)
+Artigo 199.º (ex-artigo 142.º)
 
 O Parlamento Europeu estabelecerá o seu regulamento interno por maioria dos membros que o compõem.
 
 As actas do Parlamento Europeu serão publicadas nas condições previstas no regulamento.
 
-###### Artigo 200.º (ex-artigo 143.º)
+Artigo 200.º (ex-artigo 143.º)
 
 O Parlamento Europeu discutirá em sessão pública o relatório geral anual que lhe é submetido pela Comissão.
 
-###### Artigo 201.º (ex-artigo 144.º)
+Artigo 201.º (ex-artigo 144.º)
 
 Quando uma moção de censura sobre as actividades da Comissão for submetida à apreciação pelo Parlamento Europeu, este só pode pronunciar-se sobre ela por votação pública e depois de decorridos pelo menos três dias sobre o depósito da referida moção.
 
@@ -6140,7 +6154,7 @@ Se a moção de censura for adoptada por maioria de dois terços dos votos expre
 
 #### SECÇÃO 2 — O Conselho
 
-###### Artigo 202.º (ex-artigo 145.º)
+Artigo 202.º (ex-artigo 145.º)
 
 Tendo em vista garantir a realização dos objectivos enunciados no presente Tratado e nas condições nele previstas, o Conselho:
 
@@ -6150,17 +6164,17 @@ Tendo em vista garantir a realização dos objectivos enunciados no presente Tra
 
 - atribui à Comissão, nos actos que adopta, as competências de execução das normas que estabelece. O Conselho pode submeter o exercício dessas competências a certas modalidades. O Conselho pode igualmente reservar-se, em casos específicos, o direito de exercer directamente competências de execução. As modalidades acima referidas devem corresponder aos princípios e normas que o Conselho, deliberando por unanimidade, sob proposta da Comissão e após parecer do Parlamento Europeu, tenha estabelecido previamente.
 
-###### Artigo 203.º (ex-artigo 146.º)
+Artigo 203.º (ex-artigo 146.º)
 
 O Conselho é composto por um representante de cada Estado membro a nível ministerial, com poderes para vincular o governo desse Estado membro.
 
 A Presidência é exercida sucessivamente por cada Estado membro no Conselho, durante um período de seis meses, pela ordem decidida pelo Conselho, deliberando por unanimidade.
 
-###### Artigo 204.º (ex-artigo 147.º)
+Artigo 204.º (ex-artigo 147.º)
 
 O Conselho reúne-se por convocação do seu Presidente, por iniciativa deste, de um dos seus membros ou da Comissão.
 
-###### Artigo 205.º (ex-artigo 148.º)
+Artigo 205.º (ex-artigo 148.º)
 
 1 - Salvo disposição em contrário do presente Tratado, as deliberações do Conselho são tomadas por maioria dos seus membros.
 
@@ -6204,11 +6218,11 @@ As deliberações são tomadas se obtiverem pelo menos:
 
 3 - As abstenções dos membros presentes ou representados não impedem que sejam tomadas as deliberações do Conselho que exijam unanimidade.
 
-###### Artigo 206.º (ex-artigo 150.º)
+Artigo 206.º (ex-artigo 150.º)
 
 Em caso de votação, cada membro do Conselho só pode representar, por delegação, um dos outros membros.
 
-###### Artigo 207.º (ex-artigo 151.º)
+Artigo 207.º (ex-artigo 151.º)
 
 1 - Um comité, composto pelos representantes permanentes dos Estados membros, prepara os trabalhos do Conselho e exerce os mandatos que este lhe confia. O comité pode adoptar decisões de natureza processual nos casos previstos no regulamento interno do Conselho.
 
@@ -6220,21 +6234,21 @@ O Conselho decide sobre a organização do Secretariado-Geral.
 
 Para efeitos de aplicação do n.º 3 do artigo 255.º, o Conselho estabelecerá no seu regulamento interno as condições de acesso por parte do público aos documentos do Conselho. Para efeitos do presente número, o Conselho determinará os casos em que se deve considerar que actua no exercício dos seus poderes legislativos, a fim de possibilitar um maior acesso aos documentos nesses casos, preservando simultaneamente a eficácia do seu processo decisório. De qualquer modo, sempre que o Conselho actue no exercício de poderes legislativos, os resultados das votações e as declarações de voto, bem como as declarações exaradas em acta, serão tornados públicos.
 
-###### Artigo 208.º (ex-artigo 152.º)
+Artigo 208.º (ex-artigo 152.º)
 
 O Conselho pode solicitar à Comissão que proceda a todos os estudos que ele considere oportunos para realização dos objectivos comuns e que lhe submeta todas as propostas adequadas.
 
-###### Artigo 209.º (ex-artigo 153.º)
+Artigo 209.º (ex-artigo 153.º)
 
 O Conselho estabelecerá, após parecer da Comissão, os estatutos dos comités previstos no presente Tratado.
 
-###### Artigo 210.º (ex-artigo 154.º)
+Artigo 210.º (ex-artigo 154.º)
 
 O Conselho, deliberando por maioria qualificada, fixa os vencimentos, subsídios, abonos e pensões do presidente e dos membros da Comissão, e ainda do Presidente, dos juízes, dos advogados-gerais e do escrivão do Tribunal de Justiça. O Conselho fixa, igualmente por maioria qualificada, todos os subsídios e abonos que substituam a remuneração.
 
 #### SECÇÃO 3 — A Comissão
 
-###### Artigo 211.º (ex-artigo 155.º)
+Artigo 211.º (ex-artigo 155.º)
 
 A fim de garantir o funcionamento e o desenvolvimento do mercado comum, a Comissão:
 
@@ -6246,11 +6260,11 @@ A fim de garantir o funcionamento e o desenvolvimento do mercado comum, a Comiss
 
 - exerce a competência que o Conselho lhe atribua para a execução das regras por ele estabelecidas.
 
-###### Artigo 212.º (ex-artigo 156.º)
+Artigo 212.º (ex-artigo 156.º)
 
 A Comissão publicará anualmente, pelo menos um mês antes da abertura da sessão do Parlamento Europeu, um relatório geral sobre as actividades da Comunidade.
 
-###### Artigo 213.º (ex-artigo 157.º)
+Artigo 213.º (ex-artigo 157.º)
 
 1 - A Comissão é composta por 20 membros, escolhidos em função da sua competência geral e que ofereçam todas as garantias de independência.
 
@@ -6266,7 +6280,7 @@ No cumprimento dos seus deveres, não solicitarão nem aceitarão instruções d
 
 Enquanto durarem as suas funções, os membros da Comissão não podem exercer qualquer outra actividade profissional, remunerada ou não. Além disso, assumirão, no momento da posse, o compromisso solene de respeitar, durante o exercício das suas funções e após a cessação destas, os deveres decorrentes do cargo, nomeadamente os de honestidade e discrição, relativamente à aceitação, após aquela cessação, de determinadas funções ou benefícios. Se estes deveres não forem respeitados, pode o Tribunal de Justiça, a pedido do Conselho ou da Comissão, conforme o caso, ordenar a demissão compulsiva do membro em causa, nos termos do artigo 216.º, ou a perda do seu direito a pensão ou de quaisquer outros benefícios que a susbstituam.
 
-###### Artigo 214.º (ex-artigo 158.º)
+Artigo 214.º (ex-artigo 158.º)
 
 1 - Os membros da Comissão são nomeados segundo o procedimento previsto no n.º 2, por um período de cinco anos, sem prejuízo da eventual aplicação do disposto no artigo 201.º
 
@@ -6276,9 +6290,9 @@ Podem ser reconduzidos nas suas funções.
 
 Os governos e os Estados membros designam, de comum acordo com o Presidente designado, as outras personalidades que tencionam nomear membros da Comissão.
 
-**O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.**
+O Presidente e os demais membros da Comissão assim designados são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Após a aprovação do Parlamento Europeu, o Presidente e os demais membros da Comissão são nomeados, de comum acordo, pelos governos dos Estados membros.
 
-###### Artigo 215.º (ex-artigo 159.º)
+Artigo 215.º (ex-artigo 159.º)
 
 Para além das substituições normais e dos casos de morte, as funções de membro da Comissão cessam individualmente por demissão voluntária ou compulsiva.
 
@@ -6288,21 +6302,21 @@ Em caso de demissão ou morte, o Presidente é substituído pelo tempo que falta
 
 Excepto no caso de demissão compulsiva previsto no artigo 216.º, os membros da Comissão permanecem em funções até serem substituídos.
 
-###### Artigo 216.º (ex-artigo 160.º)
+Artigo 216.º (ex-artigo 160.º)
 
 Qualquer membro da Comissão que deixe de preencher os requisitos necessários ao exercício das suas funções ou tenha cometido falta grave pode ser demitido pelo Tribunal de Justiça, a pedido do Conselho ou da Comissão.
 
-###### Artigo 217.º (ex-artigo 161.º)
+Artigo 217.º (ex-artigo 161.º)
 
 A Comissão pode nomear, de entre os seus membros, um ou dois Vice-Presidentes.
 
-###### Artigo 218.º (ex-artigo 162.º)
+Artigo 218.º (ex-artigo 162.º)
 
 1 - O Conselho e a Comissão procederão a consultas recíprocas, organizando, de comum acordo, as modalidades da sua colaboração.
 
 2 - A Comissão estabelece o seu regulamento interno, de forma a garantir o seu próprio funcionamento e o dos seus serviços, nas condições previstas no presente Tratado. A Comissão assegura a publicação desse regulamento interno.
 
-###### Artigo 219.º (ex-artigo 163.º)
+Artigo 219.º (ex-artigo 163.º)
 
 A Comissão actuará sob a orientação política do seu Presidente.
 
@@ -6312,11 +6326,11 @@ A Comissão só pode reunir-se validamente se estiver presente o número de memb
 
 #### SECÇÃO 4 — O Tribunal de Justiça
 
-###### Artigo 220.º (ex-artigo 164.º)
+Artigo 220.º (ex-artigo 164.º)
 
 O Tribunal de Justiça garante o respeito do direito na interpretação e aplicação do presente Tratado.
 
-###### Artigo 221.º (ex-artigo 165.º)
+Artigo 221.º (ex-artigo 165.º)
 
 O Tribunal de Justiça é composto por 15 juízes.
 
@@ -6326,7 +6340,7 @@ O Tribunal de Justiça reúne-se em sessão plenária sempre que um Estado membr
 
 Se o Tribunal de Justiça lho solicitar, o Conselho, deliberando por unanimidade, pode aumentar o número de juízes e proceder às necessárias adaptações do segundo e terceiro parágrafos do presente artigo e do segundo parágrafo do artigo 223.º
 
-###### Artigo 222.º (ex-artigo 166.º)
+Artigo 222.º (ex-artigo 166.º)
 
 O Tribunal de Justiça é assistido por oito advogados-gerais. Contudo, a partir de 1 de Janeiro de 1995, será nomeado um 9.º advogado-geral até 6 de Outubro de 2000.
 
@@ -6334,7 +6348,7 @@ Ao advogado-geral cabe apresentar publicamente, com toda a imparcialidade e inde
 
 Se o Tribunal de Justiça lho solicitar, o Conselho, deliberando por unanimidade, pode aumentar o número de advogados-gerais e proceder às necessárias adaptações do terceiro parágrafo do artigo 223.º
 
-###### Artigo 223.º (ex-artigo 167.º)
+Artigo 223.º (ex-artigo 167.º)
 
 Os juízes e os advogados-gerais, escolhidos de entre personalidades que ofereçam todas as garantias de independência e reúnam as condições exigidas, nos respectivos países, para o exercício das mais altas funções jurisdicionais, ou que sejam jurisconsultos de reconhecida competência, são nomeados, de comum acordo, pelos governos dos Estados membros, por um período de seis anos.
 
@@ -6346,11 +6360,11 @@ Os juízes e os advogados-gerais cessantes podem ser nomeados de novo.
 
 Os juízes designam de entre si, por um período de três anos, o Presidente do Tribunal de Justiça, que pode ser reeleito.
 
-###### Artigo 224.º (ex-artigo 168.º)
+Artigo 224.º (ex-artigo 168.º)
 
 O Tribunal de Justiça nomeia o seu escrivão e estabelece o respectivo estatuto.
 
-###### Artigo 225.º (ex-artigo 168.º-A)
+Artigo 225.º (ex-artigo 168.º-A)
 
 1 - É associada ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições estabelecidas pelo respectivo estatuto, de certas categorias de acções determinadas nas condições definidas no n.º 2. O Tribunal de 1.ª Instância não tem competência para conhecer das questões prejudiciais submetidas nos termos do artigo 234.º
 
@@ -6360,13 +6374,13 @@ O Tribunal de Justiça nomeia o seu escrivão e estabelece o respectivo estatuto
 
 4 - O Tribunal de 1.ª Instância estabelece o respectivo regulamento processual de comum acordo com o Tribunal de Justiça. Esse regulamento será submetido à aprovação unânime do Conselho.
 
-###### Artigo 226.º (ex-artigo 169.º)
+Artigo 226.º (ex-artigo 169.º)
 
 Se a Comissão considerar que um Estado membro não cumpriu qualquer das obrigações que lhe incumbem por força do presente Tratado, formulará um parecer fundamentado sobre o assunto, após ter dado a esse Estado oportunidade de apresentar as suas observações.
 
 Se o Estado em causa não proceder em conformidade com este parecer no prazo fixado pela Comissão, esta pode recorrer ao Tribunal de Justiça.
 
-###### Artigo 227.º (ex-artigo 170.º)
+Artigo 227.º (ex-artigo 170.º)
 
 Qualquer Estado membro pode recorrer ao Tribunal de Justiça, se considerar que o outro Estado membro não cumpriu qualquer das obrigações que lhe incumbem por força do presente Tratado.
 
@@ -6376,7 +6390,7 @@ A Comissão formulará um parecer fundamentado, depois de os Estados interessado
 
 Se a Comissão não tiver formulado parecer no prazo de três meses a contar da data do pedido, a falta de parecer não impede o recurso ao Tribunal de Justiça.
 
-###### Artigo 228.º (ex-artigo 171.º)
+Artigo 228.º (ex-artigo 171.º)
 
 1 - Se o Tribunal de Justiça declarar verificado que um Estado membro não cumpriu qualquer das obrigações que lhe incumbem por força do presente Tratado, esse Estado deve tomar as medidas necessárias à execução do acórdão do Tribunal de Justiça.
 
@@ -6388,11 +6402,11 @@ Se o Tribunal de Justiça declarar verificado que o Estado membro em causa não 
 
 Este procedimento não prejudica o disposto no artigo 227.º
 
-###### Artigo 229.º (ex-artigo 172.º)
+Artigo 229.º (ex-artigo 172.º)
 
 No que respeita às sanções neles previstas, os regulamentos adoptados em conjunto pelo Parlamento Europeu e pelo Conselho, por força das disposições do presente Tratado, podem atribuir plena jurisdição ao Tribunal de Justiça.
 
-###### Artigo 230.º (ex-artigo 173.º)
+Artigo 230.º (ex-artigo 173.º)
 
 O Tribunal de Justiça fiscaliza a legalidade dos actos adoptados em conjunto pelo Parlamento Europeu e pelo Conselho, dos actos do Conselho, da Comissão e do BCE, que não sejam recomendações ou pareceres, e dos actos do Parlamento Europeu destinados a produzir efeitos jurídicos em relação a terceiros.
 
@@ -6404,13 +6418,13 @@ Qualquer pessoa singular ou colectiva pode interpor, nas mesmas condições, rec
 
 Os recursos previstos no presente artigo devem ser interpostos no prazo de dois meses a contar, conforme o caso, da publicação do acto, da sua notificação ao recorrente ou, na falta desta, do dia em que o recorrente tenha tomado conhecimento do acto.
 
-###### Artigo 231.º (ex-artigo 174.º)
+Artigo 231.º (ex-artigo 174.º)
 
 Se o recurso tiver fundamento, o Tribunal de Justiça anulará o acto impugnado.
 
 Todavia, no que respeita aos regulamentos, o Tribunal de Justiça indicará, quando o considerar necessário, quais os efeitos do regulamento anulado que se devem considerar subsistentes.
 
-###### Artigo 232.º (ex-artigo 175.º)
+Artigo 232.º (ex-artigo 175.º)
 
 Se, em violação do presente Tratado, o Parlamento Europeu, o Conselho ou a Comissão se abstiverem de pronunciar-se, os Estados membros e as outras instituições da Comunidade podem recorrer ao Tribunal de Justiça para que declare verificada essa violação.
 
@@ -6420,7 +6434,7 @@ Qualquer pessoa singular ou colectiva pode recorrer ao Tribunal de Justiça, nos
 
 O Tribunal de Justiça é competente, nas mesmas condições, para conhecer dos recursos interpostos pelo BCE no domínio das suas atribuições ou das acções contra este intentadas.
 
-###### Artigo 233.º (ex-artigo 176.º)
+Artigo 233.º (ex-artigo 176.º)
 
 A instituição ou as instituições de que emane o acto anulado, ou cuja abstenção tenha sido declarada contrária ao presente Tratado, devem tomar as medidas necessárias à execução do acórdão do Tribunal de Justiça.
 
@@ -6428,7 +6442,7 @@ Esta obrigação não prejudica aquela que decorre da aplicação do segundo par
 
 O presente artigo aplica-se igualmente ao BCE.
 
-###### Artigo 234.º (ex-artigo 177.º)
+Artigo 234.º (ex-artigo 177.º)
 
 O Tribunal de Justiça é competente para decidir, a título prejudicial:
 
@@ -6442,15 +6456,15 @@ Sempre que uma questão desta natureza seja suscitada perante qualquer órgão j
 
 Sempre que uma questão desta natureza seja suscitada em processo pendente perante um órgão jurisdicional nacional cujas decisões não sejam susceptíveis de recurso judicial previsto no direito interno, esse órgão é obrigado a submeter a questão ao Tribunal de Justiça.
 
-###### Artigo 235.º (ex-artigo 178.º)
+Artigo 235.º (ex-artigo 178.º)
 
 O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no segundo parágrafo do artigo 288.º
 
-###### Artigo 236.º (ex-artigo 179.º)
+Artigo 236.º (ex-artigo 179.º)
 
 O Tribunal de Justiça é competente para decidir sobre todo e qualquer litígio entre a Comunidade e os seus agentes, dentro dos limites e condições estabelecidos no estatuto ou decorrentes do regime que a estes é aplicável.
 
-###### Artigo 237.º (ex-artigo 180.º)
+Artigo 237.º (ex-artigo 180.º)
 
 Nos limites a seguir indicados, o Tribunal de Justiça é competente para conhecer dos litígios respeitantes:
 
@@ -6462,35 +6476,35 @@ c) Às deliberações do Conselho de Administração do Banco Europeu de Investi
 
 d) À execução das obrigações resultantes do Tratado e dos Estatutos do SEBC pelos bancos centrais nacionais. O Conselho do BCE disporá, neste contexto, em relação aos bancos centrais nacionais, dos poderes atribuídos à Comissão no artigo 226.º em relação aos Estados membros. Se o Tribunal de Justiça declarar verificado que um banco central nacional não cumpriu qualquer das obrigações que lhe incumbem por força do presente Tratado, esse banco central deve tomar as medidas necessárias à execução do acórdão do Tribunal de Justiça.
 
-###### Artigo 238.º (ex-artigo 181.º)
+Artigo 238.º (ex-artigo 181.º)
 
 O Tribunal de Justiça é competente para decidir com fundamento em cláusula compromissória constante de um contrato de direito público ou de direito privado, celebrado pela Comunidade ou por sua conta.
 
-###### Artigo 239.º (ex-artigo 182.º)
+Artigo 239.º (ex-artigo 182.º)
 
 O Tribunal de Justiça é competente para decidir sobre qualquer diferendo entre os Estados membros, relacionado com o objecto do presente Tratado, se esse diferendo lhe for submetido por compromisso.
 
-###### Artigo 240.º (ex-artigo 183.º)
+Artigo 240.º (ex-artigo 183.º)
 
 Sem prejuízo da competência atribuída ao Tribunal de Justiça pelo presente Tratado, os litígios em que a Comunidade seja parte não ficam, por este motivo, subtraídos à competência dos órgãos jurisdicionais nacionais.
 
-###### Artigo 241.º (ex-artigo 184.º)
+Artigo 241.º (ex-artigo 184.º)
 
 Mesmo depois de decorrido o prazo previsto no quinto parágrafo do artigo 230.º, qualquer parte pode, em caso de litígio que ponha em causa um regulamento adoptado em conjunto pelo Parlamento Europeu e pelo Conselho ou um regulamento do Conselho, da Comissão ou do BCE, recorrer aos meios previstos no segundo parágrafo do artigo 230.º para arguir, no Tribunal de Justiça, a inaplicabilidade desse regulamento.
 
-###### Artigo 242.º (ex-artigo 185.º)
+Artigo 242.º (ex-artigo 185.º)
 
 Os recursos perante o Tribunal de Justiça não têm efeito suspensivo. Todavia, o Tribunal de Justiça pode ordenar a suspensão da execução do acto impugnado, se considerar que as circunstâncias o exigem.
 
-###### Artigo 243.º (ex-artigo 186.º)
+Artigo 243.º (ex-artigo 186.º)
 
 O Tribunal de Justiça, nas causas submetidas à sua apreciação, pode ordenar as medidas provisórias necessárias.
 
-###### Artigo 244.º (ex-artigo 187.º)
+Artigo 244.º (ex-artigo 187.º)
 
 Os acórdãos do Tribunal de Justiça têm força executiva, nos termos do artigo 256.º
 
-###### Artigo 245.º (ex-artigo 188.º)
+Artigo 245.º (ex-artigo 188.º)
 
 O Estatuto do Tribunal de Justiça é fixado em protocolo separado.
 
@@ -6500,11 +6514,11 @@ O Tribunal de Justiça estabelecerá o seu regulamento processual. Este será su
 
 #### SECÇÃO 5 — O Tribunal de Contas
 
-###### Artigo 246.º (ex-artigo 188.º-A)
+Artigo 246.º (ex-artigo 188.º-A)
 
 A fiscalização das contas é efectuada pelo Tribunal de Contas.
 
-###### Artigo 247.º (ex-artigo 188.º-B)
+Artigo 247.º (ex-artigo 188.º-B)
 
 1 - O Tribunal de Contas é composto por 15 membros.
 
@@ -6534,7 +6548,7 @@ Salvo no caso de demissão compulsiva, os membros do Tribunal de Contas permanec
 
 9 - As disposições do Protocolo Relativo aos Privilégios e Imunidades das Comunidades Europeias Aplicáveis aos Juízes do Tribunal de Justiça são igualmente aplicáveis aos membros do Tribunal de Contas.
 
-###### Artigo 248.º (ex-artigo 188.º-C)
+Artigo 248.º (ex-artigo 188.º-C)
 
 1 - O Tribunal de Contas examina as contas da totalidade das receitas e despesas da Comunidade. O Tribunal de Contas examina igualmente as contas da totalidade das receitas e despesas de qualquer organismo criado pela Comunidade, na medida em que o respectivo acto constitutivo não exclua esse exame.
 
@@ -6564,7 +6578,7 @@ O Tribunal de Contas assiste o Parlamento Europeu e o Conselho no exercício da 
 
 ### CAPÍTULO 2 — Disposições comuns a várias instituições
 
-###### Artigo 249.º (ex-artigo 189.º)
+Artigo 249.º (ex-artigo 189.º)
 
 Para o desempenho das suas atribuições e nos termos do presente Tratado, o Parlamento Europeu em conjunto com o Conselho, o Conselho e a Comissão adoptam regulamentos e directivas, tomam decisões e formulam recomendações ou pareceres.
 
@@ -6576,13 +6590,13 @@ A decisão é obrigatória em todos os seus elementos para os destinatários que
 
 As recomendações e os pareceres não são vinculativos.
 
-###### Artigo 250.º (ex-artigo 189.º-A)
+Artigo 250.º (ex-artigo 189.º-A)
 
 1 - Sempre que, por força do presente Tratado, um acto do Conselho seja adoptado sob proposta da Comissão, o Conselho só pode adoptar um acto que constitua alteração dessa proposta deliberando por unanimidade, sem prejuízo do disposto nos n.os 4 e 5 do artigo 251.º
 
 2 - Enquanto o Conselho não tiver deliberado, a Comissão pode alterar a sua proposta em qualquer fase dos procedimentos para a adopção de um acto comunitário.
 
-###### Artigo 251.º (ex-artigo 189.º-B)
+Artigo 251.º (ex-artigo 189.º-B)
 
 1 - Sempre que no presente Tratado se remeta para o presente artigo para a adopção de um acto, aplicar-se-á o processo a seguir enunciado.
 
@@ -6614,7 +6628,7 @@ c) Propuser emendas à posição comum por maioria absoluta dos membros que o co
 
 7 - Os prazos de três meses e de seis semanas a que se refere o presente artigo podem ser prorrogados, respectivamente, por um mês e por duas semanas, no máximo, por iniciativa do Parlamento Europeu ou do Conselho.
 
-###### Artigo 252.º (ex-artigo 189.º-C)
+Artigo 252.º (ex-artigo 189.º-C)
 
 Sempre que no presente Tratado se remeta para o presente artigo para a adopção de um acto, é aplicável o seguinte procedimento:
 
@@ -6640,11 +6654,11 @@ f) Nos casos referidos nas alíneas c), d) e e), o Conselho deve deliberar no pr
 
 g) Os prazos referidos nas alíneas b) e f) podem ser prorrogados por comum acordo entre o Conselho e o Parlamento Europeu, por um mês, no máximo.
 
-###### Artigo 253.º (ex-artigo 190.º)
+Artigo 253.º (ex-artigo 190.º)
 
 Os regulamentos, directivas e decisões adoptados em conjunto pelo Parlamento Europeu e pelo Conselho, e esses mesmos actos adoptados pelo Conselho e pela Comissão serão fundamentados e referir-se-ão às propostas ou pareceres obrigatoriamente obtidos por força do presente Tratado.
 
-###### Artigo 254.º (ex-artigo 191.º)
+Artigo 254.º (ex-artigo 191.º)
 
 1 - Os regulamentos, directivas e decisões adoptados de acordo com o procedimento a que se refere o artigo 251.º são assinados pelo Presidente do Parlamento Europeu e pelo Presidente do Conselho e publicados no Jornal Oficial das Comunidades Europeias, entrando em vigor na data por eles fixada ou, na falta desta, no 20.º dia seguinte ao da publicação.
 
@@ -6652,7 +6666,7 @@ Os regulamentos, directivas e decisões adoptados em conjunto pelo Parlamento Eu
 
 3 - As outras directivas, bem como as decisões, são notificadas aos respectivos destinatários produzindo efeitos mediante essa notificação.
 
-###### Artigo 255.º (ex-artigo 191.º-A)
+Artigo 255.º (ex-artigo 191.º-A)
 
 1 - Todos os cidadãos da União e todas as pessoas singulares ou colectivas que residam ou tenham a sua sede social num Estado membro têm direito de acesso aos documentos do Parlamento Europeu, do Conselho e da Comissão, sob reserva dos princípios e condições a definir nos termos dos n.os 2 e 3.
 
@@ -6660,7 +6674,7 @@ Os regulamentos, directivas e decisões adoptados em conjunto pelo Parlamento Eu
 
 3 - Cada uma das citadas instituições estabelecerá, no respectivo regulamento interno, disposições específicas sobre o acesso aos seus documentos.
 
-###### Artigo 256.º (ex-artigo 192.º)
+Artigo 256.º (ex-artigo 192.º)
 
 As decisões do Conselho ou da Comissão que imponham uma obrigação pecuniária a pessoas que não sejam Estados constituem título executivo.
 
@@ -6672,13 +6686,13 @@ A execução só pode ser suspensa por força de uma decisão do Tribunal de Jus
 
 ### CAPÍTULO 3 — O Comité Económico e Social
 
-###### Artigo 257.º (ex-artigo 193.º)
+Artigo 257.º (ex-artigo 193.º)
 
 É instituído um Comité Económico e Social, de natureza consultiva.
 
 O Comité é composto por representantes dos diferentes sectores da vida económica e social, designadamente dos produtores, agricultores, transportadores, trabalhadores, comerciantes e artífices, das profissões liberais e do interesse geral.
 
-###### Artigo 258.º (ex-artigo 194.º)
+Artigo 258.º (ex-artigo 194.º)
 
 O número de membros do Comité Económico e Social é estabelecido do seguinte modo:
 
@@ -6718,7 +6732,7 @@ Os membros do Comité não devem estar vinculados a quaisquer instruções. Exer
 
 O Conselho, deliberando por maioria qualificada, fixa os subsídios dos membros do Comité.
 
-###### Artigo 259.º (ex-artigo 195.º)
+Artigo 259.º (ex-artigo 195.º)
 
 1 - Tendo em vista a nomeação dos membros do Comité, cada Estado membro enviará ao Conselho uma lista contendo um número de candidatos duplo do de lugares atribuídos aos seus nacionais.
 
@@ -6726,7 +6740,7 @@ Ao constituir-se o Comité ter-se-á em consideração a necessidade de assegura
 
 2 - O Conselho consultará a Comissão, podendo obter o parecer das organizações europeias representativas dos diferentes sectores económicos e sociais interessados nas actividades da Comunidade.
 
-###### Artigo 260.º (ex-artigo 196.º)
+Artigo 260.º (ex-artigo 196.º)
 
 O Comité designa, de entre os seus membros, o Presidente e a Mesa, por um período de dois anos.
 
@@ -6734,7 +6748,7 @@ O Comité estabelece o seu regulamento interno.
 
 O Comité é convocado pelo Presidente, a pedido do Conselho ou da Comissão. Pode igualmente reunir-se por iniciativa própria.
 
-###### Artigo 261.º (ex-artigo 197.º)
+Artigo 261.º (ex-artigo 197.º)
 
 O Comité compreende secções especializadas para os principais sectores abrangidos pelo presente Tratado.
 
@@ -6744,7 +6758,7 @@ Podem, por outro lado, ser instituídos, no seio do Comité, chamados a elaborar
 
 O regulamento interno fixará as modalidades de composição e as normas de competência das secções especializadas e dos subcomités.
 
-###### Artigo 262.º (ex-artigo 198.º)
+Artigo 262.º (ex-artigo 198.º)
 
 O Comité será obrigatoriamente consultado pelo Conselho ou pela Comissão nos casos previstos no presente Tratado, podendo igualmente ser consultado por estas instituições sempre que o considerem oportuno. O Comité pode tomar a iniciativa de emitir parecer, sempre que o considere oportuno.
 
@@ -6756,7 +6770,7 @@ O Comité pode ser consultado pelo Parlamento Europeu.
 
 ### CAPÍTULO 4 — O Comité das Regiões
 
-###### Artigo 263.º (ex-artigo 198.º-A)
+Artigo 263.º (ex-artigo 198.º-A)
 
 É instituído um comité de natureza consultiva composto por representantes das colectividades regionais e locais, adiante designado por Comité das Regiões.
 
@@ -6796,7 +6810,7 @@ Os membros do Comité, bem como igual número de suplentes, são nomeados, por u
 
 Os membros do Comité não devem estar vinculados a quaisquer instruções. Exercerão as suas funções com plena independência, no interesse geral da Comunidade.
 
-###### Artigo 264.º (ex-artigo 198.º-B)
+Artigo 264.º (ex-artigo 198.º-B)
 
 O Comité das Regiões designa, de entre os seus membros, o Presidente e a Mesa, por um período de dois anos.
 
@@ -6804,7 +6818,7 @@ O Comité aprova o seu regulamento interno.
 
 O Comité será convocado pelo seu Presidente, a pedido do Conselho ou da Comissão. Pode igualmente reunir-se por iniciativa própria.
 
-###### Artigo 265.º (ex-artigo 198.º-C)
+Artigo 265.º (ex-artigo 198.º-C)
 
 O Comité das Regiões será consultado pelo Conselho ou pela Comissão nos casos previstos no presente Tratado e em todos os outros casos, nomeadamente aqueles que digam respeito à cooperação transfronteiriça, em que uma destas instituições o considere oportuno.
 
@@ -6820,7 +6834,7 @@ O parecer do Comité, bem como um relatório das deliberações, serão transmit
 
 ### CAPÍTULO 5 — Banco Europeu de Investimento
 
-###### Artigo 266.º (ex-artigo 198.º-D)
+Artigo 266.º (ex-artigo 198.º-D)
 
 O Banco Europeu de Investimento goza de personalidade jurídica.
 
@@ -6828,7 +6842,7 @@ Os Estados membros são os membros do Banco Europeu de Investimento.
 
 Os Estatutos do Banco Europeu de Investimento constam de um protocolo anexo ao presente Tratado.
 
-###### Artigo 267.º (ex-artigo 198.º-E)
+Artigo 267.º (ex-artigo 198.º-E)
 
 O Banco Europeu de Investimento tem por missão contribuir, recorrendo ao mercado de capitais e utilizando os seus próprios recursos, para o desenvolvimento equilibrado e harmonioso do mercado comum no interesse da Comunidade. Para o efeito, o Banco facilitará, mediante a concessão de empréstimos e de garantias, sem prosseguir qualquer fim lucrativo, o financiamento dos seguintes projectos, em todos os sectores da economia:
 
@@ -6842,7 +6856,7 @@ No cumprimento da sua missão, o Banco facilitará o financiamento de programas 
 
 ## TÍTULO II — Disposições financeiras
 
-###### Artigo 268.º (ex-artigo 199.º)
+Artigo 268.º (ex-artigo 199.º)
 
 Todas as receitas e despesas da Comunidade, incluindo as relativas ao Fundo Social Europeu, devem ser objecto de previsões para cada exercício orçamental e ser inscritas no orçamento.
 
@@ -6850,17 +6864,17 @@ As despesas administrativas ocasionadas às instituições pelas disposições d
 
 As receitas e despesas previstas no orçamento devem estar equilibradas.
 
-###### Artigo 269.º (ex-artigo 201.º)
+Artigo 269.º (ex-artigo 201.º)
 
 O orçamento é integralmente financiado por recursos próprios, sem prejuízo de outras receitas.
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão, e após consulta do Parlamento Europeu, aprova as disposições relativas ao sistema de recursos próprios da Comunidade, cuja adopção recomendará aos Estados membros, de acordo com as respectivas normas constitucionais.
 
-###### Artigo 270.º (ex-artigo 201.º-A)
+Artigo 270.º (ex-artigo 201.º-A)
 
 Para assegurar a manutenção da disciplina orçamental, a Comissão não apresentará propostas de actos comunitários, não alterará as suas propostas nem adoptará medidas de execução susceptíveis de ter uma incidência sensível no orçamento, sem dar a garantia de que essas propostas ou medidas podem ser financiadas nos limites dos recursos próprios da Comunidade decorrentes das disposições estabelecidas pelo Conselho por força do artigo 269.º
 
-###### Artigo 271.º (ex-artigo 202.º)
+Artigo 271.º (ex-artigo 202.º)
 
 Salvo disposições em contrário da regulamentação por força do artigo 279.º, as despesas inscritas no orçamento são autorizadas para o período de um ano financeiro.
 
@@ -6870,7 +6884,7 @@ Os créditos são especificados em capítulos, agrupando as despesas segundo a s
 
 As despesas do Parlamento Europeu, do Conselho, da Comissão e do Tribunal de Justiça são objecto de partes separadas do orçamento, sem prejuízo de um regime especial destinado a certas despesas comuns.
 
-###### Artigo 272.º (ex-artigo 203.º)
+Artigo 272.º (ex-artigo 203.º)
 
 1 - O ano financeiro tem início em 1 de Janeiro e termina em 31 de Dezembro.
 
@@ -6934,7 +6948,7 @@ Quando o Parlamento Europeu, o Conselho ou a Comissão entenderem que as activid
 
 10 - Cada instituição exercerá os poderes que lhe são atribuídos pelo presente artigo, no respeito pelas disposições do Tratado e dos actos adoptados por força deste, nomeadamente em matéria de recursos próprios das Comunidades e de equilíbrio entre as receitas e as despesas.
 
-###### Artigo 273.º (ex-artigo 204.º)
+Artigo 273.º (ex-artigo 204.º)
 
 Se, no início de um ano financeiro, o orçamento ainda não tiver sido votado, as despesas podem ser efectuadas mensalmente, por capítulo ou segundo outra subdivisão, em conformidade com a regulamentação adoptada por força do artigo 279.º, e até ao limite de um duodécimo dos créditos abertos no orçamento do ano financeiro anterior. Esta medida não pode ter por efeito colocar à disposição da Comissão créditos superiores ao duodécimo dos previstos no projecto de orçamento em preparação.
 
@@ -6944,7 +6958,7 @@ Se esta decisão disser respeito a despesas que não sejam as que decorrem obrig
 
 As decisões a que se referem o segundo e o terceiro parágrafos devem prever as medidas necessárias, em matéria de recursos, tendo em vista a aplicação do presente artigo.
 
-###### Artigo 274.º (ex-artigo 205.º)
+Artigo 274.º (ex-artigo 205.º)
 
 A Comissão executa o orçamento nos termos da regulamentação adoptada em execução do artigo 279.º, sob sua própria responsabilidade e até ao limite das dotações concedidas, de acordo com os princípios da boa gestão financeira. Os Estados membros cooperarão com a Comissão a fim de assegurar que as dotações sejam utilizadas de acordo com os princípios da boa gestão financeira.
 
@@ -6952,11 +6966,11 @@ A regulamentação deve prever normas específicas segundo as quais cada institu
 
 Dentro do orçamento e nos limites e condições fixados pela regulamentação adoptada por força do artigo 279.º, a Comissão pode proceder a transferências de dotações, quer de capítulo para capítulo quer de subdivisão para subdivisão.
 
-###### Artigo 275.º (ex-artigo 205.º-A)
+Artigo 275.º (ex-artigo 205.º-A)
 
 A Comissão apresentará todos os anos ao Conselho e ao Parlamento Europeu as contas do ano financeiro findo relativas às operações orçamentais. A Comissão comunicar-lhes-á, além disso, um balanço financeiro que descreva o activo e passivo da Comunidade.
 
-###### Artigo 276.º (ex-artigo 206.º)
+Artigo 276.º (ex-artigo 206.º)
 
 1 - O Parlamento Europeu, sob recomendação do Conselho, que delibera por maioria qualificada, dá quitação à Comissão quanto à execução do orçamento. Para o efeito, o Parlamento Europeu examina, posteriormente ao Conselho, as contas e o balanço financeiro a que se refere o artigo 275.º e o relatório anual do Tribunal de Contas, acompanhado das respostas das instituições fiscalizadas às observações do Tribunal de Contas, a declaração de fiabilidade prevista no n.º 1, segundo parágrafo, do artigo 248.º, bem como quaisquer relatórios especiais pertinentes deste Tribunal.
 
@@ -6966,17 +6980,17 @@ A Comissão apresentará todos os anos ao Conselho e ao Parlamento Europeu as co
 
 A pedido do Parlamento Europeu ou do Conselho, a Comissão apresentará um relatório sobre as medidas tomadas em função dessas observações e comentários, e nomeadamente sobre as instruções dadas aos serviços encarregados da execução do orçamento. Estes relatórios serão igualmente enviados ao Tribunal de Contas.
 
-###### Artigo 277.º (ex-artigo 207.º)
+Artigo 277.º (ex-artigo 207.º)
 
 O orçamento será elaborado na unidade de conta fixada em conformidade com a regulamentação adoptada por força do artigo 279.º
 
-###### Artigo 278.º (ex-artigo 208.º)
+Artigo 278.º (ex-artigo 208.º)
 
 A Comissão, desde que informe do facto as autoridades competentes dos Estados membros interessados, pode transferir para a moeda de um dos Estados membros os haveres que detenha na moeda de outro Estado membro, na medida em que se torne necessário utilizar tais haveres para os fins previstos no presente Tratado. A Comissão evitará, na medida do possível, proceder a tais transferências, caso detenha haveres disponíveis ou realizáveis nas moedas de que necessita.
 
 A Comissão tratará com cada um dos Estados membros por intermédio da autoridade por este designada. Na execução das operações financeiras, a Comissão recorrerá ao banco emissor do Estado membro interessado ou a qualquer outra instituição financeira por este aprovada.
 
-###### Artigo 279.º (ex-artigo 209.º)
+Artigo 279.º (ex-artigo 209.º)
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão, e após consulta ao Parlamento Europeu e parecer do Tribunal de Contas:
 
@@ -6986,7 +7000,7 @@ b) Fixa as modalidades e o processo segundo os quais as receitas orçamentais pr
 
 c) Determina as regras relativas à responsabilidade dos auditores financeiros, dos ordenadores orçamentais e dos contabilistas.
 
-###### Artigo 280.º (ex-artigo 209.º-A)
+Artigo 280.º (ex-artigo 209.º-A)
 
 1 - A Comunidade e os Estados membros combaterão as fraudes e quaisquer outras actividades ilegais lesivas dos interesses financeiros da Comunidade, por meio de medidas a tomar ao abrigo do presente artigo, que tenham um efeito dissuasor e proporcionem uma protecção efectiva nos Estados membros.
 
@@ -6998,41 +7012,41 @@ c) Determina as regras relativas à responsabilidade dos auditores financeiros, 
 
 5 - A Comissão, em cooperação com os Estados membros, apresentará anualmente ao Parlamento Europeu e ao Conselho um relatório sobre as medidas tomadas em aplicação do presente artigo.
 
-# PARTE VI — Disposições gerais e finais
+## PARTE VI — Disposições gerais e finais
 
-###### Artigo 281.º (ex-artigo 210.º)
+Artigo 281.º (ex-artigo 210.º)
 
 A Comunidade tem personalidade jurídica.
 
-###### Artigo 282.º (ex-artigo 211.º)
+Artigo 282.º (ex-artigo 211.º)
 
 Em cada um dos Estados membros a Comunidade goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pelas legislações nacionais, podendo, designadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo. Para o efeito, é representada pela Comissão.
 
-###### Artigo 283.º (ex-artigo 212.º)
+Artigo 283.º (ex-artigo 212.º)
 
 O Conselho, deliberando por maioria qualificada, estabelecerá, sob proposta da Comissão e após consulta das outras instituições interessadas, o estatuto dos funcionários das Comunidades Europeias e o regime aplicável aos outros agentes destas Comunidades.
 
-###### Artigo 284.º (ex-artigo 213.º)
+Artigo 284.º (ex-artigo 213.º)
 
 Para o desempenho das funções que lhe são confiadas, a Comissão pode recolher todas as informações e proceder a todas as verificações necessárias, dentro dos limites e condições fixados pelo Conselho, nos termos do presente Tratado.
 
-###### Artigo 285.º (ex-artigo 213.º-A)
+Artigo 285.º (ex-artigo 213.º-A)
 
 1 - Sem prejuízo do artigo 5.º do Protocolo Relativo aos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, o Conselho, deliberando nos termos do artigo 251.º, adoptará medidas relativas à elaboração de estatísticas, sempre que necessário, para a realização das actividades da Comunidade.
 
 2 - A elaboração das estatísticas comunitárias far-se-á no respeito pela imparcialidade, fiabilidade, objectividade, isenção científica, eficácia em relação aos custos e pelo segredo estatístico, não devendo acarretar encargos excessivos para os agentes económicos.
 
-###### Artigo 286.º (ex-artigo 213.º-B)
+Artigo 286.º (ex-artigo 213.º-B)
 
 1 - A partir de 1 de Janeiro de 1999, os actos comunitários relativos à protecção das pessoas singulares em matéria de tratamento de dados de carácter pessoal e de livre circulação desses dados serão aplicáveis às instituições e órgãos instituídos pelo presente Tratado, ou com base nele.
 
 2 - Antes da data prevista no n.º 1, o Conselho, deliberando nos termos do artigo 251.º, criará um órgão independente de supervisão, incumbido de fiscalizar a aplicação dos citados actos comunitários às instituições e órgãos da Comunidade e adoptará as demais disposições que se afigurem adequadas.
 
-###### Artigo 287.º (ex-artigo 214.º)
+Artigo 287.º (ex-artigo 214.º)
 
 Os membros das instituições da Comunidade, os membros dos Comités, bem como os funcionários e agentes da Comunidade são obrigados, mesmo após a cessação das suas funções, a não divulgar as informações que, por sua natureza, estejam abrangidas pelo segredo profissional, designadamente as respeitantes às empresas e respectivas relações comerciais ou elementos dos seus preços de custo.
 
-###### Artigo 288.º (ex-artigo 215.º)
+Artigo 288.º (ex-artigo 215.º)
 
 A responsabilidade contratual da Comunidade é regulada pela lei aplicável ao contrato em causa.
 
@@ -7042,23 +7056,23 @@ O parágrafo anterior aplica-se nas mesmas condições aos danos causados pelo B
 
 A responsabilidade pessoal dos agentes perante a Comunidade é regulada pelas disposições do respectivo estatuto ou do regime que lhes é aplicável.
 
-###### Artigo 289.º (ex-artigo 216.º)
+Artigo 289.º (ex-artigo 216.º)
 
 A sede das instituições da Comunidade será fixada, de comum acordo, pelos governos dos Estados membros.
 
-###### Artigo 290.º (ex-artigo 217.º)
+Artigo 290.º (ex-artigo 217.º)
 
 O regime linguístico das instituições da Comunidade será fixado, sem prejuízo das disposições previstas no regulamento do Tribunal de Justiça, pelo Conselho, deliberando por unanimidade.
 
-###### Artigo 291.º (ex-artigo 218.º)
+Artigo 291.º (ex-artigo 218.º)
 
 A Comunidade goza, no território dos Estados membros, dos privilégios e imunidades necessários ao cumprimento da sua missão, nas condições definidas no Protocolo, de 8 de Abril de 1965, Relativo aos Privilégios e Imunidades das Comunidades Europeias. O mesmo regime é aplicável ao Banco Central Europeu, ao Instituto Monetário Europeu e ao Banco Europeu de Investimento.
 
-###### Artigo 292.º (ex-artigo 219.º)
+Artigo 292.º (ex-artigo 219.º)
 
 Os Estados membros comprometem-se a não submeter qualquer diferendo relativo à interpretação ou aplicação do presente Tratado a um modo de resolução diverso dos que nele estão previstos.
 
-###### Artigo 293.º (ex-artigo 220.º)
+Artigo 293.º (ex-artigo 220.º)
 
 Os Estados membros entabularão entre si, sempre que necessário, negociações destinadas a garantir, em benefício dos seus nacionais:
 
@@ -7070,15 +7084,15 @@ Os Estados membros entabularão entre si, sempre que necessário, negociações 
 
 - a simplificação das formalidades a que se encontram subordinados o reconhecimento e a execução recíprocos tanto das decisões judiciais como das decisões arbitrais.
 
-###### Artigo 294.º (ex-artigo 221.º)
+Artigo 294.º (ex-artigo 221.º)
 
 Os Estados membros concederão aos nacionais dos outros Estados membros o mesmo tratamento que aos seus próprios nacionais, no que diz respeito à participação financeira daqueles no capital das sociedades, na acepção do artigo 48.º, sem prejuízo da aplicação das outras disposições do presente Tratado.
 
-###### Artigo 295.º (ex-artigo 222.º)
+Artigo 295.º (ex-artigo 222.º)
 
 O presente Tratado em nada prejudica o regime da propriedade nos Estados membros.
 
-###### Artigo 296.º (ex-artigo 223.º)
+Artigo 296.º (ex-artigo 223.º)
 
 1 - As disposições do presente Tratado não prejudicam a aplicação das seguintes regras:
 
@@ -7088,17 +7102,17 @@ b) Qualquer Estado membro pode tomar as medidas que considere necessárias às p
 
 2 - O Conselho, deliberando por unanimidade, sob proposta da Comissão, pode introduzir modificações nesta lista, que foi fixada em 15 de Abril de 1958, dos produtos com os quais se aplicam as disposições da alínea b) do n.º 1.
 
-###### Artigo 297.º (ex-artigo 224.º)
+Artigo 297.º (ex-artigo 224.º)
 
 Os Estados membros procederão a consultas recíprocas tendo em vista estabelecer de comum acordo as providências necessárias para evitar que o funcionamento do mercado comum seja afectado pelas medidas que qualquer Estado membro possa ser levado a tomar em caso de graves perturbações internas que afectem a ordem pública, em caso de guerra ou de tensão internacional grave que constitua ameaça de guerra, ou para fazer face a compromissos assumidos por esse Estado para a manutenção da paz e da segurança internacional.
 
-###### Artigo 298.º (ex-artigo 225.º)
+Artigo 298.º (ex-artigo 225.º)
 
 Se as medidas tomadas nos casos previstos nos artigos 296.º e 297.º tiverem por efeito falsear as condições de concorrência no mercado comum, a Comissão analisará com o Estado interessado as condições em que tais medidas podem ser adaptadas às disposições constantes do presente Tratado.
 
 Em derrogação do processo previsto nos artigos 226.º e 227.º, a Comissão ou qualquer Estado membro podem recorrer directamente ao Tribunal de Justiça, se considerarem que outro Estado membro está a fazer utilização abusiva das faculdades previstas nos artigos 296.º e 297.º O Tribunal de Justiça decide à porta fechada.
 
-###### Artigo 299.º (ex-artigo 227.º)
+Artigo 299.º (ex-artigo 227.º)
 
 1 - O presente Tratado é aplicável ao Reino da Bélgica, ao Reino da Dinamarca, à República Federal da Alemanha, à República Helénica, ao Reino de Espanha, à República Francesa, à Irlanda, à República Italiana, ao Grão-Ducado do Luxemburgo, ao Reino dos Países Baixos, à República da Áustria, à República Portuguesa, à República da Finlândia, ao Reino da Suécia e ao Reino Unido da Grã-Bretanha e Irlanda do Norte.
 
@@ -7126,7 +7140,7 @@ b) O presente Tratado não é aplicável às zonas de soberania do Reino Unido d
 
 c) As disposições do presente Tratado só são aplicáveis às ilhas anglo-normandas e à ilha de Man na medida em que tal seja necessário para assegurar a aplicação do regime previsto para essas ilhas no Tratado relativo à adesão de novos Estados membros à Comunidade Económica Europeia e à Comunidade Europeia da Energia Atómica, assinado em 22 de Janeiro de 1972.
 
-###### Artigo 300.º (ex-artigo 228.º)
+Artigo 300.º (ex-artigo 228.º)
 
 1 - Nos casos em que as disposições do presente Tratado prevêem a celebração de acordos entre a Comunidade e um ou mais Estados ou organizações internacionais, a Comissão apresenta recomendações ao Conselho, que a autoriza a dar início às negociações necessárias. Essas negociações são conduzidas pela Comissão em consulta com comités especiais designados pelo Conselho para assistirem nessa tarefa e no âmbito das directrizes que o Conselho lhe pode endereçar.
 
@@ -7152,35 +7166,35 @@ O Conselho e o Parlamento Europeu podem, em caso de urgência, fixar um prazo pa
 
 7 - Os acordos celebrados nas condições definidas no presente artigo são vinculativos para as instituições da Comunidade e para os Estado membros.
 
-###### Artigo 301.º (ex-artigo 228.º-A)
+Artigo 301.º (ex-artigo 228.º-A)
 
 Sempre que uma posição comum ou uma acção comum adoptada nos termos das disposições do Tratado da União Europeia relativas à política externa e de segurança comum prevejam uma acção da Comunidade para interromper ou reduzir, total ou parcialmente, as relações económicas com um ou mais países terceiros, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, toma as medidas urgentes necessárias.
 
-###### Artigo 302.º (ex-artigo 229.º)
+Artigo 302.º (ex-artigo 229.º)
 
 Cabe à Comissão assegurar todas as ligações úteis com os órgãos das Nações Unidas e das suas agências especializadas.
 
 A Comissão assegurará, além disso, com todas as organizações internacionais, as ligações que considere oportunas.
 
-###### Artigo 303.º (ex-artigo 230.º)
+Artigo 303.º (ex-artigo 230.º)
 
 A Comunidade estabelecerá todas as formas úteis de cooperação com o Conselho da Europa.
 
-###### Artigo 304.º (ex-artigo 231.º)
+Artigo 304.º (ex-artigo 231.º)
 
 A Comunidade estabelecerá com a Organização de Cooperação de Desenvolvimento Económico uma estreita colaboração, cujas modalidades serão fixadas de comum acordo.
 
-###### Artigo 305.º (ex-artigo 232.º)
+Artigo 305.º (ex-artigo 232.º)
 
 1 - As disposições do presente Tratado não alteram as do Tratado que institui a Comunidade Europeia do Carvão e do Aço, designadamente no que diz respeito aos direitos e obrigações dos Estados membros, aos poderes das instituições dessa Comunidade e às regras fixadas por esse Tratado para o funcionamento do mercado comum do carvão e do aço.
 
 2 - As disposições do presente Tratado não prejudicam as do Tratado que institui a Comunidade Europeia da Energia Atómica.
 
-###### Artigo 306.º (ex-artigo 233.º)
+Artigo 306.º (ex-artigo 233.º)
 
 As disposições do presente Tratado não constituem obstáculo à existência e aperfeiçoamento das uniões regionais entre a Bélgica e o Luxemburgo, bem como entre a Bélgica, o Luxemburgo e os Países Baixos, na medida em que os objectivos dessas uniões regionais não sejam atingidos pela aplicação do presente Tratado.
 
-###### Artigo 307.º (ex-artigo 234.º)
+Artigo 307.º (ex-artigo 234.º)
 
 As disposições do presente Tratado não prejudicam os direitos e obrigações decorrentes de convenções concluídas antes de 1 de Janeiro de 1958 ou, em relação aos Estados que aderem à Comunidade, anteriormente à data da respectiva adesão, entre um ou mais Estados membros, por um lado, e um ou mais Estados terceiros, por outro.
 
@@ -7188,11 +7202,11 @@ Na medida em que tais convenções não sejam compatíveis com o presente Tratad
 
 Ao aplicar as convenções referidas no primeiro parágrafo, os Estados membros terão em conta o facto de que as vantagens concedidas no presente Tratado por cada um dos Estados membros fazem parte integrante do estabelecimento da Comunidade, estando, por conseguinte, inseparavelmente ligadas à criação de instituições comuns, à atribuição de competências em seu favor e à concessão das mesmas vantagens por todos os outros Estados membros.
 
-###### Artigo 308.º (ex-artigo 235.º)
+Artigo 308.º (ex-artigo 235.º)
 
 Se uma acção da Comunidade for considerada necessária para atingir, no curso de funcionamento do mercado comum, um dos objectivos da Comunidade, sem que o presente Tratado tenha previsto os poderes de acção necessários para o efeito, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, adoptará as disposições adequadas.
 
-###### Artigo 309.º (ex-artigo 236.º)
+Artigo 309.º (ex-artigo 236.º)
 
 1 - Se for decidida a suspensão do direito de voto do representante do governo de um Estado membro, nos termos do n.º 2 do artigo 7.º do Tratado da União Europeia, esse direito será igualmente suspenso no que se refere ao presente Tratado.
 
@@ -7206,27 +7220,27 @@ O Estado membro em questão continuará, de qualquer modo, vinculado às obriga�
 
 O presente número é igualmente aplicável em caso de suspensão do direito de voto nos termos do n.º 1. Neste casos, as decisões que requeiram unanimidade serão tomadas sem o voto do representante do governo do Estado membro em questão.
 
-###### Artigo 310.º (ex-artigo 238.º)
+Artigo 310.º (ex-artigo 238.º)
 
 A Comunidade pode celebrar com um ou mais Estados ou organizações internacionais acordos que criem uma associação caracterizada por direitos e obrigações recíprocos, acções comuns e procedimentos especiais.
 
-###### Artigo 311.º (ex-artigo 239.º)
+Artigo 311.º (ex-artigo 239.º)
 
 Os Protocolos que, de comum acordo entre os Estados membros, forem anexados ao presente Tratado, fazem dele parte integrante.
 
-###### Artigo 312.º (ex-artigo 240.º)
+Artigo 312.º (ex-artigo 240.º)
 
 O presente Tratado tem vigência ilimitada.
 
 Disposições finais
 
-###### Artigo 313.º (ex-artigo 247.º)
+Artigo 313.º (ex-artigo 247.º)
 
 O presente Tratado será ratificado pelas Altas Partes Contratantes em conformidade com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
 
 O presente Tratado entrará em vigor no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que tiver procedido a esta formalidade em último lugar. Todavia, se esse depósito se efectuar menos de quinze dias antes do início do mês seguinte, a entrada em vigor do Tratado será adiada para o primeiro dia do segundo mês seguinte à data desse depósito.
 
-###### Artigo 314.º (ex-artigo 248.º)
+Artigo 314.º (ex-artigo 248.º)
 
 O presente Tratado, redigido num único exemplar, em língua alemã, francesa, italiana e neerlandesa, fazendo fé qualquer dos quatro textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
 
@@ -7486,7 +7500,7 @@ A conferência toma nota igualmente das declarações a seguir enumeradas, anexa
 
 Finalmente, a conferência decidiu anexar à presente Acta Final, para fins meramente informativos, os textos do Tratado da União Europeia e do Tratado que institui a Comunidade Europeia, tal como resultam das alterações introduzidas pela conferência.
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
+[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)](https://files.diariodarepublica.pt/1s/1999/02/042a00/08640982.pdf)
 
 Declarações adoptadas pela conferência
 

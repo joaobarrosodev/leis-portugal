@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/461/1991/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-1991-630998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 241a61d4ac282739815c7a8f83de2773d72c31037abb043e46c8f56a93eb169d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c78deb433fab2a71640c52be5999f316e82749ebcfb6b5d806a4de46348cfcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,64 @@ subjects:
 - Portel
 relationships:
 - type: amended_by
+  target: pt:dre:150903:por
+  label: "ALTERADA PELA PORTARIA 52/92, PUBLICADO NO DR.IS-B, 25, DE 920130.\0130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-1992-150903
+- type: amended_by
   target: pt:dre:335470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543682:por
+  label: "Renovada por seis anos a concessão de zona de caça, pela PORT.451/2003.2003.06.02.MADRP DR.IS-B [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-2003-543682
+  date: '2003-06-02'
+- type: amended_by
+  target: pt:dre:335470:por
+  label: "Extinta, a partir de 26.06.2010, a zona de caça associativa das Herdades das Confrarias e Torrejona, concessionada\
+    \ pelo presente diploma, alterada pela Port 52/92, de 30-Jan e renovada pela Port 451/2003, de 02-Jun [revogada a partir\
+    \ da mesma data] e concessionada à Sociedade Agrícola e Florestal da Herdade da Boavista a zona de caça turística da Herdade\
+    \ das Confrarias, pela PORT.346/2010.21.06.2010.MADRP, DR.IS [118] de 21.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-2010-335470
+  date: '2010-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:04Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +160,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 30 de Abril de 1991.**
+Assinada em 30 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/124b00/29632963.pdf))](https://files.diariodarepublica.pt/1s/1991/05/124b00/29632963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/124b00/29632963.pdf)

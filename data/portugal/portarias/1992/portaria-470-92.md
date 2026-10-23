@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/130b00/27202721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/470/1992/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1992-300643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1748684b85b5957a1ad80469fc9e8bdb92d755d0099577f9b43cdc0b312d542c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87e31f66e77f76b1713e99538f81facb3e73bb54f95092307f88e2974920f275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,32 @@ reuse:
 subjects:
 - Construção Civil
 - Documentação Administrativa
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 1115-C/94, DE 15 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 288, DE 941215.\0215."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-15'
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:59Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +150,7 @@ g) Prazo para a conclusão da obra.
 
 Ministérios do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 15 de Maio de 1992.**
+Assinada em 15 de Maio de 1992.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Manuel Nunes Liberato, Secretário de Estado da Administração Local e do Ordenamento do Território. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.
 
@@ -149,18 +158,18 @@ Pelo Ministro do Planeamento e da Administração do Território, José Manuel N
 
 Coluna n.º 1:
 
-## Título: data.
+Título: data.
 
 Conteúdo: data dos registos.
 
 Coluna n.º 2:
 
-## Título: sujeito.
+Título: sujeito.
 
 Conteúdo: nome e categoria do autor do registo - técnico responsável pela direcção técnica da obra; técnico autor do projecto; fiscal da câmara municipal ou outro agente de fiscalização.
 
 Coluna n.º 3:
 
-## Título: observações.
+Título: observações.
 
 Conteúdo: estado de execução da obra, bem como qualquer observação considerada conveniente sobre o desenvolvimento dos trabalhos, nomeadamente sobre a qualidade da execução e dos materiais utilizados e cumprimento das normas legais e regulamentares aplicáveis.

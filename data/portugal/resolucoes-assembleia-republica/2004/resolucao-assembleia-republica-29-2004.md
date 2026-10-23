@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/2004/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-2004-209603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89691cdd5d7570d802259b9dbb31ff4e046dcf2e1f627586f7ee319c747faefb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30683d6ff2ab89b2dba6bbfa3ab44fcd2af71f50d0206bbc204be8b7cc9d6e2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,31 +72,37 @@ subjects:
 - Circulação de Capitais
 - Comunidades Europeias
 - Convenção
-- Cooperação Financeira
-- Portugal
-- Egipto
-- Direito de Estabelecimento
-- Livre Circulação de Mercadorias
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Prestação de Serviços
+- Direito de Estabelecimento
+- Egipto
+- Livre Circulação de Mercadorias
 - Luxemburgo
+- Portugal
+- Prestação de Serviços
 relationships:
+- type: amended_by
+  target: pt:dre:209604:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.18/2004.24.03.2004.PR, DR.IS-A [71]\
+    \ de 24.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-2004-209604
+  date: '2004-03-24'
 - type: cites
   target: celex:31991R1911
   label: null
   source: null
 article_structure:
-  article_count: 149
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 113
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:07Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +115,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de Dezembro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA ÁRABE DO EGIPTO, POR OUTRO.
 
@@ -803,7 +809,9 @@ A cooperação neste domínio terá por objectivo a compatibilização dos siste
 
 - A organização de acções de formação e a prestação de assistência técnica.
 
-## TÍTULO VI — CAPÍTULO 1
+## TÍTULO VI
+
+### CAPÍTULO 1
 
 Diálogo e cooperação sobre questões de carácter social
 
@@ -1089,7 +1097,7 @@ O presente Acordo entrará em vigor no 1.º dia do 2.º mês seguinte à data em
 
 2 - A partir da sua entrada em vigor, o presente Acordo substituirá o Acordo entre a Comunidade Económica Europeia e o Egipto, bem como o Acordo entre a Comunidade Europeia do Carvão e do Aço e o Egipto, assinados em Bruxelas em 18 de Janeiro de 1977.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO I — Lista de produtos agrícolas e de produtos agrícolas transformados dos Capítulos 25 a 97 do sistema harmonizado previstos nos artigos 7.º e 12.º
 
@@ -1129,23 +1137,23 @@ Posição SH - 53 02 (cânhamo em bruto).
 
 Lista dos produtos industriais originários da Comunidade a que é aplicável, na importação no Egipto, o calendário para o desmantelamento pautal referido no n.º 1 do artigo 9.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO III
 
 Lista dos produtos industriais originários da Comunidade a que é aplicável, na importação no Egipto, o calendário para o desmantelamento pautal referido no n.º 2 do artigo 9.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO IV
 
 Lista dos produtos industriais originários da Comunidade a que é aplicável, na importação no Egipto, o calendário para o desmantelamento pautal referido no n.º 3 do artigo 9.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO V — Lista dos produtos industriais originários da Comunidade referidos no n.º 4 do artigo 9.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO VI — Direitos da propriedade intelectual previstos no artigo 37.º
 
@@ -1199,7 +1207,7 @@ Para o 1.º ano de aplicação, os volumes dos contingentes pautais serão calcu
 
 Se o preço de importação de uma remessa for inferior a 2%, 4%, 6% ou 8% ao preço acordado, o direito aduaneiro específico será igual, respectivamente, a 2%, 4%, 6% ou 8% do preço de importação acordado. Se o preço de importação de uma remessa for inferior a 92% do preço de importação acordado, é aplicável o direito aduaneiro específico previsto por força da OMC.
 
-## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+## ANEXO — [[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 PROTOCOLO N.º 2 - DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES NO EGIPTO DE PRODUTOS AGRÍCOLAS ORIGINÁRIOS DA COMUNIDADE
 
@@ -1209,7 +1217,7 @@ PROTOCOLO N.º 2 - DISPOSIÇÕES APLICÁVEIS ÀS IMPORTAÇÕES NO EGIPTO DE PROD
 
 3 - Relativamente a determinados produtos, os direitos aduaneiros serão abolidos ou reduzidos dentro dos limites dos contingentes pautais indicados na coluna B.
 
-## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+## ANEXO — [[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 PROTOCOLO N.º 3 - DISPOSIÇÕES APLICÁVEIS AOS PRODUTOS AGRÍCOLAS TRANSFORMADOS
 
@@ -1265,27 +1273,27 @@ As referidas disposições deverão garantir a igualdade de tratamento de todas 
 
 ## ANEXO I — QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 QUADRO N.º 3
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 ## ANEXO II — QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 QUADRO N.º 3
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 PROTOCOLO N.º 4 - DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E DOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA
 
@@ -1601,7 +1609,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «Udstedt efterfolgende»;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 «Expedido a posteriori»;
 
@@ -1611,11 +1619,13 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «Utfärdat i efterhand;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR 1.
 
-###### Artigo 19.º — Emissão de uma segunda via do certificado de circulação EUR 1
+Artigo 19.º
+
+Emissão de uma segunda via do certificado de circulação EUR 1
 
 1 - Em caso de furto, extravio ou inutilização de um certificado de circulação EUR 1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via, passada com base nos documentos de exportação em posse dessas autoridades.
 
@@ -1631,7 +1641,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «Duplicate»;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 «Duplicado»;
 
@@ -1639,17 +1649,21 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «Kaksoiskappale»;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR 1.
 
 4 - A segunda via, que deve conter a data de emissão do certificado de circulação EUR 1, original, produz efeitos a partir dessa data.
 
-###### Artigo 20.º — Emissão de certificados de circulação EUR 1 com base numa prova de origem emitida anteriormente
+Artigo 20.º
+
+Emissão de certificados de circulação EUR 1 com base numa prova de origem emitida anteriormente
 
 Quando os produtos originários forem colocados sob controlo de uma estância aduaneira na Comunidade ou no Egipto, a substituição da prova de origem inicial por um ou mais certificados de circulação EUR 1 é sempre possível para a expedição de todos ou alguns desses produtos para outros locais situados na Comunidade ou no Egipto. O ou os certificados de circulação EUR 1 de substituição serão emitidos pela estância aduaneira sob cujo controlo os produtos foram colocados.
 
-###### Artigo 21.º — Condições para efectuar uma declaração na factura
+Artigo 21.º
+
+Condições para efectuar uma declaração na factura
 
 1 - A declaração na factura referida no n.º 1, alínea b), do artigo 16.º pode ser efectuada:
 
@@ -1669,7 +1683,9 @@ Contudo, os exportadores autorizados na acepção do artigo 22.º podem ser disp
 
 6 - A declaração na factura pode ser efectuada pelo exportador quando da exportação dos produtos a que se refere, ou após a exportação, sob condição de ser apresentada no país de importação o mais tardar dois anos após a importação dos produtos a que se refere.
 
-###### Artigo 22.º — Exportador autorizado
+Artigo 22.º
+
+Exportador autorizado
 
 1 - As autoridades aduaneiras do país de exportação podem autorizar qualquer exportador que efectue frequentemente expedições de produtos ao abrigo do presente Acordo a efectuar declarações na factura, independentemente do valor dos produtos em causa. Os exportadores que pretendam obter essa autorização devem oferecer às autoridades aduaneiras todas as garantias necessárias para que se possa verificar a qualidade de originário dos produtos, bem como o cumprimento dos outros requisitos do presente Protocolo.
 
@@ -1681,7 +1697,9 @@ Contudo, os exportadores autorizados na acepção do artigo 22.º podem ser disp
 
 5 - As autoridades aduaneiras podem retirar a autorização em qualquer altura. Devem fazê-lo quando o exportador autorizado deixar de oferecer as garantias referidas no n.º 1, não preencher as condições referidas no n.º 2 ou fizer um uso incorrecto da autorização.
 
-###### Artigo 23.º — Prazo de validade da prova de origem
+Artigo 23.º
+
+Prazo de validade da prova de origem
 
 1 - A prova de origem é válida por quatro meses a contar da data de emissão no país de exportação, devendo ser apresentada dentro desse prazo às autoridades aduaneiras do país de importação.
 
@@ -1689,15 +1707,21 @@ Contudo, os exportadores autorizados na acepção do artigo 22.º podem ser disp
 
 3 - Nos outros casos de apresentação fora de prazo, as autoridades aduaneiras do país de importação podem aceitar a prova de origem, se os produtos lhes tiverem sido apresentados dentro do referido prazo.
 
-###### Artigo 24.º — Apresentação da prova de origem
+Artigo 24.º
+
+Apresentação da prova de origem
 
 As provas de origem são apresentadas às autoridades aduaneiras do país de importação de acordo com os procedimentos aplicáveis nesse país. As referidas autoridades podem exigir a tradução da prova de origem e podem igualmente exigir que a declaração de importação se faça acompanhar de uma declaração do importador em como os produtos satisfazem as condições requeridas para a aplicação do Acordo.
 
-###### Artigo 25.º — Importação em remessas escalonadas
+Artigo 25.º
+
+Importação em remessas escalonadas
 
 Quando, a pedido do importador e nas condições estabelecidas pelas autoridades aduaneiras do país de importação, um produto desmontado ou por montar, na acepção da alínea a) da regra geral n.º 2 do Sistema Harmonizado, classificado nas secções XVI e XVII ou nas posições n.os 7308 e 9406 do Sistema Harmonizado, for importado em remessas escalonadas, será apresentada uma única prova de origem desse produto às autoridades aduaneiras quando da importação da primeira remessa escalonada.
 
-###### Artigo 26.º — Isenções da prova de origem
+Artigo 26.º
+
+Isenções da prova de origem
 
 1 - Os produtos enviados em pequenas remessas por particulares a particulares, ou contidos na bagagem pessoal dos viajantes, são considerados produtos originários, sem que seja necessária a apresentação de uma prova de origem, desde que não sejam importados com fins comerciais e tenham sido declarados como satisfazendo os requisitos do presente Protocolo, e quando não subsistam dúvidas quanto à veracidade dessa declaração. No caso dos produtos enviados por via postal, essa declaração pode ser feita na declaração aduaneira CN22/CN23 ou numa folha de papel apensa a esse documento.
 
@@ -1705,7 +1729,9 @@ Quando, a pedido do importador e nas condições estabelecidas pelas autoridades
 
 3 - Além disso, o valor total desses produtos não deve exceder (euro) 500 no caso de pequenas remessas ou (euro) 1200 no caso dos produtos contidos na bagagem pessoal dos viajantes.
 
-###### Artigo 27.º — Documentos comprovativos
+Artigo 27.º
+
+Documentos comprovativos
 
 Os documentos referidos no n.º 3 do artigo 17.º e no n.º 3 do artigo 21.º, utilizados como prova de que os produtos cobertos por um certificado de circulação EUR 1 ou por uma declaração na factura podem ser considerados produtos originários da Comunidade, do Egipto ou de um dos outros países referidos no artigo 4.º, e satisfazem os outros requisitos do presente protocolo, podem consistir, designadamente, em:
 
@@ -1717,7 +1743,9 @@ c) Documentos comprovativos das operações de complemento de fabrico ou de tran
 
 d) Certificados de circulação EUR 1 ou declarações na factura, comprovativos da qualidade de originário das matérias utilizadas, emitidos na Comunidade ou no Egipto, em conformidade com o presente Protocolo, ou num dos outros países referidos no artigo 4.º, em conformidade com regras de origem idênticas às do presente Protocolo.
 
-###### Artigo 28.º — Conservação da prova de origem e dos documentos comprovativos
+Artigo 28.º
+
+Conservação da prova de origem e dos documentos comprovativos
 
 1 - O exportador que apresenta o pedido de emissão de um certificado de circulação EUR 1 deve conservar durante, pelo menos, três anos, os documentos referidos no n.º 3 do artigo 17.º
 
@@ -1727,13 +1755,17 @@ d) Certificados de circulação EUR 1 ou declarações na factura, comprovativos
 
 4 - As autoridades aduaneiras do país de importação devem conservar durante, pelo menos, três anos os certificados de circulação EUR 1 e as declarações na factura que lhes forem apresentados.
 
-###### Artigo 29.º — Discrepâncias e erros formais
+Artigo 29.º
+
+Discrepâncias e erros formais
 
 1 - A detecção de ligeiras discrepâncias entre as declarações prestadas na prova de origem e as dos documentos apresentados na estância aduaneira para cumprimento das formalidades de importação dos produtos não implica ipso facto que se considere a prova de origem nula e sem efeito, desde que seja devidamente comprovado que esse documento corresponde aos produtos apresentados.
 
 2 - Os erros formais óbvios, como os erros de dactilografia, detectados numa prova de origem não implicam a rejeição do documento se esses erros não suscitarem dúvidas quanto à exactidão das declarações nele prestadas.
 
-###### Artigo 30.º — Montantes expressos em euros
+Artigo 30.º
+
+Montantes expressos em euros
 
 1 - O contravalor, em moeda nacional do país de exportação, do montante expresso em euros será fixado pelo país de exportação e comunicado aos países de importação por intermédio da Comissão Europeia.
 
@@ -1743,15 +1775,21 @@ d) Certificados de circulação EUR 1 ou declarações na factura, comprovativos
 
 4 - Os montantes expressos em euros e o seu contravalor nas moedas nacionais dos Estados membros da CE e do Egipto serão revistos pelo Comité de Associação a pedido da Comunidade ou do Egipto. Ao proceder a essa revisão, o Comité de Associação assegurará que os montantes a utilizar em qualquer moeda nacional não diminuam e considerará, além disso, a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO VI — Métodos de cooperação administrativa
+TÍTULO VI
 
-###### Artigo 31.º — Assistência mútua
+Métodos de cooperação administrativa
+
+Artigo 31.º
+
+Assistência mútua
 
 1 - As autoridades aduaneiras dos Estados membros da CE e do Egipto comunicarão à outra Parte, através da Comissão Europeia, os espécimes dos cunhos dos carimbos utilizados nas respectivas estâncias aduaneiras para a emissão de certificados de circulação EUR 1 e os endereços das autoridades aduaneiras responsáveis pelo controlo desses certificados e das declarações na factura.
 
 2 - Com vista a assegurar a correcta aplicação do presente Protocolo, a Comunidade e o Egipto assistir-se-ão, por intermédio das administrações aduaneiras competentes, no controlo da autenticidade dos certificados de circulação EUR 1 ou das declarações na factura e da exactidão das menções inscritas nesses documentos.
 
-###### Artigo 32.º — Controlo da prova de origem
+Artigo 32.º
+
+Controlo da prova de origem
 
 1 - Os controlos a posteriori da prova de origem efectuar-se-ão por amostragem ou sempre que as autoridades aduaneiras do país de importação tenham dúvidas fundadas quanto à autenticidade do documento, à qualidade de originário dos produtos em causa ou quanto ao cumprimento dos outros requisitos do presente Protocolo.
 
@@ -1765,25 +1803,35 @@ d) Certificados de circulação EUR 1 ou declarações na factura, comprovativos
 
 6 - Se, nos casos de dúvida fundada, não for recebida resposta no prazo de 10 meses a contar da data do pedido de controlo, ou se a resposta não contiver informações suficientes para apurar a autenticidade do documento em causa ou a verdadeira origem dos produtos, as autoridades aduaneiras requerentes recusarão o benefício do regime preferencial, salvo se se tratar de circunstâncias excepcionais.
 
-###### Artigo 33.º — Resolução de litígios
+Artigo 33.º
+
+Resolução de litígios
 
 Em caso de litígio relativamente aos procedimentos de controlo previstos no artigo 32.º, que não possa ser resolvido entre as autoridades aduaneiras que requerem o controlo e as autoridades aduaneiras responsáveis pela sua realização, ou em caso de dúvida quanto à interpretação do presente Protocolo, os mesmos serão submetidos ao Comité de Associação.
 
 Em qualquer caso, a resolução de litígios entre o importador e as autoridades aduaneiras do país de importação fica sujeita à legislação desse país.
 
-###### Artigo 34.º — Sanções
+Artigo 34.º
+
+Sanções
 
 Serão aplicadas sanções a quem emita ou mande emitir um documento contendo informações inexactas com o objectivo de obter um tratamento preferencial para os produtos.
 
-###### Artigo 35.º — Zonas francas
+Artigo 35.º
+
+Zonas francas
 
 1 - A Comunidade e o Egipto tomarão todas as medidas necessárias para assegurar que os produtos comercializados ao abrigo de uma prova de origem, que, durante o seu transporte, permaneçam numa zona franca situada no seu território, não sejam substituídos por outros produtos ou sujeitos a manipulações diferentes das operações usuais destinadas à sua conservação no seu estado inalterado.
 
 2 - Em derrogação do n.º 1, quando os produtos originários da Comunidade ou do Egipto, importados para uma zona franca ao abrigo de uma prova de origem, forem sujeitos a um tratamento ou a uma transformação, as autoridades competentes devem emitir um novo certificado EUR 1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente Protocolo.
 
-## TÍTULO VII — Ceuta e Melilha
+TÍTULO VII
 
-###### Artigo 36.º — Aplicação do Protocolo
+Ceuta e Melilha
+
+Artigo 36.º
+
+Aplicação do Protocolo
 
 1 - O termo «Comunidade» referido no artigo 2.º não abrange Ceuta e Melilha.
 
@@ -1791,7 +1839,9 @@ Serão aplicadas sanções a quem emita ou mande emitir um documento contendo in
 
 3 - Para efeitos de aplicação do n.º 2, o presente Protocolo aplica-se mutatis mutandis aos produtos originários de Ceuta e Melilha, sob reserva das condições especiais estabelecidas no artigo 37.º
 
-###### Artigo 37.º — Condições especiais
+Artigo 37.º
+
+Condições especiais
 
 1 - Sob reserva de terem sido objecto de transporte directo em conformidade com o artigo 13.º, consideram-se:
 
@@ -1821,21 +1871,31 @@ ii) Esses produtos sejam originários de Ceuta e Melilha ou da Comunidade, na ac
 
 4 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente Protocolo em Ceuta e Melilha.
 
-## TÍTULO VIII — Disposições finais
+TÍTULO VIII
 
-###### Artigo 38.º — Alterações ao Protocolo
+Disposições finais
+
+Artigo 38.º
+
+Alterações ao Protocolo
 
 O Conselho de Associação pode decidir alterar as disposições do presente Protocolo.
 
-###### Artigo 39.º — Execução do Protocolo
+Artigo 39.º
+
+Execução do Protocolo
 
 A Comunidade e o Egipto tomarão, no âmbito das respectivas competências, as medidas necessárias para a execução do presente Protocolo.
 
-###### Artigo 40.º — Mercadorias em trânsito ou depósito temporário
+Artigo 40.º
+
+Mercadorias em trânsito ou depósito temporário
 
 As mercadorias que satisfaçam as disposições do presente Protocolo e que, na data de entrada em vigor do Acordo, estejam em trânsito ou em depósito temporário num entreposto aduaneiro ou numa zona franca na Comunidade ou no Egipto podem beneficiar das disposições do Acordo, sob reserva da apresentação às autoridades aduaneiras do país de importação, no prazo de quatro meses a contar da referida data, de um certificado EUR 1 emitido a posteriori pelas autoridades competentes do país de exportação, bem como dos documentos comprovativos de que foram objecto de transporte directo.
 
-## ANEXO I — Notas introdutórias
+ANEXO I
+
+Notas introdutórias
 
 Nota 1. - A lista do anexo II estabelece as condições necessárias para que os produtos sejam considerados como tendo sido objecto de operações de complemento de fabrico ou transformações suficientes na acepção do artigo 6.º do Protocolo.
 
@@ -2051,29 +2111,29 @@ n) Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o 
 
 (nota 1) V. alínea b) da nota explicativa complementar 4 do capítulo 27 da Nomenclatura Combinada.
 
-## ANEXO II
+ANEXO II
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
 Nem todos os produtos indicados a seguir estão abrangidos pelo Acordo. Se necessário, consultar outras partes do Acordo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
-## ANEXO IIa
+ANEXO IIa
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que os produtos transformados referidos no n.º 2 do artigo 6.º possam adquirir a qualidade de produtos originários
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
-## ANEXO III
+ANEXO III
 
 Lista de produtos originários da Turquia a que não são aplicáveis as disposições do artigo 4.º, ordenados por capítulos e posições do Sistema Harmonizado.
 
-### Capítulo 1.
+Capítulo 1.
 
-### Capítulo 2.
+Capítulo 2.
 
-### Capítulo 3.
+Capítulo 3.
 
 0401 a 0402.
 
@@ -2085,7 +2145,7 @@ ex 0403 - Leitelho, leite e nata coalhados, iogurte, kefir e outros leites e nat
 
 0511.
 
-### Capítulo 6.
+Capítulo 6.
 
 0701 a 0709.
 
@@ -2095,15 +2155,15 @@ ex 0711 - Produtos hortícolas, excepto milho-doce da posição 0711 90 30, cons
 
 0712 a 0714.
 
-### Capítulo 8.
+Capítulo 8.
 
 ex capítulo 9 - Café, chá e especiarias, excepto mate da posição 0903.
 
-### Capítulo 10.
+Capítulo 10.
 
-### Capítulo 11.
+Capítulo 11.
 
-### Capítulo 12.
+Capítulo 12.
 
 ex 1302 - Pectina.
 
@@ -2119,7 +2179,7 @@ ex 1518 - Margarinas, sucedâneos de banha de porco e outras gorduras comestíve
 
 ex 1522 - Resíduos provenientes do tratamento das matérias gordas ou das ceras animais ou vegetais, excepto dégras.
 
-### Capítulo 16.
+Capítulo 16.
 
 1701.
 
@@ -2157,7 +2217,7 @@ ex 2208 - Álcool etílico não desnaturado, com um teor alcoólico em volume ig
 
 2209.
 
-### Capítulo 23.
+Capítulo 23.
 
 2401.
 
@@ -2165,7 +2225,9 @@ ex 2208 - Álcool etílico não desnaturado, com um teor alcoólico em volume ig
 
 5301 e 5302.
 
-## ANEXO IV — Certificado de circulação EUR 1 e pedido de certificado de circulação EUR 1
+ANEXO IV
+
+Certificado de circulação EUR 1 e pedido de certificado de circulação EUR 1
 
 Instruções para impressão
 
@@ -2173,7 +2235,7 @@ Instruções para impressão
 
 2 - As autoridades competentes dos Estados membros da Comunidade e do Egipto podem reservar-se o direito de proceder à impressão dos certificados ou confiá-la a tipografias por elas autorizadas. Neste último caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
 Notas
 
@@ -2183,9 +2245,11 @@ Notas
 
 3 - As mercadorias serão designadas conforme os seus usos comerciais, com as indicações necessárias para permitir a sua identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf))](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
 
-## ANEXO V — Declaração na factura
+ANEXO V
+
+Declaração na factura
 
 A declaração na factura, cujo texto é apresentado no verso, deve ser prestada de acordo com as notas de pé-de-página. Contudo, estas não têm de ser reproduzidas.
 
@@ -2249,7 +2313,7 @@ Versão árabe
 
 (nota 4) V. o n.º 5 do artigo 21.º do Protocolo. Nos casos em que o exportador não é obrigado a assinar, a dispensa de assinatura implica igualmente a dispensa da indicação do nome do signatário.
 
-## ANEXO VI
+ANEXO VI
 
 Declaração comum relativa ao período de transição para a emissão ou apresentação de documentos relacionados com a prova de origem.
 
@@ -2287,7 +2351,9 @@ Todavia, a Comunidade examinará um número limitado de pedidos de derrogação 
 
 PROTOCOLO N.º 5 - ASSISTÊNCIA MÚTUA ENTRE AUTORIDADES ADMINISTRATIVAS EM MATÉRIA ADUANEIRA
 
-###### Artigo 1.º — Definições
+Artigo 1.º
+
+Definições
 
 Na acepção do presente Protocolo, entende-se por:
 
@@ -2301,7 +2367,9 @@ d) «Dados pessoais» todas as informações respeitantes a uma pessoa singular 
 
 e) «Operações contrárias à legislação aduaneira» todas as violações ou tentativas de violação da legislação aduaneira.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - As Partes Contratantes prestar-se-ão assistência mútua, no âmbito das suas competências, segundo as modalidades e as condições previstas no presente Protocolo, tendo em vista assegurar a correcta aplicação da legislação aduaneira, nomeadamente através da prevenção, da investigação e da repressão de operações contrárias a essa legislação.
 
@@ -2309,7 +2377,9 @@ e) «Operações contrárias à legislação aduaneira» todas as violações ou
 
 3 - A assistência em matéria de cobrança de direitos e imposições ou sanções pecuniárias não está abrangida pelo presente Protocolo.
 
-###### Artigo 3.º — Assistência mediante pedido
+Artigo 3.º
+
+Assistência mediante pedido
 
 1 - A pedido da autoridade requerente, a autoridade requerida prestar-lhe-á todas as informações úteis que permitam assegurar a correcta aplicação da legislação aduaneira, designadamente as informações relativas a actividades conhecidas ou previstas que constituam ou possam constituir uma operação contrária a essa legislação.
 
@@ -2329,7 +2399,9 @@ c) Mercadorias que são ou podem ser transportadas em condições tais que haja 
 
 d) Meios de transporte que são ou podem ser utilizados em condições tais que haja motivos razoáveis para supor que se destinam a ser utilizados em operações contrárias à legislação aduaneira.
 
-###### Artigo 4.º — Assistência espontânea
+Artigo 4.º
+
+Assistência espontânea
 
 As Partes Contratantes prestar-se-ão assistência mútua, por sua própria iniciativa e em conformidade com as respectivas disposições legislativas ou regulamentares, se considerarem que tal é necessário para a correcta aplicação da legislação aduaneira, designadamente fornecendo as informações obtidas relativamente a:
 
@@ -2343,7 +2415,9 @@ As Partes Contratantes prestar-se-ão assistência mútua, por sua própria inic
 
 - Meios de transporte em relação aos quais haja motivos razoáveis para supor que foram, são ou podem ser utilizados para efectuar operações contrárias à legislação aduaneira.
 
-###### Artigo 5.º — Entrega e notificação
+Artigo 5.º
+
+Entrega e notificação
 
 A pedido da autoridade requerente, a autoridade requerida tomará, em conformidade com as suas disposições legislativas e regulamentares, todas as medidas necessárias para:
 
@@ -2355,7 +2429,9 @@ emanantes da autoridade requerente e abrangidos pelo âmbito do presente Protoco
 
 Os pedidos de entrega de documentos ou de notificação de decisões devem ser feitos por escrito numa língua oficial da autoridade requerida ou numa língua aceite por essa autoridade.
 
-###### Artigo 6.º — Forma e conteúdo dos pedidos de assistência
+Artigo 6.º
+
+Forma e conteúdo dos pedidos de assistência
 
 1 - Os pedidos apresentados nos termos do presente Protocolo devem ser feitos por escrito.
 
@@ -2381,7 +2457,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - No caso de um pedido não satisfazer os requisitos, formais acima estabelecidos, pode solicitar-se que seja corrigido ou completado, podendo, entretanto, ser tomadas medidas cautelares.
 
-###### Artigo 7.º — Execução dos pedidos
+Artigo 7.º
+
+Execução dos pedidos
 
 1 - A fim de dar seguimento a um pedido de assistência, a autoridade requerida agirá, no âmbito das suas competências e em função dos recursos disponíveis, como se o fizesse por sua própria iniciativa ou a pedido de outras autoridades dessa Parte Contratante, prestando as informações de que disponha e efectuando ou mandando efectuar os inquéritos adequados. O disposto no presente número aplica-se igualmente a qualquer outra autoridade à qual a autoridade requerida tenha dirigido o pedido, quando esta última não pode agir por si só.
 
@@ -2391,7 +2469,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - Os funcionários devidamente autorizados de uma Parte Contratante podem, com o acordo da outra Parte Contratante em causa e nas condições por ela previstas, estar presentes quando da realização de inquéritos no território desta última.
 
-###### Artigo 8.º — Forma de comunicação das informações
+Artigo 8.º
+
+Forma de comunicação das informações
 
 1 - A autoridade requerida comunicará por escrito os resultados dos inquéritos à autoridade requerente, juntamente com os documentos, as cópias autenticadas ou outros instrumentos pertinentes.
 
@@ -2399,7 +2479,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 3 - Os originais dos processos e dos documentos só serão transmitidos mediante pedido expresso nos casos em que as cópias autenticadas não sejam suficientes. Os originais devem ser devolvidos com a maior brevidade possível.
 
-###### Artigo 9.º — Excepções à obrigação de prestar assistência
+Artigo 9.º
+
+Excepções à obrigação de prestar assistência
 
 1 - A assistência pode ser recusada ou sujeita ao cumprimento de determinadas condições ou requisitos nos casos em que, no âmbito do presente Protocolo, uma das Partes considerar que a assistência:
 
@@ -2415,7 +2497,9 @@ c) Viole um segredo industrial, comercial ou profissional.
 
 4 - Nos casos referidos nos n.os 1 e 2, a decisão da autoridade requerida e as razões que a justificam devem ser comunicadas sem demora à autoridade requerente.
 
-###### Artigo 10.º — Intercâmbio de informações e confidencialidade
+Artigo 10.º
+
+Intercâmbio de informações e confidencialidade
 
 1 - As informações comunicadas, sob qualquer forma, nos termos do presente Protocolo têm carácter confidencial ou reservado, de acordo com as regras aplicadas pelas Partes Contratantes. As informações estão sujeitas à obrigação do segredo oficial e beneficiam da protecção prevista na legislação aplicável na matéria na Parte que as recebeu, bem como nas disposições correspondentes aplicáveis às autoridades comunitárias.
 
@@ -2427,21 +2511,29 @@ Para o efeito, as Partes Contratantes comunicarão entre si as informações rel
 
 4 - As informações obtidas serão utilizadas exclusivamente para fins do presente Protocolo. Se uma das Partes Contratantes pretender utilizar essas informações para outros fins, deve obter a autorização prévia, por escrito, da autoridade que as forneceu. Nesse caso, as informações ficarão sujeitas às restrições impostas por essa autoridade.
 
-###### Artigo 11.º — Peritos e testemunhas
+Artigo 11.º
+
+Peritos e testemunhas
 
 Um funcionário da autoridade requerida pode ser autorizado a comparecer, nos limites estabelecidos na autorização que lhe foi concedida, como perito ou testemunha em acções judiciais ou administrativas relativas a questões abrangidas pelo presente Protocolo, perante os tribunais da outra Parte, e a apresentar os objectos, documentos ou respectivas cópias autenticadas eventualmente necessários para esse efeito. O pedido de comparência deve indicar especificamente a autoridade judicial ou administrativa perante a qual esse funcionário deve comparecer e sobre que assunto, a que título ou em que qualidade será interrogado.
 
-###### Artigo 12.º — Despesas de assistência
+Artigo 12.º
+
+Despesas de assistência
 
 As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do presente Protocolo, excepto no que se refere às despesas com peritos e testemunhas, se for caso disso, bem como com intérpretes e tradutores que não sejam funcionários da Administração Pública.
 
-###### Artigo 13.º — Aplicação
+Artigo 13.º
+
+Aplicação
 
 1 - A aplicação do presente Protocolo será confiada, por um lado, às autoridades aduaneiras do Egipto e, por outro, aos serviços competentes da Comissão das Comunidades Europeias e, se for caso disso, às autoridades aduaneiras dos Estados membros. Estas autoridades decidirão de todas as medidas e disposições práticas necessárias para a sua aplicação, tendo em conta as normas em vigor, designadamente em matéria de protecção de dados. Podem recomendar às instâncias competentes as alterações do presente Protocolo que considerem necessárias.
 
 2 - As Partes Contratantes consultar-se-ão e manter-se-ão mutuamente informadas sobre as normas de execução adoptadas em conformidade com as disposições do presente Protocolo.
 
-###### Artigo 14.º — Outros acordos
+Artigo 14.º
+
+Outros acordos
 
 1 - Tendo em conta as competências respectivas da Comunidade Europeia e dos Estados membros, as disposições do presente Protocolo:
 
@@ -2627,4 +2719,4 @@ Queira aceitar, Exmo. Senhor, os protestos da minha mais elevada consideração.
 
 Pelo Governo da República Árabe do Egipto.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)](https://files.diariodarepublica.pt/1s/2004/03/071a00/16721788.pdf)

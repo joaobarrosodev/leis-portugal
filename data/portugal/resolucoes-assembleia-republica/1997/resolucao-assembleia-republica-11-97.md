@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/11/1997/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1997-513002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc79307e7520dd72efd2c9474b5a028132e10b7bcf10c32e9dbf5084c4332ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a8bfd8a3d69415208b12aafa28084cd311b63136dd95870593bdb19922b0bbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Angola
 - Convenção
+- Cooperação Judiciária
 - Cooperação Jurídica
 - Cooperação Técnica
-- Portugal
-- Angola
 - Luanda
-- Cooperação Judiciária
+- Portugal
 relationships: []
 article_structure:
   article_count: 145
-  section_count: 44
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:38Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 11 de Outubro de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ## ANEXO — ACORDO DE COOPERAÇÃO JURÍDICA E JUDICIÁRIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE ANGOLA
 
@@ -108,7 +108,7 @@ Reconhecendo o interesse comum e as vantagens recíprocas da extensão da cooper
 
 decidiram celebrar o presente Acordo:
 
-# PARTE I — Cooperação judiciária
+## PARTE I — Cooperação judiciária
 
 ## TÍTULO I — Cláusulas gerais
 
@@ -140,7 +140,9 @@ Os nacionais de cada um dos Estados Contratantes têm acesso aos tribunais do ou
 
 ## TÍTULO II — Cooperação em matéria cível
 
-## SUBTÍTULO I — Actos judiciais
+SUBTÍTULO I
+
+Actos judiciais
 
 ### CAPÍTULO I — Actos rogados
 
@@ -210,7 +212,9 @@ Os Estados Contratantes têm a faculdade de mandar praticar, sem cominação de 
 
 Para o efeito do disposto nos artigos 9.º e 10.º, em caso de conflito de leis, a nacionalidade do destinatário do acto determina-se pela lei do Estado onde ele deva ter lugar.
 
-## SUBTÍTULO II — Eficácia das decisões judiciais
+SUBTÍTULO II
+
+Eficácia das decisões judiciais
 
 ### CAPÍTULO I — Revisão e confirmação
 
@@ -376,7 +380,9 @@ Os Estados Contratantes cuja lei imponha restrições a transferências de fundo
 
 ## TÍTULO III — Cooperação em matéria penal e de contra-ordenação social
 
-## SUBTÍTULO I — Auxílio em matéria penal e de contra-ordenação social
+SUBTÍTULO I
+
+Auxílio em matéria penal e de contra-ordenação social
 
 ### CAPÍTULO I — Auxílio
 
@@ -718,7 +724,9 @@ Salvo no caso de se encontrar já definida a competência territorial, aos actos
 
 As custas eventualmente devidas no processo instaurado no Estado requerente, anteriormente à aceitação do pedido de delegação, acrescem às devidas no processo instaurado no Estado requerido e são neste cobradas, sem reembolso, àquele Estado.
 
-## SUBTÍTULO II — Extradição
+SUBTÍTULO II
+
+Extradição
 
 ### CAPÍTULO I — Condições de extradição
 
@@ -994,7 +1002,9 @@ b) As despesas do envio ao Estado requerente de coisas apreendidas nos termos do
 
 c) As despesas causadas pelo trânsito de extraditado provindo de terceiro Estado.
 
-## SUBTÍTULO III — Eficácia das sentenças criminais
+SUBTÍTULO III
+
+Eficácia das sentenças criminais
 
 ### CAPÍTULO I — Definições
 
@@ -1362,7 +1372,7 @@ Os Estados Contratantes tomarão as medidas legislativas que considerem apropria
 
 Os Estados Contratantes tomarão as medidas legislativas que considerem apropriadas a fim de permitirem que seja tomada em consideração qualquer sentença criminal contraditória, para o efeito de condenação em privação de direitos, total ou parcial, que, segundo as leis nacionais, for consequência das sentenças proferidas nos respectivos territórios. Os mesmos Estados determinarão as condições em que aquela sentença deverá ser tomada em consideração.
 
-# PARTE II — Cooperação em matéria de identificação, registo e notariado, formação e informação
+## PARTE II — Cooperação em matéria de identificação, registo e notariado, formação e informação
 
 ## TÍTULO I — Identificação
 
@@ -1416,7 +1426,7 @@ Os Estados Contratantes obrigam-se reciprocamente a comunicar, logo que possíve
 
 4 - A colaboração na formação de pessoal será objecto de acordos específicos.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### Artigo 143.º — Autenticação e legalização de documentos
 
@@ -1438,8 +1448,8 @@ Feito na cidade de Luanda, em 30 de Agosto de 1995, em dois exemplares em língu
 
 Pela República Portuguesa:
 
-**O Ministro da Justiça, Álvaro Laborinho Lúcio.**
+O Ministro da Justiça, Álvaro Laborinho Lúcio.
 
 Pela República de Angola:
 
-**O Ministro da Justiça, Paulo Pchipilika.**
+O Ministro da Justiça, Paulo Pchipilika.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1983, 2º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4172-(43) a 4172-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf
 entry_into_force_dates: []
@@ -46,36 +46,158 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-1983-630642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07f91a7a0dc0e51443372ff288527912468bbb12a3636ec45e87261121857da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166df3841401d477fd5255ea07dd030eba75c90b2549fe28f088efea9428394b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:178294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676444:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:35Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +208,7 @@ A Assembleia da República resolveu, nos termos do n.º 4 do artigo 169.º da Co
 
 Aprovada em 14 de Dezembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 Orçamento da Assembleia da República para o ano de 1984
 
@@ -114,13 +236,13 @@ Total ... 1281380
 
 Desenvolvimento do orçamento da receita para 1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf))](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
 
 Justificações das referências n.os 1 e 2 - Verba inscrita no Orçamento Geral do Estado de 1984 para suporte das despesas com o funcionamento da Assembleia da República e órgãos dela dependentes - [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (LOAR); [Lei n.º 69/79](https://diariodarepublica.pt/dr/detalhe/lei/69-1979-364884), de 11 de Outubro (Conselho de Imprensa); [Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/lei/3-1979-476695), de 10 de Janeiro (CNAEBA); [Lei n.º 71/78](https://diariodarepublica.pt/dr/detalhe/lei/71-1978-325307), de 27 de Dezembro (CNE); Lei do Conselho da Comunicação Social; [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de Setembro, e [Resolução n.º 202/82](https://diariodarepublica.pt/dr/detalhe/resolucao/202-1982-377142), de 26 de Outubro (SCE/PIDE/DGS e LP), e [Lei n.º 81/77](https://diariodarepublica.pt/dr/detalhe/lei/81-1977-281427), de 22 de Novembro.
 
 Desenvolvimento do orçamento da despesa para 1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf))](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
 
 Recapitulação
 
@@ -136,7 +258,7 @@ Os deputados têm direito a receber um subsídio mensal equivalente ao venciment
 
 e 14.º, n.º 1:
 
-**O Presidente da Assembleia da República tem direito a um subsídio complementar dos subsídios referidos no n.º 1 do artigo 8.º, por forma que o quantitativo total seja igual ao vencimento do Primeiro-Ministro.**
+O Presidente da Assembleia da República tem direito a um subsídio complementar dos subsídios referidos no n.º 1 do artigo 8.º, por forma que o quantitativo total seja igual ao vencimento do Primeiro-Ministro.
 
 e despacho de 10 de Fevereiro de 1983 do Secretário de Estado do Orçamento:
 
@@ -144,7 +266,7 @@ Concorda com a alteração aos vencimentos dos membros do Governo - Primeiro-Min
 
 Justificação da referência n.os 2 - N.º 2 do artigo 14.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados):
 
-**O Presidente da Assembleia da República, independentemente dos subsídios previstos no número anterior, tem direito a despesas de representação num quantitativo igual ao estabelecido ao Primeiro-Ministro.**
+O Presidente da Assembleia da República, independentemente dos subsídios previstos no número anterior, tem direito a despesas de representação num quantitativo igual ao estabelecido ao Primeiro-Ministro.
 
 e artigo 1.º do [Decreto-Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1981-389862), de 27 de Janeiro:
 
@@ -446,4 +568,4 @@ Justificação das referências n.os 153 e 154 - N.º 2 do artigo 41.º da [Lei 
 
 A dotação orçamental do Serviço do Provedor de Justiça constará de verba inscrita no orçamento da Assembleia da República.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

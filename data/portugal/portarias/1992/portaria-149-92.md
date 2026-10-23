@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/058b00/12271229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/149/1992/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-1992-168054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db75b0884538a4b53f58992d98aa01984b8dc1ef4a7229ef9e4a5fbe565e3df5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc1cba216ad5654c7bf5d3c071155ba9a3f8576ee9e11687aa2b787728eaa292
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,11 @@ relationships:
   target: pt:dre:284922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345100:por
+  label: "Alterado o artigo 10.º pela PORT.708/93.31.07.1993.MM, DR.IS-B [178] de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/708-1993-345100
+  date: '1993-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
@@ -80,16 +85,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/410/1991/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/410/1991/05/15/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641427:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:284922:por
+  label: "Revogada pela PORT.1102-E/2000.2000.11.22.MADRP DR.IS-B [270]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-e-2000-284922
+  date: '2000-11-22'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:54Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +148,7 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 27 de Fevereiro de 1992.**
+Assinada em 27 de Fevereiro de 1992.
 
 Pelo Ministro do Mar, João Casimiro Marçal Alves, Secretário de Estado das Pescas.
 
@@ -238,4 +272,4 @@ No anexo único ao presente Regulamento e que dele faz parte integrante são rep
 
 ## ANEXO ÚNICO — Representação gráfica a que se refere o artigo 12º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/058b00/12271229.pdf))](https://files.diariodarepublica.pt/1s/1992/03/058b00/12271229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/058b00/12271229.pdf)

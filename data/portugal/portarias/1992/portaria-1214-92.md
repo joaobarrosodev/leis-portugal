@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1214/1992/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1214-1992-621685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a0b4f1c25b045c05a60845f358369a7029f80160aff5e84a0c13e13f3e60c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d2f986aef8792b7784c7a45fcde7d1f2abf42bd025ef928791486bb34a751c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Hospital Distrital
+- Pessoal de Saúde
 - Pessoal Técnico Superior de Serviço Social
-- Vila Real
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
@@ -93,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1991/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1991/09/04/p/dre
+- type: cites
+  target: pt:dre:305052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580656:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 17/93, PUBLICADA NO DR.IS-B, 25, 2 SUPL, DE 930130.\0130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-1993-580656
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:34Z'
   warnings: []
   errors: []
 ---
@@ -123,10 +154,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Novembro de 1992.**
+Assinada em 24 de Novembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/297b00/59585958.pdf))](https://files.diariodarepublica.pt/1s/1992/12/297b00/59585958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/297b00/59585958.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/181b00/39873988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/785/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/785-1991-682255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 578450b08dae41181ed0bd4c474299e18d5ec6286fb384a2d581733dec283b62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 427c2d271b590895df897492e796f7f23c3b44675106eb5cbc0df2316b1e3fe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
-- Recursos do Mar
-- Proteção do Ambiente
-- Madeira.região Autónoma
 - Açores
+- Madeira.região Autónoma
+- Pesca
+- Proteção do Ambiente
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:284924:por
@@ -79,16 +79,21 @@ relationships:
   target: celex:31984R2108
   label: null
   source: http://data.europa.eu/eli/reg/1984/2108/oj
+- type: repealed_by
+  target: pt:dre:284924:por
+  label: "Revogada pela PORT.1102-G/2000.2000.11.22.MADRP DR.IS-B [270]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-g-2000-284924
+  date: '2000-11-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:03Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +124,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 3 de Julho de 1991.**
+Assinada em 3 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, João Casimiro Marçal Alves, Secretário de Estado das Pescas.

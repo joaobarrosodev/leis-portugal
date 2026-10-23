@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/343/1992/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/343-1992-200014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8603df7215e9f90f8163a4408799aaa532b93d3e23366bab7ff1b1df56f7a77c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f85f7a87fd91ff9146198a66dfa47e118e1032ef28baedd64077d92d164102
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração do Porto de Sines
 - Administração de Portos
-- Regulamento
+- Administração do Porto de Sines
 - Portos
+- Regulamento
 - Sines
 - Tarifa Portuária
 relationships:
@@ -76,20 +76,49 @@ relationships:
   target: pt:dre:348336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485583:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º e 19.º do Regulamento, aprovado pela Portaria 40-A/86, de 29 de\
+    \ Janeiro, na redacção do presente diploma, pela PORT.240/93.27.02.1993.MM, DR.IS-B [49]Supl de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/240-1993-485583
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 9.º, 11.º, 13.º, 14.º, 16.º, 19.º, 19.º-A e 20.º do Regulamento, aprovado pela Portaria 40-A/86,\
+    \ de 29 de Janeiro, na redacção do presente diploma, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26-Supl] de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/75/1991/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/1991/01/28/p/dre
+- type: cites
+  target: pt:dre:508596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664307:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:213427:por
+  label: "Rectificado o n.º 2 (entrada em vigor) pela DECL-RECT.69/92.30.05.1992.PCM, DR.IS-B [125]2ºSupl de 30.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/69-1992-213427
+  date: '1992-05-30'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:35Z'
   warnings: []
   errors: []
 ---
@@ -178,6 +207,6 @@ b) Pela utilização das infra-estruturas portuárias, incluindo todas as áreas
 
 Ministério do Mar.
 
-**Assinada em 19 de Março de 1992.**
+Assinada em 19 de Março de 1992.
 
-**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**
+O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 154/1991, 2º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3494-(79) a 3494-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b02/00790079.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-z3/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-z3-1991-205988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b34ff5c921376cdea7bb090ecfe9ef9c5f153f346fd5d72ded710120b07b025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c67b8e7be0d8c4e731aa7ab1fea86af895882fb44600ea4574073d7b2d66073
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,83 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:449410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402143:por
+  label: "Repristinada pela PORT.667-M9/93.1993.07.14.MA DR.IS-B [163]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-m9-1993-402143
+  date: '1993-07-14'
+- type: amended_by
+  target: pt:dre:651152:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e das\
+    \ actividades de carácter venatório na zona de caça, alterada pelas Port 304/93, de 16-Mar, 667-M9/93, de 14-Jul, e 688/2001,\
+    \ de 06-Jul PORT.644/2003.2003.07.29.MADRP, DR.IS-B [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/644-2003-651152
+  date: '2003-07-29'
+- type: amended_by
+  target: pt:dre:429660:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pelo presente diploma, pela PORT.1339/2003.05.12.2003.MECO,\
+    \ DR.IS-B [281] de 05.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1339-2003-429660
+  date: '2003-12-05'
+- type: amended_by
+  target: pt:dre:528441:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, renovada pela Port 1339/2003, de\
+    \ 05-Dez, pela PORT.1037-H/2004.12.08.2004.MAPF, DR.IS-B [189-Supl] de 12.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-h-2004-528441
+  date: '2004-08-12'
+- type: amended_by
+  target: pt:dre:449410:por
+  label: "Transferida para a ISIPEC a zona de caça concessionada pelo presente diploma, renovada pela Port 1339/2003, de 05-Dez,\
+    \ e alterada pela Port 1037-H/2004, de 12-Ago, pela PORT.427/2008.17.06.2008.MAOTDR, DR.IS [115] de 17.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-2008-449410
+  date: '2008-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:634329:por
+  label: "Revogada parcialmente pela PORT.304/93.1993.03.16.MA DR.IS-B [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-1993-634329
+  date: '1993-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:53Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +175,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b02/00790079.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b02/00790079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/00790079.pdf)

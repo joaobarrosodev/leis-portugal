@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 154/1991, 1º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3494-(12) a 3494-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b01/00120012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-m/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-m-1991-206063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0b4f3b3fb90970945bf88612319017a698afcdfdbd974ca876b0111652257c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c8e30e052c306c01da6f91858448f55a376cc362b27eb543e2d9585b616c20b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,37 @@ relationships:
   target: pt:dre:449191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288183:por
+  label: "Suspensa a actividade cinegética na zona de caça associativa pela PORT.337/2000.2000.06.12.MADRP, DR.IS-B [135]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-2000-288183
+  date: '2000-06-12'
+- type: amended_by
+  target: pt:dre:336131:por
+  label: "Renovada, pelo período de seis anos, a concessão atribuída pelo presente diploma, pela PORT.572/2000.2000.08.08.MADRP\
+    \ DR.IS-B [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-2000-336131
+  date: '2000-08-08'
+- type: amended_by
+  target: pt:dre:361363:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.341/2001.2001.04.04.MADRP DR.IS-B [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-2001-361363
+  date: '2001-04-04'
+- type: amended_by
+  target: pt:dre:537438:por
+  label: "Renovada, por um período de seis anos e determinada a redução da área de concessão da zona de caça efectuada pelo\
+    \ presente diploma, renovada pela Portaria 572/2000, de 08 de Agosto, e alterada pela Portaria 341/2001, de 04 de Abril,\
+    \ pela PORT.704/2006.13.07.2006.MADRP, DR.IS [134] de 13.07.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-2006-537438
+  date: '2006-07-13'
+- type: amended_by
+  target: pt:dre:449191:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 572/2000,\
+    \ de 08-Ago, alterada pela Port 341/2001, de 04-Abr e alterada e renovada pela Port 704/2006, de 13-Jul, pela PORT.381/2008.27.05.2008.MADRP,\
+    \ DR.IS [101] de 27.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/381-2008-449191
+  date: '2008-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
@@ -82,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/250/1991/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/250/1991/03/26/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621679:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:24Z'
   warnings: []
   errors: []
 ---
@@ -130,8 +185,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b01/00120012.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b01/00120012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b01/00120012.pdf)

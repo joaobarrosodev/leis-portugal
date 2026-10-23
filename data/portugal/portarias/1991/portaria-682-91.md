@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/682/1991/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/682-1991-663549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0910bd13b6c8206a3aad56cc047ada0d35affc756ce5c5118eb015fc181ddf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10593948125ca37dd0f2cb213e8cec433ac0ecaeaeb6efd4028a96220fc08f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,92 @@ relationships:
   target: pt:dre:604436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202579:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuida, pela PORT.665/97.1997.08.12.MADRP DR.IS-B [185]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/665-1997-202579
+  date: '1997-08-12'
+- type: amended_by
+  target: pt:dre:686204:por
+  label: "Renovada por seis anos a concessão atribuída pelo presente diploma pela PORT.1164/97.1997.11.14.MADRP DR.IS-B [264]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1164-1997-686204
+  date: '1997-11-14'
+- type: amended_by
+  target: pt:dre:447733:por
+  label: "Alterada a denominação do Clube de Caça a que se refere o presente diploma, pela PORT.614/98.1998.08.26.MADRP DR.IS-B\
+    \ [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/614-1998-447733
+  date: '1998-08-26'
+- type: amended_by
+  target: pt:dre:392588:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.477/99.1999.06.29.MADRP DR.IS-B [149]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1999-392588
+  date: '1999-06-29'
+- type: amended_by
+  target: pt:dre:651162:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa da Herdade da Sapatoa, alterada pela\
+    \ Port 1164/97, de 14-Nov, pela Port 614/98, de 26-Ago e pela Port 477/99, de 29-Jun, pela PORT.649/2003.29.07.2003.MADRP,\
+    \ DR.IS-B [173] de 29.07.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-2003-651162
+  date: '2003-07-29'
+- type: amended_by
+  target: pt:dre:245162:por
+  label: "Anexado um prédio rústico à Zona de caça concessionada pelo presente diploma, alterada pela Ports. 477/99 de 29-Jun\
+    \ e 614/98 de 26-Ago e renovada pelas Ports. 1164/97 de 14-Nov e 649/2003 de 29-Jul, pela PORT.716/2005.25.08.2005.MADRP,\
+    \ DR.IS-B [163] de 25.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-2005-245162
+  date: '2005-08-25'
+- type: amended_by
+  target: pt:dre:642242:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, com as alterações constantes das\
+    \ Port 614/98 de 26-Ago, 477/99 de 29-Jun, 649/2003 de 29-Jul e 716/2005 de 25-Ago, pela PORT.1220/2007.20.09.2007.MADRP,\
+    \ DR.IS [182] de 20.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2007-642242
+  date: '2007-09-20'
+- type: amended_by
+  target: pt:dre:604436:por
+  label: "Anexado o prédio rústico denominado Herdade Monte da Igreja à zona de caça associativa da Herdade da Sapatôa, criada\
+    \ pelo presente diploma, alterado pela Port 1164/97, de 12-Ago, pela Port 614/98, de 26-Ago, pela Port 477/99, de 29-Jun,\
+    \ pela Port 649/2003, de 24-Jul, pela Port 716/2005, de 25-Ago e pela Port 1220/2007, de 20-Set, pela PORT.436/2009.24.04.2009.MADRP,\
+    \ DR.IS [80] de 24.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-2009-604436
+  date: '2009-04-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:28Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +191,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893590.pdf))](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893590.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893590.pdf)

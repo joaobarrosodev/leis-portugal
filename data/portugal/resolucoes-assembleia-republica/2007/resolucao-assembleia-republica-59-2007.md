@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/59/2007/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2007-628500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5093ebb20ac17a8ffcf3fb6f0c8c5ff4fc0bc453029ec357d883f5097c69b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa0d9f6352f4f9a59c4e640e71a09f58d814287081127a669ac24982b1eaad26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
 subjects:
 - Badajoz
 - Convenção
-- Portugal
 - Criação de Serviços
 - Espanha
 - Estatuto
 - Laboratório Ibérico Internacional de Nanotecnologia
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:628499:por
+  label: "Ratificado o Estatuto pelo DEC.125/2007.22.11.2007.PR, DR.IS [225] de 22.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/125-2007-628499
+  date: '2007-11-22'
 article_structure:
   article_count: 35
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:58Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Setembro de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ESTATUTO DO LABORATÓRIO IBÉRICO INTERNACIONAL DE NANOTECNOLOGIA (LIN)
 
@@ -128,7 +133,7 @@ Que deve fomentar a cooperação internacional com outras regiões, tais como a 
 
 acordam no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Criação do Laboratório
 
@@ -212,7 +217,7 @@ O Laboratório pode admitir a participação de empresas, associações de empre
 
 2 - Os acordos de cooperação estão sujeitos à aprovação do Conselho.
 
-# PARTE II — Órgãos e funcionamento
+## PARTE II — Órgãos e funcionamento
 
 ###### Artigo 10.º — Órgãos
 
@@ -330,7 +335,7 @@ c) Se, num programa de actividades específico, o montante das contribuições e
 
 5 - Qualquer pessoa que não pertença ao quadro de pessoal e que seja convidada pelo ou em nome do Conselho para trabalhar no Laboratório fica submetida à autoridade do director-geral e às condições gerais aprovadas pelo Conselho.
 
-# PARTE III — Financiamento
+## PARTE III — Financiamento
 
 ###### Artigo 19.º — Orçamento
 
@@ -408,7 +413,7 @@ O Conselho, após consulta ao Comité Financeiro, adopta regras relativas à ges
 
 3 - O Comité Financeiro examina a estimativa de orçamento apresentada pelo Director-Geral e depois submete-a, juntamente com o seu relatório sobre esta, à apreciação do Conselho.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 27.º — Depositário
 
@@ -478,11 +483,11 @@ Feito em Badajoz em 25 de Novembro de 2006, nas línguas portuguesa, espanhola e
 
 Pela República Portuguesa:
 
-**O Primeiro-Ministro, José Sócrates.**
+O Primeiro-Ministro, José Sócrates.
 
 Pelo Reino de Espanha:
 
-**O Presidente do Governo, José Luis Rodriguez Zapatero.**
+O Presidente do Governo, José Luis Rodriguez Zapatero.
 
 ESTATUTO DEL LABORATORIO IBÉRICO INTERNACIONAL DE NANOTECNOLOGÍA
 
@@ -514,7 +519,7 @@ Que fomentará la cooperación internacional con otras regiones, en particular A
 
 han convenido en lo siguiente:
 
-# PARTE I — Introducción
+## PARTE I — Introducción
 
 Artículo 1
 
@@ -616,7 +621,7 @@ Cooperación
 
 2 - Los acuerdos de cooperación estarán sujetos a la aprobación del Consejo.
 
-# PARTE II — Órganos y funcionamiento
+## PARTE II — Órganos y funcionamiento
 
 Artículo 10
 
@@ -754,7 +759,7 @@ Personal
 
 5 - Toda persona que no sea miembro del personal y que haya sido invitada por el Consejo o en nombre del mismo a trabajar en el Laboratorio lo hará bajo la dirección y el control del Director General y de conformidad con las condiciones generales que apruebe el Consejo.
 
-# PARTE III — Financiación
+## PARTE III — Financiación
 
 Artículo 19
 
@@ -848,7 +853,7 @@ Comité Financiero
 
 3 - El Comité Financiero estudiará las previsiones presupuestarias presentadas por el Director General y a continuación las someterá, junto con su propio informe sobre las mismas, al Consejo.
 
-# PARTE IV — Disposiciones finales
+## PARTE IV — Disposiciones finales
 
 Artículo 27
 

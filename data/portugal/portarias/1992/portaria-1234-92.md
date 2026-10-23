@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1234/1992/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1234-1992-408712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d35b0d1bfe64e2a09d10c384e5556049c18a6bc280ec544e1cbf0ec97e027de0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22535183b01404c75d40519b411e71d6e23177dab4001661e8e9e1bfa55624f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ subjects:
 - Embalagem
 - Proteção do Consumidor
 - Qualidade do Produto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:303114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:07Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +122,6 @@ Recipientes com capacidade superior a 0,15 l - 18 cm x 1,85 cm.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 27 de Novembro de 1992.**
+Assinada em 27 de Novembro de 1992.
 
 Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

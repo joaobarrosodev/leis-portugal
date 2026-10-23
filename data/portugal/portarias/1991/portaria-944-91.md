@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/944/1991/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1991-301473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0d947e4731c54d49d978ffd92c73086eedbebdaff015f58e6399e56e0ab67f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e1afbfd58d4ba1eb7e323c18ac7ac832f02f65f1a1438c439e76cab56f20ec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Mestrado em Relações Interculturais
+- Plano de Estudos
 - Universidade Aberta
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:54Z'
   warnings: []
   errors: []
 ---
@@ -198,11 +218,11 @@ O início de funcionamento do curso ficará dependente de autorização expressa
 
 Ministério da Educação.
 
-**Assinada em 3 de Setembro de 1991.**
+Assinada em 3 de Setembro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo I à Portaria n.º 944/91
+Anexo I à Portaria n.º 944/91
 
 Universidade Aberta
 
@@ -222,7 +242,7 @@ b) Ciências da Educação - 4;
 
 c) Políticas e Estratégias - 6.
 
-## Anexo II à Portaria n.º .../92
+Anexo II à Portaria n.º .../92
 
 Universidade Aberta
 
@@ -230,4 +250,4 @@ Curso especializado conducente ao mestrado em Relações Interculturais
 
 Curso: Relações Internacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/214b00/49184920.pdf))](https://files.diariodarepublica.pt/1s/1991/09/214b00/49184920.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/214b00/49184920.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/22/1996/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1996-423025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba5ff8913ba9ec34705db4e361e2acff1fd8af4ffed1fe0cf3a65c0e8eaca566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c95ff28bce8b37c56624313eb2c1aa179b73ba344af4a5a95cda5f7eb6d614d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Associação
 - CE Países
 - CECA
-- Direitos do Homem
+- Comércio
 - Comunidade Europeia
-- Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
 - Concorrência
-- Pesca
-- Pagamento
-- Indústria
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Mercado de Capitais
-- Mercado Financeiro
-- Proteção do Ambiente
-- Política Aduaneira
+- Convenção
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Política
-- Política Social
-- Produtos de Pesca
-- Agricultura
-- Associação
+- Cooperação Técnica
 - Dados Pessoais
-- Comércio
+- Direitos do Homem
+- Indústria
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Mercado Agrícola
+- Mercado de Capitais
+- Mercado Financeiro
+- Pagamento
+- Pesca
+- Política Aduaneira
+- Política Social
+- Portugal
+- Produtos de Pesca
+- Proteção do Ambiente
 - Tunísia
 relationships:
 - type: cites
@@ -107,14 +107,14 @@ relationships:
   source: /application/external/tratado
 article_structure:
   article_count: 160
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:59Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +127,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 22 de Março de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ## ANEXO
 
@@ -183,7 +183,7 @@ acordaram no seguinte:
 
 As relações entre as Partes, tal como todas as disposições do presente Acordo, baseiam-se no respeito dos princípios democráticos e dos direitos do homem que presidem às suas políticas internas e externas e que constituem um elemento essencial do Acordo.
 
-## TÍTULO I
+TÍTULO I
 
 Diálogo político
 
@@ -217,7 +217,7 @@ c) Através da utilização plena dos canais diplomáticos, nomeadamente de reun
 
 d) Sempre que necessário, recorrendo a outros meios que contribuam para a intensificação e a eficácia do diálogo.
 
-## TÍTULO II
+TÍTULO II
 
 Livre circulação das mercadorias
 
@@ -485,7 +485,7 @@ Para efeitos de aplicação do disposto no presente título, o conceito de «pro
 
 Para a classificação das mercadorias nas trocas comerciais entre as duas Partes é utilizada a Nomenclatura Combinada das mercadorias.
 
-## TÍTULO III
+TÍTULO III
 
 Direito de estabelecimento e livre prestação de serviços
 
@@ -841,7 +841,7 @@ c) Prevenção do desvio dos precursores e outras substâncias essenciais utiliz
 
 As duas Partes definirão em conjunto as modalidades necessárias para a realização da cooperação nos domínios abrangidos pelo presente título.
 
-## TÍTULO VI
+TÍTULO VI
 
 Cooperação social e cultural
 
@@ -951,7 +951,7 @@ Cooperação cultural
 
 3 - As partes acordam em que os programas de cooperação cultural existentes na Comunidade ou num ou mais dos seus Estados membros podem ser alargados à Tunísia.
 
-## TÍTULO VII
+TÍTULO VII
 
 Cooperação financeira
 
@@ -981,7 +981,7 @@ No âmbito dos instrumentos comunitários destinados a apoiar os programas, de a
 
 Com vista a assegurar uma abordagem coordenada dos problemas macroeconómicos e financeiros excepcionais que poderão resultar da execução progressiva das disposições do Acordo, as Partes concederão especial atenção ao acompanhamento da evolução das trocas comerciais e das relações financeiras entre a Comunidade e a Tunísia no âmbito do diálogo económico regular estabelecido nos termos do título V.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Disposições institucionais, gerais e finais
 
@@ -1121,23 +1121,23 @@ O presente Acordo entra em vigor no 1.º dia do 2.º mês seguinte à data em qu
 
 2 - A partir da entrada em vigor, o presente Acordo substitui o Acordo de Cooperação entre a Comunidade Europeia e a República da Tunísia, bem como o Acordo entre os Estados membros da Comunidade Europeia do Carvão e do Aço e a República da Tunísia, assinados em Tunis em 25 de Abril de 1976.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO N.º 1 — Mercadorias referidas no n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO N.º 2 — Produtos referidos no n.º 2 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
-## ANEXO N.º 3 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+## ANEXO N.º 3 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
-## ANEXO N.º 4 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+## ANEXO N.º 4 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
-## ANEXO N.º 5 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+## ANEXO N.º 5 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
-## ANEXO N.º 6 — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+## ANEXO N.º 6 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO N.º 7 — Relativo à propriedade Intelectual, Industrial e comercial
 
@@ -1197,7 +1197,7 @@ Em conformidade com a legislação da Tunísia, estes vinhos possuem as seguinte
 
 3 - As Partes reexaminarão a situação durante o 2.º semestre de 1999, a fim de determinarem o regime aplicável a partir de 1 de Janeiro do ano 2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE DE PRODUTOS DA PESCA ORIGINARIOS DA TUNÍSIA.
 
@@ -1205,7 +1205,7 @@ PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE DE
 
 A importação na Comunidade dos produtos a seguir enumerados, originários da Tunísia, é isenta de direitos aduaneiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 PROTOCOLO N.º 3, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA TUNÍSIA DE PRODUTOS AGRÍCOLAS ORIGINÁRIOS DA COMUNIDADE
 
@@ -1213,11 +1213,11 @@ PROTOCOLO N.º 3, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA TUNÍSIA DE P
 
 Relativamente aos produtos originários da Comunidade enumerados em anexo, os direitos aduaneiros de importação na Tunísia não serão superiores aos indicados na coluna A, dentro dos limites dos contingentes pautais indicados na coluna B.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 PROTOCOLO N.º 4, RELATIVO A DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS METODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -1249,7 +1249,7 @@ j) «Classificado», a classificação de um produto ou matéria numa posição 
 
 k) «Remessa», os produtos que são enviados simultaneamente por um mesmo exportador para um mesmo destinatário ou ao abrigo de um documento de transporte único que abrange o seu transporte do exportador para o destinatário ou, na falta desse documento, ao abrigo de uma factura única.
 
-## TÍTULO II
+TÍTULO II
 
 Definição da noção de «produtos originários»
 
@@ -1397,7 +1397,7 @@ Os sortidos, definidos na regra geral 3 do Sistema Harmonizado, são considerado
 
 A fim de determinar se um produto é originário da Comunidade ou da Tunísia não será necessário averiguar a origem da energia eléctrica, do combustível, das instalações, do equipamento, das máquinas e das ferramentas utilizados para obtenção do referido produto, ou das matérias utilizadas que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III
+TÍTULO III
 
 Requisitos territoriais
 
@@ -1495,7 +1495,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1505,7 +1505,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritos na casa «Observações» da segunda via do certificado de circulação EUR.1
 
@@ -1533,7 +1533,7 @@ b) Conter o cunho, aposto pelo exportador autorizado, de um carimbo especial apr
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7 «Observações» do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 5 - A casa n.º 11 «Visto da alfândega» do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -1631,7 +1631,7 @@ Para cada período sucessivo de cinco anos, os montantes expressos em ecus e o s
 
 Ao proceder a essa revisão, o Conselho de Associação garantirá que os montantes a utilizar em moeda nacional não registem uma diminuição e considerará, além disso, a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, o Conselho de Associação pode decidir alterar os montantes expressos em ecus.
 
-## TÍTULO V
+TÍTULO V
 
 Métodos de cooperação administrativa
 
@@ -1673,7 +1673,7 @@ Serão aplicadas sanções a qualquer pessoa que emita ou mande emitir um docume
 
 2 - Em derrogação do n.º 1, quando os produtos originários da Comunidade ou da Tunísia. importados numa zona franca ao abrigo de um certificado EUR.1, forem sujeitos a um tratamento ou a uma transformação, as autoridades aduaneiras competentes devem emitir um novo certificado EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente Protocolo.
 
-## TÍTULO VI
+TÍTULO VI
 
 Ceuta e Melilha
 
@@ -1717,7 +1717,7 @@ ii) Esses produtos sejam originários de Ceuta e Melilha ou da Comunidade, na ac
 
 5 - As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente Protocolo em Ceuta e Melilha.
 
-## TÍTULO VII
+TÍTULO VII
 
 Disposições finais
 
@@ -1953,7 +1953,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto fabricado possa adquirir o carácter de produto originário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -1963,7 +1963,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Tunísia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de ordem, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 Notas:
 
@@ -1973,7 +1973,7 @@ Notas:
 
 3 - As mercadorias serão designadas conforme os usos comerciais, com as indicações necessárias para permitir a sua identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 Declaração do exportador
 
@@ -2023,7 +2023,7 @@ Tunísia/Comunidade Europeia (ver nota 2) (ver nota 3);
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO VI — Modelo de declaração
 
@@ -2033,7 +2033,7 @@ a) (ver nota 1) Satisfazem as regras relativas à definição de «produtos inte
 
 b) (ver nota 1) Foram produzidas a partir dos produtos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 e foram submetidas às operações de complemento de fabrico seguintes:
 
@@ -2045,7 +2045,7 @@ Feito em ..., em ...
 
 (nota 1) Preencher se necessário
 
-## ANEXO VII — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+## ANEXO VII — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
 
 ## ANEXO VIII — Declaração comum relativa ao artigo 1.º
 
@@ -2383,4 +2383,4 @@ Não obstante os acordos bilaterais concluídos entre a Tunísia e determinados 
 
 A Tunísia deseja que a questão do reagrupamento familiar seja objecto de discussões aprofundadas com a Comunidade, com vista à flexibilização e à melhoria das condições do reagrupamento familiar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf))](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/158a00/17861851.pdf)

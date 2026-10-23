@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/1997/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-1997-398539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d7e7bb7e21ecbf2ee461e53daf04a0c69ddbbae77f1a4d9933c130055a8098a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04350b47010f131d3d6feea7b29100e9d8362312ef1013ea0a95cc626de15c0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Convenção
-- Portugal
 - Apoio ao Investimento
+- Convenção
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:13Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA LETÓNIA SOBRE A PROMOÇÃO E A PROTECÇÃO MÚTUA DE INVESTIMENTOS.
 
@@ -250,7 +250,7 @@ Feito em ..., em duplicado, no dia 27 do mês de Setembro do ano de 1995, em por
 
 Em caso de divergência na interpretação, prevalecerá o texto inglês.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf))](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
 
 PROTOCOLO
 
@@ -270,7 +270,7 @@ Feito em ..., em duplicado, no dia 27 do mês de Setembro do ano de 1995, em por
 
 Em caso de divergência na interpretação, prevalecerá o texto em inglês.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf))](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
 
@@ -452,7 +452,7 @@ Done in ..., in duplicate, at this 27 day of September 1995, in the Portuguese, 
 
 In case of any divergence of interpretation, the English text shall prevail.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf))](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
 
 PROTOCOL
 
@@ -472,4 +472,4 @@ Done in ..., in duplicate, at this 27 day of September 1995, in the Portuguese, 
 
 In case of any divergence of interpretation, the English text shall prevail.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf))](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/116a00/24782488.pdf)

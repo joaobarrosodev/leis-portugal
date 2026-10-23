@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/307/1992/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-1992-198308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7abdf89ea6d6facaf424f748dd156c2a91e106894b0a6a562ab80206660c6de8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee98d61190d4445eb56e9d33eefaf5c9dc4ff80c1c39e37bf72572268b9ee6f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de ARTE de Trabalhar Madeira
 - Curso de ARTE de Trabalhar Metais
 - Curso Técnico de Confecção
@@ -76,22 +75,67 @@ subjects:
 - Ensino Profissional
 - Escola Profissional Instituto de Artes e Ofícios
 - Escola Tecnológica Artística e Profissional
+- Plano de Estudos
 - Pombal
 relationships:
 - type: amended_by
   target: pt:dre:157586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDOS OS PLANOS DE ESTUDOS DOS CURSOS DE 'ARTE DE TRABALHAR METAIS' E DE 'ARTE DE TRABALHAR MADEIRAS' PELOS\
+    \ PUBLICADOS EM ANEXO A PORT 1112/95 DE 12-SET DR.IS-B [211]\0.IS-B [211]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-12'
+- type: amended_by
+  target: pt:dre:147616:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Electrónica/Comando, criado pelo presente diploma,\
+    \ que é revogado parcialmente, no que àquele curso se refere pela PORT.903/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no nº 9º da citada portaria \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2005-147616
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147653:por
+  label: "Extintos, a partir de 27.09.2005 os cursos profissionais de Pintura Decorativa e Douragem e de Técnico de Cerâmica/Decoração\
+    \ e Pintura de Cerâmica e Azulejo [criados pela Port 482/89 de 28-Jun] com os planos de estudos aprovados e publicados\
+    \ pelo presente diploma, que é revogado parcialmente, no que àqueles cursos se refere pela PORT.918/2005.26.09.2005.ME,\
+    \ DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no nº 9º da citada Port 918/2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-2005-147653
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Gestão, a funcionar na Escola Tecnológica Artística e Profissional de\
+    \ Pombal e cujo Plano de Estudos consta do Mapa anexo ao presente diploma, revogado parcialmente na parte referente ao\
+    \ citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no n.º 9.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:157586:por
+  label: "Extinto a partir de 05.10.2005 o curso profissional de Técnico de Confecção, criado pela Port 482/89 de 28 e cujo\
+    \ plano de estudos foi aprovado e publicado pelo presente diploma, que é revogado parcilamente no que àquele curso se\
+    \ refere pela PORT.978/2005.04.10.2005.ME, DR.IS-B [191] de 04.10.2005, sem prejuízo do disposto no nº 9º da citada Port\
+    \ 978/2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-2005-157586
+  date: '2005-10-04'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620875:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:16:43Z'
   warnings: []
   errors: []
 ---
@@ -114,14 +158,14 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 26 de Fevereiro de 1992.**
+Assinada em 26 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf))](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf))](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/081b00/16351637.pdf)

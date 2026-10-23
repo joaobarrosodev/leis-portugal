@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1164/1992/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1164-1992-623011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d675f2c116d3ece071d7162661a9d90241e4188807c6f0c1312f95f9b9cff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03fdb31e7c96221cbdfa75a3ea51199282d53a927909c6a38db72aad59911e78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:687025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 31/93, PUBLICADA NO DR.IS-B, 49, 4 SUPL, DE 930227.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 22 E ADITADO O CAPÍTULO VI E OS ANEXOS III, IV, E V AO REGULAMENTO ANEXO A PRESENTE PORTARIA,\
+    \ PELA PORTARIA 396/94, DE 21 DE JUNHO, PUBLICADA NO DR.IS-B, 141.\0NO DR.IS-B, 141."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-21'
 - type: cites
   target: celex:31975L0324
   label: null
@@ -96,16 +107,21 @@ relationships:
   target: celex:31990L0492
   label: null
   source: http://data.europa.eu/eli/dir/1990/492/oj
+- type: repealed_by
+  target: pt:dre:687025:por
+  label: "Revogado pela PORT.1152/97.1997.11.12.MECO DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1152-1997-687025
+  date: '1997-11-12'
 article_structure:
   article_count: 31
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:22Z'
   warnings: []
   errors: []
 ---
@@ -122,9 +138,9 @@ Manda o Governo, pelos Ministros da Indústria e Energia, da Saúde e do Ambient
 
 Ministérios da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 12 de Novembro de 1992.**
+Assinada em 12 de Novembro de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 Regulamento para a Classificação, Embalagem e Rotulagem das Preparações Perigosas
 
@@ -238,7 +254,7 @@ a) O fabricante alterar a composição da preparação, substituindo ou acrescen
 
 b) O fabricante alterar a concentração inicial, expressa em percentagem em peso, de um ou vários componentes perigosos para a saúde, presentes nessas preparações, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 ##### SUBSECÇÃO III — Método convencional de cálculo
 
@@ -554,7 +570,7 @@ c) Para o efeito da alínea anterior, as frases combinadas, constantes dos anexo
 
 2 - As dimensões do rótulo devem, se possível, corresponder aos seguintes formatos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 3 - Estes formatos destinam-se exclusivamente a conter as informações exigidas pelo presente Regulamento e, eventualmente, indicações complementares de higiene ou de segurança.
 
@@ -626,7 +642,7 @@ Os limites de concentração fixados no quadro I determinam a classificação da
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 A atribuição das frases de risco R à preparação efectua-se de acordo com os critérios seguintes:
 
@@ -640,7 +656,7 @@ Os limites de concentração, expressos em percentagem volume/volume e constante
 
 QUADRO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 2 - Efeitos irreversíveis não letais após uma única exposição
 
@@ -650,7 +666,7 @@ Para as substâncias que produzem efeitos irreversíveis não letais após uma �
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 b) Preparações gasosas
 
@@ -658,7 +674,7 @@ Relativamente aos gases que produzem tais efeitos (R39-R40), os limites de conce
 
 QUADRO II-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 3 - Efeitos graves após exposição repetida ou prolongada
 
@@ -668,7 +684,7 @@ Para as substâncias que provocam efeitos graves após exposição repetida ou p
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 b) Preparações gasosas
 
@@ -676,7 +692,7 @@ Relativamente aos gases que produzem tais efeitos (R48), os limites de concentra
 
 QUADRO III-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 4 - Efeitos corrosivos e irritantes
 
@@ -686,7 +702,7 @@ Para as substâncias que produzem efeitos corrosivos (R34, R35) ou efeitos irrit
 
 OUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 b) Preparações gasosas
 
@@ -694,7 +710,7 @@ Relativamente aos gases que produzem tais efeitos (R34, R35, R36, R37, R38, R41)
 
 QUADRO IV-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 5 - Efeitos sensibilizantes
 
@@ -712,7 +728,7 @@ Os limites de concentração individuais fixados no quadro V determinam, se nece
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 b) Preparações gasosas
 
@@ -720,7 +736,7 @@ Os gases que produzem tais efeitos são classificados pelo menos como nocivos (X
 
 QUADRO V-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 6 - Efeitos cancerígenos, mutagénicos e teratogénicos
 
@@ -730,7 +746,7 @@ Para as substâncias que apresentam tais efeitos e cujas concentrações limites
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 b) Preparações gasosas
 
@@ -738,7 +754,7 @@ Relativamente aos gases que apresentam tais efeitos e cujas concentrações limi
 
 QUADRO VI-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291b00/58415853.pdf)
 
 ## ANEXO II — Disposições especiais relativas à rotulagem de determinadas preparações
 

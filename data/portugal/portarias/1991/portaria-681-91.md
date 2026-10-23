@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/681/1991/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-1991-663553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46fc4c6e99fa1ae52cec20c2b97d7a340efe06eae194a6c88047902a8b4055cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eddd54205a477b67d960a7dd6b4bb3113d7b17a87206bfb9d8851336db519e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,58 @@ relationships:
   target: pt:dre:640371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378899:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça turística pela PORT.939/2001.2001.07.30.MADRP,\
+    \ DR.IS-B [175] de 2001/JUL/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/939-2001-378899
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:265497:por
+  label: "Renovada por um periodo de seis anos a concessão da zona de caça atribuida pela presente portaria, pela PORT.222/2002.2002.03.12.MECO,\
+    \ DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-2002-265497
+  date: '2002-03-12'
+- type: amended_by
+  target: pt:dre:640371:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pelo presente diploma, e renovada pela Port 222/2002\
+    \ de 12-Mar, pela PORT.1174/2007.13.09.2007.MADRP, DR.IS [177] de 13.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-2007-640371
+  date: '2007-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:26Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +157,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 20 de Junho de 1991.**
+Assinada em 20 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893589.pdf))](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/160b00/35893589.pdf)

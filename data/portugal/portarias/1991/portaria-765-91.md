@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/765/1991/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/765-1991-687796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4452168d33523cf98121028e37458310b1ac95949b0318907d8ba6b6b011490
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a0674ca79bd045dd11969335cd54603e0f19a6a200996155777393563b32c28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Carreira Profissional
 - Criação de Serviços
 - Esquadra Policial
-- Carreira Profissional
 - Faro
-- Recrutamento de Pessoal
+- PSP
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Tavira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/530/1991/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/530/1991/06/15/p/dre
+- type: cites
+  target: pt:dre:546987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:37Z'
   warnings: []
   errors: []
 ---
@@ -144,6 +156,6 @@ Guardas de 1.ª e 2.ª classes ... 35
 
 Ministério da Administração Interna.
 
-**Assinada em 4 de Julho de 1991.**
+Assinada em 4 de Julho de 1991.
 
-**O Ministro da Administração Interna, Manuel Pereira.**
+O Ministro da Administração Interna, Manuel Pereira.

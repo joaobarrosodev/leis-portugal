@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 203/1991, 1º Suplemento, Série I-B de 1991-09-04
   number: '203'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4688-(2) a 4688-(72)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/922/1991/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1991-658615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c86fb975489e3dc4a64ba84415d34a0f0a7429c5b0b863c10ff10af7b6827026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de86ff851fb5b77a6f1409851255df0a777d552cb8d4af7032a86cb74a4e5bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Fardamento
 - Força Aérea
 - Regulamento
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:668148:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668148:por
+  label: "Revogada pela Port 1054/97.1997.10.16.MDN, DR.IS-B [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1054-1997-668148
+  date: '1997-10-16'
 article_structure:
   article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:23Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +122,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos da alínea e) do n
 
 Ministério da Defesa Nacional.
 
-**Assinada em 20 de Junho de 1991.**
+Assinada em 20 de Junho de 1991.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.
 
 Regulamento de Uniformes da Força Aérea (RUFA)
 
@@ -1355,7 +1372,7 @@ c) Os de metal usam-se suspensos do botão do bolso superior direito do casaco e
 
 ### CAPÍTULO 4 — PLANO DE UNIFORMES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf))](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)
 
 ### CAPÍTULO 5 — Dotações e duração
 
@@ -1455,7 +1472,7 @@ Sobretudo.
 
 DOTAÇÕES E DURAÇÃO DOS ARTIGOS DE FARDAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf))](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)
 
 ### CAPÍTULO 6 — Disposições gerais
 
@@ -1571,4 +1588,4 @@ Os oficiais adjuntos dos comandantes das forças integrando militares dos três 
 
 ### CAPÍTULO 7 — FIGURAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf))](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b01/00020072.pdf)

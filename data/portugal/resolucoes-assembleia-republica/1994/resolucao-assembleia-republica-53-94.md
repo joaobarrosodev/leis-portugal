@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/191a00/48234826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/53/1994/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-1994-218500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a0fcfa471ea1a1f4e96f3e4ed46817b9a9232b9509b49e48aa0e9029573a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2e7f6f014193819b102121d5d0f59a67056a441daede9f37a78d37bde3acbb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
 - Comissão Nacional de Protecção de Dados Pessoais Informatizados
+- Confidencialidade
+- Dados Pessoais
 - Definição de Competências
 - Informática
-- Base de Dados
-- Segurança da Informação
-- Sistema de Informação
-- Confidencialidade
 - Quadro de Pessoal
 - Regulamento
-- Dados Pessoais
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:480712:por
@@ -85,16 +85,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10/1991/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/1991/04/29/p/dre
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480712:por
+  label: "Revogada pela LEI.43/2004.18.08.2004.AR, DR.IS-A [194] de 18.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2004-480712
+  date: '2004-08-18'
 article_structure:
   article_count: 23
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:48Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +116,7 @@ A Assembleia da República resolve, nos termos do artigo 169.º, n.º 5, da Cons
 
 Aprovada em 14 de Julho de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 Regulamento da Comissão Nacional de Protecção de Dados Pessoais Informatizados
 
@@ -247,7 +256,9 @@ No 1.º trimestre de cada ano é elaborado o relatório relativo às actividades
 
 2 - A proposta do orçamento anual e as alterações orçamentais são aprovadas pela Comissão.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Disposições gerais
 
@@ -263,7 +274,7 @@ Disposições gerais
 
 ###### Artigo 18.º — Distribuição
 
-**O presidente fixa as regras de distribuição dos processos.**
+O presidente fixa as regras de distribuição dos processos.
 
 ###### Artigo 19.º — Reclamações, queixas e petições
 

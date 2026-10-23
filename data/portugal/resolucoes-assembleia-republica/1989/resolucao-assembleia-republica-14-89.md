@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1989-609799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ebe9a3e1a596cc9974875288395008af3d764ce3b5c36162f4110c2d0958847
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfa955b96ae0d59f18a5df3fdc2682b6dae89083273ecd6e9fd0d224be62352a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio Internacional
+- Convenção
+- Fundo Comum para os Produtos de BASE
+- Portugal
+- Produto de BASE
+- Programa Integrado para Produtos de BASE
 relationships:
 - type: amended_by
   target: pt:dre:107648317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107648317:por
+  label: Aprovadas as alterações ao Acordo pelo(a) Resolução da Assembleia da República n.º 146/2017 - Diário da República
+    n.º 130/2017, Série I de 2017-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/146-2017-107648317
+  date: '2017-07-07'
 article_structure:
   article_count: 58
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:01Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 6 de Janeiro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ## ANEXO — ACCORD PORTANT CRÉATION DU FONDS COMMUN POUR LES PRODUITS DE BASE
 
@@ -1128,7 +1140,7 @@ ANNEXE A
 
 Souscriptions d'actions de capital représenté par les contributions directes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
 
 ANNEXE B
 
@@ -1198,7 +1210,7 @@ Appendice
 
 Attribution des voix
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
 
 ANNEXE E
 
@@ -2136,7 +2148,7 @@ só entrará em vigor quando aceite por todos os membros. Considerar-se-á haver
 
 ###### Artigo 55.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário deste Acordo.**
+O Secretário-Geral das Nações Unidas será o depositário deste Acordo.
 
 ###### Artigo 56.º — Adesão
 
@@ -2160,7 +2172,7 @@ Certificado como sendo um texto autêntico. - Kewin W. Scott, Secretário, Naç�
 
 ## ANEXO A — Subscrições de acções de capital representado por contribuições directas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
 
 ## ANEXO B — Medidas especiais para os países menos desenvolvidos em conformidade com o n.º 6 do artigo 11.º
 
@@ -2220,11 +2232,11 @@ c) O montante do capital de garantia.
 
 5 - Os ajustamentos na distribuição de votos, em conformidade com o n.º 4 deste anexo, serão feitos de acordo com as regras e regulamentos a serem aprovados para o efeito, por uma maioria altamente qualificada, pelo conselho de governadores na sua primeira assembleia ordinária.
 
-## Apêndice
+Apêndice
 
 Distribuição de votos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21042149.pdf)
 
 ## ANEXO E — Eleição dos directores executivos
 

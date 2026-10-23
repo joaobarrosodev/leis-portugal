@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/931/1991/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/931-1991-300433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c70ef6966728179b88497a403b8e7d00ca19b8effb206ebd54d8a17146401f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adb1463446f4cd9d4185e74f0c9f5f7ab439ceee6779efcaec0d2b927dae96ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,33 @@ relationships:
   target: pt:dre:406736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551229:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406736:por
+  label: "Rectificado o sumário pela DECL-RECT.240/91.31.10.1991.PCM, DR.IS-B [251]5ºSupl de 31.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/240-1991-406736
+  date: '1991-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:35Z'
   warnings: []
   errors: []
 ---
@@ -114,14 +131,14 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e da Ind
 
 Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Energia.
 
-**Assinada em 13 de Agosto de 1991.**
+Assinada em 13 de Agosto de 1991.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
-## ANEXO I - LISTA DE FABRICANTES AUTORIZADOS DE PRÉ - MISTURAS
+ANEXO I - LISTA DE FABRICANTES AUTORIZADOS DE PRÉ - MISTURAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf))](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf)
 
-## ANEXO II - LISTA DE FABRICANTES AUTORIZADOS DE ALIMENTOS COMPOSTOS
+ANEXO II - LISTA DE FABRICANTES AUTORIZADOS DE ALIMENTOS COMPOSTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf))](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/210b00/48624865.pdf)

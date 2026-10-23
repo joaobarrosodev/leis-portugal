@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/38/1993/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/38-1993-533270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a81f84ffbe2f695811d332f4f0710841a0ec238cff85fe7306e5806f35d43e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97735aedeee86900d19c4883c5fe01a33b8ecda19b158bfe72b316892b0c2795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Política de Saúde
 - ACTO Constitutivo
+- Convenção
 - OMS
-relationships: []
+- Política de Saúde
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:533375:por
+  label: "Ratificadas as emendas aos arts. 24.º e 25.º da Constituição da Organização Mundial de Saúde, aprovadas, para ratificação,\
+    \ pelo presente diploma, cujo texto consta de Av do MNE, de 10-Jul de 1948, pelo DEC.60/93.14.12.1993.PR, DR.IS-A [290]\
+    \ de 14.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/60-1993-533375
+  date: '1993-12-14'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:37Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +100,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 20 de Outubro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 AMENDEMENTS AUX ARTICLES 24 ET 25 DE LA CONSTITUTION
 

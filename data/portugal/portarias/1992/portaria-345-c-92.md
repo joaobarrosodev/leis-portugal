@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 88/1992, 1º Suplemento, Série I-B de 1992-04-14
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1782-(3) a 1782-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/345-c/1992/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/345-c-1992-156850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed22986c9441ed67a5fba94c597d82ed1a22065ea57744249185593f2e6493e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 100c62845243fd7cfb6edaf3c5641932d8711e758828dee5356aaaf7bf1e3713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Regional de Segurança Social
-- Quadro de Pessoal
 - Évora
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:300213:por
@@ -78,16 +78,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/121/1991/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/121/1991/02/11/p/dre
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620942:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:42Z'
   warnings: []
   errors: []
 ---
@@ -108,16 +132,16 @@ Manda o Governo, pela Secretária de Estado Adjunta e do Orçamento e pelo Secre
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 13 de Abril de 1992.**
+Assinada em 13 de Abril de 1992.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 345-C/92, de 14 de Abril
 
 Centro Regional de Segurança Social de Évora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf))](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf)
 
 Pessoal que se mantém abrangido pelo regime de trabalho da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf))](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/088b01/00030004.pdf)

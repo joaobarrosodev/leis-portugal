@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/422/1992/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1992-523639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39369d325248087309c18eebf7de4f07adeaa44601364c36f86549458d619c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38a2b14a1b7cc36a8959bd5869266e8ed1d31f521fc73f81f1d399577bf40abb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,58 +68,274 @@ reuse:
 subjects:
 - Abrantes
 - Barreiro
-- Médico
+- Beja
+- Bragança
 - Caldas da Rainha
+- Castelo Branco
 - Centro Hospitalar de VILA NOVA de GAIA
 - Chaves
+- Coimbra
 - Covilhã
+- Estabelecimento Hospitalar
+- Figueira da Foz
 - Hospital Central
-- Hospital de Crianças Maria Pia
 - Hospital da Universidade de Coimbra
+- Hospital de Crianças Maria Pia
 - Hospital de EGAS Moniz
 - Hospital de Joaquim Urbano
 - Hospital de Santa Cruz
 - Hospital de Santa Maria
 - Hospital de São Francisco Xavier
-- Hospital Distrital
 - Hospital de São João
+- Hospital Distrital
+- Hospital Geral de Santo António
 - Hospital Ortopédico do Dr José de Almeida
 - Leiria
 - Matosinhos
+- Médico
 - Mirandela
-- Beja
-- Castelo Branco
-- Vila Real
-- Figueira da Foz
-- Coimbra
 - Portalegre
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
-- Hospital Geral de Santo António
-- Bragança
 - Torres Novas
 - Viana do Castelo
 - VILA NOVA de Famalicão
 - VILA NOVA de GAIA
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585033:por
+  label: "Alterado o quadro de pessoal m&#233;dico do Hospital Amato Lusitano - Castelo Branco, pela PORT.69/93.19.01.1993.MF,\
+    \ DR.IS-B [15] de 19.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1993-585033
+  date: '1993-01-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE VILA NOVA DE FAMALIC&#195;O, PELA PORT 290/93 DE 13-MAR
+    DR.IS-B [61]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL M&#201;DICO DOS HOSPITAIS DA UNIVERSIDADE DE COIMBRA, PELA PORT 343/93 DE 23-MAR DR.IS-B
+    [69]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORT 385/93 DE 06-ABR DR.IS-B [81]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DAS AS ALTERA&#199;&#213;ES RELATIVAS AO QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE LEIRIA, PELA PORT
+    403/93 DE 15-ABR DR.IS-B [88]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-15'
+- type: amended_by
+  target: pt:dre:300060:por
+  label: "Aumentados os quadros de pessoal, pela PORT.458/93.30.04.1993.MF, DR.IS-B [101] de 30.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1993-300060
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:645703:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE PORTALEGRE, PELA PORT 976/93 DE 04-OUT DR.IS-B [233]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-1993-645703
+  date: '1993-10-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL M&#201;DICO DO HOSPITAL DE SANTA MARIA, PELA PORT 978/93 DE 06-OUT DR.IS-B [234]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL M&#201;DICO DO HOSPITAL DE EGAS MONIZ, PELA PORT 999/93 DE 11-OUT DR.IS-B [238]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DA FIGUEIRA DA FOZ, PELA PORT 906/94 DE 11-OUT DR.IS-B
+    [235]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DE SANTO ANT&#211;NIO PELO CONSTANTE DO ANEXO A PORT 1019/94 DE
+    22-NOV DR.IS-B [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DE SAO FRANCISCO XAVIER, PELA PORT 1109/94 DE 12-DEZ DR.IS-B [285]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE CRIAN&#199;AS MARIA PIA, PELA PORT 229/95 DE 27-MAR DR.IS-B [73]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-27'
+- type: amended_by
+  target: pt:dre:231484:por
+  label: "Alterado o quadro de pessoal médico do Hospital Distrital de Castelo Branco, aprovado pelo presente diploma, e posteriormente\
+    \ alterado pelas Portarias n.os 69/93, de 19 de Janeiro, e 458/93, de 30 de Abril, pela PORT.269/95.04.04.1995.MF, DR.IS-B\
+    \ [80] de 04.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1995-231484
+  date: '1995-04-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL APROVADO, PELA PORT 978/95 DE 16-AGO DR.IS-B [188]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-16'
+- type: amended_by
+  target: pt:dre:431802:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Castelo Branco, pela PORT.1029/95.22.08.1995.MF, DR.IS-B [193]\
+    \ de 22.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1029-1995-431802
+  date: '1995-08-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DE VILA NOVA DE GAIA, PELA PORT 1172/95 DE 25-SET DR.IS-B
+    [222]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITALAR DISTRITAL DA COVILH&#195;, PELA PORT 1188/95 DE 28-SET DR.IS-B
+    [225]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JO&#195;O PELA PORT 1356/95 DE 16-NOV DR.IS-B [265]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DE SANTA MARIA, PELA PORT 1376/95 DE 22-NOV DR.IS-B [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DOUTOR JOS&#201; MARIA GRANDE (HOSPITAL DISTRITAL DE PORTALEGRE),
+    PELA PORT 415/96 DE 27-AGO DR.IS-B [198]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITU&#205;DO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE MIRANDELA PEL PORT 436/96 DE 03-SET DR.IS-B [204]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITU&#205;DO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DAS CALDAS DA RAINHA PELA 541/96 DE 03-OUT DR.IS-B [230]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-10-03'
+- type: amended_by
+  target: pt:dre:232348:por
+  label: "Substituído o quadro de pessoal do Centro Hospitalar das Caldas da Rainha, pela PORT.541/96.03.10.1996.PCM, DR.IS-B\
+    \ [230] de 03.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/541-1996-232348
+  date: '1996-10-03'
+- type: amended_by
+  target: pt:dre:179549:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Castelo Branco pela PORT.621/96.1996.10.31.PCM, DR.IS-B [253]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1996-179549
+  date: '1996-10-31'
+- type: amended_by
+  target: pt:dre:145975:por
+  label: "Alterado o quadro de pessoal médico do Hospital de São Pedro - Vila Real pela Port.757/96.1996.12.26.PCM, DR.IS-B\
+    \ [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1996-145975
+  date: '1996-12-26'
+- type: amended_by
+  target: pt:dre:515399:por
+  label: "Alterado o quadro pela Port.164/97.1997.03.07.PCM, DR.IS-B [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1997-515399
+  date: '1997-03-07'
+- type: amended_by
+  target: pt:dre:156390:por
+  label: "Alterado o quadro de pessoal do Hospital da Universidade de Coimbra, na redacção dada pela Port 343/93 de 23-Mar,\
+    \ pela PORT.439/97.1997.07.03.PCM, DR.IS-B [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/439-1997-156390
+  date: '1997-07-03'
+- type: amended_by
+  target: pt:dre:218337:por
+  label: "Alterado o quadro de pessoal do Hospital Central e Especializado de Crianças Maria Pia aprovado pela Port 142/98.98.03.06.PCM,DR.IS-B\
+    \ [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1998-218337
+  date: '1998-03-06'
+- type: amended_by
+  target: pt:dre:521835:por
+  label: "Alterado o quadro de pessoal do Hospital de São Pedro (Vila Real), aprovado pelo presente diploma, pela PORT.300/98.1998.05.18.PCM\
+    \ DR.IS-B [114]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-1998-521835
+  date: '1998-05-18'
+- type: amended_by
+  target: pt:dre:322511:por
+  label: "Alterado o quadro de pessoal do Hospital Amato Lusitano - Castelo Branco, aprovado pelo presente diploma, pela PORT.342/99.1999.05.14.PCM,\
+    \ DR.IS-B [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1999-322511
+  date: '1999-05-14'
+- type: amended_by
+  target: pt:dre:540850:por
+  label: "Alterado o quadro de pessoal do Hospital Rainha Santa Isabel-Torres Novas pela PORT.980/2000.2000.10.13.MF,DR.IS-B\
+    \ [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/980-2000-540850
+  date: '2000-10-13'
+- type: amended_by
+  target: pt:dre:345910:por
+  label: "Alterado o quadro de pessoal do Hospital Amato Lusitano pela PORT.315/2001.2001.04.02.MF,DR.IS-B [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2001-345910
+  date: '2001-04-02'
+- type: amended_by
+  target: pt:dre:607076:por
+  label: "Alterado no referente &#225; carreira m&#233;dica hospitalar o quadro de pessoal do Hospital Amato Lusitano - Castelo\
+    \ Branco, aprovado pelo presente diploma, alterado pelas Port 741/92, de 24-Jul, 69/93, de 19-Jan, 458/93, de 30-Abr,\
+    \ 269/95, de 04-Abr, 1029/95, de 22-Ago, 621/96, de 31-Out, 164/97, de 07-Mar, 31/98, de 19-Jan, 721/98, de 09-Set, 342/99,\
+    \ de 14-Mai e 315/2001, de 02-Abr, pela PORT.76/2004.21.01.2004.MF, DR.IS-B [17] de 21.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2004-607076
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:44Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +356,8 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 12 de Março de 1992.**
+Assinada em 12 de Março de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/118b00/24262459.pdf))](https://files.diariodarepublica.pt/1s/1992/05/118b00/24262459.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/118b00/24262459.pdf)

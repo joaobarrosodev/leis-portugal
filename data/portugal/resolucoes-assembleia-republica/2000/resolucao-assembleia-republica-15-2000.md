@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/15/2000/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-2000-408529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd3123ad4389867b3f4b183dd691a1de2fdb9018b0e98f151090e92e12eaf88d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74d0eb39429dc3ad0adf85ecac72cf6637b9256b0199e793e96370410802b92f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- NATO
+- Bruxelas
 - Convenção
-- Portugal
 - Documentação Classificada
 - Informação
+- NATO
+- Portugal
 - Segurança da Informação
-- Bruxelas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:408532:por
+  label: "Ratificado o Acordo aprovado, para ratificação pelo presente diploma, pelo DEC.3/2000.2000.03.06.PR DR.IS-A [55]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-2000-408532
+  date: '2000-03-06'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:50Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de Dezembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 AGREEMENT BETWEEN THE PARTIES TO THE NORTH ATLANTIC TREATY FOR THE SECURITY OF INFORMATION
 
@@ -173,7 +179,7 @@ In witness whereof the undersigned, duly authorized to this effect by their resp
 
 Done in Brussels, this 6th day of March, 1997, in a single copy in the English and French languages, each text being equally authoritative, which shall be deposited in the archives of the Government of the United States of America and of which certified copies shall be transmitted by that Government to each of the other signatories.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)
 
 ANNEX I
 
@@ -275,7 +281,7 @@ En foi de quoi les représentants ci-dessous, dûment autorisés à cet effet pa
 
 Fait à Bruxelles, le 6 mars 1997, en un seul exemplaire, en langues anglaise et française, chaque texte faisant également foi, qui sera versé aux archives du Gouvernement des États-Unis d'Amérique, qui en transmettra des copies certifiées conformes à chacun des autres signataires.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07660772.pdf)
 
 ANNEXE I
 
@@ -349,7 +355,7 @@ Para aplicação do artigo 1.º do presente Acordo, as Partes promoverão a cria
 
 ###### Artigo 4.º
 
-**O Secretário-Geral deve garantir que as disposições do presente Acordo são aplicadas pela OTAN (ver anexo III).**
+O Secretário-Geral deve garantir que as disposições do presente Acordo são aplicadas pela OTAN (ver anexo III).
 
 ###### Artigo 5.º
 

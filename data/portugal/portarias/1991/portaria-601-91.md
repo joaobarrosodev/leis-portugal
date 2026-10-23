@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/601/1991/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/601-1991-668278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f14151c311b68f022d401e716e2105029a3adc9908bfd65eb48549b2e5c5f9fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4140b0d8def9de967891d20ff9869fee4229d3a13a2dd6a99b5a24f0aa27eaa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,26 @@ relationships:
   target: pt:dre:666566:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221158:por
+  label: "Alterados os n.ºs 3.º e 4.º e aditada a secção IV-A, pela PORT.996/92.22.10.1992.MA, DR.IS-B [244] de 22.10.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/996-1992-221158
+  date: '1992-10-22'
+- type: amended_by
+  target: pt:dre:656416:por
+  label: "Aditados os concelhos de Carregal do Sal, Nelas, Mangualde, Viseu e Tondela ao elenco pertencente à Direcção Regional\
+    \ de Agricultura da Beira Litoral, constante do anexo ao presente diploma, pela PORT.203/93.18.02.1993.MA, DR.IS-B [41]\
+    \ de 18.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-1993-656416
+  date: '1993-02-18'
+- type: amended_by
+  target: pt:dre:666566:por
+  label: "Aditados os concelhos de Sertã, Mação, Oleiros, Meda, Seia, Vila de Rei, Belmonte, Gouveia e Almeida, ao elenco\
+    \ pertencente à Direcção Regional de Agricultura da Beira Interior, constante do anexo ao presente diploma, pela PORT.1108/93.02.11.1993.MA,\
+    \ DR.IS-B [256] de 02.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-1993-666566
+  date: '1993-11-02'
 - type: cites
   target: celex:31985R3828
   label: null
@@ -80,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:33Z'
   warnings: []
   errors: []
 ---
@@ -375,11 +395,11 @@ São revogadas as Portarias n.os 259/87, de 2 de Abril, e 672/88, de 7 de Outubr
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 22 de Maio de 1991.**
+Assinada em 22 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere a alínea a) do n.º 4.º da Portaria n.º 601/91
+Anexo a que se refere a alínea a) do n.º 4.º da Portaria n.º 601/91
 
 Direcção Regional de Agricultura de Trás-os-Montes
 

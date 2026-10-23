@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/827/1991/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/827-1991-674212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dfc81f9e84305473ad1d56c684ff26b0679f291e1736da27223f4c2aa13cc75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92c121be25313de783f5d429d3112d43c057b4f36e6b056649971be4bbfc4438
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Estrasburgo
 - Pessoal Assalariado
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:03Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +108,6 @@ Um secretário de 3.ª classe.
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 10 de Julho de 1991.**
+Assinada em 10 de Julho de 1991.
 
 Pelo Ministro dos Negócios Estrangeiros, Duarte Ivo Cruz, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/770/1991/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1991-687793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a4e28d73ab85867bd20a9d9b69ac2239fa2104b64636789ab51cdbddf8887c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 103338a32c3fa4310387e9724c168892fe198788077856ce039919694e2a8df3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
-- Instituto Superior de Línguas e Administração
 - Curso Superior de Gestão de Recursos Humanos
 - Curso Superior de Tradução
+- Instituto Superior de Línguas e Administração
+- Plano de Estudos
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:677828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651690:por
+  label: "Alterado, substituído e redenominado o plano de estudos do curso superior de Gestão de Recursos Humanos, aprovado\
+    \ no presente diploma, pela PORT.956/93.29.09.1993.ME, DR.IS-B [229] de 29.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/956-1993-651690
+  date: '1993-09-29'
+- type: amended_by
+  target: pt:dre:677828:por
+  label: "Alterado, substituído e redenominado o plano de estudos do curso superior de Tradução, aprovado no presente diploma,\
+    \ pela PORT.1283/95.28.10.1995.ME, DR.IS-B [250] de 28.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1283-1995-677828
+  date: '1995-10-28'
+- type: cites
+  target: pt:dre:547239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:43Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +133,7 @@ Curso superior de Gestão de Recursos Humanos; Curso superior de Tradução.
 
 Ministério da Educação.
 
-**Assinada em 16 de Junho de 1991.**
+Assinada em 16 de Junho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -121,10 +141,10 @@ Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de E
 
 Curso superior de Gestão de Recursos Humanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf))](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf)
 
 ## ANEXO II — Instituto Superior de Línguas e Administração - Santarém
 
 Curso superior de Tradução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf))](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/179b00/38983898.pdf)

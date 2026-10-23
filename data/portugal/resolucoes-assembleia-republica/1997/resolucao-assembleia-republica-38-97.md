@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/38/1997/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/38-1997-350479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb4c6b6d29813d12a212a79b76ee4c3e477b24236a2a55c8496dea8f97d9041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e6bfb06aab6717b617885dec45bc2f3bfbed3bb8175ffccb16520d555d30ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,19 @@ subjects:
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Port Louis
+- Portugal
 relationships: []
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:19Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 31 de Janeiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE ALTERAÇÃO DA QUARTA CONVENÇÃO ACP-CE DE LOMÉ
 
@@ -132,13 +132,13 @@ Réginald Moreels, Secretário de Estado da Cooperação para o Desenvolvimento;
 
 Sua Majestade a Rainha da Dinamarca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf))](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Werner Hoyer, Ministro Adjunto dos Negócios Estrangeiros;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Georges Romaios, Ministro Adjunto dos Negócios Estrangeiros;
 
@@ -146,15 +146,15 @@ Sua Majestade o Rei de Espanha:
 
 Apolonio Ruiz Ligero, Secretário de Estado do Comércio;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Jacques Godfrain, Ministro Delegado Encarregado da Cooperação;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Gerard Corr, Director-Geral do Ministério dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Emanuele Scammacca, Secretário de Estado dos Negócios Estrangeiros;
 
@@ -166,15 +166,15 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Sjoerd Gosses, Director-Geral da Cooperação Europeia;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Benita Ferrero Waldner, Secretária de Estado dos Negócios Estrangeiros;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José Lamego, Secretário de Estado dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República da Finlândia:**
+O Presidente da República da Finlândia:
 
 Pekka Haavisto, Ministro do Ambiente e da Cooperação para o Desenvolvimento;
 
@@ -192,7 +192,7 @@ Javier Solana, Ministro dos Negócios Estrangeiros, Presidente, em exercício, d
 
 João de Deus Pinheiro, membro da Comissão das Comunidades Europeias;
 
-**O Presidente da República de Angola:**
+O Presidente da República de Angola:
 
 João Baptista Kussumva, Vice-Ministro do Planeamento e da Coordenação Económica;
 
@@ -200,11 +200,11 @@ Sua Majestade a Rainha de Antígua e Barbuda:
 
 Starret D. Greene, Ministro Conselheiro;
 
-**O Chefe de Estado da Commonwealth das Baamas:**
+O Chefe de Estado da Commonwealth das Baamas:
 
 Arthur A. Foulkes, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Chefe de Estado de Barbados:**
+O Chefe de Estado de Barbados:
 
 Billie A. Miller, Vice-Primeira-Ministra e Ministra dos Negócios Estrangeiros, do Turismo e dos Transportes Internacionais;
 
@@ -212,47 +212,47 @@ Sua Majestade a Rainha de Belize:
 
 Russel Garcia, Ministro da Agricultura e das Pescas;
 
-**O Presidente da República do Benim:**
+O Presidente da República do Benim:
 
 Edmond Cakpo-Tozo, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República do Botswana:**
+O Presidente da República do Botswana:
 
 Tenente-general Mompati Merafhe, Ministro dos Negócios Estrangeiros;
 
-**O Presidente do Burkina Faso:**
+O Presidente do Burkina Faso:
 
 Youssouf Ouedraogo, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República do Burundi:**
+O Presidente da República do Burundi:
 
 Gérard Niyibigira, Ministro do Plano;
 
-**O Presidente da República dos Camarões:**
+O Presidente da República dos Camarões:
 
 Justin Ndioro, Ministro da Economia e das Finanças;
 
-**O Presidente da República de Cabo Verde:**
+O Presidente da República de Cabo Verde:
 
 José Luís Rocha, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República Centro-Africana:**
+O Presidente da República Centro-Africana:
 
 Dogo Nendje Bhe, Ministro da Economia, do Plano e da Cooperação Internacional;
 
-**O Presidente da República Federal Islâmica das Comores:**
+O Presidente da República Federal Islâmica das Comores:
 
 Mouzaoir Abdallah, Ministro dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República do Congo:**
+O Presidente da República do Congo:
 
 Luc Daniel Adamo Mateta, Ministro Delegado junto do Ministro da Economia e das Finanças, encarregado do Orçamento e da Coordenação das Empresas Estatais;
 
-**O Presidente da República da Costa do Marfim:**
+O Presidente da República da Costa do Marfim:
 
 N'goran Niamien, Ministro Delegado junto do Primeiro-Ministro, encarregado da Economia, das Finanças e do Plano;
 
-**O Presidente da República de Jibuti:**
+O Presidente da República de Jibuti:
 
 Ali Abdi Farah, Ministro da Indústria, da Energia e das Minas;
 
@@ -260,31 +260,31 @@ O Governo da Commonwealth da Dominica:
 
 N. M. Charles, Ministro do Comércio e do Marketing;
 
-**O Presidente da República Dominicana:**
+O Presidente da República Dominicana:
 
 Angel Lockward, Secretário de Estado e Gestor Nacional para a IV Convenção de Lomé;
 
-**O Presidente do Estado da Eritreia:**
+O Presidente do Estado da Eritreia:
 
 Berhane Abrehe, director de Macropolítica e da Cooperação Económica Internacional junto do Presidente;
 
-**O Presidente da República Democrática Federal da Etiópia:**
+O Presidente da República Democrática Federal da Etiópia:
 
 Girma Biru, Ministro da Economia, do Desenvolvimento e da Cooperação;
 
-**O Presidente da República Soberana Democrática de Fiji:**
+O Presidente da República Soberana Democrática de Fiji:
 
 Ratu Timoci Vesikula, Vice-Primeiro-Ministro e Ministro da Agricultura, das Pescas e das Florestas;
 
-**O Presidente da República Gabonesa:**
+O Presidente da República Gabonesa:
 
 Jean Ping, Ministro Delegado junto do Ministro das Finanças, da Economia, do Orçamento e das Participações;
 
-**O Presidente da República da Gâmbia:**
+O Presidente da República da Gâmbia:
 
 Bala Garba Jahumpa, Ministro das Finanças e dos Assuntos Económicos;
 
-**O Presidente da República do Gana:**
+O Presidente da República do Gana:
 
 Alex Ntim Abankwa, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
@@ -292,35 +292,35 @@ Sua Majestade a Rainha de Granada:
 
 Samuel Orgias, encarregado de negócios junto da União Europeia;
 
-**O Presidente da República da Guiné:**
+O Presidente da República da Guiné:
 
 Bobo Camara, embaixador extraordinário e plenipotenciário da União Europeia;
 
-**O Presidente da República da Guiné-Bissau:**
+O Presidente da República da Guiné-Bissau:
 
 Aristides Gomes, Ministro do Plano e da Cooperação;
 
-**O Presidente da República da Guiné Equatorial:**
+O Presidente da República da Guiné Equatorial:
 
 Aurélio Mba Olo Andeme, chefe da Missão junto da União Europeia;
 
-**O Presidente da República Cooperativa da Guiana:**
+O Presidente da República Cooperativa da Guiana:
 
 Clement J. Rohee, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República do Haiti:**
+O Presidente da República do Haiti:
 
 Jean-Marie Cherestal, Ministro do Planeamento e da Cooperação Externa;
 
-**O Chefe de Estado da Jamaica:**
+O Chefe de Estado da Jamaica:
 
 Anthony Hylton, Secretário de Estado dos Negócios Estrangeiros e do Comércio Externo;
 
-**O Presidente da República do Quénia:**
+O Presidente da República do Quénia:
 
 Philip Maingi Mwanzia, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República de Kiribati:**
+O Presidente da República de Kiribati:
 
 Peter Sobby Tsiamalili, embaixador extraordinário e plenipotenciário da Missão da Papuásia-Nova Guiné junto da União Europeia;
 
@@ -328,47 +328,47 @@ Sua Majestade o Rei do Reino do Lesoto:
 
 Moeketsi Senaoana, Ministro das Finanças e do Planeamento Económico;
 
-**O Presidente da República da Libéria:**
+O Presidente da República da Libéria:
 
 Youngor Telewoda, encarregada de negócios junto da União Europeia;
 
-**O Presidente da República de Madagáscar:**
+O Presidente da República de Madagáscar:
 
 Bertrand Razafintsalama, embaixador de Madagáscar junto da República da Maurícia;
 
-**O Presidente da República do Malawi:**
+O Presidente da República do Malawi:
 
 F. Peter Kalilombe, Ministro do Comércio e da Indústria;
 
-**O Presidente da República do Mali:**
+O Presidente da República do Mali:
 
 N'Tji Laïco Traore, embaixador extraordinária e plenipotenciário junto da União Europeia;
 
-**O Presidente da República Islâmica da Mauritânia:**
+O Presidente da República Islâmica da Mauritânia:
 
 Pachour Ould Samba, secretário-geral do Ministério do Plano;
 
-**O Presidente da República da Maurícia:**
+O Presidente da República da Maurícia:
 
 Paramhamsa Nababsing, Vice-Primeiro-Ministro e Ministro do Planeamento Económico e do Desenvolvimento;
 
-**O Presidente da República de Moçambique:**
+O Presidente da República de Moçambique:
 
 Frances Victoria Velho Rodrigues, Vice-Ministra dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República da Namíbia:**
+O Presidente da República da Namíbia:
 
 Stanley Webster, Vice-Ministro da Agricultura, dos Recursos Hídricos e do Desenvolvimento Rural;
 
-**O Presidente da República do Níger:**
+O Presidente da República do Níger:
 
 Almoustapha Soumaila, Ministro das Finanças e do Plano;
 
-**O Chefe de Estado da República Federal da Nigéria:**
+O Chefe de Estado da República Federal da Nigéria:
 
 Chief Ayo Ogunlade, Ministro do Planeamento Nacional;
 
-**O Presidente da República da Uganda:**
+O Presidente da República da Uganda:
 
 M. N. Rukikaire, Ministro de Estado das Finanças e do Planeamento Económico;
 
@@ -376,7 +376,7 @@ Sua Majestade a Rainha do Estado Independente da Papuásia-Nova Guiné:
 
 Moi Avei, Ministro do Planeamento Nacional;
 
-**O Presidente da República do Ruanda:**
+O Presidente da República do Ruanda:
 
 Jean-Berchmans Birara, Ministro do Plano;
 
@@ -392,23 +392,23 @@ Sua Majestade a Rainha de São Vicente e Granadinas:
 
 Edwin Laurent, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Chefe de Estado do Estado Independente de Samoa Ocidental:**
+O Chefe de Estado do Estado Independente de Samoa Ocidental:
 
 Tuilaepa S. Malielegaoi, Vice-Primeiro-Ministro e Ministro das Finanças;
 
-**O Presidente da República Democrática de São Tomé e Príncipe:**
+O Presidente da República Democrática de São Tomé e Príncipe:
 
 Guilherme Posser da Costa, Ministro dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República do Senegal:**
+O Presidente da República do Senegal:
 
 Falilou Kane, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República das Seychelles:**
+O Presidente da República das Seychelles:
 
 Danielle de St. Jorre, Ministra dos Negócios Estrangeiros, do Plano e do Ambiente;
 
-**O Presidente da República da Serra Leoa:**
+O Presidente da República da Serra Leoa:
 
 Victor O. Brandon, Secretário de Estado do Desenvolvimento e do Planeamento Económico;
 
@@ -416,11 +416,11 @@ Sua Majestade a Rainha das Ilhas Salomão:
 
 David Sitai, Ministro do Plano Nacional e do Desenvolvimento;
 
-**O Presidente da República do Sudão:**
+O Presidente da República do Sudão:
 
 Abdalla Hassan Ahmed, Ministro das Finanças;
 
-**O Presidente da República do Suriname:**
+O Presidente da República do Suriname:
 
 Richard B. Kalloe, Ministro do Comércio e da Indústria;
 
@@ -428,15 +428,15 @@ Sua Majestade o Rei do Reino da Suazilândia:
 
 James Majahenkhaba Dlamini, Ministro do Comércio e da Indústria;
 
-**O Presidente da República Unida da Tanzânia:**
+O Presidente da República Unida da Tanzânia:
 
 M. T. Kibwana, comissário do Ministério das Finanças encarregado das Finanças Externas;
 
-**O Presidente da República do Chade:**
+O Presidente da República do Chade:
 
 Mariam Mahamat Nour, Ministra do Plano e da Cooperação;
 
-**O Presidente da República Togolesa:**
+O Presidente da República Togolesa:
 
 Elliot Latevi-Atcho Lawson, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
@@ -444,7 +444,7 @@ Sua Majestade o Rei Taufa'Ahau Tupou IV de Tonga:
 
 Sione Kite, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
-**O Presidente da República da Trindade e Tabago:**
+O Presidente da República da Trindade e Tabago:
 
 Lingston Cumberbatch, embaixador extraordinário e plenipotenciário junto da União Europeia;
 
@@ -456,15 +456,15 @@ O Governo da República de Vanuatu:
 
 Serge Vohor, Ministro dos Assuntos Económicos;
 
-**O Presidente da República do Zaire:**
+O Presidente da República do Zaire:
 
 Mozagba Ngbuka, Vice-Primeiro-Ministro e Ministro da Cooperação Internacional;
 
-**O Presidente da República da Zâmbia:**
+O Presidente da República da Zâmbia:
 
 Dipak K. A. Patel, Ministro do Comércio e da Indústria;
 
-**O Presidente da República do Zimbabwe:**
+O Presidente da República do Zimbabwe:
 
 Denis Norman, Ministro da Agricultura;
 
@@ -894,13 +894,13 @@ c) Os programas sectoriais de importação (PSI) poderão ser utilizados para ap
 
 Cooperação descentralizada
 
-###### Artigo 251.º-A
+Artigo 251.º-A
 
 1 - A fim de reforçar e diversificar a base para o desenvolvimento a longo prazo dos Estados ACP e mobilizar as iniciativas de todos os agentes dos Estados ACP e da Comunidade susceptíveis de contribuírem para o desenvolvimento autónomo dos Estados ACP, a cooperação ACP-CE apoiará, dentro de limites fixados pelos Estados ACP interessados, acções de desenvolvimento no âmbito de uma cooperação descentralizada, em especial quando conjugarem esforços e recursos de organizações dos Estados ACP e da Comunidade. Esta forma de cooperação destina-se em especial a pôr ao serviço do desenvolvimento dos Estados ACP as competências, os métodos de acção inovadores e os recursos dos agentes de cooperação descentralizada.
 
 2 - Os agentes referidos no presente artigo são autoridades públicas descentralizadas, colectividades rurais e locais, cooperativas, sindicatos, centros de ensino e investigação, organizações não governamentais de desenvolvimento e outras associações, grupos e agentes aptos e desejosos de contribuir para o desenvolvimento dos Estados ACP, por sua própria iniciativa, desde que esses agentes e ou as acções por eles realizadas não tenham fins lucrativos.
 
-###### Artigo 251.º-B
+Artigo 251.º-B
 
 1 - No âmbito da cooperação ACP-CE, serão desenvolvidos esforços especiais para incentivar e apoiar as iniciativas dos agentes dos Estados ACP e, em especial, para reforçar as capacidades desses agentes. Nessas circunstâncias, a cooperação apoiará as actividades dos agentes ACP, quer autónomas, quer em associação com agentes similares da Comunidade que ponham à disposição dos seus homólogos dos Estados ACP a sua competência e experiência, a sua capacidade tecnológica e de organização ou recursos financeiros.
 
@@ -908,13 +908,13 @@ Cooperação descentralizada
 
 3 - Esta forma de cooperação será organizada de acordo com o papel e as prerrogativas das autoridades públicas dos Estados ACP.
 
-###### Artigo 251.º-C
+Artigo 251.º-C
 
 1 - As acções de cooperação descentralizada podem ser apoiadas através dos recursos financeiros do programa indicativo ou de fundos de contrapartida. Este apoio será fornecido na medida do necessário para assegurar que a execução das acções propostas seja bem sucedida, desde que a viabilidade dessas acções tenha sido determinada nos termos das disposições relativas à cooperação para o financiamento do desenvolvimento.
 
 2 - Os projectos ou programas abrangidos por esta forma de cooperação podem ou não estar relacionados com programas realizados nos sectores de concentração dos programas indicativos, mas podem ser um meio de atingir os objectivos específicos do programa indicativo ou os resultados de iniciativa dos agentes da cooperação descentralizada.
 
-###### Artigo 251.º-D
+Artigo 251.º-D
 
 1 - Os projectos e programas realizados no âmbito da cooperação descentralizada serão sujeitos à aprovação dos Estados ACP. Estas acções serão financiadas através das contribuições:
 
@@ -926,7 +926,7 @@ c) A título excepcional, do Estado ACP em causa, sob a forma de uma contribuiç
 
 2 - Os processos aplicáveis aos projectos e programas financeiros no âmbito da cooperação descentralizada serão os previstos no capítulo 5 do presente título, em especial os referidos no artigo 290.º
 
-###### Artigo 251.º-E
+Artigo 251.º-E
 
 Para além das possibilidades oferecidas aos agentes da cooperação descentralizada na presente secção, nos artigos 252.º e 253.º, relativos aos microprojectos, no n.º 2, alínea c), do artigo 278.º, relativo às fórmulas de cooperação técnica, e no artigo 300.º, relativo à ajuda de emergência, os Estados ACP podem solicitar ou acordar a participação de agentes da cooperação descentralizada na execução de outros projectos ou programas do Fundo, em especial os executados por administração directa, nos termos do artigo 299.º e de outras disposições aplicáveis da presente Convenção.»
 
@@ -1134,7 +1134,7 @@ G - Segundo Protocolo Financeiro:
 
 «SEGUNDO PROTOCOLO FINANCEIRO
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - Para efeitos da parte III, capítulos 1 e 3, do título II e título III da Convenção e por um período de cinco anos a contar de 1 de Março de 1995, o montante global das contribuições financeiras da Comunidade será de 14625 milhões de ecus.
 
@@ -1154,7 +1154,7 @@ b) Para os fins definidos nos artigos 220.º, 221.º e 224.º: até ao limite de
 
 2 - O Banco procederá à gestão dos empréstimos concedidos com base nos seus recursos próprios e, nomeadamente, das bonificações de juros, bem como dos capitais de risco. Todos os outros meios de financiamento da Convenção serão geridos pela Comissão.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Para o financiamento da ajuda referida nos artigos 254.º e 255.º:
 
@@ -1166,7 +1166,7 @@ c) No termo da vigência do presente Protocolo Financeiro, as dotações não au
 
 d) Em caso de esgotamento da dotação especial antes do termo da vigência do presente Protocolo Financeiro e tomando em consideração outros meios de financiamento de que os Estados ACP possam beneficiar para o mesmo efeito, os Estados ACP e a Comunidade adoptarão, no âmbito das instituições conjuntas competentes, medidas adequadas para fazer face às situações referidas nos artigos 254.º e 255.º
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Das subvenções disponíveis a título do n.º 1, alínea a), subalínea i), do artigo 1.º, será reservado um montante de 1300 milhões de ecus para o financiamento de projectos e programas regionais dos Estados ACP.
 
@@ -1182,7 +1182,7 @@ iv) Um montante de 80 milhões de ecus para o financiamento destinado a fomentar
 
 3 - O Banco pode, através de recursos por ele geridos, complementar este montantes contribuindo para o financiamento de projectos e programas regionais.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O saldo restante do Fundo que não tenha sido autorizado ou desembolsado no final do primeiro ano de aplicação do presente Procolo Financeiro será integralmente gasto, nas mesmas condições previstas na presente Convenção.»
 
@@ -1218,7 +1218,9 @@ O Conselho de Ministros ACP-CE decidirá dos pedidos dos países ACP com base nu
 
 Ceuta e Melilha
 
-###### Artigo 32.º — Condições especiais
+Artigo 32.º
+
+Condições especiais
 
 1 - O termo 'Comunidade' utilizado no presente Protocolo não abrange Ceuta nem Melilha. A expressão 'produtos originários da Comunidade' não engloba os produtos originários de Ceuta e Melilha.
 
@@ -1238,11 +1240,13 @@ Ceuta e Melilha
 
 Lista de operações de complemento de fabrico ou de transformação que conferem o carácter de produto originário ACP a produtos obtidos a partir de operações de complemento de fabrico ou de transformação em têxteis originários de países em desenvolvimento referidos no n.º 5 do artigo 6.º do presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf))](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
 
-## ANEXO XI — Produtos têxteis excluídos do procedimento de cumulação com determinados países em desenvolvimento referidos no n.º 5 do artigo 6.º do presente Protocolo
+ANEXO XI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf))](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
+Produtos têxteis excluídos do procedimento de cumulação com determinados países em desenvolvimento referidos no n.º 5 do artigo 6.º do presente Protocolo
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
 
 I - Protocolo n.º 7, relativo à carne de bovino:
 
@@ -1252,7 +1256,7 @@ I - Protocolo n.º 7, relativo à carne de bovino:
 
 Dentro dos limites referidos no artigo 2.º, os direitos de importação que não sejam direitos aduaneiros, aplicáveis à carne de bovino originária dos Estados ACP, sofrerão uma redução de 92%.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Sem prejuízo do artigo 4.º, a redução dos direitos de importação prevista no artigo 1.º será aplicável às seguintes quantidades de carne de bovino desossada, por ano civil e por país:
 
@@ -1268,7 +1272,7 @@ Zimbabwe - 9100 t;
 
 Namíbia - 13000 t.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Se, durante um determinado ano, um dos Estados ACP mencionados no artigo 2.º não puder fornecer a quantidade total autorizada e não desejar beneficiar das medidas referidas no artigo 3.º, a Comissão pode repartir a quantidade em falta pelos outros Estados ACP interessados. Nesse caso, os Estados ACP proporão à Comissão, o mais tardar em 1 de Setembro desse ano, o Estado ou Estados ACP que podem fornecer a nova quantidade suplementar e indicarão simultaneamente o Estado ACP que não pode fornecer a quantidade total que lhe foi atribuída, considerando-se que esta nova afectação temporária não altera as quantidades iniciais.
 
@@ -1370,7 +1374,7 @@ As Partes Contratantes tomaram conhecimento de que a Comunidade declarou que tom
 
 Regime de importação aplicável aos produtos agrícolas e alimentares originários dos Estados ACP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf))](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
 
 82 - Na Acta Final, o anexo XLVI passa a ter a seguinte redacção:
 
@@ -1398,15 +1402,21 @@ Declaração comum ad n.º 4 do artigo 156.º, n.º 1 do artigo 157.º e n.º 1,
 
 As referências feitas nestes artigos aos territórios e departamentos ultramarinos incluirão as ilhas Canárias, os Açores e a Madeira.
 
-## ANEXO LXXX — Declaração comum sobre a consulta e a informação dos agentes de desenvolvimento
+ANEXO LXXX
+
+Declaração comum sobre a consulta e a informação dos agentes de desenvolvimento
 
 Para fomentar a participação dos agentes da cooperação descentralizada nos projectos e programas do Fundo e assegurar que as suas iniciativas sejam tomadas em consideração na definição e execução dos programas indicativos, os Estados ACP procurarão organizar trocas de impressões com esses agentes. Os Estados ACP e a Comissão procurarão igualmente fornecer todas as informações relevantes que considerarem necessárias para a participação destes agentes na execução dos programas.
 
-## ANEXO LXXXI — Declaração da Comunidade ad n.º 1 do artigo 281.º
+ANEXO LXXXI
+
+Declaração da Comunidade ad n.º 1 do artigo 281.º
 
 A notificação do montante indicativo referido no n.º 1 do artigo 281.º não é aplicável aos Estados ACP com os quais a Comunidade tenha suspendido a cooperação.
 
-## ANEXO LXXXII — Declaração comum sobre os procedimentos de execução
+ANEXO LXXXII
+
+Declaração comum sobre os procedimentos de execução
 
 No que se refere aos procedimentos de execução, em especial:
 
@@ -1418,13 +1428,17 @@ a Conferência Ministerial convida o Conselho de Ministros ACP-CE, através do C
 
 Além disso, a Conferência Ministerial reconhece que, para melhorar o processo de ultimação das propostas de financiamento, poderão ser necessárias informações suplementares. Por conseguinte, a Conferência Ministerial solicita ao Conselho de Ministros ACP-CE que, no âmbito da presente Convenção, estabeleça as normas que permitam criar os recursos necessários sempre que os recursos da Comissão e os juros resultantes dos recursos do FED sejam insuficientes.
 
-## ANEXO LXXXIII — Declaração comum ad artigo 366.º-A
+ANEXO LXXXIII
+
+Declaração comum ad artigo 366.º-A
 
 1 - Na aplicação prática da presente Convenção, as Partes Contratantes não poderão recorrer à disposição de 'urgência especial' prevista no artigo 366.º-A, a não ser em casos excepcionais de violação grave e flagrante que torne impossível qualquer consulta prévia em virtude do tempo de resposta necessário.
 
 2 - Se uma Parte Contratante recorrer a esta medida, a Parte interessada procurará consultar a outra Parte o mais rapidamente possível, tendo em vista uma avaliação pormenorizada da situação e, se necessário, a sua resolução.
 
-## ANEXO LXXXIV — Declaração da Comunidade sobre a dívida
+ANEXO LXXXIV
+
+Declaração da Comunidade sobre a dívida
 
 A Comunidade reafirma o seu empenhamento em contribuir activa e construtivamente para a diminuição do peso da dívida dos Estados ACP.
 
@@ -1432,11 +1446,15 @@ Neste contexto, a Comunidade acorda em converter em subvenções todos os empré
 
 A Comunidade reitera igualmente a sua determinação em prosseguir a discussão destas questões nas instâncias adequadas, tendo em conta as dificuldades específicas dos Estados ACP.
 
-## ANEXO LXXXV — Declaração da Comunidade ad alínea d) do artigo 2.º do Segundo Protocolo Financeiro
+ANEXO LXXXV
+
+Declaração da Comunidade ad alínea d) do artigo 2.º do Segundo Protocolo Financeiro
 
 Os meios de financiamento específicos previstos no Segundo Protocolo Financeiro para a ajuda de emergência podem ser complementados, durante o período de vigência daquele Protocolo Financeiro, com um montante adicional de 160 milhões de ecus do orçamento comunitário.
 
-## ANEXO LXXXVI — Declaração comum sobre cumulação
+ANEXO LXXXVI
+
+Declaração comum sobre cumulação
 
 As Partes Contratantes acordam em que, para efeitos do n.º 5 do artigo 6.º do Protocolo n.º 1, são aplicáveis as seguintes definições:
 
@@ -1450,16 +1468,22 @@ As Partes Contratantes acordam em que, para efeitos do n.º 5 do artigo 6.º do 
 
 - Pacífico: Nauru.
 
-## ANEXO LXXXVII — Declaração comum sobre produtos da pesca
+ANEXO LXXXVII
+
+Declaração comum sobre produtos da pesca
 
 As Partes Contratantes acordam em que o Comité de Cooperação Aduaneira examinará, com uma atitude positiva e o mais rapidamente possível, as dificuldades decorrentes da aplicação do n.º 2 do artigo 2.º do Protocolo n.º 1. O Comité de Cooperação Aduaneira apresentará um relatório ao Conselho de Ministros no prazo de um ano a contar da data de entrada em vigor dessa disposição.
 
-## ANEXO LXXXVIII — Declaração comum sobre bananas
+ANEXO LXXXVIII
+
+Declaração comum sobre bananas
 
 Será prestada especial atenção à determinação do volume de ajuda programável aos fornecedores de bananas dos países ACP à Comunidade, sempre que circunstâncias externas independentes da sua vontade tornem necessária uma reestruturação que afecte também o sector das bananas.
 
-## ANEXO LXXXIX — Declaração comum ad Protocolo n.º 10
+ANEXO LXXXIX
+
+Declaração comum ad Protocolo n.º 10
 
 As Partes Contratantes acordam em cooperar na aplicação do Protocolo n.º 10, tendo em conta os critérios e indicadores harmonizados a nível internacional sobre gestão sustentável de florestas.»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf))](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/129a00/27202759.pdf)

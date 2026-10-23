@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/13-1986-229096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b17704c89143dbd1c6b07c50af90f986981b1039ed357db4fc114ba5bb22ae07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 902e08b7b293054e43ea191edc7031b95b3254c374c819ba1cf57c6faf0eb3b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Execução de Penas
+- Portugal
+- Tailândia
+- Tratado de Cooperação na Execução de Sentenças Penais
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:11Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 10 de Abril de 1986.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ## ANEXO
 
@@ -103,9 +108,7 @@ Desejando cooperar na execução de sentenças penais pela possibilidade de facu
 
 Acordaram o seguinte:
 
-ARTIGO I
-
-(Definições)
+###### ARTIGO I — (Definições)
 
 Para os efeitos deste Tratado:
 
@@ -115,9 +118,7 @@ Para os efeitos deste Tratado:
 
 3) «Delinquente» designa a pessoa que no território de qualquer das Partes tenha sido condenada por um crime e a quem tenha sido aplicada uma pena de prisão, internamento ou outra medida privativa da liberdade, ou se encontre em regime de liberdade condicional, de prova, ou sob outra medida de vigilância não restritiva da liberdade. Esta expressão abrange qualquer pessoa sujeita a uma medida de internamento, custódia ou vigilância, nos termos da legislação do Estado transferente relativa aos jovens delinquentes.
 
-ARTIGO II
-
-(Âmbito de aplicação)
+###### ARTIGO II — (Âmbito de aplicação)
 
 A aplicação do presente Tratado fica sujeita à verificação das seguintes condições:
 
@@ -145,9 +146,7 @@ a) O Estado transferente considerar que a transferência põe em perigo a sua so
 
 b) O delinquente for também nacional do Estado transferente.
 
-ARTIGO III
-
-(Processo de transferência)
+###### ARTIGO III — (Processo de transferência)
 
 1 - Qualquer das duas Partes poderá informar um delinquente a quem o presente Tratado seja aplicável do significado do mesmo.
 
@@ -173,15 +172,11 @@ c) Se estiver sujeito a uma medida de internamento, custódia ou vigilância, no
 
 7 - A entrega do delinquente pelas autoridades do Estado transferente às autoridades do Estado receptor deve efectuar-se num local situado no território do Estado transferente acordado por ambas as Partes. O Estado transferente permitirá que o Estado receptor, se assim o desejar, verifique, antes de efectuada a transferência e por intermédio do funcionário a quem a sua lei confira competência para isso, que o consentimento do delinquente para a sua transferência foi dado de livre vontade e com perfeito conhecimento das consequências daí decorrentes.
 
-ARTIGO IV
-
-(Reserva de jurisdição)
+###### ARTIGO IV — (Reserva de jurisdição)
 
 No que respeita às sentenças a serem executadas por aplicação do presente Tratado o Estado transferente conservará jurisdição exclusiva relativamente aos julgamentos e sentenças proferidos pelos seus tribunais, às penas por eles aplicadas, bem como a quaisquer processos de revisão, modificação ou anulação dos julgamentos e sentenças proferidos pelos seus tribunais. O Estado receptor, logo que seja informado da revisão, modificação ou anulação de qualquer julgamento, sentença ou pena, dará cumprimento a essa decisão.
 
-ARTIGO V
-
-(Execução da sentença)
+###### ARTIGO V — (Execução da sentença)
 
 1 - Salvo disposição em contrário do presente Tratado, a execução da sentença condenatória do delinquente transferido será feita de acordo com a lei do Estado receptor, nomeadamente com as normas reguladoras do cumprimento da pena de prisão, internamento ou outra medida de privação da liberdade, da liberdade condicional e do regime de prova, bem como com as normas que prevejam a redução da pena de prisão, internamento ou outra medida de privação da liberdade, mediante a sujeição ao regime de prova, de liberdade de condicional ou a outras medidas. Não obstante isso, o Estado transferente conservará o poder de perdoar ao delinquente e de lhe comutar a pena, devendo o Estado receptor dar cumprimento ao perdão ou comutação da pena decididos pelo Estado transferente logo que deles for notificado.
 
@@ -195,15 +190,11 @@ ARTIGO V
 
 6 - A transferência de um delinquente ao abrigo deste Tratado não pode acarretar-lhe quaisquer inabilitações ou restrições previstas na lei do Estado receptor para além das que resultem da própria condenação.
 
-ARTIGO VI
-
-(Trânsito de delinquentes)
+###### ARTIGO VI — (Trânsito de delinquentes)
 
 Se alguma das Partes concluir com um terceiro Estado um acordo para a transferência de delinquentes, a outra a Parte deverá cooperar, facilitando o trânsito, através do seu território, dos delinquentes que venham a ser transferidos nos termos do referido acordo. A Parte que pretenda efectuar a transferência deverá notificar antecipadamente a outra Parte do trânsito a efectuar.
 
-ARTIGO VII
-
-(Aplicação do Tratado)
+###### ARTIGO VII — (Aplicação do Tratado)
 
 1 - Na aplicação presente Tratado cada uma das Partes poderá adoptar os procedimentos e os critérios compatíveis com os objectivos do mesmo, tendo em vista determinar se deve ou não consentir na transferência de um delinquente.
 
@@ -211,9 +202,7 @@ ARTIGO VII
 
 3 - Cada uma das Partes designará uma autoridade para exercer as funções previstas pelo presente Tratado.
 
-ARTIGO VIII
-
-(Disposições finais)
+###### ARTIGO VIII — (Disposições finais)
 
 1 - O presente Tratado será submetido a ratificação e entrará em vigor na data em que forem trocados os respectivos instrumentos de ratificação. A troca de instrumentos efectuar-se-á em Banguecoque logo que possível.
 
@@ -227,7 +216,7 @@ Pelo Governo da República Portuguesa, Jaime Gama, Ministro dos Negócios Estran
 
 Pelo Governo do Reino da Tailândia, Air Chief Marshal, Siddhi Savetsila, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/13100/13591365.pdf))](https://files.diariodarepublica.pt/1s/1986/06/13100/13591365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/13100/13591365.pdf)
 
 Treaty on Cooperation in the Execution of Penal Sentences between the Government of the Republic of Portugal and the Government of the Kingdom of Thailand.
 
@@ -363,4 +352,4 @@ For the Government of the Republic of Portugal, Jaime Gama, Minister of Foreign 
 
 For the Government of the Kingdom of Thailand, Air Chief Marshal, Siddhi Savetsila, Minister of Foreign Affairs.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.

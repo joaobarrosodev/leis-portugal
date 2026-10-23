@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 125/1992, 4º Suplemento, Série I-B de 1992-05-30
   number: '125'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2632-(20) a 2632-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/125b04/00200020.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448-c/1992/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-c-1992-213411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73685ec9ef2dfd96f21763c8cbe9d415ff5e40148a766fafd7835bdba024daeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46db91f336738983e77321de354f4d483e9faa0826c6048b177f276ecd72df6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria de Estado da Cultura
 - Instituto Português do Livro e da Leitura
 - Pessoal Técnico Superior
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:627609:por
@@ -80,16 +80,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
+- type: cites
+  target: pt:dre:198546:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627609:por
+  label: "Rectificada pela DECL-RECT.177/92.1992.10.13.SG-PCM, DR.IS-B [252]3ºSupl de 31/Out/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/177-1992-627609
+  date: '1992-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:23Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +119,6 @@ Manda o Governo, pelo Subsecretário de Estado da Cultura e pela Secretária de 
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 28 de Maio de 1992.**
+Assinada em 28 de Maio de 1992.
 
 O Subsecretário de Estado da Cultura, António Costa de Albuquerque de Sousa Lara. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/3/1994/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1994-499817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e68c8baf937d41695cd51f299f43d7d4151f5263409c22c07bc1664a992771
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97879ab83eb05d490546c93aee62fe404e5065cf531f6c6630f959c13c00bb06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - Comunidade Europeia
 - Conflito de LEIS
 - Contrato
 - Contrato Individual de Trabalho
 - Convenção
-- Portugal
 - Direito Internacional Privado
 - Espanha
 - Obrigações
+- Portugal
+- Propriedade de BENS
 - Prova
 - Regime Jurídico
-- Propriedade de BENS
-- Bruxelas
 - Tribunal de Justiça CE
 relationships: []
 article_structure:
-  article_count: 56
+  article_count: 55
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:17Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +103,15 @@ Aprova, para ratificação, a Convenção Relativa à Adesão do Reino de Espanh
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção Relativa à Adesão do Reino de Espanha e da República Portuguesa à Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, bem como o seu anexo, assinado no Funchal em 18 de Maio de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
+Artigo 1.º É aprovada, para ratificação, a Convenção Relativa à Adesão do Reino de Espanha e da República Portuguesa à Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, bem como o seu anexo, assinado no Funchal em 18 de Maio de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
 
-###### Art. 2.º São aprovados, para ratificação, o Primeiro Protocolo Relativo à Interpretação pelo Tribunal de Justiça das Comunidades Europeias da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, com as respectivas declarações comuns, e o Segundo Protocolo Que Atribui ao Tribunal de Justiça das Comunidades Europeias Determinadas Competências em Matéria de Interpretação da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, assinados em Bruxelas em 19 de Dezembro de 1988, cujos textos na versão autêntica em língua portuguesa seguem em anexo à presente resolução.
+Art. 2.º São aprovados, para ratificação, o Primeiro Protocolo Relativo à Interpretação pelo Tribunal de Justiça das Comunidades Europeias da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, com as respectivas declarações comuns, e o Segundo Protocolo Que Atribui ao Tribunal de Justiça das Comunidades Europeias Determinadas Competências em Matéria de Interpretação da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, assinados em Bruxelas em 19 de Dezembro de 1988, cujos textos na versão autêntica em língua portuguesa seguem em anexo à presente resolução.
 
-###### Art. 3.º A República Portuguesa reserva-se o direito de não aplicar o n.º 1 do artigo 7.º da Convenção sobre a Lei Aplicável às Obrigações Contratuais, em conformidade com o disposto na alínea a) do n.º 1 do artigo 22.º da mesma Convenção.
+Art. 3.º A República Portuguesa reserva-se o direito de não aplicar o n.º 1 do artigo 7.º da Convenção sobre a Lei Aplicável às Obrigações Contratuais, em conformidade com o disposto na alínea a) do n.º 1 do artigo 22.º da mesma Convenção.
 
 Aprovada em 4 de Novembro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO RELATIVA À ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À CONVENÇÃO SOBRE A LEI APLICÁVEL ÀS OBRIGAÇÕES CONTRATUAIS, ABERTA À ASSINATURA EM ROMA EM 19 DE JUNHO DE 1980.
 
@@ -129,11 +129,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Michael Bendik, Ministro da Justiça.
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Wolfang Heyde, Director-Geral do Ministério Federal da Justiça.
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Michalis Papaconstatinou, Ministro da Justiça.
 
@@ -141,15 +141,15 @@ Sua Majestade o Rei de Espanha:
 
 Tomás de la Quadra-Salcedo y Fernández del Castillo, Ministro da Justiça.
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Michel Vauzelle, Guarda dos Selos, Ministro da Justiça.
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Pádraig Flynn, Ministro da Justiça.
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Giovanni Battistini, Embaixador em Lisboa.
 
@@ -161,7 +161,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 E. M. H. Hirsch Ballin, Ministro da Justiça.
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Álvaro José Brilhante Laborinho Lúcio, Ministro da Justiça.
 
@@ -187,7 +187,7 @@ d) Das comunicações feitas em aplicação dos artigos 23.º, 24.º, 25.º, 26.
 
 ###### Artigo 3.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias remeterá aos Governos do Reino de Espanha e da República Portuguesa uma cópia autenticada da Convenção sobre a Lei Aplicável às Obrigações Contratuais em língua alemã, dinamarquesa, francesa, grega, inglesa, irlandesa, italiana e neerlandesa.**
+O Secretário-Geral do Conselho das Comunidades Europeias remeterá aos Governos do Reino de Espanha e da República Portuguesa uma cópia autenticada da Convenção sobre a Lei Aplicável às Obrigações Contratuais em língua alemã, dinamarquesa, francesa, grega, inglesa, irlandesa, italiana e neerlandesa.
 
 O texto da Convenção sobre a Lei Aplicável às Obrigações Contratuais redigido nas línguas espanhola e portuguesa consta dos anexos I e II à presente Convenção. Os textos redigidos nas línguas espanhola e portuguesa fazem fé nas mesmas condições que os outros textos da Convenção sobre a Lei Aplicável às Obrigações Contratuais.
 
@@ -203,7 +203,7 @@ A presente Convenção entrará em vigor em cada Estado Contratante que a ratifi
 
 ###### Artigo 6.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados signatários:
 
 a) Do depósito de qualquer instrumento de ratificação;
 
@@ -213,7 +213,7 @@ b) Das datas de entrada em vigor da presente Convenção nos Estados Contratante
 
 A presente Convenção, redigida num único exemplar nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos 10 textos, será depositada nos arquivos do Secretariado-Geral do Conselho das Comunidades Europeias. O Secretário-Geral remeterá uma cópia autenticada da presente Convenção a cada um dos Governos dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 CONVENÇÃO SOBRE A LEI APLICÁVEL ÀS OBRIGAÇÕES CONTRATUAIS, ABERTA À ASSINATURA EM ROMA EM 19 DE JUNHO DE 1980.
 
@@ -493,7 +493,7 @@ c) A presente Convenção não se aplica às Antilhas Neerlandesas, se o Reino d
 
 ###### Artigo 31.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados partes no Tratado que institui a Comunidade Económica Europeia:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará os Estados partes no Tratado que institui a Comunidade Económica Europeia:
 
 a) Das assinaturas;
 
@@ -513,7 +513,7 @@ O Protocolo anexo à presente Convenção faz dela parte integrante.
 
 A presente Convenção, redigida num único exemplar em língua alemã, dinamarquesa, francesa, inglesa, irlandesa, italiana e neerlandesa, fazendo fé qualquer dos textos, será depositada nos arquivos do Secretariado-Geral do Conselho das Comunidades Europeias. O Secretário-Geral remeterá um cópia autenticada da presente Convenção a cada um dos governos dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 Protocolo
 
@@ -521,7 +521,7 @@ As Altas Partes Contratantes acordaram na disposição seguinte que vem anexa à
 
 Em derrogação do disposto na Convenção, a Dinamarca pode manter em aplicação o disposto no artigo 169.º da «Soloven» (legislação marítima) respeitante à lei aplicável em matéria de transporte de mercadorias por via marítima e pode modificar esta disposição sem ter de observar o procedimento previsto no artigo 23.º da Convenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 Declaração comum
 
@@ -533,7 +533,7 @@ II) Declaram a sua intenção de proceder, imediatamente após a assinatura da C
 
 III) Considerando a contribuição da Convenção sobre a Lei Aplicável às Obrigações Contratuais para a unificação das normas de conflitos nas Comunidades Europeias, expressam a opinião de que qualquer Estado que se torne membro das Comunidades Europeias deveria aderir a esta Convenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 PRIMEIRO PROTOCOLO RELATIVO À INTERPRETAÇÃO PELO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS DA CONVENÇÃO SOBRE A LEI APLICÁVEL ÀS OBRIGAÇÕES CONTRATUAIS, ABERTA À ASSINATURA EM ROMA EM 19 DE JUNHO DE 1980.
 
@@ -551,11 +551,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Knud Erik Tygesen, Secretário de Estado.
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Irmgard Adam-Schwaetzer, Ministro Adjunto dos Negócios Estrangeiros.
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Théodoros Pangalos, Ministro Suplente dos Negócios Estrangeiros.
 
@@ -563,15 +563,15 @@ Sua Majestade o Rei de Espanha:
 
 Francisco Fernandez Ordoñez, Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Philippe Louët, Embaixador Extraordinário e Plenipotenciário.
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Brian Lenihan, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Gianni Manzolini, Secretário de Estado dos Negócios Estrangeiros.
 
@@ -583,7 +583,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 H. van den Broek, Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 João de Deus Pinheiro, Ministro dos Negócios Estrangeiros.
 
@@ -609,7 +609,7 @@ Qualquer órgão jurisdicional abaixo referido pode solicitar ao Tribunal de Jus
 
 a):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 b) Os órgãos jurisdicionais dos Estados Contratantes sempre que decidam em recurso.
 
@@ -643,7 +643,7 @@ O presente Protocolo será ratificado pelos Estados signatários. Os instrumento
 
 ###### Artigo 7.º
 
-**O Secretário-Geral do Conselho das Comunidades Europeias notificará aos Estados signatários:**
+O Secretário-Geral do Conselho das Comunidades Europeias notificará aos Estados signatários:
 
 a) O depósito de todos os instrumentos de ratificação;
 
@@ -671,7 +671,7 @@ Nesse caso, será convocada uma conferência de revisão pelo Presidente do Cons
 
 O presente Protocolo, redigido num único exemplar em língua alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos 10 textos, será depositado nos arquivos do Secretariado-Geral do Conselho das Comunidades Europeias. O Secretário-Geral enviará uma cópia autenticada a cada um dos Governos dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 Declaração comum
 
@@ -689,7 +689,7 @@ A classificação e o tratamento documental dessas decisões pelo Tribunal de Ju
 
 A comunicação pelo Tribunal de Justiça da informação documental às autoridades nacionais competentes dos Estados que são Parte do Protocolo, bem como à Comissão e ao Conselho das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 Declaração comum
 
@@ -705,7 +705,7 @@ Preocupados em evitar que eventuais divergências de interpretação da Convenç
 
 consideram que todos os Estados que se tornem membros das Comunidades Europeias devem aderir ao presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
 
 SEGUNDO PROTOCOLO QUE ATRIBUI AO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS DETERMINADAS COMPETÊNCIAS EM MATÉRIA DE INTERPRETAÇÃO DA CONVENÇÃO SOBRE A LEI APLICÁVEL ÀS OBRIGAÇÕES CONTRATUAIS, ABERTA À ASSINATURA EM ROMA EM 19 DE JUNHO DE 1980.
 
@@ -725,11 +725,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Knud Erik Tygesen, Secretário de Estado.
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Irmgard Adam-Schwaetzer, Ministro Adjunto dos Negócios Estrangeiros.
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Théodoros Pangalos, Ministro Suplente dos Negócios Estrangeiros.
 
@@ -737,15 +737,15 @@ Sua Majestade o Rei de Espanha:
 
 Francisco Fernandez Ordoñez, Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Philippe Louët, Embaixador Extraordinário e Plenipotenciário.
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Brian Lenihan, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Gianni Manzolini, Secretário de Estado dos Negócios Estrangeiros.
 
@@ -757,7 +757,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 H. van den Broek, Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 João de Deus Pinheiro, Ministro dos Negócios Estrangeiros.
 
@@ -785,4 +785,4 @@ O presente Protocolo entrará em vigor no primeiro dia do terceiro mês seguinte
 
 O presente Protocolo, redigido num único exemplar em língua alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos 10 textos, será depositado nos arquivos do Secretariado-Geral do Conselho das Comunidades Europeias. O Secretário-Geral enviará uma cópia autenticada a cada um dos Governos dos Estados membros signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf))](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/028a00/05200535.pdf)

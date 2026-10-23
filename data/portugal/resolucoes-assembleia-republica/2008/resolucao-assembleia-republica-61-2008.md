@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/61/2008/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/61-2008-439098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af1f517386dbaa6f4dfc0b4e84c8771bc3b42b24f49a733df5f2d19ea6303744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceead8ca86b3496667fdb6e05210283a75b18a6c55f99fd27549c79cff7a0e14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento
 - Assembleia da República
+- Orçamento
 relationships:
 - type: cites
   target: eli:http:/
@@ -112,16 +112,260 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1991/04/09/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:23Z'
   warnings: []
   errors: []
 ---
@@ -134,9 +378,9 @@ A Assembleia da República resolve, nos termos do disposto no n.º 5 do artigo 1
 
 Aprovada em 17 de Outubro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/21200/0763807645.pdf))](https://files.diariodarepublica.pt/1s/2008/10/21200/0763807645.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/21200/0763807645.pdf)
 
 Notas explicativas das rubricas orçamentais
 

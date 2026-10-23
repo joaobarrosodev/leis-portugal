@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/39/1996/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-1996-199114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c994f2dc93434e656602d23dac366f2f2f161ce212d179bd020dc9b245d0710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 641f40e038ae1026a2d7aed3a6a3008d0dafdd34a7b26311870bcac531adb930
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Operário
-- Recrutamento de Pessoal
-- Impressor de Offset
 - Assembleia da República
+- Impressor de Offset
 - Pessoal Administrativo
 - Pessoal Auxiliar
+- Pessoal Operário
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:3284344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197366:por
+  label: "Alterada a designação da carreira de Técnico Adjunto Parlamentar criada pelo art. 2.º do presente diploma, pela\
+    \ RES.8/98.1998.03.05.AR DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/8-1998-197366
+  date: '1998-03-05'
+- type: amended_by
+  target: pt:dre:386238:por
+  label: "Alterada redacção do nrº 2 do art.8º pela RES.18/2001.2001.02.08.AR, DR.IS-A [46] de 23/FEV/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/18-2001-386238
+  date: '2001-02-08'
+- type: amended_by
+  target: pt:dre:579366:por
+  label: "Mantida em vigor, com a redacção conferida pela Res 59/2003 de 28-Jul, pela RES.20/2004.29.01.2004.AR, DR.IS-A [39]\
+    \ de 16.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/20-2004-579366
+  date: '2004-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/59/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:144263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495486:por
+  label: "Rectificada pela DECL-RECT.5/97.1997.01.28.AR, DR.IS-A [39] de 15/Fev/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-1997-495486
+  date: '1997-01-28'
+- type: repealed_by
+  target: pt:dre:650571:por
+  label: "Revogado o art. 8º pela RES.59/2003.2003.07.03.AR DR.IS-A [172] de 28/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/59-2003-650571
+  date: '2003-07-03'
+- type: repealed_by
+  target: pt:dre:651724:por
+  label: "Revogado o quadro de pessoal e mantidos em vigor o regime decorrente do anexo III e a parte aplicável do anexo IV\
+    \ da Lei 77/88 de 01-Jul, com a redacção deste diploma, pela LEI.28/2003.2003.07.30.AR DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2003-651724
+  date: '2003-07-30'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:23Z'
   warnings: []
   errors: []
 ---
@@ -281,32 +322,32 @@ A presente resolução entra em vigor no dia da sua publicação no Diário da A
 
 Aprovada em 6 de Novembro de 1996.
 
-**O Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.**
+O Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf))](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
 
 MAPA II
 
 Área de recrutamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf))](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
 
 MAPA III
 
 Transição de técnicos auxiliares para técnicos-adjuntos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf))](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
 
 MAPA IV
 
 Transição de operador de meios áudio-visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf))](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
 
 MAPA V
 
 Conteúdos funcionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf))](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/275a00/42764280.pdf)

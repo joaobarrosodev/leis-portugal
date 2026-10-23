@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/44/2004/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-2004-276778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1242b23749cdb94a82daecf8f123c0b3ef588b15aebec1a9b58ac99c0bfcc3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb16f5890fe9cd8890ff405e3c815cb69abac2fd9926ff5c9a4a804ab254cad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,31 @@ subjects:
 - Acordo Europeu
 - CE Países
 - CECA
-- Convenção
-- Portugal
+- Chipre
+- Comércio
 - Concorrência
+- Convenção
+- Cooperação Económica
 - EEE
 - EFTA
 - Eslovénia
+- Estónia
 - Hungria
-- Livre Prestação de Serviços
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Cooperação Económica
-- República Checa
-- Comércio
-- Chipre
-- Estónia
+- Livre Prestação de Serviços
 - Luxemburgo
 - Malta
+- Portugal
+- República Checa
 relationships:
+- type: amended_by
+  target: pt:dre:276782:por
+  label: "Ratificado o Acordo aprovado para ratificação, pelo presente diploma, pelo DEC.28/2004.25.06.2004.PR, DR.IS-A [148]\
+    \ de 25.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-2004-276782
+  date: '2004-06-25'
 - type: cites
   target: celex:31985L0511
   label: null
@@ -139,15 +145,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1
 article_structure:
-  article_count: 18
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:33Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +166,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de Abril de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO SOBRE A PARTICIPAÇÃO DA REPÚBLICA CHECA, DA REPÚBLICA DA ESTÓNIA, DA REPÚBLICA DO CHIPRE, DA REPÚBLICA DA LETÓNIA, DA REPÚBLICA DA LITUÂNIA, DA REPÚBLICA DA HUNGRIA, DA REPÚBLICA DE MALTA, DA REPÚBLICA DA POLÓNIA, DA REPÚBLICA DA ESLOVÉNIA E DA REPÚBLICA ESLOVACA NO ESPAÇO ECONÓMICO EUROPEU.
 
@@ -240,15 +246,15 @@ b) Novo Protocolo n.º 38-A. - Após o Protocolo n.º 38, é aditado um novo Pro
 
 «PROTOCOLO N.º 38-A, RELATIVO AO MECANISMO FINANCEIRO DO EEE
 
-###### Artigo 1.º
+Artigo 1.º
 
 Os Estados da EFTA contribuirão para a redução das disparidades económicas e sociais no Espaço Económico Europeu através do financiamento de subvenções a projectos de investimento e de desenvolvimento nos sectores prioritários enumerados no artigo 3.º
 
-###### Artigo 2.º
+Artigo 2.º
 
 O montante global da contribuição financeira prevista no artigo 1.º será de 600 milhões de euros, sendo disponibilizada para autorizações em parcelas anuais no montante de 120 milhões de euros cada, durante o período compreendido entre 1 de Maio de 2004 e 30 de Abril de 2009, inclusive.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Podem ser concedidas subvenções a projectos nos seguintes sectores prioritários:
 
@@ -264,7 +270,7 @@ e) Saúde e assistência à infância.
 
 2 - A investigação académica poderá beneficiar igualmente de financiamento na medida em que incida sobre um ou mais dos sectores prioritários.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A contribuição da EFTA sob a forma de subvenções não poderá exceder 60% dos custos do projecto, excepto se se tratar de projectos financiados com recursos orçamentais de uma administração pública de nível nacional, regional ou local, não podendo nesse caso a contribuição ser superior a 85% do custo total. Em caso algum, poderão ser ultrapassados os limites máximos fixados pela Comunidade em matéria de co-financiamento.
 
@@ -274,17 +280,17 @@ e) Saúde e assistência à infância.
 
 4 - A responsabilidade dos Estados da EFTA pelos projectos é limitada ao fornecimento dos recursos financeiros de acordo com o plano acordado. Não são assumidas quaisquer responsabilidades em relação a terceiros.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Os recursos financeiros serão colocados à disposição dos Estados beneficiários (República Checa, Estónia, Grécia, Espanha, Chipre, Letónia, Lituânia, Hungria, Malta, Polónia, Portugal, Eslovénia e Eslováquia) segundo a seguinte repartição:
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)
 
-###### Artigo 6.º
+Artigo 6.º
 
 A fim de reafectar as eventuais dotações não utilizadas a projectos altamente prioritários em qualquer Estado beneficiário, será efectuado um reexame da situação em Novembro de 2006 e, novamente, em Novembro de 2008.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - A contribuição financeira prevista no presente Protocolo será estreitamente coordenada com a contribuição bilateral da Noruega prevista no mecanismo financeiro da Noruega.
 
@@ -292,7 +298,7 @@ A fim de reafectar as eventuais dotações não utilizadas a projectos altamente
 
 3 - Todas as alterações pertinentes das políticas de coesão da Comunidade serão devidamente tidas em consideração.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os Estados da EFTA criarão um comité responsável pela gestão do mecanismo financeiro do EEE.
 
@@ -300,11 +306,11 @@ A fim de reafectar as eventuais dotações não utilizadas a projectos altamente
 
 3 - Os custos de gestão serão suportados pelo montante total previsto no artigo 2.º
 
-###### Artigo 9.º
+Artigo 9.º
 
 No final do período de cinco anos e sem prejuízo dos direitos e obrigações decorrentes do Acordo, as Partes Contratantes reexaminarão, em função do disposto no artigo 115.º do Acordo, a necessidade de reduzir as disparidades económicas e sociais no interior do Espaço Económico Europeu.
 
-###### Artigo 10.º
+Artigo 10.º
 
 Se qualquer dos Estados beneficiários enumerados no artigo 5.º do presente Protocolo não se tornar parte Contratante no Acordo em 1 de Maio de 2004 ou ocorrerem alterações a nível da composição do pilar EFTA do Espaço Económico Europeu, o presente Protocolo será sujeito às necessárias adaptações.»
 
@@ -360,105 +366,105 @@ d) Acordo, sob a forma de troca de cartas, entre a Comunidade Europeia e o Reino
 
 O presente Acordo, redigido num único exemplar em língua alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, islandesa, italiana, letã, lituana, maltesa, neerlandesa, norueguesa, polaca, portuguesa e sueca, fazendo fé qualquer dos textos, será depositado junto do Secretariado-Geral do Conselho da União Europeia, que remeterá cópias autenticadas a todos os governos das Partes Contratantes.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)
 
 ## ANEXO A — Lista referida no artigo 3.º do Acordo
 
-# parte I — Actos referidos no Acordo EEE alterados pelo Acto de Adesão de 16 de Abril de 2003
+## parte I — Actos referidos no Acordo EEE alterados pelo Acto de Adesão de 16 de Abril de 2003
 
 O travessão referido no n.º 2 do artigo 3.º deve ser inserido nas seguintes posições nos Anexos e Protocolos do Acordo EEE:
 
 No anexo I («Questões veterinárias e fitossanitárias»), capítulo I («Questões veterinárias»):
 
-# Parte 1.1, ponto 4 (Directiva n.º [97/78/CE](http://data.europa.eu/eli/dir/1997/78/oj?locale=pt), do Conselho);
+Parte 1.1, ponto 4 (Directiva n.º [97/78/CE](http://data.europa.eu/eli/dir/1997/78/oj?locale=pt), do Conselho);
 
-# Parte 1.1, ponto 5 (Directiva n.º [91/496/CEE](http://data.europa.eu/eli/dir/1991/496/oj?locale=pt), do Conselho);
+Parte 1.1, ponto 5 (Directiva n.º [91/496/CEE](http://data.europa.eu/eli/dir/1991/496/oj?locale=pt), do Conselho);
 
-# Parte 1.2, ponto 16 (Decisão n.º [93/13/CEE](http://data.europa.eu/eli/dec/1993/13/oj?locale=pt), da Comissão);
+Parte 1.2, ponto 16 (Decisão n.º [93/13/CEE](http://data.europa.eu/eli/dec/1993/13/oj?locale=pt), da Comissão);
 
-# Parte 1.2, ponto 67 (Decisão n.º [97/735/CE](http://data.europa.eu/eli/dec/1997/735/oj?locale=pt), da Comissão);
+Parte 1.2, ponto 67 (Decisão n.º [97/735/CE](http://data.europa.eu/eli/dec/1997/735/oj?locale=pt), da Comissão);
 
-# Parte 1.2, ponto 71 [Regulamento n.º [2629/97](http://data.europa.eu/eli/reg/1997/2629/oj?locale=pt), da Comissão (CE)];
+Parte 1.2, ponto 71 [Regulamento n.º [2629/97](http://data.europa.eu/eli/reg/1997/2629/oj?locale=pt), da Comissão (CE)];
 
-# Parte 3.1, ponto 1 (Directiva n.º [85/511/CEE](http://data.europa.eu/eli/dir/1985/511/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 1 (Directiva n.º [85/511/CEE](http://data.europa.eu/eli/dir/1985/511/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 4 (Directiva n.º [92/35/CEE](http://data.europa.eu/eli/dir/1992/35/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 4 (Directiva n.º [92/35/CEE](http://data.europa.eu/eli/dir/1992/35/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 5 (Directiva n.º [92/40/CEE](http://data.europa.eu/eli/dir/1992/40/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 5 (Directiva n.º [92/40/CEE](http://data.europa.eu/eli/dir/1992/40/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 6 (Directiva n.º [92/66/CEE](http://data.europa.eu/eli/dir/1992/66/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 6 (Directiva n.º [92/66/CEE](http://data.europa.eu/eli/dir/1992/66/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 7 (Directiva n.º [93/53/CEE](http://data.europa.eu/eli/dir/1993/53/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 7 (Directiva n.º [93/53/CEE](http://data.europa.eu/eli/dir/1993/53/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 8 (Directiva n.º [95/70/CE](http://data.europa.eu/eli/dir/1995/70/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 8 (Directiva n.º [95/70/CE](http://data.europa.eu/eli/dir/1995/70/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 9 (Directiva n.º [92/119/CEE](http://data.europa.eu/eli/dir/1992/119/oj?locale=pt) [92/119/CEE](http://data.europa.eu/eli/dir/1992/119/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 9 (Directiva n.º [92/119/CEE](http://data.europa.eu/eli/dir/1992/119/oj?locale=pt) [92/119/CEE](http://data.europa.eu/eli/dir/1992/119/oj?locale=pt), do Conselho);
 
-# Parte 3.1, ponto 9-A (Directiva n.º [2000/75/CE](http://data.europa.eu/eli/dir/2000/75/oj?locale=pt), do Conselho);
+Parte 3.1, ponto 9-A (Directiva n.º [2000/75/CE](http://data.europa.eu/eli/dir/2000/75/oj?locale=pt), do Conselho);
 
-# Parte 4.1, ponto 1 (Directiva n.º [64/432/CEE](http://data.europa.eu/eli/dir/1964/432/oj?locale=pt), do Conselho);
+Parte 4.1, ponto 1 (Directiva n.º [64/432/CEE](http://data.europa.eu/eli/dir/1964/432/oj?locale=pt), do Conselho);
 
-# Parte 4.1, ponto 3 (Directiva n.º [90/426/CEE](http://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho);
+Parte 4.1, ponto 3 (Directiva n.º [90/426/CEE](http://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho);
 
-# Parte 4.1, ponto 4 (Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho);
+Parte 4.1, ponto 4 (Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho);
 
-# Parte 4.1, ponto 9 (Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho);
+Parte 4.1, ponto 9 (Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho);
 
-# Parte 5.1, ponto 1 (Directiva n.º [72/461/CEE](http://data.europa.eu/eli/dir/1972/461/oj?locale=pt), do Conselho);
+Parte 5.1, ponto 1 (Directiva n.º [72/461/CEE](http://data.europa.eu/eli/dir/1972/461/oj?locale=pt), do Conselho);
 
-# Parte 5.1, ponto 4 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
+Parte 5.1, ponto 4 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
 
-# Parte 5.1, ponto 5 (Directiva n.º [91/495/CEE](http://data.europa.eu/eli/dir/1991/495/oj?locale=pt), do Conselho);
+Parte 5.1, ponto 5 (Directiva n.º [91/495/CEE](http://data.europa.eu/eli/dir/1991/495/oj?locale=pt), do Conselho);
 
-# Parte 5.1, ponto 6 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
+Parte 5.1, ponto 6 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
 
-# Parte 5.1, ponto 7 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
+Parte 5.1, ponto 7 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 1 (Directiva n.º [64/433/CEE](http://data.europa.eu/eli/dir/1964/433/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 1 (Directiva n.º [64/433/CEE](http://data.europa.eu/eli/dir/1964/433/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 2 (Directiva n.º [71/118/CEE](http://data.europa.eu/eli/dir/1971/118/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 2 (Directiva n.º [71/118/CEE](http://data.europa.eu/eli/dir/1971/118/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 4 (Directiva n.º [77/99/CEE](http://data.europa.eu/eli/dir/1977/99/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 4 (Directiva n.º [77/99/CEE](http://data.europa.eu/eli/dir/1977/99/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 7 (Directiva n.º [89/437/CEE](http://data.europa.eu/eli/dir/1989/437/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 7 (Directiva n.º [89/437/CEE](http://data.europa.eu/eli/dir/1989/437/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 8 (Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 8 (Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 11 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 11 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 13 (Directiva n.º [91/495/CEE](http://data.europa.eu/eli/dir/1991/495/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 13 (Directiva n.º [91/495/CEE](http://data.europa.eu/eli/dir/1991/495/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 14 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 14 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
 
-# Parte 6.1, ponto 15 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
+Parte 6.1, ponto 15 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
 
-# Parte 6.2, ponto 17 (Decisão n.º [93/383/CEE](http://data.europa.eu/eli/dec/1993/383/oj?locale=pt), do Conselho);
+Parte 6.2, ponto 17 (Decisão n.º [93/383/CEE](http://data.europa.eu/eli/dec/1993/383/oj?locale=pt), do Conselho);
 
-# Parte 6.2, ponto 39 (Decisão n.º [98/536/CE](http://data.europa.eu/eli/dec/1998/536/oj?locale=pt), da Comissão);
+Parte 6.2, ponto 39 (Decisão n.º [98/536/CE](http://data.europa.eu/eli/dec/1998/536/oj?locale=pt), da Comissão);
 
-# Parte 7.1, ponto 2 (Directiva n.º [96/23/CE](http://data.europa.eu/eli/dir/1996/23/oj?locale=pt), do Conselho);
+Parte 7.1, ponto 2 (Directiva n.º [96/23/CE](http://data.europa.eu/eli/dir/1996/23/oj?locale=pt), do Conselho);
 
-# Parte 7.2, ponto 14 (Decisão n.º [98/179/CE](http://data.europa.eu/eli/dec/1998/179/oj?locale=pt), da Comissão);
+Parte 7.2, ponto 14 (Decisão n.º [98/179/CE](http://data.europa.eu/eli/dec/1998/179/oj?locale=pt), da Comissão);
 
-# Parte 8.1, ponto 2 (Directiva n.º [90/426/CEE](http://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 2 (Directiva n.º [90/426/CEE](http://data.europa.eu/eli/dir/1990/426/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 3 (Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 3 (Directiva n.º [90/539/CEE](http://data.europa.eu/eli/dir/1990/539/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 8 (Directiva n.º [71/118/CEE](http://data.europa.eu/eli/dir/1971/118/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 8 (Directiva n.º [71/118/CEE](http://data.europa.eu/eli/dir/1971/118/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 11 (Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 11 (Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 13 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 13 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 14 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 14 (Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 15 (Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 15 (Directiva n.º [92/65/CEE](http://data.europa.eu/eli/dir/1992/65/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 16 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 16 (Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho);
 
-# Parte 8.1, ponto 17 (Directiva n.º [77/96/CEE](http://data.europa.eu/eli/dir/1977/96/oj?locale=pt), do Conselho);
+Parte 8.1, ponto 17 (Directiva n.º [77/96/CEE](http://data.europa.eu/eli/dir/1977/96/oj?locale=pt), do Conselho);
 
-# Parte 9.1, ponto 9 (Decisão da Comissão n.º [2000/50/CE](http://data.europa.eu/eli/dec/2000/50/oj?locale=pt)).
+Parte 9.1, ponto 9 (Decisão da Comissão n.º [2000/50/CE](http://data.europa.eu/eli/dec/2000/50/oj?locale=pt)).
 
 No anexo II («Regulamentação técnica, normas, ensaios e certificação»):
 
@@ -832,7 +838,7 @@ Ponto 11 do n.º 1 do artigo 3.º [Regulamento (CEE) n.º [4056/86](http://data.
 
 No Protocolo n.º 26, relativo aos poderes e funções do órgão de fiscalização da EFTA no domínio dos auxílios estatais:
 
-###### Artigo 2.º [Regulamento (CE) n.º [659/1999](http://data.europa.eu/eli/reg/1999/659/oj?locale=pt) do Conselho].
+Artigo 2.º [Regulamento (CE) n.º [659/1999](http://data.europa.eu/eli/reg/1999/659/oj?locale=pt) do Conselho].
 
 No Protocolo n.º 31, relativo à cooperação em domínios específicos não abrangidos pelas quatro liberdades:
 
@@ -842,7 +848,9 @@ Nota de pé de página [Regulamento (CEE) n.º [1365/75](http://data.europa.eu/e
 
 Sétimo travessão (Decisão n.º [2000/819/CE](http://data.europa.eu/eli/dec/2000/819/oj?locale=pt), do Conselho) do n.º 5 do artigo 7.º («Empresa, espírito empresarial e pequenas e médias empresas»).
 
-# PARTE II — Outras alterações aos anexos do Acordo EEE
+PARTE II
+
+Outras alterações aos anexos do Acordo EEE
 
 Nos anexos do Acordo EEE, devem ser introduzidas as seguintes alterações:
 
@@ -2068,9 +2076,11 @@ No anexo XXII («Direito das sociedades»):
 
 2) Os pontos «P», «Q» e «R» no ponto 6 (Sétima Directiva do Conselho n.º [83/349/CEE](http://data.europa.eu/eli/dir/1983/349/oj?locale=pt)) devem ser renumerados como pontos «ZA», «ZB» e «ZC», respectivamente.
 
-## Apêndice
+Apêndice
 
-## ANEXO VI — Modelo de comunicação
+ANEXO VI
+
+Modelo de comunicação
 
 (Referido no n.º 1 do artigo 7.º do Regulamento (CE) n.º [12/98](http://data.europa.eu/eli/reg/1998/12/oj?locale=pt), do Conselho, de 11 de Dezembro de 1997, que fixa as condições em que os transportadores não residentes podem efectuar serviços de transporte rodoviário de passageiros num Estado membro, tal como adaptado para efeitos do Acordo sobre o Espaço Económico Europeu
 
@@ -2078,11 +2088,13 @@ Transportes de cabotagem efectuados durante ... (trimestre) ... (ano) por transp
 
 [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)
 
-## ANEXO B — Lista referida no artigo 4.º do Acordo
+ANEXO B
+
+Lista referida no artigo 4.º do Acordo
 
 Os Anexos do Acordo EEE são alterados do seguinte modo:
 
-## Anexo I («Questões veterinárias e fitossanitárias»):
+Anexo I («Questões veterinárias e fitossanitárias»):
 
 1) Ao capítulo I, na parte 5.1, a seguir ao ponto 4 (Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho), é aditado o seguinte:
 
@@ -2140,7 +2152,7 @@ Os Anexos do Acordo EEE são alterados do seguinte modo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 de Chipre (anexo VII, capítulo 5, secção B, ponto 1).»
 
-## Anexo II («Regulamentação técnica, normas, ensaios e certificação»):
+Anexo II («Regulamentação técnica, normas, ensaios e certificação»):
 
 1) Ao capítulo IX, no ponto 27-A (Directiva n.º [93/42/CEE](http://data.europa.eu/eli/dir/1993/42/oj?locale=pt), do Conselho), é aditado o seguinte:
 
@@ -2182,7 +2194,7 @@ Os Anexos do Acordo EEE são alterados do seguinte modo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 da Polónia (anexo XII, capítulo 1, ponto 3).»
 
-## Anexo IV («Energia»):
+Anexo IV («Energia»):
 
 1) No ponto 14 (Directiva n.º [96/92/CE](http://data.europa.eu/eli/dir/1996/92/oj?locale=pt), do Parlamento Europeu e do Conselho), antes da adaptação, é aditado o seguinte:
 
@@ -2192,7 +2204,7 @@ Os Anexos do Acordo EEE são alterados do seguinte modo:
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 da República Checa (anexo V, capítulo 6, ponto 2).»
 
-## Anexo V («Livre circulação dos trabalhadores»):
+Anexo V («Livre circulação dos trabalhadores»):
 
 1) Antes da rubrica «Actos referidos», é aditado o seguinte:
 
@@ -2200,7 +2212,7 @@ Os Anexos do Acordo EEE são alterados do seguinte modo:
 
 No que respeita aos mecanismos de salvaguarda previstos nas medidas transitórias referidas no parágrafo anterior, excepto as respeitantes a Malta, é aplicável o Protocolo n.º 44 relativo aos mecanismos de salvaguarda contido no Acto de Adesão de 16 de Abril de 2003.»
 
-## Anexo VIII («Direito de estabelecimento»):
+Anexo VIII («Direito de estabelecimento»):
 
 1) Antes da rubrica «Actos referidos», é aditado o seguinte:
 
@@ -2212,7 +2224,7 @@ No que respeita aos mecanismos de salvaguarda previstos nas medidas transitória
 
 «Ao Liechtenstein é aplicável o seguinte. Tendo em devida conta a situação geográfica específica do Liechtenstein, esta medida será revista quinquenalmente e pela primeira vez o mais tardar até Maio de 2009.»
 
-## Anexo IX («Serviços financeiros»):
+Anexo IX («Serviços financeiros»):
 
 1) No ponto 14 (Directiva n.º [2000/12/CE](http://data.europa.eu/eli/dir/2000/12/oj?locale=pt) do Parlamento Europeu e do Conselho), antes da adaptação, é aditado o seguinte:
 
@@ -2230,13 +2242,13 @@ No que respeita aos mecanismos de salvaguarda previstos nas medidas transitória
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 da Estónia (anexo VI, capítulo 2, ponto 2), Letónia (anexo VIII, capítulo 2, ponto 2), Lituânia (anexo IX, capítulo 3, ponto 2), Hungria (anexo X, capítulo 2, ponto 1), Polónia (anexo XII, capítulo 3, ponto 1), Eslovénia (anexo XIII, capítulo 3, ponto 3) e Eslováquia (anexo XIV, capítulo 2).»
 
-## Anexo XI («Serviços de telecomunicações»):
+Anexo XI («Serviços de telecomunicações»):
 
 No ponto 5-D (Directiva n.º [97/67/CE](http://data.europa.eu/eli/dir/1997/67/oj?locale=pt), do Parlamento Europeu e do Conselho), antes da adaptação, é aditado o seguinte:
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 da Polónia (anexo XII, capítulo 12).»
 
-## Anexo XII («Livre circulação de capitais»):
+Anexo XII («Livre circulação de capitais»):
 
 Antes da rubrica «Actos referidos», é aditado o seguinte:
 
@@ -2244,7 +2256,7 @@ Antes da rubrica «Actos referidos», é aditado o seguinte:
 
 Adaptações sectoriais. - São aplicáveis as medidas contidas no Protocolo n.º 6 do Acto de Adesão de 16 de Abril de 2003 relativas à aquisição de residências secundárias em Malta.»
 
-## Anexo XIII («Transportes»):
+Anexo XIII («Transportes»):
 
 1) No ponto 15-A (Directiva n.º [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt), do Conselho) é aditado o seguinte:
 
@@ -2284,7 +2296,7 @@ No que respeita aos mecanismos de salvaguarda previstos nas medidas transitória
 
 «São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 da Lituânia (anexo IX, capítulo 7, ponto 2) e Hungria (anexo X, capítulo 6, ponto 2).»
 
-## Anexo XIV («Concorrência»):
+Anexo XIV («Concorrência»):
 
 Antes da rubrica «Adaptações sectoriais», é aditado o seguinte:
 
@@ -2294,19 +2306,19 @@ Antes da rubrica «Adaptações sectoriais», é aditado o seguinte:
 
 2) São aplicáveis as medidas transitórias previstas nos anexos ao Acto de Adesão de 16 de Abril de 2003 de Malta (anexo XI, capítulo 1, ponto 1).»
 
-## Anexo XV («Auxílios estatais»):
+Anexo XV («Auxílios estatais»):
 
 Antes da rubrica «Actos referidos», é aditado o seguinte:
 
 «Adaptações sectoriais. - São aplicáveis entre as Partes Contratantes as disposições relativas aos regimes actuais de auxílio previstas no capítulo 3 («Política de concorrência») do anexo IV do Acto de Adesão de 16 de Abril de 2003.»
 
-## Anexo XVII («Propriedade intelectual»):
+Anexo XVII («Propriedade intelectual»):
 
 Antes da rubrica «Actos referidos», é aditado o seguinte:
 
 «Adaptações sectoriais. - É aplicável entre as Partes Contratantes o mecanismo específico previsto no capítulo 2 («Direito das sociedades») do anexo IV do Acto de Adesão de 16 de Abril de 2003.»
 
-## Anexo XVIII («Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos»):
+Anexo XVIII («Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos»):
 
 1) No ponto 3-A (Directiva n.º [91/322/CEE](http://data.europa.eu/eli/dir/1991/322/oj?locale=pt), da Comissão) é aditado o seguinte:
 
@@ -2350,7 +2362,7 @@ Antes da rubrica «Actos referidos», é aditado o seguinte:
 
 No que respeita aos mecanismos de salvaguarda previstos nas medidas transitórias referidas no parágrafo anterior, é aplicável o Protocolo n.º 44, relativo aos mecanismos de salvaguarda contido no Acto de Adesão de 16 de Abril de 2003.»
 
-## Anexo XX («Ambiente»):
+Anexo XX («Ambiente»):
 
 1) No ponto 2-G (Directiva n.º [96/61/CE](http://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho), é aditado o seguinte:
 
@@ -2412,9 +2424,9 @@ I) Acordo sobre a participação da República Checa, da República da Estónia,
 
 II) Os textos a seguir enumerados, que são anexados ao Acordo:
 
-## Anexo A - Lista referida no artigo 3.º do Acordo;
+Anexo A - Lista referida no artigo 3.º do Acordo;
 
-## Anexo B - Lista referida no artigo 4.º do Acordo.
+Anexo B - Lista referida no artigo 4.º do Acordo.
 
 Os plenipotenciários das presentes Partes Contratantes e os plenipotenciários das novas Partes Contratantes aprovaram as declarações comuns a seguir enumeradas e anexas à presente Acta Final:
 
@@ -2526,4 +2538,4 @@ Declaração da Comissão das Comunidades Europeias sobre as regras de origem ap
 
 A Comissão das Comunidades Europeias examinará a viabilidade da harmonização das regras de origem até 1 de Maio de 2004.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38843913.pdf)

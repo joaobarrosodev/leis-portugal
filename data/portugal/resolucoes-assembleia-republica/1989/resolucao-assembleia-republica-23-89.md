@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1989-618545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3393d2be7c3e0c6618dd7cdb671379d6a4728aebfdc677ac6d98a6fbea85d899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e33b3c867bcd85a7a135cc52f3d7b723fbaff50b2e288604b4eb9db46612463
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Estrasburgo
+- Extradição
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:575167:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575167:por
+  label: "Ratificados os Protocolos Adicionais à Convenção, aprovada para ratificação pelo presente diploma, pelo DEC.23/90.20.06.1990.PR,\
+    \ DR.IS [140] de 20.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-1990-575167
+  date: '1990-06-20'
 article_structure:
-  article_count: 49
+  article_count: 53
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:12Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +107,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 3 - Ao texto da Convenção são formuladas as seguintes reservas, de acordo com o artigo 26.º:
 
-###### Artigo 1.º: Portugal não concederá a extradição de pessoas:
+Artigo 1.º: Portugal não concederá a extradição de pessoas:
 
 a) Que devam ser julgadas por um tribunal de excepção ou cumprir uma pena decretada por um tribunal dessa natureza;
 
@@ -105,17 +115,17 @@ b) Quando se prove que serão sujeitas a processo que não oferece garantias jur
 
 c) Quando reclamadas por infracção a que corresponda pena ou medida de segurança com carácter perpétuo.
 
-###### Artigo 2.º: Portugal só admitirá a extradição por crime punível com pena privativa da liberdade superior a um ano.
+Artigo 2.º: Portugal só admitirá a extradição por crime punível com pena privativa da liberdade superior a um ano.
 
-###### Artigo 6.º, n.º 1: Portugal não concederá a extradição de cidadãos portugueses.
+Artigo 6.º, n.º 1: Portugal não concederá a extradição de cidadãos portugueses.
 
-###### Artigo 11.º: Não há extradição em Portugal por crimes a que corresponda pena de morte segundo a lei do Estado requerente.
+Artigo 11.º: Não há extradição em Portugal por crimes a que corresponda pena de morte segundo a lei do Estado requerente.
 
-###### Artigo 21.º: Portugal só autoriza o trânsito em território nacional de pessoa que se encontre nas condições em que a sua extradição possa ser concedida.
+Artigo 21.º: Portugal só autoriza o trânsito em território nacional de pessoa que se encontre nas condições em que a sua extradição possa ser concedida.
 
 Aprovada em 8 de Novembro de 1988.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENTION EUROPÉENNE D'EXTRADITION
 
@@ -1005,7 +1015,7 @@ Qualquer Parte Contratante poderá, no que lhe diz respeito, denunciar a present
 
 ###### Artigo 32.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os membros do Conselho e o Governo de qualquer dos Estados que tenham aderido à presente Convenção de:**
+O Secretário-Geral do Conselho da Europa notificará os membros do Conselho e o Governo de qualquer dos Estados que tenham aderido à presente Convenção de:
 
 a) Depósito de qualquer instrumento de ratificação ou adesão;
 
@@ -1085,7 +1095,9 @@ Considerando desejável completar estes artigos com vista a reforçar a protecç
 
 Acordaram no seguinte:
 
-## TÍTULO I — Artigo 1.º
+## TÍTULO I
+
+###### Artigo 1.º
 
 Para os fins do artigo 3.º da Convenção não serão consideradas infracções políticas:
 
@@ -1095,7 +1107,9 @@ b) As infracções previstas nos artigos 50.º da Convenção de Genebra de 1949
 
 c) Quaisquer violações análogas das leis da guerra, em vigor no momento da entrada em vigor do presente Protocolo e dos costumes de guerra existentes nesse momento, que não estejam já previstas pelas disposições das convenções de Genebra acima mencionadas.
 
-## TÍTULO II — Artigo 2.º
+## TÍTULO II
+
+###### Artigo 2.º
 
 O artigo 9.º da Convenção é completado pelo texto seguinte, passando o texto original do artigo 9.º a constituir o n.º 1 e as disposições seguintes os n.os 2, 3 e 4:
 
@@ -1121,7 +1135,9 @@ c) Se o facto que determinou a sentença tiver sido cometido, no todo ou em part
 
 4 - As disposições dos n.os 2 e 3 não obstam a que sejam aplicadas disposições nacionais de âmbito mais lato sobre o efeito ne bis in idem relativo às decisões judiciais proferidas no estrangeiro.
 
-## TÍTULO III — Artigo 3.º
+## TÍTULO III
+
+###### Artigo 3.º
 
 1 - O presente Protocolo está aberto à assinatura dos Estados membros do Conselho da Europa que assinaram a Convenção. Será submetido a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -1167,7 +1183,7 @@ O Comité Europeu para os Problemas Criminais do Conselho da Europa será inform
 
 ###### Artigo 9.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:
 
 a) Qualquer assinatura;
 
@@ -1235,13 +1251,17 @@ Considerando igualmente desejável tornar a Convenção extensiva a outros domí
 
 Acordaram no seguinte:
 
-## TÍTULO I — Artigo 1.º
+## TÍTULO I
+
+###### Artigo 1.º
 
 O n.º 2 do artigo 2.º da Convenção é completado pela disposição seguinte:
 
 Esta faculdade será igualmente aplicável a factos passíveis apenas de uma sanção de natureza pecuniária.
 
-## TÍTULO II — Artigo 2.º
+## TÍTULO II
+
+###### Artigo 2.º
 
 O artigo 5.º da Convenção é substituído pelas disposições seguintes:
 
@@ -1251,7 +1271,9 @@ Infracções fiscais
 
 2 - A extradição não poderá ser recusada pelo facto de a legislação da Parte requerida não impor o mesmo tipo de taxas ou impostos, ou não conter o mesmo tipo de regulamentação em matéria de taxas e impostos, de alfândega e de câmbios que a legislação da Parte requerente.
 
-## TÍTULO III — Artigo 3.º
+## TÍTULO III
+
+###### Artigo 3.º
 
 A Convenção é completada pelas disposições seguintes:
 
@@ -1261,7 +1283,9 @@ Julgamento à revelia
 
 2 - Quando a Parte requerida comunicar à pessoa cuja extradição é pedida a decisão contra ela proferida à revelia, a Parte requerente não considerará essa comunicação como uma notificação com efeitos no processo penal nesse Estado.
 
-## TÍTULO IV — Artigo 4.º
+## TÍTULO IV
+
+###### Artigo 4.º
 
 A Convenção é completada pelas disposições seguintes:
 
@@ -1269,13 +1293,17 @@ Amnistia
 
 A extradição não será concedida por uma infracção abrangida por amnistia no Estado requerido, se esse Estado tinha competência para perseguir essa infracção de acordo com a sua própria lei penal.
 
-## TÍTULO V — Artigo 5.º
+## TÍTULO V
+
+###### Artigo 5.º
 
 O n.º 1 do artigo 12.º da Convenção é substituído pelas disposições seguintes:
 
 O pedido será formulado por escrito e dirigido pelo Ministério da Justiça da Parte requerente ao Ministério da Justiça da Parte requerida; a via diplomática não fica, no entanto, excluída. Uma outra via de transmissão poderá ser directamente acordada entre duas ou mais Partes.
 
-## TÍTULO VI — Artigo 6.º
+## TÍTULO VI
+
+###### Artigo 6.º
 
 1 - O presente Protocolo está aberto à assinatura dos Estados membros do Conselho da Europa que tenham assinado a Convenção. Será submetido a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -1335,7 +1363,7 @@ O Comité Europeu para os Problemas Criminais do Conselho da Europa será inform
 
 ###### Artigo 12.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:
 
 a) Qualquer assinatura do presente Protocolo;
 
@@ -1397,4 +1425,4 @@ Pelo Governo da República Turca:
 
 Pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.

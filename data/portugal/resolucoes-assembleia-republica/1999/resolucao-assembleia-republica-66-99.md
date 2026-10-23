@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/66/1999/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-1999-434660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e2db3ce12b00259bfe8e3639ee524b3fceb628875f6e62294122d3d6a2dcb8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6fc7fa245f56c505da80ee8c7a55a9206981ae1457108eaf11065246ee9a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,41 @@ reuse:
 subjects:
 - Água
 - ÁGUA Superficial
+- Águas Subterrâneas
+- Bacia Hidrográfica
 - Convenção
+- Cooperação Internacional
 - Cooperação Transfronteira
-- Portugal
-- Recursos Hídricos
 - Espanha
 - Gestão dos Recursos
+- Portugal
 - Proteção do Ambiente
-- Bacia Hidrográfica
-- Cooperação Internacional
-- Águas Subterrâneas
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:439852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434656:por
+  label: "Ratificada a Convenção e Protocolo Adicional aprovados para ratificação pelo presente diploma, pelo DEC.182/99.1999.08.17.PR\
+    \ DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/182-1999-434656
+  date: '1999-08-17'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas no domínio da Convenção ratificada\
+    \ no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro de Estado e dos Negócios\
+    \ Estrangeiros em articulação com o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional,\
+    \ pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005, nos termos do seu artigo 25.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:439852:por
+  label: "Aprovado o Protocolo de Revisão da Convenção e o Protocolo Adicional, pela RES.62/2008.14.11.2008.AR, DR.IS [222]\
+    \ de 14.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/62-2008-439852
+  date: '2008-11-14'
 - type: cites
   target: celex:31985L0337
   label: null
@@ -101,14 +121,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1997/11/oj
 article_structure:
   article_count: 41
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:15Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +141,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de Junho 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO SOBRE COOPERAÇÃO PARA A PROTECÇÃO E O APROVEITAMENTO SUSTENTÁVEL DAS ÁGUAS DAS BACIAS HIDROGRÁFICAS LUSO-ESPANHOLAS.
 
@@ -145,7 +165,7 @@ Conscientes da necessidade de coordenar os esforços respectivos para o melhor c
 
 acordam no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Definições
 
@@ -193,7 +213,7 @@ b) Consultas e actividades no âmbito dos órgãos instituídos pela Convenção
 
 c) Adopção, individual ou conjunta, das medidas técnicas, jurídicas, administrativas ou outras, necessárias para a aplicação e o desenvolvimento da Convenção.
 
-# PARTE II — Cooperação entre as Partes
+## PARTE II — Cooperação entre as Partes
 
 ###### Artigo 5.º — Permuta de informação
 
@@ -317,7 +337,7 @@ m) Promover acções de reforço da eficácia da Convenção.
 
 2 - Qualquer incidente desta natureza é imediatamente comunicado à outra Parte.
 
-# PARTE III — Protecção e aproveitamento sustentável
+## PARTE III — Protecção e aproveitamento sustentável
 
 ###### Artigo 13.º — Qualidade das águas
 
@@ -365,7 +385,7 @@ c) Assegurar o cumprimento de todas as normas e objectivos de qualidade das águ
 
 5 - Até que se defina o regime de caudais a que se refere o n.º 1 do presente artigo, aplica-se o constante do Protocolo Adicional a esta Convenção.
 
-# PARTE IV — Situações excepcionais
+## PARTE IV — Situações excepcionais
 
 ###### Artigo 17.º — Incidentes de poluição acidental
 
@@ -413,7 +433,7 @@ f) As normas sobre descargas de águas residuais, captações, desvios e represa
 
 6 - Na falta dos referidos critérios, indicadores e medidas, são adoptados os fixados no Protocolo Adicional a esta Convenção e no respectivo anexo.
 
-# PARTE V — Disposições institucionais
+## PARTE V — Disposições institucionais
 
 ###### Artigo 20.º — Órgãos de cooperação
 
@@ -453,7 +473,7 @@ Com vista à prossecução dos objectivos da presente Convenção, são institu�
 
 6 - O funcionamento da Comissão rege-se por regulamentos elaborados por ela própria e aprovados pelas Partes.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 24.º — Questões de afectação de direitos
 
@@ -531,11 +551,11 @@ Feita em Albufeira em 30 de Novembro de 1998.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 Pelo Reino de Espanha:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 PROTOCOLO ADICIONAL
 
@@ -627,7 +647,7 @@ b) Secção de Pomarão (a montante da confluência do rio Chança).
 
 a) Caudal integral anual na secção do açude de Badajoz (hectómetros cúbicos/ano):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 b) Caudal médio diário nas secções do açude de Badajoz e de Pomarão: 2 m3/s.
 
@@ -647,11 +667,11 @@ Feito em Albufeira em 30 de Novembro de 1998.
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 Pelo Reino de Espanha:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 ## ANEXO AO PROTOCOLO ADICIONAL — Bases do regime de caudais
 
@@ -687,7 +707,7 @@ b) Troço internacional do rio Erges, na bacia hidrográfica do rio Tejo.
 
 4 - Até que estudos mais rigorosos venham a recomendar outra solução, a precipitação de referência é calculada, para cada bacia hidrográfica, com base nos valores de precipitação observados nas seguintes estações pluviométricas, afectadas pelos coeficientes de ponderação que lhes estão associados:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 Os valores médios entendem-se calculados de acordo com os registos do período 1945-1946 a 1996-1997 e serão actualizados cada cinco anos.
 
@@ -775,13 +795,13 @@ c) Instalações para o armazenamento de produtos perigosos, incluindo os radioa
 
 d) Albufeiras de regularização e para armazenamento da água, em função da sua capacidade e da distância à fronteira, medida ao longo da rede hidrográfica, de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 e) Regularização e canalização de leitos fluviais com mais de 1000 m de comprimento, desde que se localize nos rios transfronteiriços ou nos seus afluentes directos a uma distância inferior a 10 km da fronteira medida ao longo da rede hidrográfica;
 
 f) Captações de água superficial, independentemente do seu uso ou destino, inclusive exterior à bacia hidrográfica, quando o consumo efectivo mínimo exceda os valores seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)](https://files.diariodarepublica.pt/1s/1999/08/191a00/54105430.pdf)
 
 e em qualquer caso sempre que se trate de transferência de águas para outra bacia hidrográfica em volume que exceda 5 hm3/ano;
 

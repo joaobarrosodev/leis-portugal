@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/1/1997/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-1997-532001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87991324a4142ec258fdb8bb0794ca66ce1639229e55f8f1a57e887ad31dc5c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc12ad41dcc4426d000617a7e5b731adf1ad5d65081fcec34ffaafa6a2f8e2a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Armas e Munições
-- Proteção Civil
-- Convenção
-- Portugal
 - Armamento
-- ONU
-- Nova Iorque
+- Armas e Munições
+- Convenção
 - Doença
+- Nova Iorque
+- ONU
+- Portugal
+- Proteção Civil
 - Vítima de Guerra
 relationships:
 - type: amended_by
   target: pt:dre:388231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388231:por
+  label: "Aprovado, para ratificação, o IV Protocolo Adicional à Convenção sobre a Proibição ou Limitação do Uso de Certas\
+    \ Armas Convencionais Que Podem Ser Consideradas como Produzindo Efeitos Traumáticos Excessivos ou Ferindo Indiscriminadamente,\
+    \ adoptado pela Conferência dos Estados Partes de Viena em 13 de Outubro de 1995, pela RES.52/2001.13.07.2001.AR, DR.IS-A\
+    \ [161] de 13.07.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-2001-388231
+  date: '2001-07-13'
+- type: amended_by
+  target: pt:dre:280953:por
+  label: "Tornado público ter Portugal efectuado uma objecção à reserva formulada pelos Estados Unidos da América, no momento\
+    \ do seu consentimento em ficar vinculado ao Protocolo sobre Armas Incendiárias (Protocolo III), no âmbito da Convenção\
+    \ sobre a Proibição ou Limitação do Uso de Certas Armas Convencionais Que Podem Ser Consideradas como Produzindo Efeitos\
+    \ Traumáticos Excessivos ou Ferindo Indiscriminadamente, aprovada para ratificação pelo presente diploma, e ratificada\
+    \ pelo Dec 1/97 de 10-Jan do PR, pelo AV.5/2011.27.01.2011.MNE, DR.IS [19] de 27.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5-2011-280953
+  date: '2011-01-27'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:34Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +120,9 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 27 de Setembro de 1996.
 
-**O Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.**
+O Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/010a00/01060144.pdf))](https://files.diariodarepublica.pt/1s/1997/01/010a00/01060144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/010a00/01060144.pdf)
 
 CONVENÇÃO SOBRE A PROIBIÇÃO OU LIMITAÇÃO DO USO DE CERTAS ARMAS CONVENCIONAIS QUE PODEM SER CONSIDERADAS COMO PRODUZINDO EFEITOS TRAUMÁTICOS EXCESSIVOS OU FERINDO INDISCRIMINADAMENTE.
 
@@ -389,7 +406,7 @@ c) Pôr à disposição do chefe da força ou da missão das Nações Unidas, na
 
 Após o fim das hostilidades activas, as partes esforçar-se-ão por concluir um acordo, entre elas e se possível com outros Estados e com organizações internacionais, sobre o fornecimento de informação e concessão de assistência técnica e material, incluindo, se as circunstâncias o permitirem, a organização de operações conjuntas, necessárias para desminar ou neutralizar de alguma forma os campos minados, as minas e as armadilhas instaladas durante o conflito.
 
-## ANEXO TÉCNICO AO PROTOCOLO SOBRE A PROIBIÇÃO OU LIMITAÇÃO DO USO DE MINAS, ARMADILHAS E OUTROS DISPOSITIVOS (PROTOCOLO II).
+ANEXO TÉCNICO AO PROTOCOLO SOBRE A PROIBIÇÃO OU LIMITAÇÃO DO USO DE MINAS, ARMADILHAS E OUTROS DISPOSITIVOS (PROTOCOLO II).
 
 Critérios de registo
 

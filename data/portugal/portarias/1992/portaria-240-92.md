@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/240/1992/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-1992-188357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9012a39409036adf6dcd409126f29ecdf039b2124c7efc55e1ed5de2e6038a9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfd99b0ea55de9348b85ef08dd49a6a3e766765b02273278c3f56defbdcc86a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,27 @@ relationships:
   target: celex:31987L0101
   label: null
   source: http://data.europa.eu/eli/dir/1987/101/oj
+- type: repealed_by
+  target: pt:dre:667550:por
+  label: "Revogado, com excepção do art. 27º e do anexo II, pelo DEC LEI.153/2003.2003.07.11.MCOTA, DR.IS-A [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2003-667550
+  date: '2003-07-11'
+- type: repealed_by
+  target: pt:dre:532798:por
+  label: "Revogados a partir de 28.12.2005 o art. 27º e o anexo II deste diploma, pelo DEC LEI.85/2005.28.04.2005.MAOT, DR.IS-A\
+    \ [82] de 28.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2005-532798
+  date: '2005-04-28'
 article_structure:
   article_count: 30
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:15:03Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +120,9 @@ Manda o Governo, pelos Ministros da Indústria e Energia e do Ambiente e Recurso
 
 Ministérios da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 14 de Fevereiro de 1992.**
+Assinada em 14 de Fevereiro de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 ## ANEXO
 
@@ -445,14 +456,14 @@ Para efeitos do disposto neste Regulamento, os titulares de licenças emitidas a
 
 O exercício das actividades previstas neste Regulamento sem as necessárias licenças será sancionado nos termos do artigo 6.º do Decreto-Lei n.º 88/91, de 23 de Fevereiro.
 
-## ANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS
+ANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf))](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
 
 ## ANEXO II
 
 Valores limite de emissão (ver nota 1) para determinadas substâncias emitidas na combustão de óleos usados em instalações com potência térmica igual ou superior a 3 MW (PCI).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf))](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
 
 (nota 1) Estes valores limite indicam a concentração da massa das referidas matérias nas emissões de gases, em função do volume dos gases emitidos em condições normais (273 k, 1013 hPa) após a dedução do teor de humidade no vapor de água e em função de um volume de oxigénio, contido nas emissões de gases, de 3%.

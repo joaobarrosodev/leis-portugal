@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16/2003/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2003-220564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f5c13384bea429a8efff24e1e691bbd3f2f294abae7bd3701a6646273997056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5b25451166674b4ecf95fae28b12314b8df6b51f18b9db29aa0324043dd4914
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criança
 - Convenção
-- Portugal
+- Criança
 - Direitos da Criança
 - Nova Iorque
 - Pornografia
+- Portugal
 - Prostituição
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:220565:por
+  label: "Ratificado o Protocolo pelo DEC.14/2003.2003.03.05.PR DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-2003-220565
+  date: '2003-03-05'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Dezembro de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ## ANEXO
 
@@ -330,7 +335,7 @@ Any objection should be communicated to the Secretary-General within 90 days of 
 
 Chinese authentic text
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
+[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
 
 English authentic text
 
@@ -358,15 +363,15 @@ In article 8, 1), d), replace «En fournissant des services d'appui appropriés�
 
 Russian authentic tex
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
+[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
 
 Spanish authentic text
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
+[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
 
 Arabic authentic text
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
+[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)](https://files.diariodarepublica.pt/1s/2003/03/054a00/14921501.pdf)
 
 Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, child Prostitution and Child Pornography, adopted by the General Assembley of the United Nations on 25 May 2000.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/32/2009/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/32-2009-607770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0150f5a81009be7511a6b91fafe512a6b8c5b6683e0b90c68173671e5e48086c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d0109596d08189d7f9295043b84d2cd03bb4d98ef1b829618ec1e384a2bcdf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - China
-- Julgamento
-- Execução de Sentença
-- Pequim
+- Convenção
 - Direito Penal
+- Execução de Sentença
+- Julgamento
+- Pequim
+- Portugal
 - Transferência de Pessoas Condenadas
 - Tratado entre a República Portuguesa e a República Popular da China sobre a Transferência de Pessoas Condenadas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:607768:por
+  label: "Ratificado o Tratado, pelo DEC.44/2009.30.04.2009.PR, DR.IS [84] de 30.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/44-2009-607768
+  date: '2009-04-30'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:35Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de Março de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 TRATADO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA SOBRE A TRANSFERÊNCIA DE PESSOAS CONDENADAS
 
@@ -286,7 +291,7 @@ Pela República Popular da China:
 
 Zhang Yesui, Vice-Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/08400/0249502503.pdf))](https://files.diariodarepublica.pt/1s/2009/04/08400/0249502503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/08400/0249502503.pdf)
 
 TREATY BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA ON TRANSFER OF SENTENCED PERSONS
 

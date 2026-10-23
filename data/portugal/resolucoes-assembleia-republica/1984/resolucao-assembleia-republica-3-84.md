@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1984-660526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fa7a836a6c4caabac480365b1b520b699bb8d6f88e9c297749d20ff78f01963
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b182fb15e1863517facf4b9772b14fcd77433fdf84dc4e6912f673c492dfe933
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Nova Iorque
+- ONU
+- Portugal
+- Refem
 relationships:
 - type: amended_by
   target: pt:dre:534634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534634:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.136/99.1999.04.22.PR,\
+    \ DR.IS-A [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/136-1999-534634
+  date: '1999-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:19Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +103,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 CONVENTION INTERNATIONAL CONTRE LA PRISE D'OTAGES
 
@@ -458,4 +469,4 @@ O texto original da presente Convenção, cujos textos em inglês, árabe, chin�
 
 Em fé de que os abaixo assinados, devidamente autorizados para o efeito pelos respectivos governos, assinaram a presente Convenção que foi aberta à assinatura em Nova Iorque em 18 de Dezembro de 1979.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31/2000/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-2000-506410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b181a0591fd29b0a1894ff41448ef4853adba43bf69d183945accacf8cc22c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd6d5e34682ca07405242572cec38e32ca99bdde31c266b63a878c9c7920ddc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Países Ibero-Americanos
+- ACTO Constitutivo
 - Conselho Ibero-américano do Desporto
 - Convenção
-- Portugal
+- Desporto
 - Estatuto
 - Montevideu
-- ACTO Constitutivo
+- Países Ibero-Americanos
+- Portugal
 - Tratado de Criação do Conselho Ibero-américano do Desporto
-- Desporto
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:506403:por
+  label: "Ratificado o Tratado pelo DEC.18/2000.2000.03.14.PR DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-2000-506403
+  date: '2000-03-14'
 article_structure:
-  article_count: 34
+  article_count: 35
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:13Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 [(ver texto em língua espanhola no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13851395.pdf)
 
@@ -164,7 +169,9 @@ g) Promover a ética no desporto e a prática do jogo limpo.
 
 Os idiomas oficiais do CID são o espanhol e o português.
 
-## TÍTULO PRIMEIRO — Artigo 5.º
+## TÍTULO PRIMEIRO
+
+###### Artigo 5.º
 
 Membros
 
@@ -178,7 +185,7 @@ São órgãos do CID:
 
 A assembleia geral;
 
-**O presidente;**
+O presidente;
 
 O vice-presidente;
 
@@ -330,7 +337,7 @@ O secretariado executivo do CID é um órgão permanente. A duração do mandato
 
 ###### Artigo 21.º — Eleição
 
-**O secretário será eleito pela assembleia geral de entre os candidatos apresentados pelos Estados membros do CID.**
+O secretário será eleito pela assembleia geral de entre os candidatos apresentados pelos Estados membros do CID.
 
 A eleição é a título pessoal, sendo que para a sua eleição ou permanência no cargo é condição pertencer a um organismo desportivo governamental.
 
@@ -342,7 +349,7 @@ A eleição é a título pessoal, sendo que para a sua eleição ou permanência
 
 ###### Artigo 23.º — Funções
 
-**O secretário desempenhará as seguintes funções:**
+O secretário desempenhará as seguintes funções:
 
 a) Apoiar a presidência nas reuniões da assembleia e especialmente na preparação dos assuntos a tratar;
 
@@ -376,7 +383,7 @@ n) Outros trabalhos que a assembleia ou o presidente lhe solicitem expressamente
 
 ###### Artigo 24.º — Constituição
 
-**O presidente poderá propor à assembleia geral a constituição de quotas e comissões de trabalho que se julguem convenientes para um melhor desenvolvimento dos fins do CID.**
+O presidente poderá propor à assembleia geral a constituição de quotas e comissões de trabalho que se julguem convenientes para um melhor desenvolvimento dos fins do CID.
 
 ###### Artigo 25.º — Objectivo
 
@@ -464,4 +471,4 @@ Qualquer Estado membro poderá retirar-se da organização no prazo de um ano ap
 
 Os textos em espanhol e português dos presentes Estatutos serão considerados igualmente autênticos.
 
-**Assinado na cidade de Montevideu, República Oriental do Uruguai, aos 4 dias do mês de Agosto do ano de 1994.**
+Assinado na cidade de Montevideu, República Oriental do Uruguai, aos 4 dias do mês de Agosto do ano de 1994.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b00/42764277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/853/1991/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-1991-402763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36dcc455afd57fc5ed93f611c5e4d0449d326e7b5f9d6fc948d016e19b52a2af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f91514dd4370ac3f2ef2ea037c54c2a3688da365a6a65766177dcd48d9612d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/138/1991/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/138/1991/02/18/p/dre
+- type: cites
+  target: pt:dre:250605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:682181:por
+  label: "Rectificada pela DECL-RECT.207/91.03.09.1991.SG-PCM, DR.IS-B [225]2ºSupl de 30.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/207-1991-682181
+  date: '1991-09-03'
+- type: repealed_by
+  target: pt:dre:213438:por
+  label: "Revogada pela PORT.448-B/92.30.05.1992.GMR-RAA, DR.IS-B [125]3ºSupl de 30.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-b-1992-213438
+  date: '1992-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:38Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +139,6 @@ Manda o Governo, pelos Ministros da República para as Regiões Autónomas dos A
 
 Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 8 de Agosto de 1991.**
+Assinada em 8 de Agosto de 1991.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 1º Suplemento, Série I-A de 1992-07-15
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3322-(2) a 3322-(117)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/22-a/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-a-1992-209832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b514c4cf69a407ef79821cc6def0d08842dc265e52b6c2c20ce93399d10d285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f339d87182f4796dae0a5518d57a9ef875647ac2a724469f8db037637985cce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Portugal
 - Europa
 - Paris
+- Portugal
 - Tratado sobre Forças Armadas Convencionais na Europa
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 23
   section_count: 59
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:22Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +105,7 @@ cujos originais em inglês e as respectivas traduções seguem em anexo.
 
 Aprovada em 9 de Junho de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ## ANEXO — TREATY ON CONVENTIONAL ARMED FORCES IN EUROPE
 
@@ -2993,7 +2993,7 @@ CHART I
 
 Command organisation of the land forces and air and air defence aviation forces of ... (State Party) valids as of ... (date)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 SECTION II
 
@@ -3009,13 +3009,13 @@ CHART II-A
 
 Overall holdings of battle tanks armoured combat vehicles and artillery subject to numerical limitations of ... (State Party) valid as of ... (date).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 CHART II-B
 
 Overall holding of combat aircraft and attack helicopters subject to numerical limitation of ... (State Party) valid as of ... (date).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 SECTION III
 
@@ -3041,13 +3041,13 @@ CHART III-A
 
 Information on the locations, numbers and types of conventional armaments and equipment provided pursuant to section III of the Protocol on Information Exchange of ... (State Party) valid as of ... (date).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 CHART III-B
 
 Information on the location, numbers and types of conventional armaments and equipment provided pursuant to section III of the Protocol on Information Exchange of ... (State Party) valid as of ... (date)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 SECTION IV
 
@@ -3075,7 +3075,7 @@ CHART IV
 
 Information on the location of conventional armaments and equipment provided pursuant to section IV the Protocol on Information Exchange of ... (State Party) valid as of ... (date).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 SECTION V
 
@@ -3115,7 +3115,7 @@ CHART V
 
 Information on objects of verification and declared sites of ... (State Party) valid as of ... (date)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 3 - Each State Party shall provide a listing of points of entry/exit (chart VI). The listing shall assign a unique sequential numerical designator (column b) which shall be used to indicate the point(s) of entry/exit for each site provided pursuant to paragraph 2, subparagraph C), of this section. The location shall include the geographic name (column c) and coordinates accurate to the nearest 10 seconds (column d). The type(s) of transportation acceptable - «air», «sea», «ground» - for each point of entry/exit also shall be specified (column e).
 
@@ -3123,7 +3123,7 @@ CHART VI
 
 Points of entry/exit (POE) of ... (State Party) valid as of ... (date)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 PROTOCOL ON INSPECTION
 
@@ -4103,7 +4103,7 @@ Afirmando o seu empenhamento em continuar o processo de controlo de armas conven
 
 aprovaram o seguinte:
 
-Artigo I
+###### Artigo I
 
 1 - Cada Estado Parte concretizará as obrigações estabelecidas neste Tratado de acordo com as suas cláusulas, incluindo as obrigações relativas às cinco categorias seguintes de forças armadas convencionais: carros de combate, viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de combate.
 
@@ -4111,7 +4111,7 @@ Artigo I
 
 3 - Este Tratado incorpora o Protocolo sobre Tipos Existentes de Armamentos e Equipamento Convencionais, daqui em diante designado por Protocolo sobre Tipos Existentes, com um anexo; o Protocolo sobre Procedimentos que Regulam a Reclassificação de Modelos e Versões Específicas de Aviões de Treino com Capacidade para o Combate em Aviões de Treino Desarmados, daqui em diante designado pelo Protocolo sobre Reclassificação de Aviões; o Protocolo sobre Procedimentos Que Regulam a Redução de Armamentos e Equipamento Convencionais Limitados pelo Tratado sobre Forças Armadas na Europa, daqui em diante designado por Protocolo de Redução; o Protocolo sobre Procedimentos Que Regulam a Categorização de Helicópteros de Combate e a Recategorização de Helicópteros de Ataque de Fins Múltiplos, daqui em diante designado por Protocolo sobre a Recategorização de Helicópteros; o Protocolo sobre Notificação e Troca de Informação, daqui em diante designado por Protocolo sobre Troca de Informação, com um anexo sobre o formato para troca de informação, daqui em diante designado como o anexo sobre o formato; o Protocolo sobre Inspecção; o Protocolo sobre o Grupo Consultivo Conjunto, e o Protocolo sobre a Aplicação Provisória de Certas Cláusulas ao Tratado sobre Forças Armadas Convencionais na Europa, daqui em diante designado por Protocolo sobre Aplicação Provisória. Cada um destes documentos constitui um parte integrante deste Tratado.
 
-Artigo II
+###### Artigo II
 
 1 - Para efeitos deste Tratado:
 
@@ -4177,7 +4177,7 @@ U) O termo «encargo de redução» significa o número em cada categoria de arm
 
 (nota ***) O Tratado do Atlântico Norte, assinado em Washington em 4 de Abril de 1949.
 
-Artigo III
+###### Artigo III
 
 1 - Para efeitos deste Tratado, os Estados Partes aplicarão as regras de contagem seguintes: dentro da área de aplicação, estarão sujeitos às limitações numéricas e outras cláusulas estabelecidas nos artigos IV, V e VI, todos os carros de combate, viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de ataque, tal como definido no artigo II, com excepção daqueles que de forma compatível com as práticas normais do Estado Parte:
 
@@ -4197,7 +4197,7 @@ G) Estejam na área de aplicação mas em trânsito vindos de um local exterior 
 
 2 - Se, no que respeita a qualquer de tais carros de combate, viaturas blindadas de combate, artilharia, aviões de combate ou helicópteros de ataque, cuja notificação é exigida segundo a secção IV do Protocolo sobre Troca de Informação, um Estado Parte notifica um número invulgarmente elevado em mais de duas trocas de informação anuais sucessivas, deverá explicar as razões ao Grupo Consultivo Conjunto, se tal lhe for solicitado.
 
-Artigo IV
+###### Artigo IV
 
 1 - Dentro da área de aplicação, tal como definido no artigo II, cada Estado Parte limitará e, se necessário, reduzirá os seus carros de combate, viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de ataque de forma que, 40 meses após a entrada em vigor deste Tratado e daí em diante, para o grupo de Estados Partes ao qual pertence, tal como definido no artigo II, o número acumulado não exceda:
 
@@ -4249,7 +4249,7 @@ C) 5000 peças de artilharia.
 
 6 - Se os números acumulados de carros de combate, viaturas blindadas de combate e artilharia de um grupo de Estados Partes em unidades operacionais, dentro da área descrita no parágrafo 4 deste artigo, forem inferiores às limitações numéricas estabelecidas no parágrafo 4 deste artigo, e desde que nenhum Estado Parte seja impedido de atingir os seus níveis máximos notificados de acordo com o artigo VII, parágrafos 2, 3 e 5, então montantes iguais à diferença entre os números acumulados em cada categoria de carros de combate, viaturas blindadas de combate e artilharia e os limites numéricos especificados para essa área podem ser localizados pelos Estados Partes pertencendo ao grupo de Estados Partes na área descrita no parágrafo 3 deste artigo, de acordo com as limitações numéricas especificadas no parágrafo 3 deste artigo.
 
-Artigo V
+###### Artigo V
 
 1 - Para garantir que a segurança de cada Estado Parte não é prejudicada em nenhuma fase:
 
@@ -4279,7 +4279,7 @@ C) Desde que por cada grupo de Estados Partes não seja transferido mais de um t
 
 2 - Será feita uma notificação a todos os outros Estados Partes nunca após a distribuição pelo Estado ou Estados Partes que procedem à distribuição e pelo Estado ou Estados Partes receptores especificando o número total em cada categoria de carros de combate, viaturas blindadas de combate e artilharia distribuída. Igualmente será feita uma notificação a todos os Estados Partes pelo Estado ou Estados Partes que procedem à distribuição e pelo Estado ou Estados Partes receptores, dentro dos 30 dias imediatos à retirada dos carros de combate, as viaturas blindadas de combate e de artilharia que foram temporariamente distribuídos.
 
-Artigo VI
+###### Artigo VI
 
 Com o objectivo de garantir que nenhum Estado Parte possua mais do que aproximadamente um terço dos armamentos e equipamento convencionais limitados pelo Tratado dentro da área de aplicação, cada Estado Parte limitará e, se necessário, reduzirá os seus carros de combate, viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de ataque de forma que, 40 meses após a sua entrada em vigor e daí em diante, os números dentro da área de aplicação por cada Estado Parte não excedam:
 
@@ -4293,7 +4293,7 @@ D) 5150 aviões de combate; e
 
 E) 1500 helicópteros de ataque.
 
-Artigo VII
+###### Artigo VII
 
 1 - De forma que as limitações estabelecidas nos artigos IV, V e VI não sejam excedidas, nenhum Estado Parte excederá, após 40 meses de entrada em vigor deste Tratado, os níveis máximos que acordou previamente dentro do seu grupo de Estados Partes, de acordo com o parágrafo 7 deste artigo, de armamentos e equipamento convencionais limitados pelo Tratado e sobre o qual forneceu notificação segundo as cláusulas deste artigo.
 
@@ -4309,7 +4309,7 @@ Artigo VII
 
 7 - Será da exclusiva responsabilidade individual de cada Estado Parte assegurar que os níveis máximos das suas existências notificadas de acordo com as cláusulas deste artigo não sejam excedidos. Os Estados Partes pertencentes ao mesmo grupo de Estados Partes farão consultas a fim de assegurar que os níveis máximos de existências notificadas segundo as cláusulas deste artigo, tomados como adequados, não excedam as limitações estabelecidas nos artigos IV, V e VI.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - As limitações numéricas estabelecidas nos artigos IV, V e VI serão atingidas unicamente por meio de redução de acordo com o Protocolo sobre Redução, Protocolo sobre Recategorização de Helicópteros, Protocolo sobre Reclassificação de Aviões, a nota de fim de página da secção I, parágrafo 2, subparágrafo A), do Protocolo sobre Tipos Existentes e o Protocolo sobre Inspecção.
 
@@ -4355,7 +4355,7 @@ D) As viaturas blindadas de combate consideradas como reduzidas por motivo de te
 
 13 - O processo de redução, incluindo os resultados da conversão para fins não militares dos armamentos e equipamento convencionais limitados pelo Trado, tanto durante o período de redução como nos 24 meses a seguir ao período de redução, estará sujeito a inspecção, sem direito a recusa, de acordo com o Protocolo sobre Inspecção.
 
-Artigo IX
+###### Artigo IX
 
 1 - Para além da retirada de serviço, de acordo com as cláusulas do artigo VIII, os carros de combate e viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de ataque dentro da área de aplicação só serão retirados de serviço por desmobilização, desde que:
 
@@ -4365,7 +4365,7 @@ B) Os números de tais armamentos e equipamento convencionais desmobilizados lim
 
 2 - A notificação de desmobilização incluirá o número e tipo dos armamentos e equipamento convencionais desmobilizados limitados pelo Tratado e a localização da desmobilização será fornecida a todos os outros Estados Partes de acordo com a secção IX, parágrafo 1, subparágrafo B), do Protocolo sobre Troca de Informação.
 
-Artigo X
+###### Artigo X
 
 1 - Os locais de armazenagem permanente designados serão notificados de acordo com o Protocolo sobre Troca de Informação a todos os outros Estados Partes pelo Estado Parte a quem pertencem os armamentos e equipamento convencionais limitados pelo tratado mantidos nos locais designados de armazenagem permanente. A notificação incluirá a designação e localização, incluindo as coordenadas geográficas dos locais designados de armazenagem permanente e os números por tipo de cada categoria dos seus armamentos e equipamento convencionais limitados pelo Tratado em cada um desses locais de armazenagem.
 
@@ -4401,7 +4401,7 @@ C) 300 peças de artilharia.
 
 11 - Cada Estado Parte terá o direito de substituir armamentos e equipamento convencionais limitados pelo Tratado localizados em locais designados de armazenagem permanente. Cada Estado Parte notificará a todos os outros Estados Partes, no início da substituição, o número, localização, tipo e disposição do armamento e equipamento convencionais limitados pelo Tratado a serem substituídos.
 
-Artigo XI
+###### Artigo XI
 
 1 - Cada Estado Parte limitará as suas viaturas blindadas lança-pontes de forma que, 40 meses após a entrada em vigor deste Tratado e daí em diante, para o grupo de Estados Partes a que pertence, o número acumulado de viaturas blindadas lança-pontes em unidades operacionais dentro da área de aplicação não exceda 740.
 
@@ -4423,13 +4423,13 @@ C) A utilização prevista para essas viaturas blindadas lança-pontes durante o
 
 7 - No caso de desastres naturais envolvendo inundações ou prejuízos às pontes permanentes, os Estados Partes terão o direito de retirar as viaturas blindadas lança-pontes dos locais designados de armazenagem permanente. Será feita notificação a todos os outros Estados Partes na data da retirada.
 
-Artigo XII
+###### Artigo XII
 
 1 - As viaturas blindadas de combate de infantaria mantidas pelas organizações de um Estado Parte destinadas e estruturadas para desempenhar em tempo de paz funções de segurança interna, que não estão estruturadas e organizadas para combate terrestre contra um inimigo externo, não estão limitadas por este Tratado. Independentemente do atrás mencionado, de forma a salientar a implementação deste Tratado e fornecer garantia de que os números de tais armamentos na posse de tais organizações não serão usados para subverter as cláusulas deste Tratado, quaisquer desses armamentos que excedam 1000 viaturas blindadas de combate de infantaria atribuídas por um Estado Parte a organizações destinadas e estruturadas para desempenhar em tempo de paz funções de segurança interna, constituirão uma parte dos níveis permitidos especificados nos artigos IV, V e VI. Não mais de 600 viaturas, blindadas de combate de infantaria de um Estado Parte atribuídas a tais organizações poderão estar localizadas na parte da área de aplicação descrita no artigo V, parágrafo 1, subparágrafo A). Cada Estado Parte garantirá além disso que tais organizações não adquirirão mais capacidade de combate para além da necessária aos requisitos de segurança interna.
 
 2 - Um Estado Parte que tenciona retribuir carros de combate, viaturas blindadas de combate de infantaria, aviões de combate, helicópteros de ataque e viaturas blindadas lança-pontes em serviço nas suas forças armadas convencionais a qualquer organização desse Estado Parte que não faça parte das suas forças armadas convencionais notificará todos os outros Estados Partes, nunca depois da data em que tem efeito tal retribuição. Tal notificação especificará a data efectiva da retribuição, a data da transferência física do equipamento, assim como os números, por tipo, dos armamentos e equipamento convencionais limitados pelo Tratado a serem retribuídos.
 
-Artigo XIII
+###### Artigo XIII
 
 1 - Para efeitos de garantir a verificação do cumprimento das cláusulas deste Tratado, cada Estado Parte fará notificações e trocas de informações a respeito dos seus armamentos e equipamento convencionais de acordo com o Protocolo sobre Troca de Informação.
 
@@ -4437,7 +4437,7 @@ Artigo XIII
 
 3 - Cada Estado Parte será responsável pela sua própria informação; a recepção de tal informação e notificações não implicará a validação ou aceitação da informação fornecida.
 
-Artigo XIV
+###### Artigo XIV
 
 1 - Para efeitos de garantir a verificação do cumprimento das cláusulas deste Tratado, cada Estado Parte terá o direito de fazer, e a obrigação de aceitar, dentro da área de aplicação, inspecções de acordo com as cláusulas do Protocolo sobre Inspecções.
 
@@ -4457,7 +4457,7 @@ C) Controlar a recategorização dos helicópteros de ataque para fins múltiplo
 
 6 - Após a conclusão da fase de validação de nível residual de 120 dias, cada Estado Parte terá o direito de conduzir, e cada Estado Parte com território dentro da área de aplicação terá a obrigação de aceitar, um número aprovado de inspecções aéreas dentro da área de aplicação. Tais números aprovados e outras cláusulas aplicáveis serão elaboradas durante as negociações referidas no artigo XVIII.
 
-Artigo XV
+###### Artigo XV
 
 1 - Com o fim de assegurar a verificação do cumprimento das cláusulas deste Tratado, um Estado Parte terá o direito de usar, para além dos procedimentos referidos no artigo XIV, meios de verificação técnicos nacionais ou multinacionais à sua disposição de uma forma compatível com os princípios de lei internacional geralmente reconhecidos.
 
@@ -4465,7 +4465,7 @@ Artigo XV
 
 3 - Um Estado Parte não usará medidas de ocultação que impeçam a verificação do cumprimento das cláusulas deste Tratado por meios de verificação técnicos nacionais ou multinacionais de outro Estado Parte operando de acordo com o parágrafo 1 deste artigo. Esta obrigação não se aplica a cobrir ou a ocultar práticas associadas à formação de pessoal normal, manutenção ou operações envolvendo armamentos e equipamento convencionais limitados por este Tratado.
 
-Artigo XVI
+###### Artigo XVI
 
 1 - Para promover os objectivos e implementação das cláusulas deste Tratado, os Estados Partes por este meio estabelecem um Grupo Consultivo Conjunto.
 
@@ -4499,11 +4499,11 @@ I) Considerar assuntos de debate resultantes da implementação deste Tratado.
 
 7 - O Grupo Consultivo Conjunto respeitará os procedimentos estabelecidos no Protocolo sobre o Grupo Consultivo Conjunto.
 
-Artigo XVII
+###### Artigo XVII
 
 Os Estados Partes transmitirão por escrito as informações e notificações exigidas por este Tratado. Usarão os canais diplomáticos ou outros canais oficiais por eles designados, incluindo em especial uma rede de comunicações a ser estabelecida por combinação separada.
 
-Artigo XVIII
+###### Artigo XVIII
 
 1 - Os Estados Partes, após assinatura deste Tratado, continuarão as negociações sobre forças armadas convencionais com o mesmo mandato e com o objectivo de fortalecer este Tratado.
 
@@ -4511,7 +4511,7 @@ Artigo XVIII
 
 3 - Os Estados Partes procurarão concluir estas negociações antes da reunião de acompanhamento da Conferência sobre Segurança e Cooperação na Europa a realizar em Helsínquia em 1992.
 
-Artigo XIX
+###### Artigo XIX
 
 1 - Este Tratado será de duração ilimitada. Poderá ser suplementado por um tratado adicional.
 
@@ -4519,13 +4519,13 @@ Artigo XIX
 
 3 - Cada Estado Parte, no exercício da sua soberania nacional, terá o direito, em especial, de se retirar deste Tratado se outro Estado Parte aumentar os seus efectivos em carros de combate, viaturas blindadas de combate, artilharia, aviões de combate e helicópteros de ataque, tal como definido no artigo II, que estão fora do âmbito das limitações deste Tratado, em proporções tais que constituam uma ameaça óbvia ao equilíbrio das forças dentro da área de aplicação.
 
-Artigo XX
+###### Artigo XX
 
 1 - Qualquer Estado Parte pode propor emendas a este Tratado. O texto de uma emenda proposta será submetido ao depositário, que a fará circular a todos os Estados Partes.
 
 2 - Se uma emenda é aprovada por todos os Estados Partes, entrará em vigor de acordo com os procedimentos estabelecidos no artigo XXII que regula a entrada em vigor deste Tratado.
 
-Artigo XXI
+###### Artigo XXI
 
 1 - 46 meses após a entrada em vigor deste Tratado, e daí em diante a intervalos de cinco anos, o depositário convocará uma conferência dos Estados Partes para efectuar uma revisão ao funcionamento deste Tratado.
 
@@ -4535,7 +4535,7 @@ Artigo XXI
 
 4 - No caso de um Estado Parte notificar a sua decisão de se retirar deste Tratado de acordo com o artigo XIX, o depositário convocará uma conferência dos Estados Partes que começará dentro de 21 dias após a recepção do aviso de retirada, de forma a considerar questões relacionadas com a retirada deste Tratado.
 
-Artigo XXII
+###### Artigo XXII
 
 1 - Este Tratado estará sujeito a ratificação por cada Estado Parte de acordo com os seus procedimentos constitucionais. Os instrumentos de ratificação serão depositados com o Governo do Reino dos Países Baixos, por este meio designado o depositário.
 
@@ -4561,7 +4561,7 @@ H) A qualquer outro assunto que o depositário deva, segundo este Tratado, infor
 
 4 - Este Tratado será registado pelo depositário de acordo com o artigo 102 da Carta das Nações Unidas.
 
-Artigo XXIII
+###### Artigo XXIII
 
 O original deste Tratado, cujos textos em inglês, francês, alemão, italiano, russo e espanhol serão igualmente autenticados, será depositado nos arquivos do depositário. As cópias deste Tratado devidamente autenticadas serão transmitidas pelo depositário a todos os Estados Partes.
 
@@ -5911,7 +5911,7 @@ BLG-67M2.
 
 4 - O mais cedo possível, e em qualquer caso não excedendo os 60 dias a seguir à notificação de acordo com o parágrafo 3 desta Secção, os Estados Partes iniciarão as actualizações, de acordo com as cláusulas estabelecidas no artigo XVI do Tratado e o Protocolo do Grupo Consultivo Conjunto, das listas dos tipos existentes de armamentos e equipamento convencionais nas secções I e II deste Protocolo.
 
-## Anexo ao Protocolo sobre Tipos Existentes de Armamentos e Equipamento Convencionais
+Anexo ao Protocolo sobre Tipos Existentes de Armamentos e Equipamento Convencionais
 
 #### SECÇÃO I — Categorias aprovadas dos elementos técnicos
 
@@ -6871,7 +6871,7 @@ C) Os armamentos e equipamento convencionais limitados pelo Tratado em serviço 
 
 1 - Após a assinatura do Tratado e antes da sua entrada em vigor, o Grupo Consultivo Conjunto elaborará um documento relativo a notificações exigidas pelo Tratado. Tal documento contemplará todas essas notificações, especificando as que serão feitas de acordo com o artigo XVII do Tratado, e incluirá modelos apropriados, conforme necessário, para tais notificações. De acordo com o artigo XVI, parágrafo 5, do Tratado, as alterações a este documento, incluindo quaisquer modelos, serão consideradas melhoramentos à viabilidade e eficácia do Tratado no que respeita a assuntos menores de natureza técnica.
 
-## Anexo sobre o formato para a troca de informação
+Anexo sobre o formato para a troca de informação
 
 1 - Cada Estado Parte fornecerá a todos os outros Estados Partes informações de acordo com o Protocolo sobre Troca de Informação, daqui em diante referido como Protocolo, segundo os modelos especificados neste anexo. As informações em cada lista de dados serão fornecidas por impressão mecânica ou electrónica e numa das seis línguas oficiais da Conferência sobre Segurança e Cooperação na Europa. Em cada quadro (coluna a), a cada registo será atribuído um número sequencial.
 
@@ -6893,7 +6893,7 @@ QUADRO I
 
 Organização do comando das forças terrestres e força aérea e de defesa aérea de ... (Estado Parte) válida a partir de ... (data).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 #### SECÇÃO II
 
@@ -6909,13 +6909,13 @@ QUADRO II-A
 
 Existências globais de carros de combate, viaturas blindadas de combate e artilharia sujeitos às limitações numéricas de ... (Estado Parte) em vigor a partir de ... (data).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 QUADRO II-B
 
 Existências globais de aviões de combate e helicópteros de ataque sujeitos às limitações numéricas de ... (Estado Parte) em vigor a partir de ... (data).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 #### SECÇÃO III
 
@@ -6941,13 +6941,13 @@ QUADRO III-A
 
 Informação sobre a localização, números e tipos de armamentos e equipamento convencionais fornecida segundo a secção III do Protocolo sobre Troca de Informação de ... (Estado Parte) válido a partir de ... (data)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 QUADRO III-B
 
 Informação sobre a localização, números e tipos da armamentos e equipamento convencionais fornecida segundo a secção III do Protocolo sobre Troca de Informação de ... (Estado Parte) válida a partir de ... (data)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 #### SECÇÃO IV
 
@@ -6975,7 +6975,7 @@ QUADRO IV
 
 Informação sobra a localização dos armamentos a equipamento convencionais fornecida segundo a secção IV do Protocolo sobre Troca de Informação de ... (Estado Parte) válida a partir de ... (data).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 #### SECÇÃO V — Informação sobre objectos de verificação e locais declarados
 
@@ -7011,7 +7011,7 @@ QUADRO V
 
 Informação sobre objectos de verificação o locais declarados de ... (Estado Parte) válida a partir de ... (data)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 3 - Cada Estado Parte fornecerá uma lista de pontos de entrada/saída (quadro VI). A lista atribuirá uma única designação numérica sequencial (coluna b), que será usada para indicar o(s) ponto(s) de entrada/saída para cada local previsto segundo o parágrafo 2, subparágrafo C), desta secção. A localização incluirá o nome geográfico (coluna c) e coordenadas precisas com uma margem de 10 segundos (coluna d). O(s) tipo(s) de transporte aceitável - «air», «sea», «ground» - para cada ponto de entrada/saída também será(ão) especificado(s) na coluna e.
 
@@ -7019,7 +7019,7 @@ QUADRO VI
 
 Pontos de entrada/saída (POE) de ... (Estado Parte) válido a partir de ... (data)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161a01/00020117.pdf)
 
 PROTOCOLO SOBRE INSPECÇÃO
 

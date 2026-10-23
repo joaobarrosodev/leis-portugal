@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/856/1991/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-1991-402772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae33a3756d85f701a4e3d024346125382a109fa806fbb51617a2f6caa982fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e47a5e9c63195262ed8938f8759925cf2eb39569a708b1e0cda5f07dbb34c20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barcelos
-- Pessoal Dirigente
-- Pessoal Operário
+- Capelão
 - Hospital Distrital
 - Pessoal Administrativo
 - Pessoal Auxiliar
-- Capelão
 - Pessoal de Enfermagem
+- Pessoal Dirigente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
@@ -82,16 +82,50 @@ relationships:
   target: pt:dre:469648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542181:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE BARCELOS, PELA PORTARIA 1179/92, PUBLICADA NO DR.IS-B,\
+    \ 294, DE 921222, NA PARTE REFERENTE AS CARREIRAS DOS TÉCNICOS SUPERIORES DE SAÚDE, E DOS TÉCNICOS DE SERVIÇO SOCIAL E\
+    \ ÁREAS FUNCIONAIS DE BIBLIOTECA, ARQUIVO E DOCUMENTAÇÃO. SUBSTITUÍDO O QUADRO DE PESSOAL, NA PARTE REFERENTE AO RAMO\
+    \ DE LABORATÓRIO DA CARREIRA TÉCNICA SUPERIOR DE SAÚDE, PELA PORTARIA 1295/93, DE 24 DE DEZEMBRO, PUBLICADA NO DR.IS-B,\
+    \ 299, DE 931224.\0DR.IS-B, 299, DE 931224.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1295-1993-542181
+- type: amended_by
+  target: pt:dre:624384:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE BARCELOS, PELA PORTARIA 1179/92, PUBLICADA NO DR.IS-B,\
+    \ 294, DE 921222, NA PARTE REFERENTE AS CARREIRAS DOS TÉCNICOS SUPERIORES DE SAÚDE, E DOS TÉCNICOS DE SERVIÇO SOCIAL E\
+    \ ÁREAS FUNCIONAIS DE BIBLIOTECA, ARQUIVO E DOCUMENTAÇÃO. SUBSTITUÍDO O QUADRO DE PESSOAL, NA PARTE REFERENTE AO RAMO\
+    \ DE LABORATÓRIO DA CARREIRA TÉCNICA SUPERIOR DE SAÚDE, PELA PORTARIA 1295/93, DE 24 DE DEZEMBRO, PUBLICADA NO DR.IS-B,\
+    \ 299, DE 931224.\0DR.IS-B, 299, DE 931224.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1179-1992-624384
+- type: amended_by
+  target: pt:dre:469648:por
+  label: "Substituido o quadro de pessoal pela PORT.264/97.1997.04.17.PCM, DR.IS-B [90], na redacção dada pelas Ports 1179/92\
+    \ de 22-Dez, 1295/93 de 24-Dez e 195/95 de 17-Mar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1997-469648
+  date: '1997-04-17'
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:43Z'
   warnings: []
   errors: []
 ---
@@ -116,32 +150,32 @@ a) Repartição de Pessoal, que compreende:
 
 #### Secção de Secretaria;
 
-#### Secção de Pessoal;
+Secção de Pessoal;
 
 b) Repartição de Contabilidade, que compreende:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Contabilidade Analítica;
+Secção de Contabilidade Analítica;
 
 c) Repartição de Admissão de Doentes, que é constituída por:
 
 #### Secção de Doentes;
 
-#### Secção de Arquivo Clínico e Estatística;
+Secção de Arquivo Clínico e Estatística;
 
 d) Repartição de Aprovisionamento, que compreende:
 
-#### Secção de Gestão de Stocks;
+Secção de Gestão de Stocks;
 
-#### Secção de Aquisição e Armazéns.
+Secção de Aquisição e Armazéns.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 14 de Junho de 1991.**
+Assinada em 14 de Junho de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Barcelos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/190b00/42884291.pdf))](https://files.diariodarepublica.pt/1s/1991/08/190b00/42884291.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/190b00/42884291.pdf)

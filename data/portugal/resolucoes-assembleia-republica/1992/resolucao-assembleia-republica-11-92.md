@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/11/1992/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1992-217130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d1c9dac08952074b10ab448695918bd2fe02827075825d05a315fff2b856136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6684d6a941ead166fdcd75df695806ab928dea5a4dd77ba4bc7af3a19a12233e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Informática
-- ONU
 - Macau
+- ONU
+- Portugal
 - Universidade ONU
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 30 de Janeiro de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 Para ser publicado no Boletim Oficial de Macau.
 
@@ -119,9 +119,7 @@ acordaram no seguinte:
 
 Neste Acordo:
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 Neste Acordo:
 
@@ -151,21 +149,15 @@ l) "Membros do agregado familiar" significa as pessoas que fazem parte do agrega
 
 m) "Pessoal não oriundo de Macau" significa pessoal que não seja habitante de Macau ou que não tenha residência permanente em Macau.
 
-Artigo II
-
-Estatuto legal
+###### Artigo II — Estatuto legal
 
 O Instituto terá o estatuto legal necessário à realização dos seus objectivos e das suas actividades. Terá, em particular, capacidade para celebrar acordos, contratos e compromissos, para adquirir e alienar bens móveis e imóveis e para accionar procedimentos legais.
 
-Artigo III
-
-Liberdade académica
+###### Artigo III — Liberdade académica
 
 O Instituto gozará da liberdade académica necessária para a realização dos seus objectivos, com particular referência para a escolha de temas e métodos de investigação e formação, de selecção de pessoas e instituições para participarem nas suas tarefas e de liberdade de expressão.
 
-Artigo IV
-
-Instalações
+###### Artigo IV — Instalações
 
 1 - a) As instalações do Instituto serão invioláveis. Nenhum funcionário ou agente das autoridades competentes poderá entrar nas instalações do Instituto para aí executar quaisquer diligências oficiais, salvo com o expresso consentimento e nas condições aprovadas pelo director ou a seu pedido. As diligências de carácter judicial, incluindo a apreensão de propriedades privadas, não poderão efectuar-se nas instalações, salvo com o consentimento expresso do director e nas condições por ele aprovadas.
 
@@ -181,9 +173,7 @@ d) As instalações do Instituto serão utilizadas somente para a prossecução 
 
 4 - À Universidade será atribuído o direito de exibir o seu emblema nas instalações e nas viaturas do Instituto.
 
-Artigo V
-
-Serviços públicos
+###### Artigo V — Serviços públicos
 
 1 - As autoridades competentes desenvolverão os seus melhores esforços, em consulta com a Universidade, para garantir que as instalações do Instituto sejam equipadas com os bens e serviços públicos necessários, incluindo - sem que esta enumeração seja limitativa - electricidade, água, esgotos, gás, correio, telefone, telégrafo, transportes públicos, escoamento de águas, recolha de lixos e protecção contra incêndio, e ainda para que estes bens e serviços públicos sejam fornecidos em termos equitativos.
 
@@ -191,25 +181,19 @@ Serviços públicos
 
 3 - O director deverá, quando solicitado, adoptar as providências necessárias para que os funcionários dos serviços públicos possam inspeccionar, fazer reparações, prestar serviços de manutenção, reconstruir ou mudar de local equipamentos de utilidade pública, condutas, canalizações principais e de esgoto nas instalações do Instituto.
 
-Artigo VI
-
-Inviolabilidade dos arquivos
+###### Artigo VI — Inviolabilidade dos arquivos
 
 Os arquivos do Instituto são invioláveis.
 
 O termo "arquivos" inclui todos os registos, correspondência, documentos, manuscritos, fotografias, filmes e gravações pertencentes ou detidos pelo Instituto, onde quer que se encontrem.
 
-Artigo VII
-
-Imunidade do Instituto
+###### Artigo VII — Imunidade do Instituto
 
 1 - O Instituto, os seus bens e os seus activos gozam, onde quer que se encontrem e seja por quem forem detidos, de imunidade relativamente a acções judiciais de qualquer natureza, excepto no caso particular em que o Instituto tenha expressamente renunciado à sua imunidade. Contudo, é entendido que nenhuma renúncia à imunidade poderá abranger qualquer procedimento de natureza executiva.
 
 2 - Os bens e os activos do Instituto, onde quer que se encontrem e seja por quem forem detidos, gozam de imunidade no que se refere a buscas, requisições, confiscos, expropriações ou de qualquer outra forma de interferência, mesmo que determinados por acções de carácter administrativo ou judicial ou por medidas de natureza legislativa.
 
-Artigo VIII
-
-Comunicações e publicações
+###### Artigo VIII — Comunicações e publicações
 
 1 - a) Todas as comunicações oficiais dirigidas ao Instituto, ou a qualquer elemento do seu pessoal, e todas as comunicações para o exterior do Instituto, quaisquer que sejam os meios ou a forma por que forem transmitidas, beneficiarão de imunidade no que se refere a censura ou a qualquer outra forma de intercepção ou interferência na sua privacidade. Contudo, o Instituto só poderá instalar e utilizar transmissores de radiocomunicações com o consentimento das autoridades competentes.
 
@@ -219,9 +203,7 @@ b) O Instituto terá o direito de utilizar códigos e remeter e receber correspo
 
 b) Todavia, entende-se que o Instituto deve respeitar as leis e convenções internacionais aplicáveis a Macau relativas à propriedade intelectual.
 
-Artigo IX
-
-Isenção de impostos e taxas
+###### Artigo IX — Isenção de impostos e taxas
 
 1 - O Instituto, seus activos, rendimentos e outros bens devem ser:
 
@@ -233,9 +215,7 @@ c) Isentos de taxas alfandegárias e de proibições e restrições nas importa�
 
 2 - Embora o Instituto, como regra geral, não reclame a isenção de impostos sobre o consumo nem de taxas aplicáveis à venda de bens móveis e imóveis que façam parte do preço a pagar, quando o Instituto efectuar importantes aquisições, para uso oficial, de bens sobre os quais estes impostos ou taxas tenham sido aplicados ou sejam aplicáveis, as autoridades competentes deverão, sempre que possível, proceder às diligências administrativas adequadas para a remissão ou reembolso dos montantes desses impostos ou taxas.
 
-Artigo X
-
-Facilidades financeiras
+###### Artigo X — Facilidades financeiras
 
 O Instituto não será limitado por controlos financeiros, regulamentos ou moratórias de qualquer espécie, podendo, designadamente:
 
@@ -243,17 +223,13 @@ a) Possuir fundos, ouro ou moeda de qualquer espécie e movimentar contas em qua
 
 b) Transferir livremente os seus fundos, ouro ou moeda de e para Macau ou em Macau e converter qualquer moeda que tenha em seu poder em qualquer outra moeda.
 
-Artigo XI
-
-Segurança social
+###### Artigo XI — Segurança social
 
 1 - O Instituto será isento de qualquer contribuição obrigatória para qualquer esquema de segurança social existente em Macau e o seu pessoal não será obrigado pelas autoridades competentes a nele participar.
 
 2 - As autoridades competentes deverão, em condições a acordar, tomar as medidas consideradas necessárias para possibilitar que qualquer elemento do pessoal do Instituto que não tenha sido incluído por este no seu esquema de segurança social participe, se o Instituto assim o solicitar, num esquema público de segurança social de Macau. O Instituto deverá, tanto quanto possível, diligenciar, em condições a acordar, no sentido de fazer participar no sistema público de segurança social de Macau os membros do seu pessoal recrutado localmente aos quais o Instituto não conceda benefícios de segurança social pelo menos equivalentes aos existentes nos termos das leis aplicáveis em Macau.
 
-Artigo XII
-
-Acesso, trânsito e residência
+###### Artigo XII — Acesso, trânsito e residência
 
 1 - a) As autoridades competentes deverão tomar as medidas necessárias para facilitar a entrada, permanência e trânsito no território de Macau das pessoas mencionadas na lista seguinte e dos seus cônjuges e membros do agregado familiar, quando essas pessoas se encontrem no desempenho de missões oficiais relacionadas com o Instituto:
 
@@ -277,9 +253,7 @@ b) O Instituto deverá dar conhecimento às autoridades competentes, com a maior
 
 3 - Este artigo não impedirá o pedido de apresentação de provas que demonstrem suficientemente que as pessoas que reclamam o tratamento por ele conferido reúnem as condições descritas no n.º 1.
 
-Artigo XIII
-
-Identificação
+###### Artigo XIII — Identificação
 
 1 - O director deverá enviar periodicamente às autoridades competentes a lista dos membros do conselho, pessoal, especialistas, colaboradores e formandos do Instituto e informar, sem demora, as autoridades competentes de quaisquer alterações ou acréscimos à lista.
 
@@ -287,9 +261,7 @@ Identificação
 
 b) O cartão de identificação será aceite pelas autoridades competentes como prova de vínculo ao Instituto e também como documento de identificação para o pessoal não oriundo de Macau.
 
-Artigo XIV
-
-Privilégios e imunidades dos membros do conselho, pessoal e especialistas
+###### Artigo XIV — Privilégios e imunidades dos membros do conselho, pessoal e especialistas
 
 1 - Os membros do conselho, nas reuniões convocadas pelo Instituto, deverão, enquanto no exercício das suas funções e durante as suas viagens de e para o local das reuniões, gozar dos mesmos privilégios e imunidades que são concedidos, mutatis mutandis, pelo artigo IV da Convenção aos representantes dos membros nos termos especificados nesse artigo.
 
@@ -319,9 +291,7 @@ v) O direito de importar, livres de taxas, a sua mobília e bens em um ou mais c
 
 5 - É no interesse do Instituto, e não para o benefício pessoal dos próprios indivíduos, que serão concedidos os privilégios e imunidades referidos neste Acordo. O director, em nome do reitor, terá o direito e o dever de retirar a imunidade de qualquer indivíduo em qualquer caso em que, na sua opinião, a imunidade possa impedir o curso da justiça e em que essa imunidade possa ser retirada sem prejuízo dos interesses do Instituto. No caso do director, o reitor terá idêntico direito e dever.
 
-Artigo XV
-
-Resolução de diferendos
+###### Artigo XV — Resolução de diferendos
 
 1 - O Instituto tomará medidas para encontrar vias apropriadas para a resolução de:
 
@@ -331,9 +301,7 @@ b) Diferendos envolvendo qualquer membro do pessoal do Instituto que, por motivo
 
 2 - Qualquer diferendo entre a Universidade e a República Portuguesa no que respeite à interpretação ou aplicação deste Acordo ou de qualquer acordo suplementar, ou ainda qualquer questão que afecte as instalações do Instituto ou a relação entre a Universidade e a República Portuguesa que não seja solucionável por negociação ou por outra forma acordada de resolução, será levado, para decisão final, a um tribunal composto por três árbitros: um a ser nomeado pelo Governador, um a ser nomeado pelo reitor e o terceiro, que presidirá ao tribunal, a ser nomeado pelos dois primeiros. Caso os dois primeiros não cheguem a um acordo sobre a nomeação do terceiro dentro do prazo de seis meses após a sua nomeação, esse terceiro árbitro será nomeado pelo Presidente do Tribunal Internacional de Justiça, a pedido da Universidade ou da República Portuguesa.
 
-Artigo XVI
-
-Disposições gerais
+###### Artigo XVI — Disposições gerais
 
 1 - Sem prejuízo dos privilégios e imunidades concedidos por este Acordo, é dever da Universidade, do Instituto e das pessoas que gozem destes privilégios e imunidades respeitar as leis aplicáveis a Macau. Têm também o dever de não interferir nos assuntos internos de Macau.
 

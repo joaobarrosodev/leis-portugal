@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 190/1991, 2º Suplemento, Série I-B de 1991-08-20
   number: '190'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4306-(22) a 4306-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b02/00220023.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/863/1991/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46ba248c8d7954a2b17b4179036bac6ddf01316289371c6d7839d56ae374326c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5a00e765baeaa2202b75d94e284de08665b361091013b7f32e486de4346f4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,68 @@ relationships:
   target: pt:dre:494550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424146:por
+  label: "Aditada a base de remuneração 28 à tabela salarial prevista na Port 193/90, de 17-Mar, com a alteração introduzida\
+    \ pelo n.º 1 da presente portaria, pela PORT.239/96.04.07.1996.MEPAT, DR.IS-B [153] de 04.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1996-424146
+  date: '1996-07-04'
+- type: amended_by
+  target: pt:dre:671224:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem a que se\
+    \ refere o nº 1º da Port 193/90 de 17-Mar, com a redacção da presente, pela PORT.576/2003.2003.07.16.MOPTH DR.IS-B [162]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-2003-671224
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:671225:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ a que se refere o nº 1º da Port 193/90 de 17-Mar, com a redacção dada pela presente, pela PORT.577/2003.2003.07.16.MOPTH\
+    \ DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-2003-671225
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:617334:por
+  label: "Actualizados os montantes de remunerações base e diuturnidades dos trabalhadores das Administrações Portuárias a\
+    \ que se refere o nº 1 da Port 193/90 de 17-Mar, na redacção do presente diploma, pela PORT.1181/2004.14.09.2004.MOPTC,\
+    \ DR.IS-B [217] de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-2004-617334
+  date: '2004-09-14'
+- type: amended_by
+  target: pt:dre:583204:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ aprovada pela Port 193/90 de 17-Mar, com as alterações posteriormente introduzidas pelo presente diploma, pela PORT.1146/2005.08.11.2005.MOPTC,\
+    \ DR.IS-B [214] de 08.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1146-2005-583204
+  date: '2005-11-08'
+- type: amended_by
+  target: pt:dre:538608:por
+  label: "Actualizados em 1,5%, com arredontamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da Portaria n.º 193/90, de 17 de Março, na redacção\
+    \ do presente diploma, pela Port.778/2006.09.08.2006.MOPTC, DR.IS [153] de 09.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-2006-538608
+  date: '2006-08-09'
+- type: amended_by
+  target: pt:dre:637395:por
+  label: "Actualizados em 1,5%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Portaria 193/90, de 17 de Março, na redacção\
+    \ do presente diploma pela PORT.849/2007.07.08.2007.MOPTC, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-2007-637395
+  date: '2007-08-07'
+- type: amended_by
+  target: pt:dre:249840:por
+  label: "Actualizados em 2,1%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Portaria 193/90, de 17 de Março, na redacção\
+    \ do presente diploma pela PORT.270/2008.09.04.2008.MOPTC, DR.IS [70] de 09.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2008-249840
+  date: '2008-04-09'
+- type: amended_by
+  target: pt:dre:494550:por
+  label: "Actualizada, com efeitos desde 01.01.2009, em 2,5%, com arredondamento, os montantes da tabela de remunerações base,\
+    \ incluindo diuturnidades, dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 da Port 193/90 de 17-Mar,\
+    \ com os aditamentos previstos no presente diploma, pela PORT.653/2009.16.06.2009.MOPTC, DR.IS [114] de 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/653-2009-494550
+  date: '2009-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/218/1991/03/16/p/dre
   label: null
@@ -82,16 +144,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/862/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/862/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:233754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476089:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:53Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +248,6 @@ b) Nos dias de descanso semanal e complementar e nos dias feriados ou admitidos 
 
 Ministério das Obras Públicas, Transportes e Comunicações,
 
-**Assinada em 20 de Agosto de 1991.**
+Assinada em 20 de Agosto de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.

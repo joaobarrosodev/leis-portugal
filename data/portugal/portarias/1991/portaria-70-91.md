@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/023b00/04580459.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/70/1991/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-1991-508599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1afbbbc99e397bc81947086755ab3224cf28e54bf3fa8104ff26010eae74dcd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c1842bb33b7714cdb4cf8e72661550baca49182fd6391c9ca6bdb7c1faadbc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Apoio ao Investimento
 - Prorrogação de Prazo
 - Regulamento
 - Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:225816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:410774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410875:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:292490:por
+  label: Retificado o n.º 3.º pelo(a) Declaração de Rectificação n.º 28-N/91 - Diário da República n.º 49/1991, 2º Suplemento,
+    Série I-B de 1991-02-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-n-1991-292490
+  date: '1991-02-28'
+- type: repealed_by
+  target: pt:dre:225816:por
+  label: Revogada, a partir de 18.10.1992, pelo(a) Decreto-Lei n.º 215/92 - Diário da República n.º 236/1992, Série I-A de
+    1992-10-13, sem prejuízo da sua aplicação aos incentivos concedidos e a conceder ao seu abrigo, nos termos do art. 16.º
+    daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1992-225816
+  date: '1992-10-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:53Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +134,9 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 9 de Janeiro de 1991.**
+Assinada em 9 de Janeiro de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 REGULAMENTO DE APLICAÇÃO DO SISTEMA DE INCENTIVOS FINANCEIROS AO INVESTIMENTO NO TURISMO
 

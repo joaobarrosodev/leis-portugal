@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-1990-565414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87ad9505e61cbb91621d344df28dc3cb7248ec0a1df3d9769742ec8616e1f4b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7925c6525926dd6fa780774dfd005cb70dfbaa7e73ea2954e039398b713cbe42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Carta Europeia de Autonomia Local
+- Convenção
+- Estrasburgo
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:565416:por
+  label: "Ratificada pelo DEC.58/90.23.10.1990.PR, DR.IS [245] de 23.10.1990 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/58-1990-565416
+  date: '1990-10-23'
 article_structure:
-  article_count: 24
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:52Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +98,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Julho de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CHARTE EUROPÉENNE DE L'AUTONOMIE LOCALE
 
@@ -410,7 +420,9 @@ acordaram no que se segue:
 
 As Partes comprometem-se a considerar-se vinculadas pelos artigos seguintes, nos termos prescritos pelo artigo 12.º da presente Carta.
 
-# PARTE I — Artigo 2.º
+## PARTE I
+
+###### Artigo 2.º
 
 Fundamento constitucional e legal da autonomia local
 
@@ -496,7 +508,7 @@ Pode, contudo, compreender um juízo de oportunidade exercido por autoridades de
 
 As autarquias locais devem ter o direito de recorrer judicialmente, a fim de assegurar o livre exercício das suas atribuições e o respeito pelos princípios de autonomia local que estão consagrados na Constituição ou na legislação interna.
 
-# PARTE II — Disposições diversas
+## PARTE II — Disposições diversas
 
 ###### Artigo 12.º — Compromissos
 
@@ -504,19 +516,21 @@ As autarquias locais devem ter o direito de recorrer judicialmente, a fim de ass
 
 ###### Artigo 2.º;
 
-###### Artigo 3.º, n.os 1 e 2;
+Artigo 3.º, n.os 1 e 2;
 
-###### Artigo 4.º, n.os 1, 2 e 4;
+Artigo 4.º, n.os 1, 2 e 4;
 
 ###### Artigo 5.º;
 
-###### Artigo 7.º, n.º 1;
+Artigo 7.º, n.º 1;
 
 ###### Artigo 8.º, n.º 2;
 
-###### Artigo 9.º, n.os 1, 2 e 3;
+Artigo 9.º, n.os 1, 2 e 3;
 
-###### Artigo 10.º, n.º 1; — Artigo 11.º
+###### Artigo 10.º, n.º 1;
+
+###### Artigo 11.º
 
 2 - Cada Estado contratante, no momento do depósito do seu instrumento de ratificação, aceitação ou aprovação, notificará o Secretário-Geral do Conselho da Europa das disposições escolhidas, nos termos do n.º 1 do presente artigo.
 
@@ -530,7 +544,9 @@ Os princípios de autonomia local contidos na presente Carta aplicam-se a todas 
 
 Cada Parte transmitirá ao Secretário-Geral do Conselho da Europa qualquer informação adequada relativa às disposições legislativas e outras medidas que tenha tomado com o objectivo de se conformar às disposições da presente Carta.
 
-# PARTE III — Artigo 15.º
+## PARTE III
+
+###### Artigo 15.º
 
 Assinatura, ratificação, entrada em vigor
 
@@ -558,7 +574,7 @@ Esta denúncia não afecta a validade da Carta relativamente às outras Partes, 
 
 ###### Artigo 18.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho:
 
 a) De qualquer assinatura;
 
@@ -576,7 +592,7 @@ Em fé do que, os abaixo assinados, devidamente autorizados para o efeito, assin
 
 Feita em Estrasburgo, no dia 15 de Outubro de 1985, em francês e inglês, fazendo ambos os textos igualmente fé, num único exemplar, o qual será depositado nos arquivos do Conselho da Europa.
 
-**O Secretário-Geral do Conselho da Europa transmitirá cópias certificadas a cada um dos Estados membros do Conselho da Europa.**
+O Secretário-Geral do Conselho da Europa transmitirá cópias certificadas a cada um dos Estados membros do Conselho da Europa.
 
 Pelo Governo da República da Áustria:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/49/2004/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-2004-529402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86b5cb7ff68c6b90932f55738ea6438b28b7ff2cd9191aca26a2aacd3df6500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1decf5c594f949175ba2c282f819741cb5d813d5274121982d9362c4a3494a3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - Bratislava
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
 - Dupla Tributação
-- Evasão Fiscal
 - Eslováquia
-relationships: []
+- Evasão Fiscal
+- Imposto sobre o Rendimento
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:529404:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.35/2004.13.07.2004.PR, DR.IS-A\
+    \ [163] de 13.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-2004-529404
+  date: '2004-07-13'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 13 de Maio de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ESLOVACA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -490,11 +496,11 @@ Feito em duplicado, em Bratislava, aos 5 dias do mês de Junho de 2001 nas líng
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
 
 Pela República Eslovaca:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
 
 [(ver texto em língua eslovaca no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
 
@@ -948,8 +954,8 @@ Done in duplicate at Bratislava this 5th day of June 2001, each in the Portugues
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
 
 For the Slovak Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)](https://files.diariodarepublica.pt/1s/2004/07/163a00/42064226.pdf)

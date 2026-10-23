@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-1998-423673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 108fd89c13ddf8cc745413b6d7f3ce84a2074e9be6da933f37076869d5f97f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 538a5df84d224cf0417dce630a08b840110fcf32154c16f0ba8eea4b64ab6ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Crime de Guerra
 - ONU
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:667279:por
+  label: "Tornada pública a aplicação a Macau da Convenção da ONU aprovada para ratificação pelo presente diploma, pelo AV.169/99.1999.09.28.MNE,\
+    \ DR.IS-A [244] de 19/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/169-1999-667279
+  date: '1999-09-28'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:04Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 30 de Abril de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION POUR LA PRÉVENTION ET LA RÉPRESSION DU CRIME DE GÉNOCIDE, ADOPTÉE PAR L'ASSEMBLÉE GÉNÉRALE DES NATIONS UNIES LE 9 DÉCEMBRE 1948.
 
@@ -351,7 +357,7 @@ A Assembleia Geral deliberará sobre as medidas a tomar, se for o caso, sobre es
 
 ###### Artigo 17.º
 
-**O Secretário-Geral das Nações Unidas notificará todos os Estados membros da Organização e os Estados não membros referidos no artigo 11.º:**
+O Secretário-Geral das Nações Unidas notificará todos os Estados membros da Organização e os Estados não membros referidos no artigo 11.º:
 
 a) Das assinaturas, ratificações e adesões recebidas em aplicação do artigo 11.º;
 

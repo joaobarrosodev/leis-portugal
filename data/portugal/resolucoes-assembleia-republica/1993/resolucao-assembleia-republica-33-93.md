@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 248/1993, 1º Suplemento, Série I-A de 1993-10-22
   number: '248'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6026-(2) a 6026-(106)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/1993/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-1993-293691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74419639fb3a81e741483a2948d879ccd20ee6a0b0f39f769bc30fe119998639
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c128afc9497019b89fa33ce2baa1687eb73722dc3847780a6ce324b8d8776402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Euratom
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Bruxelas
+- Cooperação Técnica
+- Euratom
+- Portugal
 relationships:
 - type: cites
   target: celex:31966R0136
@@ -140,13 +140,13 @@ relationships:
 article_structure:
   article_count: 206
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:28Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +159,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 24 de Junho de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA POLÓNIA, POR OUTRO.
 
@@ -1525,7 +1525,7 @@ Se, enquanto se aguarda o cumprimento dos procedimentos necessários para a entr
 
 - 1 de Janeiro de 1992 no que respeita às obrigações que produzem efeitos após a data da entrada em vigor e que fazem referência a essa data.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 PROTOCOLO N.º 1
 
@@ -1663,13 +1663,13 @@ As Partes acordam em que um dos organismos especiais estabelecidos pelo Comité 
 
 ## ANEXO I — Lista dos produtos de aço e carvão da CECA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO III — Produtos e regiões referidos como excepções no artigo 7.º do Protocolo CECA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 PROTOCOLO N.º 3
 
@@ -1727,15 +1727,15 @@ As reduções dos elementos variáveis referidas no n.º 3 do artigo 3.º só s�
 
 ## ANEXO I — Direitos aplicáveis na importação na Comunidade de mercadorias originárias da Polónia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO II
 
 Contingentes pautais aplicáveis na importação na Comunidade de mercadorias originárias da Polónia relativamente às quais é concedida uma redução do elemento móvel em conformidade com o n.º 3 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 PROTOCOLO N.º 4
 
@@ -1943,7 +1943,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 fica subordinada
 
 5 - Na casa n.º 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 6 - Não é necessário indicar na casa n.º 8 e na casa n.º 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (quilogramas) ou outra medida (litros, metros cúbicos, etc.). A casa n.º 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -1983,7 +1983,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1993,7 +1993,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2013,7 +2013,7 @@ b) Conter a marca aposta pelo exportador autorizado de um carimbo especial aprov
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7 «Observações» do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 5 - A casa n.º 11 «Visto da alfândega» do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -2411,7 +2411,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal como uma b
 
 Lista das operações de complemento de fabrico ou de transformação que devem ser efectuadas em relação às matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO III — Certificados de circulação EUR.1
 
@@ -2421,7 +2421,7 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Polónia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipogrfia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -2431,15 +2431,15 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Polónia reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no artigo 34.º temporariamente excluídos do âmbito do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 PROTOCOLO N.º 5
 
@@ -2561,7 +2561,7 @@ b) Até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anex
 
 Do ANEXO A ao ANEXO D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 PROTOCOLO N.º 6
 
@@ -2725,55 +2725,55 @@ No que se refere aos anexos III e VIII, os produtos relativamente aos quais tenh
 
 ## ANEXO I — Lista dos produtos referidos nos artigos 2.º e 12.º do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO IIa
 
 Lista dos produtos de base relativamente aos quais os direitos aduaneiros serão reduzidos em 50% a partir da entrada em vigor do Acordo e suprimidos a partir de 1 de Janeiro de 1993.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO IIb
 
 Lista dos produtos de base relativamente aos quais os direitos aduaneiros serão objecto de uma redução anual de 20% a partir de entrada em vigor do Acordo e serão suprimidos a partir de 31 de Dezembro de 1995.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## Anexo ao anexo III — Designação dos extractos de posições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO IVa — Produtos industriais (NC 25-97)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO IVb — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO IVb — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO VII — Mercadorias referidas no artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO VIIIa — Lista de produtos referidos no n.º 2 do artigo 14.º (ver nota 1)
 
 Os produtos do presente anexo serão sujeitos a uma redução de 50% do direito nivelador.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
 ## ANEXO VIIIb — Lista dos produtos referidos no n.º 2 do artigo 14.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
-## Anexo aos anexos VIIIb e Xc
+Anexo aos anexos VIIIb e Xc
 
 Acordo relativo aos preços mínimos de importação aplicáveis a determinados frutos destinados a transformação
 
@@ -2889,7 +2889,7 @@ As quantidades importadas da posição do código NC referidas no presente anexo
 
 ## ANEXO Xc — Lista de produtos referidos no n.º 4 do artigo 14.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
@@ -2897,7 +2897,7 @@ As quantidades importadas da posição do código NC referidas no presente anexo
 
 Os direitos aduaneiros sobre as importações aplicáveis na Polónia aos produtos originários da Comunidade indicados no presente anexo serão reduzidos na data de entrada em vigor do Acordo em 10 pontos de percentagem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
 
 ## ANEXO XIIa — Relativo ao artigo 44.º
 
@@ -3275,4 +3275,4 @@ Relativa ao Protocolo n.º 2
 
 O Governo da Polónia declara que não invocará as disposições do Protocolo n.º 2 relativo aos produtos CECA, e em especial o seu artigo 8.º, de modo a não pôr em causa a compatibilidade entre o referido Protocolo e os acordos celebrados pela indústria carbonífera comunitária com as empresas de electricidade e a indústria siderúrgica, tendo em vista garantir a venda do carvão comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/00020106.pdf)

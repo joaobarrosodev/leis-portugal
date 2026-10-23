@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/21/1991/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-1991-687810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35dd6885e3794ffeae1a817e5340e4e52aa5200a23514fc073bf07972e2f790c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1b9b430ecb71706ea88b269dcb707bb991cc2f6dba84e53c4127bbb23df854d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta Social Europeia
-- Direitos do Homem
+- Condições de Higiene e Segurança no Trabalho
+- Conselho da Europa
 - Convenção
-- Portugal
 - Direito de Associação
 - Direito do Trabalho
 - Direitos Civis
+- Direitos do Homem
 - Direitos e Liberdades
 - Direitos Sociais
 - OIT
-- Conselho da Europa
-- Protecção na Doença
+- Portugal
 - Proteção Social
-- Condições de Higiene e Segurança no Trabalho
+- Protecção na Doença
 - Turim
 relationships: []
 article_structure:
-  article_count: 44
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 49
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:27Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +101,9 @@ Aprova, para ratificação, a Carta Social Europeia
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Carta Social Europeia, aberta à assinatura dos Estados membros do Conselho da Europa em 18 de Outubro de 1961, cujo texto original em francês e respectiva tradução em português seguem em anexo à presente resolução.
+Artigo 1.º É aprovada, para ratificação, a Carta Social Europeia, aberta à assinatura dos Estados membros do Conselho da Europa em 18 de Outubro de 1961, cujo texto original em francês e respectiva tradução em português seguem em anexo à presente resolução.
 
-###### Art. 2.º Fica o Governo autorizado a declarar, no instrumento de ratificação da Carta Social Europeia, o seguinte:
+Art. 2.º Fica o Governo autorizado a declarar, no instrumento de ratificação da Carta Social Europeia, o seguinte:
 
 a) De acordo com a alínea a) do parágrafo 1.º do seu artigo 20.º, Portugal compromete-se a considerar a parte I desta Carta como uma declaração que fixa os objectivos cuja realização assegurará por todos os meios úteis, conforme as disposições do parágrafo introdutório da referida parte;
 
@@ -115,7 +115,7 @@ d) A vinculação ao artigo 6.º não afecta, no que respeita ao parágrafo 4.º
 
 Aprovada em 24 de Abril de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CHARTE SOCIALE EUROPÉENNE
 
@@ -809,7 +809,7 @@ Decididos a fazer em comum todos os esforços com vista a melhorar o nível de v
 
 comprometem-se ao que se segue:
 
-# PARTE I
+## PARTE I
 
 As Partes Contratantes reconhecem como objectivo de uma política que prosseguirão por todos os meios úteis, nos planos nacional e internacional, a realização de condições próprias a assegurar o exercício efectivo dos direitos e princípios seguintes:
 
@@ -851,7 +851,7 @@ As Partes Contratantes reconhecem como objectivo de uma política que prosseguir
 
 19) Os trabalhadores migrantes originários de uma das Partes Contratantes e suas famílias têm direito à protecção e à assistência no território de qualquer outra Parte Contratante.
 
-# PARTE II
+## PARTE II
 
 As Partes Contratantes comprometem-se a considerar-se ligadas, nos termos previstos na parte III, pelas obrigações decorrentes dos artigos e parágrafos seguintes.
 
@@ -1099,7 +1099,9 @@ c) Habitação;
 
 10) A estender a protecção e assistência previstas pelo presente artigo aos trabalhadores migrantes que trabalhem por conta própria, tanto quanto as medidas em questão sejam aplicáveis a esta categoria.
 
-# PARTE III — Artigo 20.º
+## PARTE III
+
+###### Artigo 20.º
 
 Compromissos
 
@@ -1119,7 +1121,9 @@ c) A considerar-se vinculada a um número suplementar de artigos ou parágrafos 
 
 5 - Cada Parte Contratante disporá de um sistema de inspecção do trabalho apropriado às suas condições nacionais.
 
-# PARTE IV — Artigo 21.º
+## PARTE IV
+
+###### Artigo 21.º
 
 Relatórios relativos às disposições aceites
 
@@ -1163,13 +1167,15 @@ A Organização Internacional do Trabalho será convidada a designar um represen
 
 ###### Artigo 28.º — Assembleia consultiva
 
-**O Secretário-Geral do Conselho da Europa transmitirá à assembleia consultiva as conclusões do Comité de Peritos. A assembleia consultiva comunicará ao Comité de Ministros o seu parecer sobre estas conclusões.**
+O Secretário-Geral do Conselho da Europa transmitirá à assembleia consultiva as conclusões do Comité de Peritos. A assembleia consultiva comunicará ao Comité de Ministros o seu parecer sobre estas conclusões.
 
 ###### Artigo 29.º — Comité de Ministros
 
 Por maioria de dois terços dos membros que nele tenham direito de assento, o Comité de Ministros poderá, com base no relatório do Subcomité e após ter consultado a assembleia consultiva, dirigir todas as recomendações necessárias a cada uma das Partes Contratantes.
 
-# PARTE V — Artigo 30.º
+## PARTE V
+
+###### Artigo 30.º
 
 Derrogações em caso de guerra ou de perigo público
 
@@ -1223,7 +1229,7 @@ Estes compromissos ulteriores serão considerados parte integrante da declaraç�
 
 Qualquer membro do Conselho da Europa pode propor emendas à presente Carta por comunicação dirigida ao Secretário-Geral do Conselho da Europa. O Secretário-Geral transmitirá aos outros membros do Conselho da Europa as emendas assim propostas, que serão examinadas pelo Comité de Ministros e submetidas para parecer à Assembleia Consultiva. Qualquer emenda aprovada pelo Comité de Ministros entrará em vigor 30 dias depois de todas as Partes Contratantes terem informado o Secretário-Geral da sua aceitação.
 
-**O Secretário-Geral notificará a todos os Estados membros do Conselho da Europa e ao director-geral do Bureau Internacional do Trabalho a entrada em vigor destas emendas.**
+O Secretário-Geral notificará a todos os Estados membros do Conselho da Europa e ao director-geral do Bureau Internacional do Trabalho a entrada em vigor destas emendas.
 
 ###### Artigo 37.º — Denúncia
 
@@ -1233,7 +1239,9 @@ Qualquer membro do Conselho da Europa pode propor emendas à presente Carta por 
 
 3 - Qualquer Parte Contratante pode denunciar a presente Carta ou qualquer artigo ou parágrafos da parte II da Carta nas condições previstas no parágrafo 1.º do presente artigo, no que se refere a todo o território ao qual se aplica a Carta em virtude de uma declaração feita conforme o parágrafo 2.º do artigo 34.º
 
-###### Artigo 38.º — Anexo
+###### Artigo 38.º
+
+## Anexo
 
 O anexo à presente Carta faz parte integrante da mesma.
 
@@ -1249,15 +1257,19 @@ A presente interpretação não exclui a extensão de direitos análogos a outra
 
 2 - Cada Parte Contratante concederá aos refugiados conforme a definição da Convenção de Genebra, de 28 de Julho de 1951, Relativa ao Estatuto dos Refugiados que Residam Regularmente no Seu Território, um tratamento tão favorável quanto possível e em todo o caso não menos favorável que aquele a que é obrigada em virtude da Convenção de 1951, bem como de quaisquer outros acordos internacionais existentes e aplicáveis aos refugiados acima mencionados.
 
-# PARTE I — Parágrafo 18
+## PARTE I — Parágrafo 18
 
 e
 
-# PARTE III — Artigo 18.º, parágrafo 1.º
+## PARTE III
+
+###### Artigo 18.º, parágrafo 1.º
 
 Fica entendido que estas disposições não dizem respeito à entrada nos territórios das Partes Contratantes e não prejudicam o que se prescreve na Convenção Europeia sobre o Estabelecimento, assinada em Paris em 13 de Dezembro de 1955.
 
-# PARTE II — Artigo 1.º, parágrafo 2.º
+## PARTE II
+
+###### Artigo 1.º, parágrafo 2.º
 
 Esta disposição não deverá ser interpretada nem como interditando nem como autorizando as cláusulas ou práticas de segurança sindical.
 
@@ -1289,7 +1301,7 @@ Os governos que não são Parte da Convenção Europeia de Assistência Social e
 
 Para fins de aplicação da presente disposição, os termos «família do trabalhador migrante» são interpretados como visando pelo menos a mulher do trabalhador e seus filhos com menos de 21 anos que estejam a seu cargo.
 
-# PARTE III
+## PARTE III
 
 Fica entendido que a Carta contém compromissos jurídicos de carácter internacional cuja aplicação é submetida ao único controlo previsto na parte IV.
 
@@ -1297,6 +1309,8 @@ Fica entendido que a Carta contém compromissos jurídicos de carácter internac
 
 Fica entendido que os «parágrafos numerados» podem compreender artigos que contenham um único parágrafo.
 
-# PARTE V — Artigo 30.º
+## PARTE V
+
+###### Artigo 30.º
 
 Os termos «em caso de guerra ou em caso de outro perigo público» serão interpretados de maneira a cobrir igualmente a ameaça de guerra.

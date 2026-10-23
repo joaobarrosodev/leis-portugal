@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/497/1991/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1991-629669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa1c595ee7febc196162dbebad5f30da3d076ce91dc8baebca24c08a01d80f25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba032288d9ad727806658eec8ecde200e05830eccfe3ccd90b941f787b7fa3a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,62 @@ relationships:
   target: pt:dre:489244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654720:por
+  label: "Renovada a concessão da zona de caça turística concessionada, pela PORT.865/2003.20.08.2003.MECO, DR.IS-B [191]\
+    \ de 20.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-2003-654720
+  date: '1991-06-05'
+- type: amended_by
+  target: pt:dre:503266:por
+  label: "Anexados vários prédios rústicos à zona de caça turística pela PORT.973/2003.2003.09.13.MECO DR.IS-B [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-2003-503266
+  date: '2003-09-13'
+- type: amended_by
+  target: pt:dre:489244:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída no presente diploma, com a renovação constante da Port\
+    \ 865/2003 de 20-Ago e as alterações efectuadas pela Port 973/2003 de 13-Set, pela PORT.1006/2009.08.09.2009.MADRP, DR.IS\
+    \ [174] de 08.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1006-2009-489244
+  date: '2009-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:01Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +162,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 30 de Abril de 1991.**
+Assinada em 30 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/128b00/30363036.pdf))](https://files.diariodarepublica.pt/1s/1991/06/128b00/30363036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/128b00/30363036.pdf)

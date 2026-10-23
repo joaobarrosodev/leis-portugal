@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/22/1995/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1995-230571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 194c7a575475e10986ee593922e72643e0b911e0635e226519049c29bbc2d7ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca9f64ba95a21c83ef3916e240d0e6afffd33541637f84732866d028050f1788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
+- Bruxelas
 - CE Países
 - Competência Jurisdicional
 - Convenção
-- Portugal
-- União Europeia
-- Livre Circulação de Pessoas
-- Sanção Penal
 - Cooperação Judiciária
-- Principio NE BIS IN IDEM
+- Crime
 - Direito Penal
-- Bruxelas
+- Livre Circulação de Pessoas
+- Portugal
+- Principio NE BIS IN IDEM
+- Sanção Penal
+- União Europeia
 relationships: []
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:57Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +97,9 @@ validation:
 
 Aprova, para ratificação, a Convenção entre os Estados Membros das Comunidades Europeias Relativa à Aplicação do Princípio Ne Bis In Idem.
 
-###### Artigo 1.º A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para ratificação, a Convenção entre os Estados Membros das Comunidades Europeias Relativa à Aplicação do Princípio Ne Bis In Idem, aberta à assinatura dos Estados membros em 25 de Maio de 1987, cuja versão autêntica em língua portuguesa segue em anexo à presente resolução.
+Artigo 1.º A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para ratificação, a Convenção entre os Estados Membros das Comunidades Europeias Relativa à Aplicação do Princípio Ne Bis In Idem, aberta à assinatura dos Estados membros em 25 de Maio de 1987, cuja versão autêntica em língua portuguesa segue em anexo à presente resolução.
 
-###### Art. 2.º - 1 - Nos termos dos n.os 1 e 2 do artigo 2.º da Convenção, Portugal declara que:
+Art. 2.º - 1 - Nos termos dos n.os 1 e 2 do artigo 2.º da Convenção, Portugal declara que:
 
 a) Aplicará o princípio ne bis in idem no caso previsto na alínea a) do n.º 1, sob condição de reciprocidade;
 
@@ -113,7 +113,7 @@ c) A excepção prevista na alínea b) do n.º 1 diz respeito aos crimes de cont
 
 Aprovada em 12 de Janeiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO ENTRE OS ESTADOS MEMBROS DAS COMUNIDADES EUROPEIAS RELATIVA À APLICAÇÃO DO PRINCÍPIO NE BIS IN IDEM.
 

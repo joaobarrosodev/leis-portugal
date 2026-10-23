@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/483/1992/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/483-1992-300599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8f4cf47410cb45c85f86b42a612aff6197897145b5373bca8a5a116b7f1b607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6aebbe1f84f1b531aad490a06ffad29030a69608394a40439e6ee5827ff92a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,31 @@ relationships:
   target: pt:dre:245284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478248:por
+  label: "Substituida a abreviatura \"CEE\" pela abreviatura \"CE\" no art. 2º do Regulamento Técnico de Produção de Sementes\
+    \ de Beterraba, pelo DEC LEI.169/98.1998.06.25.MADRP, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1998-478248
+  date: '1998-06-25'
 - type: cites
   target: celex:31966L0400
   label: null
   source: http://data.europa.eu/eli/dir/1966/400/oj
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogada pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:16Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +120,7 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Maio de 1992.**
+Assinada em 15 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -117,13 +128,13 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de beterraba a admitir à comercialização no País.
+Artigo 1.º - 1 - O presente Regulamento aplica-se à produção de sementes de beterraba a admitir à comercialização no País.
 
 2 - Para efeitos do presente Regulamento, consideram-se beterrabas as beterrabas açucareiras e forrageiras da espécie Beta valgaris L.
 
 ### CAPÍTULO II — Admissão à produção
 
-###### Art. 2.º - 1 - São admitidas à produção as seguintes categorias de sementes:
+Art. 2.º - 1 - São admitidas à produção as seguintes categorias de sementes:
 
 a) Semente pré-base de beterraba forrageira;
 
@@ -155,7 +166,7 @@ Se destinem à produção de beterraba;
 
 Obedecem às condições previstas nos capítulos III, IV e V relativamente as sementes certificadas e para as quais se tenham verificado, em exame oficial, que essas condições foram respeitadas.
 
-###### Art. 3.º As sementes de gerações anteriores à semente base não estão sujeitas a qualquer restrição na respectiva comercialização, desde que:
+Art. 3.º As sementes de gerações anteriores à semente base não estão sujeitas a qualquer restrição na respectiva comercialização, desde que:
 
 a) Sejam controladas oficialmente pelo serviço responsável pela certificação, em conformidade com as disposições aplicáveis à certificação de sementes base;
 
@@ -175,7 +186,7 @@ Menção «Semente pré-base»;
 
 Número de gerações que precederam as sementes da categoria certificada.
 
-###### Art. 4.º - 1 - São admitidas à produção de sementes de beterraba as seguintes entidades:
+Art. 4.º - 1 - São admitidas à produção de sementes de beterraba as seguintes entidades:
 
 a) Produtor de semente base de beterraba forrageira;
 
@@ -187,7 +198,7 @@ d) Produtor de semente certificada de beterraba açucareira.
 
 2 - As entidades referidas nas alíneas a) e b) do número anterior produzem as sementes de categorias anteriores à certificada e as referidas nas alíneas c) e d) as sementes certificadas.
 
-###### Art. 5.º - 1 - Os produtores de semente base, além de preencherem os requisitos do Estatuto da Produção de Sementes, devem:
+Art. 5.º - 1 - Os produtores de semente base, além de preencherem os requisitos do Estatuto da Produção de Sementes, devem:
 
 a) Não delegar numa mesma entidade a produção de semente de mais de 10 variedades da mesma espécie sem autorização expressa da Direcção de Serviços de Controle de Qualidade de Sementes (DSCQS);
 
@@ -205,11 +216,11 @@ b) Cumprir o disposto na alínea d) do número anterior;
 
 c) A área mínima de cada campo de multiplicação de semente certificada não pode ser inferior a meio hectare, salvo nos casos devidamente autorizados pela DSCQS.
 
-###### Art. 6.º Aos agricultores-multiplicadores não é permitida a celebração de contratos de multiplicação com produtores de sementes, desde que daí resulte o incumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
+Art. 6.º Aos agricultores-multiplicadores não é permitida a celebração de contratos de multiplicação com produtores de sementes, desde que daí resulte o incumprimento do disposto nas alíneas a) e b) do n.º 2 do artigo anterior.
 
 ### CAPÍTULO III — Controlo dos campos de multiplicação
 
-###### Art. 7.º - 1 - Os campos de produção de sementes são inspeccionados pelo menos uma vez, e se se tratar de semente base, pelo menos duas vezes, uma no primeiro ano, incidindo sobre as plantas jovens, e a outra após a floração, sobre as que produzirão semente.
+Art. 7.º - 1 - Os campos de produção de sementes são inspeccionados pelo menos uma vez, e se se tratar de semente base, pelo menos duas vezes, uma no primeiro ano, incidindo sobre as plantas jovens, e a outra após a floração, sobre as que produzirão semente.
 
 2 - A inspecção, a realizar sobre a totalidade do campo, tem por finalidade assegurar que não houve qualquer mistura durante a transplantação e que o «espigamento», ou a floração são homogéneos.
 
@@ -219,23 +230,23 @@ a) Até 5 ha - cinco contagens;
 
 b) Acima de 5 ha - duas contagens suplementares por cada 5 ha.
 
-###### Art. 8.º As parcelas de terreno a utilizar na produção de sementes não devem ter sido cultivadas com beterraba (género Beta) durante os dois anos precedentes, nem apresentar plantas da espécie considerada.
+Art. 8.º As parcelas de terreno a utilizar na produção de sementes não devem ter sido cultivadas com beterraba (género Beta) durante os dois anos precedentes, nem apresentar plantas da espécie considerada.
 
-###### Art. 9.º Quanto ao isolamento, os campos de multiplicação de sementes devem cumprir as distâncias mínimas das fontes da polinização vizinhas constantes do seguinte quadro:
+Art. 9.º Quanto ao isolamento, os campos de multiplicação de sementes devem cumprir as distâncias mínimas das fontes da polinização vizinhas constantes do seguinte quadro:
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf)
 
-###### Art. 10.º Na determinação da pureza varietal o limite máximo de mistura é de 2%, sendo consideradas como mistura as plantas pertencentes a uma outra espécie ou subespécie (Beta marítima, subespécies de Beta vulgaris L.: beterraba açucareira, beterraba forrageira, beterraba hortícola, acelga) os híbridos naturais com uma outra subespécie e as plantas manifestamente diferentes do tipo.
+Art. 10.º Na determinação da pureza varietal o limite máximo de mistura é de 2%, sendo consideradas como mistura as plantas pertencentes a uma outra espécie ou subespécie (Beta marítima, subespécies de Beta vulgaris L.: beterraba açucareira, beterraba forrageira, beterraba hortícola, acelga) os híbridos naturais com uma outra subespécie e as plantas manifestamente diferentes do tipo.
 
-###### Art. 11.º Os lotes de sementes provenientes de campos que apresentem uma percentagem anormal de plantas não espigadas são objecto de um controlo particular em cultura antes de poderem ser certificadas.
+Art. 11.º Os lotes de sementes provenientes de campos que apresentem uma percentagem anormal de plantas não espigadas são objecto de um controlo particular em cultura antes de poderem ser certificadas.
 
-###### Art. 12.º - 1 - O estado cultural deve permitir o controlo suficiente da identidade e pureza da variedade.
+Art. 12.º - 1 - O estado cultural deve permitir o controlo suficiente da identidade e pureza da variedade.
 
 2 - O mau estado de um campo pode constituir causa de reprovação.
 
-###### Art. 13.º - 1 - Os campos reprovados devem ser destruídos.
+Art. 13.º - 1 - Os campos reprovados devem ser destruídos.
 
 2 - No caso dos campos destinados à produção de semente, a destruição pode ser substituída pela suspensão da colheita, à espera do resultado de um controlo de amostra realizado em condições de cultura.
 
@@ -243,13 +254,13 @@ QUADRO I
 
 ### CAPÍTULO IV — Controlo dos lotes de sementes produzidas
 
-###### Art. 14.º O peso máximo do lote a certificar é de 20 t.
+Art. 14.º O peso máximo do lote a certificar é de 20 t.
 
-###### Art. 15.º - 1 - É permitida a constituição de um lote com semente proveniente de um ou mais campos, quer se trate de semente base ou semente certificada, bem como a constituição de lotes de semente certificada a partir de sementes provenientes de diferentes lotes de semente base.
+Art. 15.º - 1 - É permitida a constituição de um lote com semente proveniente de um ou mais campos, quer se trate de semente base ou semente certificada, bem como a constituição de lotes de semente certificada a partir de sementes provenientes de diferentes lotes de semente base.
 
 2 - Em qualquer dos casos previstos no número anterior, a composição da mistura tem de ser comunicada à DSCQS.
 
-###### Art. 16.º - 1 - Não é permitida a mistura de lotes de sementes pré-base.
+Art. 16.º - 1 - Não é permitida a mistura de lotes de sementes pré-base.
 
 2 - A mistura de lotes de semente base proveniente de campos de multiplicação diferentes apenas é autorizada se tiver sido utilizado nesses campos o mesmo lote de sementes, bem como se na inspecção desses mesmos campos a pureza varietal tiver obtido a mesma classificação.
 
@@ -257,15 +268,15 @@ QUADRO I
 
 ### CAPÍTULO V — Certificação
 
-###### Art. 17.º Para que sejam emitidas as etiquetas relativas à semente base e certificada é indispensável que os lotes submetidos à certificação satisfaçam todas as prescrições regulamentares e as sementes tenham as características constantes do seguinte quadro:
+Art. 17.º Para que sejam emitidas as etiquetas relativas à semente base e certificada é indispensável que os lotes submetidos à certificação satisfaçam todas as prescrições regulamentares e as sementes tenham as características constantes do seguinte quadro:
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf))](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/133b00/27772780.pdf)
 
-###### Art. 18.º A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerada no limite mais baixo possível.
+Art. 18.º A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerada no limite mais baixo possível.
 
-###### Art. 19.º As sementes monogérmicas e de precisão devem obedecer ainda aos seguintes requisitos:
+Art. 19.º As sementes monogérmicas e de precisão devem obedecer ainda aos seguintes requisitos:
 
 a) Sementes monogérmicas: pelo menos 90% dos glomérulos germinados devem originar uma única plântula. A percentagem em glomérulos originando três ou mais plântulas não deve ultrapassar 5% dos glomérulos germinados;
 
@@ -279,4 +290,4 @@ No que respeita às sementes revestidas, de ambas as categorias, as condições 
 
 e) As sementes de beterraba não devem ser introduzidas em zonas reconhecidas como «isentas de rizomania», a menos que a percentagem, em peso, da matéria inerte não exceda 0,5%.
 
-###### Art. 20.º O peso mínimo da amostra para as determinações constantes do quadro II é de 500 g.
+Art. 20.º O peso mínimo da amostra para as determinações constantes do quadro II é de 500 g.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/18/2000/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-2000-408525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cd11ab1b080000a5ebf99b4a4385becef46833a5887b17301b99cf2028b2efa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4304da9d549d60da8f003818d07f415a761b009f5f9d7bcc94e7f761056d866e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,30 @@ reuse:
 subjects:
 - Ajuda Judicial
 - Convenção
-- Portugal
-- Marrocos
 - Cooperação Judiciária
-- Recluso
 - Évora
+- Marrocos
+- Portugal
+- Recluso
 - Transferência de Detidos
 - Transferência de Pessoas Condenadas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:408522:por
+  label: "Aprovada a Convenção aprovada, para ratificação, pelo presente diploma, pelo DEC.6/2000.2000.03.06.PR DR.IS-A [55]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-2000-408522
+  date: '2000-03-06'
 article_structure:
   article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:54Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de Novembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE MARROCOS RELATIVA À ASSISTÊNCIA ÀS PESSOAS DETIDAS E À TRANSFERÊNCIA DAS PESSOAS CONDENADAS.
 
@@ -326,11 +332,11 @@ Feito em Évora, a 14 de Novembro de 1998, em dois exemplares, nas línguas ára
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
 
 Pelo Reino de Marrocos:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
 
 [(ver convenção em língua árabe no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
 
@@ -574,8 +580,8 @@ Fait à Évora, le 14 novembre 1998, en double exemplaire, en langue portugaise,
 
 Pour la Républic du Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
 
 Pour le Royaume du Maroc:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/07890798.pdf)

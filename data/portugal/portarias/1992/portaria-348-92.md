@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/348/1992/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-1992-208848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec5c08eb2508a9f8ba07fbf4ee9c8fdbbd61c70ac4c7a3ac2f0f1a38d92fdf58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd8e44c56a3903be433330327b5e2f6e87cd245b212968c3a231ab0add9bfbda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvito
-- Plano de Estudos
 - Ensino Profissional
 - Escola Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147641:por
+  label: "Extinto o curso profissional de Técnico de Contabilidade, criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso, pelaPORT.914/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-2005-147641
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:54Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +127,8 @@ cujos planos de estudo se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/090b00/18441845.pdf))](https://files.diariodarepublica.pt/1s/1992/04/090b00/18441845.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/090b00/18441845.pdf)

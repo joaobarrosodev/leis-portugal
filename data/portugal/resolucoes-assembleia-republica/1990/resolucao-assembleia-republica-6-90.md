@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-1990-332725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6e037dc1414349c3317ffde5b1b57789e39db39344cd673cee7db638be55ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de524a7494f4d22f6e4c069002e07812714c5b2f829e1d07ee40cb81bf04cd52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código de Conduta das Conferências Marítimas
+- Conferência Marítima
+- Convenção
+- Genebra
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:332727:por
+  label: "Ratificada a Convenção pelo DEC.13/90.09.03.1990.PR, DR.IS [57] de 09.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-1990-332727
+  date: '1990-03-09'
 article_structure:
   article_count: 54
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:06Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +100,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 20 de Dezembro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENTION RELATIVE À UN CODE DE CONDUITE DES CONFÉRENCES MARITIMES
 
@@ -1032,7 +1042,9 @@ f) O princípio segundo o qual as conferências deveriam pôr à disposição da
 
 acordam no seguinte:
 
-# PARTE I — CAPÍTULO I
+## PARTE I
+
+### CAPÍTULO I
 
 Definições
 
@@ -1346,7 +1358,9 @@ As conferências criam uma representação local em todos os países cujos tráf
 
 Os acordos de conferência, os acordos de participação no tráfego e os acordos de fidelidade devem estar em conformidade com as disposições pertinentes do presente Código e podem compreender quaisquer outras disposições que sejam acordadas e não sejam incompatíveis com o dito Código.
 
-# PARTE II — CAPÍTULO VI
+## PARTE II
+
+### CAPÍTULO VI
 
 Disposições e mecanismos para resolução de diferendos
 
@@ -1712,7 +1726,7 @@ O original da presente Convenção, cujos textos em inglês, chinês, espanhol, 
 
 Em fé do que os abaixo assinados, devidamente autorizados para esse efeito pelos seus Governos, assinaram a presente Convenção na data que figura à frente da sua assinatura.
 
-## ANEXO À CONVENÇÃO RELATIVA A UM CÓDIGO DE CONDUTA DAS CONFERÊNCIAS MARÍTIMAS
+ANEXO À CONVENÇÃO RELATIVA A UM CÓDIGO DE CONDUTA DAS CONFERÊNCIAS MARÍTIMAS
 
 Regras de procedimentos tipo para a conciliação obrigatória internacional
 
@@ -1870,4 +1884,4 @@ DECLARAÇÃO
 
 3 - O Governo Português declara que aplicará a Convenção de acordo com os conceitos básicos e considerações aqui apresentados e, ao fazê-lo, não fica impedido pela Convenção de tomar as acções apropriadas na eventualidade de outra Parte Contratante adoptar medidas ou práticas que impeçam a concorrência leal numa base comercial nos seus tráfegos de linha.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.

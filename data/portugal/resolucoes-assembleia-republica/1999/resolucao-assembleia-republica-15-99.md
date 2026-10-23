@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/15/1999/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fb06de195792ce9643f94cc4020d158cde97e3c8779bc8d70ad8c6e6765aa72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89a4386048182bd6930c9f5aa44b9c3a2edf0e811281bcce9a77289c28d5bfc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,32 +69,32 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Comissão de Fiscalização
-- Gestão Financeira
+- Conselho Consultivo
 - Conselho de Administração
 - Criação de Serviços
 - Definição de Competências
-- Propriedade do Estado
 - Embargo
-- Junta Autónoma dos Portos
 - Extinção de Serviços
 - Fiscalização
 - Fundo de Aposentação
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Conselho Consultivo
+- Gestão Financeira
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Portuário
 - Instituto Portuário do Centro
 - Instituto Público
 - Integração de Trabalhadores
 - Junta Autónoma do Porto da Figueira da Foz
+- Junta Autónoma dos Portos
 - Junta Autónoma dos Portos do Centro
 - Licenciamento de Obras
 - Livro Branco
-- Obras Públicas
-- Presidente
-- Receita Própria
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Mobilidade de Pessoal
+- Obras Públicas
 - Portos
+- Presidente
+- Propriedade do Estado
+- Receita Própria
 - Segurança Marítima
 - Taxa
 - Tutela
@@ -103,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/334/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/334/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:181978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549988:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:05Z'
   warnings: []
   errors: []
 ---
@@ -133,4 +145,4 @@ São repristinados os Decretos-Leis n.os 28538, de 23 de Março de 1938, 37754, 
 
 Aprovada em 11 de Fevereiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

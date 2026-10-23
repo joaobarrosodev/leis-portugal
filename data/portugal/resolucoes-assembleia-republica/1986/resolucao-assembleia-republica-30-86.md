@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-1986-221170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 094e4671434bd68bcbc529af976bcb4ddab142432bd6325a04fbd3f74aa3da3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8579e700c6ffeae3480d046777630583dd8efa35bdd6f5e2f0f1522529afec5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Convenção
+- Direitos do Homem
+- Direitos e Liberdades
+- Liberdades Fundamentais
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:35Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 9 de Outubro de 1986.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 Protocole nº 8 à la Convention de sauvegarde des droits de l'homme et des Libertés fondamentales
 
@@ -353,7 +359,7 @@ O presente Protocolo entrará em vigor no primeiro dia do mês seguinte ao termo
 
 ###### ARTIGO 14.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho:
 
 a) Qualquer assinatura;
 

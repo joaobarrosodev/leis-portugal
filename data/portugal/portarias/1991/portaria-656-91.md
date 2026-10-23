@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/656/1991/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/656-1991-673658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2132bad7e8e06c51a2fd4a2088e8eed2c76baed50955768bc15e1617f696e991
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f96efb2e41c86db21aaab627d2d5f99db3e11a07b804fd769dc0cca60db004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,69 @@ relationships:
   target: pt:dre:545452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346537:por
+  label: "Transferida para a Sociedade Agrícola do Roncanito S.A., a zona de caça concessionada pelo presente diploma, pela\
+    \ PORT.300/2001.2001.03.30.MECO, DR.IS-B [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-2001-346537
+  date: '2001-03-30'
+- type: amended_by
+  target: pt:dre:145212:por
+  label: "Suspenso o exercicio de caça e de actividades de carácter venatório pela PORT.662/2002.2002.06.18.MADRP, DR.IS-B\
+    \ [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/662-2002-145212
+  date: '2002-06-18'
+- type: amended_by
+  target: pt:dre:174075:por
+  label: "Renovada a concessão da zona de caça turística concessionada pelo presente diploma, na redacção da Por 300/2001,\
+    \ de 30-Mar, pela PORT.1166/2002.2002.08.29.MECO, DR.IS-B [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1166-2002-174075
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:545452:por
+  label: "Excluída uma área da zona de caça criada no presente diploma, com as alterações constantes da Port 300/2001 de 30-Mar\
+    \ e a renovação efectuada pela Port 1166/2002 de 29-Ago, pela PORT.1380/2006.06.12.2006.MADRP, DR.IS [234] de 06.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1380-2006-545452
+  date: '2006-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:51Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 20 de Junho de 1991.**
+Assinada em 20 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/159b00/35663567.pdf))](https://files.diariodarepublica.pt/1s/1991/07/159b00/35663567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/159b00/35663567.pdf)

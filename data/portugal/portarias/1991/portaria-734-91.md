@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/174b00/37653770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/734/1991/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1991-686434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b43db408c27d9b093fe46ba994888a5844042af9ee5e153bc0416cec12ef2989
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ee8812823fe9b4feba45255235012a8909e0de5701525168fb159af4dc7b5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Administração Empresarial
 - Diploma
 - Instituto Superior de Contabilidade e Administração
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:321730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321730:por
+  label: "Revogada pela PORT.1157/94.30.12.1994.ME, DR.IS-B [301] de 30.12.1994, com a entrada em funcionamento dos planos\
+    \ de estudos constantes dos seus anexos, e sem prejuízo do período de transição estabelecido nos termos do seu n.º 23.º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1157-1994-321730
+  date: '1994-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:53Z'
   warnings: []
   errors: []
 ---
@@ -459,7 +486,7 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -469,7 +496,7 @@ Curso: Administração Empresarial
 
 Diploma de estudos superiores especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/174b00/37653770.pdf))](https://files.diariodarepublica.pt/1s/1991/07/174b00/37653770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/174b00/37653770.pdf)
 
 ## ANEXO II — Diploma
 
@@ -479,9 +506,9 @@ R (ver nota a) P
 
 Instituto Superior de Contabilidade e Administração de Aveiro, ... (ver nota h).
 
-**O Presidente do Conselho Directivo, ... (ver nota i).**
+O Presidente do Conselho Directivo, ... (ver nota i).
 
-**O Secretário, ... (ver nota j).**
+O Secretário, ... (ver nota j).
 
 (nota a) Símbolo do Instituto Superior de Contabilidade e Administração de Aveiro.
 
@@ -511,9 +538,9 @@ R (ver nota a) P
 
 Instituto Superior de Contabilidade e Administração de Aveiro, ... (ver nota i).
 
-**O Presidente do Conselho Directivo, ... (ver nota j).**
+O Presidente do Conselho Directivo, ... (ver nota j).
 
-**O Secretário, ... (ver nota l).**
+O Secretário, ... (ver nota l).
 
 (nota a) Símbolo do Instituto Superior de Contabilidade e Administração de Aveiro.
 

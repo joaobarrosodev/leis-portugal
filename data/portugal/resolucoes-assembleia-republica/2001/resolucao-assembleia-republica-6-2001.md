@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/6/2001/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2001-313617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e8d70e5649a8cb236786a5c2d923637c424bf4817d367b606877b428ffc1c36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3562f5958123e44a25c64717d334cd96cfcaa8a7f9d333c64ee97ec62b8410d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cardiff
-- Convenção
-- Portugal
-- Eutelsat
 - Comunicação por Satélite
-relationships: []
+- Convenção
+- Eutelsat
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:313614:por
+  label: "Ratificadas as emendas à presente Convenção pelo DEC.7/2001.2001.01.27.PR,DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-2001-313614
+  date: '2001-01-27'
+- type: cites
+  target: pt:dre:177019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 0
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:49Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de Novembro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION AMENDÉE
 
@@ -963,9 +972,7 @@ Reconhecendo a necessidade de acompanhamento da evolução técnica, económica,
 
 convencionaram o que se segue:
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 Para os fins da presente Convenção:
 
@@ -993,9 +1000,7 @@ k) «Princípios de base» designa os princípios visados no artigo III, a), da 
 
 l) «Acordo» designa o Acordo entre a EUTELSAT e a Sociedade Eutelsat, S. A., o qual tem como objectivo definir as relações entre a EUTELSAT e a Sociedade Eutelsat, S. A., assim como as respectivas obrigações, nomeadamente o fornecimento de um quadro que permita à EUTELSAT garantir a supervisão e o respeito, por parte da Sociedade Eutelsat, S. A., dos princípios de base.
 
-Artigo II
-
-Criação da EUTELSAT e da Sociedade Eutelsat, S. A.
+###### Artigo II — Criação da EUTELSAT e da Sociedade Eutelsat, S. A.
 
 a) Pela presente Convenção, as Partes criam a Organização Europeia de Telecomunicações por Satélite, adiante denominada EUTELSAT.
 
@@ -1011,9 +1016,7 @@ c) As relações entre a EUTELSAT e a Sociedade Eutelsat, S. A., são definidas 
 
 d) As disposições pertinentes do anexo A da Convenção têm como objectivo assegurar a continuidade entre as actividades da EUTELSAT e as da Sociedade Eutelsat, S. A.
 
-Artigo III
-
-Objectivos da EUTELSAT
+###### Artigo III — Objectivos da EUTELSAT
 
 a) A EUTELSAT terá como missão principal assegurar que a Sociedade Eutelsat, S. A., respeita os princípios de base enunciados no presente artigo, a saber:
 
@@ -1027,9 +1030,7 @@ iv) Concorrência leal: a Sociedade Eutelsat, S. A., respeitará todas as leis e
 
 b) A EUTELSAT terá igualmente como objectivo assegurar a continuidade em matéria de direitos e obrigações internacionais resultantes da exploração do segmento espacial da EUTELSAT transferido para a Sociedade Eutelsat, S. A., especialmente nos termos do Regulamento das Radiocomunicações no que respeita à utilização das frequências.
 
-Artigo IV
-
-Personalidade jurídica
+###### Artigo IV — Personalidade jurídica
 
 a) A EUTELSAT gozará de personalidade jurídica.
 
@@ -1043,17 +1044,13 @@ iii) Ser parte em juízo;
 
 iv) Concluir acordos com Estados ou organizações internacionais.
 
-Artigo V
-
-Custos
+###### Artigo V — Custos
 
 a) Serão estabelecidos acordos entre a EUTELSAT e a Sociedade Eutelsat, S. A., para cobrir os custos e despesas da EUTELSAT, conforme estipulado no Acordo.
 
 b) Os custos respeitantes ao estabelecimento e funcionamento do Secretariado, comportando, sem por isso se acharem limitados, as despesas de arrendamento e conservação dos seus locais, os salários e emolumentos do pessoal, as despesas de organização e de realização de reuniões da Assembleia de Partes, as despesas de consulta entre a EUTELSAT e as Partes e outras organizações, assim como os custos resultantes da aplicação das medidas tomadas pela EUTELSAT nos termos do artigo III, no intuito de garantir o cumprimento dos princípios de base por parte da Sociedade Eutelsat, S. A., serão assumidos pela Sociedade Eutelsat, S. A., de acordo com as disposições do parágrafo a) do artigo V, até ao limite do montante fixado pelo Acordo.
 
-Artigo VI
-
-Estrutura da EUTELSAT
+###### Artigo VI — Estrutura da EUTELSAT
 
 a) A EUTELSAT terá os seguintes órgãos:
 
@@ -1063,9 +1060,7 @@ ii) O Secretariado, dirigido pelo Secretário Executivo.
 
 b) Cada órgão agirá dentro dos limites das atribuições que lhe são conferidas pela Convenção.
 
-Artigo VII
-
-Assembleia de Partes - Composição e reuniões
+###### Artigo VII — Assembleia de Partes - Composição e reuniões
 
 a) A Assembleia de Partes será constituída por todas as Partes.
 
@@ -1077,9 +1072,7 @@ d) A Assembleia de Partes poderá também efectuar reuniões extraordinárias a 
 
 e) Cada Parte suportará as suas próprias despesas de representação nas reuniões da Assembleia de Partes.
 
-Artigo VIII
-
-Assembleia de Partes - Funcionamento
+###### Artigo VIII — Assembleia de Partes - Funcionamento
 
 a) Na Assembleia de Partes, cada Parte terá direito a um voto. As Partes que se abstiverem numa votação serão consideradas como não tendo votado.
 
@@ -1099,9 +1092,7 @@ iii) À representação e à acreditação;
 
 iv) Ao processo de votação.
 
-Artigo IX
-
-Assembleia de Partes - Funções
+###### Artigo IX — Assembleia de Partes - Funções
 
 A Assembleia de Partes terá as seguintes funções:
 
@@ -1133,9 +1124,7 @@ m) Adoptar um orçamento anual ou bienal;
 
 n) Aprovar as alterações do local de implantação da Sociedade Eutelsat, S. A., nos termos do Acordo.
 
-Artigo X
-
-Secretariado
+###### Artigo X — Secretariado
 
 a) O Secretariado será dirigido pelo Secretário Executivo nomeado pela Assembleia de Partes.
 
@@ -1151,9 +1140,7 @@ f) Em caso de vaga do cargo de Secretário Executivo, ou sempre que este estiver
 
 g) O Secretário Executivo e o pessoal do Secretariado abster-se-ão da prática de qualquer acto incompatível com as suas responsabilidades no seio da EUTELSAT.
 
-Artigo XI
-
-Direitos e obrigações
+###### Artigo XI — Direitos e obrigações
 
 a) As Partes exercerão os direitos e assumirão as obrigações que a Convenção lhes reconhecer, de modo a respeitarem plenamente e a promoverem os princípios e as disposições da Convenção.
 
@@ -1161,9 +1148,7 @@ b) Todas as Partes poderão participar em todas as conferências e reuniões em 
 
 c) Antes de efectuar qualquer conferência ou reunião fora do país onde estiver estabelecida a EUTELSAT, o Secretário Executivo certificar-se-á de que os acordos com a Parte anfitriã dessa conferência ou reunião incluem uma cláusula relativa à admissão e permanência, no país anfitrião, durante todo o período da referida conferência ou reunião, dos representantes de todas as Partes com direito a assistir.
 
-Artigo XII
-
-Sede da EUTELSAT, privilégios, isenções e imunidades
+###### Artigo XII — Sede da EUTELSAT, privilégios, isenções e imunidades
 
 a) A sede da EUTELSAT será em França.
 
@@ -1171,9 +1156,7 @@ b) No âmbito das actividades autorizadas pela Convenção, a EUTELSAT e os seus
 
 c) Cada uma das Partes concederá, em conformidade com o Protocolo mencionado no presente parágrafo, os privilégios, isenções e imunidades apropriados à EUTELSAT, aos seus funcionários e às categorias do seu pessoal especificadas neste Protocolo, às Partes e aos representantes das Partes, assim como às pessoas que participam nos processos de arbitragem. Em particular, cada Parte concederá às pessoas acima referidas, nos casos e com os limites previstos no Protocolo referido neste parágrafo, imunidade de jurisdição em relação aos actos que praticarem ou às opiniões que emitirem oralmente ou por escrito, no exercício das suas funções e dentro das suas atribuições. A Parte em cujo território se situar a sede da EUTELSAT negociará, logo que possível, ou renegociará, se necessário, um acordo de sede com a EUTELSAT relativo a esses privilégios, isenções e imunidades. As outras Partes deverão também, logo que possível, concluir um Protocolo relativo aos privilégios, isenções e imunidades. O acordo de sede e o Protocolo serão independentes da presente Convenção e cada um deles deverá prever as condições em que cessa a sua vigência.
 
-Artigo XIII
-
-Retirada
+###### Artigo XIII — Retirada
 
 a) Qualquer Parte poderá, em qualquer altura, retirar-se voluntariamente da EUTELSAT, notificando por escrito o depositário, tal como definido no artigo XXI. A retirada produzirá efeitos decorridos três meses após a data da recepção da respectiva notificação pelo depositário.
 
@@ -1183,9 +1166,7 @@ c) A Parte que se retirou ou que for considerada como se tendo retirado da EUTEL
 
 d) Qualquer notificação de retirada ou decisão que tenha por efeito a retirada deverão ser imediatamente comunicadas pelo depositário a todas as Partes.
 
-Artigo XIV
-
-Alterações e dissolução
+###### Artigo XIV — Alterações e dissolução
 
 a) Qualquer Parte poderá propor alterações à Convenção. As propostas de alteração serão comunicadas ao Secretário Executivo, que as fará circular prontamente por todas as Partes. A apreciação, pela Assembleia de Partes, da proposta de alteração só poderá ser feita seis meses após a data da sua difusão, tendo em consideração as opiniões e recomendações da Sociedade Eutelsat, S. A., cuja opinião será solicitada sempre que a proposta de alteração à Convenção for susceptível de afectar o desempenho das suas actividades. Em casos especiais, este prazo poderá ser reduzido por decisão da Assembleia de Partes, tomada em conformidade com o procedimento previsto para as questões de fundo.
 
@@ -1197,17 +1178,13 @@ d) A dissolução da Convenção não porá em causa a existência da Sociedade 
 
 e) Salvo se for acordado diferentemente com a Sociedade Eutelsat, S. A., nenhuma decisão será tomada para dissolver a EUTELSAT nos termos do parágrafo c) do presente artigo enquanto os direitos e obrigações internacionais mencionados no parágrafo b) do artigo III não estiverem inteiramente extintos.
 
-Artigo XV
-
-Resolução de litígios
+###### Artigo XV — Resolução de litígios
 
 a) Qualquer litígio que surja entre as Partes ou entre a EUTELSAT e uma ou mais Partes, relativamente à interpretação ou aplicação da Convenção, será submetido a arbitragem, em conformidade com as disposições do anexo B à Convenção, se não for solucionado de outro modo no prazo de um ano a contar da data em que uma das Partes no litígio tiver notificado a outra Parte da sua intenção de resolver esse litígio amigavelmente.
 
 b) Qualquer litígio relativo à interpretação e aplicação da Convenção entre uma das Partes e um Estado que tenha deixado de ser Parte, ou entre a EUTELSAT e um Estado que tenha deixado de ser Parte e que surja depois de esse Estado ter deixado de ser Parte, será submetido à arbitragem, em conformidade com as disposições do anexo B à Convenção, se não for resolvido de outro modo no prazo de um ano a contar da data em que uma das partes no litígio tiver notificado a outra parte da sua intenção de solucionar tal litígio amigavelmente, desde que o Estado que deixou de ser Parte nisso esteja de acordo. Se um Estado deixar de ser Parte depois de um litígio em que intervenha ter sido submetido a arbitragem nos termos do parágrafo a) do presente artigo, a arbitragem deverá prosseguir até à sua conclusão.
 
-Artigo XVI
-
-Assinatura - Reservas
+###### Artigo XVI — Assinatura - Reservas
 
 a) Qualquer Estado cuja administração de telecomunicações ou exploração privada reconhecida seja ou tenha o direito de se tornar Parte Signatária do Acordo Provisório, poderá tornar-se Parte na Convenção, através de:
 
@@ -1221,9 +1198,7 @@ b) A Convenção ficará aberta à assinatura, em Paris, desde 15 de Julho de 19
 
 c) Não poderão ser feitas reservas à Convenção.
 
-Artigo XVII
-
-Entrada em vigor
+###### Artigo XVII — Entrada em vigor
 
 a) A Convenção entra em vigor 60 dias após a data em que dois terços dos Estados que, à data de abertura da assinatura da Convenção tiverem jurisdição sobre as Partes Signatárias do Acordo Provisório, a tiverem assinado em conformidade com a alínea i) do parágrafo a) do artigo XVI da Convenção, ou ratificado, aceite ou aprovado, desde que essas Partes Signatárias ou os signatários por elas designados para os fins do Acordo ECS detenham, pelo menos, dois terços das quotas-partes de financiamento para efeitos do Acordo ECS.
 
@@ -1243,9 +1218,7 @@ Se a aplicação a título provisório cessar em conformidade com a alínea ii) 
 
 e) Quando da sua entrada em vigor, a Convenção substituirá e fará cessar o Acordo Provisório. Contudo, nenhuma disposição da Convenção afectará qualquer direito ou obrigação que uma Parte tenha adquirido anteriormente, na qualidade de Parte Signatária do Acordo Provisório.
 
-Artigo XVIII
-
-Adesão
+###### Artigo XVIII — Adesão
 
 a) Qualquer Estado cuja administração de telecomunicações ou exploração privada reconhecida fosse, ou tivesse o direito de se tornar, na data em que a Convenção for aberta à assinatura, Parte Signatária do Acordo Provisório poderá aderir à Convenção a partir da data em que esta deixar de estar aberta à assinatura, até ao termo de um prazo de dois anos após a sua entrada em vigor.
 
@@ -1265,15 +1238,11 @@ A decisão da Assembleia de Partes será tomada por voto secreto e em conformida
 
 f) O Secretário Executivo notificará o Estado candidato das condições de adesão estabelecidas pela Assembleia de Partes, as quais serão objecto de um protocolo a anexar ao instrumento de adesão que o referido Estado depositar junto do depositário.
 
-Artigo XIX
-
-Responsabilidade
+###### Artigo XIX — Responsabilidade
 
 Nenhuma Parte será individualmente responsável pelos actos e obrigações da EUTELSAT, excepto se tal responsabilidade decorrer de um tratado no qual essa Parte e o Estado que reclame o pagamento de uma compensação sejam partes. Neste caso, a EUTELSAT indemnizará a referida Parte desse pagamento, a menos que a dita parte se tenha expressamente comprometido a assumir sozinha essa responsabilidade.
 
-Artigo XX
-
-Disposições diversas
+###### Artigo XX — Disposições diversas
 
 a) As línguas oficiais e de trabalho da EUTELSAT serão o francês e o inglês.
 
@@ -1281,9 +1250,7 @@ b) A EUTELSAT, tendo em consideração as orientações de carácter geral da As
 
 c) Em cumprimento das disposições da Resolução n.º 1721 (XVI) da Assembleia Geral das Nações Unidas, a EUTELSAT enviará ao Secretário-Geral das Nações Unidas e às agências especializadas interessadas um relatório anual sobre as suas actividades. Para informação, o relatório anual será igualmente enviado à Sociedade Eutelsat, S. A.
 
-Artigo XXI
-
-Depositário
+###### Artigo XXI — Depositário
 
 a) O Governo da República Francesa será o depositário da Convenção, junto do qual serão depositados os instrumentos de ratificação, aceitação, aprovação ou adesão, os pedidos de aplicação a título provisório, bem como as notificações de ratificação, aceitação ou aprovação de alterações, de decisões de retirada da EUTELSAT ou de decisões de pôr termo à aplicação provisória da Convenção.
 

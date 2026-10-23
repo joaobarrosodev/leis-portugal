@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/1986, 1º Suplemento, Série I de 1986-12-26
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3818-(1) a 3818-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29601/00010014.pdf
 entry_into_force_dates: []
@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/32-1986-238838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6bedafb32b7e4ab6f2214f36495b9f0d40f8fb8d73137618b4515abb5339a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fba83607eb59bfc161e6176f1c006205db17b0410764391b1867e9081a83a576
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ACTO Único Europeu
+- Bélgica
+- CECA
+- CEE
+- Convenção
+- Dinamarca
+- Espanha
+- Euratom
+- França
+- Grécia
+- Irlanda
+- Luxemburgo
+- Países Baixos
+- Portugal
+- Reino Unido
+- RFA
+- Tratado CECA
+- Tratado CEE
+- Tratado Euratom
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO O ARTIGO 16, NUMERO 4 (RELATIVO A ALTERAÇÃO AO NUMERO 1 DO ARTIGO 70 DO TRATADO QUE INSTITUI A COMUNIDADE\
+    \ ECONÓMICA EUROPEIA, CUJO TEXTO FOI TORNADO PÚBLICO PELO AVISO DD1181/85, DE 17 DE SETEMBRO, PUBLICADO NO DR.IS, 215,\
+    \ 2SUPL, DE 850918), PELO AVISO DD1489/87, DE 31 DE AGOSTO, PUBLICADO NO DR.IS, 225, DE 870930.\0.IS, 225, DE 870930.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: corrected_by
+  target: pt:dre:495353:por
+  label: RECTIFICADO O ACTO ÚNICO EUROPEU, APROVADO PARA RATIFICAÇÃO PELO PRESENTE DIPLOMA, pelo(a) Aviso - Diário da República
+    n.º 225/1987, Série I de 1987-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1987-495353
+  date: '1987-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:36Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +119,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 17 de Dezembro de 1986.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ACTO ÚNICO EUROPEU
 
@@ -120,11 +151,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Sr. Uffe Ellemann-Jensen, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Sr. Hans-Dietrich Genscher, Ministro Federal dos Negócios Estrangeiros;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Sr. Karolos Papoulias, Ministro dos Negócios Estrangeiros;
 
@@ -132,15 +163,15 @@ Sua Majestade o Rei de Espanha:
 
 Sr. Francisco Fernandez Ordoñez, Ministro dos Negócios Estrangeiros.
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Sr. Roland Dumas, Ministro das Relações Externas;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Sr. Peter Barry, T. D., Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Sr. Giulio Andreotti, Ministro dos Negócios Estrangeiros;
 
@@ -152,7 +183,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Sr. Hans van den Broek, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Sr. Pedro Pires Miranda, Ministro dos Negócios Estrangeiros;
 
@@ -164,17 +195,17 @@ os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e d
 
 ## TÍTULO I — Disposições comuns
 
-###### Artigo 1.º As Comunidades Europeias e a cooperação política europeia têm por objectivo contribuir em conjunto para fazer progredir concretamente a União Europeia.
+Artigo 1.º As Comunidades Europeias e a cooperação política europeia têm por objectivo contribuir em conjunto para fazer progredir concretamente a União Europeia.
 
 As Comunidades Europeias baseiam-se nos Tratados que instituem a Comunidade Europeia do Carvão e do Aço, a Comunidade Económica Europeia e a Comunidade Europeia da Energia Atómica, bem como nos tratados e actos subsequentes que os alteraram ou completaram.
 
 A cooperação política é regida pelo título III. As disposições deste título confirmam e completam os procedimentos acordados nos relatórios do Luxemburgo (1970), Copenhaga (1973) e Londres (1981), bem como na Declaração Solene sobre a União Europeia (1983), e as práticas progressivamente estabelecidas entre os Estados membros.
 
-###### Art. 2.º O Conselho Europeu reúne os chefes de Estado ou de governo dos Estados membros e o presidente da Comissão das Comunidades Europeias, que são assistidos pelos ministros dos Negócios Estrangeiros e por um membro da Comissão.
+Art. 2.º O Conselho Europeu reúne os chefes de Estado ou de governo dos Estados membros e o presidente da Comissão das Comunidades Europeias, que são assistidos pelos ministros dos Negócios Estrangeiros e por um membro da Comissão.
 
 O Conselho Europeu reúne-se pelo menos duas vezes por ano.
 
-###### Art. 3.º - 1 - As instituições das Comunidades Europeias, a partir de agora designadas como a seguir, exercem os respectivos poderes e competências nas condições e para os fins previstos pelos tratados que instituem as Comunidades e pelos tratados e actos subsequentes que os alteraram ou completaram, bem como pelas disposições do título II.
+Art. 3.º - 1 - As instituições das Comunidades Europeias, a partir de agora designadas como a seguir, exercem os respectivos poderes e competências nas condições e para os fins previstos pelos tratados que instituem as Comunidades e pelos tratados e actos subsequentes que os alteraram ou completaram, bem como pelas disposições do título II.
 
 2 - As instituições e órgãos competentes em matéria de cooperação política europeia exercem os respectivos poderes e competências nas condições e para os fins estabelecidos no título III e nos documentos mencionados no terceiro parágrafo do artigo 1.º
 
@@ -182,9 +213,9 @@ O Conselho Europeu reúne-se pelo menos duas vezes por ano.
 
 ### CAPÍTULO I — Disposições que alteram o Tratado que institui a Comunidade Europeia do Carvão e do Aço
 
-###### Art. 4.º Ao [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) são aditadas as disposições seguintes:
+Art. 4.º Ao [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) são aditadas as disposições seguintes:
 
-###### Art. 32.º-D - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas.
+Art. 32.º-D - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas.
 
 Essa jurisdição não terá competência para conhecer de processos apresentados por Estados membros ou por instituições comunitárias, nem de questões prejudiciais submetidas nos termos do artigo 41.º
 
@@ -196,7 +227,7 @@ Salvo decisão em contrário do Conselho, são aplicáveis a essa jurisdição a
 
 4 - Essa jurisdição estabelece o respectivo regulamento processual de acordo com o Tribunal de Justiça. Esse regulamento é submetido à aprovação unânime do Conselho.
 
-###### Art. 5.º Ao artigo 45.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) é aditado o parágrafo seguinte:
+Art. 5.º Ao artigo 45.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) é aditado o parágrafo seguinte:
 
 O Conselho, deliberando por unanimidade, a pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, pode alterar as disposições do título III do Estatuto.
 
@@ -204,7 +235,7 @@ O Conselho, deliberando por unanimidade, a pedido do Tribunal de Justiça e apó
 
 #### SECÇÃO I — Disposições institucionais
 
-###### Art. 6.º - 1 - É instituído um procedimento de cooperação aplicável aos actos que têm por base os artigos 7.º e 49.º, o n.º 2 do artigo 54.º, o n.º 2, segunda frase, do artigo 56.º, o artigo 57.º, com excepção da segunda frase do n.º 2, os artigos 100.º-A, 100.º-B, 118.º-A, 130.º-E e o n.º 2 do artigo 130.º-Q do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado).
+Art. 6.º - 1 - É instituído um procedimento de cooperação aplicável aos actos que têm por base os artigos 7.º e 49.º, o n.º 2 do artigo 54.º, o n.º 2, segunda frase, do artigo 56.º, o artigo 57.º, com excepção da segunda frase do n.º 2, os artigos 100.º-A, 100.º-B, 118.º-A, 130.º-E e o n.º 2 do artigo 130.º-Q do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado).
 
 2 - No segundo parágrafo do artigo 7.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), a expressão «após consulta da Assembleia» é substituída pela expressão «em cooperação com o Parlamento Europeu».
 
@@ -222,9 +253,9 @@ Todavia, após o final da 2.ª fase, o Conselho, deliberando por maioria qualifi
 
 Nos outros casos, o Conselho delibera por maioria qualificada, em cooperação, com o Parlamento Europeu.
 
-###### Art. 7.º O artigo 149.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
+Art. 7.º O artigo 149.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
-###### Art. 149.º - 1 - Sempre que, por força do presente Tratado, um acto do Conselho seja adoptado sob proposta da Comissão, o Conselho só pode adoptar um acto que constitua alteração dessa proposta deliberando por unanimidade.
+Art. 149.º - 1 - Sempre que, por força do presente Tratado, um acto do Conselho seja adoptado sob proposta da Comissão, o Conselho só pode adoptar um acto que constitua alteração dessa proposta deliberando por unanimidade.
 
 2 - Sempre que, por força do presente Tratado, um acto do Conselho seja adoptado em cooperação com o Parlamento Europeu, é aplicável o procedimento seguinte:
 
@@ -254,21 +285,21 @@ g) Os prazos referidos nas alíneas b) e f) podem ser prorrogados por comum acor
 
 3 - Até deliberação do Conselho, a Comissão pode alterar a sua proposta ao longo dos procedimentos referidos nos n.os 1 e 2.
 
-###### Art. 8.º O primeiro parágrafo do artigo 237.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
+Art. 8.º O primeiro parágrafo do artigo 237.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
 Qualquer Estado europeu pode pedir para se tornar membro da Comunidade. Dirigirá o respectivo pedido ao Conselho, o qual se pronunciará por unanimidade, depois de ter consultado a Comissão e após parecer favorável do Parlamento Europeu, que se pronunciará por maioria absoluta dos membros que o compõem.
 
-###### Art. 9.º O segundo parágrafo do artigo 238.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
+Art. 9.º O segundo parágrafo do artigo 238.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
 Tais acordos são concluídos pelo Conselho, deliberando por unanimidade, e após parecer favorável do Parlamento Europeu, que se pronunciará, por maioria absoluta dos membros que o compõem.
 
-###### Art. 10.º Ao artigo 145.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 10.º Ao artigo 145.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
 Atribui à Comissão, nos actos que adopta, as competências de execução das normas que estabelece. O Conselho pode submeter o exercício dessas competências a certas modalidades. O Conselho pode igualmente reservar-se, em casos específicos, o direito de exercer directamente competências de execução. As modalidades acima referidas devem corresponder aos princípios e normas que o Conselho, deliberando por unanimidade sob proposta da Comissão e após parecer do Parlamento Europeu, tenha estabelecido previamente.
 
-###### Art. 11.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 11.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 168.º-A - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas. Essa jurisdição não terá competência para conhecer de processos apresentados por Estados membros ou por instituições comunitárias, nem de questões prejudiciais submetidas nos temos do artigo 177.º
+Art. 168.º-A - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas. Essa jurisdição não terá competência para conhecer de processos apresentados por Estados membros ou por instituições comunitárias, nem de questões prejudiciais submetidas nos temos do artigo 177.º
 
 2 - O Conselho, actuando de acordo com o procedimento previsto no n.º 1, fixa a composição dessa jurisdição e adopta as adaptações e as disposições complementares necessárias ao Estatuto do Tribunal de Justiça. Salvo decisão em contrário do Conselho, são aplicáveis a essa jurisdição as disposições do presente Tratado relativas ao Tribunal de Justiça, nomeadamente as disposições do Protocolo sobre o Estatuto do Tribunal de Justiça.
 
@@ -276,7 +307,7 @@ Atribui à Comissão, nos actos que adopta, as competências de execução das n
 
 4 - Essa jurisdição estabelece o respectivo regulamento processual de acordo com o Tribunal de Justiça. Esse regulamento é submetido à aprovação unânime do Conselho.
 
-###### Art. 12.º No artigo 188.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) é inserido um segundo parágrafo, com a seguinte redacção:
+Art. 12.º No artigo 188.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) é inserido um segundo parágrafo, com a seguinte redacção:
 
 O Conselho, deliberando por unanimidade, a pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, pode alterar as disposições do título III do Estatuto.
 
@@ -284,27 +315,27 @@ O Conselho, deliberando por unanimidade, a pedido do Tribunal de Justiça e apó
 
 ##### SUBSECÇÃO I — O mercado interno
 
-###### Art. 13.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 13.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 8.º-A. A Comunidade adoptará as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992, nos termos do disposto no presente artigo, nos artigos 8.º-B, 8.º-C e 28.º, no n.º 2 do artigo 57.º, no artigo 59.º, no n.º 1 do artigo 70.º e nos artigos 84.º, 99.º, 100.º-A e 100.º-B, sem prejuízo das demais disposições do presente Tratado.
+Art. 8.º-A. A Comunidade adoptará as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992, nos termos do disposto no presente artigo, nos artigos 8.º-B, 8.º-C e 28.º, no n.º 2 do artigo 57.º, no artigo 59.º, no n.º 1 do artigo 70.º e nos artigos 84.º, 99.º, 100.º-A e 100.º-B, sem prejuízo das demais disposições do presente Tratado.
 
 O mercado interno compreende um espaço sem fronteiras internas, no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada de acordo com as disposições do presente Tratado.
 
-###### Art. 14.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 14.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 8.º-B. A Comissão apresentará um relatório ao Conselho, antes de 31 de Dezembro de 1988 e antes de 31 de Dezembro de 1990, sobre o estado de adiantamento dos trabalhos destinados à realização do mercado interno, no prazo fixado no artigo 8.º-A.
+Art. 8.º-B. A Comissão apresentará um relatório ao Conselho, antes de 31 de Dezembro de 1988 e antes de 31 de Dezembro de 1990, sobre o estado de adiantamento dos trabalhos destinados à realização do mercado interno, no prazo fixado no artigo 8.º-A.
 
 O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, definirá as orientações e condições necessárias para assegurar um progresso equilibrado no conjunto dos sectores abrangidos.
 
-###### Art. 15.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 15.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 8.º-C. Aquando da formulação das suas propostas destinadas a realizar os objectivos enunciados no artigo 8.º-A, a Comissão terá em conta a amplitude do esforço que certas economias que apresentam diferenças de desenvolvimento devem suportar durante o período de estabelecimento do mercado interno e pode propor as disposições adequadas.
+Art. 8.º-C. Aquando da formulação das suas propostas destinadas a realizar os objectivos enunciados no artigo 8.º-A, a Comissão terá em conta a amplitude do esforço que certas economias que apresentam diferenças de desenvolvimento devem suportar durante o período de estabelecimento do mercado interno e pode propor as disposições adequadas.
 
 Se estas disposições tomarem a forma de derrogações, devem ter carácter temporário e implicar o mínimo possível de perturbações no funcionamento do mercado comum.
 
-###### Art. 16.º - 1 - O artigo 28.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
+Art. 16.º - 1 - O artigo 28.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
-###### Art. 28.º O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decidirá quaisquer modificações ou suspensões autónomas dos direitos da Pauta Aduaneira Comum.
+Art. 28.º O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decidirá quaisquer modificações ou suspensões autónomas dos direitos da Pauta Aduaneira Comum.
 
 2 - No n.º 2 do artigo 57.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), a segunda frase passa a ter a seguinte redacção:
 
@@ -322,13 +353,13 @@ Para o efeito, o Conselho, deliberando por maioria qualificada, adoptará direct
 
 São aplicáveis as disposições processuais dos n.os 1 e 3 do artigo 75.º
 
-###### Art. 17.º O artigo 99.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
+Art. 17.º O artigo 99.º do [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
-###### Art. 99.º O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, adoptará as disposições relacionadas com a harmonização das legislações relativas aos impostos sobre o volume de negócios, aos impostos sobre consumos específicos e a outros impostos indirectos, na medida em que essa harmonização seja necessária para assegurar o estabelecimento e o funcionamento do mercado interno no prazo previsto no artigo 8.º-A.
+Art. 99.º O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, adoptará as disposições relacionadas com a harmonização das legislações relativas aos impostos sobre o volume de negócios, aos impostos sobre consumos específicos e a outros impostos indirectos, na medida em que essa harmonização seja necessária para assegurar o estabelecimento e o funcionamento do mercado interno no prazo previsto no artigo 8.º-A.
 
-###### Art. 18.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 18.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 100.º-A - 1 - Em derrogação do artigo 100.º, e salvo disposições contrárias do presente Tratado, aplicam-se as disposições seguintes para a realização dos objectivos enunciados no artigo 8.º-A. O Conselho, deliberando por maioria qualificada, sob proposta da Confissão, em cooperação com o Parlamento Europeu e após consultado Comité Económico e Social, adoptará as medidas relativas à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros que têm por objecto o estabelecimento e o funcionamento do mercado interno.
+Art. 100.º-A - 1 - Em derrogação do artigo 100.º, e salvo disposições contrárias do presente Tratado, aplicam-se as disposições seguintes para a realização dos objectivos enunciados no artigo 8.º-A. O Conselho, deliberando por maioria qualificada, sob proposta da Confissão, em cooperação com o Parlamento Europeu e após consultado Comité Económico e Social, adoptará as medidas relativas à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros que têm por objecto o estabelecimento e o funcionamento do mercado interno.
 
 2 - O n.º 1 não se aplica às disposições fiscais, às relativas à livre circulação das pessoas e às relativas aos direitos e interesses dos trabalhadores assalariados.
 
@@ -342,9 +373,9 @@ Em derrogação do procedimento dos artigos 169.º e 170.º, a Comissão ou qual
 
 5 - As medidas de harmonização acima referidas compreendem, nos casos adequados, uma cláusula de salvaguarda, que autoriza os Estados membros a tomar, por uma ou várias das razões não económicas referidas ao artigo 36.º, medidas provisórias, sujeitas a um procedimento comunitário de controle.
 
-###### Art. 19.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 19.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 100.º-B - 1 - Durante o ano de 1992, a Comissão procederá, em conjunto com cada Estado membro, a um recenseamento das disposições legislativas, regulamentares e administrativas abrangidas pelo artigo 100.º-A que não foram objecto de uma harmonização com fundamento neste último artigo.
+Art. 100.º-B - 1 - Durante o ano de 1992, a Comissão procederá, em conjunto com cada Estado membro, a um recenseamento das disposições legislativas, regulamentares e administrativas abrangidas pelo artigo 100.º-A que não foram objecto de uma harmonização com fundamento neste último artigo.
 
 O Conselho, deliberando nos termos do disposto no artigo 100.º-A, pode decidir que certas disposições em vigor num Estado membro devam ser reconhecidas como equivalentes às aplicadas por outro Estado membro.
 
@@ -354,11 +385,11 @@ O Conselho, deliberando nos termos do disposto no artigo 100.º-A, pode decidir 
 
 ##### SUBSECÇÃO II — A capacidade monetária
 
-###### Art. 20.º - 1 - No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), é inserido no título II da parte III um novo capítulo, com a seguinte redacção:
+Art. 20.º - 1 - No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), é inserido no título II da parte III um novo capítulo, com a seguinte redacção:
 
 ### CAPÍTULO I — A cooperação no domínio da política económica e monetária (união económica e monetária)
 
-###### Art. 102.º-A - 1 - A fim de garantir a convergência das políticas económicas e monetárias necessária ao desenvolvimento posterior da Comunidade, os Estados membros cooperam nos termos dos objectivos do artigo 104.º Ao fazê-lo, os Estados membros têm em conta experiências adquiridas graças à cooperação no âmbito do Sistema Monetário Europeu (SME) e graças à evolução do ECU, no respeito das competências existentes.
+Art. 102.º-A - 1 - A fim de garantir a convergência das políticas económicas e monetárias necessária ao desenvolvimento posterior da Comunidade, os Estados membros cooperam nos termos dos objectivos do artigo 104.º Ao fazê-lo, os Estados membros têm em conta experiências adquiridas graças à cooperação no âmbito do Sistema Monetário Europeu (SME) e graças à evolução do ECU, no respeito das competências existentes.
 
 2 - Na medida em que o desenvolvimento posterior no plano da política económica e monetária exigir modificações institucionais, será aplicável o disposto no artigo 236.º No caso de modificações institucionais no domínio monetário, serão igualmente consultados o Comité Monetário e o Comité dos Governadores dos Bancos Centrais.
 
@@ -366,9 +397,9 @@ O Conselho, deliberando nos termos do disposto no artigo 100.º-A, pode decidir 
 
 ##### SUBSECÇÃO III — A política social
 
-###### Art. 21.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 21.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 118.º-A - 1 - Os Estados membros empenham-se em promover a melhoria, nomeadamente, das condições de trabalho para protegerem a segurança e a saúde dos trabalhadores e estabelecem como objectivo a harmonização, no progresso, das condições existentes nesse domínio.
+Art. 118.º-A - 1 - Os Estados membros empenham-se em promover a melhoria, nomeadamente, das condições de trabalho para protegerem a segurança e a saúde dos trabalhadores e estabelecem como objectivo a harmonização, no progresso, das condições existentes nesse domínio.
 
 2 - Para contribuir para a realização do objectivo previsto no n.º 1, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, em cooperação com o Parlamento Europeu e após consulta do Comité Económico e Social, adoptará por meio de directiva as prescrições mínimas progressivamente aplicáveis, tendo em conta as condições e regulamentações técnicas existentes em cada Estado membro.
 
@@ -376,45 +407,45 @@ Essas directivas devem evitar impor disciplinas administrativas, financeiras e j
 
 3 - As disposições adoptadas nos termos do presente artigo não obstam à manutenção e ao estabelecimento, por cada Estado membro, de medidas de protecção reforçada das condições de trabalho compatíveis com o presente Tratado.
 
-###### Art. 22.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
+Art. 22.º Ao [Tratado CEE](https://diariodarepublica.pt/application/external/tratado) são aditadas as disposições seguintes:
 
-###### Art. 118.º-B. A Comissão esforça-se por desenvolver o diálogo entre parceiros sociais a nível europeu, que pode conduzir, se estes últimos o entenderem desejável, a relações convencionais.
+Art. 118.º-B. A Comissão esforça-se por desenvolver o diálogo entre parceiros sociais a nível europeu, que pode conduzir, se estes últimos o entenderem desejável, a relações convencionais.
 
 ##### SUBSECÇÃO IV — A coesão económica e social
 
-###### Art. 23.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título V, com a seguinte redacção:
+Art. 23.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título V, com a seguinte redacção:
 
 ## TÍTULO V — A coesão económica e social
 
-###### Art. 130.º-A. A fim de promover um desenvolvimento harmonioso do conjunto da Comunidade, esta desenvolve e prossegue a sua acção tendente ao reforço da sua coesão económica e social.
+Art. 130.º-A. A fim de promover um desenvolvimento harmonioso do conjunto da Comunidade, esta desenvolve e prossegue a sua acção tendente ao reforço da sua coesão económica e social.
 
 Em especial, a Comunidade procura reduzir a diferença entre as diversas regiões e o atraso das regiões menos favorecidas.
 
-###### Art. 130.º-B. Os Estados membros conduzem a sua política económica e coordenam-na, tendo em vista igualmente atingir os objectivos enunciados no artigo 130.º-A.
+Art. 130.º-B. Os Estados membros conduzem a sua política económica e coordenam-na, tendo em vista igualmente atingir os objectivos enunciados no artigo 130.º-A.
 
 A concretização das políticas comuns e do mercado interno tem em conta os objectivos enunciados nos artigos 130.º-A e 130.º-C e contribui para a respectiva realização. A Comunidade apoia essa realização pela acção que desenvolve através dos fundos com finalidade estrutural (Fundo Europeu de Orientação e Garantia Agrícola, secção «Orientação», Fundo Social Europeu, Fundo Europeu de Desenvolvimento Regional), do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes.
 
-###### Art. 130.º-C. O Fundo Europeu de Desenvolvimento Regional tem como objectivo contribuir para a correcção dos principais desequilíbrios regionais na Comunidade através de uma participação no desenvolvimento e no ajustamento estrutural das regiões menos desenvolvidas e na reconversão das regiões industriais em declínio.
+Art. 130.º-C. O Fundo Europeu de Desenvolvimento Regional tem como objectivo contribuir para a correcção dos principais desequilíbrios regionais na Comunidade através de uma participação no desenvolvimento e no ajustamento estrutural das regiões menos desenvolvidas e na reconversão das regiões industriais em declínio.
 
-###### Art. 130.º-D. A partir da entrada em vigor do Acto Único Europeu, a Comissão submeterá ao Conselho uma proposta de conjunto tendo em vista introduzir na estrutura e nas regras de funcionamento dos fundos existentes com finalidade estrutural (Fundo Europeu de Orientação e Garantia Agrícola, secção «Orientação», Fundo Social Europeu, Fundo Europeu de Desenvolvimento Regional) as modificações que se revelem necessárias para precisar e racionalizar as respectivas missões, a fim de contribuírem para a realização dos objectivos enunciados nos artigos 130.º-A e 130.º-C, bem como para reforçar a respectiva eficácia e coordenar as suas intervenções entre elas e com as dos instrumentos financeiros existentes. O Conselho deliberará por unanimidade sobre esta proposta no prazo de um ano, após consulta do Parlamento Europeu e do Comité Económico e Social.
+Art. 130.º-D. A partir da entrada em vigor do Acto Único Europeu, a Comissão submeterá ao Conselho uma proposta de conjunto tendo em vista introduzir na estrutura e nas regras de funcionamento dos fundos existentes com finalidade estrutural (Fundo Europeu de Orientação e Garantia Agrícola, secção «Orientação», Fundo Social Europeu, Fundo Europeu de Desenvolvimento Regional) as modificações que se revelem necessárias para precisar e racionalizar as respectivas missões, a fim de contribuírem para a realização dos objectivos enunciados nos artigos 130.º-A e 130.º-C, bem como para reforçar a respectiva eficácia e coordenar as suas intervenções entre elas e com as dos instrumentos financeiros existentes. O Conselho deliberará por unanimidade sobre esta proposta no prazo de um ano, após consulta do Parlamento Europeu e do Comité Económico e Social.
 
-###### Art. 130.º-E. Após adopção da decisão referida no artigo 130.º-D, as decisões de aplicação relativas ao Fundo Europeu de Desenvolvimento Regional serão tomadas pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão e em cooperação com o Parlamento Europeu.
+Art. 130.º-E. Após adopção da decisão referida no artigo 130.º-D, as decisões de aplicação relativas ao Fundo Europeu de Desenvolvimento Regional serão tomadas pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão e em cooperação com o Parlamento Europeu.
 
 No respeitante ao Fundo Europeu de Orientação e Garantia Agrícola, secção «Orientação», e ao Fundo Social Europeu, permanecem, respectivamente, aplicáveis os artigos 43.º, 126.º e 127.º
 
 ##### SUBSECÇÃO V — A investigação e desenvolvimento tecnológico
 
-###### Art. 24.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título VI, com a seguinte redacção:
+Art. 24.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título VI, com a seguinte redacção:
 
 ## TÍTULO VI — A investigação e o desenvolvimento tecnológico
 
-###### Art. 130.º-F - 1 - A Comunidade assume o objectivo de reforçar as bases científicas e tecnológicas da indústria europeia e de favorecer o desenvolvimento da sua competitividade internacional.
+Art. 130.º-F - 1 - A Comunidade assume o objectivo de reforçar as bases científicas e tecnológicas da indústria europeia e de favorecer o desenvolvimento da sua competitividade internacional.
 
 2 - Para esse efeito incentivará as empresas, incluindo as pequenas e médias empresas, os centros de investigação e as universidades nos seus esforços de investigação e de desenvolvimento tecnológico; apoiará os seus esforços de cooperação, tendo especialmente por objectivo dar às empresas a possibilidade de explorarem plenamente as potencialidades do mercado interno da Comunidade por meio, nomeadamente, da abertura dos mercados públicos nacionais, da definição de normas comuns e da eliminação dos obstáculos jurídicos e fiscais a esta cooperação.
 
 3 - Na realização desses objectivos será especialmente tida em conta a relação entre o esforço comum empreendido em matéria de investigação e de desenvolvimento tecnológico, o estabelecimento do mercado interno e a execução de políticas comuns, nomeadamente em matéria de concorrência e de trocas.
 
-###### Art. 130.º-G. Para a prossecução destes objectivos a Comunidade desenvolverá as acções seguintes, que completam as acções empreendidas nos Estados membros:
+Art. 130.º-G. Para a prossecução destes objectivos a Comunidade desenvolverá as acções seguintes, que completam as acções empreendidas nos Estados membros:
 
 a) Execução de programas de investigação, de desenvolvimento tecnológico e de demonstração, promovendo a cooperação com as empresas, os centros de investigação e as universidades;
 
@@ -424,43 +455,43 @@ c) Difusão e valorização dos resultados das actividades em matéria de invest
 
 d) Incentivo à formação e à mobilidade dos investigadores da Comunidade.
 
-###### Art. 130.º-H. Os Estados membros coordenarão entre si, em ligação com a Comissão, as políticas e programas conduzidos a nível nacional. A Comissão pode tomar, em contacto estreito com os Estados membros, todas as iniciativas úteis para promover essa, coordenação.
+Art. 130.º-H. Os Estados membros coordenarão entre si, em ligação com a Comissão, as políticas e programas conduzidos a nível nacional. A Comissão pode tomar, em contacto estreito com os Estados membros, todas as iniciativas úteis para promover essa, coordenação.
 
-###### Art. 130.º-I - 1 - A Comunidade adoptará um programa quadro plurianual, no qual será enumerado o conjunto das suas acções. O programa quadro fixará os objectivos científicos e técnicos, definirá as respectivas propriedades, indicará as linhas gerais das acções previstas, fixará o montante considerado necessário e as modalidades da participação financeira da Comunidade no conjunto do programa, bem como a repartição deste montante entre as diferentes acções previstas.
+Art. 130.º-I - 1 - A Comunidade adoptará um programa quadro plurianual, no qual será enumerado o conjunto das suas acções. O programa quadro fixará os objectivos científicos e técnicos, definirá as respectivas propriedades, indicará as linhas gerais das acções previstas, fixará o montante considerado necessário e as modalidades da participação financeira da Comunidade no conjunto do programa, bem como a repartição deste montante entre as diferentes acções previstas.
 
 2 - O programa quadro pode ser adaptado ou completado em função da evolução das situações.
 
-###### Art. 130.º-K. A execução do programa quadro será feita por meio de programas específicos desenvolvidos no âmbito de cada acção. Cada programa específico definirá as modalidades da respectiva realização, fixará a sua duração e preverá os meios considerados necessários.
+Art. 130.º-K. A execução do programa quadro será feita por meio de programas específicos desenvolvidos no âmbito de cada acção. Cada programa específico definirá as modalidades da respectiva realização, fixará a sua duração e preverá os meios considerados necessários.
 
 O Conselho definirá as modalidades de difusão dos conhecimentos resultantes dos programas específicos.
 
-###### Art. 130.º-L. Na execução do programa quadro plurianual podem ser decididos programas complementares, nos quais apenas participarão certos Estados membros que assegurem o seu financiamento, sem prejuízo de uma eventual participação da Comunidade.
+Art. 130.º-L. Na execução do programa quadro plurianual podem ser decididos programas complementares, nos quais apenas participarão certos Estados membros que assegurem o seu financiamento, sem prejuízo de uma eventual participação da Comunidade.
 
 O Conselho adoptará as regras aplicáveis aos programas complementares, nomeadamente em matéria de difusão dos conhecimentos e de acesso de outros Estados membros.
 
-###### Art. 130.º-M. Na execução do programa quadro plurianual a Comunidade pode prever, de acordo com os Estados membros interessados, uma participação em programas de investigação e de desenvolvimento empreendidos por vários Estados membros, incluindo a participação nas estruturas criadas para a execução desses programas.
+Art. 130.º-M. Na execução do programa quadro plurianual a Comunidade pode prever, de acordo com os Estados membros interessados, uma participação em programas de investigação e de desenvolvimento empreendidos por vários Estados membros, incluindo a participação nas estruturas criadas para a execução desses programas.
 
-###### Art. 130.º-N. Na execução do programa quadro plurianual a Comunidade pode prever uma cooperação em matéria de investigação de desenvolvimento tecnológico e de demonstração comunitários com países terceiros ou organizações internacionais.
+Art. 130.º-N. Na execução do programa quadro plurianual a Comunidade pode prever uma cooperação em matéria de investigação de desenvolvimento tecnológico e de demonstração comunitários com países terceiros ou organizações internacionais.
 
 As modalidades desta cooperação podem ser objecto de acordos internacionais entre a Comunidade e as partes terceiras interessadas, que serão negociados e concluídos nos termos do artigo 228.º
 
-###### Art. 130.º-O. A Comunidade pode criar empresas comuns ou qualquer outra estrutura necessária à boa execução dos programas de investigação, de desenvolvimento tecnológico e de demonstração comunitários.
+Art. 130.º-O. A Comunidade pode criar empresas comuns ou qualquer outra estrutura necessária à boa execução dos programas de investigação, de desenvolvimento tecnológico e de demonstração comunitários.
 
-###### Art. 130.º-P - 1 - As modalidades de financiamento de cada programa, incluindo uma eventual participação da Comunidade, serão fixadas aquando da adopção do programa.
+Art. 130.º-P - 1 - As modalidades de financiamento de cada programa, incluindo uma eventual participação da Comunidade, serão fixadas aquando da adopção do programa.
 
 2 - O montante da contribuição anual da Comunidade será adoptado no âmbito do procedimento orçamental, sem prejuízo dos outros modos de intervenção eventual da Comunidade. A soma dos custos estimados dos programas específicos não deve ultrapassar o financiamento previsto pelo programa quadro.
 
-###### Art. 130.º-Q - 1 - O Conselho adoptará por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu e do Comité Económico e Social, as disposições referidas nos artigos 130.º-I e 130.º-O.
+Art. 130.º-Q - 1 - O Conselho adoptará por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu e do Comité Económico e Social, as disposições referidas nos artigos 130.º-I e 130.º-O.
 
 2 - O Conselho adoptará por maioria qualificada, sob proposta da Comissão, após consulta do Comité Económico e Social e em cooperação com o Parlamento Europeu, as disposições referidas nos artigos 130.º-K, 130.º-L, 130.º-M e 130.º-N e no n.º 1 do artigo 130.º-P. A adopção dos programas complementares requer, além disso, o acordo dos Estados membros interessados.
 
 ##### SUBSECÇÃO VI — O ambiente
 
-###### Art. 25.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título VII, com a seguinte redacção:
+Art. 25.º No [Tratado CEE](https://diariodarepublica.pt/application/external/tratado), à parte III é aditado um título VII, com a seguinte redacção:
 
 ## TÍTULO VII — O ambiente
 
-###### Art. 130.º-R - 1 - A acção da Comunidade em matéria de ambiente tem por objectivo:
+Art. 130.º-R - 1 - A acção da Comunidade em matéria de ambiente tem por objectivo:
 
 Preservar, proteger e melhorar a qualidade do ambiente;
 
@@ -486,17 +517,17 @@ O desenvolvimento económico e social da Comunidade no seu conjunto e o desenvol
 
 O parágrafo anterior não prejudica a competência dos Estados membros para negociarem nas instâncias internacionais e para concluírem acordos internacionais.
 
-###### Art. 130.º-S. O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu e do Comité Económico e Social, decidirá qual a acção a empreender pela Comunidade.
+Art. 130.º-S. O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu e do Comité Económico e Social, decidirá qual a acção a empreender pela Comunidade.
 
 O Conselho definirá, nas condições previstas no parágrafo anterior, as matérias que devem ser objecto de decisões a adoptar por maioria qualificada.
 
-###### Art. 130.º-T. As medidas de protecção adoptadas em comum nos termos do artigo 130.º-S não constituem obstáculo à manutenção e ao estabelecimento por cada Estado membro de medidas de protecção reforçadas compatíveis com o presente Tratado.
+Art. 130.º-T. As medidas de protecção adoptadas em comum nos termos do artigo 130.º-S não constituem obstáculo à manutenção e ao estabelecimento por cada Estado membro de medidas de protecção reforçadas compatíveis com o presente Tratado.
 
 ### CAPÍTULO III — Disposições que alteram o Tratado que institui a Comunidade Europeia de Energia Atómica
 
-###### Art. 26.º Ao Tratado CEEA são aditadas as disposições seguintes:
+Art. 26.º Ao Tratado CEEA são aditadas as disposições seguintes:
 
-###### Art. 140.º-A - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas. Essa jurisdição não terá competência para conhecer de processos apresentados por Estados membros ou por instituições comunitárias, nem de questões prejudiciais submetidas nos termos do artigo 150.º
+Art. 140.º-A - 1 - A pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, o Conselho, deliberando por unanimidade, pode associar ao Tribunal de Justiça uma jurisdição encarregada de conhecer em 1.ª instância, sem prejuízo de recurso para o Tribunal de Justiça limitado às questões de direito e nas condições fixadas pelo Estatuto, de certas categorias de acções propostas por pessoas singulares ou colectivas. Essa jurisdição não terá competência para conhecer de processos apresentados por Estados membros ou por instituições comunitárias, nem de questões prejudiciais submetidas nos termos do artigo 150.º
 
 2 - O Conselho, actuando de acordo com o procedimento previsto no n.º 1, fixa a composição dessa jurisdição e adopta as adaptações e as disposições complementares necessárias ao Estatuto do Tribunal de Justiça. Salvo decisão em contrário do Conselho, são aplicáveis a essa jurisdição as disposições do presente Tratado relativas ao Tribunal de Justiça, nomeadamente as disposições do Protocolo sobre o Estatuto do Tribunal de Justiça.
 
@@ -504,21 +535,21 @@ O Conselho definirá, nas condições previstas no parágrafo anterior, as maté
 
 4 - Essa jurisdição estabelece o respectivo regulamento processual de acordo com o Tribunal de Justiça. Esse regulamento é submetido à aprovação unânime do Conselho.
 
-###### Art. 27.º Ao artigo 160.ºdo [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) é aditado um segundo parágrafo, com a seguinte redacção:
+Art. 27.º Ao artigo 160.ºdo [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) é aditado um segundo parágrafo, com a seguinte redacção:
 
 O Conselho, deliberando por unanimidade, a pedido do Tribunal de Justiça e após consulta da Comissão e do Parlamento Europeu, pode alterar as disposições do título III do Estatuto.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 28.º As disposições do presente Acto não prejudicam as disposições dos instrumentos de Adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias.
+Art. 28.º As disposições do presente Acto não prejudicam as disposições dos instrumentos de Adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias.
 
-###### Art. 29.º No n.º 2 do artigo 4.º da Decisão [85/257/CEE](http://data.europa.eu/eli/dec/1985/257/oj?locale=pt), EURATOM, do Conselho de 7 de Maio de 1985, relativa ao sistema de recursos próprios das Comunidades, a expressão «cujo montante e chave de repartição são fixados nos termos de uma decisão do Conselho, deliberando por unanimidade» é substituída pela expressão «cujo montante e chave de repartição são fixados nos termos de uma decisão do Conselho, deliberando por maioria qualificada após ter obtido o acordo dos Estados membros em causa».
+Art. 29.º No n.º 2 do artigo 4.º da Decisão [85/257/CEE](http://data.europa.eu/eli/dec/1985/257/oj?locale=pt), EURATOM, do Conselho de 7 de Maio de 1985, relativa ao sistema de recursos próprios das Comunidades, a expressão «cujo montante e chave de repartição são fixados nos termos de uma decisão do Conselho, deliberando por unanimidade» é substituída pela expressão «cujo montante e chave de repartição são fixados nos termos de uma decisão do Conselho, deliberando por maioria qualificada após ter obtido o acordo dos Estados membros em causa».
 
 A presente alteração não afecta a natureza jurídica da Decisão acima referida.
 
 ## TÍTULO III — Disposições sobre a cooperação europeia em matéria de política estrangeira
 
-###### Art. 30.º A cooperação europeia em matéria de política estrangeira rege-se pelas seguintes disposições:
+Art. 30.º A cooperação europeia em matéria de política estrangeira rege-se pelas seguintes disposições:
 
 1 - As Altas Partes contratantes, membros das Comunidades Europeias, esforçam-se por formular e aplicar em comum uma política estrangeira europeia.
 
@@ -580,17 +611,17 @@ g) Um secretariado estabelecido em Bruxelas assiste a presidência na preparaç�
 
 ## TÍTULO IV — Disposições gerais e finais
 
-###### Art. 31.º As disposições do Tratado que institui a Comunidade Europeia do Carvão e do Aço, do Tratado que institui a Comunidade Económica Europeia e do Tratado que instituí a Comunidade Europeia de Energia Atómica que dizem respeito à competência do Tribunal de Justiça das Comunidades Europeias e ao exercício dessa competência são aplicáveis apenas às disposições do título II e ao artigo 32.º; aplicam-se estas disposições nas mesmas condições que as disposições dos referidos Tratados.
+Art. 31.º As disposições do Tratado que institui a Comunidade Europeia do Carvão e do Aço, do Tratado que institui a Comunidade Económica Europeia e do Tratado que instituí a Comunidade Europeia de Energia Atómica que dizem respeito à competência do Tribunal de Justiça das Comunidades Europeias e ao exercício dessa competência são aplicáveis apenas às disposições do título II e ao artigo 32.º; aplicam-se estas disposições nas mesmas condições que as disposições dos referidos Tratados.
 
-###### Art. 32.º Sem prejuízo do n.º 1 do artigo 3.º, do título II e do artigo 31.º, nenhuma disposição do presente Acto afecta os tratados que instituem as Comunidades Europeias nem os tratados e actos subsequentes que os alteraram ou completaram.
+Art. 32.º Sem prejuízo do n.º 1 do artigo 3.º, do título II e do artigo 31.º, nenhuma disposição do presente Acto afecta os tratados que instituem as Comunidades Europeias nem os tratados e actos subsequentes que os alteraram ou completaram.
 
-###### Art. 33.º - 1 - O presente Acto será ratificado pelas Altas Partes contratantes, em conformidade com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
+Art. 33.º - 1 - O presente Acto será ratificado pelas Altas Partes contratantes, em conformidade com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
 
 2 - O presente Acto entrará em vigor no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que tiver procedido a esta formalidade em último lugar.
 
-###### Art. 34.º O presente Acto, redigido num único exemplar, em línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
+Art. 34.º O presente Acto, redigido num único exemplar, em línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos governos dos outros Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29601/00010014.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29601/00010014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29601/00010014.pdf)
 
 Acta final
 

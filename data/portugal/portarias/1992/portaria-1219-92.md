@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/299b00/59835983.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1219/1992/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1219-1992-621733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de0dcc1a2d1ef524e594160fb52376c095061bdbaa58e00bb270b954a06da997
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fd77b3b7fa1ae896cfef089bd9d2356519743712e698a6144cee10921d8d20d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/142/1992/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/142/1992/03/05/p/dre
+- type: cites
+  target: pt:dre:168625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191557:por
+  label: "Revogada, com a entrada em vigor, pelo DEC LEI.400/98.1998.12.17.MECO DR.IS-A [290], sem prejuízo da aplicação do\
+    \ disposto em relação à manutenção do quadro de pessoal previsto no DR 17/90, de 30-Jun, como referido no art. 3.º do\
+    \ mesmo Dec Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1998-191557
+  date: '1998-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:41Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +132,10 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, ao abr
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 24 de Novembro de 1992.**
+Assinada em 24 de Novembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Mapa anexo à Portaria n.º 1219/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/299b00/59835983.pdf))](https://files.diariodarepublica.pt/1s/1992/12/299b00/59835983.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/299b00/59835983.pdf)

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 154/1991, 1º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3494-(10) a 3494-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b01/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-i/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-i-1991-206057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91cf5c096c8df7ae281555a2131390599c2f4ae96868ccf1343fd3e0a56f82c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e77d3f908f8e14cfb5ec397b33ff935664d9bda705d0a6b0e9ff98267534edf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,64 @@ relationships:
   target: pt:dre:439144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197501:por
+  label: "Suspenso o exercício da caça pela PORT.881/2002.2002.07.26.MECO DR.IS-B [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/881-2002-197501
+  date: '2002-07-26'
+- type: amended_by
+  target: pt:dre:425963:por
+  label: "Cessada a suspensão na zona de caça turística atribuída pelo presente diploma pela PORT.1416/2002.2002.11.04.MECO,DR.IS-B\
+    \ [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1416-2002-425963
+  date: '2002-11-04'
+- type: amended_by
+  target: pt:dre:239658:por
+  label: "Transferida para a Sociedade de Caça Aldinha, Lda a zona de caça turística pela PORT.321/2003.2003.04.21.MECO, DR.IS-B\
+    \ [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2003-239658
+  date: '2003-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439144:por
+  label: "Revogada a presente portaria e extinta a zona de caça atribuída pela mesma, alterada pela Port 321/2003, de 21-Abr,\
+    \ e concessionada zona de caça turística de Besteirinhos e outras, pela PORT.1275/2008.06.11.2008.MADRP, DR.IS [216] de\
+    \ 06.11.2008, a partir de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1275-2008-439144
+  date: '2008-11-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:03Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +164,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Junho de 1991.**
+Assinada em 27 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b01/00100010.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b01/00100010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b01/00100010.pdf)

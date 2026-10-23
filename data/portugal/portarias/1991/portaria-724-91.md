@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/168b00/37063707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/724/1991/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/724-1991-662519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db193f7aa6ddf92bea810747547de6bd4796286744dbcee0e01dbb12ecc8df2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b08a0587ff6b763ae840beddacaa0b3aca623cd4e90d94eae4b07280b5603f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Básico
 - Manual Escolar
 - Preço
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:540784:por
@@ -79,16 +79,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/186/1991/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/186/1991/03/04/p/dre
+- type: cites
+  target: pt:dre:466845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540784:por
+  label: "Revogada a Port 186/91 de 04-Mar, na redacção do presente diploma, pela Lei.47/2006.28.08.2006.AR, DR.IS [165] de\
+    \ 28.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-2006-540784
+  date: '2006-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:33Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +135,6 @@ Manda o Governo, pelos Ministros da Educação e do Comércio e Turismo, o segui
 
 Ministérios da Educação e do Comércio e Turismo.
 
-**Assinada em 24 de Junho de 1991.**
+Assinada em 24 de Junho de 1991.
 
 Pelo Ministro da Educação, José Pedro d'Orey da Cunha e Menezes, Secretário de Estado da Reforma Educativa. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

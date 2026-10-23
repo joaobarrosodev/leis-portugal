@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-1990-554988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06135a918cd9ffbc716f2ec9c9ff15b8581f76139ece0771ff0909d5c1b8fd5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11e5ae81231ac367a3c26a2fb5f3969cc406c8de26d38a0e21c43b22a57a0769
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direitos Civis
+- Direitos Políticos
+- Pacto Internacional sobre os Direitos Civis e Políticos
+- Pena de Morte
+relationships:
+- type: amended_by
+  target: pt:dre:554989:por
+  label: "Ratificado o segundo Protocolo Adicional ao Pacto Internacional pelo DEC.54/90.27.09.1990.PR, DR.IS [224] de 27.09.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/54-1990-554989
+  date: '1990-09-27'
+- type: corrected_by
+  target: pt:dre:479014:por
+  label: "Rectificada pela RECT.3/91.1991.01.14.AR, DR.IS-A [31] de 06/Fev/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/3-1991-479014
+  date: '1991-01-14'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:47Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +104,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Julho de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 DRAFT SECOND OPTIONAL PROTOCOL TO THE INTERNATIONAL COVENANT ON CIVIL AND POLITICAL RIGHTS AIMING AT THE ABOLITION OF THE DEATH PENALTY
 
@@ -251,7 +266,7 @@ O disposto no presente Protocolo aplica-se, sem limitação ou excepção, a tod
 
 ###### Artigo 10.º
 
-**O Secretário-Geral da Organização das Nações Unidas informará todos os Estados referidos no n.º 1 do artigo 48.º do Pacto:**
+O Secretário-Geral da Organização das Nações Unidas informará todos os Estados referidos no n.º 1 do artigo 48.º do Pacto:
 
 a) Das reservas, comunicações e notificações recebidas nos termos do artigo 2.º do presente Protocolo;
 

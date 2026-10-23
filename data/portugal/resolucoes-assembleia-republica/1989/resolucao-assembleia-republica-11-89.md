@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1989-610765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f3acc42862ed833990ae34c52b0e76b9b6aeacbfd27aaf44f8d74ff32b6c432
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42bb5157fdc476d5fee5140cbcf9e9218958183b5f9cc1b2cb489e538f0bc351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Jurídica
+- Guiné-Bissau
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:573491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573491:por
+  label: "Aprovado o Protocolo Adicional ao Acordo de Cooperação Jurídica pelo DEC.34/90.09.08.1990.MNE, DR.IS [183]] de 09.08.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/34-1990-573491
+  date: '1990-08-09'
 article_structure:
   article_count: 130
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 46
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:56Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +103,11 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 11 de Abril de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ACORDO DE COOPERAÇÃO JURÍDICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
 
-# PARTE I — Cooperação judiciária
+## PARTE I — Cooperação judiciária
 
 ## TÍTULO I — Cláusulas gerais
 
@@ -133,7 +143,9 @@ Os advogados e solicitadores nacionais de um dos Estados Contratantes poderão e
 
 ## TÍTULO II — Cooperação em matéria cível
 
-## SUBTÍTULO I — Actos judiciais
+SUBTÍTULO I
+
+Actos judiciais
 
 ### CAPÍTULO I — Actos rogados
 
@@ -203,7 +215,9 @@ Os Estados Contratantes têm a faculdade de mandar praticar, sem coacção, pelo
 
 Para o efeito do disposto nos artigos 10.º e 11.º, em caso de conflito de leis, a nacionalidade do destinatário do acto determina-se pela lei do Estado onde ele deva ter lugar.
 
-## SUBTÍTULO III — Eficácia das decisões judiciais
+SUBTÍTULO III
+
+Eficácia das decisões judiciais
 
 ###### Artigo 13.º — Revisão
 
@@ -367,7 +381,9 @@ Os Estados Contratantes cuja lei imponha restrições a transferências de fundo
 
 ## TÍTULO III — Cooperação em matéria penal e de contra-ordenação social
 
-## SUBTÍTULO I — Auxílio em matéria penal e de contra-ordenação social
+SUBTÍTULO I
+
+Auxílio em matéria penal e de contra-ordenação social
 
 ### CAPÍTULO I — Auxílio
 
@@ -489,7 +505,9 @@ Nestes casos, a correspondência será trocada entre os Ministros da Justiça do
 
 4 - A correspondência terá lugar entre os Ministros da Justiça dos Estados Contratantes.
 
-## SUBTÍTULO II — Extradição
+SUBTÍTULO II
+
+Extradição
 
 ### CAPÍTULO I — Condições de extradição
 
@@ -731,7 +749,9 @@ b) As despesas do envio ao Estado requerente de coisas apreendidas nos termos do
 
 c) As despesas causadas pelo trânsito de extraditado provindo de terceiro Estado.
 
-## SUBTÍTULO III — Eficácia das sentenças criminais
+SUBTÍTULO III
+
+Eficácia das sentenças criminais
 
 ### CAPÍTULO I — Definições
 
@@ -1177,7 +1197,7 @@ Os Estados Contratantes tomarão as medidas legislativas que considerarem apropr
 
 Os Estados Contratantes tomarão as medidas legislativas que considerarem apropriadas ao fim de permitirem que seja tomada em consideração qualquer sentença criminal contraditória, para o efeito de condenação em privação de direitos, total ou parcial, que, segundo as leis nacionais, for consequência das sentenças proferidas nos respectivos territórios. Os mesmos Estados determinarão as condições em que aquela sentença deverá ser tomada em consideração.
 
-# PARTE II — Cooperação em matéria de identificação, registos e notariado, formação e informação
+## PARTE II — Cooperação em matéria de identificação, registos e notariado, formação e informação
 
 ## TÍTULO I — Identificação
 
@@ -1231,7 +1251,7 @@ Os Estados Contratantes obrigam-se reciprocamente a comunicar, logo que possíve
 
 4 - A colaboração na formação de pessoal será objecto de acordos específicos.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### Artigo 128.º — Autenticação e legalização de documentos
 

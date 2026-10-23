@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/66/2000/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-2000-533382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 164dbfa32539c279debec0e6cdba52f36fb913a58cf6ee49a821fd68a716c9c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aad4eca226f7c078be165ab137bcd6ed1f6549415595adbf666aa5444e92aa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - AEE
 - Convenção
-- Portugal
-- ACTO Constitutivo
 - Paris
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:533380:por
+  label: "Ratificada a presente Convenção pelo DEC.42/2000.2000.10.19.PR,DR.IS-A [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/42-2000-533380
+  date: '2000-10-19'
 article_structure:
-  article_count: 99
+  article_count: 60
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:05Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de Julho de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION FOR THE ESTABLISHMENT OF A EUROPEAN SPACE AGENCY
 
@@ -3062,9 +3067,11 @@ No quadro da reforma do sistema financeiro da Agência, e por forma a permitir a
 
 2 - Cada Estado membro pagará as suas contribuições em ecus e, subsequentemente, na unidade que lhe vier a suceder, conforme referido no n.º 1 acima.
 
-## ANEXO III — Programas facultativos abrangidos pela alínea b) do n.º 1 do artigo 5.º da Convenção
+ANEXO III
 
-###### Artigo 1.º
+Programas facultativos abrangidos pela alínea b) do n.º 1 do artigo 5.º da Convenção
+
+Artigo 1.º
 
 1 - Apresentada proposta para aprovação de programa facultativo abrangido pela alínea b) do n.º 1 do artigo 5.º da Convenção, deve a mesma ser comunicada pelo Presidente do Conselho a todos os Estados membros para apreciação.
 
@@ -3082,13 +3089,13 @@ d) A duração e o montante do primeiro compromisso financeiro firme.
 
 4 - Se um Estado participante não estiver em condições de subscrever as disposições enunciadas na declaração e no regulamento de execução dentro do prazo limite referido na Declaração, esse Estado deixará de ser Estado participante. Outros Estados membros poderão subsequentemente tornar-se Estados participantes subscrevendo as disposições em condições a definir com os Estados participantes.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - O programa será executado em conformidade com as disposições da Convenção e, salvo estipulação em contrário do presente anexo ou do regulamento de execução, com as normas e procedimentos em vigor na Agência. As decisões do Conselho serão tomadas em conformidade com o presente anexo e com o regulamento da execução. Na falta de disposições específicas deste anexo ou do regulamento de execução, aplicam-se as regras de voto fixadas na Convenção ou no regimento interno do Conselho.
 
 2 - As decisões relativas ao arranque de uma nova fase são tomadas por maioria de dois terços de todos os Estados participantes, contanto que esta maioria represente pelo menos dois terços das contribuições para o programa. Se a decisão de iniciar uma nova fase não puder ser tomada, os Estados participantes que desejarem, não obstante, prosseguir na execução do programa, procedem a consultas mútuas e fixam os termos dessa continuação, informando em conformidade o Conselho que, sendo caso disso, tomará as medidas consideradas necessárias.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Se o programa compreender uma fase de definição de projecto, os Estados participantes procederão, no final dessa fase, a uma reavaliação do custo do programa. Se essa reavaliação revelar um aumento dos custos que exceda 20% da provisão financeira indicativa referido no artigo 1.º, qualquer dos Estados participantes poderá retirar-se do programa. Os Estados participantes que desejarem, não obstante, prosseguir na execução do programa, procedem a consultas mútuas e fixam os termos dessa continuação, informando em conformidade o Conselho que, sendo caso disso, tomará as medidas consideradas necessárias.
 
@@ -3102,11 +3109,11 @@ a) Nenhum dos Estados participantes pode retirar-se do programa se não se verif
 
 b) Em caso de aumento cumulativo dos custos superior a 20% do montante da previsão financeira considerada, qualquer dos Estados participantes pode retirar-se do programa. Os Estados participantes que desejarem, não obstante, prosseguir na execução do programa, procedem a consultas mútuas e fixam os termos dessa continuação, informando em conformidade o Conselho que, sendo caso disso, tomará as medidas consideradas necessárias.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A Agência, agindo por conta dos Estados participantes, é a proprietária dos satélites, sistemas espaciais e outros bens produzidos no âmbito do programa, bem como das instalações e equipamentos adquiridos para a sua execução. Qualquer transmissão da propriedade é decidida pelo Conselho.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - A denúncia da Convenção por parte de um Estado membro implica a retirada deste Estado membro de todos os programas em que participe. O artigo 24.º da Convenção aplica-se aos direitos o obrigações emergentes destes programas.
 
@@ -3114,15 +3121,17 @@ A Agência, agindo por conta dos Estados participantes, é a proprietária dos s
 
 3 - O Estado participante que decida não continuar a participar num programa nos termos do n.º 2 do artigo 2.º ou se retire de um programa nos termos do n.º 1 do artigo 3.º e da alínea b) do n.º 4 do artigo 3.º, conserva os direitos adquiridos pelos Estados participantes até à data de entrada em vigor da retirada. Após essa data, nenhum direito ou obrigação emergirá para ele da parte do programa em que deixa de participar. Permanecerá obrigado a financiar a sua quota-parte das dotações de pagamento correspondentes às dotações de autorização aprovadas no âmbito do orçamento para o exercício em curso ou exercícios anteriores e relativos à fase do programa cuja execução está em curso. Não obstante, os Estados participantes podem acordar por unanimidade, na declaração, que um Estado que decida não continuar a participar num programa ou dele se retire fique obrigado a solver a totalidade da sua quota-parte da previsão inicial ou das previsões específicas do programa.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Os Estados participantes podem decidir não continuar a execução de um programa por maioria de dois terços de todos os Estados participantes que representem pelo menos dois terços das contribuições para o programa.
 
 2 - A Agência notifica os Estados participantes da conclusão do programa em conformidade com o regulamento de execução, deixando este de vigorar desde a recepção dessa notificação.
 
-## ANEXO IV — Internacionalização de programas nacionais
+ANEXO IV
 
-###### Artigo 1.º
+Internacionalização de programas nacionais
+
+Artigo 1.º
 
 O principal objectivo da internacionalização dos programas nacionais é o de permitir a cada Estado membro proporcionar aos outros Estados membros a possibilidade de participarem, no quadro da Agência, em novos projectos espaciais civis que pretenda empreender, quer isoladamente quer em colaboração com outro Estado membro. Nesta perspectiva:
 
@@ -3136,7 +3145,7 @@ d) O Estado membro que toma a iniciativa do projecto envidará os melhores esfor
 
 e) A execução de um projecto dentro do âmbito da Agência não fica excluída pelo mero facto de o projecto não suscitar a participação de outros Estados membros na medida proposta inicialmente pelo Estado membro que toma a iniciativa do projecto.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Os Estados membros devem envidar os melhores esforços no sentido de os projectos espaciais bilaterais ou multilaterais que empreendam em cooperação com Estados não membros não prejudiquem os objectivos científicos, económicos ou industriais da Agência. Em particular:
 
@@ -3144,9 +3153,11 @@ a) Informarão a Agência desses projectos, na medida em que, em sua opinião, t
 
 b) Discutirão com os demais Estados membros os projectos objecto dessa comunicação, no propósito de estabelecer o quadro de uma participação mais alargada. Se se verificar que essa participação mais alargada é possível, aplicam-se os, procedimentos previstos nas alíneas b) a e) do artigo 1.º
 
-## ANEXO V — Política industrial
+ANEXO V
 
-###### Artigo 1.º
+Política industrial
+
+Artigo 1.º
 
 1 - Na implementação da política industrial referida no artigo 7.º da Convenção o Director-Geral deve agir em conformidade com o disposto no presente anexo e com as directivas do Conselho.
 
@@ -3164,7 +3175,7 @@ e) As relações entre a capacidade produtiva industrial e os mercados potenciai
 
 f) A organização do diálogo com os industriais, por forma a poder acompanhar e, se for caso disso, adaptar a: política industrial da Agência.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - Na colocação de todos os contratos, a Agência dará preferência à indústria e às organizações dos Estados membros. No entanto, no seio de cada programa facultativo abrangido pela alínea b) do n.º 1 do artigo 5.º da Convenção, será dada particular preferência à indústria e às organizações dos Estados participantes.
 
@@ -3172,7 +3183,7 @@ f) A organização do diálogo com os industriais, por forma a poder acompanhar 
 
 3 - A questão de saber se uma empresa deve ou não ser considerada pertencente a um dos Estados membros será decidida à luz dos seguintes critérios: localização da sede social da empresa, dos seus centros de decisão e dos seus centros de investigação, e território em que os trabalhos devem ser executados. Nos casos duvidosos, compete ao Conselho decidir se uma empresa deve ou não ser considerada pertencente a um dos Estados membros.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O Director-Geral deve, no estádio inicial dos tratos conducentes à adjudicação do contrato e antes do envio dos convites à apresentação de propostas, submeter a aprovação do Conselho a sua proposta de política de aprovisionamento a seguir relativamente a todos os contratos:
 
@@ -3190,7 +3201,7 @@ b) Quando, por razões específicas, o Conselho haja decidido proceder a um novo
 
 4 - O Director-Geral deve apresentar ao Conselho, em períodos regulares a definir, um relatório sobre os contratos adjudicados no decurso do último período e dos actos contratuais previstos para o período seguinte, de modo a que o Conselho possa acompanhar a implementação da política industrial da Agência.
 
-###### Artigo 4.º
+Artigo 4.º
 
 A repartição geográfica do conjunto dos contratos da Agência regula-se pelas seguintes regras gerais:
 
@@ -3212,13 +3223,13 @@ b) Ao abrigo da alínea b) do n.º 1 do artigo 5.º da presente Convenção, con
 
 7) Avaliações distintas dos coeficientes de rendibilidade serão efectuadas e comunicadas ao Conselho para várias categorias de contratos a definir por este, em especial para os contratos de investigação e desenvolvimento avançados e os contratos sobre tecnologias associadas aos projectos. O Director-Geral discutirá estas avaliações com o Conselho a períodos regulares a definir, no propósito de determinar as medidas necessárias à correcção de eventuais desequilíbrios.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Se, por ocasião de um dos exames formais a realizar no final de cada triénio, o coeficiente de rendibilidade global de um Estado membro se situar abaixo do limite inferior definido no n.º 6 do artigo 4.º, o Director-Geral deve submeter ao Conselho propostas no sentido de corrigir a situação dentro do prazo de um ano. Estas propostas devem manter-se no quadro da normação da Agência que regula a colocação dos contratos.
 
 2 - Se, após esse período de um ano, o desequilíbrio persistir, o Director-Geral deve submeter ao Conselho propostas em que a necessidade de reparar a situação prevalece sobre as normas da Agência que regulam a colocação dos contratos.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Qualquer decisão tomada por motivos de política industrial e que resulte na exclusão de uma determinada empresa ou organização de um Estado membro de se candidatar à atribuição de contratos da Agência num dado domínio requer o acordo desse Estado membro.
 
@@ -3278,27 +3289,27 @@ CONSELHO DA AEE - REGIMENTO INTERNO
 
 I - Composição
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O Conselho é composto por representantes dos Estados membros da Agência. Reúne-se a nível de delegados ou a nível ministerial.
 
 2 - Cada Estado membro não pode ser representado, em princípio, por mais de dois delegados. A participação como delegado fica sujeita à exibição de credenciais emitidas pela autoridade nacional competente. Um delegado mantém-se no cargo até que o Director-Geral seja notificado da cessação da sua nomeação.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Cada Estado membro pode designar, por escrito, suplentes dos delegados. Os suplentes mantêm-se no cargo até que o Director-Geral seja notificado da cessação da sua nomeação.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os delegados podem fazer-se acompanhar por consultores, sendo o Director-Geral notificado dos seus nomes e profissões, antes de participarem nos trabalhos de qualquer reunião do Conselho.
 
-###### Artigo 4.º
+Artigo 4.º
 
 No início da reunião, o Director-Geral fará circular uma lista de participantes, com base nas informações recebidas dos Estados membros nos termos dos artigos 1.º, 2.º e 3.º supra.
 
 II - Presidência do Conselho
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - O Conselho elege, de entre os seus membros, pelo prazo de dois anos, um Presidente e dois vice-presidentes, que podem ser reeleitos uma vez por mais um ano. O mandato do Presidente e dos vice-presidentes inicia-se no dia 1 de Julho do ano da eleição.
 
@@ -3310,7 +3321,7 @@ II - Presidência do Conselho
 
 5 - O vice-presidente no exercício das funções de Presidente tem os mesmos poderes e deveres deste.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O Presidente dirige os trabalhos do Conselho. Não tem a posição jurídica de delegado de um Estado membro. No exercício das suas funções, fica sob a autoridade do Conselho.
 
@@ -3318,13 +3329,13 @@ II - Presidência do Conselho
 
 III - Gabinete do Conselho
 
-###### Artigo 7.º
+Artigo 7.º
 
-**O Presidente é assistido por um gabinete, composto por ele próprio e por um representante autorizado de cada Estado membro da Agência. Cada representante pode fazer-se acompanhar de um consultor. O Director-Geral deve ser notificado dos nomes e qualidades desses representantes e consultores antes da sua participação em qualquer reunião do gabinete. Quando pontos da ordem de trabalhos do Conselho interessem a um órgão subsidiário do Conselho ou a outro comité, o Presidente do Conselho pode também convidar o Presidente do referido órgão subsidiário ou comité a participar na reunião do gabinete. O Presidente pode igualmente convidar para a reunião os vice-presidentes do Conselho.**
+O Presidente é assistido por um gabinete, composto por ele próprio e por um representante autorizado de cada Estado membro da Agência. Cada representante pode fazer-se acompanhar de um consultor. O Director-Geral deve ser notificado dos nomes e qualidades desses representantes e consultores antes da sua participação em qualquer reunião do gabinete. Quando pontos da ordem de trabalhos do Conselho interessem a um órgão subsidiário do Conselho ou a outro comité, o Presidente do Conselho pode também convidar o Presidente do referido órgão subsidiário ou comité a participar na reunião do gabinete. O Presidente pode igualmente convidar para a reunião os vice-presidentes do Conselho.
 
 IV - Reuniões
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - O Conselho reúne sempre que necessário e, pelo menos, duas vezes por ano. As reuniões realizam-se na sede da Agência, salvo decisão diversa do Conselho.
 
@@ -3336,7 +3347,7 @@ IV - Reuniões
 
 5 - Se tiver de tratar de assuntos especialmente confidenciais, o Conselho reúne em sessão restrita.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Cabe ao Director-Geral, após consultas com o Presidente, elaborar um projecto de ordem de trabalhos, que deve circular pelos Estados membros pelo menos 15 dias antes de cada reunião. Este projecto de ordem de trabalhos abrange, nomeadamente, assuntos que o Conselho, em reunião anterior, tenha decidido incluir na ordem de trabalhos, qualquer assunto cuja inclusão tenha sido solicitada por uma delegação, quer em reunião anterior quer por carta endereçada ao Director-Geral três semanas, pelo menos, antes da reunião, assuntos propostos pelos órgãos subsidiários ou pelos outros comités da Agência e assuntos que o Director-Geral julgue necessário apresentar ao Conselho. Os documentos concernentes aos assuntos constantes do projecto da ordem de trabalhos devem ser circulados pelos Estados membros pelo menos quinze dias antes de cada reunião.
 
@@ -3344,7 +3355,7 @@ IV - Reuniões
 
 3 - No caso de uma reunião extraordinária, será circulada uma descrição detalhada dos pontos a debater juntamente com a convocatória da reunião; todos os documentos relativos à reunião devem circular pelo menos dez dias antes da data da reunião extraordinária.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Quando o Conselho reúna a nível ministerial, o projecto de ordem de trabalhos será elaborado pelo Director-Geral, após consultas com o Presidente do Conselho e com o ministro que tenha presidido à anterior reunião ministerial. As restantes disposições do artigo 9.º aplicam-se com as necessárias adaptações.
 
@@ -3352,7 +3363,7 @@ IV - Reuniões
 
 3 - A reunião ministerial deve ser convocada formalmente pelo ministro que presidiu à anterior reunião ministerial.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - O Director-Geral será o Secretário do Conselho; pode designar um membro do quadro de pessoal da Agência para exercer esta função em sua substituição.
 
@@ -3360,15 +3371,15 @@ IV - Reuniões
 
 V - Funções do presidente e direcção dos trabalhos
 
-###### Artigo 12.º
+Artigo 12.º
 
 Sem prejuízo do disposto no presente Regimento, compete ao Presidente orientar os trabalhos do Conselho e manter a ordem durante as suas reuniões. Declara a abertura e encerramento de cada reunião, dirige e resume os debates, se necessário, assegura a observância do presente Regimento, concede ou retira o uso da palavra, decide moções processuais, põe as propostas à votação o proclama as deliberações. Pode propor o adiamento ou encerramento do debato ou o adiamento ou suspensão de uma sessão. Antes de cada votação, acerta igualmente a existência de quórum.
 
-###### Artigo 13.º
+Artigo 13.º
 
 Ninguém pode tomar a palavra no Conselho sem prévia autorização do Presidente. Sem prejuízo do disposto no artigo 14.º o Presidente concede a palavra aos oradores pela ordem dos pedidos. O Presidente pode advertir qualquer orador cujas intervenções sejam estranhas ao assunto em debate.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Durante a reunião, qualquer delegado pode apresentar uma moção processual. O Presidente decidirá de imediato essa proposta. Qualquer delegado pode recorrer da decisão do Presidente, caso em que o recurso será debatido e posto à votação. A decisão do Presidente é mantida se não for anulada pela maioria das delegações presentes e votantes. Os delegados que intervenham sobre a moção processual não podem pronunciar-se sobre o fundo da questão.
 
@@ -3382,11 +3393,11 @@ c) Adiamento da questão em discussão;
 
 d) Encerramento do debate sobre a questão em discussão.
 
-###### Artigo 15.º
+Artigo 15.º
 
 Qualquer proposta na sua forma definitiva deve ser posta à votação. Se um delegado o solicitar deve ser apresentada ao Conselho por escrito. Neste caso, o Presidente não deve submetê-la ao Conselho enquanto os delegados que o desejem não estiverem na posse do texto da proposta.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Sempre que seja apresentada alteração a uma proposta, a alteração será posta à votação em primeiro lugar. Se forem apresentadas duas ou mais alterações, o Conselho votará primeiro aquela que o Presidente estime afastar-se mais, quanto ao fundo, da proposta inicial. Quando a adopção de uma alteração implique necessariamente a rejeição de outra alteração, esta última não será posta à votação.
 
@@ -3396,7 +3407,7 @@ Qualquer proposta na sua forma definitiva deve ser posta à votação. Se um del
 
 4 - Quando forem apresentadas duas ou mais propostas relativamente a uma mesma matéria, essas propostas, salvo decisão diversa do Conselho, são postas à votação pela ordem em que foram apresentadas. Após cada votação, o Conselho pode decidir votar ou não a proposta seguinte.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Cada Estado membro tem um voto no Conselho, excepto:
 
@@ -3410,7 +3421,7 @@ d) Em questões relacionadas exclusivamente com direitos ou obrigações da OEDC
 
 2 - Um Estado não membro pode ter direito a um voto se tal for previsto em eventual acordo celebrado entre ele e a Agência.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - É necessária a presença de delegados da maioria dos Estados membros para que haja quórum em qualquer reunião do Conselho. Em questões relacionadas exclusivamente com um programa facultativo, o quórum é constituído pela maioria dos Estados membros participantes. Em questões relacionadas com direitos ou obrigações da OEDCLVE/ELDO, o quórum é constituído pela maioria dos Estados membros dessa organização.
 
@@ -3420,19 +3431,19 @@ d) Em questões relacionadas exclusivamente com direitos ou obrigações da OEDC
 
 4 - O resultado de todas as votações deve constar da acta referida no artigo 21.º
 
-###### Artigo 19.º
+Artigo 19.º
 
 Uma vez que o Conselho aceite ou rejeite uma proposta, não é permitida a sua reapreciação num prazo de doze meses, salvo com o consentimento da mesma maioria que era necessária para a decisão original. Decorrido esse período, pode ser proposta revisão por qualquer Estado membro ou pelo Director-Geral.
 
 VI - Línguas
 
-###### Artigo 20.º
+Artigo 20.º
 
 O uso das línguas nas reuniões do Conselho e dos outros comités da Agência é regulado pelo disposto na Resolução n.º 8 anexa à Acta Final da Conferência de Plenipotenciários para a criação de uma Agência Espacial Europeia [...]
 
 VII - Actas
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - Após cada reunião do Conselho, o Director-Geral elabora um projecto de acta, donde conste o essencial dos debates e o registo das conclusões alcançadas.
 
@@ -3448,13 +3459,13 @@ c) Quando uma gravação em fita magnética da decisão não esteja disponível 
 
 5 - No início de cada reunião, o projecto de acta da reunião anterior, após ponderação de eventuais alterações apresentadas, será aprovado pelo Conselho.
 
-###### Artigo 22.º
+Artigo 22.º
 
 O Conselho decide das comunicações à imprensa respeitantes aos seus debates e conclusões.
 
 VIII - Observadores
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - O Conselho pode, mediante decisão unânime, conceder o estatuto de observador a Governos de Estados não membros e organizações internacionais. Este estatuto inclui o direito de se fazer representar nas reuniões do Conselho.
 
@@ -3464,7 +3475,7 @@ VIII - Observadores
 
 IX - Órgãos subsidiários
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - O Conselho pode criar os órgãos subsidiários que sejam necessários para os fins da Agência.
 
@@ -3474,6 +3485,6 @@ IX - Órgãos subsidiários
 
 X - Disposições finais
 
-###### Artigo 25.º
+Artigo 25.º
 
 O presente Regulamento pode ser alterado por decisão do Conselho.

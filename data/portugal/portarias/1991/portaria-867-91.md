@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/867/1991/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-1991-403326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff067fd4db80ae531383492fc9da7db4262e73a37a20cb8d1fcde846a761d1ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f81efa6a227ffae4f2229d332525c9e5b441efe1c1ca753a4bc2d3b1a36c5f78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ministério da Educação
-- Pessoal Operário
 - Pessoal Administrativo
 - Pessoal Auxiliar
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
@@ -79,16 +79,59 @@ relationships:
   target: pt:dre:2566238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:634501:por
+  label: "Alterado o quadro de pessoal, pela PORT.319/93.1993.03.19.MF, DR.IS-B [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-1993-634501
+  date: '1993-03-19'
+- type: amended_by
+  target: pt:dre:632436:por
+  label: "Alterado o quadro de pessoal não docente, pela PORT.758/93.1993.08.26.MF, DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-1993-632436
+  date: '1993-08-26'
+- type: amended_by
+  target: pt:dre:172958:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.228/95.1995.03.27.MF, DR.IS-B [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1995-172958
+  date: '1995-03-27'
+- type: amended_by
+  target: pt:dre:1324319:por
+  label: "Criados três lugares de assessor principal no quadro de pessoal, pela PORT.181/96IIS.1996.08.26.PCM, DR.IIS [232]\
+    \ de 07/Out/1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-1996-1324319
+  date: '1996-08-26'
+- type: amended_by
+  target: pt:dre:2376998:por
+  label: "Alterado o quadro de pessoal pela Port 842/97(2ªSÉRIE).1997.10.16.PCM, DR.IIS [248] de 25/Out/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/842-1997-2376998
+  date: '1997-10-16'
+- type: amended_by
+  target: pt:dre:2566238:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1244/2002(2ªSÉRIE).2002.06.26.MF, MCES, DR.IIS [194] DE 23/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1244-2002-2566238
+  date: '2002-06-26'
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658883:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:58Z'
   warnings: []
   errors: []
 ---
@@ -139,10 +182,10 @@ Um de auxiliar administrativo.
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 10 de Julho de 1991.**
+Assinada em 10 de Julho de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 Mapa anexo à Portaria n.º 867/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/192b00/43464349.pdf))](https://files.diariodarepublica.pt/1s/1991/08/192b00/43464349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/192b00/43464349.pdf)

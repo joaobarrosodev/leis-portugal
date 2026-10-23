@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/68/2006/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2006-545581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ba850db531e7ffca8730089a1c768741e8bd75a31ca71623f78c367319598a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8abf6aa2964ec62605057b684cbf089c85ac9f4f7dd96ef74eacfa6642bb04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Cooperação Interempresas
-- Portugal
-- Eslovénia
-- Hungria
-- Lucro
-- Polónia
-- Dupla Tributação
-- República Checa
-- Letónia
 - Bruxelas
 - Chipre
+- Convenção
+- Cooperação Interempresas
+- Dupla Tributação
 - Eslováquia
+- Eslovénia
 - Estónia
-- Malta
+- Hungria
+- Letónia
 - Lituânia
-relationships: []
+- Lucro
+- Malta
+- Polónia
+- Portugal
+- República Checa
+relationships:
+- type: amended_by
+  target: pt:dre:545584:por
+  label: "Ratificada a Convenção sobre a Adesão de vários países à Convenção Relativa à Eliminação da Dupla Tributação em\
+    \ Caso de Correcção de Lucros entre Empresas Associadas, incluindo a acta de assinatura com as Declarações, aprovada para\
+    \ ratificação pelo presente diploma, pelo DEC.124/2006.11.12.2006.PR, DR.IS [236] de 11.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-2006-545584
+  date: '2006-12-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:37Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +115,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENÇÃO SOBRE A ADESÃO DA REPÚBLICA CHECA, DA REPÚBLICA DA ESTÓNIA, DA REPÚBLICA DE CHIPRE, DA REPÚBLICA DA LETÓNIA, DA REPÚBLICA DA LITUÂNIA, DA REPÚBLICA DA HUNGRIA, DA REPÚBLICA DE MALTA, DA REPÚBLICA DA POLÓNIA, DA REPÚBLICA DA ESLOVÉNIA E DA REPÚBLICA ESLOVACA À CONVENÇÃO RELATIVA À ELIMINAÇÃO DA DUPLA TRIBUTAÇÃO EM CASO DE CORRECÇÃO DE LUCROS ENTRE EMPRESAS ASSOCIADAS.
 
@@ -120,49 +127,49 @@ decidiram celebrar a presente Convenção, tendo para o efeito designado como pl
 
 Sua Majestade o Rei dos Belgas,
 
-**O Presidente da República Checa,**
+O Presidente da República Checa,
 
 Sua Majestade a Rainha da Dinamarca,
 
-**O Presidente da República Federal da Alemanha,**
+O Presidente da República Federal da Alemanha,
 
-**O Presidente da República da Estónia,**
+O Presidente da República da Estónia,
 
-**O Presidente da República Helénica,**
+O Presidente da República Helénica,
 
 Sua Majestade o Rei de Espanha,
 
-**O Presidente da República Francesa,**
+O Presidente da República Francesa,
 
-**A Presidente da Irlanda,**
+A Presidente da Irlanda,
 
-**O Presidente da República Italiana,**
+O Presidente da República Italiana,
 
-**O Presidente da República de Chipre,**
+O Presidente da República de Chipre,
 
 O Conselho de Ministros da República da Letónia,
 
-**O Presidente da República da Lituânia,**
+O Presidente da República da Lituânia,
 
 Sua Alteza Real o Grão-Duque do Luxemburgo,
 
-**O Presidente da República da Hungria,**
+O Presidente da República da Hungria,
 
-**O Presidente de Malta,**
+O Presidente de Malta,
 
 Sua Majestade a Rainha dos Países Baixos,
 
-**O Presidente Federal da República da Áustria,**
+O Presidente Federal da República da Áustria,
 
-**O Presidente da República da Polónia,**
+O Presidente da República da Polónia,
 
-**O Presidente da República Portuguesa,**
+O Presidente da República Portuguesa,
 
-**O Presidente da República da Eslovénia,**
+O Presidente da República da Eslovénia,
 
-**O Presidente da República da Eslováquia,**
+O Presidente da República da Eslováquia,
 
-**O Presidente da República da Finlândia,**
+O Presidente da República da Finlândia,
 
 O Governo do Reino da Suécia,
 
@@ -184,7 +191,7 @@ a) A seguir à alínea a) é aditada a seguinte alínea:
 
 «b) Na República Checa:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)»
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)»
 
 b) A alínea b) passa a alínea c) e passa a ter a seguinte redacção:
 
@@ -234,11 +241,11 @@ j) A seguir à alínea j) são aditadas as seguintes alíneas:
 
 «k) Na República de Chipre:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 l) Na República da Letónia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 m) Na República da Lituânia:
 
@@ -280,11 +287,11 @@ q) A seguir à alínea t) são aditadas as seguintes alíneas:
 
 «u) Na República da Eslovénia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 v) Na República Eslovaca:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)»
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)»
 
 r) A alínea m) passa a alínea w);
 
@@ -312,11 +319,11 @@ t) A alínea o) passa a alínea y).
 
 - Na República de Chipre:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 - Na República da Letónia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 - Na República da Lituânia:
 
@@ -356,7 +363,7 @@ passa a ter a seguinte redacção:
 
 ###### Artigo 3.º
 
-**O Secretário-Geral do Conselho da União Europeia remeterá aos Governos da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca uma cópia autenticada:**
+O Secretário-Geral do Conselho da União Europeia remeterá aos Governos da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca uma cópia autenticada:
 
 - Da Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas;
 
@@ -378,7 +385,7 @@ A presente Convenção entra em vigor, nas relações entre os Estados contratan
 
 ###### Artigo 6.º
 
-**O Secretário-Geral do Conselho da União Europeia notifica todos os Estados Signatários:**
+O Secretário-Geral do Conselho da União Europeia notifica todos os Estados Signatários:
 
 a) Do depósito de cada instrumento de ratificação, aceitação ou aprovação;
 
@@ -388,7 +395,7 @@ b) Das datas de entrada em vigor da presente Convenção entre os Estados que a 
 
 A presente Convenção, redigida num único exemplar nas línguas alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, neerlandesa, maltesa, polaca, portuguesa e sueca, qualquer dos 21 textos fazendo igualmente fé, será depositada nos arquivos do Secretariado-Geral do Conselho da União Europeia. O Secretário-Geral remeterá uma cópia autenticada da presente Convenção a cada um dos Governos dos Estados signatários.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
 
 Acta de assinatura da Convenção sobre a Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca à Convenção Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas.
 
@@ -492,4 +499,4 @@ Por «penalidade grave» entende-se uma sanção por qualquer infracção ao dir
 
 Por «penalidade grave» entende-se uma «multa» por violação das obrigações fiscais entendidas como uma taxa imposta de acordo com a versão alterada da Lei da Administração Fiscal n.º 511/1992 da Colectânea de Leis, com leis fiscais pertinentes ou com a Lei da Contabilidade, entendendo-se por «penalidade» uma sanção imposta nos termos do Código Penal pela prática de infracções penais às leis acima mencionadas.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/83018309.pdf)

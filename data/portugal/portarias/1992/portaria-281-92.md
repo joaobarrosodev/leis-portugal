@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/1992/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-1992-189355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915856656040ccc822ff219db60358d781e0f81a89adda3f0e38e07d81d517a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ab6a29dcff513e5f200baaf1ddbe738df90be145ab0c688503cf7f635965ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Técnico de Controlo de Qualidade
 - Ensino Profissional
 - Escola Profissional de Tecnologias
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147616:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147616:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Electrónica/Comando, criado pelo presente diploma,\
+    \ que é revogado parcialmente, no que àquele curso se refere pela PORT.903/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no nº 9º da citada portaria \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2005-147616
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:16:03Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +123,8 @@ cujos planos de estudo se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/078b00/15981598.pdf))](https://files.diariodarepublica.pt/1s/1992/04/078b00/15981598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/078b00/15981598.pdf)

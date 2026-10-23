@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 154/1991, 2º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3494-(109) a 3494-(109)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b02/01090109.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-r5/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-r5-1991-205866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a738fc7049b815fd306be4333a8c1712b11c70de4ea95dd4fdb5b9234814c12f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2f3320ccf257f134bae7cca41e207a9af6d5c6c074251b9160bb03905b6ef67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,66 @@ relationships:
   target: pt:dre:494240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476520:por
+  label: "Renovada por seis anos a concessão de zona de caça pela port.1221/2003.20.10.2003.MECO, DR.IS-B [243] de 20.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-2003-476520
+  date: '1991-08-08'
+- type: amended_by
+  target: pt:dre:651157:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e das\
+    \ actividades de carácter venatório, pela PORT.642/2003.2003.07.29.MADRP, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-2003-651157
+  date: '2003-07-29'
+- type: amended_by
+  target: pt:dre:248557:por
+  label: "Transferida para Maria Teresa Correia Martins Caiado Bolas a concessão da zona de caça turística de Vale de Asna,\
+    \ atribuída pelo presente diploma, renovada pela Port 1221/2003 de 20-Out, pela PORT.85/2008.25.01.2008.MAOTDR, DR.IS\
+    \ [18] de 25.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-2008-248557
+  date: '2008-01-25'
+- type: amended_by
+  target: pt:dre:494240:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística de Vale de Asna, concessionada pelo presente\
+    \ diploma, renovada pela Port 1221/2003 de 20-Out e transferida a concessão pela Port 85/2008 de 25-Jan, pela PORT.599/2009.04.06.2009.MAOTDR,\
+    \ DR.IS [108] de 04.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-2009-494240
+  date: '2009-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:10Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +165,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b02/01090109.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b02/01090109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/01090109.pdf)

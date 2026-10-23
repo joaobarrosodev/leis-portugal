@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/677/1991/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/677-1991-663533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0b184caa541ef815ec4117f3d849b14b1173a36deeb669a696876babfbc91e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db38e485786d72c63dd9cea95d1c99e55ed6b4122c5daaff80914e264f1df7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,77 @@ relationships:
   target: pt:dre:642253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195824:por
+  label: "Suspensa, por um período máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.706/97.1997.08.22.MADRP\
+    \ DR.IS-B [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/706-1997-195824
+  date: '1997-08-22'
+- type: amended_by
+  target: pt:dre:403759:por
+  label: "Renovada, por um período de 15 anos, a concessão atribuída pelo presente diploma, pela PORT.1229/97.1997.12.15.MECO\
+    \ E MADRP DR.IS-B [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1229-1997-403759
+  date: '1997-12-15'
+- type: amended_by
+  target: pt:dre:309000:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada pelo presente diploma pela PORT.428/99.1999.06.15.MECO,DR.IS-B\
+    \ [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-1999-309000
+  date: '1999-06-15'
+- type: amended_by
+  target: pt:dre:319962:por
+  label: "Anexado o prédio rústico denominado Pego à zona de caça turística constituída pelo presente diploma, com a redacção\
+    \ dada pelas Port 1229/97 de 15-Dez e 428/99 de 15-Jun, pela PORT.402/2000.2000.07.14.MECO DR.IS-B [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-2000-319962
+  date: '2000-07-14'
+- type: amended_by
+  target: pt:dre:626581:por
+  label: "Anexados vários prédios rústicos à zona de caça turística atribuída pelo presente diploma, pela PORT.1196/2002.2002.08.31.MECO,\
+    \ DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1196-2002-626581
+  date: '2002-08-31'
+- type: amended_by
+  target: pt:dre:642253:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pelo presente diploma, renovada pela Port 1229/97,\
+    \ de 15-Dez, e alterada pelas Port 428/99, de 15-Jun, Port 402/2000, de 14-Jul, e Port 1196/2002, de 31-Ago, pela PORT.1224/2007.21.09.2007.MADRP,\
+    \ DR.IS [183] de 21.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1224-2007-642253
+  date: '2007-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:21Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +179,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/160b00/35863586.pdf))](https://files.diariodarepublica.pt/1s/1991/07/160b00/35863586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/160b00/35863586.pdf)

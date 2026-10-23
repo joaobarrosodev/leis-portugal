@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 67/1990, 1º Suplemento, Série I de 1990-03-21
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1428-(2) a 1428-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf
 entry_into_force_dates: []
@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1990-339016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb0e9c22f99148220667af1a97777c0f2e9a13b029e4a0c898594489730c686d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ff76d1ddcc1624f32d716ae97183f9a1a34776c4a5e2153c3e0122e59d69c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Cooperação Cultural
+- Cooperação Económica
+- Cooperação Militar
+- Espanha
+- Portugal
+- Tratado de Bruxelas
+- UEO
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:334353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339017:por
+  label: "Ratificado o Protocolo Relativo à Adesão da República Portuguesa ao Tratado de Colaboração em Matéria Económica,\
+    \ Social e Cultural e de Legítima Defesa Colectiva, pelo DEC.15/90.21.03.1990.PR, DR.IS [[67]SUPL] de 21.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/15-1990-339017
+  date: '1990-03-21'
+- type: amended_by
+  target: pt:dre:334353:por
+  label: "Aprovado o recesso por parte da República Portuguesa ao Tratado, pela RES.67/2010.13.07.2010.AR, DR.IS [134] de\
+    \ 13.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/67-2010-334353
+  date: '2010-07-13'
 article_structure:
   article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:11Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +113,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Março de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 PROTOCOLE D'ADHÉSION DU ROYAUME D'ESPAGNE ET DE LA RÉPUBLIQUE PORTUGAISE AU TRAITÉ DE COLLABORATION EN MATIÈRE ÉCONOMIQUE, SOCIALE ET CULTURELLE ET DE LÉGITIME DÉFENSE COLLECTIVE, SIGNÉ À BRUXELLES LE 17 MARS 1948, AMENDÉ PAR LE PROTOCOLE MODIFIANT ET COMPLÉTANT LE TRAITÉ DE BRUXELLES, SIGNÉ À PARIS LE 23 OCTOBRE 1954.
 
@@ -456,7 +477,7 @@ Pour le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord:
 
 (nota 1) Ratification:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
 
 ANNEXE
 
@@ -802,7 +823,7 @@ Pour le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord:
 
 (nota 1) Ratification:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
 
 (nota 2) Le 6 mai 1955.
 
@@ -1492,15 +1513,15 @@ Considerando que o alargamento da União da Europa Ocidental ao Reino de Espanha
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Pelo presente Protocolo, o Reino de Espanha e a República Portuguesa aderem ao Tratado.
 
-ARTIGO II
+###### ARTIGO II
 
 Pela adesão ao Tratado, o Reino de Espanha e a República Portuguesa tornam-se Partes nos acordos concluídos entre os Estados membros, em aplicação do Tratado, cujos textos figuram em anexo ao presente Protocolo.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada um dos Estados signatários notificará o Governo Belga da aceitação, aprovação ou ratificação do presente Protocolo, o qual entrará em vigor no dia da recepção da última dessas notificações. O Governo Belga informará os Estados signatários de cada uma das notificações e da entrada em vigor do Protocolo.
 
@@ -1808,7 +1829,7 @@ Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
 (nota 1) Ratificações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
 
 ## ANEXO — Declaração dos Governos da Bélgica, do Luxemburgo e dos Países Baixos
 
@@ -1932,13 +1953,13 @@ Desejosos de concluir, para este efeito, um Tratado que regule a colaboração e
 
 convieram nas disposições seguintes:
 
-ARTIGO I
+###### ARTIGO I
 
 Convencidas da estreita comunhão dos seus interesses e da necessidade de se unirem para promover a recuperação económica da Europa, as Altas Partes Contratantes organizarão e coordenarão as suas actividades económicas, tendo em vista conseguir os melhores resultados possíveis, eliminando qualquer conflito respeitante à sua política económica, coordenando a produção e desenvolvendo as trocas comerciais.
 
 A cooperação estabelecida no parágrafo precedente, que será exercida designadamente pelo Conselho previsto no artigo VIII, não deve implicar qualquer sobreposição com a actividade de outras organizações económicas nas quais as Altas Partes Contratantes estejam ou possam vir a estar representadas e em nada prejudicará os respectivos trabalhos, mas, pelo contrário, auxiliar do modo mais eficaz a actividade dessas mesmas organizações.
 
-ARTIGO II
+###### ARTIGO II
 
 As Altas Partes Contratantes unirão todos os seus esforços através de consultas directas, ou no quadro de instituições especializadas, a fim de elevar o nível de vida dos seus povos e desenvolver, de forma harmoniosa, as actividades nacionais levadas a cabo no domínio social.
 
@@ -1946,33 +1967,33 @@ As Altas Partes Contratantes procederão a consultas com o objectivo de aplicar,
 
 As Altas Partes Contratantes esforçar-se-ão por concluir entre si, logo que possível, convenções no âmbito da segurança social.
 
-ARTIGO III
+###### ARTIGO III
 
 As Altas Partes Contratantes desenvolverão em conjunto todos os esforços com vista a conduzir os respectivos povos no sentido de uma compreensão mais profunda dos princípios que constituem a base da sua civilização comum, bem como a promover as trocas culturais, através de convenções a celebrar entre si ou por outros meios.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Na execução do Tratado, as Altas Partes Contratantes e quaisquer órgãos por si instituídos no âmbito do Tratado manterão uma estreita cooperação com a Organização do Tratado do Atlântico Norte.
 
 A fim de evitar qualquer sobreposição em relação aos Estados-Maiores da OTAN, o Conselho e a Agência recorrerão às autoridades militares competentes da OTAN relativamente a qualquer informação e conselho em assuntos militares.
 
-ARTIGO V
+###### ARTIGO V
 
 Se qualquer das Altas Partes Contratantes vier a ser vítima de agressão armada na Europa, as outras Partes Contratantes, de harmonia com o disposto no artigo 51 da Carta das Nações Unidas, prestar-lhe-ão auxílio e assistência com todos os meios ao seu alcance, militares e outros.
 
-ARTIGO VI
+###### ARTIGO VI
 
 De todas as medidas tomadas em aplicação do artigo anterior deverá ser dado conhecimento imediato ao Conselho de Segurança. As mesmas medidas cessarão logo que o Conselho de Segurança tiver tomado as providências necessárias à manutenção ou restabelecimento da paz ou da segurança internacionais.
 
 O presente Tratado não prejudica as obrigações decorrentes, para as Altas Partes Contratantes, das disposições da Carta das Nações Unidas, nem deverá ser interpretado de forma a, por algum modo, efectar a autoridade e responsabilidade do Conselho de Segurança, em conformidade com a Carta, de tomar em qualquer momento as acções que estime necessárias para manter ou restabelecer a paz e a segurança internacionais.
 
-ARTIGO VII
+###### ARTIGO VII
 
 As Altas Partes Contratantes declaram, no que lhes diz respeito, que nenhum dos compromissos vigentes entre si ou assumidos em relação a terceiros Estados é incompatível com as disposições do presente Tratado.
 
 Nenhuma das Altas Partes Contratantes concluirá qualquer aliança ou participará em qualquer coligação contra outra das Altas Partes Contratantes.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 1 - A fim de prosseguir uma política de paz, reforçar a segurança, promover a unidade, encorajar a integração progressiva da Europa e desenvolver uma cooperação mais estreita entre si e com outras organizações europeias, as Altas Partes Contratantes no Tratado de Bruxelas instituirão um Conselho para apreciar questões relativas à aplicação deste Tratado, dos seus Protocolos e respectivos anexos.
 
@@ -1982,11 +2003,11 @@ ARTIGO VIII
 
 4 - O Conselho deliberará por unanimidade sobre questões em relação às quais não tiver sido ou não venha a ser acordado outro sistema de votação. Nos casos previstos nos Protocolos n.os II, III e IV adoptará as diferentes regras de votação, unanimidade, maioria de dois terços ou maioria simples, aí especificados. O Conselho deliberará por maioria simples sobre questões que a Agência para o Controlo dos Armamentos lhe vier a submeter.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O Conselho da União da Europa Ocidental apresentará a uma assembleia, constituída por representantes das potências do Tratado de Bruxelas junto da Assembleia Consultiva do Conselho da Europa, um relatório anual das suas actividades, designadamente no domínio do controlo dos armamentos.
 
-ARTIGO X
+###### ARTIGO X
 
 Fiéis à sua determinação de resolver os seus diferendos unicamente por meios pacíficos, as Altas Partes Contratantes acordam em aplicar entre si as disposições seguintes:
 
@@ -1998,7 +2019,7 @@ No caso de diferendos complexos que envolvam questões dependentes da conciliaç
 
 As disposições precedentes não afectam disposições ou acordos aplicáveis, instituindo qualquer outro processo de resolução pacífica de diferendos.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As Altas Partes Contratantes poderão deliberar, de comum acordo, convidar qualquer outro Estado a aderir a este Tratado, nas condições que vierem a ser acordadas entre elas e o Estado convidado.
 
@@ -2006,7 +2027,7 @@ Qualquer Estado convidado nestes termos poderá vir a tornar-se parte no Tratado
 
 O Governo Belga informará as outras Altas Partes Contratantes do depósito de qualquer instrumento de adesão.
 
-ARTIGO XII
+###### ARTIGO XII
 
 O presente Tratado será ratificado e os instrumentos de ratificação serão depositados, com a brevidade possível, junto do Governo Belga.
 
@@ -2034,15 +2055,15 @@ Sua Majestade o Rei dos Belgas:
 
 S. Ex.ª o Sr. Paul-Henri Spaak, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa, Presidente da União Francesa:**
+O Presidente da República Francesa, Presidente da União Francesa:
 
 S. Ex.ª o Sr. Pierre Mendès-France, Presidente do Conselho, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 S. Ex.ª o Sr. Konrad Adenauer, Chanceler Federal, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 S. Ex.ª o Sr. Gaetano Martino, Ministro dos Negócios Estrangeiros;
 
@@ -2060,13 +2081,13 @@ The Right Honourable Sir Anthony Eden, K.G., M.C., membro do Parlamento, Princip
 
 que, tendo apresentado os seus plenos poderes, considerados em boa e devida forma, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 A República Federal da Alemanha e a República Italiana aderem ao Tratado modificado e completado pelo presente Protocolo.
 
 As Altas Partes Contratantes no presente Protocolo consideram o Protocolo sobre as Forças das Potências da União da Europa Ocidental (a seguir designado por «Protocolo n.º II»), o Protocolo Relativo ao Controlo dos Armamentos e respectivos anexos (a seguir designado por «Protocolo n.º III») e o Protocolo Relativo à Agência da União da Europa Ocidental para o Controlo dos Armamentos (a seguir designado por «Protocolo n.º IV») como partes integrantes do presente Protocolo.
 
-ARTIGO II
+###### ARTIGO II
 
 O parágrafo seguinte, que figura no preâmbulo do Tratado: «a tomar as medidas que julgar necessárias em caso de reatamento de uma política de agressão por parte da Alemanha» será modificado e ler-se-á: «a tomar as medidas necessárias a fim de promover a unidade e encorajar a integração progressiva da Europa».
 
@@ -2074,7 +2095,7 @@ As palavras iniciais do texto do parágrafo 2 do artigo I do Tratado serão subs
 
 A cooperação estabelecida no parágrafo precedente, que será exercida designadamente pelo Conselho previsto no artigo VIII [...]
 
-ARTIGO III
+###### ARTIGO III
 
 Será introduzido no Tratado um artigo novo, que passará a figurar como o artigo IV:
 
@@ -2084,7 +2105,7 @@ A fim de evitar qualquer sobreposição em relação aos Estados-Maiores da OTAN
 
 Os artigos IV, V, VI e VII do Tratado constituirão os artigos V, VI, VII e VIII, respectivamente.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O artigo VIII do Tratado (anterior artigo VIII) é modificado nos termos seguintes:
 
@@ -2096,7 +2117,7 @@ O artigo VIII do Tratado (anterior artigo VIII) é modificado nos termos seguint
 
 4 - O Conselho deliberará por unanimidade sobre questões em relação às quais não tiver sido ou não venha a ser acordado outro sistema de votação. Nos casos previstos nos Protocolos n.os II, III e IV adoptará as diferentes regras de votação, unanimidade, maioria de dois terços ou maioria simples, aí especificadas. O Conselho deliberará por maioria simples sobre questões que a Agência para o Controlo dos Armamentos lhe vier a submeter.
 
-ARTIGO V
+###### ARTIGO V
 
 Será introduzido no Tratado um artigo novo, que passará a figurar como artigo IX:
 
@@ -2104,7 +2125,7 @@ O Conselho da União da Europa Ocidental apresentará a uma assembleia, constitu
 
 Os artigos VII, IX e X do Tratado passarão a constituir os artigos X, XI e XII, respectivamente.
 
-ARTIGO VI
+###### ARTIGO VI
 
 O presente Protocolo e os protocolos referidos no artigo I serão ratificados e os instrumentos de ratificação serão depositados, com a brevidade possível, junto do Governo Belga (ver nota 1).
 
@@ -2148,7 +2169,7 @@ Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
 
 (nota 2) 6 de Maio de 1955
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06701/00020041.pdf)
 
 ANEXOS
 
@@ -2248,15 +2269,15 @@ Sua Majestade o Rei dos Belgas:
 
 S. Ex.ª o Sr. Paul-Henri Spaak, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa, Presidente da União Francesa:**
+O Presidente da República Francesa, Presidente da União Francesa:
 
 S. Ex.ª o Sr. Pierre Mendès-France, Presidente do Conselho, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 S. Ex.ª o Sr. Konrad Adenauer, Chanceler Federal, Ministro Federal dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 S. Ex.ª o Sr. Gaetano Martino, Ministro dos Negócios Estrangeiros;
 
@@ -2274,7 +2295,7 @@ The Right Honourable Sir Anthony Eden, K.G., M.C., membro do Parlamento, Princip
 
 acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 1 - As forças terrestres e aéreas que cada uma das Altas Partes Contratantes no presente Protocolo colocará sob o comando do Comandante Supremo das Forças Aliadas na Europa, em tempo de paz, no continente europeu, não ultrapassarão em efectivos totais e em número de formações:
 
@@ -2288,23 +2309,23 @@ c) Relativamente ao Luxemburgo, um agrupamento táctico a nível de regimento.
 
 3 - Esta declaração de limites máximos não obriga nenhuma das Altas Partes Contratantes a organizar ou a manter forças aos níveis indicados, mas reserva às Altas Partes Contratantes o direito de o fazer se assim o desejarem.
 
-ARTIGO II
+###### ARTIGO II
 
 No que diz respeito às forças navais, a contribuição de cada uma das Altas Partes Contratantes no presente Protocolo para os comandos da OTAN será estabelecida todos os anos no decurso do exame anual (que tem em conta as recomendações das autoridades militares da OTAN). A contribuição da República Federal da Alemanha consistirá em navios e formações que lhe forem necessários ao cumprimento de missões defensivas, que a Organização do Conselho do Atlântico Norte lhe vier a confiar, dentros dos limites estabelecidos pelo acordo especial referido no artigo I ou nos limites de uma potência defensiva equivalente.
 
-ARTIGO III
+###### ARTIGO III
 
 Se em qualquer momento do exame anual se formularem recomendações que tenham como efeito elevar o nível das forças para além dos limites definidos nos artigos I e II acima referidos, a aceitação, por parte da Alta Parte Contratante em causa, desses aumentos recomendados será submetida à aprovação por unanimidade das Altas Partes Contratantes no presente Protocolo, manifestada quer no Conselho da União da Europa Ocidental, quer no âmbito da Organização do Tratado do Atlântico Norte.
 
-ARTIGO IV
+###### ARTIGO IV
 
 A fim de poder assegurar a observância dos limites indicados nos artigos I e II, o Conselho da União da Europa Ocidental receberá regularmente informações obtidas durante inspecções realizadas pelo Comandante Supremo das Forças Aliadas na Europa. Tais informações ser-lhe-ão transmitidas por um oficial de alta patente designado para o efeito pelo Comandante Supremo das Forcas Aliadas da Europa.
 
-ARTIGO V
+###### ARTIGO V
 
 O número total dos efectivos e dos armamentos das forças de defesa interna e de polícia, no continente europeu, das Altas Partes Contratantes no presente Protocolo será estabelecido por meio de acordos a concluir no âmbito da Organização da União da Europa Ocidental, tendo em conta as respectivas missões, necessidades e níveis existentes.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Sua Majestade a Rainha do Reino Unido da Grã-Bretanha e Irlanda do Norte continuará a assegurar no continente europeu, incluindo a Alemanha, a potência efectiva das forças britânicas actualmente afectas ao Comandante Supremo das Forças Aliadas da Europa, isto é, quatro divisões, a 2.ª Força Aérea Táctica, ou todas as forças que o Comandante Supremo das Forcas Aliadas na Europa considerar como potência defensiva equivalente. Compromete-se a não retirar essas forças contra o desejo da maioria das Altas Partes Contratantes, que deverão tomar a sua decisão com pleno conhecimento do parecer do Comandante Supremo das Forças Aliadas na Europa. Não será todavia obrigada por este compromisso em caso de crise grave em território de além-mar. Se a manutenção das forças britânicas no continente europeu vier a constituir, em qualquer momento que seja, um encargo excessivo para as finanças externas do Reino Unido, Sua Majestade solicitará ao Conselho da Organização do Tratado do Atlântico Norte, por intermédio do Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, a revisão das condições financeiras dessa manutenção.
 
@@ -2348,15 +2369,15 @@ Sua Majestade o Reio dos Belgas:
 
 S. Ex.ª o Sr. Paul-Henri Spaak, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa, Presidente da União Francesa:**
+O Presidente da República Francesa, Presidente da União Francesa:
 
 S. Ex.ª o Sr. Pierre Mendès-France, Presidente do Conselho, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 S. Ex.ª o Sr. Konrad Adenauer, Chanceler Federal, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 S. Ex.ª o Sr. Gaetano Martino, Ministro dos Negócios Estrangeiros;
 
@@ -2376,11 +2397,11 @@ e acordaram nas disposições seguintes:
 
 #### SECÇÃO I — Armamento de fabrico proibido
 
-ARTIGO I
+###### ARTIGO I
 
 As Altas Partes Contratantes, membros da União da Europa Ocidental, tomam conhecimento e manifestam o seu acordo relativamente à declaração do Chanceler da República Federal da Alemanha (feita em Londres a 3 de Outubro de 1954 e inclusa no presente documento como anexo I), segundo a qual a República Federal da Alemanha se comprometeu a não fabricar armas atómicas, biológicas e químicas, no seu território. Os tipos de armamentos referidos neste artigo são definidos no anexo II. As definições destes tipos de armamentos serão especificadas e actualizadas pelo Conselho da União da Europa Ocidental.
 
-ARTIGO II
+###### ARTIGO II
 
 As Altas Partes Contratantes, membros da União da Europa Ocidental, tomam igualmente conhecimento e manifestam o seu acordo ao compromisso assumido pelo Chanceler da República Federal da Alemanha, na mesma declaração, segundo o qual não serão fabricados em território da República Federal da Alemanha determinados outros tipos de armamento, salvo no caso em que, tendo o comandante supremo competente da Organização do Tratado do Atlântico Norte apresentado uma recomendação de revisão ou de revogação do conteúdo da lista desse armamento, visando dar resposta às necessidades das forças armadas que lhe estão afectas (ver nota *), o Governo da República Federal da Alemanha submeter um pedido nesse sentido e tal revisão ou revogação venha a ser efectuada por decisão do Conselho da União da Europa Ocidental, tomada por maioria de dois terços. Os tipos de armamentos referidos neste artigo são definidos no anexo III.
 
@@ -2388,15 +2409,15 @@ As Altas Partes Contratantes, membros da União da Europa Ocidental, tomam igual
 
 #### SECÇÃO II — Armamentos submetidos a fiscalização
 
-ARTIGO III
+###### ARTIGO III
 
 Quando o fabrico de armas atómicas, biológicas e químicas no território continental das Altas Partes Contratantes que não tiverem renunciado ao direito de produzir esse armamento tiver ultrapassado o estádio experimental e entrado na fase de produção efectiva, o nível dos stocks que as Altas Partes Contratantes em causa serão autorizadas a manter no continente europeu será fixado pelo Conselho da União da Europa Ocidental por maioria dos votos.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Sem prejuízo das disposições dos artigos precedentes, os tipos de armamentos referidos no anexo IV serão verificados na medida e segundo o processo indicados no Protocolo n.º IV.
 
-ARTIGO V
+###### ARTIGO V
 
 O Conselho da União da Europa Ocidental poderá modificar a lista que figura no anexo IV por deliberação tomada por unanimidade.
 
@@ -2594,15 +2615,15 @@ Sua Majestade o Rei dos Belgas:
 
 S. Ex.ª o Sr. Paul-Henri Spaak, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Francesa, Presidente da União Francesa:**
+O Presidente da República Francesa, Presidente da União Francesa:
 
 S. Ex.ª o Sr. Pierre Mendès-France, Presidente do Conselho, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 S. Ex.ª o Sr. Konrad Adenauer, Chanceler Federal, Ministro federal dos Negócios Estrangeiros;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 S. Ex.ª o Sr. Gaetano Martino, Ministro dos Negócios Estrangeiros;
 
@@ -2622,19 +2643,19 @@ e acordaram nas disposições seguintes:
 
 #### SECÇÃO I — Constituição
 
-ARTIGO I
+###### ARTIGO I
 
 A Agência para o Controlo dos Armamentos (a seguir designada «a Agência») será responsável perante o Conselho da União da Europa Ocidental (a seguir designado «o Conselho»). Será constituída por um director coadjuvado por um director-adjunto e por pessoal recrutado em proporção equitativa de entre os nacionais das Altas Partes Contratantes membros da União da Europa Ocidental.
 
-ARTIGO II
+###### ARTIGO II
 
 O director e o seu pessoal, incluindo os funcionários que vierem a ser colocados à disposição da Agência pelos Estados membros, ficarão sob o controlo administrativo geral do Secretário-Geral da União da Europa Ocidental.
 
-ARTIGO III
+###### ARTIGO III
 
 O director será nomeado por decisão unânime do Conselho, por um período de cinco anos, e não será reconduzido. Será responsável pela escolha do seu pessoal, em conformidade com o princípio estabelecido no artigo 1.º e ouvidos cada um dos Estados membros em causa. Antes de preencher o cargo de director-adjunto e os lugares de chefe das secções da Agência, submeterá os nomes das pessoas a nomear à aprovação do Conselho.
 
-ARTIGO IV
+###### ARTIGO IV
 
 1 - O director apresentará ao Secretário-Geral um plano de organização da Agência, a fim de ser submetido ao Conselho. Essa organização comportará diversas secções que se ocuparão respectivamente de:
 
@@ -2646,17 +2667,17 @@ c) Administração.
 
 2 - A organização da Agência poderá ser modificada por decisão do Conselho.
 
-ARTIGO V
+###### ARTIGO V
 
 As despesas de funcionamento da Agência figurarão no orçamento da União da Europa Ocidental. O director apresentará ao Secretário-Geral uma estimativa anual dessas despesas a fim de ser submetida ao Conselho.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Os funcionários da Agência estarão vinculados à totalidade das disposições do Código de Segurança da Organização do Tratado do Atlântico Norte. Não deverão em nenhuma circunstância revelar as informações que vierem a receber no desempenho das suas funções oficiais, salvo e estritamente no cumprimento das suas obrigações para com a Agência.
 
 #### SECÇÃO II — Funções
 
-ARTIGO VII
+###### ARTIGO VII
 
 1 - A Agência terá por funções:
 
@@ -2672,29 +2693,29 @@ b) Efectuará, no continente europeu, as investigações, visitas e inspecções
 
 c) Apresentará relatórios ao Conselho.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 No que se refere às forças e depósitos sob a autoridade da Organização do Tratado do Atlântico Norte, as investigações, visitas e inspecções serão efectuadas pelas autoridades competentes da Organização do Tratado do Atlântico Norte. No caso das forças e depósitos sob a autoridade do Comandante Supremo das Forças Aliadas na Europa a Agência receberá comunicação das informações que vierem a ser apresentadas ao Conselho por intermédio do oficial de alta patente designado por este Comandante Supremo.
 
-ARTIGO IX
+###### ARTIGO IX
 
 O âmbito da actividade da Agência limitar-se-á ao continente europeu.
 
-ARTIGO X
+###### ARTIGO X
 
 A Agência terá em atenção a produção dos artigos acabados e dos componentes mencionados nos anexos II, III e IV ao Protocolo n.º III, e não os processos de fabrico. Velará por que os materiais e produtos destinados ao sector civil não sejam submetidos a fiscalização.
 
-ARTIGO XI
+###### ARTIGO XI
 
 As inspecções efectuadas pela Agência não terão carácter periódico, mas assumirão a forma de verificações realizadas a intervalos irregulares. Essas inspecções serão orientadas num espírito de harmonia e de colaboração. O director apresentará ao Conselho regulamentos pormenorizados sobre a condução de tais inspecções, prevendo entre outras uma garantia de carácter jurisdicional adequada que salvaguarde os interesses privados.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Para efectuar as investigações, visitas e inspecções, será assegurado aos membros da Agência, a seu pedido, livre acesso as instalações e depósitos como também a contas e documentos de carácter relevante. A Agência e as autoridades nacionais colaborarão nessas investigações, visitas e inspecções; as autoridades nacionais poderão, nomeadamente, participar nessas operações, a seu pedido.
 
 #### SECÇÃO III — Níveis dos stocks de armamentos
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 1 - Cada Estado membro da União da Europa Ocidental fornecerá anualmente à Agência, no que se refere às forças sob o comando da OTAN estacionadas no continente europeu, os seguintes elementos de informação:
 
@@ -2714,31 +2735,31 @@ iii) Auxílio externo em material militar.
 
 3 - Essas comunicações deverão ser conjugadas com as informações fornecidas à Organização do Tratado do Atlântico Norte.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Relativamente às forças sob comando da OTAN, a Agência determinará, ouvidas as autoridades militares competentes da Organização do Tratado do Atlântico Norte, se as quantidades totais referidas no artigo XIII são compatíveis com as quantidades reconhecidas necessárias às unidades das potências em questão, afectas ao comando da Organização do Tratado do Atlântico Norte, e com as conclusões e dados registados nos documentos aprovados pelo Conselho do Atlântico Norte, no âmbito do exame anual.
 
-ARTIGO XV
+###### ARTIGO XV
 
 No que diz respeito às forças de defesa interna e de polícia, as quantidades totais de armamentos que a Agência deverá considerar apropriadas serão aquelas que os governos membros comunicarem, desde que não excedam os limites estipulados nos acordos que vierem a ser ulteriormente concluídos pelos Estados membros da União da Europa Ocidental sobre o número de efectivos e quantidades de armamento das respectivas forças de defesa interna e de polícia no continente europeu.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Em relação às outras forças sob controlo nacional, as quantidades totais de armamentos que a Agência deverá considerar apropriadas serão aquelas que os Estados membros lhe vierem a comunicar.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Os números fornecidos pelos Estados membros, nos termos dos artigos XV e XVI, relativamente às quantidades totais de armamento deverão harmonizar-se com o número de efectivos e com as missões das forças em questão.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 As disposições dos artigos XIV e XV não serão aplicáveis às Altas Partes Contratantes e às categorias de armas definidas no artigo III do Protocolo n.º III. Os stocks das referidas armas serão estabelecidos segundo o processo previsto nesse artigo e comunicados à Agência pelo Conselho da União da Europa Ocidental.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 Os números obtidos pela Agência, nos termos dos artigos XIV, XV, XVI e XVIII, serão apresentados ao Conselho como os níveis adequados aos Estados membros para o ano de fiscalização em curso. Qualquer discrepância entre as quantidades declaradas nos termos do parágrafo 1 do artigo XIII e as quantidades reconhecidas como necessárias, por força do artigo XIV, será também comunicada ao Conselho.
 
-ARTIGO XX
+###### ARTIGO XX
 
 1 - A Agência apresentará de imediato um relatório ao Conselho no caso de uma inspecção ou informação proveniente de outras fontes lhe revelar:
 
@@ -2752,15 +2773,15 @@ b) A existência de stocks de armamentos que excedam o número e quantidade esta
 
 4 - As decisões do Conselho previstas neste artigo, serão tomadas por maioria.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 Os Estados membros comunicarão à Agência o nome e localização dos depósitos de armamentos sujeitos a fiscalização situados no continente europeu, assim como das fábricas onde esse armamento é fabricado. De igual modo, transmitirão à Agência o nome e localização das instalações fabris situadas no continente europeu que, embora inactivas, se destinem ao fabrico de tais armamentos.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 Cada Estado membro da União da Europa Ocidental manterá a Agência informada sobre quantidades de armamentos dos tipos especificados no anexo IV ao Protocolo n.º III destinadas a ser exportadas do seu território no continente europeu. A Agência terá o direito de se assegurar de que o armamento em questão é efectivamente exportado. Se o nível dos stocks de qualquer dos artigos sujeitos a controlo parecer anormal, a Agência estará ainda credenciada para comprovar a existência de ordens de exportação.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 O Conselho comunicará à Agência as informações que os Governos dos Estados Unidos da América e do Canadá lhe vierem a transmitir relativamente à ajuda militar a conceder às forças, no continente europeu, dos membros da Organização da União da Europa Ocidental.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/17/1999/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/17-1999-158038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8af67612b9e349325ad912a71aa3f0fb9c039859be2eae81bc86e80ec23342b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 200d93283174c26827b959f07a3b9a0028d9afcb2a88d39dc142c94981905bf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
+- Bruxelas
 - Convenção
-- Portugal
-- Política de Defesa
-- Tratado do Atlântico Norte
 - Cooperação Internacional
 - Cooperação Militar
-- Bruxelas
+- NATO
+- Política de Defesa
+- Portugal
+- Tratado do Atlântico Norte
 relationships: []
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:09Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de Janeiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 FURTHER ADDITIONAL PROTOCOL TO THE AGREEMENT AMONG THE STATES PARTIES TO THE NORTH ATLANTIC TREATY AND THE OTHER STATES PARTICIPATING IN THE PARTNERSHIP FOR PEACE REGARDING THE STATUS OF THEIR FORCES.
 

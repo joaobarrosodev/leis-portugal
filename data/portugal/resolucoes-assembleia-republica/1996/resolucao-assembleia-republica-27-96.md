@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/1996/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-1996-405680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba7df08e0c3186c87fad3d4ba57301d3bde90dfa977f50a61cd501a698c893cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e9219ff181d3cea4b552f5c1c626aad19619f51d5dcc74b7f2b5ded6c3e43ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Banco Interamericano de Desenvolvimento
-- Portugal
 - ACTO Constitutivo
+- Banco Interamericano de Desenvolvimento
+- Convenção
+- Portugal
 - Washington
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:364758:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 76
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:07Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +98,15 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Maio de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf))](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
 
 CONVÉNIO CONSTITUTIVO DO BANCO INTERAMERICANO DE DESENVOLVIMENTO
 
 Os países em cujo nome este Convénio é assinado acordam criar o Banco Interamericano de Desenvolvimento, que se regerá pelas seguintes disposições:
 
-ARTIGO I
-
-Objectivo e funções
+###### ARTIGO I — Objectivo e funções
 
 #### Secção 1 — Objectivo
 
@@ -126,9 +128,7 @@ v) Prestar assistência técnica para a preparação, financiamento e execução
 
 b) No desempenho das suas funções, o Banco cooperará, tanto quanto possível, com os sectores privados que forneçam capital para investimentos e com instituições nacionais ou internacionais.
 
-ARTIGO II
-
-Países membros e capital do Banco
+###### ARTIGO II — Países membros e capital do Banco
 
 #### Secção 1 — Países membros
 
@@ -202,9 +202,7 @@ iv) Todas as receitas derivadas de empréstimos concedidos pelo Banco com os rec
 
 v) Todas as demais receitas provenientes de quaisquer dos recursos acima mencionados.
 
-ARTIGO III
-
-Operações
+###### ARTIGO III — Operações
 
 #### Secção 1 — Utilização dos recursos
 
@@ -306,9 +304,7 @@ O Banco cobrará uma comissão especial sobre todos os empréstimos, participaç
 
 O montante das comissões que o Banco receba, de acordo com a secção 12 deste artigo, destinar-se-á a constituir uma reserva especial, que se manterá para cumprir com os compromissos do Banco, de acordo com o disposto no artigo VII, secção 3, b), i). A reserva especial será mantida na forma líquida que o conselho de administração determinar de acordo com os preceitos deste Convénio.
 
-ARTIGO IV
-
-Fundo para Operações Especiais
+###### ARTIGO IV — Fundo para Operações Especiais
 
 #### Secção 1 — Estabelecimento, objectivo e funções
 
@@ -408,9 +404,7 @@ b) As disposições do artigo IX, secção 3, referentes a ajustes de contas com
 
 As disposições do artigo X são também aplicáveis ao Fundo, substituindo-se os termos relativos ao Banco, aos seus recursos de capital e respectivos credores pelos termos relativos ao Fundo, aos seus recursos e aos seus respectivos credores.
 
-ARTIGO V
-
-Moedas
+###### ARTIGO V — Moedas
 
 #### Secção 1 — Emprego de moedas
 
@@ -452,9 +446,7 @@ d) Não obstante o estabelecido em outras disposições desta secção, os termo
 
 Desde que não tenha necessidade de determinada moeda para as suas operações, o Banco aceitará, de qualquer membro, notas promissórias ou valores semelhantes - emitidos pelo Governo do país membro ou pelo depositário designado por esse membro por conta de qualquer parcela da percentagem de 50% da subscrição do capital ordinário autorizado do Banco e de 50% da subscrição dos recursos do Fundo que, de acordo com o disposto no artigo II e no artigo IV, respectivamente, são pagáveis na sua moeda nacional. Tais notas ou valores não serão negociáveis, não vencerão juros e serão pagáveis ao Banco no seu valor par quando este o exigir. Nas mesmas condições, o Banco também aceitará tais notas ou valores em substituição de qualquer parcela da subscrição de um país membro que, nos termos da subscrição, não deva ser paga em dinheiro.
 
-ARTIGO VI
-
-Assistência técnica
+###### ARTIGO VI — Assistência técnica
 
 #### Secção 1 — Prestação de assistência e consultoria técnica
 
@@ -474,9 +466,7 @@ a) O Banco poderá acordar, com os países membros ou com as empresas que receba
 
 b) As despesas com a assistência técnica que não sejam pagas pelos beneficiários serão cobertas com as receitas líquidas dos recursos ordinários de capital ou com as do Fundo. Contudo, durante os três primeiros anos de operações, o Banco poderá utilizar, para cobrir esses gastos, até um total de 3% dos recursos iniciais do Fundo.
 
-ARTIGO VII
-
-Atribuições diversas e distribuição de lucros
+###### ARTIGO VII — Atribuições diversas e distribuição de lucros
 
 #### Secção 1 — Atribuições diversas
 
@@ -532,9 +522,7 @@ c) A distribuição dos recursos ordinários de capital referida no parágrafo a
 
 d) Os pagamentos realizados conforme o disposto no parágrafo a) desta secção serão efectuados na forma e na moeda, ou moedas, que a assembleia de governadores determinar. Se os pagamentos forem feitos a um país membro em moedas diferentes da sua, a transferência dessas moedas e a sua utilização por parte desse país não poderão ser objecto de restrições por parte de nenhum outro país membro.
 
-ARTIGO VIII
-
-Organização e administração
+###### ARTIGO VIII — Organização e administração
 
 #### Secção 1 — Estrutura do Banco
 
@@ -644,9 +632,9 @@ a) A assembleia de governadores, por maioria do total de votos dos países membr
 
 Sob a supervisão do conselho de administração, o presidente do Banco conduzirá os negócios ordinários da instituição e chefiará o pessoal. Presidirá também às reuniões do conselho de administração, sem direito a voto, excepto nos casos de empate, em que terá a obrigação de emitir o voto de desempate.
 
-**O presidente do Banco será o representante legal da instituição.**
+O presidente do Banco será o representante legal da instituição.
 
-**O presidente do Banco terá um mandato de cinco anos e poderá ser reeleito para períodos sucessivos. Será exonerado do seu cargo quando assim o decida a assembleia de governadores pela maioria do total de votos dos países membros, que inclua a maioria do total dos votos dos países membros regionais.**
+O presidente do Banco terá um mandato de cinco anos e poderá ser reeleito para períodos sucessivos. Será exonerado do seu cargo quando assim o decida a assembleia de governadores pela maioria do total de votos dos países membros, que inclua a maioria do total dos votos dos países membros regionais.
 
 b) O vice-presidente será nomeado pelo conselho de administração, mediante proposta do presidente do Banco. Sob a supervisão do conselho de administração e do presidente do Banco, o vice-presidente exercerá a autoridade e desempenhará, na administração do Banco, as funções que o conselho de administração determinar. Na ausência e nos impedimentos do presidente do Banco, o vice-presidente exercerá a autoridade e as funções do presidente.
 
@@ -668,9 +656,7 @@ a) O Banco publicará um relatório anual, que conterá um extracto das suas con
 
 b) O Banco poderá publicar, outrossim, qualquer outro relatório que considere conveniente para atingir o seu objectivo e exercer as suas funções.
 
-ARTIGO IX
-
-Saída e suspensão de países membros
+###### ARTIGO IX — Saída e suspensão de países membros
 
 #### Secção 1 — Direito de saída
 
@@ -706,7 +692,7 @@ iii) Se o Banco vier a sofrer perdas líquidas em qualquer operação de emprés
 
 e) Nenhuma importância será paga ao país por conta das suas acções, de acordo com esta secção, antes que hajam decorridos seis meses, contados a partir da data em que o mesmo tenha deixado de ser membro da instituição. Se, dentro desse período, o Banco terminar as suas operações, os direitos do referido país serão regulados pelo disposto no artigo X e o país continuará a ser considerado membro do Banco para os efeitos do citado artigo, salvo quanto ao direito a voto.
 
-ARTIGO X
+###### ARTIGO X
 
 Suspensão e termo das operações,
 
@@ -732,9 +718,7 @@ b) Qualquer distribuição do activo entre os países membros far-se-á em propo
 
 c) O país membro que receba parte do activo distribuído de acordo com este artigo gozará, em relação ao mesmo, dos mesmos direitos que correspondiam ao Banco antes de se efectuar a distribuição.
 
-ARTIGO XI
-
-Estatuto jurídico, imunidades, isenções e privilégios
+###### ARTIGO XI — Estatuto jurídico, imunidades, isenções e privilégios
 
 #### Secção 1 — Finalidade do artigo
 
@@ -806,9 +790,7 @@ ii) Se a única base jurisdicional de tal tributação consistir na localizaçã
 
 Os países membros adoptarão, de acordo com o seu regime jurídico, as disposições que forem necessárias para tornar efectivos, nos respectivos territórios, os princípios enunciados no presente artigo e informarão o Banco sobre as medidas que tenham tomado para esse fim.
 
-ARTIGO XII
-
-Emendas
+###### ARTIGO XII — Emendas
 
 a) O presente Convénio só poderá ser emendado por decisão da assembleia de governadores por maioria do número total de governadores que inclua dois terços dos governadores dos países membros regionais e que represente, pelo menos, três quartos do total de votos dos países membros; contudo, as maiorias estabelecidas no artigo II, secção 1, b), somente poderão ser modificadas pelas maiorias especificadas na referida secção.
 
@@ -822,9 +804,7 @@ iii) A limitação de responsabilidades prevista no artigo II, secção 3, d), e
 
 c) Qualquer proposta de emenda a este Convénio, apresentada quer por um pais membro quer pelo conselho de administração, será comunicada ao presidente da assembleia de governadores, o qual a submeterá à consideração da assembleia. Quando uma emenda for aprovada, será a mesma levada oficialmente pelo Banco ao conhecimento de todos os países membros. Salvo se a assembleia de governadores decidir fixar um prazo diferente, as emendas entrarão em vigor, para todos os países membros, três meses depois da data da comunicação oficial.
 
-ARTIGO XIII
-
-Interpretação e arbitragem
+###### ARTIGO XIII — Interpretação e arbitragem
 
 #### Secção 1 — Interpretação
 
@@ -838,9 +818,7 @@ b) Qualquer país membro poderá exigir que as divergências sobre que decida o 
 
 Surgindo alguma divergência entre o Banco e um país que tenha deixado de ser membro, ou entre o Banco e um país membro, depois que se tenha decidido terminar as operações da instituição, tal controvérsia será submetida à arbitragem de um tribunal composto de três pessoas. Um dos árbitros será designado pelo Banco, outro pelo país interessado e o terceiro, salvo acordo em contrário entre as partes, pelo Secretário-Geral da Organização dos Estados Americanos. Caso fracassem todos os esforços para que se chegue a um acordo unânime, as decisões do tribunal serão tomadas por maioria. O terceiro árbitro poderá decidir todas as questões de procedimento nos casos em que as partes não estejam de acordo sobre a matéria.
 
-ARTIGO XIV
-
-Disposições gerais
+###### ARTIGO XIV — Disposições gerais
 
 #### Secção 1 — Sede do Banco
 
@@ -858,9 +836,7 @@ Cada país membro designará uma entidade oficial para ligação com o Banco sob
 
 Cada país membro designará o seu banco central depositário, para que a instituição possa manter as suas disponibilidades na moeda do respectivo país e outros activos da instituição. Caso um país membro não tenha banco central, deverá designar, de acordo com o Banco, outra entidade para esse fim.
 
-ARTIGO XV
-
-Disposições finais
+###### ARTIGO XV — Disposições finais
 
 #### Secção 1 — Assinatura e aceitação
 
@@ -890,11 +866,11 @@ Feito na cidade de Washington, D. C., Estados Unidos da América, num único ori
 
 ## ANEXO A — Subscrição de acções de capital autorizado do Banco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf))](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
 
 ## ANEXO B — Quotas de contribuição ao Fundo para Operações Especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf))](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/185a00/24362468.pdf)
 
 Nota. - Os anexos A e B reportam-se à situação existente à data formação do Banco.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 149/2003, 1º Suplemento, Série I-A de 2003-07-01
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3790-(134) a 3790-(283)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/54-b/2003/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-b-2003-682801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49685ba3b0a6d7e50eebdb5f7d9ea6fc70672d6aedb0c918398936d776f3eb62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc191d5f32d6b0186f00e5afc9c489314743f92112e69a590d7d578b4cbb6d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,34 @@ subjects:
 - CE Países
 - Comunidades Europeias
 - Convenção
+- Cooperação Agrícola
+- Cooperação Cultural
+- Cooperação Económica
 - Cooperação Financeira
+- Cooperação Industrial
+- Cooperação Judiciária
+- Cooperação Política
 - Cooperação Técnica
-- Portugal
-- União Europeia
+- Croácia
 - Direito de Estabelecimento
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
 - Livre Circulação de Trabalhadores
-- Cooperação Agrícola
-- Cooperação Cultural
-- Cooperação Económica
-- Cooperação Industrial
-- Cooperação Judiciária
-- Cooperação Política
+- Luxemburgo
 - Política de Investigação e Desenvolvimento
 - Política do Ambiente
 - Política Social
+- Portugal
 - Prestação de Serviços
 - Proteção do Consumidor
-- Luxemburgo
-- Croácia
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:682799:por
+  label: "Ratificado o Acordo pelo DEC.43-B/2003.2003.07.01.PR DR.IS-A [149]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/43-b-2003-682799
+  date: '2003-07-01'
 - type: cites
   target: celex:31999L0096
   label: null
@@ -107,13 +112,13 @@ relationships:
 article_structure:
   article_count: 217
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:54Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +131,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de Abril de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA CROÁCIA, POR OUTRO.
 
@@ -1472,7 +1477,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 127.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 128.º
 
@@ -1488,7 +1493,7 @@ O presente Acordo entrará em vigor no 1.º dia do 2.º mês seguinte à data em
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a sua entrada em vigor, as disposições de determinadas partes do presente Acordo, nomeadamente as respeitantes a livre circulação de mercadorias, assim como as suas disposições em matéria de transportes, entrarem em vigor através da conclusão de um acordo provisório entre a Comunidade e a Croácia, as Partes acordam em que, nessas circunstâncias, para efeitos do título IV, dos artigos 70.º e 71.º do presente Acordo, dos seus protocolos n.os 1 a 5 e das disposições pertinentes do seu protocolo n.º 6, se entenda pela expressão «data da entrada em vigor do presente Acordo» a data de entrada em vigor do acordo provisório no que respeita às obrigações previstas nas referidas disposições.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO I — Concessões pautais da Croácia para produtos industriais comunitários
 
@@ -1502,7 +1507,7 @@ Os direitos aduaneiros serão reduzidos da seguinte forma:
 
 - Em 1 de Janeiro de 2004, são eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO II — Concessões pautais da Croácia para produtos industriais comunitários
 
@@ -1522,7 +1527,7 @@ Os direitos aduaneiros serão reduzidos da seguinte forma:
 
 - Em 1 de Janeiro de 2007, são eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO III — Definição de produtos de baby beef
 
@@ -1530,7 +1535,7 @@ Os direitos aduaneiros serão reduzidos da seguinte forma:
 
 Sem prejuízo das regras para a interpretação da Nomenclatura Combinada, o descritivo dos produtos tem carácter meramente indicativo, sendo o regime preferencial determinado, no âmbito do presente anexo, pela aplicação dos códigos NC. Nos casos em que são indicados códigos «ex» NC, o regime preferencial será determinado pela aplicação conjunta do código NC e do descritivo correspondente.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV a) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1538,7 +1543,7 @@ Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do
 
 [n.º 3, a), i), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV b) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1546,7 +1551,7 @@ Isenção de direitos, ao abrigo de contingentes, na data de entrada em vigor do
 
 [n.º 3, a), ii), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV c) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1554,7 +1559,7 @@ Isenção de direitos, sem limites quantitativos, um ano após a entrada em vigo
 
 [n.º 3, b), i), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV d) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1574,7 +1579,7 @@ Os direitos aduaneiros aplicáveis às mercadorias que constam do presente anexo
 
 - Em 1 de Janeiro de 2006 são eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV e) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1594,7 +1599,7 @@ Os direitos aduaneiros aplicáveis às mercadorias que constam do presente anexo
 
 - Em 1 de Janeiro de 2006 todos os direitos serão reduzidos para 50% do direito de base.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO IV f) — Concessões pautais da Croácia para produtos agrícolas
 
@@ -1614,19 +1619,19 @@ Os direitos aduaneiros aplicáveis às mercadorias que constam do presente anexo
 
 - Em 1 de Janeiro de 2006 todos os direitos serão reduzidos para 50% do direito de base.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO V a) — Produtos referidos no n.º 1 do artigo 28.º
 
 Os produtos apresentados adiante, originários da Croácia, e importados para a Comunidade, são objecto das seguintes concessões:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 Quando estiver esgotado o contingente, é aplicável a taxa total do direito NMF.
 
 Os direitos aplicáveis a todos os produtos da posição 1604 do SH, exceptuando as preparações ou conservas de sardinhas e de anchovas, serão reduzidos, segundo o calendário adiante, para os seguintes níveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO V b) — Produtos referidos no n.º 2 do artigo 28.º
 
@@ -1638,7 +1643,7 @@ Quando estiver esgotado o contingente é aplicável a taxa total do direito NMF.
 
 Os direitos aplicáveis a todos os produtos da posição 1604 do SH, exceptuando as preparações ou conservas de sardinhas e de anchovas, serão reduzidos, segundo o calendário adiante, para os seguintes níveis:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO VI — Estabelecimento: Serviços financeiros
 
@@ -1778,7 +1783,7 @@ Os direitos aduaneiros serão reduzidos da seguinte forma:
 
 - Em 1 de Janeiro de 2004 são eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO II
 
@@ -1794,7 +1799,7 @@ Os direitos aduaneiros serão reduzidos da seguinte forma:
 
 - Em 1 de Janeiro de 2006 são eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AOS PRODUTOS SIDERÚRGICOS
 
@@ -1856,7 +1861,7 @@ O disposto nos artigos 19.º, 20.º e 21.º do Acordo é aplicável ao comércio
 
 As Partes acordam que, tendo em vista o seguimento e fiscalização da execução correcta do presente protocolo, será criado um grupo de contacto em conformidade com o disposto no artigo 115.º do Acordo.
 
-## ANEXO I — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+## ANEXO I — [[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 PROTOCOLO N.º 3 ENTRE A CROÁCIA E A COMUNIDADE, RELATIVO AO COMÉRCIO DE PRODUTOS AGRÍCOLAS TRANSFORMADOS
 
@@ -1890,23 +1895,23 @@ A Comunidade e a Croácia informar-se-ão mutuamente sobre as disposições admi
 
 As importações na Comunidade dos produtos agrícolas transformados originários da Croácia a seguir enumerados estão sujeitas a direitos aduaneiros nulos.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO II — Lista n.º 1: Mercadorias originárias da Comunidade cujos direitos de importação serão eliminados (imediatamente ou gradualmente) pela Croácia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 Lista n.º 2: Contingentes e direitos aplicáveis às importações na Croácia de mercadorias originárias da Comunidade
 
 Nota. - Os produtos seguidamente apresentados beneficiarão de um direito pautal nulo ao abrigo dos contingentes pautais indicados a seguir. Nos anos 2003, 2004, 2005 e 2006 o volume dos contingentes será aumentado anualmente 10% do volume de 2002. O direito aplicável às quantidades que excedam os referidos volumes serão reduzidos em 2002, 2003, 2004, 2005 e 2006 para, respectivamente, 90%, 80%, 70%, 60% e 50% da taxa do direito NMF.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 Lista n.º 3: Contingentes e direitos aplicáveis às importações na Croácia de mercadorias originárias da Comunidade
 
 Nota. - Os produtos que constam do quadro a seguir estão sujeitos às concessões previstas a seguir. Nos anos 2003, 2004, 2005 e 2006 o volume dos contingentes será aumentado anualmente 10% do volume de 2002. O direito aplicável às quantidades que excedam os referidos volumes serão reduzidos em 2002, 2003, 2004, 2005 e 2006 para, respectivamente, 90%, 80%, 65%, 55% e 40% da taxa do direito NMF.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 PROTOCOLO N.º 4 RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -2224,7 +2229,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-«Nachträglich ausgestellt», «délivré a posteriori», «Rilasciato a posteriori», «Afgegeven a posteriori», «Issued retrospectively», «[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)», «[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)», «Expedido a posteriori», «Emitido a posteriori», «Annettu jälkikäteen», «Utfärdat i efterhand», «Naknadno izdano».
+«Nachträglich ausgestellt», «délivré a posteriori», «Rilasciato a posteriori», «Afgegeven a posteriori», «Issued retrospectively», «[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)», «[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)», «Expedido a posteriori», «Emitido a posteriori», «Annettu jälkikäteen», «Utfärdat i efterhand», «Naknadno izdano».
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2624,7 +2629,7 @@ o) Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o 
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 ## ANEXO III — Certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
@@ -3098,11 +3103,11 @@ Os anexos fazem parte integrante do presente protocolo.
 
 Valores limite medidos pelo teste do ciclo europeu de estado estacionário (ESC) e do ensaio europeu de reacção a uma carga (ELR)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 Valores limite medidos pelo ciclo europeu transiente (ETC)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 2 - A Comunidade e a Croácia procurarão, no futuro, reduzir as emissões dos veículos a motor através da utilização da tecnologia de ponta de controlo das emissões dos veículos, associada a uma melhor qualidade do combustível para motores.
 
@@ -3118,33 +3123,33 @@ Acta final
 
 Os plenipotenciários do Reino da Bélgica, do Reino da Dinamarca, da República Federal da Alemanha, da República Helénica, do Reino de Espanha, da República Francesa, da Irlanda, da República Italiana, do Grão-Ducado do Luxemburgo, do Reino dos Países Baixos, da República da Áustria, da República Portuguesa, da República da Finlândia, do Reino da Suécia e do Reino Unido da Grã-Bretanha e da Irlanda do Norte, Partes Contratantes no Tratado Que Institui a Comunidade Europeia, no Tratado Que Institui a Comunidade Europeia do Carvão e do Aço, no Tratado Que Institui a Comunidade Europeia da Energia Atómica e no Tratado da União Europeia, a seguir designados por «Estados membros», e a Comunidade Europeia, a Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia da Energia Atómica, a seguir denominadas «a Comunidade», por um lado, e o plenipotenciário da República da Croácia, por outro, reunidos no Luxemburgo em 29 de Outubro de 2001 para a assinatura do Acordo de Estabilização e de Associação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República da Croácia, por outro, a seguir denominado «Acordo», adoptaram, aquando da assinatura do referido Acordo, o Acordo, os respectivos anexos I a VIII, nomeadamente:
 
-## Anexo I, «Concessões pautais da Croácia para produtos industriais da CE» (n.º 2 do artigo 18.º);
+Anexo I, «Concessões pautais da Croácia para produtos industriais da CE» (n.º 2 do artigo 18.º);
 
-## Anexo II, «Concessões pautais da Croácia para produtos industriais da CE» (n.º 3 do artigo 18.º);
+Anexo II, «Concessões pautais da Croácia para produtos industriais da CE» (n.º 3 do artigo 18.º);
 
-## Anexo III, «Definição comunitária de baby beef» (artigo 27.º);
+Anexo III, «Definição comunitária de baby beef» (artigo 27.º);
 
-## Anexo IV a), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, sem limites quantitativos, à data de entrada em vigor do Acordo)» [n.º 3, alínea a), do artigo 27.º];
+Anexo IV a), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, sem limites quantitativos, à data de entrada em vigor do Acordo)» [n.º 3, alínea a), do artigo 27.º];
 
-## Anexo IV b), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, ao abrigo de contingentes, à data de entrada em vigor do Acordo)» [n.º 3, alínea b), do artigo 27.º];
+Anexo IV b), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, ao abrigo de contingentes, à data de entrada em vigor do Acordo)» [n.º 3, alínea b), do artigo 27.º];
 
-## Anexo IV c), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, sem limites quantitativos, um ano após a data de entrada em vigor do Acordo)» [n.º 3, alínea c), do artigo 27.º];
+Anexo IV c), «Concessões pautais da Croácia para produtos agrícolas (isenção de direitos, sem limites quantitativos, um ano após a data de entrada em vigor do Acordo)» [n.º 3, alínea c), do artigo 27.º];
 
-## Anexo IV d), «Concessões pautais da Croácia para produtos agrícolas (desmantelamento gradual dos direitos NMF ao abrigo de contingentes pautais)» [n.º 3, alínea d), do artigo 27.º];
+Anexo IV d), «Concessões pautais da Croácia para produtos agrícolas (desmantelamento gradual dos direitos NMF ao abrigo de contingentes pautais)» [n.º 3, alínea d), do artigo 27.º];
 
-## Anexo IV e), «Concessões pautais da Croácia para produtos agrícolas (redução gradual dos direitos NMF sem limites quantitativos)» [n.º 3, alínea e), do artigo 27.º];
+Anexo IV e), «Concessões pautais da Croácia para produtos agrícolas (redução gradual dos direitos NMF sem limites quantitativos)» [n.º 3, alínea e), do artigo 27.º];
 
-## Anexo IV f), «Concessões pautais da Croácia para produtos agrícolas (redução gradual dos direitos NMF ao abrigo de contingentes pautais)» [n.º 3, alínea f), do artigo 27.º];
+Anexo IV f), «Concessões pautais da Croácia para produtos agrícolas (redução gradual dos direitos NMF ao abrigo de contingentes pautais)» [n.º 3, alínea f), do artigo 27.º];
 
-## Anexo V a), «Produtos referidos no n.º 1 do artigo 28.º»;
+Anexo V a), «Produtos referidos no n.º 1 do artigo 28.º»;
 
-## Anexo V b), «Produtos referidos no n.º 2 do artigo 28.º»;
+Anexo V b), «Produtos referidos no n.º 2 do artigo 28.º»;
 
-## Anexo VI, «Estabelecimento: Serviços financeiros» (artigo 50.º);
+Anexo VI, «Estabelecimento: Serviços financeiros» (artigo 50.º);
 
-## Anexo VII, «Aquisição de bens imóveis por nacionais da UE: Lista de excepções» (n.º 2 do artigo 60.º);
+Anexo VII, «Aquisição de bens imóveis por nacionais da UE: Lista de excepções» (n.º 2 do artigo 60.º);
 
-## Anexo VIII, «Direitos de propriedade intelectual, industrial e comercial: Lista de convenções» (artigo 71.º);
+Anexo VIII, «Direitos de propriedade intelectual, industrial e comercial: Lista de convenções» (artigo 71.º);
 
 e os seguintes protocolos:
 
@@ -3184,7 +3189,7 @@ Declaração comum relativa à República de São Marinho.
 
 O plenipotenciário da República da Croácia tomou nota da declaração unilateral da Comunidade e dos seus Estados membros, anexa à presente acta final.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/01340283.pdf)
 
 Declarações comuns
 

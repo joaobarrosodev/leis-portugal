@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-1998-197345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37d5b493a26539dc1e3816a0ac847e0cec374cffdaa042b1f713c16ffc5b69d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d65de9fa221c6196beffbad34ce1ce6686321f3ca7926080f9afa52452be0c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criança
 - Convenção
-- Portugal
+- Criança
 - Direitos da Criança
-- ONU
 - Nova Iorque
-relationships: []
+- ONU
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:197344:por
+  label: "Ratificada a alteração aprovada para ratificação pelo presente diploma, pelo DEC.12/98.1998.03.19.PR, DR.IS-A [66]\
+    \ DE 19/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-1998-197344
+  date: '1998-03-19'
+- type: cites
+  target: pt:dre:222390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566605:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:24Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +109,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 22 de Janeiro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION ON THE RIGHTS OF THE CHILD
 
@@ -139,7 +153,7 @@ Adopção da proposta de alteração ao n.º 2 do artigo 43.º
 
 Envio dos exemplares autenticados
 
-**O Secretário-Geral da Organização das Nações Unidas, agindo na qualidade de depositário e reportando-se à notificação depositária C.N.138.1995.TREATIES-3, de 22 de Maio de 1995, comunica o seguinte:**
+O Secretário-Geral da Organização das Nações Unidas, agindo na qualidade de depositário e reportando-se à notificação depositária C.N.138.1995.TREATIES-3, de 22 de Maio de 1995, comunica o seguinte:
 
 Relembra-se que os Estados Partes na Convenção acima referida decidiram, por ocasião da Conferência dos Estados Partes realizada a 12 de Dezembro de 1995, adoptar a alteração ao n.º 2 do artigo 43.º da Convenção acima referida.
 

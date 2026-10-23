@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 105/1997, 1º Suplemento, Série I-A de 1997-05-07
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2180-(2) a 2180-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24-a/1997/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-a-1997-448082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866c4ec5c39a70239596f0a7a1aa8bb764c345cdb67f8d12da06c550958caccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b95f70240d0f0fb9838dd11063e11b34a20b4cc73e3e0e5e4ab7264fd89a54be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,36 +70,36 @@ reuse:
 subjects:
 - Alfândega
 - Aproximação das Legislações
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Denominação de Origem
+- Comércio
 - Comunidade Europeia
 - Contingentação
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Documentação Administrativa
-- Israel
-- Patente
-- Propriedade Industrial
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Mercado Agrícola
-- Política Aduaneira
 - Cooperação Agrícola
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Política
+- Cooperação Técnica
+- Denominação de Origem
+- Documentação Administrativa
+- Israel
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Mercado Agrícola
+- Patente
+- Política Aduaneira
 - Política do Audiovisual
-- Propriedade Intelectual
-- Comércio
+- Portugal
 - Produto Agrícola
-- Bruxelas
+- Propriedade Industrial
+- Propriedade Intelectual
 relationships:
 - type: cites
   target: celex:31962R0026
@@ -112,13 +112,13 @@ relationships:
 article_structure:
   article_count: 140
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:59Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +131,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E O ESTADO DE ISRAEL, POR OUTRO.
 
@@ -845,27 +845,27 @@ O presente Acordo entra em vigor no primeiro dia do segundo mês seguinte à dat
 
 A partir da sua entrada em vigor, o presente Acordo substitui o Acordo entre a Comunidade Económica Europeia e o Estado de Israel, bem como o Acordo entre os Estados membros da Comunidade Europeia do Carvão e do Aço, por um lado, e o Estado de Israel, por outro, assinados em Bruxelas em 11 de Maio de 1975.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO I — Lista dos produtos referidos no artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO II — Lista dos produtos referidos no artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO IV — Lista dos produtos referidos no n.º 2 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO V — Lista dos produtos referidos no artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO VI — Lista dos produtos objecto das concessões referidas no n.º 6 do artigo 9.º
 
@@ -915,7 +915,7 @@ Se o volume das importações de um produto exceder as quantidades de referênci
 
 6 - Conforme indicado na coluna E, relativamente a determinados produtos que não os referidos nos n.os 3 e 4, a Comunidade poderá fixar uma quantidade de referência na acepção do n.º 4 se, tendo em conta o balanço anual das transacções por si estabelecido, verificar que o volume das importações de um ou de vários produtos ameaça causar dificuldades no mercado comunitário. Se, posteriormente, o produto for submetido a um contingente pautal, segundo as condições enumeradas no n.º 4, o direito da Pauta Aduaneira Comum será, consoante os produtos, aplicado na sua totalidade ou reduzido nas proporções indicadas na coluna C no que respeita às quantidades importadas que excedam o contingente.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO EM ISRAEL DE PRODUTOS AGRÍCOLAS ORIGINÁRIOS DA COMUNIDADE.
 
@@ -933,7 +933,7 @@ Se o volume das importações de um produto exceder as quantidades de referênci
 
 6 - Relativamente às importações de queijos e requeijões, o montante do contingente pautal será aumentado em quatro parcelas iguais correspondentes a 10% desse montante, de 1 de Janeiro de 1997 a 1 de Janeiro do ano 2000.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 PROTOCOLO N.º 3, RELATIVO A QUESTÕES FITOSSANITÁRIAS
 
@@ -1253,7 +1253,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1263,7 +1263,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritos na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -1667,7 +1667,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -1677,11 +1677,11 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e de Israel reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste último caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de ordem, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 ## ANEXO IV — Declaração prevista no n.º 4 do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
 
 PROTOCOLO N.º 5, RELATIVO À ASSISTÊNCIA MÚTUA ENTRE AUTORIDADES ADMINISTRATIVAS EM MATÉRIA ADUANEIRA
 
@@ -2143,4 +2143,4 @@ Declaração de Israel relativa ao artigo 65.º
 
 Israel declara que, no quadro das discussões preparatórias da decisão do Conselho de Associação referida no n.º 1 do artigo 65.º, é sua intenção levantar a questão das disposições destinadas a evitar a dupla tributação dos trabalhadores de uma das Partes que residam no território da outra Parte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/105a01/00020111.pdf)

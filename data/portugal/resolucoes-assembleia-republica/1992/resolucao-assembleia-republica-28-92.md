@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/1992/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-1992-283292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 848123cdc6338e0e7586b97a6def0f3011b1536ab6be1f3f226095eb2f0e5795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d680884112664e702e7077cf80323187cc7f845841131b456033ab48a6b493
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Hungria
 - Admissão de Estrangeiros
+- Convenção
+- Hungria
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:27Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 2 de Abril de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 Budapeste, 20 de Setembro de 1991.
 
@@ -124,7 +124,7 @@ b) Cada uma das Partes receberá também os seus cidadãos que não possuam um d
 
 9 - O presente Acordo entrará em vigor logo que ambas as Partes tiverem informado por via diplomática que se encontram concluídas as formalidades constitucionais necessárias para o efeito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf))](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)
 
 Se o que precede merecer a concordância do seu Governo, tenho a honra de propor que a presente carta e a resposta de V. Ex.ª constituam o Acordo sobre a Supressão Mútua de Vistos entre o Governo da República Portuguesa e o Governo da República da Hungria.
 
@@ -132,7 +132,7 @@ Aproveito esta ocasião, Sr. Ministro, para apresentar a V. Ex.ª os protestos d
 
 O Embaixador de Portugal, António Baptista Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf))](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)
 
 1 - Os cidadãos da República Portuguesa titulares de documento de viagem válido, emitido pelas competentes autoridades da República Portuguesa, estão dispensados de visto de entrada em território húngaro para uma permanência não superior a 90 dias.
 
@@ -154,4 +154,4 @@ b) Cada uma das Partes receberá também os seus cidadãos que não possuam um d
 
 9 - O presente Acordo entrará em vigor logo que ambas as Partes tiverem informado por via diplomática que se encontram concluídas as formalidades constitucionais necessárias para o efeito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf))](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/186a00/39203922.pdf)

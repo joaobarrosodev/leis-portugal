@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/560/1991/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1991-647900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed99f4e091e68b44d1ad902aa9ea6cdf3bcaa2a0a275c05a892ba614e0487d8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2fc69caa2ca1d9df2805f6f1b9bbe8c64577cae29b5883bb23fcd5be162f436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,58 @@ relationships:
   target: pt:dre:203795:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204222:por
+  label: "Alterado o nº 1 e aditado um nº 1-A, pela PORT.629/97.1997.08.08.MADRP DR.IS-B [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1997-204222
+  date: '1997-08-08'
+- type: amended_by
+  target: pt:dre:651738:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, alterada pelas Port 1424/95, de 27-Nov e 629/97,\
+    \ de 08-Ago, pela PORT.671/2003.2003.07.30.MADRP, DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/671-2003-651738
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:203795:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela presente portaria, alterada pelas Port 1424/95,\
+    \ de 27-Nov e 629/97, de 08-Ago e renovada pela Port 671/2003, de 30-Jul, pela PORT.28/2006.05.01.2006.MADRP, DR.IS-B\
+    \ [4] de 05.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-2006-203795
+  date: '2006-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:36Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/143b00/32223223.pdf))](https://files.diariodarepublica.pt/1s/1991/06/143b00/32223223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/143b00/32223223.pdf)

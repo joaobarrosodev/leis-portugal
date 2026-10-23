@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/748/1991/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/748-1991-687205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 435df18b60e90593c99579625ca9bf6f3df40cc72af4021795f35c9ac5fc1940
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb9415acf2085c28ef7b297570e01c78604b0b8a350f86d5f33f078bc3d2bd64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,25 @@ subjects:
 - Prestação de Serviços
 - Regulamento
 - Telecomunicações Complementares
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:12Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +114,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 18 de Julho de 1991.**
+Assinada em 18 de Julho de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.
 
@@ -182,7 +190,9 @@ Os cadernos de encargos são adquiridos na sede do ICP, na Avenida de José Malh
 
 4 - Os operadores de serviço público de telecomunicações estão obrigados, pelo presente Regulamento e para efeitos deste concurso, a prestar todos os esclarecimentos que o ICP lhes solicite.
 
-###### Artigo 8.º — Livro de consulta
+###### Artigo 8.º
+
+## Livro de consulta
 
 1 - O ICP deverá manter aberto um livro contendo todas as peças integrantes do processo de concurso, os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, entre as 9 horas e 30 minutos e as 12 horas e as 13 horas e as 16 horas e 30 minutos, por qualquer concorrente.
 

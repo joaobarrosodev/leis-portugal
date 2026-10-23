@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1148/1992/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1148-1992-616222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 976a605b42664243191854a48a41e5c9f1583dae33fcdb2bc6464ef5d7e4e37a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e69b453d655e15a696e6163c92acc79f047173629a209754a1752b1ecbb8a7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,45 @@ relationships:
   target: pt:dre:455473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520243:por
+  label: "Excluída uma área da zona de caça atribuída pela Port 722-B5/92 de 15-Jul, com a redacção conferida no presente\
+    \ diploma, pela PORT.330/2007.28.03.2007.MADRP, DR.IS [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-2007-520243
+  date: '2007-03-28'
+- type: amended_by
+  target: pt:dre:455473:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 722-B5/92, de 15-Jul, alterada pela Port\
+    \ 1001/92, de 22-Out, pelo presente diploma e pela Port 330/2007, de 28-Mar, pela PORT.927/2008.19.08.2008.MAOTDR, DR.IS\
+    \ [159] de 19.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/927-2008-455473
+  date: '2008-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/722-b5/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/722-b5/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617478:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:00Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +129,6 @@ Manda o Governo, pelo Ministro da Agricultura, que o n.º 2.º da [Portaria n.º
 
 Ministério da Agricultura.
 
-**Assinada em 11 de Novembro de 1992.**
+Assinada em 11 de Novembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

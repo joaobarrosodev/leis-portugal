@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/39/1994/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-1994-298588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 988e4793a591c70e8bc4510bbd3ff173df1f2dc8b5015fa6b45180b0f661a130
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d69e8de93d868f554d546090546fface94956150b96b6f6d1c0268547c84076
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Judicial
+- Conselho da Europa
+- Convenção
+- Cooperação Judiciária
+- Direito Penal
+- Estrasburgo
+- Ministério Público
+- Notificação
+- Portugal
 - Processo Penal
 - Registo Criminal
-- Convenção
-- Portugal
-- Estrasburgo
-- Notificação
 - Sanção Penal
-- Cooperação Judiciária
-- Conselho da Europa
-- Direito Penal
-- Ministério Público
 relationships:
 - type: amended_by
   target: pt:dre:108028570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298587:por
+  label: Ratificada a Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal pelo(a) Decreto do Presidente da República
+    n.º 56/94 - Diário da República n.º 161/1994, Série I-A de 1994-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/56-1994-298587
+  date: '1994-07-14'
+- type: amended_by
+  target: pt:dre:225581:por
+  label: "Ratificado o Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aprovada para\
+    \ ratificação pelo presente diploma, tendo sido o citado Protocolo aprovado para ratificação pela Res 49/94 de 17-Mar,\
+    \ pelo DEC.64/94.12.08.1994.PR, DR.IS-A [[186]] de 12.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/64-1994-225581
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:687593:por
+  label: "Ratificado o Segundo Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aprovada\
+    \ para ratificação pelo presente diploma, tendo sido o citado Protocolo aprovado para ratificação pela Res 18/2006 de\
+    \ 09-Mar, pelo DEC.17/2006.09.03.2006.PR, DR.IS-A [49] de 09.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/17-2006-687593
+  date: '2006-03-09'
+- type: amended_by
+  target: pt:dre:108028570:por
+  label: Substituídas, a partir de 22.08.2017, as disposições correspondentes da Convenção Europeia de Auxílio Judiciário
+    Mútuo em Matéria Penal aprovada pela presente Resolução, e dos seus dois Protocolos Adicionais aprovados pelas Res 49/94
+    de 17-mar AR e 18/2006 de 09-mar AR, pelo(a) Lei n.º 88/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21
+    nos termos do seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-2017-108028570
+  date: '2017-08-21'
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:28Z'
   warnings: []
   errors: []
 ---
@@ -102,21 +130,21 @@ Aprova, para ratificação, a Convenção Europeia de Auxílio Judiciário Mútu
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberta à assinatura dos Estados membros do Conselho da Europa em 20 de Abril de 1959, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
+Artigo 1.º É aprovada, para ratificação, a Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberta à assinatura dos Estados membros do Conselho da Europa em 20 de Abril de 1959, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
 
-###### Art. 2.º Ao texto da Convenção são formuladas as seguintes reservas:
+Art. 2.º Ao texto da Convenção são formuladas as seguintes reservas:
 
 a) Portugal declara que só cumprirá as cartas rogatórias de busca e apreensões que preencham as condições das alíneas a) e c) do artigo 5.º;
 
 b) Portugal declara que os pedidos e elementos anexos que lhe sejam dirigidos devem ser acompanhados da respectiva tradução para português ou para francês.
 
-###### Art. 3.º De acordo com o n.º 3 do artigo 7.º, Portugal declara que o prazo para recepção da notificação dirigida às suas autoridades solicitando a comparência de um arguido que se encontre no seu território é de 50 dias.
+Art. 3.º De acordo com o n.º 3 do artigo 7.º, Portugal declara que o prazo para recepção da notificação dirigida às suas autoridades solicitando a comparência de um arguido que se encontre no seu território é de 50 dias.
 
-###### Art. 4.º Nos termos do artigo 24.º, Portugal declara que, para os fins da presente Convenção, o Ministério Público deverá ser considerado autoridade judiciária.
+Art. 4.º Nos termos do artigo 24.º, Portugal declara que, para os fins da presente Convenção, o Ministério Público deverá ser considerado autoridade judiciária.
 
 Aprovada em 17 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION EUROPÉENNE D'ENTRAIDE JUDICIAIRE EN MATIÈRE PÉNALE
 
@@ -808,7 +836,7 @@ Qualquer Parte Contratante pode, no que lhe diz respeito, denunciar a presente C
 
 ###### Artigo 30.º
 
-**O Secretário-Geral do Conselho da Europa notifica os membros do Conselho e o Governo de qualquer dos Estados que tenham aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notifica os membros do Conselho e o Governo de qualquer dos Estados que tenham aderido à presente Convenção:
 
 a) Dos nomes dos signatários e do depósito de qualquer instrumento de ratificação ou adesão;
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/971/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/971-1991-301616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29d0cf8db0ace33e5723b24148540d9e4f940f6ca689b5ecbb37dce43cedc1d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dadfb5b00a33ecb698de299c8c20f6bf83c1d56f7f1b3fd0123c0ac9819632f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,35 @@ relationships:
   target: pt:dre:599702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A DESIGNAÇÃO DO CURSO DE TECNOLOGIA DAS INDÚSTRIAS AGRO-ALIMENTARES, PARA CURSO DE ENGENHARIA DAS INDÚSTRIAS
+    AGRO-ALIMENTARES PELA PORTARIA 952/94, DE 25 DE OUTUBRO, PUBLICADA NO DR.IS-B [247]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-25'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599702:por
+  label: "Revogada pela PORT.1134/2000.2000.11.29.ME DR.IS-B [276], nos termos do respectivo art. 2º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1134-2000-599702
+  date: '2000-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:30Z'
   warnings: []
   errors: []
 ---
@@ -132,6 +151,6 @@ Os cursos entrarão em funcionamento a partir do ano lectivo de 1992-1993, na se
 
 Ministério da Educação.
 
-**Assinada em 6 de Setembro de 1991.**
+Assinada em 6 de Setembro de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

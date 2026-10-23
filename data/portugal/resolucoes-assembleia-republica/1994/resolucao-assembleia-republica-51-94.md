@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/51/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-1994-225585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2e19cd5097ba1ef95fc1c8b541841a01ca193fe3fc9cc4e4dfc8b22902ab630
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 048b78f44140308b54a48013f00262f2bc5031661cec28caf09c8f28c1b6007f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Ilícito
-- Embarcação
 - Convenção
-- Portugal
+- Direito Internacional
+- Embarcação
 - Plataforma Continental
+- Portugal
+- Segurança Marítima
 - Segurança Pública
 - Terrorismo
-- Segurança Marítima
-- Direito Internacional
 relationships:
 - type: amended_by
   target: pt:dre:287087:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287087:por
+  label: "Aprovado, para adesão, o Protocolo de 2005 relativo ao Protocolo para a Supressão de Actos Ilícitos contra a Segurança\
+    \ das Plataformas Fixas localizadas na Plataforma Continental que altera os nº 1 do art. 1º, al.s d) e e) do nº 1 do art.\
+    \ 2º, nº 2 do art. 2º, nºs 1, 3 e 4 do art. 3º e adita um art. 2º-bis e um art. 2º-ter ao Protocolo de 1988 aprovado,\
+    \ para adesão, pela presente resolução, pela RES.100/2011.04.05.2011.AR, DR.IS [86] de 04.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/100-2011-287087
+  date: '2011-05-04'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:47Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +107,15 @@ validation:
 
 Aprova, para adesão, a Convenção para a Supressão de Actos Ilícitos contra a Segurança da Navegação Marítima e o Protocolo Adicional para a Supressão de Actos Ilícitos contra a Segurança das Plataformas Fixas Localizadas na Plataforma Continental.
 
-###### Artigo 1.º A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para adesão, a Convenção para a Supressão de Actos Ilícitos contra a Segurança da Navegação Marítima e o Protocolo Adicional para a Supressão de Actos Ilícitos contra a Segurança das Plataformas Fixas Localizadas na Plataforma Continental, de 1988, cujos textos originais em inglês e respectiva tradução para português seguem em anexo à presente resolução.
+Artigo 1.º A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para adesão, a Convenção para a Supressão de Actos Ilícitos contra a Segurança da Navegação Marítima e o Protocolo Adicional para a Supressão de Actos Ilícitos contra a Segurança das Plataformas Fixas Localizadas na Plataforma Continental, de 1988, cujos textos originais em inglês e respectiva tradução para português seguem em anexo à presente resolução.
 
-###### Art. 2.º Ao texto da Convenção e Protocolo é formulada uma declaração interpretativa do seguinte teor:
+Art. 2.º Ao texto da Convenção e Protocolo é formulada uma declaração interpretativa do seguinte teor:
 
 Portugal considera, face ao seu ordenamento jurídico interno, que a entrega do suspeito a que se refere o artigo 8.º da Convenção só pode ter por fundamento a existência de fortes suspeitas de aquele ter praticado algumas das infracções penais previstas no artigo 3.º e dependerá sempre de decisão judicial, não sendo admitida se ao crime imputado corresponder a pena de morte.
 
 Aprovada em 10 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION FOR THE SUPPRESSION OF UNLAWFUL ACTS AGAINST THE SAFETY OF MARITIME NAVIGATION
 

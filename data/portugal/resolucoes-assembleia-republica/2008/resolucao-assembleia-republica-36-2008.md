@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-2008-454811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a24e417f3489ed341d872ef6d6c22dafd257db699522eb186ed0eae0c637fdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd65c3a38cdb135fd5fe4930247436d371b3a212b9b885e5cbdbed268bdb9084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,45 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Administração Pública
+- Agricultura
+- Albânia
 - ARMA de Destruição Maciça
-- Conselho de Estabilização e de Associação
 - Combate ao Terrorismo
-- Direitos do Homem
+- Comércio
 - Comunidades Europeias
+- Concorrência
+- Condições de Higiene e Segurança no Trabalho
+- Confidencialidade
+- Conselho de Estabilização e de Associação
 - Convenção
 - Cooperação Comercial
-- Cooperação Financeira
-- Educação
-- Portugal
-- Desenvolvimento Regional
-- Direitos Aduaneiros
-- Concorrência
-- Empresa Pública
-- Espaço de Aviação Comum Europeu
-- Administração Pública
-- Pesca
-- Sociedade da Informação
-- Justiça
-- Direito de Estabelecimento
-- Livre Circulação de Mercadorias
-- Livre Circulação de Pessoas
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Internacional
-- Estatística
-- Propriedade Intelectual
-- Confidencialidade
-- Proteção do Consumidor
-- Condições de Higiene e Segurança no Trabalho
-- Agricultura
 - Desenvolvimento Local
-- Comércio
-- Albânia
-- Transporte
+- Desenvolvimento Regional
+- Direito de Estabelecimento
+- Direitos Aduaneiros
+- Direitos do Homem
+- Educação
+- Empresa Pública
+- Espaço de Aviação Comum Europeu
+- Estatística
+- Imigração
+- Justiça
+- Livre Circulação de Mercadorias
+- Livre Circulação de Pessoas
 - Luxemburgo
+- Pesca
+- Portugal
+- Propriedade Intelectual
+- Proteção do Consumidor
+- Sociedade da Informação
+- Transporte
 relationships:
+- type: amended_by
+  target: pt:dre:454823:por
+  label: "Ratificado o Acordo de Estabilização e de Associação pelo DEC.51/2008.29.07.2008.PR, DR.IS [145] de 29.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-2008-454823
+  date: '2008-07-29'
 - type: cites
   target: celex:31989R1576
   label: null
@@ -140,13 +146,13 @@ relationships:
 article_structure:
   article_count: 238
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:43Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +165,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Maio de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA ALBÂNIA, POR OUTRO.
 
@@ -1379,7 +1385,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 133.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 134.º
 
@@ -1399,7 +1405,7 @@ Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entra
 
 A partir da data da sua entrada em vigor, o presente Acordo substituirá o acordo entre a Comunidade Económica Europeia e a República da Albânia relativo ao comércio e à cooperação comercial e económica, assinado em Bruxelas, em 11 de Maio de 1992. Essa substituição não prejudicará quaisquer direitos, obrigações ou situações jurídicas das Partes resultantes da aplicação do referido acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO I
 
@@ -1419,13 +1425,13 @@ Os direitos de importação serão reduzidos da seguinte forma:
 
 - em 1 de Janeiro do quinto ano seguinte ao da data de entrada em vigor do Acordo, serão eliminados os direitos de importação remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (a) — Concessões pautais da albânia para produtos agrícolas primários originários da comunidade [referidos na alínea a) do n.º 3 do artigo 27.º]
 
 Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (b) — Concessões pautais da albânia para produtos agrícolas primários originários da comunidade [referidos na alínea b) do n.º 3 do artigo 27.º]
 
@@ -1441,23 +1447,23 @@ Os direitos aduaneiros aplicáveis aos produtos enumerados no presente anexo ser
 
 - em 1 de Janeiro do quarto ano seguinte ao da data de entrada em vigor do Acordo, os direitos de importação serão reduzidos para 0% do direito de base.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (c) — Concessões pautais da albânia para produtos agrícolas primários originários da comunidade [referidos na alínea c) do n.º 3 do artigo 27.º]
 
 Isenção de direitos, dentro dos limites de um contingente, a partir da entrada em vigor do Acordo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO III — Concessões comunitárias para o peixe e os produtos da pesca da Albânia
 
 Os produtos apresentados adiante, originários da Albânia, e importados para a Comunidade, serão objecto das seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Os direitos aplicáveis a todos os produtos da posição 1604 do SH, exceptuando as preparações ou conservas de sardinhas e de anchovas, serão reduzidos do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO IV — Estabelecimento: serviços financeiros (referido no título v do capítulo ii)
 
@@ -1663,19 +1669,19 @@ A Comunidade e a Albânia informam-se mutuamente das disposições administrativ
 
 Os produtos agrícolas transformados a seguir enumerados, originários da Albânia, e importados para a Comunidade, estão sujeitos a direitos aduaneiros nulos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (a) — Direitos aplicáveis aos produtos agrícolas transformados, originários da Comunidade e importados para a Albânia
 
 Na data de entrada em vigor do Acordo, os produtos a seguir enumerados, originários da Comunidade e importados para a Albânia, passam a estar sujeitos a direitos aduaneiros nulos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (b) — Concessões pautais da Albânia para os produtos agrícolas transformados originários da Comunidade
 
 Os direitos aduaneiros aplicáveis aos produtos enumerados no presente anexo são eliminados na data da entrada em vigor do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (c) — Concessões pautais da Albânia para os produtos agrícolas transformados originários da Comunidade
 
@@ -1691,13 +1697,13 @@ em 1 de Janeiro do terceiro ano seguinte ao da data de entrada em vigor do Acord
 
 em 1 de Janeiro do quarto ano seguinte ao da data de entrada em vigor do Acordo, serão eliminados os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO II (d)
 
 Relativamente aos produtos agrícolas transformados enumerados no presente anexo os direitos aduaneiros NMF continuarão a aplicar-se na data de entrada em vigor do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 PROTOCOLO N.º 3 - RELATIVO ÀS CONCESSÕES PREFERENCIAIS RECÍPROCAS NO QUE RESPEITA A CERTOS VINHOS E AO RECONHECIMENTO, À PROTECÇÃO E AO CONTROLO RECÍPROCOS DAS DENOMINAÇÕES DOS VINHOS, DAS BEBIDAS ESPIRITUOSAS E DOS VINHOS AROMATIZADOS.
 
@@ -1737,13 +1743,13 @@ b) No caso da Albânia, na Lei n.º 8443, de 21 de Janeiro de 1999, «relativa �
 
 1 - As importações para a Comunidade dos seguintes vinhos originários da Albânia estão sujeitas às concessões a seguir estabelecidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - A Comunidade aplica um direito nulo preferencial aos contingentes pautais referidos no ponto 1, desde que não sejam pagos subsídios à exportação a título da exportação dessas quantidades pela Albânia.
 
 3 - As importações para a Albânia dos seguintes vinhos originários da Comunidade estão sujeitas às concessões a seguir estabelecidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 4 - A Albânia aplica um direito nulo preferencial aos contingentes pautais referidos no ponto 3, desde que não sejam pagos subsídios à exportação a título da exportação dessas quantidades pela Comunidade.
 
@@ -1999,13 +2005,13 @@ A derrogação referida no n.º 1 não pode ser cumulada com qualquer das derrog
 
 2 - Salvo disposições em contrário a adoptar pelas Partes Contratantes, a comercialização dos vinhos, bebidas espirituosas ou vinhos aromatizados produzidos, elaborados, designados e apresentados em conformidade com o presente acordo, mas cuja produção, elaboração, designação e apresentação deixem de estar conformes na sequência de uma alteração do mesmo acordo, pode prosseguir até ao esgotamento das existências.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Lista de denominações protegidas
 
 (referidas nos artigos 4.º e 6.º do Anexo II)
 
-# Parte A - Na comunidade
+Parte A - Na comunidade
 
 a) Vinhos originários da comunidade
 
@@ -2029,37 +2035,37 @@ República Checa
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Alemanha
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Grécia
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Espanha
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
@@ -4053,33 +4059,33 @@ Chipre
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Luxemburgo
 
 Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Hungria
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Malta
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Áustria
 
@@ -4149,11 +4155,11 @@ Portugal
 
 1 - Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Eslovénia
 
@@ -4163,7 +4169,7 @@ Regiões determinadas
 
 (seguidas ou não do nome de uma circunscrição vitícola e/ou do nome de uma exploração vitícola)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - Vinhos de mesa com uma indicação geográfica
 
@@ -4177,7 +4183,7 @@ Eslováquia
 
 Vinhos de qualidade produzidos numa região determinada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Reino Unido
 
@@ -4379,7 +4385,7 @@ Brandy del Penedés
 
 Brandy italiano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Deutscher Weinbrand
 
@@ -4387,7 +4393,7 @@ Wachauer Weinbrand
 
 Weinbrand Dürnstein
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 6 - Aguardente de bagaceira
 
@@ -4459,11 +4465,11 @@ Grappa veneta/Grappa del Veneto
 
 Südtiroler Grappa/Grappa dell'Alto Adige
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Eau-de-vie de marc de marque nationale luxembourgeoise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Pálinka
 
@@ -4555,7 +4561,7 @@ Eau-de-vie de prunelles de marque nationale luxembourgeoise
 
 Wachauer Marillenbrand
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Szatmári Szilvapálinka
 
@@ -4621,7 +4627,7 @@ Plymouth Gin
 
 Gin de Mahón
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 12 - Bebidas espirituosas com alcaravia
 
@@ -4643,7 +4649,7 @@ Ojén
 
 Rute
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 14 - Licores
 
@@ -4697,13 +4703,13 @@ Wachauer Marillenlikör
 
 Jägertee/Jagertee/Jagatee
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Demänovka Bylinnÿ Likér
 
 Polish Cherry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 15 - Bebidas espirituosas
 
@@ -4727,7 +4733,7 @@ Polska Wódka/Polish Vodka
 
 Laugarício Vodka
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Latvijas Dzidrais
 
@@ -4753,7 +4759,7 @@ Vermouth de Chambéry
 
 Vermouth di Torino
 
-# Parte B - Na Albânia
+Parte B - Na Albânia
 
 a) Vinhos originários da Albânia
 
@@ -4843,15 +4849,15 @@ Regiões determinadas a seguir enumeradas, seguidas ou não do nome de uma circu
 
 12 - Kolonjë.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista das menções tradicionais e das expressões relativas à qualidade que caracterizam os vinhos na comunidade
 
 (referidas nos artigos 4.º e 7.º do Anexo II)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Lista de contactos
 
@@ -5201,7 +5207,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -5211,7 +5217,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -5623,7 +5629,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Os produtos indicados na lista podem não estar todos abrangidos pelo Acordo. Por conseguinte, é necessário consultar as outras partes do mesmo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ## ANEXO III — Modelo do certificado de circulação EUR. 1 e respectivo pedido
 
@@ -5635,7 +5641,7 @@ Instruções para a impressão
 
 CERTIFICADO DE CIRCULAÇÃO DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Notas
 
@@ -5655,11 +5661,11 @@ El exportador de los productos incluidos en el presente documento (autorización
 
 Versão checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão dinamarquesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão alemã
 
@@ -5671,7 +5677,7 @@ Käesoleva dokumendiga hõlmatud toodete eksportija (tolliameti kinnitus nr. ...
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 English version
 
@@ -5687,19 +5693,19 @@ L'esportatore delle merci contemplate nel presente documento (autorizzazione dog
 
 Versão letã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão lituana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão húngara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão maltesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão neerlandesa
 
@@ -5707,7 +5713,7 @@ De exporteur van de goederen waarop dit document van toepassing is (douanevergun
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão portuguesa
 
@@ -5715,11 +5721,11 @@ O abaixo assinado, exportador dos produtos cobertos pelo presente documento (aut
 
 Versão eslovena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão eslovaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Versão finlandesa
 
@@ -6119,7 +6125,7 @@ As Partes renunciam a exigir o reembolso de despesas incorridas no âmbito do pr
 
 3 - No que respeita a questões relacionadas com a aplicabilidade do presente protocolo, as Partes empreenderão consultas entre si com vista à sua resolução no âmbito do Comité de Estabilização e de Associação instituído nos termos do artigo 120.º do Acordo de Estabilização e de Associação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 ACTO FINAL
 
@@ -6189,19 +6195,19 @@ reunidos no Luxemburgo em 12 de Junho do ano de 2006 para a assinatura do Acordo
 
 O Acordo e os seus Anexos I a V:
 
-## Anexo I - Concessões pautais da Albânia para produtos industriais comunitários
+Anexo I - Concessões pautais da Albânia para produtos industriais comunitários
 
-## Anexo II(a) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea a) do n.º 3 do artigo 27.º)
+Anexo II(a) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea a) do n.º 3 do artigo 27.º)
 
-## Anexo II(b) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea b) do n.º 3 do artigo 27.º)
+Anexo II(b) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea b) do n.º 3 do artigo 27.º)
 
-## Anexo II(c) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea c) do n.º 3 do artigo 27.º)
+Anexo II(c) - Concessões pautais da Albânia para produtos agrícolas primários originários da Comunidade (referidos na alínea c) do n.º 3 do artigo 27.º)
 
-## Anexo III - Concessões comunitárias para produtos da pesca da Albânia
+Anexo III - Concessões comunitárias para produtos da pesca da Albânia
 
-## Anexo IV - Estabelecimento: Serviços financeiros
+Anexo IV - Estabelecimento: Serviços financeiros
 
-## Anexo V - Direitos de propriedade intelectual, industrial e comercial
+Anexo V - Direitos de propriedade intelectual, industrial e comercial
 
 e os seguintes Protocolos:
 
@@ -6247,7 +6253,7 @@ Os plenipotenciários da República da Albânia tomaram igualmente nota da segui
 
 Declaração da Comunidade relativa às medidas comerciais de carácter excepcional adoptadas pela Comunidade com base no Regulamento (CE) n.º [2007/2000](http://data.europa.eu/eli/reg/2000/2007/oj?locale=pt).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Declarações Comuns
 
@@ -6315,11 +6321,11 @@ Declaração Comum relativa ao Protocolo n.º 5 do Acordo
 
 Valores-limite medidos pelo teste do Ciclo Europeu de Estado Estacionário (ESC) e do Ensaio Europeu de Reacção a uma Carga (ELR):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 Valores-limite medidos pelo teste do Ciclo Transiente Europeu (ETC):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
 
 2 - A Comunidade e a Albânia procurarão, no futuro, reduzir as emissões dos veículos a motor utilizando tecnologias de controlo das emissões dos veículos de ponta e combustíveis de melhor qualidade.
 
@@ -6337,4 +6343,4 @@ Tendo em conta que a Comunidade adoptou medidas comerciais de carácter excepcio
 
 - No que respeita aos produtos classificados nos capítulos 7 e 8 da Nomenclatura Combinada, relativamente aos quais a pauta aduaneira comum preveja a aplicação de direitos aduaneiros ad valorem e de um direito aduaneiro específico, a redução será igualmente aplicável a esse direito aduaneiro específico, em derrogação do disposto no n.º 1 do artigo 27.º do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0480405005.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/74/2000/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/74-2000-615044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e55ecadef9f5c3b226fe707e85749400eb589ec687d6d279c5b7b8c54d65031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 167e1789e4ba14b0fd7e60f7b166a3fe8e22598fd96a9c27c100558a49db2115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
 - Bulgária
 - Convenção
-- Portugal
-- Lisboa
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
+- Lisboa
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:15Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +98,17 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Abril de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Assinada em 28 de Junho de 2000.**
+Assinada em 28 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 30 de Junho de 2000.**
+Referendada em 30 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA BULGÁRIA SOBRE PROMOÇÃO E PROTECÇÃO MÚTUA DE INVESTIMENTOS.
 
@@ -272,11 +272,11 @@ Feito em Lisboa no dia 27 do mês de Maio do ano de 1993, em português, búlgar
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 Pelo Governo da República da Bulgária:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 PROTOCOLO
 
@@ -296,11 +296,11 @@ Feito em Sófia no dia 30 do mês de Março do ano de 1999, em língua portugues
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 Pelo Governo da República da Bulgária:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 [(ver texto em língua búlgara no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
@@ -462,11 +462,11 @@ Done in Lisbon on 27 of May 1993 in Portuguese, Bulgarian and English languages,
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 For the Government of Republic of Bulgaria:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 PROTOCOL
 
@@ -486,8 +486,8 @@ Done in duplicate in Sofia on 30 March 1999 in Portuguese, Bulgarian and English
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
 
 For the Government of Republic of Bulgaria:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)](https://files.diariodarepublica.pt/1s/2000/11/263a00/64076416.pdf)

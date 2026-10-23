@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/388/1992/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-1992-499177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2440800b0f1aa605db28a314f1ae73526b81fa0acd131f955eec80a06593a49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ec447c319cfed451618d591cd1ffa8d75ac708942d08ca5b67bfb6981b99681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,74 @@ relationships:
   target: pt:dre:544666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 385/93 DE 06-ABR DR.IS-B [81].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO O QUADRO DE PESSOAL PELA PORT 458/93 DE 30-ABR DR.IS-B [101].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:170355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662317:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:52Z'
   warnings: []
   errors: []
 ---
@@ -108,28 +162,28 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Repartição de Admissão de Doentes, Arquivo Clínico e Estatística:
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
-#### Secção de Arquivo Clínico e Estatística;
+Secção de Arquivo Clínico e Estatística;
 
 Repartição de Serviços Financeiros e Aprovisionamento:
 
-#### Secção de Serviços Financeiros;
+Secção de Serviços Financeiros;
 
-#### Secção de Aprovisionamento;
+Secção de Aprovisionamento;
 
 Repartição de Pessoal:
 
 #### Secção de Pessoal;
 
-#### Secção de Secretaria.
+Secção de Secretaria.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 7 de Abril de 1992.**
+Assinada em 7 de Abril de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital Central Especializado de Crianças Maria Pia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/107b00/21652168.pdf))](https://files.diariodarepublica.pt/1s/1992/05/107b00/21652168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/107b00/21652168.pdf)

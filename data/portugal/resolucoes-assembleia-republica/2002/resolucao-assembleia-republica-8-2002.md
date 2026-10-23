@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/8/2002/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-2002-280480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a815fb52521aaafb755cc5fc8044e6fe2016075f7f3c5c0d9dc40b49a6b77916
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 822627ade14886c449e1b4cf075b3adf55c5beeb5505a1e2ab6a3f93ec2a31a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Banco Asiático de Desenvolvimento
 - Convenção
-- Portugal
 - Manila
-- ACTO Constitutivo
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:280477:por
+  label: "Ratificado o Acordo pelo DEC.7/2002.2002.02.23.PR DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-2002-280477
+  date: '2002-02-23'
 article_structure:
   article_count: 66
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:42Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 AGREEMENT ESTABLISHING THE ASIAN DEVELOPMENT BANK
 
@@ -965,19 +970,19 @@ Part A - Regional countries
 
 I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 II
 
 The following regional countries may become signatories of this Agreement in accordance with article 63, provide that at the time of signing, they shall respectively subscribe to the capital stock of the Bank in the following amounts:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 Part B - Non-regional countries
 
 I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 II
 
@@ -1001,7 +1006,7 @@ Subscriptions to the authorized capital stock ot the Asian Development Bank
 
 [as of 31 December 1994 (ver nota 1)]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 (nota 1) A exchange rate adopted as of 31 December 1994.
 
@@ -1751,23 +1756,23 @@ Feito na cidade de Manila, Filipinas, em 4 de Dezembro de 1965, num único exemp
 
 ## ANEXO A — Subscrições iniciais do capital social autorizado para os países potenciais membros ao abrigo do artigo 64.º
 
-# Parte A - Países regionais
+Parte A - Países regionais
 
 I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 II
 
 Os seguintes países regionais poderão tornar-se signatários do presente Acordo, de harmonia com o artigo 63.º, desde que, no momento da assinatura, subscrevam o capital social do Banco a seguir indicado:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
-# Parte B - Países não regionais
+Parte B - Países não regionais
 
 I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 II
 
@@ -1791,13 +1796,13 @@ Subscrições do capital social autorizado do Banco Asiático de Desenvolvimento
 
 [em 31 de Dezembro de 1994 (ver nota 1)]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)](https://files.diariodarepublica.pt/1s/2002/02/046a00/15091545.pdf)
 
 (nota 1) De acordo com a taxa de câmbio adoptada em 31 de Dezembro de 1994.
 
 ## ANEXO B — Eleição dos administradores
 
-#### Secção A - Eleição dos administradores pelos governadores que representam os membros regionais
+Secção A - Eleição dos administradores pelos governadores que representam os membros regionais
 
 1 - Cada governador que representa um membro regional atribuirá a uma única pessoa todos os votos do membro que o tiver nomeado.
 
@@ -1817,7 +1822,7 @@ b) Qualquer governador cujos votos devam ser parcialmente contados para elevar o
 
 6 - No caso de um aumento do número de administradores a eleger pelos governadores que representem os membros regionais, as percentagens mínima e máxima definidas nos n.os 2, 3 e 4 da secção A do presente anexo serão ajustadas adequadamente pelo Conselho de Governadores.
 
-#### Secção B - Eleição dos administradores pelos governadores que representam membros não regionais
+Secção B - Eleição dos administradores pelos governadores que representam membros não regionais
 
 1 - Cada governador que represente um membro não regional atribuirá todos os votos do membro que o tiver nomeado a uma única pessoa.
 

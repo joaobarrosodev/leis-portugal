@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/2001/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-2001-320740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cd4b5f537def3ce021e8efe504dfab6c9da2a5ba99b5b38e6f26a0b79fb874a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5f22da08a7cb3666bb2092a2782b673e17b7b78845754dd28e0238e1f1090d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Astronomia
 - Convenção
-- Portugal
 - Garching
+- Portugal
 relationships: []
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:41Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +93,17 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 14 de Dezembro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Assinado em 26 de Janeiro de 2001.**
+Assinado em 26 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 2001.**
+Referendado em 31 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 AGREEMENT BETWEEN THE GOVERNMENT OF THE PORTUGUESE REPUBLIC AND THE EUROPEAN SOUTHERN OBSERVATORY CONCERNING THE ACCESSION OF PORTUGAL TO THE CONVENTION OF THE EUROPEAN SOUTHERN OBSERVATORY AND RELATED TERMS AND CONDITIONS.
 
@@ -157,11 +157,11 @@ Done at Garching on June 27, 2000 in two originals, in the Portuguese and Englis
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
 
 For the European Southern Observatory:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
 
 ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO EUROPEIA PARA A INVESTIGAÇÃO ASTRONÓMICA NO HEMISFÉRIO SUL RELATIVO À ADESÃO DE PORTUGAL À CONVENÇÃO DA ORGANIZAÇÃO EUROPEIA PARA A INVESTIGAÇÃO ASTRONÓMICA NO HEMISFÉRIO SUL E RESPECTIVOS TERMOS E CONDIÇÕES.
 
@@ -211,12 +211,12 @@ O Acordo assinado em 10 de Julho de 1990 entre a Organização e Portugal, menci
 
 O presente Acordo entra em vigor em 27 de Junho de 2000.
 
-**Assinado em Garching em 27 de Junho de 2000, em dois originais, nas línguas portuguesa e inglesa, sendo os dois textos igualmente autênticos.**
+Assinado em Garching em 27 de Junho de 2000, em dois originais, nas línguas portuguesa e inglesa, sendo os dois textos igualmente autênticos.
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
 
 Pela Organização Europeia para a Investigação Astronómica no Hemisfério Sul:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)](https://files.diariodarepublica.pt/1s/2001/02/037a00/07920794.pdf)

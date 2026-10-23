@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1202/1992/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1202-1992-624028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5eede1c030140cadf19dd28eb0515bdd52148c2e9c15024492fe503f952303c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 241574080fdebb5be1cfd1250ace97baa2e90b1a6cbad7651e4d9b2e8925b183
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Hospital Distrital
-- Pessoal Técnico Superior de Serviço Social
 - Figueira da Foz
+- Hospital Distrital
+- Pessoal de Saúde
+- Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:618933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOA HOSPITAL DISTRIAL DA FIGUEIRA DA FOZ, PELA PORTARIA 906/94, DE 11 DE OUTUBRO, PUBLICADA\
+    \ NO DR.IS-B, 235.\0B, 235."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
@@ -93,16 +99,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1992/05/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1992/05/22/p/dre
+- type: cites
+  target: pt:dre:180458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:17Z'
   warnings: []
   errors: []
 ---
@@ -123,10 +181,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 24 de Novembro de 1992.**
+Assinada em 24 de Novembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital da Figueira da Foz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/295b00/59225922.pdf))](https://files.diariodarepublica.pt/1s/1992/12/295b00/59225922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/295b00/59225922.pdf)

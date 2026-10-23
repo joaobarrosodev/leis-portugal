@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/780/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/780-1991-682238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3258f6791c72ad46e7eecfe817135d7e2c85f77043b0986023559b529e4b65dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d0a8ce39c711953d7e0dcfc83601acdd03c340fe032cd09e9f7780c2aa6b90a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683233:por
+  label: "Revogada pela PORT.470/2003.2003.06.11.MF, DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-2003-683233
+  date: '2003-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:57Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +121,8 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Aliment
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Energia.
 
-**Assinada em 4 de Julho de 1991.**
+Assinada em 4 de Julho de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/181b00/39843985.pdf))](https://files.diariodarepublica.pt/1s/1991/08/181b00/39843985.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/181b00/39843985.pdf)

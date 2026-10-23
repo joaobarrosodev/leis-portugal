@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/28/2009/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/28-2009-603901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb70b6f54836c15a78df84a2dedba174761be758e7fa1caf91b9e6cd7742e644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ec9efff7160d06f8ef3c19718db2efec7ad2f0af037c89219a27c2716e35516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Convenção
-- Portugal
 - Aviação Civil Internacional
+- Convenção
 - Montreal
+- Portugal
 - Segurança Aérea
-relationships: []
+- Transporte Aéreo
+relationships:
+- type: amended_by
+  target: pt:dre:603895:por
+  label: "Ratificado o presente Protocolo pelo DEC.33/2009.17.04.2009.PR, DR.IS [75] de 17.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/33-2009-603895
+  date: '2009-04-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:28Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Fevereiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 PROTOCOL RELATING TO AN AMENDMENT TO THE CONVENTION ON INTERNATIONAL CIVIL AVIATION, SIGNED AT MONTREAL ON 29 SEPTEMBER 1995
 
@@ -185,7 +190,7 @@ Thorgeir Pálsson, Président de la 31e session de l'Assemblée.
 
 Philippe Rochat, Secrétaire général.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf)
 
 PROTOCOLO RELATIVO A UNA ENMIENDA AL CONVENIO SOBRE AVIACIÓN CIVIL INTERNACIONAL, FIRMADO EN MONTREAL EL 29 DE SEPTIEMBRE DE 1995
 
@@ -231,7 +236,7 @@ Thorgeir Pálsson, Presidente del 31º período de sesiones de la Asamblea.
 
 Philippe Rochat, Secretario General.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07500/0228302286.pdf)
 
 PROTOCOLO RELATIVO A UMA EMENDA À CONVENÇÃO SOBRE AVIAÇÃO CIVIL INTERNACIONAL, ASSINADO EM MONTREAL EM 29 DE SETEMBRO DE 1995
 
@@ -261,9 +266,9 @@ Os instrumentos de ratificação serão depositados junto da Organização da Av
 
 O Protocolo entrará em vigor em relação aos Estados que o tenham ratificado na data em que o 122.º instrumento de ratificação for depositado;
 
-**O Secretário-Geral deverá notificar imediatamente todos os Estados Contratantes sobre a data do depósito de cada ratificação do Protocolo;**
+O Secretário-Geral deverá notificar imediatamente todos os Estados Contratantes sobre a data do depósito de cada ratificação do Protocolo;
 
-**O Secretário-Geral deverá notificar imediatamente todos os Estados Partes da referida Convenção sobre a data em que o Protocolo entra em vigor;**
+O Secretário-Geral deverá notificar imediatamente todos os Estados Partes da referida Convenção sobre a data em que o Protocolo entra em vigor;
 
 No que se refere à ratificação do Protocolo por qualquer outro Estado Contratante depois da data acima mencionada, o Protocolo entrará em vigor após depósito do seu instrumento de ratificação junto da Organização da Aviação Civil Internacional.
 

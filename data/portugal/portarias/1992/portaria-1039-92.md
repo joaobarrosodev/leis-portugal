@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1039/1992/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1039-1992-216305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca89f6aca0d1a2f61aa1775803d38b79b9d44ab565a133a1e46b20691fbbd60a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce23633824dfec8541b9ee5bbf4db1b638042d8604dae30220dc3bc1c5b6b139
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Reserva Agrícola Nacional
 - Política de Solos
+- Reserva Agrícola Nacional
 - VILA NOVA de GAIA
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:11Z'
   warnings: []
   errors: []
 ---
@@ -110,14 +114,14 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 16 de Outubro de 1992.**
+Assinada em 16 de Outubro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 1039/92
+Anexo a que se refere o n.º 1.º da Portaria n.º 1039/92
 
 Carta da Reserva Agrícola Nacional (RAN)
 
 Município de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495149.pdf))](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/257b00/51495149.pdf)

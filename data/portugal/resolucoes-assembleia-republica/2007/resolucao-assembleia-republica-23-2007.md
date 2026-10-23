@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23/2007/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-2007-639148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73869e0522f455afc0b6d475ba93c798e0d6aac49fc631a0ec7ca5b8e28df3bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eec2e94338577bb0728c63d0722ba593ff709411db072b6221d58ab169747a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Lisboa
 - Argentina
+- Convenção
 - Cooperação Judiciária
 - Direito Penal
-relationships: []
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:639143:por
+  label: "Ratificado o Acordo pelo DEC.56/2007.14.06.2007.PR, DR.IS [113] de 14.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/56-2007-639143
+  date: '2007-06-14'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:12Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de Março de 2007.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 ACORDO DE AUXÍLIO JUDICIÁRIO MÚTUO EM MATÉRIA PENAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
 
@@ -339,14 +344,14 @@ O presente Acordo será aplicável a qualquer pedido apresentado depois da sua e
 
 3 - Qualquer das Partes poderá denunciar o presente Acordo em qualquer momento, mediante comunicação escrita e por via diplomática, a qual produzirá efeitos 180 dias após a data de recepção da referida comunicação, sendo no entanto tramitados, nos termos normais e até à sua conclusão, os pedidos que se encontrem pendentes.
 
-**Assinado em Lisboa, aos 7 dias do mês de Abril de 2003, em dois exemplares originais, em língua portuguesa e castelhana, fazendo ambos igualmente fé.**
+Assinado em Lisboa, aos 7 dias do mês de Abril de 2003, em dois exemplares originais, em língua portuguesa e castelhana, fazendo ambos igualmente fé.
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf)
 
 Pela República Argentina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2007/06/11300/38073814.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/737/1991/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1991-686858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9857a7f9376a168fb95a43cd1c5f478dc3829764850b9e00d4a39195ee9e9d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eebd7f4247be0cc4855e0cf9a0e5c7eaca6ad2a83c06445f06d3adcd4c1f8d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atleta de ALTA Competição
-- Desporto de ALTA Competição
-- Direcção Geral dos Desportos
 - Bolsa de Estudos
 - Comité Olímpico Português
-relationships: []
+- Desporto de ALTA Competição
+- Direcção Geral dos Desportos
+relationships:
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573547:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:58Z'
   warnings: []
   errors: []
 ---
@@ -151,6 +159,6 @@ f) Valor da bolsa e da comparticipação financeira do Estado.
 
 Ministério da Educação.
 
-**Assinada em 28 de Junho de 1991.**
+Assinada em 28 de Junho de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

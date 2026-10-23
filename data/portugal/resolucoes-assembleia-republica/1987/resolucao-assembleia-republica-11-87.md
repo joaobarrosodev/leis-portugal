@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1987-662540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d06d6b08f20a7668b4a2d8cfb90f11b0a062a878b3308319f075867e8965b27e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8aafbf30ac032312c6374e96717209230aec8b9dadddd3754a5a16002505872
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Desporto
+- Futebol
+- Portugal
+- Segurança Pública
+- Violência
 relationships: []
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:51Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +97,7 @@ A Assembleia de República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 11 de Janeiro de 1987.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 European Convention on Spectator Violence and Misbehaviour at Sports Events and in Particular at Football Matches
 
@@ -863,7 +869,7 @@ b) Pela assinatura sob reserva de ratificação, de aceitação ou de aprovaçã
 
 ###### Artigo 17.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, os outros Estados Partes na Convenção Cultural Europeia e todos os Estados que tenham aderido à presente Convenção sobre:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, os outros Estados Partes na Convenção Cultural Europeia e todos os Estados que tenham aderido à presente Convenção sobre:
 
 a) As assinaturas, em conformidade com o artigo 12.º;
 

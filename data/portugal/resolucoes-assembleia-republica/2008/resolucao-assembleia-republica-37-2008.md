@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-2008-454816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd65d271a3691a82499ac812e0ec9984c121c3222778ec596db58332cdf5108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a5f5628dd08d3a5448265e1ecb6f6217de5ee00a4cf3750d175bc79efa95838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
+- Bruxelas
 - CE Países
-- Transporte Aéreo
 - Comunidade Europeia
 - Convenção
+- EUA
 - Portugal
-- Bruxelas
+- Transporte Aéreo
 - Washington
 relationships:
+- type: amended_by
+  target: pt:dre:454807:por
+  label: "Ratificado o Acordo de Transporte Aéreo pelo DEC.50/2008.29.07.2008.PR, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/50-2008-454807
+  date: '2008-07-29'
 - type: cites
   target: celex:31992R2407
   label: null
@@ -89,14 +94,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2003/96/oj
 article_structure:
   article_count: 35
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:48Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +114,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Maio de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE TRANSPORTE AÉREO
 
@@ -549,9 +554,11 @@ Em fé do que, os abaixo assinados, com os devidos poderes para o efeito, apuser
 
 Feito em Bruxelas em 25 de Abril de 2007 e em Washington em 30 de Abril 2007, em duplicado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0500605023.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0500605023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0500605023.pdf)
 
-## ANEXO 1 — SECÇÃO 1
+## ANEXO 1
+
+#### SECÇÃO 1
 
 Conforme previsto no artigo 22.º do presente Acordo, os acordos bilaterais de transporte aéreo adiante mencionados, celebrados entre os Estados Unidos e os Estados membros, ficam suspensos ou são substituídos pelo presente Acordo:
 
@@ -745,7 +752,7 @@ b) A detenção, por nacionais de um Estado membro ou Estados membros, de 50 % o
 
 3 - As práticas seguidas por cada uma das Partes na aplicação da sua legislação e regulamentação constam do apêndice ao presente anexo.
 
-## Apêndice do anexo 4
+Apêndice do anexo 4
 
 1 - Nos Estados Unidos, é necessária a comprovação da nacionalidade das companhias aéreas dos Estados Unidos que requeiram um certificado, uma isenção ou uma licença de transporte de terceiro nível. Um pedido inicial de licença é inscrito num registo público oficial e tratado com as declarações registadas pelo requerente e por quaisquer outras partes interessadas. O Departamento dos Transportes toma uma decisão final mediante um decreto com base no registo público do processo, incluindo documentos que estão sujeitos a tratamento confidencial. Um processo de «controlo de nacionalidade» pode ser tratado informalmente pelo Departamento ou no âmbito de um procedimento semelhante ao que se aplica aos pedidos iniciais.
 

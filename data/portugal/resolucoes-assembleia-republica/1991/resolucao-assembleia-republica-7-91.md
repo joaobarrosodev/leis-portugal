@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/7/1991/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/7-1991-477636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62ac9e3d9e7a2f290cf920de37440785a91e8ab76ab555a84ecc4e9c39aaa6b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e195b32595e620517aed33edd4c59a9d3495b276d31d4113432167a71ad75b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
+- Cooperação Judiciária
 - Cooperação Jurídica
+- Lisboa
 - Moçambique
 - Portugal
-- Lisboa
-- Cooperação Judiciária
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:477634:por
+  label: "Ratificado o Acordo de Cooperação Jurídica e Judiciária entre a República Portuguesa e a República Popular de Moçambique,\
+    \ pelo DEC.8/91.14.02.1991.PR, DR.IS-A [37] de 14.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-1991-477634
+  date: '1991-02-14'
+- type: corrected_by
+  target: pt:dre:380103:por
+  label: "Retificado o corpo do n.º 2 do art. 85.º, a al. a) do mesmo n.º e art. e o n.º 3 do art. 88.º do Acordo pela RECT.20/91.21.12.1991.AR,\
+    \ DR.IS-A [294] de 21.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/20-1991-380103
+  date: '1991-12-21'
 article_structure:
   article_count: 129
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 46
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:56Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 16 de Outubro de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ACORDO DE COOPERAÇÃO JURÍDICA E JUDICIÁRIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DE MOÇAMBIQUE
 
@@ -107,7 +119,7 @@ Reconhecendo o interesse comum e as vantagens recíprocas da extensão da cooper
 
 decidiram celebrar o presente Acordo:
 
-# PARTE I — Cooperação judiciária
+## PARTE I — Cooperação judiciária
 
 ## TÍTULO I — Cláusulas gerais
 
@@ -143,7 +155,9 @@ Os advogados e solicitadores nacionais de um dos Estados Contratantes poderão e
 
 ## TÍTULO II — Cooperação em matéria cível
 
-## SUBTÍTULO I — Actos judiciais
+SUBTÍTULO I
+
+Actos judiciais
 
 ### CAPÍTULO I — Actos rogados
 
@@ -213,7 +227,9 @@ Os Estados Contratantes têm a faculdade de mandar praticar, sem cominação de 
 
 Para o efeito do disposto nos artigos 10.º ou 11.º, em caso de conflito de leis, a nacionalidade do destinatário do acto determina-se pela lei do Estado onde ele deva ter lugar.
 
-## SUBTÍTULO II — Eficácia das decisões judiciais
+SUBTÍTULO II
+
+Eficácia das decisões judiciais
 
 ### CAPÍTULO I — Revisão e confirmação
 
@@ -371,7 +387,9 @@ Os Estados Contratantes cuja lei imponha restrições a transferências de fundo
 
 ## TÍTULO III — Cooperação em matéria penal e de contra-ordenação social
 
-## SUBTÍTULO I — Auxílio em matéria penal e de contra-ordenação social
+SUBTÍTULO I
+
+Auxílio em matéria penal e de contra-ordenação social
 
 ### CAPÍTULO I — Auxílio
 
@@ -499,7 +517,9 @@ Nestes casos, a correspondência será trocada entre os ministros da Justiça do
 
 4 - A correspondência terá lugar entre os Ministros da Justiça dos Estados Contratantes.
 
-## SUBTÍTULO II — Extradição
+SUBTÍTULO II
+
+Extradição
 
 ### CAPÍTULO I — Condições de extradição
 
@@ -741,7 +761,9 @@ b) As despesas de envio ao Estado requerente de coisas apreendidas nos termos do
 
 c) As despesas causadas pelo trânsito de extraditado provindo de terceiro Estado.
 
-## SUBTÍTULO III — Eficácia das sentenças criminais
+SUBTÍTULO III
+
+Eficácia das sentenças criminais
 
 ### CAPÍTULO I — Definições
 
@@ -1189,7 +1211,7 @@ Os Estados Contratantes tomarão as medidas legislativas que considerem apropria
 
 Os Estados Contratantes tomarão as medidas legislativas que considerarem apropriadas a fim de permitirem que seja tomada em consideração qualquer sentença criminal contraditória, para o efeito de condenação em privação de direitos, total ou parcial, que, segundo as leis nacionais, for consequência das sentenças proferidas nos respectivos territórios. Os mesmos Estados determinarão as condições em que aquela sentença deverá ser tomada em consideração.
 
-# PARTE II — Cooperação em matéria de identificação, registos e notariado, formação e informação
+## PARTE II — Cooperação em matéria de identificação, registos e notariado, formação e informação
 
 ## TÍTULO I — Identificação
 
@@ -1243,7 +1265,7 @@ Os Estados Contratantes obrigam-se reciprocamente a comunicar, logo que possíve
 
 4 - A colaboração na formação de pessoal será objecto de acordos específicos.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### Artigo 127.º — Autenticação e legalização de documentos
 

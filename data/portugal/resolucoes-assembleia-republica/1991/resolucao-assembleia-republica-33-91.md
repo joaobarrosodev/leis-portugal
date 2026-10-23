@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/1991, 1º Suplemento, Série I-A de 1991-10-30
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5588-(2) a 5588-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/1991/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-1991-568540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb2bdf121dc75aa9455deb0ce121c46498d0e23db9dc7511c5af551b65afe82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4422a6086c14a838c063cbf2ceff6511574dd027d9bcdd4f6247c4d86ea35f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - Competência Jurisdicional
 - Convenção
-- Portugal
-- Direito Comercial
-- Lugano
-- Execução de Sentença
 - Direito Civil
-relationships: []
+- Direito Comercial
+- Execução de Sentença
+- Lugano
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA, PUBLICANDO O PROTOCOLO NUMERO 1, PELA RECTIFICAÇÃO 7/92, DE 15 DE JULHO, PUBLICADA NO DR.IS-A, 180,\
+    \ DE 920806. DADA SEM EFEITO, PELA RECTIFICAÇÃO 11/92, DE 27 DE OUTUBRO, PUBLICADA NO DR.IS-A, 264, DE 921114, A RECTIFICAÇÃO\
+    \ 7/92, COM A PUBLICAÇÃO NA INTEGRA, DO PROTOCOLO NUMERO 1 A CONVENCAO.\0A CONVENCAO.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 76
+  article_count: 82
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 24 de Abril de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENÇÃO RELATIVA À COMPETÊNCIA JUDICIÁRIA E À EXECUÇÃO DE DECISÕES EM MATÉRIA CIVIL E COMERCIAL, CELEBRADA EM LUGANO EM 16 DE SETEMBRO DE 1988.
 
@@ -156,13 +162,13 @@ Contra elas não podem ser invocadas, nomeadamente:
 
 - Na República Federal da Alemanha: o artigo 23.º do Código de Processo Civil (»Zivilprozessordnung»);
 
-- Na Grécia: o artigo 40.º do Código de Processo Civil [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Grécia: o artigo 40.º do Código de Processo Civil [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em França: os artigos 14.º e 15.º do Código Civil (»Code civil»);
 
 - Na Irlanda: as disposições relativas à competência fundada em acto que determine o início da instância comunicado ou notificado ao requerido que se encontre temporariamente na Irlanda;
 
-- Na Islândia: o artigo 77.º Código de Processo Civil [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Islândia: o artigo 77.º Código de Processo Civil [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Itália: o artigo 2.º e os n.os 1 e 2 do artigo 4.º do Código de Processo Civil (»Codice di procedura civile»);
 
@@ -496,7 +502,7 @@ Todavia, no Reino Unido, tais decisões são executadas na Inglaterra e no País
 
 - Na República Federal da Alemanha, ao presidente de uma câmara do Landgericht;
 
-- Na Grécia, ao [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Grécia, ao [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Espanha, no Juzgado de Primera Instancia;
 
@@ -504,7 +510,7 @@ Todavia, no Reino Unido, tais decisões são executadas na Inglaterra e no País
 
 - Na Irlanda, no High Court;
 
-- Na Islândia, no [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Islândia, no [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Itália, na corte d'appello;
 
@@ -574,7 +580,7 @@ Se esta parte estiver domiciliada em Estado Contratante diferente daquele onde f
 
 - Na República Federal da Alemanha, para o Oberlandesgericht;
 
-- Na Grécia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Grécia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Espanha, para a Audiencia Provincial;
 
@@ -582,7 +588,7 @@ Se esta parte estiver domiciliada em Estado Contratante diferente daquele onde f
 
 - Na Irlanda, para o High Court;
 
-- Na Islândia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Islândia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Itália, para a corte d'appello;
 
@@ -660,7 +666,7 @@ A decisão de permitir a execução implica a autorização para tomar tais medi
 
 - Na República Federal da Alemanha, para o Oberlandesgericht;
 
-- Na Grécia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Grécia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Espanha, para a Audiencia Provincial;
 
@@ -668,7 +674,7 @@ A decisão de permitir a execução implica a autorização para tomar tais medi
 
 - Na Irlanda, para o High Court;
 
-- Na Islândia, para o [([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
+- Na Islândia, para o [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf);
 
 - Em Itália, para a corte d'appello;
 
@@ -1066,7 +1072,7 @@ Udfaerdiget i Lugano, den sekstende september nitten hundrede og otteogfirs.
 
 Geschehen zu Lugano am sechzehnten September neunzehnhundertachtundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
 
@@ -1088,7 +1094,7 @@ Tehty Luganossa kuudentenatoista päivänä syyskuuta vuonna tuhat yhdeksänsata
 
 Som skedde i Lugano den sextonde september nittonhundraåttioåtta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Protocolo n.º 1
 
@@ -1096,13 +1102,13 @@ Relativo a determinados problemas de competência, de processo e de execução
 
 As Altas Partes Contratantes acordaram nas disposições seguintes, que ficam anexas à Convenção:
 
-Artigo I
+###### Artigo I
 
 Qualquer pessoa domiciliada no Luxemburgo, demandada perante o tribunal de um outro Estado Contratante nos termos do n.º 1) do artigo 5.º, pode arguir a incompetência desse tribunal. O tribunal em causa declarar-se-á oficiosamente incompetente se o requerido não comparecer.
 
 Qualquer pacto atributivo de jurisdição, na acepção do artigo 17.º, só produzirá efeitos em relação a uma pessoa domiciliada no Luxemburgo se esta expressa e especificamente o aceitar.
 
-Artigo I-A
+###### Artigo I-A
 
 1 - A Suíça reserva-se o direito de declarar, no momento do depósito do instrumento de ratificação, que as decisões proferidas noutro Estado Contratante não são reconhecidas nem executadas na Suíça, reunidas as seguintes condições:
 
@@ -1116,21 +1122,21 @@ c) O requerido se opuser ao reconhecimento ou à execução da decisão na Suí�
 
 3 - Esta reserva deixará de produzir efeitos em 31 de Dezembro de 1999. Esta reserva pode ser retirada em qualquer momento.
 
-Artigo I-B
+###### Artigo I-B
 
 Qualquer Estado Contratante pode, por declaração feita no momento da assinatura ou do depósito do seu instrumento de ratificação ou de adesão, reservar-se o direito de, não obstante o disposto no artigo 28.º, não reconhecer nem executar decisões proferidas nos outros Estados Contratantes quando a competência do tribunal do Estado de origem se fundamente, nos termos do n.º 1), alínea b), do artigo 16.º, apenas no domicílio do requerido no Estado de origem e o imóvel se encontrar situado no território do Estado que apresentou a reserva.
 
-Artigo II
+###### Artigo II
 
 Sem prejuízo de disposições nacionais mais favoráveis, as pessoas domiciliadas num Estado Contratante e contra quem corre processo por infracção involuntária nos tribunais com competência penal de outro Estado Contratante de que não sejam nacionais podem entregar a sua defesa a pessoas para tanto habilitadas, mesmo que não compareçam pessoalmente.
 
 Todavia, o tribunal a que foi submetida a questão pode ordenar a comparência pessoal; se tal não ocorrer, a decisão proferida na acção cível sem que a pessoa em causa tenha tido a possibilidade de assegurar a sua defesa pode não ser reconhecida nem executada nos outros Estados Contratantes.
 
-Artigo III
+###### Artigo III
 
 Nenhum imposto, direito ou taxa, proporcional ao valor do litígio, será cobrado no Estado requerido no processo de concessão da fórmula executória.
 
-Artigo IV
+###### Artigo IV
 
 Os actos judiciais e extrajudiciais praticados no território de um Estado Contratante e que devam ser objecto de notificação ou citação a pessoas que se encontrem no território de outro Estado Contratante serão transmitidos na forma prevista em convenções ou acordos celebrados entre os Estados Contratantes.
 
@@ -1218,7 +1224,7 @@ Til bekraeftelse heraf har undertegnede underskrevet denne erklaering.
 
 Zu Urkund dessen haben die Unterzeichneten ihre Unterschrift unter diese Erklärung gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 In witness whereof the undersigned have signed this Declaration.
 
@@ -1246,7 +1252,7 @@ Udfaerdiget i Lugano, den sekstende september nitten hundrede og otteogfirs.
 
 Geschehen zu Lugano am sechzehnten September neunzehnhundertachtundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
 
@@ -1268,7 +1274,7 @@ Tehty Luganossa kuudentenatoista päivänä syys kuuta vuonna tuhat yhdeksänsat
 
 Som skedde i Lugano den sextonde september nittonhundraåttioåtta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Hecho en Lugano, a dieciseis de septiembre de mil novecientos ochenta y ocho.
 
@@ -1276,7 +1282,7 @@ Udfaerdiget i Lugano, den sekstende september nitten hundrede og otteogfirs.
 
 Geschehen zu Lugano am sechzehnten September neunzehnhundertachtundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
 
@@ -1304,7 +1310,7 @@ Til bekraeftelse heraf har undertegnede underskrevet denne erklaering.
 
 Zu Urkund dessen haben die Unterzeichneten ihre Unterschrift unter diese Erklärung gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 In witness whereof the undersigned have signed this Declaration.
 
@@ -1330,7 +1336,7 @@ Declaração dos representantes dos Governos dos Estados signatários da Conven�
 
 No momento da assinatura da Convenção Relativa à Competência Judiciária e à Execução de Decisões em Matéria Civil e Comercial, celebrada em Lugano em 16 de Setembro de 1988, os representantes dos Governos dos Estados membros da Associação Europeia de Comércio Livre declaram que consideram conveniente que os seus tribunais, ao interpretarem a Convenção de Lugano, tenham em devida conta os princípios contidos na jurisprudência do Tribunal de Justiça das Comunidades Europeias e dos tribunais dos Estados membros das Comunidades Europeias relativa às disposições da Convenção de Bruxelas cujo conteúdo é reproduzido na Convenção de Lugano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Hecho en Lugano, a dieciseis de septiembre de mil novecientos ochenta y ocho.
 
@@ -1338,7 +1344,7 @@ Udfaerdiget i Lugano, den sekstende september nitten hundrede og otteogfirs.
 
 Geschehen zu Lugano am sechzehnten September neunzehnhundertachtundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
 
@@ -1366,7 +1372,7 @@ Til bekraeftelse heraf har undertegnede underskrevet denne erklaering.
 
 Zu Urkund dessen haben die Unterzeichneten ihre Unterschrift unter diese Erklärung gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 In witness whereof the undersigned have signed this Declaration.
 
@@ -1388,7 +1394,7 @@ Tämän vakuudeksi ovat allekirjoittaneet, asianmukaisesti siihen valtuutettuina
 
 Till bekräftelse härav har undertecknade undertercknat denna deklaration.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Declaração dos representantes dos Governos dos Estados signatários da Convenção de Lugano membros das Comunidades Europeias.
 
@@ -1416,7 +1422,7 @@ III) As seguintes declarações:
 
 - Declaração dos Representantes dos Governos dos Estados signatários da Convenção de Lugano membros da Associação Europeia de Comércio Livre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Hecho en Lugano, a dieciseis de septiembre de mil novecientos ochenta y ocho.
 
@@ -1424,7 +1430,7 @@ Udfaerdiget i Lugano, den sekstende september nitten hundrede og otteogfirs.
 
 Geschehen zu Lugano am sechzehnten September neunzehnhundertachtundachtzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
 
 Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
 
@@ -1446,4 +1452,4 @@ Tehty Luganossa kuudentenatoista päivänä syyskuuta vuonna tuhat yhdeksänsata
 
 Som skedde i Lugano den sextonde september nittonhundraåttioåtta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a01/00020023.pdf)

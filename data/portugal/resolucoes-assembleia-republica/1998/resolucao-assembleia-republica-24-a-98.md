@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 114/1998, 1º Suplemento, Série I-A de 1998-05-18
   number: '114'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2376-(2) a 2376-(220)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24-a/1998/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-a-1998-620490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d74cbc052ff2478b6238545c939680ecf889964f1551df1e477c69b0533ee690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d2b62aeeea7d3d8240c69aeea562bacc5e633613e20d3c2ab61ecf32e4d41a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - Convenção
 - Portugal
 - Regulamento
+- Serviço Postal
 - SEUL
 - União Postal Universal
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:620491:por
+  label: "Ratificado o Quinto Protocolo Adicional bem como os restantes Instrumentos aprovados para ratificação, pelo DEC.17-A/98.1998.05.18.PR,\
+    \ DR.IS-A [114]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/17-a-1998-620491
+  date: '1998-05-18'
 article_structure:
-  article_count: 186
+  article_count: 222
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:44Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +110,7 @@ Estes instrumentos, cujo texto original em francês e respectiva tradução em p
 
 Aprovada em 22 de Janeiro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CINQUIÈME PROTOCOLE ADDITIONNEL À LA CONSTITUTION DE L'UNION POSTALE UNIVERSELLE
 
@@ -198,7 +204,7 @@ En foi de quoi, les plénipotentiaires des Gouvernements des Pays-membres ont dr
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 DÉCLARATIONS FAITES LORS DE LA SIGNATURE DES ACTES
 
@@ -890,7 +896,7 @@ En foi de quoi, les plénipotentiaires des Gouvernements des Pays-membres ont si
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 ANNEXE
 
@@ -1428,7 +1434,7 @@ Taxes d'affranchissement
 
 2 - Des taxes d'affranchissement indicatives sont mentionnées dans le tableau ci-après:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - Le Conseil d'exploitation postale est autorisé à reviser et à modifier, sous réserve de l'approbation du Conseil d'administration, les taxes indicatives mentionnées sous 2 dans l'intervalle entre deux Congrès. Les taxes revisées auront pour base la médiane des taxes fixées par les membres de l'Union pour les envois internationaux déposés dans leur pays.
 
@@ -2012,7 +2018,7 @@ Barèmes des frais de transit
 
 1 - Les frais de transit sont calculés d'après les barèmes indiqués dans le tableau ci-après:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 2 - Le Conseil d'exploitation postale est autorisé à reviser et à modifier les barèmes mentionnés sous 1 dans l'intervalle entre deux Congrès. La revision, que pourra être faite grâce à une méthodologie qui assure une rémunération équitable aux Administrations effectuant des opérations de transit, devra s'appuyer sur des données économiques et financières fiables et représentatives. La modification éventuelle qui pourra être décidée entrera en vigueur à une date fixée par le Conseil d'exploitation postale.
 
@@ -2196,7 +2202,7 @@ Trois bandes horizontales orange.
 
 Le logotype peut être complété par le nom du service national.
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 4 - Les tarifs inhérents au service sont fixés par l'Administration d'origine compte tenu des coûts et des exigences du marché.
 
@@ -2254,7 +2260,7 @@ En foi de quoi, les plénipotentiaires des Gouvernements des Pays-membres ont si
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 PROTOCOLE FINAL DE LA CONVENTION POSTALE UNIVERSELLE
 
@@ -2416,7 +2422,7 @@ En foi de quoi, les plénipotentiaires ci-dessous ont dressé le présent Protoc
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 ARRANGEMENT CONCERNANT LES COLIS POSTAUX
 
@@ -2596,7 +2602,7 @@ Le mot «Consignment» en bleu;
 
 Trois bandes horizontales (une rouge, une bleu et une vert).
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - Les détails de ce service seront fixés bilatéralement entre l'Administration d'origine et celle de destination sur la base des dispositions définies par le Conseil d'exploitation postale.
 
@@ -2910,7 +2916,7 @@ Quote-part territoriale de transit
 
 1 - Les colis échangés entre deux Administrations ou entre deux bureaux du même pays au moyen des services terrestres d'une ou de plusieurs autres Administrations son soumis, au profit des pays dont les services participent à l'acheminement territorial, aux quotes-parts territoriales de transit calculées en combinant le taux par colis et le taux par kilogramme ci-après, selon l'échelon de distance qui s'applique:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 2 - Pour les colis en transit à découvert, les Administrations intermédiaires sont autorisées à réclamer une quote-part forfaitaire de 0,40 DTS par envoi.
 
@@ -2932,7 +2938,7 @@ Quote-part maritime
 
 2 - Pour chaque service maritime emprunté, la quote-part maritime est calculée en combinant le taux par colis et le taux par kilogramme ci-après, selon l'échelon de distance qui s'applique:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - Les Administrations ont la faculté de majorer de 50 pour cent au maximum la quote-part maritime calculée conformément à l'article 36, paragraphe 2. Par contre, elles peuvent la réduire à leur gré.
 
@@ -3014,7 +3020,7 @@ En foi de quoi, les plénipotentiaires des Gouvernements des pays contractants o
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 PROTOCOLE FINAL DE L'ARRANGEMENT CONCERNANT LES COLIS POSTAUX
 
@@ -3122,7 +3128,7 @@ Quotes-parts territoriales de transit exceptionnelles
 
 A titre provisoire, les Administrations figurant au tableau ci-après sont autorisées a percevoir les quotesparts territoriales de transit exceptionnelles indiquées dans ce tableau et qui s'ajoutent aux quotes-parts de transit visées à l'article 35, paragraphe 1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 Article XIV
 
@@ -3214,7 +3220,7 @@ En foi de quoi, les plénipotentiaires ci-dessous ont dressé le présent Protoc
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 ARRANGEMENT CONCERNANT LES MANDATS DE POSTE
 
@@ -3618,7 +3624,7 @@ En foi de quoi, les plénipotentiaires des Gouvernements des pays contractants o
 
 Fait à Séoul, le 14 septembre 1994.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 QUINTO PROTOCOLO ADICIONAL À CONSTITUIÇÃO DA UNIÃO POSTAL UNIVERSAL
 
@@ -3692,9 +3698,7 @@ Assinatura, autenticação, ratificação e outras modalidades de aprovação do
 
 5 - Quando um país não ratifica a Constituição ou não aprova os outros actos por ele assinados, a Constituição e os demais actos mantêm a sua validade para os países que os ratificaram ou aprovaram.
 
-Artigo VIII
-
-Adesão ao Protocolo adicional e aos outros actos da União
+###### Artigo VIII — Adesão ao Protocolo adicional e aos outros actos da União
 
 1 - Os países membros que não assinaram o presente Protocolo podem aderir a este em qualquer momento.
 
@@ -3702,9 +3706,7 @@ Adesão ao Protocolo adicional e aos outros actos da União
 
 3 - Os instrumentos de adesão relativos aos casos visados nos parágrafos 1 e 2 devem ser enviados ao director-geral da Secretaria Internacional, que notifica este registo aos governos dos países membros.
 
-Artigo IX
-
-Entrada em vigor e vigência do Protocolo adicional à Constituição da União Postal Universal
+###### Artigo IX — Entrada em vigor e vigência do Protocolo adicional à Constituição da União Postal Universal
 
 O presente Protocolo adicional será posto em execução em 1 de Janeiro de 1996 e ficará em vigor durante tempo indeterminado.
 
@@ -4768,7 +4770,7 @@ Disposições relativas aos envios de correspondência: oferta de prestações
 
 2 - As taxas de franquia indicativas são mencionadas no quadro que se segue:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - O Conselho de Exploração Postal está autorizado a rever e a modificar, sob ressalva da aprovação do Conselho de Administração, as taxas indicativas mencionadas no parágrafo 2 no intervalo entre dois congressos. As taxas revistas terão por base a média das taxas fixadas pelos membros da União para os envios internacionais depositados no seu país.
 
@@ -5258,7 +5260,7 @@ Quando, em consequência de circunstâncias extraordinárias, uma administraçã
 
 1 - Os direitos de trânsito são calculados segundo as tabelas indicadas no quadro abaixo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 2 - O Conselho de Exploração Postal fica autorizado a rever e modificar as tabelas mencionadas no parágrafo 1 no intervalo entre dois congressos. A revisão, que poderá ser realizada graças a uma metodologia que assegure uma remuneração equitativa às administrações que efectuam as operações de trânsito, deverá basear-se em dados económicos e financeiros fiáveis e representativos. A eventual modificação que poderá ser decidida entrará em vigor numa data fixada pelo Conselho de Exploração Postal.
 
@@ -5418,7 +5420,7 @@ Serviço EMS
 
 O logótipo pode ser completado com o nome do serviço nacional.
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 4 - As tarifas inerentes ao serviço são fixadas pela administração de origem tendo em conta os custos e as exigências do mercado.
 
@@ -5476,49 +5478,35 @@ PROTOCOLO FINAL DA CONVENÇÃO POSTAL UNIVERSAL
 
 No momento de se proceder à assinatura da Convenção Postal Universal celebrada nesta data, os plenipotenciários abaixo assinados convencionaram o seguinte:
 
-Artigo I
-
-Direito de propriedade sobre os envios postais
+###### Artigo I — Direito de propriedade sobre os envios postais
 
 1 - O artigo 2.º não se aplica a Antígua e Barbuda, à Austrália, ao Barain, a Barbados, ao Belize, ao Botswana, ao Brunei Darussalam, ao Canadá, à Dominica, ao Egipto, às Fidji, à Gâmbia, ao Gana, ao Reino Unido da Grã-Bretanha e Irlanda do Norte, aos territórios do ultramar dependentes do Reino Unido, a Granada, à Guiana, à Irlanda, à Jamaica, ao Quénia, ao Kiribati, ao Koweit, ao Lesoto, à Malásia, ao Malawi, à Maurícia, a Nauru, à Nigéria, à Nova Zelândia, ao Uganda, à Papuásia-Nova Guiné, a São Cristóvão e Nevis, a Santa Lúcia, a São Vicente e Grenadinas, a Salomão (ilhas), à Samoa Ocidental, às Seychelles, à Serra Leoa, a Singapura, à Suazilândia, à Tanzânia, a Trindade e Tobago, a Tuvalu, a Vanuatu, ao Iémene (República Árabe), à Zâmbia e ao Zimbabwe.
 
 2 - O artigo 2.º também não se aplica à Dinamarca, cuja legislação não permite a retirada ou a modificação de endereço dos envios de correspondência a pedido do remetente, a partir do momento em que o destinatário foi informado da chegada de um envio a ele endereçado.
 
-Artigo II
-
-Taxas
+###### Artigo II — Taxas
 
 Em derrogação ao artigo 6.º, parágrafo 4, a administração postal do Canadá está autorizada a cobrar taxas postais diferentes das previstas na Convenção e nos acordos, quando as taxas em questão são admissíveis segundo a legislação do seu país.
 
-Artigo III
-
-Excepção à isenção de franquia relativa aos cecogramas
+###### Artigo III — Excepção à isenção de franquia relativa aos cecogramas
 
 1 - Em derrogação ao artigo 7.º, parágrafo 4, as administrações postais de São Vicente e Grenadinas e da Turquia, que não concedem a isenção de franquia aos cecogramas no seu serviço interno, têm a faculdade de cobrar as taxas de franquia e as taxas por serviços especiais que não podem, no entanto, ser superiores às do serviço interno.
 
 2 - Em derrogação ao artigo 7.º, parágrafo 4, as administrações da Alemanha, da América (Estados Unidos), do Canadá, do Reino Unido da Grã-Bretanha e Irlanda do Norte e do Japão têm a faculdade de cobrar as taxas por serviços especiais que são aplicadas aos cecogramas no seu serviço interno.
 
-Artigo IV
-
-Pacotes postais
+###### Artigo IV — Pacotes postais
 
 A obrigação de participar na permuta de pacotes postais que ultrapassem o peso de 500 g não se aplica às administrações de Myanmar e da Papuásia-Nova Guiné, que estão impossibilitadas de garantir esta permuta.
 
-Artigo V
-
-Impressos. Peso máximo
+###### Artigo V — Impressos. Peso máximo
 
 Por derrogação ao artigo 8.º, parágrafo 3.2, as administrações do Canadá e da Irlanda estão autorizadas a limitar a 2 kg o peso máximo dos impressos à chegada e na expedição.
 
-Artigo VI
-
-Sacos M registados
+###### Artigo VI — Sacos M registados
 
 As administrações postais da América (Estados Unidos) e do Canadá estão autorizadas a não aceitar os sacos M registados e a não assegurar o serviço reservado aos envios registados nos sacos desta espécie provenientes de outros países.
 
-Artigo VII
-
-Depósito de envios de correspondência no estrangeiro
+###### Artigo VII — Depósito de envios de correspondência no estrangeiro
 
 1 - As administrações postais da América (Estados Unidos), do Reino Unido da Grã-Bretanha e Irlanda do Norte e da Grécia reservam-se o direito de cobrar uma taxa, relativa ao custo dos trabalhos ocasionados por qualquer administração postal que, em virtude do artigo 25.º, parágrafo 4, lhe devolva objectos que não foram, na origem, expedidos como envios postais pelos seus serviços.
 
@@ -5530,9 +5518,7 @@ Depósito de envios de correspondência no estrangeiro
 
 5 - Apesar das reservas ao parágrafo 4, os seguintes países reservam-se o direito de aplicar na sua integralidade as disposições do artigo 25.º da Convenção ao correio recebido dos países membros da União: Alemanha, Argentina, Benim, Brasil, Burkina Faso, Camarões, Chipre, Costa do Marfim, Egipto, França, Grécia, Guiné, Israel, Itália, Japão, Jordânia, Líbano, Mali, Mauritânia, Mónaco, Portugal, Senegal, Síria (República Árabe) e Togo.
 
-Artigo VIII
-
-Proibições
+###### Artigo VIII — Proibições
 
 1 - A título excepcional, a administração postal do Líbano não aceita envios registados contendo moedas, títulos bancários ou quaisquer títulos ao portador, cheques de viagem, platina, ouro ou prata, manufacturados ou não, pedras preciosas, jóias e outros objectos preciosos. Não é obrigada a aceitar as disposições do artigo 35.º, parágrafo 1, de uma maneira rigorosa relativamente à sua responsabilidade em caso de espoliação ou avaria dos envios registados, assim como no que se refere aos envios que contêm objectos de vidro ou frágeis.
 
@@ -5542,9 +5528,7 @@ Proibições
 
 4 - A administração postal do Nepal não aceita os envios registados ou com valor declarado que contenham notas ou moedas, salvo acordo especial para esse fim.
 
-Artigo IX
-
-Envios sujeitos a direitos aduaneiros
+###### Artigo IX — Envios sujeitos a direitos aduaneiros
 
 1 - Em referência ao artigo 26.º, as administrações postais dos seguintes países não aceitam envios com valor declarado que contenham objectos sujeitos a direitos aduaneiros: Bangladesh e El Salvador.
 
@@ -5554,31 +5538,23 @@ Envios sujeitos a direitos aduaneiros
 
 4 - Não obstante as disposições dos parágrafos 1 a 3, as remessas de soros, vacinas, bem como as remessas de medicamentos de necessidade urgente e de difícil obtenção, são aceites em todos os casos.
 
-Artigo X
-
-Retirada. Modificação ou correcção de endereço
+###### Artigo X — Retirada. Modificação ou correcção de endereço
 
 1 - O artigo 29.º não se aplica a Antígua e Barbuda, às Baamas, ao Barain, a Barbados, ao Belize, ao Botswana, ao Brunei Darussalam, ao Canadá, à Dominica, às Fidji, à Gâmbia, ao Reino Unido da Grã-Bretanha e Irlanda do Norte, aos territórios do ultramar dependentes do Reino Unido, a Granada, à Guiana, ao Iraque, à Irlanda, à Jamaica, ao Quénia, ao Kiribati, ao Koweit, ao Lesoto, à Malásia, ao Malawi, a Myanmar, a Nauru, à Nigéria, à Nova Zelândia, ao Uganda, à Papuásia - Nova Guiné, à República Popular Democrática da Coreia, a São Cristóvão e Nevis, a Santa Lúcia, a São Vicente e Grenadinas, a Salomão (ilhas), à Samoa Ocidental, às Seychelles, à Serra Leoa, a Singapura, à Suazilândia, à Tanzânia (República Unida), a Trindade e Tobago, a Tuvalu, a Vanuatu e à Zâmbia, cuja legislação não permite a retirada ou a modificação de endereço dos envios de correspondência a pedido de remetente.
 
 2 - O artigo 29.º aplica-se à Austrália na medida em que for compatível com a legislação interna deste país.
 
-Artigo XI
-
-Reclamações
+###### Artigo XI — Reclamações
 
 1 - Por derrogação ao artigo 30.º, parágrafo 4, as administrações postais da Arábia Saudita, Cabo Verde, Gabão, territórios do ultramar que dependem do Reino Unido, Grécia, Irão (República Islâmica), Mongólia, Myanmar, Síria (República Árabe), Chade e Zâmbia reservam-se o direito de cobrar uma taxa aos clientes pelas reclamações apresentadas.
 
 2 - Por derrogação ao artigo 30.º, parágrafo 4, as administrações postais da Argentina, República Eslovaca e República Checa reservam-se o direito de cobrar uma taxa especial quando, no término das diligências empreendidas em consequência da reclamação, se verifica que esta é injustificada.
 
-Artigo XII
-
-Taxa de apresentação à alfândega
+###### Artigo XII — Taxa de apresentação à alfândega
 
 A administração postal do Gabão reserva-se o direito de cobrar aos seus clientes uma taxa de apresentação à alfândega.
 
-Artigo XIII
-
-Responsabilidade das administrações postais
+###### Artigo XIII — Responsabilidade das administrações postais
 
 1 - As administrações postais do Bangladesh, Benim, Burkina Faso, Congo (República), Costa do Marfim (República), Jibuti, Índia, Líbano, Madagáscar, Mali, Mauritânia, Nepal, Níger, Senegal, Togo e Turquia estão autorizadas a não aplicar o artigo 34.º, parágrafo 1.1.1, relativamente à responsabilidade em caso de espoliação ou avaria dos envios registados.
 
@@ -5586,23 +5562,17 @@ Responsabilidade das administrações postais
 
 3 - Por derrogação ao artigo 34.º, a administração postal da Arábia Saudita não assume qualquer responsabilidade em caso de perda ou de avaria dos envios que contenham os envios mencionados no artigo 26.º, parágrafo 2.
 
-Artigo XIV
-
-Exclusão da responsabilidade das administrações postais
+###### Artigo XIV — Exclusão da responsabilidade das administrações postais
 
 A administração postal da Bolívia não é obrigada a observar o artigo 35.º, parágrafo 1, no que se refere à manutenção da sua responsabilidade em caso de espoliação ou avaria dos envios registados.
 
-Artigo XV
-
-Pagamento da indemnização
+###### Artigo XV — Pagamento da indemnização
 
 1 - As administrações postais do Bangladesh, Bolívia, Guiné, México, Nepal e Nigéria não são obrigadas a observar o artigo 37.º, parágrafo 3, no que diz respeito a dar uma solução definitiva num prazo de dois meses, ou de levar ao conhecimento da administração de origem ou de destino, conforme o caso, que um envio postal foi retido, confiscado ou destruído pela autoridade competente devido ao seu conteúdo, ou foi apreendido em virtude da sua legislação interna.
 
 2 - As administrações postais do Congo (República), Jibuti, Guiné, Líbano e Madagáscar não são obrigadas a observar o artigo 37.º, parágrafo 3, no que diz respeito a dar uma solução definitiva a uma reclamação dentro do prazo de dois meses. Não aceitam, além disso, que quem de direito seja indemnizado, por sua conta, por outra administração no fim do prazo supracitado.
 
-Artigo XVI
-
-Direitos de trânsito particulares
+###### Artigo XVI — Direitos de trânsito particulares
 
 1 - A administração postal da Grécia reserva-se o direito de aumentar, por um lado, em 30% os direitos de trânsito terrestre e, por outro lado, em 50% os direitos de trânsito marítimo, previsto no artigo 48.º, parágrafo 1.
 
@@ -5618,9 +5588,7 @@ Direitos de trânsito particulares
 
 7 - Por derrogação ao artigo 48.º, parágrafo 1, os serviços automóveis Síria-Iraque são considerados como serviços extraordinários, dando lugar à cobrança de direitos de trânsito especiais.
 
-Artigo XVII
-
-Encargos de transporte aéreo interno
+###### Artigo XVII — Encargos de transporte aéreo interno
 
 1 - Por derrogação ao artigo 52.º, parágrafo 3, as administrações postais da Arábia Saudita, Baamas, Cabo Verde, Congo (República), Cuba, República Dominicana, El Salvador, Equador, Gabão, Grécia, Guatemala, Guiana, Honduras (República), Mongólia, Papuásia-Nova Guiné, Salomão (ilhas) e Vanuatu reservam-se o direito de cobrar os pagamentos devidos pelo encaminhamento das malas internacionais no interior do país por via aérea.
 
@@ -5782,7 +5750,7 @@ A palavra «consignment» a azul;
 
 Três faixas horizontais (uma vermelha, uma azul e uma verde).
 
-[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - Os detalhes deste serviço serão fixados bilateralmente entre a administração de origem e a administração de destino com base nas disposições definidas pelo Conselho de Exploração Postal.
 
@@ -6042,7 +6010,7 @@ Taxa indicativa por quilograma de peso bruto da expedição: 0,28 DES.
 
 1 - As encomendas permutadas entre duas administrações ou entre duas estações do mesmo país por meio dos serviços terrestres de uma ou várias outras administrações estão sujeitas, em benefício dos países cujos serviços participam do encaminhamento terrestre, às quotas-partes terrestres de trânsito calculadas combinando a taxa por encomenda e a taxa por quilograma seguintes, segundo o escalão de distância que se aplica:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 2 - No que diz respeito às encomendas em trânsito a descoberto, as administrações intermediárias ficam autorizadas a reclamar uma quota-parte fixa de 0,40 DES por envio.
 
@@ -6062,7 +6030,7 @@ Taxa indicativa por quilograma de peso bruto da expedição: 0,28 DES.
 
 2 - Para cada serviço marítimo utilizado, a quota-parte marítima é calculada combinando a taxa por encomenda e a taxa por quilograma seguintes, segundo o escalão de distância que se aplica:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
 3 - As administrações podem aumentar num máximo de 50% a quota-parte marítima calculada em conformidade com o artigo 36.º, parágrafo 2. Em contrapartida, podem reduzi-la à sua vontade.
 
@@ -6132,27 +6100,19 @@ PROTOCOLO FINAL DO ACORDO REFERENTE ÀS ENCOMENDAS POSTAIS
 
 No momento de se proceder à assinatura do Acordo Referente às Encomendas Postais, celebrado nesta data, os plenipotenciários abaixo assinados convencionaram o que se segue:
 
-Artigo I
-
-Princípios
+###### Artigo I — Princípios
 
 Por derrogação do artigo 3.º, parágrafo 1, a administração postal do Canadá está autorizada a limitar a 30 kg o peso máximo das encomendas à chegada e à saída.
 
-Artigo II
-
-Encomendas com valor declarado
+###### Artigo II — Encomendas com valor declarado
 
 A administração postal da Suécia reserva-se o direito de fornecer aos clientes o serviço de encomendas postais com valor declarado descrito no artigo 11.º, em conformidade com especificações diferentes das definidas nesse artigo e nos artigos pertinentes do Regulamento.
 
-Artigo III
-
-Aviso de recepção
+###### Artigo III — Aviso de recepção
 
 A administração postal do Canadá está autorizada a não aplicar o artigo 15.º, uma vez que não oferece o serviço de aviso de recepção para as encomendas no seu regime interno.
 
-Artigo IV
-
-Proibições
+###### Artigo IV — Proibições
 
 1 - As administrações postais do Canadá, de Myanmar e da Zâmbia ficam autorizadas a não aceitar encomendas com valor declarado contendo os objectos preciosos mencionados no artigo 18.º, parágrafo 2, uma vez que a sua regulamentação interna o não permite.
 
@@ -6170,29 +6130,21 @@ Proibições
 
 5.3 - Objectos contrários aos princípios da religião islâmica.
 
-Artigo V
-
-Retirada. Modificação ou correcção de endereço a pedido do remetente
+###### Artigo V — Retirada. Modificação ou correcção de endereço a pedido do remetente
 
 Em derrogação ao artigo 21.º, El Salvador, Panamá (República) e Venezuela ficam autorizados a não devolver as encomendas postais após o destinatário ter solicitado o desalfandegamento, uma vez que a sua legislação aduaneira a tal se opõe.
 
-Artigo VI
-
-Reclamações
+###### Artigo VI — Reclamações
 
 1 - As administrações postais do Afeganistão, da Arábia Saudita, de Cabo Verde, do Congo (República), do Gabão, do Irão (República Islâmica), da Mongólia, de Myanmar, do Suriname, da Síria (República Árabe) e da Zâmbia reservam-se o direito de cobrar uma taxa de reclamação aos seus clientes.
 
 2 - As administrações postais da Argentina, da República Eslovaca e da República Checa reservam-se o direito de cobrar uma taxa especial quando, após investigação efectuada em consequência de uma reclamação, se verifica que esta é improcedente.
 
-Artigo VII
-
-Taxa de apresentação à alfândega
+###### Artigo VII — Taxa de apresentação à alfândega
 
 As administrações postais do Congo (República), do Gabão e da Zâmbia reservam-se o direito de cobrar aos seus clientes uma taxa de apresentação à alfândega.
 
-Artigo VIII
-
-Indemnização
+###### Artigo VIII — Indemnização
 
 1 - Em derrogação ao artigo 26.º, as administrações seguintes podem não pagar indemnização pelas encomendas sem valor declarado perdidas, espoliadas ou avariadas nos seus serviços: América (Estados Unidos), Angola, Antígua e Barbuda, Austrália, Baamas, Barbados, Belize, Bolívia, Botswana, Brunei Darussalam, Canadá, Dominicana (República), Dominica, El Salvador, Fidji, Gâmbia, as dos territórios do ultramar dependentes do Reino Unido da Grã-Bretanha e Irlanda do Norte cuja regulamentação interna a tal se oponha, Granada, Guatemala, Guiana, Kiribati, Lesoto, Malawi, Malta, Maurícia, Nauru, Nigéria, Uganda, Papuásia-Nova Guiné, São Cristóvão e Nevis, Santa Lúcia, São Vicente e Grenadinas, Salomão (ilhas), Seychelles, Serra Leoa, Suazilândia, Trindade e Tobago, Zâmbia e Zimbabwe.
 
@@ -6202,49 +6154,35 @@ Indemnização
 
 4 - Quando agir na qualidade de administração intermediária, a América (Estados Unidos) está autorizada a não pagar a indemnização às outras administrações em caso de perda, espoliação ou avaria das encomendas com valor declarado enviadas a descoberto ou remetidas em malas fechadas.
 
-Artigo IX
-
-Excepções ao princípio da responsabilidade
+###### Artigo IX — Excepções ao princípio da responsabilidade
 
 1 - Em derrogação ao artigo 26.º, a Arábia Saudita, a Bolívia, o Iraque, o Sudão, o Iémene e o Zaire estão autorizados a não pagar qualquer indemnização pela avaria das encomendas originárias de todos os países e que lhes são destinadas que contenham líquidos e corpos que facilmente se liquefaçam, objectos em vidro e artigos da mesma natureza frágil ou deteriorável.
 
 2 - Em derrogação ao artigo 26.º, a Arábia Saudita tem a faculdade de não pagar uma indemnização pelas encomendas que contenham os objectos proibidos mencionados no artigo 18.º do Acordo Referente às Encomendas Postais.
 
-Artigo X
-
-Exclusão da responsabilidade da administração postal
+###### Artigo X — Exclusão da responsabilidade da administração postal
 
 A administração postal do Nepal está autorizada a não aplicar o artigo 27.º, parágrafo 1.3.
 
-Artigo XI
-
-Pagamento da indemnização
+###### Artigo XI — Pagamento da indemnização
 
 As administrações postais de Angola, da Guiné e do Líbano não têm a obrigação de observar o artigo 29.º, parágrafo 3, no que respeita à adopção de uma solução definitiva de uma reclamação no prazo de dois meses. Além disso, estas administrações não aceitam que quem de direito seja indemnizado, por sua conta, por outra administração, quando se esgotar o referido prazo.
 
-Artigo XII
-
-Quotas-partes terrestres de chegada excepcionais
+###### Artigo XII — Quotas-partes terrestres de chegada excepcionais
 
 Em derrogação ao artigo 34.º, a administração do Afeganistão reserva-se o direito de cobrar uma quota-parte terrestre de chegada excepcional suplementar de 7,5 DES por encomenda.
 
-Artigo XIII
-
-Quotas-partes terrestres de trânsito excepcionais
+###### Artigo XIII — Quotas-partes terrestres de trânsito excepcionais
 
 A título provisório, as administrações que figuram no quadro seguinte estão autorizadas a cobrar as quotas-partes terrestres de trânsito excepcionais indicadas no quadro, as quais se acrescentam às quotas-partes de trânsito referidas no artigo 35.º, parágrafo 1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)](https://files.diariodarepublica.pt/1s/1998/05/114a01/00020220.pdf)
 
-Artigo XIV
-
-Quotas-partes marítimas
+###### Artigo XIV — Quotas-partes marítimas
 
 As administrações seguintes reservam-se o direito de aumentar em 50%, no máximo, as quotas-partes marítimas previstas no artigo 36.º: Alemanha, América (Estados Unidos), Argentina, Antígua e Barbuda, Baamas, Barain, Bangladesh, Barbados, Bélgica, Belize, Brasil, Brunei Darussalam, Canadá, Chile, Chipre, Comores, Congo (República Popular), Jibuti, Dominica, Emirados Árabes Unidos, Espanha, Finlândia, França, Gabão, Gâmbia, Reino Unido da Grã-Bretanha e Irlanda do Norte, territórios do ultramar dependentes do Reino Unido, Grécia, Granada, Guiana, Índia, Itália, Jamaica, Japão, Quénia, Kiribati, Madagáscar, Malásia, Malta, Maurícia, Nigéria, Noruega, Omã, Uganda, Paquistão, Papuásia-Nova Guiné, Portugal, Qatar, São Cristóvão e Nevis, Santa Lúcia, São Vicente e Grenadinas, Salomão (ilhas), Seychelles, Serra Leoa, Singapura, Suécia, Tanzânia (República Unida), Tailândia, Trindade e Tobago, Tuvalu, Vanuatu, Iémene (República Democrática Popular) e Zâmbia.
 
-Artigo XV
-
-Quotas-partes suplementares
+###### Artigo XV — Quotas-partes suplementares
 
 1 - Qualquer encomenda encaminhada por via de superfície ou aérea com destino aos departamentos franceses do ultramar, aos territórios franceses do ultramar e às colectividades de Mayotte e Saint-Pierre e Miquelon fica sujeita a uma quota-parte terrestre de chegada igual no máximo, à quota-parte francesa correspondente.
 
@@ -6304,17 +6242,13 @@ Quando tal encomenda for encaminhada em trânsito pela França continental gera,
 
 6.2.1 - Os encargos de transporte aéreo que correspondem à distância aeropostal entre Espanha continental e cada uma das províncias insulares consideradas.
 
-Artigo XVI
-
-Despesas de transporte aéreo
+###### Artigo XVI — Despesas de transporte aéreo
 
 1 - O Afeganistão, Arábia Saudita, Argentina, Austrália, Baamas, Brasil, Bolívia, Canadá, Cabo Verde, Chile, China (República Popular), Colômbia, Congo (República), Cuba, El Salvador, Equador, Gabão, Guiana, Honduras (República), Índia, Indonésia, Irão (República Islâmica), Cazaquistão, México, Mongólia, Myanmar, Nova Zelândia, Paquistão, Paraguai, Peru, Rússia (Federação da), Sudão, Chade, Turquia, Venezuela, Vietname, Iémene e Zâmbia têm direito ao reembolso dos custos suplementares ocasionados pelo transporte aéreo dentro do seu país das encomendas-avião provenientes do estrangeiro. Estas despesas de transporte aéreo serão uniformes para todas as expedições provenientes do estrangeiro, quer as encomendas-avião sejam reencaminhadas por via aérea ou não.
 
 2 - A título de reciprocidade, a Espanha tem direito ao reembolso dos custos suplementares ocasionados pelo transporte aéreo dentro do seu país das encomendas-avião recebidas das administrações que figuram no parágrafo 1 do presente artigo. Estas despesas de transporte aéreo serão uniformes para todas as expedições recebidas, quer sejam encaminhadas por via aérea ou não.
 
-Artigo XVII
-
-Tarifas especiais
+###### Artigo XVII — Tarifas especiais
 
 1 - As administrações da América (Estados Unidos), Bélgica, França e Noruega podem cobrar, para as encomendas-avião, quotas-partes terrestres mais elevadas do que para as encomendas de superfície.
 

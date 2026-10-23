@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/44/2000/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-2000-292297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28a8eb680d9ea5616a79568684c0875215f66015192239aec76c67901387c418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7109d7469f004a5cddac035f2e9f435e15a695911d0d32dcff107f0abd0a670
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Energia Nuclear
-- ONU
 - Nova Iorque
+- ONU
+- Portugal
 - Tratado de Proibição Total de Ensaios Nucleares
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:292296:por
+  label: "Ratificado o Tratado aprovado para ratificação pelo presente diploma pelo DEC.26/2000.2000.05.24.PR,DR.IS-A [120]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/26-2000-292296
+  date: '2000-05-24'
 article_structure:
-  article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 17
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:30Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Março de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 COMPREHENSIVE NUCLEAR TEST-BAN TREATY
 
@@ -1461,7 +1467,7 @@ to assist the Technical Secretariat in clarifying the origins of any such event 
 
 ANNEX 1
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)
+[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)
 
 ANNEX 2
 
@@ -1545,17 +1551,13 @@ Manifestando o propósito de obter a adesão de todos os Estados ao presente Tra
 
 acordaram no seguinte:
 
-Artigo I
-
-Obrigações fundamentais
+###### Artigo I — Obrigações fundamentais
 
 1 - Cada Estado Parte compromete-se a não levar a efeito quaisquer explosões de ensaio com armas nucleares, ou toda e qualquer outra explosão nuclear, e a proibir e evitar que tais explosões nucleares ocorram em qualquer lugar do território sob sua jurisdição e controlo.
 
 2 - Cada Estado Parte compromete-se ainda a abster-se de causar, encorajar ou, por qualquer forma, participar na realização de qualquer explosão de ensaio com armas nucleares, ou toda e qualquer outra explosão nuclear.
 
-Artigo II
-
-A Organização
+###### Artigo II — A Organização
 
 A - Disposições gerais
 
@@ -1803,9 +1805,7 @@ E - Privilégios e imunidades
 
 57 - Não obstante o disposto nos parágrafos 54 e 55, os privilégios e imunidades gozados pelo Director-Geral, inspectores, assistentes de inspecção e membros do pessoal do Secretariado Técnico durante o desempenho de actividades de verificação serão os que se encontram enunciados no Protocolo.
 
-Artigo III
-
-Medidas nacionais de aplicação
+###### Artigo III — Medidas nacionais de aplicação
 
 1 - Cada Estado Parte tomará, em conformidade com os seus procedimentos constitucionais, as medidas necessárias à aplicação das obrigações impostas pelo presente Tratado. Em especial, tomará todas as medidas que forem necessárias para:
 
@@ -1821,9 +1821,7 @@ c) Proibir, de acordo com o direito internacional, que as pessoas naturais que t
 
 4 - Para cumprimento das obrigações impostas por este Tratado, cada Estado Parte designará ou criará uma autoridade nacional e informará a Organização sobre a entrada em vigor do Tratado em relação a essa autoridade nacional. A autoridade nacional actuará como centro nacional de coordenação, destinando-se a manter a ligação com a Organização e com os outros Estados Partes.
 
-Artigo IV
-
-Verificação
+###### Artigo IV — Verificação
 
 A - Disposições gerais
 
@@ -2145,9 +2143,7 @@ b) Ajudar a calibrar as estações que fazem parte das redes que integram o Sist
 
 cada Estado Parte compromete-se a cooperar com a Organização e com os outros Estados Partes no sentido de aplicar as medidas pertinentes, em conformidade com o estabelecido na parte III do Protocolo.
 
-Artigo V
-
-Medidas, incluindo sanções, para corrigir uma situação e garantir o cumprimento das disposições do Tratado
+###### Artigo V — Medidas, incluindo sanções, para corrigir uma situação e garantir o cumprimento das disposições do Tratado
 
 1 - A Conferência, atendendo, entre outros factores, às recomendações feitas pelo Conselho Executivo, tomará as medidas necessárias, em conformidade com o disposto nos parágrafos 2 e 3, para assegurar o cumprimento deste Tratado, corrigindo e solucionando qualquer situação que constitua contravenção às disposições do mesmo.
 
@@ -2157,9 +2153,7 @@ Medidas, incluindo sanções, para corrigir uma situação e garantir o cumprime
 
 4 - A Conferência, ou, em alternativa, o Conselho Executivo, em caso de urgência, poderá levar a questão, incluindo informações e conclusões pertinentes, à atenção das Nações Unidas.
 
-Artigo VI
-
-Solução de diferendos
+###### Artigo VI — Solução de diferendos
 
 1 - Os diferendos que surjam relativamente à aplicação ou interpretação deste Tratado serão solucionados de acordo com as disposições pertinentes do mesmo e as disposições da Carta das Nações Unidas.
 
@@ -2173,9 +2167,7 @@ Solução de diferendos
 
 6 - As disposições do presente artigo entendem-se sem prejuízo dos artigos IV e V.
 
-Artigo VII
-
-Emendas
+###### Artigo VII — Emendas
 
 1 - Qualquer Estado Parte poderá propor emendas a este Tratado, ao Protocolo, ou aos anexos ao Protocolo, em qualquer momento após a entrada em vigor do mesmo. Qualquer Estado Parte poderá também propor modificações ao Protocolo e respectivos anexos, em conformidade com o parágrafo 7. As propostas de emenda estarão sujeitas ao procedimento previsto nos parágrafos 2 a 6. As propostas de modificação, feitas em conformidade com o parágrafo 7, estarão sujeitas ao procedimento previsto no parágrafo 8.
 
@@ -2207,9 +2199,7 @@ f) O Director-Geral notificará todos os Estados Partes e o depositário sobre q
 
 g) As modificações aprovadas ao abrigo deste procedimento entrarão em vigor, para todos os Estados Partes, 180 dias após a data de notificação da sua aprovação pelo Director-Geral, salvo se outro prazo for recomendado pelo Conselho Executivo ou decidido pela Conferência.
 
-Artigo VIII
-
-Revisão do Tratado
+###### Artigo VIII — Revisão do Tratado
 
 1 - 10 anos após a entrada em vigor deste Tratado, salvo decisão em contrário tomada pela maioria dos Estados Partes, realizar-se-á uma Conferência dos Estados Partes para rever o seu funcionamento e eficácia. Esta Conferência terá por objectivo assegurar que estão a ser cumpridos os objectivos e finalidades enunciados no preâmbulo do Tratado, bem como as respectivas disposições. A referida revisão terá em conta todos os progressos científicos e tecnológicos pertinentes para o presente Tratado. Com base em pedido apresentado por qualquer Estado Parte, a Conferência de Revisão analisará também a possibilidade de se autorizar a realização de explosões nucleares subterrâneas com fins pacíficos. Se a Conferência de Revisão decidir autorizar por consenso a realização de tais explosões nucleares, iniciará sem demora os seus trabalhos, com o objectivo de recomendar aos Estados Partes que o Tratado seja adequadamente emendado de modo a impedir que sejam retiradas quaisquer vantagens militares dessas explosões nucleares. Qualquer proposta de emenda deste tipo será comunicada ao Director-Geral por qualquer Estado Parte e será analisada em conformidade com as disposições do artigo VII.
 
@@ -2217,9 +2207,7 @@ Revisão do Tratado
 
 3 - Em princípio, as Conferências de Revisão terão lugar logo após o período anual ordinário de sessões da Conferência previsto no artigo II.
 
-Artigo IX
-
-Duração e retirada
+###### Artigo IX — Duração e retirada
 
 1 - Este Tratado terá uma duração ilimitada.
 
@@ -2227,33 +2215,23 @@ Duração e retirada
 
 3 - A retirada efectuar-se-á mediante notificação enviada, com seis meses de antecedência, a todos os Estados Partes, ao Conselho Executivo, ao depositário e ao Conselho de Segurança das Nações Unidas. Da notificação de retirada constará uma declaração onde se explique o acontecimento extraordinário (ou acontecimentos extraordinários) que, no entender desse Estado Parte, põem em perigo os seus interesses supremos.
 
-Artigo X
-
-Estatuto do Protocolo e anexos
+###### Artigo X — Estatuto do Protocolo e anexos
 
 Os anexos a este Tratado, o Protocolo e os anexos ao Protocolo são parte integrante do Tratado. Qualquer referência feita a este Tratado incluirá os anexos ao Tratado, o Protocolo e os anexos ao Protocolo.
 
-Artigo XI
-
-Assinatura
+###### Artigo XI — Assinatura
 
 Este Tratado estará aberto à assinatura de todos e quaisquer Estados antes da sua entrada em vigor.
 
-Artigo XII
-
-Ratificação
+###### Artigo XII — Ratificação
 
 Este Tratado ficará sujeito à ratificação dos Estados signatários, em conformidade com os respectivos procedimentos constitucionais.
 
-Artigo XIII
-
-Adesão
+###### Artigo XIII — Adesão
 
 Qualquer Estado que não assine este Tratado antes da sua entrada em vigor poderá aderir ao Tratado em qualquer momento posterior.
 
-Artigo XIV
-
-Entrada em vigor
+###### Artigo XIV — Entrada em vigor
 
 1 - Este Tratado entrará em vigor 180 dias após a data de depósito dos instrumentos de ratificação por todos os Estados mencionados no anexo n.º 2 ao presente Tratado, mas nunca antes de dois anos após a sua abertura para assinatura.
 
@@ -2265,15 +2243,11 @@ Entrada em vigor
 
 5 - Para os Estados que depositarem os seus instrumentos de ratificação ou adesão após a entrada em vigor deste Tratado, o mesmo entrará em vigor no 30.º dia seguinte à data de depósito dos respectivos instrumentos de ratificação ou adesão.
 
-Artigo XV
-
-Reservas
+###### Artigo XV — Reservas
 
 Os artigos deste Tratado e respectivos anexos não poderão ser objecto de reservas. As disposições do Protocolo apenso a este Tratado e os anexos ao Protocolo não estarão sujeitos a reservas incompatíveis com o objecto e finalidade do Tratado.
 
-Artigo XVI
-
-Depositário
+###### Artigo XVI — Depositário
 
 1 - O Secretário-Geral das Nações Unidas será o depositário deste Tratado e receberá as assinaturas, os instrumentos de ratificação e os instrumentos de adesão.
 
@@ -2283,9 +2257,7 @@ Depositário
 
 4 - Este Tratado será registado pelo depositário em conformidade com o artigo 102 da Carta das Nações Unidas.
 
-Artigo XVII
-
-Textos autênticos
+###### Artigo XVII — Textos autênticos
 
 Este Tratado, cujos textos árabe, chinês, espanhol, francês, inglês e russo têm autenticidade idêntica, ficará depositado em poder do Secretário-Geral das Nações Unidas.
 
@@ -2323,7 +2295,7 @@ Lista dos Estados que eram membros da Conferência sobre Desarmamento em 18 de J
 
 PROTOCOLO DO TRATADO DE PROIBIÇÃO TOTAL DE ENSAIOS NUCLEARES
 
-# PARTE I — Sistema Internacional de Vigilância e Funções do Centro Internacional de Dados
+## PARTE I — Sistema Internacional de Vigilância e Funções do Centro Internacional de Dados
 
 A - Disposições gerais
 
@@ -2413,7 +2385,7 @@ c) Ajudando os Estados Partes a desenvolver a capacidade para receberem, tratare
 
 23 - O Centro Internacional de Dados assegurará a vigilância contínua do estado de funcionamento das instalações do Sistema Internacional de Vigilância, das comunicações e dos seus próprios sistemas de tratamento, comunicando-o através de relatórios. Notificará imediatamente os responsáveis caso o desempenho de qualquer componente não atinja os níveis definidos no manual de operações pertinente.
 
-# PARTE II — Inspecções in situ
+## PARTE II — Inspecções in situ
 
 A - Disposições gerais
 
@@ -2845,7 +2817,7 @@ Partida
 
 110 - Uma vez concluídos os procedimentos posteriores à inspecção, a equipa de inspecção e o observador deixarão, logo que possível, o território do Estado Parte inspeccionado. O Estado Parte inspeccionado fará tudo o que estiver ao seu alcance para dar assistência à equipa de inspecção e garantir a segurança do seu transporte e do seu material e bagagens até ao ponto de saída. Salvo acordo em contrário entre o Estado Parte inspeccionado e a equipa de inspecção, o ponto de saída utilizado será idêntico ao ponto de entrada.
 
-# PARTE III — Medidas de fomento da confiança
+## PARTE III — Medidas de fomento da confiança
 
 1 - Em conformidade com o parágrafo 68 do artigo IV, cada Estado Parte notificará voluntariamente o Secretariado Técnico sobre qualquer explosão química, efectuada numa única vez, em que sejam utilizadas 300 t, ou mais, de material explosivo equivalente de TNT, em qualquer parte do seu território ou em qualquer local sob sua jurisdição ou controlo. Se possível, essa notificação será feita de antemão. A notificação incluirá pormenores relativos à localização, hora e data, quantidade e tipo do explosivo utilizado, bem como à configuração e finalidade prevista da explosão.
 
@@ -2863,7 +2835,7 @@ e ajudar o Secretariado Técnico a esclarecer as origens de qualquer fenómeno d
 
 4 - Para efeitos de calibragem do Sistema Internacional de Vigilância, os Estados Partes poderão contactar o Secretariado Técnico no sentido de realizar explosões químicas de calibragem ou fornecer informações pertinentes sobre explosões químicas previstas para outros fins.
 
-## ANEXO N.º 1 — [(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)
+## ANEXO N.º 1 — [[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)](https://files.diariodarepublica.pt/1s/2000/05/120a00/23422405.pdf)
 
 ## ANEXO N.º 2 — Lista dos parâmetros de caracterização para exame normalizado de fenómenos pelo Centro Internacional de Dados
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/580/1991/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-1991-649543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a945eca04b953083dc03d36f65dcc6964c1f266903e484efffa0b2292b87917c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430c91bbb8b4090b9c267ae2f912ebc1b4a4de6a974309ade2ae313f09367898
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,66 @@ relationships:
   target: pt:dre:641750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644504:por
+  label: "Alterada o nº 1º e aditado o nº 1-A ao presente diploma, já alterada pela Port 955/94 de 26-Out, pela Port.878/97.1997.09.10.MADRP\
+    \ DR.IS-B [209]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1997-644504
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:671215:por
+  label: "Suspenso pelo prazo máximo de nove meses o exercício da caça e actividades de carácter venatório na zona de caça\
+    \ atribuída pela presente Port, alterada pelas Port 955/94 de 26-Out e 878/97 de 10-Set, pela PORT.564/2003.2003.07.16.MADRP\
+    \ DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-2003-671215
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:223238:por
+  label: "Renovada por doze anos a concessão de zona de caça, com a redacção conferida pelas Port 955/94 de 26-Out e 878/97\
+    \ de 10-Set, pela PORT.408/2004.22.04.2004.MADRP, DR.IS-B [95] de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/408-2004-223238
+  date: '2004-04-22'
+- type: amended_by
+  target: pt:dre:641750:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, com a redacção conferida pelas\
+    \ Port 955/94 de 26-Out e 878/97 de 10-Set e renovada pela Port 408/2004 de 22-Abr, pela PORT.1312/2007.04.10.2007.MAOTDR,\
+    \ DR.IS [192] de 04.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1312-2007-641750
+  date: '2007-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:03Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +166,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 31 de Maio de 1991.**
+Assinada em 31 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/146b00/33123312.pdf))](https://files.diariodarepublica.pt/1s/1991/06/146b00/33123312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/146b00/33123312.pdf)

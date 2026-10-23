@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/1994/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-1994-305582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdcfdcbe320763da54842ae8a09cbc6c4b1553199ce12cd3d4739a5719e94169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9951103d815aab33a0a9aedea3434aed44bb3386fc2b6f83b9d6be34e749830d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Irlanda
-- Portugal
 - Dublin
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
-relationships: []
+- Imposto sobre o Rendimento
+- Irlanda
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RETIFICADA PELA RECTIFICAÇÃO 15/94, DE 7 DE OUTUBRO, PUBLICADA NO DR.IS-A, 250, DE 941028.\041028."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-28'
 article_structure:
   article_count: 29
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:13Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A IRLANDA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -520,11 +525,11 @@ Feita, em duplicado, em Dublim, no 1.º dia do mês de Junho de 1993, em portugu
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 Pelo Governo da Irlanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 PROTOCOLO
 
@@ -542,11 +547,11 @@ Feito, em duplicado, em Dublim, no 1.º dia do mês de Junho de 1993, em portugu
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 Pelo Governo da Irlanda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 CONVENTION BETWEEN THE PORTUGUESE REPUBLIC AND IRELAND FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME.
 
@@ -1046,11 +1051,11 @@ Done in duplicate at Dublin, this 1st day of June 1993, in the Portuguese and En
 
 For the Government of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 For the Government of Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 PROTOCOL
 
@@ -1068,8 +1073,8 @@ Done in duplicate at Dublin, this 1st day of June 1993, in the Portuguese and En
 
 For the Government of the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
 
 For the Government of Ireland:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf))](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144a00/33103327.pdf)

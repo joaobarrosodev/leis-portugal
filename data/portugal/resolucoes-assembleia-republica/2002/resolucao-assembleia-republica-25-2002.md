@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25/2002/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-2002-301248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a81c0ad442037dbef3554cfd3d8638fa22d336dbd10d7c3e86ac5a7ccd85437c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0791258b4914a39ac2d0749faa1f2b46a5c00c3cfc214504d5662c2e44d26b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
 - Grécia
-relationships: []
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:301256:por
+  label: "Ratificada a convenção aprovada para ratificação pelo presente diploma, pelo DEC.23/2002.2002.04.04.PR, DR.IS-A\
+    \ [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-2002-301256
+  date: '2002-04-04'
 article_structure:
   article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA HELÉNICA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -516,11 +522,11 @@ Feito em triplicado, em Lisboa aos 2 dias do mês de Dezembro de 1999, em portug
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 Pelo Governo da República Helénica:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 PROTOCOLO
 
@@ -544,11 +550,11 @@ Feito em triplicado, em Lisboa, aos dois dias do mês de Dezembro de 1999, nas l
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 Pelo Governo da República Helénica:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 [(ver texto em língua grega no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
@@ -1030,11 +1036,11 @@ Done at Lisbon, on December 2nd, in three originals, in the Portuguese, Greek an
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 For the Government of the Hellenic Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 PROTOCOL
 
@@ -1060,8 +1066,8 @@ Done in Lisbon, in triplicate at, December 2th, this day of 1999, in the Portugu
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
 
 For the Government of the Hellenic Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)](https://files.diariodarepublica.pt/1s/2002/04/079a00/30553082.pdf)

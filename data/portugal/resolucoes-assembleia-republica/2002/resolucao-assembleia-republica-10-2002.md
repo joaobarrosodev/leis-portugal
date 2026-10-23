@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/2002/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-2002-279832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b35aba49c1b66e3ac8506e17dfd394688fd87a7c615a87c51d09cd0eb541f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c98db55a784b272284c97c7c3ea0de9f2bc6da39b52cd15b8591e2f3c7e92c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
-- Moscovo
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
+- Moscovo
+- Portugal
 - Rússia
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:279834:por
+  label: "Ratificada a Convenção pelo DEC.9/2002.2002.02.25.PR DR.IS-A [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/9-2002-279834
+  date: '2002-02-25'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:22Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos).**
+O Presidente da Assembleia da República, António de Almeida Santos).
 
 CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA FEDERAÇÃO DA RÚSSIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -501,11 +506,11 @@ Feito em duplicado, em Moscovo, aos 29 dias do mês de Maio de 2000, nas língua
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 Pelo Governo da Federação da Rússia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 PROTOCOLO
 
@@ -527,11 +532,11 @@ No caso de qualquer divergência de interpretação, o texto inglês prevalecer�
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 Pelo Governo da Federação da Rússia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 [(ver texto em língua russa no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
@@ -991,11 +996,11 @@ Done in duplicate at Moscow the 29th day of May 2000, in the Portuguese, Russian
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 For the Government of the Russian Federation:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 PROTOCOL
 
@@ -1015,8 +1020,8 @@ Done in duplicate at Moscow the 29th day of May 2000, in the Portuguese, Russian
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
 
 For the Government of the Russian Federation:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15531577.pdf)

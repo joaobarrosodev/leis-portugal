@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/826/1991/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/826-1991-674211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47b0048041c1f09a5433375281e76ac507274de66b1e14071a2975e60f22b6cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc116c44cd438a7d16c661b6c6c52a011a018df20aa9a427b821b36df9a4169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Escola de Dança
 - Impresso
 - Lisboa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:547051:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:02Z'
   warnings: []
   errors: []
 ---
@@ -100,8 +104,8 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 18 de Julho de 1991.**
+Assinada em 18 de Julho de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/186b00/41244125.pdf))](https://files.diariodarepublica.pt/1s/1991/08/186b00/41244125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/186b00/41244125.pdf)

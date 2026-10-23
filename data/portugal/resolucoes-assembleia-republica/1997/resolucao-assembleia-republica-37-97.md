@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/1997/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-1997-349499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae336a0738ad8bf056894374a5322bc94d7ed02a9e6854d79d7a752fe6ca6050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d8aa7567cacd64494a0aeafe0e17856d4db24d81c1c3d65758af69e99fc70ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Convenção
+- Cooperação Militar
+- Ministério da Defesa Nacional
 - Portugal
 - Praga
 - República Checa
-- Cooperação Militar
 relationships: []
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:18Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 13 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE COOPERAÇÃO MÚTUA ENTRE O MINISTÉRIO DA DEFESA NACIONAL DA REPÚBLICA PORTUGUESA E O MINISTÉRIO DA DEFESA DA REPÚBLICA CHECA.
 
@@ -185,16 +185,16 @@ As divergências que possam surgir entre as Partes durante o desenvolvimento da 
 
 3 - O presente Acordo poderá ser alterado por mútuo consentimento das Partes. As alterações terão forma escrita e serão aprovadas pela forma prevista no n.º 1 deste artigo.
 
-**Assinado em Praga - República Checa -, em 20 de Abril de 1996, em duas cópias em língua portuguesa, checa e inglesa, todas fazendo igualmente fé.**
+Assinado em Praga - República Checa -, em 20 de Abril de 1996, em duas cópias em língua portuguesa, checa e inglesa, todas fazendo igualmente fé.
 
 No caso de divergências de interpretação, prevalecerá a versão inglesa.
 
-**O Ministro da Defesa Nacional de Portugal:**
+O Ministro da Defesa Nacional de Portugal:
 
 António Manuel de Carvalho Ferreira Vitorino.
 
-**O Ministro da Defesa da República Checa:**
+O Ministro da Defesa da República Checa:
 
 Vilém Holan.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/127a00/26742677.pdf))](https://files.diariodarepublica.pt/1s/1997/06/127a00/26742677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/127a00/26742677.pdf)

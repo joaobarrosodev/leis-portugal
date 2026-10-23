@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/1993/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-1993-324484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8587c5606441abcf697d27f742ca9cbfcb1394e4200cd6b065d19c70fd52a1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9430a3eb10df37a98345213687674d86aed36fb69cfc47a67bd89cb614c29d3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects:
 - Acordo Europeu
 - CE Países
 - CECA
+- Comércio
+- Cooperação Económica
 - EEE
 - EFTA
+- Liechtenstein
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Cooperação Económica
 - Política Económica
-- Comércio
-- Liechtenstein
 - Região Económica
 relationships:
 - type: cites
@@ -127,15 +127,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/d
 article_structure:
-  article_count: 22
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:22Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +148,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea f) e 
 
 Aprovada em 3 de Junho de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLO QUE ADAPTA O ACORDO SOBRE O ESPAÇO ECONÓMICO EUROPEU
 
@@ -230,7 +230,7 @@ No Protocolo n.º 5, relativo aos direitos aduaneiros de natureza fiscal (Listen
 
 - Nos n.os 1 e 2 são revogadas as expressões «e a Suíça e «ou na Suíça».
 
-###### Artigo 10.º
+Artigo 10.º
 
 O Protocolo n.º 6, relativo à constituição de reservas obrigatórias pela Suíça e pelo Listenstaina passa a ter a seguinte redacção:
 
@@ -240,11 +240,11 @@ Em períodos de grave crise no aprovisionamento, o Listenstaina pode sujeitar a 
 
 O Listenstaina aplicará este regime de forma que dele não resulte qualquer discriminação, directa ou indirecta, entre os produtos importados das outras Partes Contratantes e os produtos nacionais similares ou de substituição.
 
-###### Artigo 11.º
+Artigo 11.º
 
 No Protocolo n.º 8, relativo aos monopólios estatais, é revogada a expressão «da Suíça e».
 
-###### Artigo 12.º
+Artigo 12.º
 
 No Protocolo n.º 9, relativo ao comércio dos produtos da pesca e de outros produtos do mar:
 
@@ -362,9 +362,9 @@ Os instrumentos de ratificação ou aprovação serão depositados no Secretaria
 
 4 - No que respeita ao Listenstaina, o presente Protocolo entra em vigor após o depósito dos seus instrumentos de ratificação do Acordo EEE e do presente Protocolo, na data determinada pelo conselho do EEE e nas condições previstas no n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf))](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf)
 
-## Anexo previsto no artigo 20.º do Protocolo Que Altera o Acordo sobre o Espaço Económico Europeu
+Anexo previsto no artigo 20.º do Protocolo Que Altera o Acordo sobre o Espaço Económico Europeu
 
 Os anexos I a IX, XII, XIII, XVI e XVIII a XXII do Acordo EEE são alterados nos termos seguintes:
 
@@ -1396,7 +1396,7 @@ Ad artigo 20.º
 
 No que diz respeito à expressão «comércio intra-EFTA», a sigla, «EFTA» refere-se aos Estados da EFTA em relação aos quais o Acordo EEE tenha entrado em vigor.
 
-## Anexo XIV (Concorrência):
+Anexo XIV (Concorrência):
 
 1. 389 R 4064: Regulamento (CEE) n.º [4064/89](http://data.europa.eu/eli/reg/1989/4064/oj?locale=pt) do Conselho:
 
@@ -1406,4 +1406,4 @@ Declaração do Governo da França
 
 A França faz notar que o Acordo sobre o Espaço Económico Europeu não é aplicável aos países e territórios ultramarinos associados à Comunidade Europeia, nos termos das disposições do Tratado Que Institui a Comunidade Económica Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf))](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/195a00/44334447.pdf)

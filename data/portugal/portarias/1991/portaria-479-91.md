@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/479/1991/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-1991-629474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ead61c40915401641e967324cb91a1eb5164409be8f55db864d2453ceee53774
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77202951df55fbf236aa3b180b36d8bd53a0b3534bec3d0ff3b37eed761c4870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Ajudas de Custo
+- PSP
 relationships:
+- type: amended_by
+  target: pt:dre:497249:por
+  label: "19940131 - ACTUALIZADOS OS VALORES DAS AJUDAS DE CUSTO PELA PORTARIA 65/94, DE 31 DE JANEIRO, PUBLICADA NO DR.IS-B,\
+    \ 25.\0B, 25."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1994-497249
 - type: cites
   target: eli:http://data.dre.pt/eli/port/53/1991/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/53/1991/01/19/p/dre
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497787:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:34Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +146,6 @@ Guardas ... 14800$00
 
 Ministérios das Finanças e da Administração Interna.
 
-**Assinada em 7 de Maio de 1991.**
+Assinada em 7 de Maio de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Manuel Pereira.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216/1992/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-1992-176744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4038e54a9598584fac461f21a7a1a3a479d51844079cd5f4dbfd565a5c6d2a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff0703043063623d26c3da657dc1147eb05b5f745dc1cb6a8db691a4dacb8d4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Ordenamento do Território
 - Construção Civil
 - Licença de Loteamento
 - Licença Municipal
 - Loteamento Urbano
+- Ordenamento do Território
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:28Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +142,11 @@ j) O aviso a que se refere o n.º 2 do artigo 33.º do [Decreto-Lei n.º 448/91]
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 10 de Março de 1992.**
+Assinada em 10 de Março de 1992.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Manuel Nunes Liberato, Secretário de Estado da Administração Local e do Ordenamento do Território.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf))](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
 
 ## ANEXO II
 
@@ -162,13 +166,13 @@ São cedidos à Câmara Municipal, para integração no domínio público, ... (
 
 Dado e passado para que sirva de título ao requerente e para todos os efeitos prescritos no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 (Selo branco.)
 
 Registado na Câmara Municipal de ..., livro ..., em .../.../...
 
-**O Chefe de Repartição, ...**
+O Chefe de Repartição, ...
 
 Instruções de preenchimento
 
@@ -218,13 +222,13 @@ Foi prestada a canção a que se referem os artigos 24.º e 30.º do [Decreto-Le
 
 Dado e passado para que sirva de título ao requerente e para todos os efeitos prescritos no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 (Selo branco.)
 
 Registado na Câmara Municipal de ..., livro ..., em .../.../...
 
-**O Chefe de Repartição, ...**
+O Chefe de Repartição, ...
 
 Instruções de preenchimento
 
@@ -274,13 +278,13 @@ Foi prestada a caução a que se referem os artigos 24.º e 30.º do [Decreto-Le
 
 Dado e passado para que sirva de título ao requerente e para todos os efeitos prescritos no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 (Selo branco.)
 
 Registado na Câmara Municipal de ..., livro ..., em .../.../...
 
-**O Chefe de Repartição, ...**
+O Chefe de Repartição, ...
 
 Instruções de preenchimento
 
@@ -352,7 +356,7 @@ Número de lotes para ... (ver nota j);
 
 Finalidade ... (ver nota l), de acordo com a planta arquivada nos serviços da Câmara Municipal.
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 Instruções de preenchimento
 
@@ -388,7 +392,7 @@ Nos termos do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/
 
 Para a conclusão das obras de urbanização foi fixado o prazo de ...
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 Instruções de preenchimento
 
@@ -446,7 +450,7 @@ Finalidade ... (ver nota l), de acordo com a planta arquivada nos serviços da C
 
 Para a conclusão das obras de urbanização foi fixado o prazo de ...
 
-**O Presidente da Câmara Municipal, ...**
+O Presidente da Câmara Municipal, ...
 
 Instruções de preenchimento
 
@@ -472,8 +476,8 @@ Instruções de preenchimento
 
 (nota l) Descrição do uso a que se destina(m) a(s) área(s) cedida(s); indicar, conforme os casos: espaços verdes e ou de utilização colectiva, infra-estruturas ou equipamentos públicos.
 
-## ANEXO VIII — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf))](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
+## ANEXO VIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
 
-## ANEXO IX — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf))](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
+## ANEXO IX — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
 
-## ANEXO X — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf))](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)
+## ANEXO X — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/067b00/13941397.pdf)

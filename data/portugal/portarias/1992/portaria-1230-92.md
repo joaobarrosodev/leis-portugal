@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1230/1992/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1230-1992-621724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12c6e6ae000d03835c0fcc577223d406b32410c5b4769d8cd942dc6c7bbded7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2f2e68020d2f8ca55ce060112664a26d5f903c5529adc5cd1447eb7adf4a928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
 - Lisboa
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 32/93, PUBLICADA NO DR.IS-B, 49, 4 SUPL, DE 930227.\0227.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:00Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +126,9 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 30 de Novembro de 1992.**
+Assinada em 30 de Novembro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Alto do Parque
 
@@ -120,13 +136,13 @@ Regulamento
 
 Plano de Pormenor da Área Denominada Alto do Parque Eduardo VII
 
-###### Artigo 1.º A área de intervenção do Plano de Pormenor da Área Denominada Alto do Parque Eduardo VII, adiante designado por Plano, compreende o interior do perímetro definido pela Rua do Marquês de Fronteira, Avenida de António Augusto de Aguiar, Rua do Engenheiro Canto Resende, Alameda do Cardeal Cerejeira e Rua de Castilho e encontra-se delimitada na planta síntese em anexo.
+Artigo 1.º A área de intervenção do Plano de Pormenor da Área Denominada Alto do Parque Eduardo VII, adiante designado por Plano, compreende o interior do perímetro definido pela Rua do Marquês de Fronteira, Avenida de António Augusto de Aguiar, Rua do Engenheiro Canto Resende, Alameda do Cardeal Cerejeira e Rua de Castilho e encontra-se delimitada na planta síntese em anexo.
 
-###### Art. 2.º O Plano estabelece e define as prescrições que regem a ocupação, o uso e a transformação do solo na área de intervenção em conformidade com os princípios genéricos estabelecidos no Plano Geral de Urbanização da Cidade de Lisboa e os critérios fixados na acta da reunião conjunta efectuada entre a Câmara Municipal de Lisboa e a Comissão de Coordenação da Região de Lisboa e Vale do Tejo em 12 de Junho de 1990.
+Art. 2.º O Plano estabelece e define as prescrições que regem a ocupação, o uso e a transformação do solo na área de intervenção em conformidade com os princípios genéricos estabelecidos no Plano Geral de Urbanização da Cidade de Lisboa e os critérios fixados na acta da reunião conjunta efectuada entre a Câmara Municipal de Lisboa e a Comissão de Coordenação da Região de Lisboa e Vale do Tejo em 12 de Junho de 1990.
 
-###### Art. 3.º O Plano reveste a natureza de regulamento administrativo, sendo as suas prescrições de cumprimento e observância obrigatórios para todas as acções que, de iniciativa pública ou privada, sejam programadas, projectadas ou desenvolvidas na área de intervenção.
+Art. 3.º O Plano reveste a natureza de regulamento administrativo, sendo as suas prescrições de cumprimento e observância obrigatórios para todas as acções que, de iniciativa pública ou privada, sejam programadas, projectadas ou desenvolvidas na área de intervenção.
 
-###### Art. 4.º O Plano é composto pelos seguintes elementos escritos e gráficos:
+Art. 4.º O Plano é composto pelos seguintes elementos escritos e gráficos:
 
 a) Elementos escritos:
 
@@ -170,7 +186,7 @@ Cortes longitudinais sobre as vias e Parque Eduardo VII;
 
 15) Perfis transversais tipo.
 
-###### Art. 5.º - 1 - Tendo em consideração a necessidade de racionalização, potenciação e melhoria da circulação viária, dos transportes públicos e privados na área de intervenção do Plano, são adoptadas as seguintes soluções:
+Art. 5.º - 1 - Tendo em consideração a necessidade de racionalização, potenciação e melhoria da circulação viária, dos transportes públicos e privados na área de intervenção do Plano, são adoptadas as seguintes soluções:
 
 a) Alteração do perfil da Avenida de António Augusto de Aguiar, conforme o desenho n.º 15, sendo interditas nesta via as entradas e saídas de e para quaisquer locais de estacionamento;
 
@@ -186,7 +202,7 @@ e) Criação de via, conforme o desenho n.º 14, ligando a Alameda do Cardeal Ce
 
 2 - As zonas de parqueamento deverão ter uma gestão integrada e apoiar-se-ão num sistema viário interno em subsolo, por forma a assegurar a maior racionalidade e suficiência na localização das respectivas entradas e saídas.
 
-###### Art. 6.º - 1 - No que concerne ao sistema de circulação pedonal, na área de intervenção são adoptadas as seguintes soluções:
+Art. 6.º - 1 - No que concerne ao sistema de circulação pedonal, na área de intervenção são adoptadas as seguintes soluções:
 
 a) Criação de espaço público pedonal como remate do eixo da Alameda do Parque Eduardo VII, conforme o desenho n.º 5, tendo em consideração a continuidade dos passeios laterais, os desnivelamentos originados pelas pendentes diferentes dos passeios e relvado central e a sua ligação com as construções e espaços a nascente e a poente;
 
@@ -200,7 +216,7 @@ a) Zona de circulação viária - cubos de pedra granítica;
 
 b) Zona de circulação pedonal - cubos de pedra calcária e basáltica.
 
-###### Art. 7.º - 1 - As prescrições a observar na elaboração dos projectos, implantação, alinhamentos, função e uso, cércea, área de pavimento, número de pisos e estacionamento são as constantes do quadro anexo ao presente regulamento.
+Art. 7.º - 1 - As prescrições a observar na elaboração dos projectos, implantação, alinhamentos, função e uso, cércea, área de pavimento, número de pisos e estacionamento são as constantes do quadro anexo ao presente regulamento.
 
 2 - Os parâmetros fixados no quadro anexo resultam da aplicação da previsão do n.º 3 do artigo 6.º do Regulamento do Plano Geral de Urbanização da Cidade de Lisboa, atendendo às infra-estruturas públicas e aos equipamentos de interesse colectivo, a disponibilizar e proporcionar pela entidade promotora do complexo hoteleiro e centro polivalente, designadamente alteração da malha viária envolvente, arruamentos em subsolo, estacionamento excedentário e tratamento paisagístico em projecto, execução e conservação da zona central da área de intervenção.
 
@@ -210,15 +226,15 @@ Quadro Anexo
 
 A) Complexo hoteleiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf))](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
 
 B) Centro polivalente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf))](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
 
 c) Totais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf))](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/299b00/59935995.pdf)
 
 D) Estacionamento:
 

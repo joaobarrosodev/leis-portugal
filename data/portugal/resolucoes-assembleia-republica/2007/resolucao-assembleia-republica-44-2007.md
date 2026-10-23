@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/44/2007/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-2007-640345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46b2e2596c04bcd78e93c8b310c9afb74dee50add835a3db8df18b22447ddbf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 362c0e9d84f831a23f7ff8dcaa380ba78349f4122b2feeb7e4cb8056e878c99e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
 - Convenção
+- Cooperação Judiciária
+- EUA
 - Portugal
 - União Europeia
-- Cooperação Judiciária
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:640326:por
+  label: "Ratificado o Acordo pelo DEC.94/2007.10.09.2007.PR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/94-2007-640326
+  date: '2007-09-10'
 article_structure:
-  article_count: 7
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:39Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 12 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 INSTRUMENTO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA CONFORME O N.º 3 DO ARTIGO 3.º DO ACORDO ENTRE A UNIÃO EUROPEIA E OS ESTADOS UNIDOS DA AMÉRICA SOBRE AUXÍLIO JUDICIÁRIO MÚTUO, ASSINADO EM 25 DE JUNHO DE 2003.
 
@@ -152,13 +157,15 @@ Feito em Washington DC, no 14.º dia do mês de Julho do ano de 2005, em dois ex
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
 
 Pelos Estados Unidos da América:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Identificação de informação bancária
 
@@ -322,11 +329,11 @@ Done at Washington, in duplicate, 14th of July 2005, in the English and Portugue
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
 
 For the United States of America:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17400/0641406420.pdf)
 
 ANNEX
 

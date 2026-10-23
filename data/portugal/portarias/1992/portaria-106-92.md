@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106/1992/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-1992-158469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82a99f69b4a8c639f580e415fd47881c790a8cc8fb3476452e353dd2e784776a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6655ed4ec00d5e0ff963ca530eb90329c97bb0e6ded6870720bb8c6471f0a26a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Rural
+- Financiamento
 - Gado Bovino
+- Pecuária
 - Programa de Apoio à Reestruturação e Inovação no Sector Agrícola
 - Regime Jurídico
-- Pecuária
 relationships:
 - type: amended_by
   target: pt:dre:657634:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657634:por
+  label: "Alterados os n.ºs 3.º, 5.º, 6.º, 7.º, e aditada uma acção 9 aos anexos I a III, pela PORT.228/93.25.02.1993.MA,\
+    \ DR.IS-B [47] de 25.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-1993-657634
+  date: '1993-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/102/1992/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/102/1992/02/19/p/dre
+- type: cites
+  target: pt:dre:158465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:46Z'
   warnings: []
   errors: []
 ---
@@ -202,18 +216,18 @@ Pagamento das ajudas
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Janeiro de 1992.**
+Assinada em 24 de Janeiro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 ## ANEXO I — [a que se refere a alínea a) do ponto 1 do n.º 4.º da Portaria n.º 106/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do ponto 1 do n.º 4.º Portaria n.º 106/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do ponto 1 do n.º 4.º da Portaria n.º 106/92]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf))](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/10121014.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/41/2000/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/41-2000-281819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: daa805c1c744b6f4ad1602379f76321ecc5e974151987a92b1ce3da86f0892d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a46da1ce3ec605ab589a8530cc766b46bd53c81347d7ae710667a196b33708ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,13 +75,13 @@ relationships: []
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:25Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +94,17 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Assinada em 7 de Abril de 2000.**
+Assinada em 7 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 13 de Abril de 2000.**
+Referendada em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA ESLOVÉNIA RELATIVO A TRANSPORTES INTERNACIONAIS RODOVIÁRIOS DE PASSAGEIROS E MERCADORIAS.
 
@@ -348,11 +348,11 @@ Feito em Varsóvia, em 19 de Maio de 1999, em três versões originais nas líng
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 Pela República da Eslovénia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 PROTOCOLO
 
@@ -442,11 +442,11 @@ Feito em Varsóvia, em 19 de Maio de 1999, em três originais nas línguas portu
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 Pela República da Eslovénia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 [(ver texto em língua eslovena no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
@@ -734,11 +734,11 @@ Done in Warsaw, on 19 May 1999, in two original copies, each in Portuguese, Slov
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 For the Republic of Slovenia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 PROTOCOL
 
@@ -828,8 +828,8 @@ Done in Warsaw on 19 May 1999, in two originals, each in Portuguese, Slovene and
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
 
 For the Republic of Slovenia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)](https://files.diariodarepublica.pt/1s/2000/05/101a00/17621775.pdf)

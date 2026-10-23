@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/43/2004/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2004-276784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1591646723b2ad5a9e577193e52f9f78d6971703b20d82baf9114872d383981e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 942fa8fc91e20980dbbf08b29e569272b6070f417ce09eb6333640e02348a17d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Bruxelas
 - CE Países
 - Convenção
-- Portugal
-- Lucro
 - Dupla Tributação
-- IRC
+- Empresa
 - Empresa Estrangeira
-- Bruxelas
-relationships: []
+- IRC
+- Lucro
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:276785:por
+  label: "Ratificado o Protocolo de Alteração da Convenção relativa à Eliminação da Dupla Tributação em Caso de Correcção\
+    \ de Lucros entre Empresas Associadas, aprovado, para ratificação, pelo presente diploma, pelo DEC.27/2004.25.06.2004.PR,\
+    \ DR.IS-A [148] de 25.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/27-2004-276785
+  date: '2004-06-25'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:32Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de Maio de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 PROTOCOLO DE ALTERAÇÃO DA CONVENÇÃO, DE 23 DE JULHO DE 1990, RELATIVA À ELIMINAÇÃO DA DUPLA TRIBUTAÇÃO EM CASO DE CORRECÇÃO DE LUCROS ENTRE EMPRESAS ASSOCIADAS.
 
@@ -207,7 +214,7 @@ b) A data de entrada em vigor do presente Protocolo.
 
 O presente Protocolo, redigido num único exemplar nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, irlandesa, italiana, neerlandesa, portuguesa e sueca, fazendo todas as versões igualmente fé, será depositado nos arquivos do Secretariado-Geral do Conselho da União Europeia. O Secretário-Geral enviará uma cópia autenticada a cada um dos governos dos Estados signatários.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)
 
 Acta Final da Conferência dos Representantes dos Governos dos Estados Membros, reunidos no Conselho em 25 de Maio de 1999.
 
@@ -217,4 +224,4 @@ Acordaram na necessidade de prorrogar a referida Convenção de Arbitragem por u
 
 Procederam à assinatura do Protocolo Que Altera a Convenção, de 23 de Julho de 1990, Relativa à Eliminação da Dupla Tributação em Caso de Correcção de Lucros entre Empresas Associadas.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)](https://files.diariodarepublica.pt/1s/2004/06/148a00/38793883.pdf)

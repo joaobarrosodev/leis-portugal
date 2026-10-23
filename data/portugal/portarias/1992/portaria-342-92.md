@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/087b00/17471749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/342/1992/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/342-1992-200013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdffebdd98d4a80d044b5d48976cb6e3ebb6283f256fb0919d360411723cd871
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 976e5b50c45bc34c18c72ce6c710aa4c2d7733a6446ece38e3e8a68ca6906c16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Profissional
 - Escola Profissional
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:545039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505655:por
+  label: "Extinto o Curso profissional de T&#233;cnico de Mec&#226;nica/Manuten&#231;&#227;o Industrial a funcionar na Escola\
+    \ Profissional de Set&#250;bal, e o respectivo plano de estudos criados no presente diploma, pela PORT.889/2004.21.07.2004.ME,\
+    \ DR.IS-B [170] de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes que &#224;quele\
+    \ curso respeitam pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-2004-505655
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147616:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Electrónica/Comando, criado pelo presente diploma,\
+    \ que é revogado parcialmente, no que àquele curso se refere pela PORT.903/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005,\
+    \ sem prejuízo do disposto no nº 9º da citada portaria \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2005-147616
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147640:por
+  label: "Extinto o curso profissional de Técnico de Informática/Gestão, criado pelo presente diploma que é revogado parcialmente\
+    \ no que àquele curso se refere, pela PORT.913/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ nos n.ºs 7.º e 8.º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/913-2005-147640
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147658:por
+  label: "Extinto o curso profissional de Técnico de Gestão, criado pelo presente diploma e revogado parcialmente na parte\
+    \ referente ao citado curso, pela PORT.899/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no\
+    \ n.º 9.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-2005-147658
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:544844:por
+  label: "Extinto o curso profissional de técnico de audio-vídeo/pós-produção e de áudio-vídeo/produção, criados pelo presente\
+    \ diploma, que é revogado no que àquele curso se refere, permanecendo em vigor os respectivos planos de estudos nos termos\
+    \ do nº 6º pela PORT.1271/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1271-2006-544844
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:545039:por
+  label: "Extinto o curso profissional de técnico de produção metalomecânica/produção e controlo de qualidade, criado pelo\
+    \ presente diploma, pela PORT.1317/2006.23.11.2006.ME, DR.IS [226]de 23.11.2006, revogando-a parcialmente no que àquele\
+    \ curso se refere e permanecendo em vigor o respectivo plano de estudos nos termos do nº 6\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1317-2006-545039
+  date: '2006-11-23'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:34Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +169,8 @@ cujos planos de estudo se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/087b00/17471749.pdf))](https://files.diariodarepublica.pt/1s/1992/04/087b00/17471749.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/087b00/17471749.pdf)

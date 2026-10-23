@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/29/1995/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/29-1995-526823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a749ecc662440579dfb116143f38fde434d8a25edd4856f0a28087d1649a623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82ee1b24eccaa2ecf9e143d0e64490ebf45724d19debdd92a6b29a7353429031
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
-- Fundo de Desenvolvimento Social
+- Conselho da Europa
 - Convenção
-- Portugal
 - Emigrante
 - Estatuto
-- Refugiado
-- Imigrante
+- Fundo de Desenvolvimento Social
 - Grupo Sociocultural
-- Conselho da Europa
+- Imigrante
+- Portugal
+- Refugiado
 - Vítima
 relationships: []
 article_structure:
   article_count: 0
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:04Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 12 de Janeiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 STATUT DU FONDS DE DÉVELOPPEMENT SOCIAL DU CONSEIL DE L'EUROPE
 
@@ -541,21 +541,17 @@ L'article II du Statut amendé du Fonds de Développement social, dont le texte 
 
 Tableau annexe au Statut donnant le pourcentage de répartition entre les Membres du Fonds des titres de participation au capital mis à leur disposition.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf))](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf)
 
 ESTATUTO DO FUNDO DE DESENVOLVIMENTO SOCIAL DO CONSELHO DA EUROPA
 
-ARTIGO I
-
-Constituição do Fundo
+###### ARTIGO I — Constituição do Fundo
 
 É criado um Fundo de Desenvolvimento Social do Conselho da Europa (a seguir designado «Fundo»).
 
 O Fundo funciona junto do Conselho da Europa e, como tal, está subordinado à sua suprema autoridade.
 
-ARTIGO II (ver nota 1)
-
-Objectivo
+###### ARTIGO II (ver nota 1) — Objectivo
 
 a) O Fundo tem como objectivo prioritário ajudar a resolver os problemas sociais que põe ou pode pôr aos países europeus a presença de refugiados, de pessoas deslocadas ou de migrantes, resultante da movimentação de refugiados ou de outras movimentações forçadas de populações, bem como da presença de vítimas de catástrofes naturais ou ecológicas.
 
@@ -565,9 +561,7 @@ b) O Fundo pode também contribuir para a realização de projectos de investime
 
 (nota 1) O texto deste artigo foi adoptado pelo Conselho de Ministros, aquando da sua 496.ª Reunião, pela Resolução (93) 22, em anexo.
 
-ARTIGO III
-
-Aquisição da qualidade de membro
+###### ARTIGO III — Aquisição da qualidade de membro
 
 a) Qualquer Estado membro do Conselho da Europa pode tornar-se membro do Fundo, através de uma declaração dirigida ao Secretário-Geral. Esta declaração deve conter a aceitação do presente Estatuto pelo Governo desse Estado e a subscrição, por parte desse Governo, do número de títulos de participação fixado por acordo com o conselho directivo, em conformidade com a secção 3, parágrafo 1, alínea a), do artigo IX do Estatuto.
 
@@ -585,9 +579,7 @@ i) De aderir, assim que possível, ao Terceiro Protocolo Adicional ao Acordo Ger
 
 ii) De aplicar, enquanto aguarda a referida adesão, o regime jurídico decorrente deste Protocolo aos bens, activos e operações do Fundo, bem como conceder aos órgãos e agentes do Fundo o estatuto jurídico decorrente do Protocolo.
 
-ARTIGO IV
-
-Obrigações dos membros
+###### ARTIGO IV — Obrigações dos membros
 
 #### Secção 1 — Títulos de participação
 
@@ -607,23 +599,17 @@ d) Aquando dos aumentos de capital do Fundo, o conselho directivo fixará, em co
 
 Nenhum membro será responsável, perante terceiros, por obrigações contraídas pelo Fundo.
 
-ARTIGO V
-
-Operações de empréstimo e contribuições de carácter financeiro
+###### ARTIGO V — Operações de empréstimo e contribuições de carácter financeiro
 
 O Fundo pode contrair empréstimos para aplicações conformes aos seus objectivos. Pode igualmente efectuar quaisquer outras operações financeiras úteis à realização dos seus objectivos, nas condições estabelecidas pelo conselho de administração.
 
 O Fundo pode receber somas destinadas a fins determinados e conformes aos seus objectivos.
 
-ARTIGO VI
-
-Investimentos
+###### ARTIGO VI — Investimentos
 
 Os activos líquidos, o capital e as reservas do Fundo podem ser investidos em condições a fixar pelo conselho de administração, de acordo com princípios de uma sã gestão financeira.
 
-ARTIGO VII
-
-Meios de intervenção do Fundo
+###### ARTIGO VII — Meios de intervenção do Fundo
 
 #### Secção 1 — Empréstimos
 
@@ -657,9 +643,7 @@ O conselho de administração estabelecerá as condições gerais para a concess
 
 As operações do Fundo a favor de um membro ou de uma pessoa colectiva, conforme referido na secção 1, serão suspensas no caso de o mutuário ou, na sua falta, o garante faltar ao cumprimento das obrigações de pagamento decorrentes de empréstimos ou de garantias que lhe foram concedidos pelo Fundo.
 
-ARTIGO VIII
-
-Organização, administração e fiscalização do Fundo
+###### ARTIGO VIII — Organização, administração e fiscalização do Fundo
 
 A organização, administração e fiscalização do Fundo serão asseguradas pelos órgãos seguintes:
 
@@ -673,9 +657,7 @@ Conselho fiscal;
 
 de acordo com o disposto nos artigos seguintes.
 
-ARTIGO IX
-
-Conselho directivo
+###### ARTIGO IX — Conselho directivo
 
 #### Secção 1
 
@@ -757,15 +739,13 @@ g) As decisões referidas na secção 3, parágrafo 1, alíneas f) e h), são to
 
 O conselho directivo é presidido por um presidente eleito pelo conselho para um mandato de três anos.
 
-**O presidente cessante pode ser reeleito para um novo mandato de três anos. Cada membro do Fundo tem o direito de apresentar um candidato.**
+O presidente cessante pode ser reeleito para um novo mandato de três anos. Cada membro do Fundo tem o direito de apresentar um candidato.
 
-**O presidente é responsável pelas relações políticas com os dirigentes dos Estados, o Conselho da Europa e outras instituições internacionais, em íntima cooperação com o governador.**
+O presidente é responsável pelas relações políticas com os dirigentes dos Estados, o Conselho da Europa e outras instituições internacionais, em íntima cooperação com o governador.
 
-**O presidente informa regularmente o Conselho de Ministros e a Assembleia Parlamentar das actividades do Fundo, transmitindo, designadamente, o relatório do governador ao Conselho de Ministros e mantendo todos os contactos necessários com o Conselho da Europa.**
+O presidente informa regularmente o Conselho de Ministros e a Assembleia Parlamentar das actividades do Fundo, transmitindo, designadamente, o relatório do governador ao Conselho de Ministros e mantendo todos os contactos necessários com o Conselho da Europa.
 
-ARTIGO X
-
-Conselho de administração
+###### ARTIGO X — Conselho de administração
 
 #### Secção 1
 
@@ -831,9 +811,7 @@ d) O Comité Executivo reúne sempre que necessário, mas no mínimo oito vezes 
 
 e) No âmbito das orientações e dentro dos limites estabelecidos pelo conselho de administração, o Comité Executivo delibera por maioria de sete dos seus membros. Se esta maioria não for obtida, a questão objecto da deliberação será reenviada ao conselho de administração.
 
-ARTIGO XI
-
-Governador
+###### ARTIGO XI — Governador
 
 #### Secção 1 — Funções do governador
 
@@ -857,9 +835,7 @@ O governador deve preparar anualmente um relatório completo sobre todas as oper
 
 O governador e os vice-governadores são nomeados, cada um, por um período de cinco anos renovável. O montante da sua remuneração é fixado pelo conselho de administração.
 
-ARTIGO XII
-
-Conselho fiscal
+###### ARTIGO XII — Conselho fiscal
 
 O conselho fiscal é constituído por três membros nomeados nos termos da secção 3, alínea m), do artigo IX, tendo em conta a sua competência em matéria económica e financeira. Eles agem com total independência.
 
@@ -869,9 +845,7 @@ No seu relatório anual, o conselho deve certificar que o balanço e a conta de 
 
 O conselho receberá cópias de toda a documentação necessária aos seus trabalhos, tal como os relatórios de auditoria externa e interna. A pedido dos órgãos do Fundo, o conselho executará quaisquer outras missões respeitantes à fiscalização da actividade financeira do Fundo.
 
-ARTIGO XIII
-
-Conselho da Europa
+###### ARTIGO XIII — Conselho da Europa
 
 a) Com o propósito de assegurar as relações com o Conselho da Europa, o Conselho de Ministros e a Assembleia Parlamentar do Conselho da Europa são regularmente informados sobre as actividades do Fundo. O conselho directivo pronuncia-se sobre as recomendações e pareceres do Conselho de Ministros ou da Assembleia Parlamentar que lhe são transmitidos.
 
@@ -883,15 +857,11 @@ Pode assegurar quaisquer outras missões que lhe sejam confiadas pelos órgãos 
 
 c) Os pedidos de empréstimo ou de garantia são submetidos ao conselho de administração, após a recepção do parecer do Secretário-Geral sobre a sua admissibilidade, com base na conformidade do projecto com os objectivos políticos e sociais do Conselho da Europa.
 
-ARTIGO XIV
-
-Sede
+###### ARTIGO XIV — Sede
 
 A sede do Fundo é em Estrasburgo, França. A sede dos serviços de gestão será fixada em Paris e só poderá ser alterada mediante decisão do conselho directivo e decisão do conselho de administração em sentido idêntico.
 
-ARTIGO XV
-
-Suspensão das operações e liquidação do Fundo
+###### ARTIGO XV — Suspensão das operações e liquidação do Fundo
 
 #### Secção 1 — Saída de membros
 
@@ -915,23 +885,19 @@ O activo líquido do Fundo que restar após a repartição será distribuído po
 
 c) Em caso de passivo líquido, este será distribuído pelos membros do Fundo na proporção do número de títulos de participação que cada um detenha. Cada membro será instado a pagar ao Fundo a sua parte, após a dedução dos títulos que tenha pago e no limite dos títulos subscritos.
 
-ARTIGO XVI
-
-Interpretação do presente Estatuto
+###### ARTIGO XVI — Interpretação do presente Estatuto
 
 As decisões do conselho de administração sobre a interpretação do presente Estatuto podem ser submetidas à apreciação do conselho directivo a pedido de qualquer membro. Enquanto o conselho directivo não se pronunciar, o Fundo pode, na medida em que o julgue necessário, agir segundo a decisão do conselho de administração.
 
-ARTIGO XVII
+###### ARTIGO XVII — Notificações
 
-Notificações
-
-**O Secretário-Geral do Conselho da Europa notificará os membros do Fundo e o governador sobre:**
+O Secretário-Geral do Conselho da Europa notificará os membros do Fundo e o governador sobre:
 
 a) O depósito de qualquer declaração ou instrumento de aceitação do presente Estatuto;
 
 b) Qualquer acto que altere o presente Estatuto.
 
-**O Secretário-Geral do Conselho da Europa enviará cópia autenticada do presente Estatuto a todos os Estados membros do Conselho da Europa e a todos os outros membros do Fundo.**
+O Secretário-Geral do Conselho da Europa enviará cópia autenticada do presente Estatuto a todos os Estados membros do Conselho da Europa e a todos os outros membros do Fundo.
 
 ## ANEXO — Resolução n.º (93) 22
 
@@ -947,4 +913,4 @@ O artigo II da alteração ao Estatuto do Fundo de Desenvolvimento Social, cujo 
 
 Tabela anexa ao Estatuto referente à percentagem de repartição entre os membros do Fundo dos títulos de participação postos à sua disposição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf))](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/128a00/35043515.pdf)

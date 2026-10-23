@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/797/1991/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/797-1991-675246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e952461d103b0919d8473043981475e214392fc71f941fb2d02343fcafac52e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96faada7ffd369eee49b5eb5bb3957cade58183af21500b454ac3a7a9505af51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Despesas Públicas
 - Divisa
-- Administração Pública
 - Orçamento Cambial do Sector Público
-- Administração Local
-- Administração Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/78/1991/02/16/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/279-a/1991/04/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/279-a/1991/04/05/p/dre
+- type: cites
+  target: pt:dre:432825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:18Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +114,10 @@ Assim:
 
 Manda o Governo, pelo Ministro das Finanças, que seja alterado o n.º 2.º da [Portaria n.º 279-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/279-a-1991-432825), de 5 de Abril, relativamente aos limites máximos do montante de despesa em moeda estrangeira a realizar em 1991 para os seguintes Ministérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/184b00/40604060.pdf))](https://files.diariodarepublica.pt/1s/1991/08/184b00/40604060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/184b00/40604060.pdf)
 
 Ministério das Finanças.
 
-**Assinada em 24 de Julho de 1991.**
+Assinada em 24 de Julho de 1991.
 
 Pelo Ministro das Finanças, José Oliveira Costa, Secretário de Estado dos Assuntos Fiscais.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/010b00/01750175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/1992/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1992-138300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f375ac632c5bb8013902449bbc448e104def3d40765b295c1828bfe46ec3338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4eb0dad0b0f9d90161db6f5ede30614e2d6cc5fd39d017054b26f11abd8764e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,38 @@ relationships:
   target: pt:dre:514201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:194268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614674:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515796:por
+  label: "Rectificado o n.º 4.º pela DECL-RECT.49/92.30.04.1992.PCM, DR.IS-B [100]2ºSupl de 30.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/49-1992-515796
+  date: '1992-04-14'
+- type: repealed_by
+  target: pt:dre:514201:por
+  label: "Revogada pela PORT.413/95.1995.05.08.MF, DR.IS-B [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1995-514201
+  date: '1995-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:09Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +136,10 @@ Ao abrigo do disposto no artigo 21.º do [Decreto-Lei n.º 47802](https://diario
 
 Ministério da Agricultura.
 
-**Assinada em 23 de Dezembro de 1991.**
+Assinada em 23 de Dezembro de 1991.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
 ## ANEXO — Tabela de preços para homologação de produtos fitofarmacêuticos a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/010b00/01750175.pdf))](https://files.diariodarepublica.pt/1s/1992/01/010b00/01750175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/010b00/01750175.pdf)

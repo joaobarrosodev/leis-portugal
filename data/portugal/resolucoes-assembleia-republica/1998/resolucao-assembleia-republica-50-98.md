@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/50/1998/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/50-1998-239809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 579109f4ee1391155d53701132dbf5e7da8f4c8380bda0aaa0f91f9c23e11afb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 395e24210efb17c64cca526ce307ec3df6bbcabdec6df216a2030811ea3782a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
+- Bruxelas
 - Convenção
-- Portugal
+- Cooperação Internacional
+- Cooperação Militar
+- NATO
 - Política de Defesa
+- Portugal
+- República Checa
 - Segurança Internacional
 - Tratado do Atlântico Norte
-- Cooperação Internacional
-- República Checa
-- Cooperação Militar
-- Bruxelas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:239810:por
+  label: "Ratificado o Protocolo de Adesão aprovado para ratificação pelo prersente diploma, pelo DEC.43/98.1998.10.28.PR,\
+    \ DR.IS-A [249]e\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/43-1998-239810
+  date: '1998-10-28'
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:24Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +105,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 16 de Setembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOL TO THE NORTH ATLANTIC TREATY ON THE ACCESSION OF THE CZECH REPUBLIC
 
@@ -121,7 +127,7 @@ In witness whereof the undersigned plenipotentiaries have signed the present Pro
 
 Signed at Brussels on the 16th day of December 1997.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)
 
 PROTOCOLE AU TRAITÉ DE L'ATLANTIQUE NORD SUR L'ACCESSION DE LA RÉPUBLIQUE TCHÈQUE
 
@@ -143,27 +149,27 @@ En foi de quoi les plénipotentiaires désignés ci-dessous ont signé le prése
 
 Signé à Bruxelles le 16 décembre 1997.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55825585.pdf)
 
 PROTOCOLO DE ADESÃO DA REPÚBLICA CHECA AO TRATADO DO ATLÂNTICO NORTE
 
 As Partes no Tratado do Atlântico Norte, assinado em Washington a 4 de Abril de 1949, convictas de que a adesão da República Checa ao Tratado do Atlântico Norte permitirá reforçar a segurança na área do Atlântico Norte, acordam o seguinte:
 
-Artigo I
+###### Artigo I
 
 Com a entrada em vigor do presente Protocolo, o Secretário-Geral da Organização do Tratado do Atlântico Norte, em nome de todas as Partes, enviará ao Governo da República Checa um convite para aderir ao Tratado do Atlântico Norte. Nos termos do artigo 10.º do Tratado, a República Checa tornar-se-á Parte no referido Tratado na data de depósito do seu instrumento de adesão junto do Governo dos Estados Unidos da América.
 
-Artigo II
+###### Artigo II
 
 O presente Protocolo entrará em vigor quando todas as Partes no Tratado do Atlântico Norte notificarem o Governo dos Estados Unidos da América da sua aceitação. O Governo dos Estados Unidos da América informará todas as Partes no Tratado do Atlântico Norte da data de recepção de cada notificação e da data de entrada em vigor do presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo, cujos textos em inglês e francês fazem igualmente fé, será depositado nos arquivos do Governo dos Estados Unidos da América. Cópias do mesmo, devidamente autenticadas, serão transmitidas, por este último Governo, aos Governos de todas as Partes no Tratado do Atlântico Norte.
 
 Em fé do que os plenipotenciários abaixo designados assinaram o presente Protocolo.
 
-**Assinado em Bruxelas, aos 16 dias de Dezembro de 1997.**
+Assinado em Bruxelas, aos 16 dias de Dezembro de 1997.
 
 Pelo Reino da Bélgica:
 

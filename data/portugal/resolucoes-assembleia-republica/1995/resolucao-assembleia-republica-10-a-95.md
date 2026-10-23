@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 44/1995, 1º Suplemento, Série I-A de 1995-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1040-(2) a 1040-(130)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/044a01/00020130.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10-a/1995/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-a-1995-261905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9a0b2a514ca1921b0416ac16dd1dc83eeabcf2294143e285cc4aacf8710f714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57a7c3028ad7a8162498cc2fe8f8ffcf29a09c480d8dad89b1149c4b795f3cca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiocomunicações
-- Convenção
-- Portugal
+- ACTO Constitutivo
 - Comunicação por Satélite
+- Comunicações
+- Convenção
+- Genebra
 - Nairobi
 - Nice
-- ACTO Constitutivo
-- Comunicações
-- Genebra
+- Portugal
+- Radiocomunicações
 - União Internacional das Telecomunicações
 relationships:
 - type: amended_by
   target: pt:dre:302100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147868:por
+  label: "Alterada a Introdução e os artºs 8º, 9º, 28º da Constituição da União Internacional das Telecomunicações, bem como\
+    \ a Introdução e os arts 4º, 7º, 19º, 23º, 24º, 32º, 33º e o Anexo da Convenção ambas aprovadas para ratificação pelo\
+    \ presente diploma, pelos Actos Finais da Conferência de Plenipontenciário da União Internacional das Telecomunicações\
+    \ aprovados para ratificação pelo DEC.35/97.1997.07.18.MNE, DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-1997-147868
+  date: '1997-07-18'
+- type: amended_by
+  target: pt:dre:302100:por
+  label: "Aprovadas, para ratificação, os Actos Finais da Conferência de Plenipotenciários, realizada em Mineápolis, que contém\
+    \ as alterações à Constituição e à Convenção da UIT aprovada para ratificação pelo presente diploma (alterada pela conferência\
+    \ de plenipotenciários de Quioto cujas alterações foram aprovadas para ratificação pelo Dec 35/97, de 18-Jul), pela RES.36/2004.26.02.2004.AR,\
+    \ DR.IS-A [104] de 04.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/36-2004-302100
+  date: '2004-02-26'
+- type: cites
+  target: pt:dre:272591:por
+  label: null
+  source: null
 article_structure:
-  article_count: 103
+  article_count: 106
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:34Z'
   warnings: []
   errors: []
 ---
@@ -102,25 +122,25 @@ Aprova, para ratificação, a Constituição e a Convenção da União Internaci
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º São aprovadas, para ratificação, a Constituição e a Convenção da União Internacional de Telecomunicações, que substituem a Convenção Internacional das Telecomunicações de Nairobi (1982), aprovada pela [Resolução da Assembleia da República n.º 3/87](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1987-272591), de 30 de Janeiro, assinadas em Genebra, a 22 de Dezembro de 1992, cujos textos originais em francês e a respectiva tradução em português seguem em anexo à presente resolução.
+Artigo 1.º São aprovadas, para ratificação, a Constituição e a Convenção da União Internacional de Telecomunicações, que substituem a Convenção Internacional das Telecomunicações de Nairobi (1982), aprovada pela [Resolução da Assembleia da República n.º 3/87](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1987-272591), de 30 de Janeiro, assinadas em Genebra, a 22 de Dezembro de 1992, cujos textos originais em francês e a respectiva tradução em português seguem em anexo à presente resolução.
 
-###### Art. 2.º - 1 - Portugal declara que não aceita qualquer consequência das reservas feitas por outros Governos que provoquem um aumento da sua parte contributiva para as despesas da União.
+Art. 2.º - 1 - Portugal declara que não aceita qualquer consequência das reservas feitas por outros Governos que provoquem um aumento da sua parte contributiva para as despesas da União.
 
 2 - Portugal reserva o direito de tomar quaisquer medidas que considere necessárias para proteger os seus interesses no caso de alguns membros não satisfazerem a sua parte nas despesas da União ou deixarem, por qualquer forma, de se conformar com as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), dos seus anexos ou protocolos, ou ainda se reservas formuladas por outros países comprometerem o bom funcionamento dos seus serviços de telecomunicações.
 
-###### Art. 3.º - 1 - Portugal, no que respeita às declarações feitas pela República da Colômbia (n.º 48) e pela República do Quénia (n.º 53), considera, na medida em que estas declarações se referem à Declaração de Bogotá, assinada em 3 de Dezembro de 1976, pelos países equatoriais, e à reivindicação destes países de exercerem direitos soberanos sobre partes da órbita dos satélites geo-estacionários, que aquelas, bem como qualquer declaração ou reivindicação semelhante, não podem ser admitidas pela Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992).
+Art. 3.º - 1 - Portugal, no que respeita às declarações feitas pela República da Colômbia (n.º 48) e pela República do Quénia (n.º 53), considera, na medida em que estas declarações se referem à Declaração de Bogotá, assinada em 3 de Dezembro de 1976, pelos países equatoriais, e à reivindicação destes países de exercerem direitos soberanos sobre partes da órbita dos satélites geo-estacionários, que aquelas, bem como qualquer declaração ou reivindicação semelhante, não podem ser admitidas pela Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992).
 
 2 - Portugal renova as declarações feitas aquando da assinatura dos Actos Finais da Conferência Administrativa Mundial das Radiocomunicações (Genebra, 1979) e da Conferência Administrativa Mundial das Radiocomunicações sobre a Utilização da Órbita dos Satélites Geo-Estacionários e a Planificação dos Serviços Espaciais Que Utilizam Esta Órbita (1.ª e 2.ª sessões, Genebra 1985 e 1988), da Conferência de Plenipotenciários da União Internacional das Telecomunicações (Nice, 1989) e do Protocolo Final da Convenção Internacional das Telecomunicações (Nairobi, 1982), como se estas declarações estivessem aqui reproduzidas.
 
 3 - Portugal declara que a referência à «situação geográfica de certos países» no artigo 40.º da Constituição não significa que se admita a reivindicação de quaisquer direitos preferenciais sobre a órbita dos satélites geo-estacionários.
 
-###### Art. 4.º É aprovado, para ratificação, o Protocolo Facultativo sobre a Resolução Obrigatória de Litígios Relativos à Constituição da União Internacional das Telecomunicações, à Convenção da União Internacional das Telecomunicações e aos Regulamentos Administrativos, assinado em Genebra a 22 de Dezembro de 1992, cujos textos originais em francês e a respectiva tradução para português seguem em anexo à presente resolução.
+Art. 4.º É aprovado, para ratificação, o Protocolo Facultativo sobre a Resolução Obrigatória de Litígios Relativos à Constituição da União Internacional das Telecomunicações, à Convenção da União Internacional das Telecomunicações e aos Regulamentos Administrativos, assinado em Genebra a 22 de Dezembro de 1992, cujos textos originais em francês e a respectiva tradução para português seguem em anexo à presente resolução.
 
 Aprovada em 3 de Novembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/044a01/00020130.pdf))](https://files.diariodarepublica.pt/1s/1995/02/044a01/00020130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/044a01/00020130.pdf)
 
 CONSTITUIÇÃO DA UNIÃO INTERNACIONAL DAS TELECOMUNICAÇÕES
 
@@ -818,7 +838,9 @@ CONVENÇÃO DA UNIÃO INTERNACIONAL DAS TELECOMUNICAÇÕES
 
 ### CAPÍTULO I — Funcionamento da União
 
-#### SECÇÃO I — Artigo 1.º
+#### SECÇÃO I
+
+###### Artigo 1.º
 
 Conferência de Plenipotenciários
 
@@ -930,7 +952,9 @@ Membros do Comité do Regulamento das Radiocomunicações
 
 49 2) As disposições relativas à convocação de uma conferência mundial de radiocomunicações, à adopção da sua ordem do dia e às condições de participação aplicam-se igualmente, conforme apropriado, às conferências mundiais de telecomunicações internacionais.
 
-#### SECÇÃO 2 — Artigo 4.º
+#### SECÇÃO 2
+
+###### Artigo 4.º
 
 O Conselho
 
@@ -1000,7 +1024,9 @@ O Conselho
 
 82 16) Submeterá à conferência de plenipotenciários um relatório sobre as actividades da União desde a última conferência de plenipotenciários, bem como as recomendações que julgar apropriadas.
 
-#### SECÇÃO 3 — Artigo 5.º
+#### SECÇÃO 3
+
+###### Artigo 5.º
 
 Secretariado-Geral
 
@@ -1050,7 +1076,9 @@ Secretariado-Geral
 
 105 2 - O secretário-geral ou o vice-secretário-geral podem assistir, a titulo consultivo, às conferências da União; o secretário-geral ou seu representante poderão participar, a título consultivo, em todas as outras reuniões da União.
 
-#### SECÇÃO 4 — Artigo 6.º
+#### SECÇÃO 4
+
+###### Artigo 6.º
 
 Comité de Coordenação
 
@@ -2914,7 +2942,7 @@ Qualquer Membro Parte no presente Protocolo poderá denunciá-lo através de uma
 
 ###### Artigo 6.º
 
-**O secretário-geral notificará a todos membros:**
+O secretário-geral notificará a todos membros:
 
 a) As assinaturas apostas no presente Protocolo e o depósito de cada instrumento de ratificação, de aceitação, de aprovação ou de adesão;
 

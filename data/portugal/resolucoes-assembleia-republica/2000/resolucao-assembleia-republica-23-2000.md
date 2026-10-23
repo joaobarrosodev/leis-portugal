@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/069a00/11301131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23/2000/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-2000-515248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c0e5c90976823c7ea71ef3a57890b6ab9371d6d91552079ddad3bd6ebcf2369
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a3a12f33957021726e0c2750a194b7ad877e14e1eee832fde961781815515ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Canal Parlamento
 - Difusão da Informação
 - Operador de Televisão
-- Assembleia da República
-- Televisão por CABO
 - Programa Audiovisual
+- Televisão por CABO
 relationships:
 - type: amended_by
   target: pt:dre:637188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568932:por
+  label: "Alterado o art. 1.º pela RES.25/2004.05.02.2004.AR, DR.IS-A [48] de 26.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/25-2004-568932
+  date: '2004-02-05'
+- type: repealed_by
+  target: pt:dre:637188:por
+  label: "Revogada, a partir de 25.08.2007, alterada pela Res 25/2004 de 26-Fev, pela RES.37/2007.20.08.2007.AR, DR.IS [159]\
+    \ de 20.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/37-2007-637188
+  date: '2007-08-20'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:00Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +130,7 @@ d) Outros eventos de actualidade parlamentar.
 
 Aprovada em 2 de Março de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ## ANEXO — Linhas orientadoras de reestruturação do Canal Parlamento
 

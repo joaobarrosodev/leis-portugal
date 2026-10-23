@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/194b00/44114412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/877/1991/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1991-403275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6cba11cd82739b904fc9ed2c94b496eb11122aa9d30330b263ff3d6f41a82be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dfb480c7e46680b922e1dbc538568b65e4c56b428e79b10c6f14f4c8cb307e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
 - Curso de Contabilidade e Gestão Financeira
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
-- Castelo Branco
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:354679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226425:por
+  label: "Alterado o plano de estudos do curso de bacharel em contabilidada e gestão financeira pela PORT.610/96.1996.10.25.ME,\
+    \ DR.IS-B [248]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/610-1996-226425
+  date: '1996-10-25'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354679:por
+  label: "Revogada pela PORT.533/99.1999.07.22.ME DR.IS-B [169], findo o processo de transição fixado nos termos do art. 31.º\
+    \ do Regulamento aprovado pela Poert 413-A/98, de 17-Jul.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1999-354679
+  date: '1999-07-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:13Z'
   warnings: []
   errors: []
 ---
@@ -154,8 +174,8 @@ O curso referido no n.º 1.º entra em funcionamento progressivamente, um ano cu
 
 Ministério da Educação.
 
-**Assinada em 31 de Julho de 1991.**
+Assinada em 31 de Julho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/194b00/44114412.pdf))](https://files.diariodarepublica.pt/1s/1991/08/194b00/44114412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/194b00/44114412.pdf)

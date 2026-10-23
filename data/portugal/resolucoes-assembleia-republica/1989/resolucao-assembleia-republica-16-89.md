@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-1989-609670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6682fb9a0902567993391fae896e34e3316775bb81d51c7f478843e52fb8e120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3829c22c18ec234e77e232042f737e895dfb565405698846a3ea025f44d51fd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Alimentar
+- Comércio
+- Conselho Internacional do Trigo
+- Convenção
+- Londres
+- Portugal
+- Trigo
 relationships: []
 article_structure:
-  article_count: 34
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 60
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:01Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 19 de Janeiro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ACCORD INTERNATIONAL SUR LE BLÉ DE 1986
 
@@ -738,7 +745,7 @@ Contributions des membres
 
 3 - La contribution annuelle minimale, en équivalent blé, de chaque membre à la réalisation de l'objectif énoncé à l'article I est la suivante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf)
 
 4 - Aux fins de l'application de la présente Convention, tout membre qui aura adhéré à ladite Convention conformément aux dispositions du paragraphe 2 de l'article XX sera réputé figurer au paragraphe 3 du présente article avec la contribution minimale qui lui aura été attribuée conformément aux dispositions pertinentes de l'article XX.
 
@@ -978,7 +985,7 @@ e que cada uma destas duas Convenções, ou uma das duas, conforme for convenien
 
 Convenção do comércio do trigo de 1986
 
-# PARTE I — Generalidades
+## PARTE I — Generalidades
 
 ###### Artigo 1.º — Objectivos
 
@@ -1112,7 +1119,7 @@ c) O Conselho receberá regularmente informações relativas aos custos de trans
 
 2 - Qualquer membro que considere que os seus interesses, enquanto parte na presente Convenção, são seriamente lesados pelo facto de um ou mais membros terem adoptado medidas que comprometam o funcionamento da presente Convenção pode recorrer ao Conselho. O Conselho consultará imediatamente os membros interessados a fim de resolver a questão. Se a questão não for resolvida por meio dessas consultas, o Conselho examiná-la-á de modo mais aprofundado, podendo fazer recomendações aos membros interessados.
 
-# PARTE II — Disposições administrativas
+## PARTE II — Disposições administrativas
 
 ###### Artigo 9.º — Constituição do Conselho
 
@@ -1302,7 +1309,7 @@ c) No caso de o Conselho deixar de existir.
 
 A fim de assegurar o aprovisionamento, em trigo e em outros cereais, dos membros importadores, bem como mercados para o trigo e os outros cereais dos membros exportadores a preços equitativos e estáveis, o Conselho examinará, em tempo oportuno, a possibilidade de empreender a negociação de um novo acordo internacional ou de um nova convenção internacional que contenha disposições económicas. Quando se afigurar que a referida negociação pode ser levada a bom termo, o Conselho pedirá ao secretário-geral da CNUCED que convoque uma conferência de negociação.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
 ###### Artigo 23.º — Depositário
 
@@ -1480,17 +1487,13 @@ Venezuela ... 30
 
 Convenção relativa à ajuda alimentar de 1986
 
-# PARTE I — Objecto e definições
+## PARTE I — Objecto e definições
 
-Artigo I
-
-Objecto
+###### Artigo I — Objecto
 
 A presente Convenção pretende assegurar, mediante um esforço conjunto da comunidade internacional, a realização do objectivo fixado pela Conferência Mundial da Alimentação, o qual consiste em proporcionar, todos os anos, aos países em vias de desenvolvimento, uma ajuda alimentar de, pelo menos, 10 milhões de toneladas de cereais próprios para o consumo humano, em conformidade com as disposições da presente Convenção.
 
-Artigo II
-
-Definições
+###### Artigo II — Definições
 
 1 - Para efeitos da presente Convenção:
 
@@ -1514,11 +1517,9 @@ i) O termo «ano» designa, salvo indicação em contrário, o período compreen
 
 2 - Qualquer referência, na presente Convenção, a um «governo» ou a «governos» vale também para a Comunidade Económica Europeia (a seguir denominada CEE). Por conseguinte, qualquer referência, na presente Convenção, à «assinatura» ou ao «depósito dos instrumentos de ratificação, aceitação ou aprovação», ou a um «instrumento de adesão», ou a uma «declaração de aplicação a título provisório» por parte de um governo vale, no caso da CEE, também para a assinatura ou para a declaração de aplicação a título provisório em nome da CEE pela sua autoridade competente, bem como para o depósito do instrumento exigido pelo processo institucional da CEE para a conclusão de um acordo internacional.
 
-# PARTE II — Disposições principais
+## PARTE II — Disposições principais
 
-Artigo III
-
-Contribuições dos membros
+###### Artigo III — Contribuições dos membros
 
 1 - Os membros da presente Convenção acordam em fornecer aos países em vias de desenvolvimento, a título de ajuda alimentar, cereais, tal como são definidos no n.º 1, alínea e), do artigo II, próprios para o consumo humano e de tipo e qualidade aceitáveis, ou o seu equivalente em dinheiro, no valor dos montantes anuais mínimos especificados no n.º 3 do presente artigo.
 
@@ -1526,7 +1527,7 @@ Contribuições dos membros
 
 3 - A contribuição anual mínima, em trigo equivalente, dos membros para a realização do objectivo enunciado no artigo I é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12900/21862212.pdf)
 
 4 - Para efeitos da aplicação da presente Convenção, qualquer membro que tenha aderido a esta Convenção, em conformidade com as disposições do n.º 2 do artigo XX, será considerado como constando do n.º 3 do presente artigo, com a contribuição mínima que lhe tiver sido atribuída segundo as disposições do artigo XX.
 
@@ -1536,9 +1537,7 @@ Contribuições dos membros
 
 7 - As compras de cereais referidas no n.º 1, alínea a), do artigo IV serão feitas junto dos membros da Convenção Relativa à Ajuda Alimentar de 1986 e da Convenção do Comércio do Trigo em vigor, sendo dada preferência aos membros em vias de desenvolvimento das duas Convenções, de modo a facilitar as exportações ou as actividades de transformação desses membros. O objectivo geral dessas compras será efectuar a maior parte das compras a países em vias de desenvolvimento, dando-se prioridade aos membros em vias de desenvolvimento da Convenção Relativa à Ajuda Alimentar. As presentes disposições não impedem, todavia, a compra de cereais a um país em vias de desenvolvimento que não seja membro da presente Convenção ou da Convenção do Comércio do Trigo. Em todas as compras referidas no presente número, são especialmente tidas em conta a qualidade, as vantagens em matéria de preço c. i. f. e as possibilidades de fornecimento rápido ao país beneficiário, bem como as necessidades específicas dos próprios países beneficiários. As contribuições em dinheiro não serão utilizadas, normalmente, em qualquer ano, para comprar a um país um cereal do mesmo tipo daquele que esse país tiver recebido a título de ajuda alimentar bilateral ou multilateral durante esse mesmo ano, ou ao longo dos anos anteriores, se a quantidade de cereais fornecida por esse meio ainda não estiver esgotada.
 
-Artigo IV
-
-Modalidades das contribuições de ajuda alimentar
+###### Artigo IV — Modalidades das contribuições de ajuda alimentar
 
 A ajuda alimentar a título da presente Convenção pode ser fornecida de acordo com qualquer das seguintes modalidades:
 
@@ -1554,9 +1553,7 @@ entendendo-se que a referida ajuda alimentar será fornecida, tanto quanto poss�
 
 (nota 2) O acordo relativo às vendas a crédito pode prever o pagamento de uma fracção do principal, que pode atingir os 15% aquando do fornecimento dos cereais.
 
-Artigo V
-
-Distribuição das contribuições
+###### Artigo V — Distribuição das contribuições
 
 1 - Os membros podem designar, em relação às suas contribuições a título da presente Convenção, um ou vários países beneficiários.
 
@@ -1564,9 +1561,7 @@ Distribuição das contribuições
 
 3 - Os membros tomarão em consideração as vantagens que haveria em encaminhar uma maior proporção da ajuda alimentar através dos circuitos multilaterais, em especial o Programa Alimentar Mundial.
 
-Artigo VI
-
-Equivalentes em trigo
+###### Artigo VI — Equivalentes em trigo
 
 1 - No seu regulamento interno, o Comité estabelecerá regras com vista à avaliação da contribuição de um membro, composta por cereais que não sejam trigo ou por produtos cerealíferos, tendo em conta, se for caso disso, o teor de cereais dos produtos e o valor comercial do cereal ou do produto relativamente ao do trigo.
 
@@ -1574,29 +1569,21 @@ Equivalentes em trigo
 
 3 - A fim de determinar o preço praticado no mercado internacional, em conformidade com o disposto no n.º 2 do presente artigo, o Comité terá em devida conta qualquer aumento ou diminuição sensível do preço anual médio. Considerar-se-á que se verificou um aumento ou uma diminuição sensível quando o preço anual médio referido no n.º 2 do presente artigo acusar uma subida superior a 20% ou uma baixa superior a 20% em relação ao ano civil precedente. Relativamente a este aspecto, o preço praticado no mercado internacional, que serve efectivamente para avaliar a contribuição de um membro, não deve ser superior em mais de 20% nem inferior em mais de 20% ao do ano precedente.
 
-Artigo VII
-
-Incidências sobre o comércio e a produção agrícola e condução das operações de ajuda alimentar
+###### Artigo VII — Incidências sobre o comércio e a produção agrícola e condução das operações de ajuda alimentar
 
 1 - Todas as operações de ajuda a título da presente Convenção serão realizadas de um modo compatível com as preocupações expressas nos actuais princípios e directrizes da FAO em matéria de escoamento dos excedentes. Os membros comprometem-se a efectuar todas as suas operações de ajuda a título da presente Convenção de modo a evitar qualquer prejuízo para a estrutura normal da produção e do comércio internacional.
 
 2 - Os membros actuarão, quando for caso disso, em conformidade com as directivas e os critérios relativos à ajuda alimentar aprovados pelo Comité das Políticas e Programas de Ajuda Alimentar do Programa Alimentar Mundial.
 
-Artigo VIII
-
-Disposição especial relativa às necessidades de emergência
+###### Artigo VIII — Disposição especial relativa às necessidades de emergência
 
 Se, no decurso de um ano, a produção de cereais destinados à alimentação se caracterizar por um défice substancial nos países em vias de desenvolvimento de baixo rendimento em uma ou várias regiões especificas, o presidente do Comité, tendo em consideração as informações recebidas do director executivo, pode convocar uma sessão do Comité a fim de examinar a gravidade do défice da produção. O Comité pode recomendar que os membros sanem a situação pelo aumento da quantidade de ajuda alimentar disponível.
 
-Artigo IX
-
-Comité da Ajuda Alimentar
+###### Artigo IX — Comité da Ajuda Alimentar
 
 É instituído um Comité da Ajuda Alimentar, composto por todas as partes na presente Convenção. O Comité designa um presidente e um vice-presidente.
 
-Artigo X
-
-Poderes e funções do Comité
+###### Artigo X — Poderes e funções do Comité
 
 1 - O Comité:
 
@@ -1624,9 +1611,7 @@ b) O Comité pode também receber informações dos países beneficiários e con
 
 5 - Além dos poderes e funções especificados no presente artigo, o Comité tem os outros poderes e exerce as outras funções que sejam necessários à aplicação das disposições da presente Convenção.
 
-Artigo XI
-
-Sede, sessões e quórum
+###### Artigo XI — Sede, sessões e quórum
 
 1 - A sede do Comité é em Londres.
 
@@ -1634,59 +1619,41 @@ Sede, sessões e quórum
 
 3 - Para constituir o quórum em qualquer sessão do Comité é necessária a presença de delegados que representem dois terços dos membros do Comité.
 
-Artigo XII
-
-Decisões
+###### Artigo XII — Decisões
 
 As decisões do Comité são tomadas por consenso.
 
-Artigo XIII
-
-Admissão de observadores
+###### Artigo XIII — Admissão de observadores
 
 Quando necessário, o Comité pode convidar a participar nas suas reuniões abertas, na qualidade de observadores, os representantes de outras organizações internacionais, das quais apenas possam fazer parte o governos que sejam membros das Nações Unidas ou membros das suas agências especializadas.
 
-Artigo XIV
-
-Disposições administrativas
+###### Artigo XIV — Disposições administrativas
 
 O Comité utiliza os serviços do secretariado para a execução das tarefas administrativas, nomeadamente a produção e a distribuição da documentação e dos relatórios.
 
-Artigo XV
-
-Incumprimento dos compromissos e diferendos
+###### Artigo XV — Incumprimento dos compromissos e diferendos
 
 Em caso de diferendo relativo à interpretação ou à aplicação da presente Convenção ou de incumprimento das obrigações assumidas por força da presente Convenção, o Comité reúne-se a fim de decidir das medidas a tomar.
 
-# PARTE III — Disposições finais
+## PARTE III — Disposições finais
 
-Artigo XVI
+###### Artigo XVI — Depositário
 
-Depositário
+O Secretário-Geral da Organização das Nações Unidas é designado depositário da presente Convenção.
 
-**O Secretário-Geral da Organização das Nações Unidas é designado depositário da presente Convenção.**
-
-Artigo XVII
-
-Assinatura
+###### Artigo XVII — Assinatura
 
 A presente Convenção estará aberta à assinatura dos governos referidos no n.º 3 do artigo III de 1 de Maio de 1986 a 30 de Junho de 1986, inclusive, na sede da Organização das Nações Unidas.
 
-Artigo XVIII
-
-Ratificação, aceitação ou aprovação
+###### Artigo XVIII — Ratificação, aceitação ou aprovação
 
 A presente Convenção está sujeita a ratificação, aceitação ou aprovação de cada governo signatário, em conformidade com os respectivos procedimentos constitucionais. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do depositário o mais tardar em 30 de Junho de 1986, considerando-se que o Comité pode conceder uma ou mais prorrogações de prazo a qualquer governo signatário que, naquela data, ainda não tenha depositado o seu instrumento de ratificação, aceitação ou aprovação.
 
-Artigo XIX
-
-Aplicação a título provisório
+###### Artigo XIX — Aplicação a título provisório
 
 Qualquer governo signatário pode depositar junto do depositário uma declaração de aplicação, a título provisório, da presente Convenção. Esse governo aplicará a presente Convenção a título provisório e será provisoriamente considerado como parte nesta Convenção.
 
-Artigo XX
-
-Adesão
+###### Artigo XX — Adesão
 
 1 - A presente Convenção está aberta à adesão de qualquer governo referido no n.º 3 do artigo III que não tenha assinado a presente Convenção. Os instrumentos de adesão serão depositados junto do depositário o mais tardar em 30 de Junho de 1986, considerando-se que o Comité pode conceder uma ou mais prorrogações de prazo a qualquer governo que, naquela data, ainda não tenha depositado o seu instrumento.
 
@@ -1694,17 +1661,13 @@ Adesão
 
 3 - Qualquer governo que adira à presente Convenção nos termos do n.º 1 ou do n.º 2 do presente artigo pode depositar junto do depositário uma declaração de aplicação a título provisório da presente Convenção, na pendência do depósito do seu instrumento de adesão. Esse governo aplicará a presente Convenção a título provisório e será provisoriamente considerado como parte nesta Convenção.
 
-Artigo XXI
-
-Entrada em vigor
+###### Artigo XXI — Entrada em vigor
 
 1 - A presente Convenção entrará em vigor em 1 de Julho de 1986 se, em 30 de Junho de 1986, os governos referidos no n.º 3 do artigo III tiverem depositado os instrumentos de ratificação, aceitação, aprovação ou adesão ou as declarações de aplicação a título provisório e desde que a Convenção do Comércio do Trigo de 1986 esteja em vigor.
 
 2 - Se a presente Convenção não entrar em vigor, nos termos do disposto no n.º 1 do presente artigo, os governos que tiverem depositado os instrumentos de ratificação, aceitação, aprovação ou adesão ou as declarações de aplicação a título provisório podem decidir, por unanimidade, a sua entrada em vigor entre eles, desde que a Convenção do Comércio do Trigo de 1986 esteja em vigor, ou podem tomar qualquer outra decisão que lhes pareça adequada à situação.
 
-Artigo XXII
-
-Duração, prorrogação e termo
+###### Artigo XXII — Duração, prorrogação e termo
 
 1 - A presente Convenção permanecerá em vigor até 30 de Junho de 1989, inclusive, a não ser que seja prorrogada em aplicação do n.º 2 do presente artigo ou que lhe seja posto termo antes desta data, em aplicação do n.º 4 do presente artigo, desde que a Convenção do Comércio do Trigo de 1986, ou uma nova convenção do comércio do trigo que substitua aquela, permaneça em vigor até esta data, inclusive.
 
@@ -1714,29 +1677,21 @@ Duração, prorrogação e termo
 
 4 - Se for posto termo à presente Convenção, o Comité continuará a existir, enquanto for necessário, a fim de proceder à liquidação daquela, dispondo dos poderes e exercendo as funções necessárias a este objectivo.
 
-Artigo XXIII
-
-Retirada e readmissão
+###### Artigo XXIII — Retirada e readmissão
 
 1 - Qualquer membro pode retirar-se da presente Convenção no final de qualquer ano mediante notificação, por escrito, da sua retirada ao depositário pelo menos três meses antes do final do ano em questão, não sendo por este facto dispensado de nenhuma das obrigações que decorrem da presente Convenção e que não tenham sido cumpridas antes do final do referido ano. Simultaneamente, esse membro avisa o Comité da decisão que tomou.
 
 2 - Qualquer membro que se retire da presente Convenção pode, posteriormente, voltar a ser parte na mesma, notificando o Comité da sua decisão. Todavia, estabelece-se, como condição de readmissão desse membro, que este cumpra integralmente a sua obrigação anual a contar do ano em que voltar a ser parte na presente Convenção.
 
-Artigo XXIV
-
-Relação entre a presente convenção e o Acordo internacional do Trigo de 1986
+###### Artigo XXIV — Relação entre a presente convenção e o Acordo internacional do Trigo de 1986
 
 A presente Convenção substitui a Convenção Relativa à Ajuda Alimentar de 1980, tal como foi prorrogada, e é um dos instrumentos constitutivos do Acordo Internacional do Trigo de 1986.
 
-Artigo XXV
+###### Artigo XXV — Notificação pelo depositário
 
-Notificação pelo depositário
+O Secretário-Geral da Organização das Nações Unidas na qualidade de depositário, notificará todos os governos signatários e aderentes de qualquer assinatura, ratificação, aceitação, aprovação e aplicação a título provisório da presente Convenção, bem como de qualquer adesão à presente Convenção.
 
-**O Secretário-Geral da Organização das Nações Unidas na qualidade de depositário, notificará todos os governos signatários e aderentes de qualquer assinatura, ratificação, aceitação, aprovação e aplicação a título provisório da presente Convenção, bem como de qualquer adesão à presente Convenção.**
-
-Artigo XXVI
-
-Textos que fazem fé
+###### Artigo XXVI — Textos que fazem fé
 
 Os textos da presente Convenção em língua espanhola, francesa, inglesa e russa fazem todos igualmente fé.
 
@@ -1744,4 +1699,4 @@ Em fé do que os abaixo assinados, devidamente autorizados para este efeito pelo
 
 Feito em Londres, aos 13 de Março de 1986.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.

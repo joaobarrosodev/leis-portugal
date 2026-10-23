@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1166/1992/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1166-1992-623828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf17087b9e19459d3b615877620f35fda9c08103bd7a43eff8fbc55e9de085df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61550a370f9ed51f6307d142f00e1c41c4ea2a2e062d7f2248c340b4dc235fb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:27Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +105,6 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 9 de Novembro de 1992.**
+Assinada em 9 de Novembro de 1992.
 
-**O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.

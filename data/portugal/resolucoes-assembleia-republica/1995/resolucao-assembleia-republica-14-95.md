@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/1995/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1995-185921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d22b56f87d93c009d8fc837efbf321dadbc85768afd1234e616ec16681f4b84c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8605af2e704674f3f672f7eb22c03a1403ddb0394e9e7b826bb146184a451d1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
 subjects:
 - Cacau
 - Convenção
-- Portugal
-- ONU
 - Genebra
+- ONU
+- Portugal
 relationships: []
 article_structure:
   article_count: 63
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:44Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 14 de Dezembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo
 
 ACCORD INTERNATIONAL DE 1993 SUR LE CACAO
 
@@ -1003,7 +1003,7 @@ ANNEXE A
 
 Exportations de cacao (ver nota a) calculées aux fins de l'article 56 (entrée en vigueur)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf))](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
 
 (nota a) Moyenne, pour les trois années 1989/90-1991/92, des exportations nettes de fèves de cacao, augmentées des exportations nettes de produits dérivés du cacao, converties en équivalent fèves au moyen des coefficients de conversion suivants: 1,33 pour le beurre de cacao; 1,18 pour la poudre et les tourteaux de cacao; 1,25 pour la pâte/liqueur de cacao.
 
@@ -1011,7 +1011,7 @@ ANNEXE B
 
 Importations de cacao (ver nota a) calculées aux fins de l'article 56 (entrée en vigueur)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf))](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
 
 (nota a) Moyenne, pour les trois années 1989/90-1991/92, des importations nettes de fèves de cacao, augmentées des importations brutes de produits dérivés du cacao, converties en équivalent fèves au moyen des coefficients de conversion suivants: 1,33 pour le beurre de cacao; 1,18 pour la poudre et les tourteaux de cacao; 1,25 pour la pâte/liqueur de cacao.
 
@@ -1055,7 +1055,7 @@ Venezuela.
 
 ACORDO INTERNACIONAL SOBRE O CACAU, DE 1993
 
-# PARTE I — Objectivos e definições
+## PARTE I — Objectivos e definições
 
 ### CAPÍTULO I — Objectivos
 
@@ -1125,7 +1125,7 @@ Para fins do presente Acordo:
 
 20) O termos «tonelada» designa uma massa de 1000 kg, isto é, 2204,6 libras, e o termo «libra» designa 453,597 g.
 
-# PARTE II — Disposições estatutárias
+## PARTE II — Disposições estatutárias
 
 ### CAPÍTULO III — Membros
 
@@ -1375,7 +1375,7 @@ c) Se a Organização deixar de existir.
 
 5 - A Organização pode concluir com um ou mais membros acordos, que devem ser aprovados pelo Concelho, relativos aos privilégios e imunidades que possam ser necessários para o bom funcionamento do presente Acordo.
 
-# PARTE III — Disposições financeiras
+## PARTE III — Disposições financeiras
 
 ### CAPÍTULO VI — Disposições financeiras
 
@@ -1431,7 +1431,7 @@ A responsabilidade de um membro em relação ao Conselho e a outros membros limi
 
 2 - No que respeita à execução de qualquer projecto financiado a partir da segunda conta do Fundo Comum para os Produtos de Base, a Organização, enquanto organismo internacional de produto designado, não assumirá qualquer obrigação financeira, incluindo a título de garantias dadas por membros ou outras entidades. Nem a Organização nem qualquer membro na qualidade de membro da Organização assumirão qualquer responsabilidade decorrente de empréstimos contraídos ou concedidos por qualquer outro membro ou entidade no âmbito de tais projectos.
 
-# PARTE IV — Disposições económicas
+## PARTE IV — Disposições económicas
 
 ### CAPÍTULO VII — Oferta e procura
 
@@ -1531,7 +1531,7 @@ d) Promover, se for caso disso, a investigação sobre novas utilizações do ca
 
 4 - Qualquer membro que tenha razões para crer que um outro membro faltou à obrigação prevista no n.º 1 ou no n.º 2 pode informar o director executivo e solicitar a realização de consultas em conformidade com o disposto no artigo 46.º ou recorrer perante o Conselho ao abrigo do disposto no artigo 48.º
 
-# PARTE V — Disposições em matéria de vigilância do mercado e disposições conexas
+## PARTE V — Disposições em matéria de vigilância do mercado e disposições conexas
 
 ### CAPÍTULO VIII — Disposições em matéria de vigilância do mercado
 
@@ -1597,7 +1597,7 @@ O Conselho pode promover e favorecer a investigação e o desenvolvimento cient�
 
 3 - Os membros não intervêm na arbitragem de litígios comerciais entre compradores e vendedores de cacau, se, em virtude de normas estabelecidas tendo em vista a aplicação do presente Acordo, não puderem ser cumpridos contratos e não levantarão entraves à conclusão dos procedimentos de arbitragem. O facto de os membros serem obrigados a dar cumprimento às disposições do presente Acordo não será aceite, em tais casos, como fundamento para a não execução de um contrato ou como defesa.
 
-# PARTE VI — Disposições diversas
+## PARTE VI — Disposições diversas
 
 ### CAPÍTULO XI — Cacau-fino (fine ou flavour)
 
@@ -1685,7 +1685,7 @@ Os membros tomarão em devida consideração a gestão sustentável dos recursos
 
 ###### Artigo 51.º — Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é designado como o depositário do presente Acordo.**
+O Secretário-Geral da Organização das Nações Unidas é designado como o depositário do presente Acordo.
 
 ###### Artigo 52.º — Assinatura
 
@@ -1779,13 +1779,13 @@ ANEXOS
 
 ## ANEXO A — Exportações de cacau (ver nota a) calculadas para efeitos do artigo 56.º (entrada em vigor)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf))](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
 
 (nota a) Média, relativa a três anos, 1989/90-1991/92, o volume líquido das exportações de cacau inteiro, acrescido do volume líquido das exportações de produtos derivados do cacau, convertidas em equivalente em cacau inteiro de acordo com os seguintes coeficientes de conversão: 1,33 para a manteiga de cacau; 1,18 para a pasta a que foi extraída a manteiga e o cacau em pó; 1,25 para a pasta/licor de cacau.
 
 ## ANEXO B — Importações de cacau (ver nota a) calculadas para efeitos do artigo 56.º (entrada em vigor)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf))](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/064a00/14241457.pdf)
 
 (nota a) Média, para três anos, 1989/90-1991/92, das importações de cacau inteiro, acrescidas do volume ilíquido das importações de produtos derivados do cacau, convertidas em equivalente em cacau inteiro de acordo com os seguintes coeficientes de conversão: 1,33 para a manteiga de cacau; 1,18 para a pasta a que foi extraída a manteiga e o cacau em pó; 1,25 para a pasta/licor de cacau.
 

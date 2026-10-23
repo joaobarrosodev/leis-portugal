@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/16/1999/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-1999-158036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d41c8e54a72121ee098c3c9f4aa6e32671eaf77888fbe1b706403bf43c9397c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb607f7424132282ae78119fa82d940e58ffd40d170ea184ee40cb465cc5c91a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Caracas
 - Caraíbas
 - CLAD
-- PERU
-- Venezuela
 - Convenção
-- Portugal
+- Cooperação Internacional
 - Espanha
-- Administração Pública
 - ILHA Margarita
 - México
-- Cooperação Internacional
-relationships: []
+- PERU
+- Portugal
+- Venezuela
+relationships:
+- type: amended_by
+  target: pt:dre:158045:por
+  label: "Ratificado o acordo aprovado para ratificação, pelo DEC.111/99.1999.03.11.PR, DR.IS-A [59]9\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/111-1999-158045
+  date: '1999-03-11'
 article_structure:
   article_count: 57
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:08Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +108,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de Dezembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 [(ver texto em língua espanhola no documento original)](https://files.diariodarepublica.pt/1s/1999/03/059a00/13351365.pdf)
 
@@ -995,7 +1000,7 @@ q) Aprovar o quadro de pessoal, submetido à sua consideração pelo presidente,
 
 ###### Artigo 14.º
 
-**O presidente detém a função de direcção estratégica, supervisão e controlo das actividades do Centro, de acordo com o modelo programático e orçamental aprovado em Conselho Directivo. Terá a seu cargo as seguintes atribuições e deveres:**
+O presidente detém a função de direcção estratégica, supervisão e controlo das actividades do Centro, de acordo com o modelo programático e orçamental aprovado em Conselho Directivo. Terá a seu cargo as seguintes atribuições e deveres:
 
 a) Representar o Conselho Directivo em todos os assuntos legais, contratuais, técnicos, administrativos ou de qualquer outra índole que diga respeito às suas funções;
 
@@ -1093,7 +1098,7 @@ Tanto os assessores como os observadores poderão intervir, mas não votar, nas 
 
 ###### Artigo 20.º
 
-**O presidente do Conselho Directivo poderá convidar, para as reuniões do CLAD, pessoas cuja presença se julgue conveniente, de acordo com os temas a tratar, para que intervenham nas mesmas.**
+O presidente do Conselho Directivo poderá convidar, para as reuniões do CLAD, pessoas cuja presença se julgue conveniente, de acordo com os temas a tratar, para que intervenham nas mesmas.
 
 ### CAPÍTULO IX — Das actas e documentos do Conselho Directivo
 
@@ -1119,7 +1124,7 @@ As actas serão elaboradas pela Secretaria-Geral e serão presentes, no término
 
 A Mesa Directiva do Centro é constituída pelo presidente e vice-presidentes.
 
-**O presidente, por iniciativa própria ou a pedido do secretário-geral, submeterá à decisão da Mesa Directiva aqueles assuntos cuja importância obriga a que sejam resolvidos antes da reunião do Conselho Directivo. A Mesa Directiva também poderá iniciar propostas genéricas ou específicas de reforma dos Estatutos, de acordo com as normas estipuladas no capítulo XIX, artigo 56.º**
+O presidente, por iniciativa própria ou a pedido do secretário-geral, submeterá à decisão da Mesa Directiva aqueles assuntos cuja importância obriga a que sejam resolvidos antes da reunião do Conselho Directivo. A Mesa Directiva também poderá iniciar propostas genéricas ou específicas de reforma dos Estatutos, de acordo com as normas estipuladas no capítulo XIX, artigo 56.º
 
 ### CAPÍTULO XI — Da Comissão de Programação e Avaliação
 
@@ -1157,9 +1162,9 @@ A Secretaria-Geral, localizada na sede do Centro, é o órgão de carácter téc
 
 ###### Artigo 29.º
 
-**O secretário-geral, que deverá ser cidadão de um país membro, terá a seu cargo a direcção e gestão da Secretaria-Geral, de acordo com o estipulado no presente Estatuto e com as condições e normas que o Conselho Directivo estabeleça.**
+O secretário-geral, que deverá ser cidadão de um país membro, terá a seu cargo a direcção e gestão da Secretaria-Geral, de acordo com o estipulado no presente Estatuto e com as condições e normas que o Conselho Directivo estabeleça.
 
-**O Secretário-Geral não representa um país, mas sim a Secretaria-Geral no seu conjunto.**
+O Secretário-Geral não representa um país, mas sim a Secretaria-Geral no seu conjunto.
 
 ###### Artigo 30.º
 
@@ -1169,17 +1174,17 @@ As candidaturas para o lugar de secretário-geral deverão ser enviadas, juntame
 
 ###### Artigo 31.º
 
-**O secretário-geral, designado pelo Conselho Directivo na forma disposta pela alínea h) do artigo 13.º, desempenhará o seu cargo durante três anos e assumirá funções dentro dos 60 dias posteriores à data da sua eleição. Poderá ser reeleito uma única vez.**
+O secretário-geral, designado pelo Conselho Directivo na forma disposta pela alínea h) do artigo 13.º, desempenhará o seu cargo durante três anos e assumirá funções dentro dos 60 dias posteriores à data da sua eleição. Poderá ser reeleito uma única vez.
 
 ###### Artigo 32.º
 
-**O secretário-geral é responsável pela sua gestão perante o Conselho Directivo e presidente, a quem prestará contas e apresentará os relatórios que se considerem pertinentes nas épocas e datas que, para o efeito, se estipulem.**
+O secretário-geral é responsável pela sua gestão perante o Conselho Directivo e presidente, a quem prestará contas e apresentará os relatórios que se considerem pertinentes nas épocas e datas que, para o efeito, se estipulem.
 
 § único. O referido funcionário deverá abster-se de tomar decisões ou executar medidas que sejam incompatíveis com os objectivos do Centro e com o carácter das suas atribuições.
 
 ###### Artigo 33.º
 
-**O secretário-geral, bem como os demais funcionários que prestam serviço a tempo inteiro no CLAD, não poderão desempenhar outras actividades profissionais diferentes das do Centro, sejam estas remuneradas ou não, salvo em caso excepcional de autorização prévia do Conselho Directivo ou do presidente. Tão-pouco poderão solicitar ou aceitar instruções ou critérios de nenhum governo nem de nenhuma entidade, pública ou privada, nacional ou internacional.**
+O secretário-geral, bem como os demais funcionários que prestam serviço a tempo inteiro no CLAD, não poderão desempenhar outras actividades profissionais diferentes das do Centro, sejam estas remuneradas ou não, salvo em caso excepcional de autorização prévia do Conselho Directivo ou do presidente. Tão-pouco poderão solicitar ou aceitar instruções ou critérios de nenhum governo nem de nenhuma entidade, pública ou privada, nacional ou internacional.
 
 ###### Artigo 34.º
 

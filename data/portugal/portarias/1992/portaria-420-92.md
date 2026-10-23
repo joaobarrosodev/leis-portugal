@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/1992/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1992-523643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52699290dcf286d7986432c5d450f43fedf2616759710b6f866aef63d478c998
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f6dd6dfa33c11c1400cfecb7ea8eb0bccc0412837a79f4d801fd4c97bee5f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria de Estado da Cultura
 - Gabinete de Planeamento
 - Instituto Português de Arquivos
 - Pessoal de Informática
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Secretaria de Estado da Cultura
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:285485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:40Z'
   warnings: []
   errors: []
 ---
@@ -110,18 +122,18 @@ Manda o Governo, pelos Secretários de Estado da Cultura e Adjunta e do Orçamen
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 11 de Maio de 1992.**
+Assinada em 11 de Maio de 1992.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 MAPA I
 
 Quadro de pessoal do Gabinete de Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf))](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf)
 
 MAPA II
 
 Quadro de pessoal do Instituto Português de Arquivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf))](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/118b00/24242425.pdf)

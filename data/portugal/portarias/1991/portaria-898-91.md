@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/201b00/46284630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/898/1991/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/898-1991-302562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19228a062148997ededb756001d4aa21734a577c4e4f5dba53b1194f2e628da9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eeff2d90ffc2a2066e44fee670c8d784e74aaa7d8fa52e6a74c12a27c38aa5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Controlo de Qualidade
-- Saúde Pública
-- Indústria de Plásticos
 - Embalagem
+- Indústria de Plásticos
+- Produto Alimentar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:692861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692861:por
+  label: ALTERADOS OS NUM 4 E 9 PELA PORT 424/93 DE 21-ABR DR.IS-B [93]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-1993-692861
+  date: '1993-04-21'
 - type: cites
   target: celex:31976L0893
   label: null
@@ -95,16 +100,21 @@ relationships:
   target: celex:31990L0128
   label: null
   source: http://data.europa.eu/eli/dir/1990/128/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A PARTIR DE 1 DE ABRIL DE 1995, PELA PORT 1114/95 DE 13-SET DR.IS-B [212]\0DR.IS-B [212]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:48Z'
   warnings: []
   errors: []
 ---
@@ -245,6 +255,6 @@ Esta portaria entra em vigor 90 dias após a data da sua publicação.
 
 Ministérios da Agricultura, Pescas e Alimentação, da Indústria e Energia e da Saúde.
 
-**Assinada em 13 de Agosto de 1991.**
+Assinada em 13 de Agosto de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho.

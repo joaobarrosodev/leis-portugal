@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/18/2006/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-2006-687586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9efc47fc855fcb8a1fe155dad162f46189da1e11154fa7703c3705bf2a40a10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9955a82e7fe7652dc3ed7efd8ab135f975572f0e8792a2335a088519b2b0f9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Estrasburgo
 - Cooperação Judiciária
 - Direito Penal
+- Estrasburgo
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:108028570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687593:por
+  label: "Ratificado o Segundo Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aprovada\
+    \ para ratificação pela Res 39/94 de 14-Jul, tendo sido o citado Protocolo aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.17/2006.09.03.2006.PR, DR.IS-A [49] de 09.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/17-2006-687593
+  date: '2006-03-09'
+- type: amended_by
+  target: pt:dre:108028570:por
+  label: Substituídas, a partir de 22.08.2017, as disposições correspondentes da Convenção Europeia de Auxílio Judiciário
+    Mútuo em Matéria Penal aprovada pela Res 39/94 de 14-jul AR, e do seu Protocolo Adicional aprovado pela presente Resolução,
+    pelo(a) Lei n.º 88/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21 nos termos do seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-2017-108028570
+  date: '2017-08-21'
 article_structure:
-  article_count: 32
+  article_count: 35
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:24Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +112,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de Dezembro de 2005.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 SECOND ADDITIONAL PROTOCOL TO THE EUROPEAN CONVENTION ON MUTUAL ASSISTANCE IN CRIMINAL MATTERS
 
@@ -1256,7 +1270,9 @@ Tendo em conta a Convenção para a Protecção dos Direitos do Homem e das Libe
 
 acordaram no seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Âmbito de aplicação
 
@@ -1352,7 +1368,9 @@ O artigo 24.º da Convenção é substituído pelas disposições seguintes:
 
 «Qualquer Estado, no momento do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, mediante declaração dirigida ao Secretário-Geral do Conselho da Europa, indicará as autoridades que considera como autoridades judiciárias para os fins da presente Convenção. Esse Estado pode, ulteriormente, em qualquer momento e da mesma forma, alterar os termos da sua declaração.»
 
-### CAPÍTULO II — Artigo 7.º
+### CAPÍTULO II
+
+###### Artigo 7.º
 
 Execução diferida de pedidos
 
@@ -1678,7 +1696,9 @@ As disposições do presente Protocolo não prejudicam as disposições mais amp
 
 O Comité Europeu para os Problemas Criminais acompanhará a interpretação e a aplicação da Convenção e dos seus Protocolos e promoverá se necessário a resolução amigável de qualquer dificuldade de aplicação.
 
-### CAPÍTULO III — Artigo 30.º
+### CAPÍTULO III
+
+###### Artigo 30.º
 
 Assinatura e entrada em vigor
 
@@ -1724,7 +1744,7 @@ Assinatura e entrada em vigor
 
 ###### Artigo 35.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho da Europa e qualquer Estado que tenha aderido ao presente Protocolo:**
+O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho da Europa e qualquer Estado que tenha aderido ao presente Protocolo:
 
 a) De qualquer assinatura;
 

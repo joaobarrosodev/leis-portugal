@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/27/1997/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-1997-384187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bb4929f99d8142c1ab99b08a5423e069d73a14d314b1970385d7ae50df83b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e53a3949288cb301f0c8b36f21b63db24262865aa9949b8f00e207b63dc9e65a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ subjects:
 - Acordo CE
 - ACP Países
 - Ajuda Comunitária
-- Financiamento
 - BEI
+- Bruxelas
 - CE Países
 - Comunidade Europeia
 - Convenção
 - Cooperação Financeira
-- Portugal
-- FED
 - Desenvolvimento Económico
+- FED
+- Financiamento
 - Países e Territórios Ultramarinos
-- Bruxelas
+- Portugal
 relationships:
 - type: cites
   target: celex:31978R3180
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1989/1971/oj
 article_structure:
-  article_count: 30
+  article_count: 36
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:03Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +111,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 31 de Janeiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO INTERNO RELATIVO AO FINANCIAMENTO E À GESTÃO DAS AJUDAS DA COMUNIDADE NO ÂMBITO DO SEGUNDO PROTOCOLO FINANCEIRO À QUARTA CONVENÇÃO ACP-CE DE LOMÉ.
 
@@ -137,7 +137,9 @@ Considerando que a Resolução do Conselho de 2 de Dezembro de 1993 e as conclus
 
 após consulta da Comissão, acordaram nas disposições seguintes:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 1 - Os Estados membros instituem um 8.º Fundo Europeu de Desenvolvimento (1995), adiante designado «Fundo».
 
@@ -145,7 +147,7 @@ após consulta da Comissão, acordaram nas disposições seguintes:
 
 i) 12840 milhões de ecus financiados pelos Estados membros do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf))](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf)
 
 ii) 292 milhões de ecus provenientes da transferência dos Fundos anteriores de recursos não atribuídos ou não utilizáveis, financiados pelos Estados membros do seguinte modo:
 
@@ -267,7 +269,9 @@ As comissões devidas ao Banco pela gestão dos empréstimos e operações refer
 
 No entanto, o Conselho poderá, sob proposta da Comissão e pela maioria qualificada prevista no n.º 4 do artigo 21.º, decidir utilizar as receitas referidas no presente artigo para outros efeitos que não os previstos no n.º 2.
 
-### CAPÍTULO II — Artigo 10.º
+### CAPÍTULO II
+
+###### Artigo 10.º
 
 1 - Sob reserva dos artigos 22.º, 23.º e 24.º, e sem prejuízo das atribuições do Banco no respeitante à gestão de certas formas de ajuda, o Fundo é gerido pela Comissão, de acordo com as regras do regulamento financeiro referido no artigo 32.º
 
@@ -305,7 +309,9 @@ Sem prejuízo dos mandatos gerais recebidos da Comunidade pelo Banco para a recu
 
 2 - O Banco assegura a execução financeira das operações efectuadas com empréstimos de juro bonificado provenientes dos seus recursos próprios com base nas disponibilidades do Fundo.
 
-### CAPÍTULO III — Artigo 16.º
+### CAPÍTULO III
+
+###### Artigo 16.º
 
 1 - A fim de assegurar a transparência e a coerência das acções de cooperação e de melhorar a complementaridade dessas acções com as ajudas bilaterais dos Estados membros, a Comissão comunicará aos Estados membros e aos seus representantes no local as fichas de identificação dos projectos dessas acções logo que a decisão de proceder à sua instrução tenha sido tomada. Posteriormente, a Comissão procederá a uma actualização dessas fichas de identificação, que comunicará aos Estados membros.
 
@@ -369,7 +375,9 @@ f) O apoio orçamental directo deve ser inteiramente coerente com o enquadrament
 
 2 - A Comissão informará os Estados membros, sempre que necessário e no mínimo uma vez por ano, da execução dos programas de apoio ao ajustamento e de todos os problemas relativos à manutenção da elegibilidade. Essa informação, acompanhada de todos os elementos de informação necessários, incluindo dados estatísticos, cobrirá especialmente a boa aplicação do acordo celebrado com o organismo ACP responsável pela execução do programa, incluindo as disposições relativas às consultas referidas na alínea e), segundo travessão do segundo parágrafo, do n.º 1. Com base nessa informação, na evolução dos programas de importação e na coordenação com os outros dadores, o Conselho, deliberando sob proposta da Comissão e segundo a maioria qualificada prevista no n.º 4 do artigo 21.º, poderá adaptar as regras de execução desses programas, definidas no n.º 1.
 
-### CAPÍTULO IV — Artigo 21.º
+### CAPÍTULO IV
+
+###### Artigo 21.º
 
 1 - Para os recursos do Fundo geridos pela Comissão é instituído junto desta um comité, composto por representantes dos governos dos Estados membros, designado «Comité do FED».
 
@@ -577,7 +585,9 @@ Se, pelo contrário, o Conselho se pronunciar a favor da proposta do Banco, este
 
 6 - O Conselho será periodicamente informado do resultado dos trabalhos efectuados pela Comissão e pelo Banco sobre a avaliação das realizações em curso ou concluídas, nomeadamente em relação aos objectivos de desenvolvimento pretendidos.
 
-### CAPÍTULO V — Artigo 31.º
+### CAPÍTULO V
+
+###### Artigo 31.º
 
 1 - Os montantes das transferências STABEX referidas, respectivamente, na parte III, capítulo 1 do título II da Convenção e nas correspondentes disposições da decisão serão expressos em ecus.
 
@@ -589,7 +599,9 @@ Esse relatório descreverá, em especial, a incidência das transferências efec
 
 4 - O n.º 3 é igualmente aplicável no que se refere aos PTU.
 
-### CAPÍTULO VI — Artigo 32.º
+### CAPÍTULO VI
+
+###### Artigo 32.º
 
 As normas de execução do presente Acordo serão objecto de um regulamento financeiro a adoptar pelo Conselho logo após a entrada em vigor do Acordo de Alteração da Quarta Convenção ACP-CE, deliberando pela maioria qualificada prevista no n.º 4 do artigo 21.º, com base num projecto da Comissão e após parecer do Banco, relativamente às disposições que lhe dizem respeito, e do Tribunal de Contas, instituído pelos artigos 188.º-A e seguintes do Tratado.
 
@@ -631,4 +643,4 @@ As normas de execução do presente Acordo serão objecto de um regulamento fina
 
 O presente Acordo, redigido em exemplar único nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e sueca, todos os textos fazendo igualmente fé, será depositado nos arquivos do Secretariado-Geral do Conselho da União Europeia, que enviará uma cópia autenticada ao governo de cada um dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf))](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/108a00/22602270.pdf)

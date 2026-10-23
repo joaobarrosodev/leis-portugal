@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-1988-374645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca9997503127384c470ced1d6ff9a05c72b620993bfeb07c74f866ba6140c701
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1daaaf4bdc5c00329dfcaa254ea3650a136dadaba2fbac0b10efde3766aa47b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Direitos do Homem
+- ONU
+- Portugal
+- Tortura
+relationships:
+- type: amended_by
+  target: pt:dre:354697:por
+  label: "Tornada pública a aplicação ao Território de Macau, da Convenção aprovada para ratificação pelo presente diploma,\
+    \ pelo AV.93/99.1999.07.05.MNE DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/93-1999-354697
+  date: '1999-07-05'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:22Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +105,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 1 de Março de 1988.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 Para ser publicada no Boletim Oficial de Macau.
 
@@ -422,7 +433,9 @@ Desejosos de aumentar a eficácia da luta contra a tortura e outras penas ou tra
 
 Acordaram no seguinte:
 
-# PARTE I — ARTIGO 1.º
+## PARTE I
+
+###### ARTIGO 1.º
 
 1 - Para os fins da presente Convenção, o termo «tortura» significa qualquer acto por meio do qual uma dor ou sofrimentos agudos, físicos ou mentais, são intencionalmente causados a uma pessoa com os fins de, nomeadamente, obter dela ou de uma terceira pessoa informações ou confissões, a punir por um acto que ela ou uma terceira pessoa cometeu ou se suspeita que tenha cometido, intimidar ou pressionar essa ou uma terceira pessoa, ou por qualquer outro motivo baseado numa forma de discriminação, desde que essa dor ou esses sofrimentos sejam infligidos por um agente público ou qualquer outra pessoa agindo a título oficial, a sua instigação ou com o seu consentimento expresso ou tácito. Este termo não compreende a dor ou os sofrimentos resultantes unicamente de sanções legítimas, inerentes a essas sanções ou por elas ocasionados.
 
@@ -530,7 +543,9 @@ Os Estados partes deverão providenciar para que qualquer declaração que se pr
 
 2 - As disposições da presente Convenção não prejudicam a aplicação das disposições de qualquer outro instrumento internacional ou da lei nacional que proíbam as penas ou tratamentos cruéis, desumanos ou degradantes ou digam respeito à extradição ou a expulsão.
 
-# PARTE II — ARTIGO 17.º
+## PARTE II
+
+###### ARTIGO 17.º
 
 1 - Será formado um Comité contra a Tortura (adiante designado por Comité), que terá as funções a seguir definidas. O Comité será composto por dez peritos de elevado sentido moral e reconhecida competência no domínio dos direitos do homem, que terão assento a título pessoal. Os peritos serão eleitos pelos Estados partes tendo em conta uma distribuição geográfica equitativa e o interesse que representa a participação nos trabalhos do Comité de pessoas com experiência jurídica.
 
@@ -642,7 +657,9 @@ Os membros do Comité e os membros das comissões de conciliação ad hoc que ve
 
 O Comité apresentará aos Estados partes e à Assembleia Geral da Organização das Nações Unidas um relatório anual sobre as actividades já empreendidas em aplicação da presente Convenção.
 
-# PARTE III — ARTIGO 25.º
+## PARTE III
+
+###### ARTIGO 25.º
 
 1 - A presente Convenção fica aberta à assinatura de todos os Estados.
 
@@ -690,7 +707,7 @@ Qualquer Estado poderá aderir à presente Convenção. A adesão será feita me
 
 ###### ARTIGO 32.º
 
-**O Secretário-Geral da Organização das Nações Unidas notificará todos os Estados membros da Organização das Nações Unidas, bem como todos os Estados que tenham assinado a presente Convenção ou que a ela tenham aderido:**
+O Secretário-Geral da Organização das Nações Unidas notificará todos os Estados membros da Organização das Nações Unidas, bem como todos os Estados que tenham assinado a presente Convenção ou que a ela tenham aderido:
 
 a) Das assinaturas, ratificações e adesões recebidas em conformidade com os artigos 25.º e 26.º;
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 241/2001, 1º Suplemento, Série I-A de 2001-10-17
   number: '241'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6604-(2) a 6604-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/241a01/00020029.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/64-a/2001/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/64-a-2001-409293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcea7d2819be9365e0ddd8fd273b7862013bdf0ecde31fa9fd12d49a69caf260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0f0c9b528c0e976839a34f0f81e01f2178a629b699eb0791ed30dbfbd5a9e0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta Social Europeia
-- Direitos do Homem
+- Condições de Higiene e Segurança no Trabalho
+- Conselho da Europa
 - Convenção
-- Portugal
 - Direitos Civis
+- Direitos do Homem
 - Direitos e Liberdades
 - Direitos Sociais
 - Estrasburgo
-- Conselho da Europa
+- Portugal
 - Proteção Social
-- Condições de Higiene e Segurança no Trabalho
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:409294:por
+  label: "Ratificada a Carta Social Europeia revista, pelo DEC.54-A/2001.2001.10.17.PR DR.IS-B [241]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/54-a-2001-409294
+  date: '2001-10-17'
 article_structure:
-  article_count: 52
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 73
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:56Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +111,7 @@ b) A vinculação ao artigo 6.º não afecta, no que respeita ao parágrafo 4.º
 
 Aprovada em 21 de Setembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CHARTE SOCIALE EUROPÉENNE (RÉVISÉE)
 
@@ -1048,7 +1053,7 @@ Reconhecendo a utilidade de inscrever numa Carta revista, destinada a substituir
 
 comprometem-se ao que se segue:
 
-# PARTE I
+## PARTE I
 
 As Partes reconhecem como objectivo de uma política que prosseguirão por todos os meios úteis, nos planos nacional e internacional, a realização de condições próprias a assegurar o exercício efectivo dos direitos e princípios seguintes:
 
@@ -1114,7 +1119,7 @@ As Partes reconhecem como objectivo de uma política que prosseguirão por todos
 
 31) Toda a pessoa tem direito à habitação.
 
-# PARTE II
+## PARTE II
 
 As Partes comprometem-se a considerar-se ligadas, nos termos previstos na parte III, pelas obrigações decorrentes dos artigos e parágrafos seguintes.
 
@@ -1502,7 +1507,9 @@ Com vista a assegurar o exercício efectivo do direito à habitação, as Partes
 
 3) Tornar o preço da habitação acessível às pessoas que não disponham de recursos suficientes.
 
-# PARTE III — Artigo A
+## PARTE III
+
+###### Artigo A
 
 Compromissos
 
@@ -1520,59 +1527,51 @@ c) A considerar-se vinculada a um número suplementar de artigos ou parágrafos 
 
 4 - Cada Parte disporá de um sistema de inspecção do trabalho apropriado às suas condições nacionais.
 
-Artigo B
-
-Relações entre a Carta Social Europeia e o Protocolo Adicional de 1988
+###### Artigo B — Relações entre a Carta Social Europeia e o Protocolo Adicional de 1988
 
 1 - Nenhuma Parte Contratante da Carta Social Europeia ou Parte do Protocolo Adicional de 5 de Maio de 1988 pode ratificar, aceitar ou aprovar a presente Carta sem se considerar vinculada, pelo menos, pelas disposições correspondentes às disposições da Carta Social Europeia e, se for caso disso, do Protocolo Adicional, às quais se encontrava vinculada.
 
 2 - A aceitação das obrigações de qualquer disposição da presente Carta terá como efeito que, a partir da data da entrada em vigor dessas obrigações relativamente à Parte em causa, a disposição correspondente da Carta Social Europeia e, se for caso disso, do seu Protocolo Adicional de 1988, deixará de se aplicar à Parte em causa, no caso de esta se encontrar vinculada ao primeiro dos dois instrumentos supracitados ou a ambos os instrumentos.
 
-# PARTE IV — Artigo C
+## PARTE IV
+
+###### Artigo C
 
 Controlo da aplicação dos compromissos constantes da presente Carta
 
 A aplicação dos compromissos jurídicos constantes da presente Carta será submetida ao mesmo controlo que o da Carta Social Europeia.
 
-Artigo D
-
-Reclamações colectivas
+###### Artigo D — Reclamações colectivas
 
 1 - As disposições do Protocolo Adicional à Carta Social Europeia que prevêem um sistema de reclamações colectivas aplicar-se-ão às disposições aceites em cumprimento da presente Carta para os Estados que tenham ratificado o referido Protocolo.
 
 2 - Qualquer Estado que não esteja vinculado pelo Protocolo Adicional à Carta Social Europeia prevendo um sistema de reclamações colectivas poderá, aquando do depósito do seu instrumento de ratificação, aceitação ou aprovação da presente Carta ou em qualquer outro momento posterior, declarar, por notificação dirigida ao Secretário-Geral do Conselho da Europa, que aceita o controlo das obrigações aceites em virtude da presente Carta segundo o processo previsto no referido protocolo.
 
-# PARTE V — Artigo E
+## PARTE V
+
+###### Artigo E
 
 Não discriminação
 
 O gozo dos direitos reconhecidos na presente Carta deve ser assegurado sem qualquer distinção baseada, nomeadamente, na raça, na cor, no sexo, na língua, na religião, nas opiniões políticas, ou em quaisquer outras opiniões, na ascendência nacional ou na origem social, na saúde, na pertença a uma minoria nacional, no nascimento ou em qualquer outra situação.
 
-Artigo F
-
-Derrogações em caso de guerra ou de perigo público
+###### Artigo F — Derrogações em caso de guerra ou de perigo público
 
 1 - Em caso de guerra ou em caso de outro perigo público ameaçando a vida da nação, qualquer Parte pode tomar medidas que derroguem as obrigações previstas pela presente Carta, na estrita medida em que a situação o exija e na condição de que essas medidas não estejam em contradição com as obrigações decorrentes do direito internacional.
 
 2 - Qualquer Parte que tenha exercido este direito de derrogação deverá, num prazo razoável, informar cabalmente o Secretário-Geral do Conselho da Europa das medidas tomadas e dos motivos que as justificaram. Deve igualmente informar o Secretário-Geral da data em que essas medidas tenham cessado de estar em vigor e daquela em que as disposições da Carta que ela tenha aceite tenham de novo plena aplicação.
 
-Artigo G
-
-Restrições
+###### Artigo G — Restrições
 
 1 - Os direitos e princípios enunciados na parte I, desde que sejam postos em execução e o exercício efectivo destes direitos e princípios, tal como estão previstos na parte II, não poderão ser objecto de restrições ou limitações não especificadas nas partes I e II, com excepção das previstas na lei e que sejam necessárias, numa sociedade democrática, para garantir o respeito dos direitos e liberdades de outrem ou para proteger a ordem pública, a segurança nacional, a saúde pública e os bons costumes.
 
 2 - As restrições permitidas em resultado da presente Carta aos direitos e obrigações reconhecidos na mesma não podem ser aplicadas, a não ser para o fim para o qual foram previstas.
 
-Artigo H
-
-Relações entre a Carta e o direito interno ou os acordos internacionais
+###### Artigo H — Relações entre a Carta e o direito interno ou os acordos internacionais
 
 As disposições da presente Carta não prejudicam as disposições de direito interno nem os tratados, convenções ou acordos bilaterais ou multilaterais que estão ou entrarão em vigor e que sejam mais favoráveis às pessoas protegidas.
 
-Artigo I
-
-Aplicação dos compromissos aceites
+###### Artigo I — Aplicação dos compromissos aceites
 
 1 - Sem prejuízo dos meios de aplicação enunciados nestes artigos, as disposições pertinentes dos artigos 1.º a 31.º da parte II da presente Carta são aplicadas:
 
@@ -1586,9 +1585,7 @@ d) Por outros meios apropriados.
 
 2 - Os compromissos decorrentes dos parágrafos 1, 2, 3, 4, 5 e 7 do artigo 2.º, dos parágrafos 4, 6 e 7 do artigo 7.º, dos parágrafos 1, 2, 3, 4 e 5 do artigo 10.º e dos artigos 21.º e 22.º da parte II da presente Carta considerar-se-ão cumpridos logo que essas disposições forem aplicadas, de acordo com o parágrafo 1 do presente artigo, à grande maioria dos trabalhadores interessados.
 
-Artigo J
-
-Alterações
+###### Artigo J — Alterações
 
 1 - Qualquer alteração das partes I e II da presente Carta destinada a alargar os direitos garantidos pela presente Carta e qualquer alteração às partes III a VI, proposta por uma Parte ou pelo Comité Governamental, é comunicada ao Secretário-Geral do Conselho da Europa e transmitida pelo Secretário-Geral às Partes da presente Carta.
 
@@ -1600,7 +1597,9 @@ Para qualquer Parte que a tiver aceite posteriormente, a alteração entrará em
 
 4 - Qualquer alteração as partes III a VI da presente Carta entrará em vigor no primeiro dia do mês seguinte ao decurso de um período de um mês após a data em que todas as Partes tiverem informado o Secretário-Geral da sua aceitação.
 
-# PARTE VI — Artigo K
+## PARTE VI
+
+###### Artigo K
 
 Assinatura, ratificação e entrada em vigor
 
@@ -1610,9 +1609,7 @@ Assinatura, ratificação e entrada em vigor
 
 3 - Para qualquer Estado membro que manifeste posteriormente o seu consentimento em estar abrangido pela presente Carta, esta entrará em vigor no primeiro dia do mês seguinte ao decurso de um período de um mês após a data do depósito do instrumento de ratificação, de aceitação ou de aprovação.
 
-Artigo L
-
-Aplicação territorial
+###### Artigo L — Aplicação territorial
 
 1 - A presente Carta aplica-se no território metropolitano de cada Parte. Qualquer signatário pode, no momento da assinatura ou no momento do depósito do seu instrumento de ratificação, de aceitação ou de aprovação, precisar, em declaração feita ao Secretário-Geral do Conselho da Europa, o território que é considerado para este fim como seu território metropolitano.
 
@@ -1622,9 +1619,7 @@ Aplicação territorial
 
 4 - Qualquer Parte poderá, em qualquer momento posterior, declarar, em notificação dirigida ao Secretário-Geral do Conselho da Europa, que, no que respeita a um ou a vários territórios aos quais a Carta se aplica em virtude do parágrafo 2 do presente artigo, aceita como obrigatório qualquer artigo ou parágrafo numerado que não tinha ainda aceite no que respeita a este ou a estes territórios. Estes compromissos posteriores serão considerados parte integrante da declaração original no que respeita ao território em questão e produzirão os mesmos efeitos a partir do primeiro dia do mês seguinte ao decurso de um período de um mês após a data da recepção da notificação pelo Secretário-Geral.
 
-Artigo M
-
-Denúncia
+###### Artigo M — Denúncia
 
 1 - Nenhuma Parte pode denunciar a presente Carta antes do decurso de um período de cinco anos após a data em que a Carta entrou em vigor para ela, ou antes do decurso de qualquer outro período posterior de dois anos e, em qualquer caso, com um pré-aviso de seis meses deverá ser notificado o Secretário-Geral do Conselho da Europa, que disso informará as outras Partes.
 
@@ -1632,17 +1627,15 @@ Denúncia
 
 3 - Qualquer Parte pode denunciar a presente Carta, ou qualquer artigo ou parágrafo da parte II da Carta nas condições previstas no parágrafo 1 do presente artigo, no que se refere a qualquer território a que se aplique a Carta em virtude de uma declaração feita conforme o parágrafo 2 do artigo L.
 
-Artigo N
+###### Artigo N
 
 ## Anexo
 
 O anexo à presente Carta faz parte integrante da mesma.
 
-Artigo O
+###### Artigo O — Notificações
 
-Notificações
-
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e o Director-Geral da Repartição Internacional do Trabalho:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho e o Director-Geral da Repartição Internacional do Trabalho:
 
 a) De qualquer assinatura;
 
@@ -1672,11 +1665,11 @@ A presente interpretação não exclui a extensão de direitos análogos a outra
 
 3 - Cada Parte concederá aos apátridas, de acordo com a definição da Convenção de Nova Iorque, de 28 de Setembro de 1954, relativa ao estatuto dos apátridas e que residam regularmente no seu território, um tratamento tão favorável quanto possível e, em qualquer caso, não menos favorável do que aquele a que está obrigada em virtude deste instrumento, assim como de quaisquer outros acordos internacionais existentes e aplicáveis aos apátridas acima mencionados.
 
-# Parte I, parágrafo 18, e parte II, artigo 18.º, parágrafo 1
+Parte I, parágrafo 18, e parte II, artigo 18.º, parágrafo 1
 
 Considera-se que estas disposições não dizem respeito à entrada no território das Partes e não prejudicam o consignado na Convenção Europeia sobre o Estabelecimento, assinada em Paris, em 13 de Dezembro de 1955.
 
-# Parte II
+Parte II
 
 ###### Artigo 1.º, parágrafo 2
 
@@ -1838,15 +1831,15 @@ Artigos 28.º e 29.º
 
 Para efeitos de aplicação destes artigos, o termo «representantes dos trabalhadores» designa as pessoas reconhecidas como tais pela legislação ou pela prática nacionais.
 
-# Parte III
+Parte III
 
 Considera-se que a Carta contém compromissos jurídicos de carácter internacional cuja aplicação se encontra submetida apenas ao controlo previsto na parte IV.
 
-Artigo A, parágrafo 1
+###### Artigo A, parágrafo 1
 
 Considera-se que os parágrafos numerados podem compreender artigos que contenham um só parágrafo.
 
-Artigo B, parágrafo 2
+###### Artigo B, parágrafo 2
 
 Para efeitos do parágrafo 2 do artigo B, as disposições da Carta Revista correspondem às disposições da Carta com o mesmo número de artigo ou parágrafo, com excepção:
 
@@ -1858,20 +1851,20 @@ c) Do artigo 10.º, parágrafo 5, da Carta Revista, que corresponde ao artigo 10
 
 d) Do artigo 17.º, parágrafo 1, da Carta Revista, que corresponde ao artigo 17.º da Carta.
 
-# Parte V
+Parte V
 
-Artigo E
+###### Artigo E
 
 Não se considera como discriminatória uma diferença de tratamento baseada num motivo objectivo e razoável.
 
-Artigo F
+###### Artigo F
 
 Os termos «em caso de guerra ou em caso de outro perigo público» serão interpretados de modo a abranger igualmente a ameaça de guerra.
 
-Artigo I
+###### Artigo I
 
 Considera-se que os trabalhadores excluídos, de acordo com o anexo dos artigos 21.º e 22.º, não são tomados em conta para a determinação do número de trabalhadores interessados.
 
-Artigo J
+###### Artigo J
 
 O termo «alteração» será entendido por forma a abranger igualmente a inclusão de novos artigos na Carta.

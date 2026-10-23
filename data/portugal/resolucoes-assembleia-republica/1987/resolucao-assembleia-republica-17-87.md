@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 165/1987, 1º Suplemento, Série I de 1987-07-21
   number: '165'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2860-(2) a 2860-(83)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf
 entry_into_force_dates: []
@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/17-1987-348337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89421a31f4de17d3e9883f2344baa202c1254815a81f82e8f2a5319ffe7c5d9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0aec8633513fae9fc4ed64bacdb45df4acd394979c1ef5212b90ff93b0c9b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acidente de Transporte
+- Inquérito Parlamentar
+relationships:
+- type: cites
+  target: pt:dre:253068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616473:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:00Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +130,7 @@ d) Recomendar que pelas entidades competentes do Governo e da Administração P�
 
 Aprovada em 28 de Abril de 1987.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 RELATÓRIO DA III COMISSÃO EVENTUAL DE INQUÉRITO AO ACIDENTE DE CAMARATE
 
@@ -1676,7 +1710,7 @@ Normas e métodos recomendados internacionalmente.
 
 Volume 29:
 
-# Livro Camarate, editado pelo Ministério da Justiça.
+Livro Camarate, editado pelo Ministério da Justiça.
 
 Volume 30:
 
@@ -1708,7 +1742,9 @@ Processos C1 a C5 - documentação entregue pelos depoentes - um volume.
 
 2.4 - No volume F foi processada a correspondência expedida e recebida pela Comissão.
 
-### CAPÍTULO III — Diligências executadas
+CAPÍTULO III
+
+Diligências executadas
 
 1 - Ponderação geral
 
@@ -1724,19 +1760,19 @@ QUADRO I
 
 Diligências satisfeitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 QUADRO II
 
 Diligências não satisfeitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 QUADRO III
 
 Diligências não concretizadas adequadamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 3 - Diligências empreendidas pela III CEIAC
 
@@ -1748,25 +1784,25 @@ QUADRO I
 
 Diligências satisfeitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 QUADRO II
 
 Diligências não satisfeitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 QUADRO III
 
 Diligências parcialmente satisfeitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 QUADRO IV
 
 Diligências não concretizadas adequadamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16501/00020083.pdf)
 
 A Comissão teve rigorosa consciência de que o mero decurso dos anos veio tornando inviável a realização de certas diligências cuja oportuna execução poderia ter tido inegável utilidade. Entendendo que não se encontrava esgotado o quadro das iniciativas susceptíveis de contribuírem para o esclarecimento da verdade, a Comissão não viu entretanto justificada a utilidade de que pudesse ainda revestir-se a realização de algumas diligências, desde logo a execução de novas exumações.
 
@@ -1804,7 +1840,9 @@ Os aspectos médico-legais (v. g., os relacionados com os fragmentos alojados no
 
 A apreciação do comportamento do Governo e da Administração Pública em todo o processo, particularmente quanto aos aspectos antecedentes.
 
-### CAPÍTULO IV — Avaliação das diligências relativas aos vestígios encontrados na área do acidente
+CAPÍTULO IV
+
+Avaliação das diligências relativas aos vestígios encontrados na área do acidente
 
 1 - Estudo das questões da aerodinâmica e combustão
 
@@ -2284,7 +2322,9 @@ c) Também quanto ao número e dimensão dos vestígios encontrados, a Comissão
 
 As análises efectuadas pelo LPC e respectivas fotografias que constam dos autos mostram um reduzido número de fragmentos examinados, constantes de três frascos de vidro e uma caixa de papelão, constando dos autos as seis fotografias respectivas.
 
-### CAPÍTULO V — Avaliação das diligências relativas a aspectos médico-legais
+CAPÍTULO V
+
+Avaliação das diligências relativas a aspectos médico-legais
 
 1 - A questão dos fragmentos metálicos
 
@@ -2532,7 +2572,9 @@ Se é facto que pode excluir-se a hipótese de ter havido uma deflagração de b
 
 2) Não pode excluir-se a possibilidade de sabotagem sobre a funcionalidade da aeronave.»
 
-### CAPÍTULO VI — Síntese geral dos resultados das diligências
+CAPÍTULO VI
+
+Síntese geral dos resultados das diligências
 
 1 - Aspectos cuja aclaração foi visada
 
@@ -2628,7 +2670,9 @@ Certo é, por outro lado, que, representando o esgotamento dos meios ao dispor d
 
 Tendo ponderado os aspectos a que se acaba de fazer referência, a Comissão deliberou propor ao Plenário da Assembleia da República, nos termos e para os efeitos do artigo 6.º da [Lei n.º 43/77](https://diariodarepublica.pt/dr/detalhe/lei/43-1977-253068), de 18 de Junho, as medidas enunciadas no capítulo VIII do presente relatório.
 
-### CAPÍTULO VII — Conclusões
+CAPÍTULO VII
+
+Conclusões
 
 1 - Quanto às actuações governamentais
 
@@ -2708,7 +2752,9 @@ a) Apreciou o comportamento do Governo e da Administração Pública em todo o p
 
 b) Não encontrou, tendo investigado as possíveis causas do acidente e esgotado os meios ao seu alcance, elementos que lhe permitam concluir pela existência de provas de que necessariamente decorra a revisão das conclusões fundamentais tornadas públicas pelas entidades inicialmente encarregadas de levar a cabo as investigações, bem como pelas entidades nacionais e estrangeiras que tiveram posterior intervenção no processo.
 
-### CAPÍTULO VIII — Propostas e recomendações
+CAPÍTULO VIII
+
+Propostas e recomendações
 
 1 - Medidas a propor ao Plenário
 
@@ -3370,4 +3416,4 @@ Agora, as entidades oficiais especializadas e competentes que se debrucem sobre 
 
 Palácio de São Bento, 22 de Janeiro de 1987. - Os Deputados do CDS: Horácio Alves Marçal - Henrique Pereira de Moraes.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.

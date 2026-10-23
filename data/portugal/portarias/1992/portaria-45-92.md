@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45/1992/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-1992-145197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6f7a68a14c1ab65193fc08406b37e9a1bc48c95f8eab7f98bf8251a27b960b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aa2c91c5fcdcd8379462c0f3b16c275b0e61f5991e4ea7f0a4971f5df5178d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,19 +72,39 @@ subjects:
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDA A VIGÊNCIA ATE A ENTRADA EM VIGOR DAS PORTARIAS PREVISTAS NO NUMERO 2 DO ARTIGO 4 E NO NUMERO 14 DO ARTIGO\
+    \ 8 DO DECRETO LEI 141/88, DE 22 DE ABRIL, PELO DECRETO LEI 288/93, DE 20 DE AGOSTO, PUBLICADO NO DR.IS-A, 195, DE 930820.\0\
+    , DE 930820.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:324488:por
   label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:324488:por
+  label: "Mantida em vigor pelo DEC LEI.288/93.20.08.1993.MOPTC, DR.IS-A [195] de 20.08.1993, até à entrada em vigor das portarias\
+    \ previstas no nº 2 do art. 4º e o nº 14 do art. 8º do Dec Lei 141/88 de 22-ago, alterado por aquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1993-324488
+  date: '1993-08-20'
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565867:por
+  label: null
   source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:27Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +135,6 @@ b) Possuir rendimentos anuais brutos mais baixos.
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 18 de Dezembro de 1991.**
+Assinada em 18 de Dezembro de 1991.
 
 Pelo Ministro das Finanças, José Manuel Alves Elias da Costa, Secretário de Estado das Finanças. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.

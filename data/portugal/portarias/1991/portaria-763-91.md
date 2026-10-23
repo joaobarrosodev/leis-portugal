@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/763/1991/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/763-1991-687581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da294cd6dd7559cf60e922ad3f41e4c3e69d752210c2415d1df06fe69703b36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19acdee5770325ee055d51bda8ced9f65838eb069dfeae1b0a28739a4cdc2514
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,21 @@ relationships:
   target: celex:31991L0249
   label: null
   source: http://data.europa.eu/eli/dir/1991/249/oj
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogada pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:33Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +120,7 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 13 de Junho de 1991.**
+Assinada em 13 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -125,7 +130,7 @@ Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, 
 
 a) No grupo H «Vitaminas, provitaminas e substâncias de efeito análogo, quimicamente bem definidas», o texto relativo ao aditivo E672 «Vitamina A» passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf))](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
 
 b) No grupo I «Oligoelementos», relativamente ao elemento E1 aditivo «Sulfato ferroso mono-hidratado», as indicações incluídas na col. «Outras disposições» são substituídas pelas seguintes:
 
@@ -143,8 +148,8 @@ ii) Nos alimentos compostos que não estejam referidos em i).
 
 a) No grupo A «Antibióticos» é incluído o aditivo efrotomicina nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf))](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
 
 b) No grupo L: «Aglomerantes, antiespumantes e coagulantes» é incluído o aditivo aluminatos de cálcio sintéticos nas seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf))](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)

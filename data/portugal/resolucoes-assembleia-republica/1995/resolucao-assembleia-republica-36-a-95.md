@@ -23,7 +23,7 @@ publication:
   reference: Diário da República n.º 188/1995, 1º Suplemento, Série I-A de 1995-08-16
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5096-(2) a 5096-(163)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36-a/1995/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-a-1995-178304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d8fa3f541a2e7fd349402600494fbbccd667a858829a657b7c711aca210ff1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 403494535f13e3ddb6a3e062cdf1b1c4f09ae46c344a9a41512c0fefab42392c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Congresso Postal Universal
 - Convenção
-- Portugal
 - Hamburgo
-- ACTO Constitutivo
+- Portugal
 - Regulamento
 - Viena
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:178303:por
+  label: "Ratificado o Quarto Protocolo Adicional que substitui os actos finais do Congresso de Hamburgo de 1984, aprovado\
+    \ para ratificação pelo presente diploma, pelo DEC.64-A/95.1995.08.16.PR, DR.IS-A [114]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/64-a-1995-178303
+  date: '1995-08-16'
 article_structure:
-  article_count: 500
-  section_count: 90
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 304
+  section_count: 46
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:17Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 23 de Fevereiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 QUATRIÈME PROTOCOLE ADDITIONNEL À LA CONSTITUTION DE L'UNION POSTALE UNIVERSELLE
 
@@ -1948,7 +1954,7 @@ Taxes d'affranchissement et limites de poids et de dimensions. Conditions géné
 
 1 - Les taxes d'affranchissement pour le transport des envois de la poste aux lettres dans toute l'étendue de l'Union sont fixées à titre indicatif conformément aux indications des colonnes 1, 2 et 3 du tableau ci-après. Les limites de poids et de dimensions sont fixées conformément aux indications des colonnes 4 et 5 du tableau ci-après. Elles comprennent, sauf l'exception prévue à l'article 27, paragraphe 6, la remise des envois au domicile des destinataires pour autant que ce service de distribution soit organisé dans les pays de destination pour les envois dont il s'agit.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Le Conseil exécutif est autorisé à reviser et à modifier les taxes de base indiquées dans la colonne 3 une fois dans l'intervalle entre deux Congrès. Les taxes revisées auront pour base la médiane des taxes fixées par les membres de l'Union pour les envois internationaux déposés dans leur pays. Ces taxes entreront en vigueur à une date fixée par le Conseil exécutif.
 
@@ -1960,7 +1966,7 @@ b) Pour chaque catégorie, le dernier échelon de poids ne doit pas dépasser le
 
 4 - Les Pays-membres qui ont supprimé les cartes postales, les imprimés et/ou les petits paquets comme catégories distinctes d'envois de la poste aux lettres dans leur service intérieur peuvent en faire de même en ce qui concerne le courrier à destination de l'étranger.
 
-5 - Chaque Administration a la faculté d'admettre les aérogrammes, qui sont des lettres-avion constituées par une feuille de papier, convenablement pliée et collée sur tous ses côtés. Cependant, par dérogation au paragraphe 1, les dimensions, sous cette forme, ne doivent pas excéder 110 x 220 mm et la longueur doit être au moins égale à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valeur approchée 1,4).
+5 - Chaque Administration a la faculté d'admettre les aérogrammes, qui sont des lettres-avion constituées par une feuille de papier, convenablement pliée et collée sur tous ses côtés. Cependant, par dérogation au paragraphe 1, les dimensions, sous cette forme, ne doivent pas excéder 110 x 220 mm et la longueur doit être au moins égale à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valeur approchée 1,4).
 
 6 - Par dérogation aux paragraphes 1 et 3, lettre a), les Administrations postales ont la faculté d'appliquer aux imprimés un premier échelon de poids de 50 g.
 
@@ -2004,7 +2010,7 @@ Article 22
 
 Envois normalisés
 
-1 - Dans le cadre des dispositions de l'article 20, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valeur approchée 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
+1 - Dans le cadre des dispositions de l'article 20, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieure à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valeur approchée 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
 
 a) Envois sous enveloppe:
 
@@ -2114,7 +2120,7 @@ Taxes spéciales
 
 1 - Les taxes prévues dans la Convention et qui sont perçues en plus des taxes d'affranchissement mentionnées à l'article 20 sont dénommées «taxes spéciales». Leur montant est fixé conformément aux indications du tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Les Pays-membres qui appliquent dans leur service intérieur des taxes supérieures à celles qui sont indiquées au paragraphe 1 sont autorisés à appliquer ces mêmes taxes dans le service international.
 
@@ -2814,7 +2820,7 @@ Barèmes des frais de transit
 
 1 - Les frais de transit prévus à l'article 71, paragraphe 1, sont calculés d'après les barèmes indiqués dans le tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Les distances servant à déterminer les frais de transit d'après le tableau du paragraphe 1 sont empruntées à la «Liste des distances kilométriques» afférentes aux parcours territoriaux des dépêches en transit, prévue à l'article 111, paragraphe 2, lettre c), chiffre 1º, du Règlement, en ce qui concerne les parcours territoriaux.
 
@@ -3102,7 +3108,7 @@ Service EMS
 
 Le logotype peut être complété par le nom du service national.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - Les taxes du service sont fixées par l'Administration d'origine compte tenu des coûts et des exigences du marché.
 
@@ -3820,7 +3826,7 @@ Tarif
 
 1 - Le tarif des taxes supplémentaires définies à l'article 14 est fixé conformément aux indications du tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Les Administrations qui perçoivent dans leur régime intérieur des taxes supplémentaires supérieures à celles qui son fixées au paragraphe 1 sont autorisées, lorsqu'elles conservent intégralement ces dernières, à appliquer, dans le service international, les taux du régime intérieur.
 
@@ -4414,7 +4420,7 @@ Quote-part territoriale de départ et d'arrivée
 
 1 - Les colis échangés entre deux Administrations sont soumis aux quotes-parts territoriales de départ et d'arrivée pour chaque pays et pour chaque colis selon les taux indicatifs ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 En cas d'attribution des quotes-parts conformément à l'article 54, paragraphe 3, les taux indicatifs suivants sont recommandés:
 
@@ -4438,11 +4444,11 @@ Quote-part territoriale de transit
 
 1 - Les colis échangés entre deux Administrations ou entre deux bureaux du même pays au moyen des services terrestres d'une ou de plusieurs autres Administrations sont soumis, au profit des pays dont les services participent à l'acheminement territorial, aux quotes-parts territoriales de transit ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 En cas d'attribution des quotes-parts conformément à l'article 54, paragraphe 3, les taux indicatifs suivants sont recommandés:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Chacun des pays visés au paragraphe 1 est autorisé à réclamer pour chaque colis les quotes-parts territoriales de transit afférentes à l'échelon de distance correspondant à la distance moyenne pondérée de transport des colis dont il assure le transit. Cette distance est calculée par le Bureau international.
 
@@ -4464,11 +4470,11 @@ Quote-part maritime
 
 2 - Pour chaque service maritime emprunté, la quote-part maritime est calculée conformément aux indications du tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 En cas d'attribution des quotes-parts conformément à l'article 54, paragraphe 3, les taux indicatifs suivants sont recommandés:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - Le cas échéant, les échelons de distance servant à déterminer le montant de la quote-part maritime à appliquer entre deux pays sont calculés sur la base d'une distance moyenne ponderée, déterminée en fonction du tonnage des dépêches transportées entre les ports respectifs des deux pays.
 
@@ -4612,7 +4618,7 @@ Quotes-parts territoriales de transit exceptionnelles
 
 A titre provisoire, les Administrations figurant au tableau ci-après sont autorisées à percevoir les quotes-parts territoriales de transit exceptionnelles indiquées dans se tableau et qui s'ajoutent aux quotes-parts de transit visées à l'article 48, paragraphe 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 Article III
 
@@ -4652,7 +4658,7 @@ b) Colis-avion:
 
 2 - Tout colis empruntant les services automobiles transdésertiques Iraq-Syrie donne lieu à la perception d'une quote-part supplémentaire spéciale ainsi fixée:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - Les Administrations postales de la République arabe d'Egypte et de la République du Soudan sont autorisées à percevoir une quote-part supplémentaire de 0,65 DTS en sus des quotes-parts territoriales de transit prévues à l'article 48, paragraphe 1, pour tout colis en transit par le lac Nasser entre le Shallal (Egypte) et Wadi Halfa (Soudan).
 
@@ -5724,15 +5730,11 @@ Notificação das ratificações e das outras modalidades de aprovação dos act
 
 Os instrumentos de ratificação da Constituição, dos seus protocolos adicionais e eventualmente de aprovação dos outros actos da União são depositados o mais rapidamente possível junto do Director-Geral da Secretaria Internacional, que notifica esses depósitos aos governos dos países membros.
 
-Artigo IX
-
-Notificação da adesão aos protocolos adicionais à Constituição da União Postal Universal
+###### Artigo IX — Notificação da adesão aos protocolos adicionais à Constituição da União Postal Universal
 
 A partir da entrada em vigor dos actos do Congresso de Washington 1989, os instrumentos de adesão ao Protocolo Adicional de Tóquio 1969, ao Segundo Protocolo Adicional de Lausanne 1974 e ao Terceiro Protocolo Adicional de Hamburgo 1984 devem ser endereçados ao Director-Geral da Secretaria Internacional, que notifica este depósito aos governos dos países membros.
 
-Artigo X
-
-Adesão ao Protocolo Adicional e aos outros actos da União
+###### Artigo X — Adesão ao Protocolo Adicional e aos outros actos da União
 
 1 - Os países membros que não assinaram o presente Protocolo podem aderir a este em qualquer momento.
 
@@ -5740,9 +5742,7 @@ Adesão ao Protocolo Adicional e aos outros actos da União
 
 3 - Os instrumentos de adesão relativos aos casos visados nos parágrafos 1 e 2 devem ser enviados ao Director-Geral da Secretaria Internacional que notifica este depósito aos governos dos países membros.
 
-Artigo XI
-
-Entrada em vigor e vigência do Protocolo Adicional à Constituição da União Postal Universal
+###### Artigo XI — Entrada em vigor e vigência do Protocolo Adicional à Constituição da União Postal Universal
 
 O presente Protocolo Adicional entrará em vigor em 1 de Janeiro de 1991 e vigorará durante tempo indeterminado.
 
@@ -5838,77 +5838,77 @@ REGULAMENTO GERAL DA UNIÃO POSTAL UNIVERSAL
 
 Índice
 
-### Capítulo I - Funcionamento dos órgãos da União.
+Capítulo I - Funcionamento dos órgãos da União.
 
-###### Artigo 101.º - Organização e reunião dos congressos e congressos extraordinários.
+Artigo 101.º - Organização e reunião dos congressos e congressos extraordinários.
 
-###### Artigo 102.º - Composição, funcionamento e reuniões do Conselho Executivo.
+Artigo 102.º - Composição, funcionamento e reuniões do Conselho Executivo.
 
-###### Artigo 103.º - Documentação sobre as actividades do Conselho Executivo.
+Artigo 103.º - Documentação sobre as actividades do Conselho Executivo.
 
-###### Artigo 104.º - Composição, funcionamento e reuniões do Conselho Consultivo de Estudos Postais.
+Artigo 104.º - Composição, funcionamento e reuniões do Conselho Consultivo de Estudos Postais.
 
-###### Artigo 105.º - Documentação sobre as actividades do Conselho Consultivo de Estudos Postais.
+Artigo 105.º - Documentação sobre as actividades do Conselho Consultivo de Estudos Postais.
 
-###### Artigo 106.º - Regulamento Interno dos Congressos.
+Artigo 106.º - Regulamento Interno dos Congressos.
 
-###### Artigo 107.º - Idiomas utilizados para a documentação, deliberações e correspondência de serviço.
+Artigo 107.º - Idiomas utilizados para a documentação, deliberações e correspondência de serviço.
 
-### Capítulo II - Secretaria Internacional.
+Capítulo II - Secretaria Internacional.
 
-###### Artigo 108.º - Eleição do Director-Geral e do Vice-Director-Geral da Secretaria Internacional.
+Artigo 108.º - Eleição do Director-Geral e do Vice-Director-Geral da Secretaria Internacional.
 
-###### Artigo 109.º - Funções do Director-Geral.
+Artigo 109.º - Funções do Director-Geral.
 
-###### Artigo 110.º - Funções do Vice-Director-Geral.
+Artigo 110.º - Funções do Vice-Director-Geral.
 
-###### Artigo 111.º - Secretariado dos órgãos da União.
+Artigo 111.º - Secretariado dos órgãos da União.
 
-###### Artigo 112.º - Lista dos países membros.
+Artigo 112.º - Lista dos países membros.
 
-###### Artigo 113.º - Informações. Pareceres. Pedidos de interpretação e de modificação dos actos. Inquéritos. Intervenção na liquidação das contas.
+Artigo 113.º - Informações. Pareceres. Pedidos de interpretação e de modificação dos actos. Inquéritos. Intervenção na liquidação das contas.
 
-###### Artigo 114.º - Cooperação técnica.
+Artigo 114.º - Cooperação técnica.
 
-###### Artigo 115.º - Impressos fornecidos pela Secretaria Internacional.
+Artigo 115.º - Impressos fornecidos pela Secretaria Internacional.
 
-###### Artigo 116.º - Actos das uniões restritas e acordos especiais.
+Artigo 116.º - Actos das uniões restritas e acordos especiais.
 
-###### Artigo 117.º - Revista da União.
+Artigo 117.º - Revista da União.
 
-###### Artigo 118.º - Relatório anual sobre as actividades da União.
+Artigo 118.º - Relatório anual sobre as actividades da União.
 
-### Capítulo III - Procedimento de introdução e de exame das propostas.
+Capítulo III - Procedimento de introdução e de exame das propostas.
 
-###### Artigo 119.º - Procedimentos de apresentação das propostas ao Congresso.
+Artigo 119.º - Procedimentos de apresentação das propostas ao Congresso.
 
-###### Artigo 120.º - Procedimento de apresentação das propostas entre dois congressos.
+Artigo 120.º - Procedimento de apresentação das propostas entre dois congressos.
 
-###### Artigo 121.º - Exame das propostas entre dois congressos.
+Artigo 121.º - Exame das propostas entre dois congressos.
 
-###### Artigo 122.º - Notificação das decisões adoptadas entre dois congressos.
+Artigo 122.º - Notificação das decisões adoptadas entre dois congressos.
 
-###### Artigo 123.º - Entrada em vigor dos regulamentos de execução e das outras decisões adoptadas entre dois congressos.
+Artigo 123.º - Entrada em vigor dos regulamentos de execução e das outras decisões adoptadas entre dois congressos.
 
-### Capítulo IV - Finanças.
+Capítulo IV - Finanças.
 
-###### Artigo 124.º - Fixação e pagamento das despesas da União.
+Artigo 124.º - Fixação e pagamento das despesas da União.
 
-###### Artigo 125.º - Classes de contribuição.
+Artigo 125.º - Classes de contribuição.
 
-###### Artigo 126.º - Pagamento dos fornecimentos da Secretaria Internacional.
+Artigo 126.º - Pagamento dos fornecimentos da Secretaria Internacional.
 
-### Capítulo V - Arbitragens.
+Capítulo V - Arbitragens.
 
-###### Artigo 127.º - Procedimento de arbitragem.
+Artigo 127.º - Procedimento de arbitragem.
 
-### Capítulo VI - Disposições finais.
+Capítulo VI - Disposições finais.
 
-###### Artigo 128.º - Condições de aprovação das propostas referentes ao Regulamento Geral.
+Artigo 128.º - Condições de aprovação das propostas referentes ao Regulamento Geral.
 
-###### Artigo 129.º - Propostas referentes aos acordos com a Organização das Nações Unidas.
+Artigo 129.º - Propostas referentes aos acordos com a Organização das Nações Unidas.
 
-###### Artigo 130.º - Entrada em vigor e vigência do Regulamento Geral.
+Artigo 130.º - Entrada em vigor e vigência do Regulamento Geral.
 
 REGULAMENTO GERAL DA UNIÃO POSTAL UNIVERSAL
 
@@ -6386,61 +6386,61 @@ REGULAMENTO INTERNO DOS CONGRESSOS
 
 Sumário
 
-###### Artigo 1.º - Disposições gerais.
+Artigo 1.º - Disposições gerais.
 
-###### Artigo 2.º - Delegações.
+Artigo 2.º - Delegações.
 
-###### Artigo 3.º - Credenciais dos delegados.
+Artigo 3.º - Credenciais dos delegados.
 
-###### Artigo 4.º - Ordem dos lugares.
+Artigo 4.º - Ordem dos lugares.
 
-###### Artigo 5.º - Observadores.
+Artigo 5.º - Observadores.
 
-###### Artigo 6.º - Decano do Congresso.
+Artigo 6.º - Decano do Congresso.
 
-###### Artigo 7.º - Presidências e vice-presidências do Congresso e das comissões.
+Artigo 7.º - Presidências e vice-presidências do Congresso e das comissões.
 
-###### Artigo 8.º - Secretaria do Congresso.
+Artigo 8.º - Secretaria do Congresso.
 
-###### Artigo 9.º - Membros das comissões.
+Artigo 9.º - Membros das comissões.
 
-###### Artigo 10.º - Grupos de trabalho.
+Artigo 10.º - Grupos de trabalho.
 
-###### Artigo 11.º - Secretariado do Congresso e das comissões.
+Artigo 11.º - Secretariado do Congresso e das comissões.
 
-###### Artigo 12.º - Idiomas de deliberação.
+Artigo 12.º - Idiomas de deliberação.
 
-###### Artigo 13.º - Idiomas de redacção dos documentos do Congresso.
+Artigo 13.º - Idiomas de redacção dos documentos do Congresso.
 
-###### Artigo 14.º - Propostas.
+Artigo 14.º - Propostas.
 
-###### Artigo 15.º - Exame das propostas no Congresso e nas comissões.
+Artigo 15.º - Exame das propostas no Congresso e nas comissões.
 
-###### Artigo 16.º - Deliberações.
+Artigo 16.º - Deliberações.
 
-###### Artigo 17.º - Moções de ordem e moções de procedimento.
+Artigo 17.º - Moções de ordem e moções de procedimento.
 
 ###### Artigo 18.º - Quórum.
 
-###### Artigo 19.º - Princípio e processo de votação.
+Artigo 19.º - Princípio e processo de votação.
 
-###### Artigo 20.º - Condições de aprovação das propostas.
+Artigo 20.º - Condições de aprovação das propostas.
 
-###### Artigo 21.º - Eleição dos membros do Conselho Executivo e do Conselho Consultivo de Estudos Postais.
+Artigo 21.º - Eleição dos membros do Conselho Executivo e do Conselho Consultivo de Estudos Postais.
 
-###### Artigo 22.º - Eleição do Director-Geral e do Vice-Director-Geral da Secretaria Internacional.
+Artigo 22.º - Eleição do Director-Geral e do Vice-Director-Geral da Secretaria Internacional.
 
 ###### Artigo 23.º - Actas.
 
-###### Artigo 24.º - Aprovação pelo Congresso dos projectos de decisões (actos, resoluções, etc.).
+Artigo 24.º - Aprovação pelo Congresso dos projectos de decisões (actos, resoluções, etc.).
 
-###### Artigo 25.º - Atribuição dos estudos ao Conselho Executivo e ao Conselho Consultivo de Estudos Postais.
+Artigo 25.º - Atribuição dos estudos ao Conselho Executivo e ao Conselho Consultivo de Estudos Postais.
 
-###### Artigo 26.º - Ressalvas feitas aos actos.
+Artigo 26.º - Ressalvas feitas aos actos.
 
-###### Artigo 27.º - Assinatura dos actos.
+Artigo 27.º - Assinatura dos actos.
 
-###### Artigo 28.º - Modificações feitas ao Regulamento.
+Artigo 28.º - Modificações feitas ao Regulamento.
 
 REGULAMENTO INTERNO DOS CONGRESSOS
 
@@ -6778,221 +6778,221 @@ CONVENÇÃO POSTAL UNIVERSAL
 
 Primeira parte - Normas comuns aplicáveis ao serviço postal internacional.
 
-### Capítulo I - Disposições gerais.
+Capítulo I - Disposições gerais.
 
-###### Artigo 1.º - Liberdade de trânsito.
+Artigo 1.º - Liberdade de trânsito.
 
-###### Artigo 2.º - Inobservância da liberdade de trânsito.
+Artigo 2.º - Inobservância da liberdade de trânsito.
 
-###### Artigo 3.º - Trânsito terrestre sem participação dos serviços do país de trânsito.
+Artigo 3.º - Trânsito terrestre sem participação dos serviços do país de trânsito.
 
-###### Artigo 4.º - Suspensão temporária e restabelecimento de serviços.
+Artigo 4.º - Suspensão temporária e restabelecimento de serviços.
 
-###### Artigo 5.º - Direito de propriedade sobre os objectos postais.
+Artigo 5.º - Direito de propriedade sobre os objectos postais.
 
-###### Artigo 6.º - Criação de um novo serviço.
+Artigo 6.º - Criação de um novo serviço.
 
-###### Artigo 7.º - Utilização de códigos de barras e de um sistema único para a identificação dos objectos, recipientes e documentos respectivos.
+Artigo 7.º - Utilização de códigos de barras e de um sistema único para a identificação dos objectos, recipientes e documentos respectivos.
 
 ###### Artigo 8.º - Taxas.
 
-###### Artigo 9.º - Moeda-padrão. Equivalentes.
+Artigo 9.º - Moeda-padrão. Equivalentes.
 
-###### Artigo 10.º - Selos postais.
+Artigo 10.º - Selos postais.
 
-###### Artigo 11.º - Impressos.
+Artigo 11.º - Impressos.
 
-###### Artigo 12.º - Carteiras de identidade postal.
+Artigo 12.º - Carteiras de identidade postal.
 
-###### Artigo 13.º - Liquidações de contas.
+Artigo 13.º - Liquidações de contas.
 
-###### Artigo 14.º - Compromissos relativos às medidas penais.
+Artigo 14.º - Compromissos relativos às medidas penais.
 
-### Capítulo II - Franquia postal.
+Capítulo II - Franquia postal.
 
-###### Artigo 15.º - Franquia postal.
+Artigo 15.º - Franquia postal.
 
-###### Artigo 16.º - Franquia postal relativa aos objectos de correspondência do serviço postal.
+Artigo 16.º - Franquia postal relativa aos objectos de correspondência do serviço postal.
 
-###### Artigo 17.º - Franquia postal relativa aos objectos dos prisioneiros de guerra e internados civis.
+Artigo 17.º - Franquia postal relativa aos objectos dos prisioneiros de guerra e internados civis.
 
-###### Artigo 18.º - Franquia postal relativa aos cecogramas.
+Artigo 18.º - Franquia postal relativa aos cecogramas.
 
 Segunda parte - Disposições relativas aos objectos de correspondência.
 
-### Capítulo I - Disposições gerais.
+Capítulo I - Disposições gerais.
 
-###### Artigo 19.º - Objectos de correspondência.
+Artigo 19.º - Objectos de correspondência.
 
-###### Artigo 20.º - Taxas de franquia, limites de peso e dimensões. Condições gerais.
+Artigo 20.º - Taxas de franquia, limites de peso e dimensões. Condições gerais.
 
-###### Artigo 21.º - Tarifação segundo o modo de encaminhamento e ou a velocidade.
+Artigo 21.º - Tarifação segundo o modo de encaminhamento e ou a velocidade.
 
-###### Artigo 22.º - Objectos normalizados.
+Artigo 22.º - Objectos normalizados.
 
-###### Artigo 23.º - Matérias biológicas deterioráveis. Matérias radioactivas.
+Artigo 23.º - Matérias biológicas deterioráveis. Matérias radioactivas.
 
-###### Artigo 24.º - Objectos aceites indevidamente.
+Artigo 24.º - Objectos aceites indevidamente.
 
-###### Artigo 25.º - Depósito, no estrangeiro, de objectos de correspondência.
+Artigo 25.º - Depósito, no estrangeiro, de objectos de correspondência.
 
-###### Artigo 26.º - Taxas especiais.
+Artigo 26.º - Taxas especiais.
 
-###### Artigo 27.º - Taxa de depósito de última hora. Taxa de depósito fora dos horários normais de funcionamento dos balcões. Taxa de recolha no domicílio do remetente. Taxa de retirada fora dos horários normais de funcionamento dos balcões. Taxa de posta-restante. Taxa de entrega dos pacotes postais.
+Artigo 27.º - Taxa de depósito de última hora. Taxa de depósito fora dos horários normais de funcionamento dos balcões. Taxa de recolha no domicílio do remetente. Taxa de retirada fora dos horários normais de funcionamento dos balcões. Taxa de posta-restante. Taxa de entrega dos pacotes postais.
 
-###### Artigo 28.º - Taxa de armazenagem.
+Artigo 28.º - Taxa de armazenagem.
 
-###### Artigo 29.º - Franquia.
+Artigo 29.º - Franquia.
 
-###### Artigo 30.º - Modalidades de franquia.
+Artigo 30.º - Modalidades de franquia.
 
-###### Artigo 31.º - Franquia dos objectos de correspondência a bordo de navios.
+Artigo 31.º - Franquia dos objectos de correspondência a bordo de navios.
 
-###### Artigo 32.º - Taxa em caso de ausência ou insuficiência de franquia.
+Artigo 32.º - Taxa em caso de ausência ou insuficiência de franquia.
 
-###### Artigo 33.º - Serviço correspondência comercial-resposta internacional.
+Artigo 33.º - Serviço correspondência comercial-resposta internacional.
 
-###### Artigo 34.º - Cupões-resposta internacionais.
+Artigo 34.º - Cupões-resposta internacionais.
 
-###### Artigo 35.º - Objectos por expresso.
+Artigo 35.º - Objectos por expresso.
 
-###### Artigo 36.º - Objectivos em matéria de qualidade de serviço.
+Artigo 36.º - Objectivos em matéria de qualidade de serviço.
 
-###### Artigo 37.º - Prioridade de tratamento das correspondências-avião e dos objectos prioritários.
+Artigo 37.º - Prioridade de tratamento das correspondências-avião e dos objectos prioritários.
 
-###### Artigo 38.º - Retirada. Modificação ou correcção de endereço a pedido do remetente.
+Artigo 38.º - Retirada. Modificação ou correcção de endereço a pedido do remetente.
 
-###### Artigo 39.º - Reexpedição.
+Artigo 39.º - Reexpedição.
 
-###### Artigo 40.º - Objectos sem possibilidade de distribuição. Devolução ao país de origem ou ao remetente.
+Artigo 40.º - Objectos sem possibilidade de distribuição. Devolução ao país de origem ou ao remetente.
 
-###### Artigo 41.º - Proibições.
+Artigo 41.º - Proibições.
 
-###### Artigo 42.º - Controlo alfandegário.
+Artigo 42.º - Controlo alfandegário.
 
-###### Artigo 43.º - Taxa de apresentação à alfândega.
+Artigo 43.º - Taxa de apresentação à alfândega.
 
-###### Artigo 44.º - Direitos aduaneiros e outros direitos.
+Artigo 44.º - Direitos aduaneiros e outros direitos.
 
-###### Artigo 45.º - Objectos isentos de taxas e de direitos.
+Artigo 45.º - Objectos isentos de taxas e de direitos.
 
-###### Artigo 46.º - Anulação dos direitos aduaneiros e outros direitos.
+Artigo 46.º - Anulação dos direitos aduaneiros e outros direitos.
 
-###### Artigo 47.º - Reclamações.
+Artigo 47.º - Reclamações.
 
-### Capítulo II - Objectos registados, objectos com entrega comprovada e cartas com valor declarado.
+Capítulo II - Objectos registados, objectos com entrega comprovada e cartas com valor declarado.
 
-###### Artigo 48.º - Admissão dos objectos registados.
+Artigo 48.º - Admissão dos objectos registados.
 
-###### Artigo 49.º - Admissão dos objectos com entrega comprovada.
+Artigo 49.º - Admissão dos objectos com entrega comprovada.
 
-###### Artigo 50.º - Taxas dos objectos registados.
+Artigo 50.º - Taxas dos objectos registados.
 
-###### Artigo 51.º - Taxas aplicáveis aos objectos com entrega comprovada.
+Artigo 51.º - Taxas aplicáveis aos objectos com entrega comprovada.
 
-###### Artigo 52.º - Admissão das cartas com valor declarado.
+Artigo 52.º - Admissão das cartas com valor declarado.
 
-###### Artigo 53.º - Cartas com valor declarado. Declaração de valor.
+Artigo 53.º - Cartas com valor declarado. Declaração de valor.
 
-###### Artigo 54.º - Taxas das cartas com valor declarado.
+Artigo 54.º - Taxas das cartas com valor declarado.
 
-###### Artigo 55.º - Aviso de recepção.
+Artigo 55.º - Aviso de recepção.
 
-###### Artigo 56.º - Entrega em mão própria.
+Artigo 56.º - Entrega em mão própria.
 
-### Capítulo III - Responsabilidade.
+Capítulo III - Responsabilidade.
 
-###### Artigo 57.º - Princípio e âmbito da responsabilidade das administrações postais. Objectos registados.
+Artigo 57.º - Princípio e âmbito da responsabilidade das administrações postais. Objectos registados.
 
-###### Artigo 58.º - Princípio e âmbito da responsabilidade das administrações postais. Objectos com entrega comprovada.
+Artigo 58.º - Princípio e âmbito da responsabilidade das administrações postais. Objectos com entrega comprovada.
 
-###### Artigo 59.º - Princípio e âmbito da responsabilidade das administrações postais. Cartas com valor declarado.
+Artigo 59.º - Princípio e âmbito da responsabilidade das administrações postais. Cartas com valor declarado.
 
-###### Artigo 60.º - Exclusão da responsabilidade das administrações postais. Objectos registados e objectos com entrega comprovada.
+Artigo 60.º - Exclusão da responsabilidade das administrações postais. Objectos registados e objectos com entrega comprovada.
 
-###### Artigo 61.º - Exclusão da responsabilidade das administrações postais. Cartas com valor declarado.
+Artigo 61.º - Exclusão da responsabilidade das administrações postais. Cartas com valor declarado.
 
-###### Artigo 62.º - Responsabilidade do remetente.
+Artigo 62.º - Responsabilidade do remetente.
 
-###### Artigo 63.º - Determinação da responsabilidade entre as administrações postais. Objectos registados.
+Artigo 63.º - Determinação da responsabilidade entre as administrações postais. Objectos registados.
 
-###### Artigo 64.º - Determinação da responsabilidade entre as administrações postais. Cartas com valor declarado.
+Artigo 64.º - Determinação da responsabilidade entre as administrações postais. Cartas com valor declarado.
 
-###### Artigo 65.º - Determinação da responsabilidade entre as administrações postais e as empresas de transporte aéreo. Cartas com valor declarado.
+Artigo 65.º - Determinação da responsabilidade entre as administrações postais e as empresas de transporte aéreo. Cartas com valor declarado.
 
-###### Artigo 66.º - Pagamento da indemnização. Objectos registados e cartas com valor declarado.
+Artigo 66.º - Pagamento da indemnização. Objectos registados e cartas com valor declarado.
 
-###### Artigo 67.º - Restituição das taxas. Objectos com entrega comprovada.
+Artigo 67.º - Restituição das taxas. Objectos com entrega comprovada.
 
-###### Artigo 68.º - Reembolso da indemnização à administração que efectuou o pagamento.
+Artigo 68.º - Reembolso da indemnização à administração que efectuou o pagamento.
 
-###### Artigo 69.º - Recuperação eventual da indemnização junto do remetente ou do destinatário.
+Artigo 69.º - Recuperação eventual da indemnização junto do remetente ou do destinatário.
 
-### Capítulo IV - Atribuição das taxas. Direitos de trânsito e encargos terminais.
+Capítulo IV - Atribuição das taxas. Direitos de trânsito e encargos terminais.
 
-###### Artigo 70.º - Atribuição das taxas.
+Artigo 70.º - Atribuição das taxas.
 
-###### Artigo 71.º - Direitos de trânsito.
+Artigo 71.º - Direitos de trânsito.
 
-###### Artigo 72.º - Tabelas de direitos de trânsito.
+Artigo 72.º - Tabelas de direitos de trânsito.
 
-###### Artigo 73.º - Encargos terminais.
+Artigo 73.º - Encargos terminais.
 
-###### Artigo 74.º - Encargos terminais para os objectos prioritários, não prioritários e mistos.
+Artigo 74.º - Encargos terminais para os objectos prioritários, não prioritários e mistos.
 
-###### Artigo 75.º - Isenção de direitos de trânsito e de encargos terminais.
+Artigo 75.º - Isenção de direitos de trânsito e de encargos terminais.
 
-###### Artigo 76.º - Serviços extraordinários. Transporte multimodal.
+Artigo 76.º - Serviços extraordinários. Transporte multimodal.
 
-###### Artigo 77.º - Conta geral dos direitos de trânsito.
+Artigo 77.º - Conta geral dos direitos de trânsito.
 
-###### Artigo 78.º - Conta geral dos encargos terminais.
+Artigo 78.º - Conta geral dos encargos terminais.
 
-###### Artigo 79.º - Pagamentos dos direitos de trânsito.
+Artigo 79.º - Pagamentos dos direitos de trânsito.
 
-###### Artigo 80.º - Direitos de trânsito das malas desviadas ou mal encaminhadas.
+Artigo 80.º - Direitos de trânsito das malas desviadas ou mal encaminhadas.
 
-###### Artigo 81.º - Permuta de malas fechadas com as unidades militares postas à disposição da Organização das Nações Unidas e com os navios ou aviões de guerra.
+Artigo 81.º - Permuta de malas fechadas com as unidades militares postas à disposição da Organização das Nações Unidas e com os navios ou aviões de guerra.
 
 Terceira parte - Transporte aéreo dos objectos de correspondência.
 
-## Título I - Correspondências-avião.
+Título I - Correspondências-avião.
 
-### Capítulo I - Disposições gerais.
+Capítulo I - Disposições gerais.
 
-###### Artigo 82.º - Malas-avião.
+Artigo 82.º - Malas-avião.
 
-###### Artigo 83.º - Encaminhamento das correspondências-avião e das malas-avião em trânsito.
+Artigo 83.º - Encaminhamento das correspondências-avião e das malas-avião em trânsito.
 
-### Capítulo II - Encargos de transporte aéreo.
+Capítulo II - Encargos de transporte aéreo.
 
-###### Artigo 84.º - Princípios gerais.
+Artigo 84.º - Princípios gerais.
 
-###### Artigo 85.º - Taxas de base e cálculo dos encargos de transporte aéreo relativos às malas fechadas.
+Artigo 85.º - Taxas de base e cálculo dos encargos de transporte aéreo relativos às malas fechadas.
 
-###### Artigo 86.º - Cálculo e conta geral dos encargos de transporte aéreo das correspondências-avião em trânsito e descoberto.
+Artigo 86.º - Cálculo e conta geral dos encargos de transporte aéreo das correspondências-avião em trânsito e descoberto.
 
-###### Artigo 87.º - Modificações das taxas de encargos de transporte aéreo no interior do país de destino e das correspondências-avião em trânsito a descoberto.
+Artigo 87.º - Modificações das taxas de encargos de transporte aéreo no interior do país de destino e das correspondências-avião em trânsito a descoberto.
 
-###### Artigo 88.º - Pagamento dos encargos de transporte aéreo.
+Artigo 88.º - Pagamento dos encargos de transporte aéreo.
 
-###### Artigo 89.º - Encargos de transporte aéreo das malas ou sacos desviados ou mal encaminhados.
+Artigo 89.º - Encargos de transporte aéreo das malas ou sacos desviados ou mal encaminhados.
 
-###### Artigo 90.º - Encargos de transporte aéreo do correio extraviado ou destruído.
+Artigo 90.º - Encargos de transporte aéreo do correio extraviado ou destruído.
 
-## Título II - Correio de superfície transportado por via aérea (SAL).
+Título II - Correio de superfície transportado por via aérea (SAL).
 
-###### Artigo 91.º - Permuta pela via aérea das malas de superfície.
+Artigo 91.º - Permuta pela via aérea das malas de superfície.
 
 Quarta parte - Serviço EMS.
 
-###### Artigo 92.º - Serviço EMS.
+Artigo 92.º - Serviço EMS.
 
 Quinta parte - Disposições finais.
 
-###### Artigo 93.º - Condições de aprovação das propostas referentes à Convenção e ao seu Regulamento de Execução.
+Artigo 93.º - Condições de aprovação das propostas referentes à Convenção e ao seu Regulamento de Execução.
 
-###### Artigo 94.º - Entrada em vigor e vigência da Convenção.
+Artigo 94.º - Entrada em vigor e vigência da Convenção.
 
 PROTOCOLO FINAL DA CONVENÇÃO POSTAL UNIVERSAL
 
@@ -7250,7 +7250,7 @@ b) Objectos não prioritários: objectos para os quais o expedidor escolheu uma 
 
 1 - As taxas de franquia para o transporte dos objectos de correspondência em todo o âmbito da União são fixadas a título indicativo conforme as indicações das cols. 1, 2 e 3 do quadro a seguir. Os limites de pesos e de dimensões são fixados em conformidade com as indicações das cols. 4 e 5 do quadro seguinte e compreendem, salvo a excepção prevista no artigo 27.º, parágrafo 6, a entrega dos objectos ao domicílio dos destinatários, desde que este serviço de distribuição esteja organizado nos países de destino dos objectos em questão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - O Conselho Executivo está autorizado a rever e a modificar as taxas de base indicadas na col. 3 uma vez no intervalo entre dois congressos. As taxas revistas terão por base a média das taxas fixadas pelos membros da União para os objectos internacionais depositados nos seus países. Estas taxas entrarão em vigor na data fixada pelo Conselho Executivo.
 
@@ -7262,7 +7262,7 @@ b) Para cada categoria, o último escalão de peso não deve ultrapassar o peso 
 
 4 - Os países membros que suprimiram os bilhetes postais, os impressos e ou os pacotes postais como categorias distintas de objectos de correspondência no seu serviço interno podem fazer o mesmo relativamente ao correio com destino ao estrangeiro.
 
-5 - Cada administração tem a faculdade de admitir os aerogramas, que são cartas-avião constituídas por uma folha de papel, convenientemente dobrada e colada em todos os lados. Contudo, por derrogação ao parágrafo 1, as dimensões, sob esta forma, não devem exceder 110 mm x 220 mm e o comprimento deve ser no mínimo igual à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valor aproximado 1,4).
+5 - Cada administração tem a faculdade de admitir os aerogramas, que são cartas-avião constituídas por uma folha de papel, convenientemente dobrada e colada em todos os lados. Contudo, por derrogação ao parágrafo 1, as dimensões, sob esta forma, não devem exceder 110 mm x 220 mm e o comprimento deve ser no mínimo igual à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valor aproximado 1,4).
 
 6 - Em derrogação aos parágrafos 1 e 3, alínea a), as administrações postais têm a faculdade de aplicar aos impressos um primeiro escalão de peso de 50 g.
 
@@ -7302,7 +7302,7 @@ b) As despesas a pagar pelo transporte aéreo.
 
 ###### Artigo 22.º — Objectos normalizados
 
-1 - No quadro das disposições do artigo 20.º, parágrafo 1, são considerados normalizados os objectos de formato rectangular cujo comprimento não seja inferior à largura multiplicada por [([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valor aproximado 1,4) e obedecem, segundo a sua apresentação, às seguintes condições:
+1 - No quadro das disposições do artigo 20.º, parágrafo 1, são considerados normalizados os objectos de formato rectangular cujo comprimento não seja inferior à largura multiplicada por [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf) (valor aproximado 1,4) e obedecem, segundo a sua apresentação, às seguintes condições:
 
 a) Objectos em envelope:
 
@@ -7408,7 +7408,7 @@ Nenhuma anotação ou grafismo inútil, qualquer que seja, deve aparecer:
 
 1 - As taxas previstas na Convenção e que são cobradas além das taxas de franquia indicadas no artigo 20.º denominam-se «taxas especiais». O seu montante será fixado conforme as indicações do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Os países membros que aplicam no seu serviço interno taxas superiores às indicadas no parágrafo 1 estão autorizados a aplicar essas mesmas taxas no serviço internacional.
 
@@ -8012,7 +8012,7 @@ Salvo nos casos previstos pela Convenção e pelos acordos, cada administração
 
 1 - Os direitos de trânsito previstos no artigo 71.º, parágrafo 1, são calculados a partir das tabelas indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - As distâncias que servem para determinar os direitos de trânsito a partir do quadro do parágrafo 1 são extraídas da «Lista das distâncias quilométricas», referentes aos percursos terrestres das malas em trânsito, prevista no artigo 111.º, parágrafo 2, alínea c), n.º 1.º, do Regulamento, no que diz respeito aos percursos terrestres.
 
@@ -8256,7 +8256,7 @@ Serviço EMS
 
 O logótipo pode ser completado com o nome do serviço nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - As taxas do serviço são fixadas pela administração de origem tendo em conta os custos e as exigências do mercado.
 
@@ -8294,17 +8294,13 @@ PROTOCOLO FINAL DA CONVENÇÃO POSTAL UNIVERSAL
 
 No momento de se proceder à assinatura da Convenção Postal Universal, celebrada nesta data, os plenipotenciários abaixo assinados convencionaram o seguinte:
 
-Artigo I
-
-Direito de propriedade sobre os objectos postais
+###### Artigo I — Direito de propriedade sobre os objectos postais
 
 1 - O artigo 5.º não se aplica à Austrália, ao Bahrein, a Barbados, ao Belize, ao Botswana, ao Brunei Darussalam, ao Canadá, à Dominica, ao Egipto, às Fidji, à Gâmbia, ao Gana, ao Reino Unido da Grã-Bretanha e Irlanda do Norte, aos territórios do ultramar dependentes do Reino Unido, a Granada, à Guiana, à Irlanda, a Jamaica, ao Quénia, ao Kiribati, ao Koweit, ao Lesoto, à Malásia, ao Malawi, às Maurícias, a Nauru, à Nigéria, à Nova Zelândia, à Uganda, à Papuásia-Nova Guiné, a São Cristóvão e Nevis, a Santa Lúcia, a São Vicente e Granadinas, a Salomão (ilhas), a Samoa Ocidental, às Seychelles, à Serra Leoa, a Singapura, à Suazilândia, à Tanzânia (República Unida), a Trindade e Tabago, a Tuvalu, a Vanuatu, ao Iémene (República Árabe), à Zâmbia e ao Zimbabwe.
 
 2 - O mesmo artigo também não se aplica à Dinamarca, cuja legislação não permite a retirada ou a modificação de endereço dos objectos de correspondência a pedido do remetente, a partir do momento em que o destinatário foi informado da chegada de um objecto a ele endereçado.
 
-Artigo II
-
-Excepção à isenção de franquia relativa aos cecogramas
+###### Artigo II — Excepção à isenção de franquia relativa aos cecogramas
 
 1 - Em derrogação ao artigo 18.º, as administrações postais de São Vicente e Granadinas e da Turquia, que não concedem a isenção de franquia aos cecogramas no seu serviço interno, têm a faculdade de cobrar as taxas de franquia e as taxas especiais mencionadas no artigo 18.º, que não podem, no entanto, ser superiores às do serviço interno.
 
@@ -8312,15 +8308,11 @@ Excepção à isenção de franquia relativa aos cecogramas
 
 3 - Em derrogação aos artigos 18.º e 20.º da Convenção e ao artigo 131.º, parágrafo 2, do Regulamento de Execução, as administrações postais da Bielo Rússia, da Índia, da Indonésia, do Líbano, do Nepal, da Ucrânia, da União das Repúblicas Socialistas Soviéticas, do Iémene (República Árabe) e do Zimbabwe não admitem gravações sonoras como cecogramas, a menos que sejam expedidos por ou enderaçados a um instituto para cegos oficialmente reconhecido.
 
-Artigo III
-
-Equivalentes e taxas especiais. Limites máximos
+###### Artigo III — Equivalentes e taxas especiais. Limites máximos
 
 A título excepcional, os países membros estão autorizados a ultrapassar os limites superiores das taxas especiais indicadas no artigo 26.º, parágrafo 1, sejam elas aplicadas ou não no regime interno, se tal for necessário para adequar essas taxas aos custos de exploração dos seus serviços. Os países membros que desejem aplicar esta disposição devem informar a Secretaria Internacional logo que seja possível.
 
-Artigo IV
-
-Onça e libra-massa
+###### Artigo IV — Onça e libra-massa
 
 Em derrogação ao artigo 20.º, parágrafo 1, quadro, os países membros que, devido ao seu regime interno, não possam adoptar o tipo de peso métrico decimal têm a faculdade de substituir os escalões de peso previstos no artigo 20.º, parágrafo 1, pelos seguintes equivalentes:
 
@@ -8338,57 +8330,41 @@ Até 1000 g - 2 lb;
 
 Por cada 1000 g a mais - 2 lb.
 
-Artigo V
-
-Derrogação às dimensões dos objectos em envelope
+###### Artigo V — Derrogação às dimensões dos objectos em envelope
 
 1 - As administrações da América (Estados Unidos), do Canadá, do Quénia, da Uganda e da Tanzânia (República Unida) não são obrigadas a suprimir o emprego de envelopes que ultrapassem as dimensões recomendadas, quando esses envelopes forem largamente utilizados nos seus países.
 
 2 - A administração da Índia não é obrigada a suprimir o emprego de envelopes cujo formato seja superior ou inferior às dimensões recomendadas, quando esses envelopes forem largamente utilizados no seu país.
 
-Artigo VI
-
-Pacotes postais
+###### Artigo VI — Pacotes postais
 
 1 - A obrigação de participar na permuta de pacotes postais que ultrapassem o peso de 500 g não se aplica às administrações da Austrália, de Cuba, da Birmânia e da Papuásia-Nova Guiné, que estão impossibilitadas de garantir esta permuta.
 
 2 - A obrigação de participar na permuta de pacotes postais com mais de 1 kg de peso não se aplica à administração da Itália, que está impossibilitada de assegurar essa permuta.
 
-Artigo VII
-
-Objectos aceites indevidamente
+###### Artigo VII — Objectos aceites indevidamente
 
 Por derrogação ao artigo 24.º, parágrafo 1, a administração postal do Brasil está autorizada a tratar os objectos recebidos em desacordo com os artigos 19.º e 20.º em conformidade com as disposições da sua legislação interna.
 
-Artigo VIII
-
-Depósito de objectos de correspondência no estrangeiro
+###### Artigo VIII — Depósito de objectos de correspondência no estrangeiro
 
 A administração postal do Reino Unido da Grã-Bretanha e Irlanda do Norte reserva-se o direito de cobrar uma taxa, relativa ao custo dos trabalhos ocasionados por qualquer administração postal que, em virtude do artigo 25.º, parágrafo 4, lhe devolva objectos que não foram, na origem, expedidos como objectos postais pela administração postal do Reino Unido.
 
-Artigo IX
-
-Cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975
+###### Artigo IX — Cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975
 
 A partir de 1 de Janeiro de 1979, os cupões-resposta internacionais emitidos antes de 1 de Janeiro de 1975 não dão lugar a um acerto entre administrações, salvo acordo especial.
 
-Artigo X
-
-Retirada. Modificação ou correcção de endereço
+###### Artigo X — Retirada. Modificação ou correcção de endereço
 
 1 - O artigo 38.º não se aplica às Baamas, ao Bahrein, a Barbados, ao Belize, ao Botswana, ao Brunei Darussalam, ao Canadá, à Dominica, às Fidji, à Gâmbia, ao Reino Unido da Grã-Bretanha e Irlanda do Norte, aos territórios do ultramar dependentes do Reino Unido, a Granada, à Guiana, ao Iraque, à Irlanda, a Jamaica, ao Quénia, ao Kiribati, ao Koweit, ao Lesoto, à Malásia, ao Malawi, a Birmânia, ao Nauru, à Nigéria, à Nova Zelândia, à Uganda, à Papuásia-Nova Guiné, à República Popular Democrática da Coreia, a São Cristóvão e Nevis, a Santa Lúcia, a São Vicente e Granadinas, a Salomão (ilhas), a Samoa Ocidental, às Seychelles, à Serra Leoa, a Singapura, à Suazilândia, à Tanzânia (República Unida), à Checoslováquia, a Trindade e Tabago, a Tuvalu, a Vanuatu e à Zâmbia, cuja legislação não permite a retirada ou a modificação de endereço dos objectos de correspondência a pedido do remetente.
 
 2 - O artigo 38.º aplica-se à Austrália na medida em que for compatível com a legislação interna deste país.
 
-Artigo XI
-
-Taxas especiais
+###### Artigo XI — Taxas especiais
 
 Em vez da taxa de registo prevista no artigo 54.º, parágrafo 1, alínea b), os países membros têm a faculdade de aplicar, para as cartas com valor declarado, a taxa correspondente aplicada no seu serviço interno ou, excepcionalmente, uma taxa de 3,27 DES, no máximo.
 
-Artigo XII
-
-Proibições
+###### Artigo XII — Proibições
 
 1 - As administrações postais do Afeganistão, de Angola, de Cuba, do Djibuti, do México e do Paquistão não são obrigadas a observar as disposições previstas na segunda frase do artigo 41.º, parágrafo 8, segundo a qual «esta informação deve indicar de maneira precisa a proibição que incide sobre o objecto, assim como sobre os elementos que deram lugar à apreensão».
 
@@ -8398,9 +8374,7 @@ Proibições
 
 4 - A título excepcional, as administrações postais da Bolívia, da República Popular da China, do Iraque e do Nepal não aceitam cartas registadas que contenham moedas, notas, títulos bancários ou quaisquer títulos ao portador, cheques de viagem, platina, ouro ou prata, manufacturados ou não, pedras preciosas, jóias e outros objectos preciosos.
 
-Artigo XIII
-
-Objectos sujeitos a direitos aduaneiros
+###### Artigo XIII — Objectos sujeitos a direitos aduaneiros
 
 1 - Em referência ao artigo 41.º, as administrações postais dos seguintes países não aceitam cartas com valor declarado que contenham objectos sujeitos a direitos aduaneiros: Bangladesh e El Salvador.
 
@@ -8412,9 +8386,7 @@ Objectos sujeitos a direitos aduaneiros
 
 5 - Em referência ao artigo 41.º, a administração postal do Nepal não aceita as cartas registadas ou com valor que contenham papel-moeda ou moedas metálicas, salvo acordo especial para esse fim.
 
-Artigo XIV
-
-Âmbito da responsabilidade das administrações postais
+###### Artigo XIV — Âmbito da responsabilidade das administrações postais
 
 1 - As administrações postais do Bangladesh, Bélgica, Benim, Burkina Faso, Chile, Colômbia, Costa do Marfim (República), Djibuti, Índia, Líbano, Madagáscar, Mali, Mauritânia, México, Nepal, Níger, Senegal, Togo e Turquia estão autorizadas a não aplicar o artigo 57.º relativamente à responsabilidade em caso de espoliação ou de avaria parcial.
 
@@ -8422,97 +8394,67 @@ Artigo XIV
 
 3 - Por derrogação ao artigo 57.º, parágrafo 1, a administração postal da República Popular da China responsabiliza-se apenas pela perda e espoliação total ou pela avaria total do conteúdo dos objectos registados.
 
-Artigo XV
-
-Exclusão da responsabilidade das administrações postais Objectos registados
+###### Artigo XV — Exclusão da responsabilidade das administrações postais Objectos registados
 
 As administrações postais da Bolívia, da Indonésia e do México não são obrigadas a observar o artigo 60.º, parágrafo 1, da Convenção, no que se refere à manutenção da sua responsabilidade em caso de espoliação ou avaria total.
 
-Artigo XVI
-
-Pagamento da indemnização
+###### Artigo XVI — Pagamento da indemnização
 
 1 - As administrações postais do Bangladesh, Bolívia, Gabão, Guiné, Iraque, México, Nepal e Nigéria não são obrigadas a observar o artigo 66.º, parágrafo 4, da Convenção, no que diz respeito a dar uma solução definitiva num prazo de três meses ou de levar ao conhecimento da administração de origem ou de destino, conforme o caso, que um objecto postal foi retido, confiscado ou destruído pela autoridade competente devido ao seu conteúdo ou foi apreendido em virtude da sua legislação interna.
 
 2 - As administrações postais do Djibuti, Gabão, Guiné, Iraque, Líbano, Madagáscar e Mauritânia não são obrigadas a observar o artigo 66.º, parágrafo 4, da Convenção no que diz respeito a dar uma solução definitiva a uma reclamação dentro do prazo de três meses. Não aceitam, além disso, que quem de direito seja indemnizado, por sua conta, por outra administração, no fim do prazo citado.
 
-Artigo XVII
-
-Direitos especiais de trânsito pelo Transiberiano e pelo lago Nasser
+###### Artigo XVII — Direitos especiais de trânsito pelo Transiberiano e pelo lago Nasser
 
 1 - A administração postal da União das Repúblicas Socialistas Soviéticas está autorizada a cobrar um suplemento de 0,65 DES além dos direitos de trânsito mencionados no artigo 72.º, parágrafo 1, «1.º Percursos terrestres», para cada quilograma de objectos de correspondência transportados em trânsito pelo Transiberiano.
 
 2 - As administrações postais da República Árabe do Egipto e da República do Sudão estão autorizadas a cobrar um suplemento de 0,16 DES sobre os direitos de trânsito mencionados no artigo 72.º, parágrafo 1, por cada saco de correspondência em trânsito pelo lago Nasser entre Shallal (Egipto) e Wadi Halfa (Sudão).
 
-Artigo XVIII
-
-Condições especiais de trânsito pelo Panamá (República)
+###### Artigo XVIII — Condições especiais de trânsito pelo Panamá (República)
 
 A administração postal do Panamá (República) está autorizada a cobrar um suplemento de 0,98 DES sobre os direitos de trânsito mencionados no artigo 72.º, parágrafo 1, para cada saco de correspondência em trânsito pelo istmo do Panamá, entre os portos de Balboa, no oceano Pacífico, e de Cristobal, no oceano Atlântico.
 
-Artigo XIX
-
-Condições especiais de trânsito pelo Afeganistão
+###### Artigo XIX — Condições especiais de trânsito pelo Afeganistão
 
 Em derrogação ao artigo 72.º, parágrafo 1, a administração postal do Afeganistão está provisoriamente autorizada, devido a dificuldades particulares que vem encontrando em matéria de meios de transporte e de comunicação, a efectuar o trânsito das malas fechadas e das correspondências a descoberto através do seu país, em condições especialmente convencionadas com as administrações postais interessadas.
 
-Artigo XX
-
-Encargos especiais de entreposto no Panamá
+###### Artigo XX — Encargos especiais de entreposto no Panamá
 
 A título excepcional, a administração postal do Panamá (República) está autorizada a cobrar uma taxa de 0,65 DES por saco, em todas as expedições em entreposto ou transbordo nos portos de Balboa ou de Cristobal, desde que esta administração não receba qualquer remuneração a título de trânsito terrestre ou marítimo por estas malas.
 
-Artigo XXI
-
-Serviços extraordinários
+###### Artigo XXI — Serviços extraordinários
 
 Só serão considerados serviços extraordinários, dando lugar à cobrança de direitos de trânsito especiais os serviços automóveis Síria-Iraque.
 
-Artigo XXII
-
-Encaminhamento obrigatório indicado pelo país de origem
+###### Artigo XXII — Encaminhamento obrigatório indicado pelo país de origem
 
 As administrações postais da Bielo Rússia, da Bolívia, da Ucrânia e da União das Repúblicas Socialistas Soviéticas só aceitarão os encargos do transporte efectuado em conformidade com a disposição referente à linha indicada nas etiquetas dos sacos (AV8) da mala-avião e nas guias de entrega AV 7.
 
-Artigo XXIII
-
-Encaminhamento das malas-avião fechadas
+###### Artigo XXIII — Encaminhamento das malas-avião fechadas
 
 Tendo em conta o artigo XXII, as administrações postais da França, da Grécia, da Itália, do Senegal e da Tailândia só assegurarão o encaminhamento das malas-avião fechadas nas condições previstas no artigo 83.º, parágrafo 3.
 
-Artigo XXIV
-
-Impressos. Anotações e anexos autorizados
+###### Artigo XXIV — Impressos. Anotações e anexos autorizados
 
 Em derrogação ao artigo 129.º, parágrafo 5, do Regulamento de Execução da Convenção, as administrações postais do Canadá e dos Estados Unidos da América não aceitam, na falta de acordo bilateral, que sejam juntos às malas de impressos bilhetes postais, envelopes ou embalagens que comportem a morada do remetente ou do seu mandatário no país de destino do objecto de origem.
 
-Artigo XXV
-
-Impressos. Anexos autorizados
+###### Artigo XXV — Impressos. Anexos autorizados
 
 Em derrogação ao artigo 129.º, parágrafo 5, do Regulamento de Execução da Convenção, as administrações postais da França e do Iraque não aceitarão, salvo acordo bilateral, que sejam apensos, aos impressos depositados em quantidade, cartões, envelopes ou embalagens com um endereço do expedidor que não se situe no país de origem dos objectos.
 
-Artigo XXVI
-
-Envio dos impressos endereçados ao mesmo destinatário
+###### Artigo XXVI — Envio dos impressos endereçados ao mesmo destinatário
 
 Em derrogação ao artigo 166.º do Regulamento de Execução da Convenção, as administrações postais da América (Estados Unidos) e do Canadá estão autorizadas a não aceitar os sacos especiais registados que contenham impressos endereçados a um mesmo destinatário e a não prestar o serviço reservado aos objectos registados nos sacos desta espécie provenientes de outros países.
 
-Artigo XXVII
-
-Sacos especiais de impressos endereçados ao mesmo destinatário Peso mínimo
+###### Artigo XXVII — Sacos especiais de impressos endereçados ao mesmo destinatário Peso mínimo
 
 Em derrogação ao artigo 20.º, parágrafos 1 e 10, da Convenção, as administrações postais da Austrália, do Brasil, dos Estados Unidos da América e da França não aceitarão, salvo acordo bilateral, receber sacos especiais de impressos endereçados ao mesmo destinatário com um peso inferior a 5 kg.
 
-Artigo XXVIII
-
-Pagamento dos encargos de transporte aéreo
+###### Artigo XXVIII — Pagamento dos encargos de transporte aéreo
 
 Por derrogação ao artigo 88.º, parágrafo 2, alínea b), as administrações postais do Brasil, da República Democrática Alemã e da Checoslováquia reservam-se o direito de dar o seu acordo ao pagamento dos encargos de transporte aéreo a pagar ao serviço aéreo do seu país.
 
-Artigo XXIX
-
-Encargos de transporte aéreo interno
+###### Artigo XXIX — Encargos de transporte aéreo interno
 
 Por derrogação ao artigo 84.º, parágrafo 4, as administrações postais da República Dominicana, de El Salvador, da Guatemala, da Papuásia-Nova Guiné e do Vanuatu reservam-se o direito de cobrar os pagamentos devidos a título do encaminhamento das malas internacionais no interior do país por via aérea.
 
@@ -8526,163 +8468,163 @@ ACORDO REFERENTE ÀS ENCOMENDAS POSTAIS
 
 Disposições preliminares.
 
-###### Artigo 1.º - Objecto do acordo.
+Artigo 1.º - Objecto do acordo.
 
-###### Artigo 2.º - Encomendas postais.
+Artigo 2.º - Encomendas postais.
 
-###### Artigo 3.º - Exploração do serviços pelas empresas de transporte.
+Artigo 3.º - Exploração do serviços pelas empresas de transporte.
 
-###### Artigo 4.º - Categorias de encomendas postais.
+Artigo 4.º - Categorias de encomendas postais.
 
-###### Artigo 5.º - Escalões de peso.
+Artigo 5.º - Escalões de peso.
 
-###### Artigo 6.º - Objectivos em matéria de qualidade do serviço.
+Artigo 6.º - Objectivos em matéria de qualidade do serviço.
 
-## Título I - Taxas e direitos.
+Título I - Taxas e direitos.
 
-###### Artigo 7.º - Composição das taxas e direitos.
+Artigo 7.º - Composição das taxas e direitos.
 
-### Capítulo I - Taxas principais e sobretaxas aéreas.
+Capítulo I - Taxas principais e sobretaxas aéreas.
 
-###### Artigo 8.º - Taxas principais.
+Artigo 8.º - Taxas principais.
 
-###### Artigo 9.º - Sobretaxas aéreas.
+Artigo 9.º - Sobretaxas aéreas.
 
-### Capítulo II - Taxas suplementares e direitos.
+Capítulo II - Taxas suplementares e direitos.
 
-#### Secção I - Taxas aplicáveis a algumas categorias de encomendas.
+Secção I - Taxas aplicáveis a algumas categorias de encomendas.
 
-###### Artigo 10.º - Encomendas por expresso.
+Artigo 10.º - Encomendas por expresso.
 
-###### Artigo 11.º - Encomendas isentas de taxas e direitos.
+Artigo 11.º - Encomendas isentas de taxas e direitos.
 
-###### Artigo 12.º - Encomendas com valor declarado.
+Artigo 12.º - Encomendas com valor declarado.
 
-###### Artigo 13.º - Encomendas frágeis. Encomendas volumosas.
+Artigo 13.º - Encomendas frágeis. Encomendas volumosas.
 
-#### Secção II - Taxas e direitos visando todas as categorias de encomendas.
+Secção II - Taxas e direitos visando todas as categorias de encomendas.
 
-###### Artigo 14.º - Taxas suplementares.
+Artigo 14.º - Taxas suplementares.
 
 ###### Artigo 15.º - Tarifas.
 
-###### Artigo 16.º - Direitos.
+Artigo 16.º - Direitos.
 
-### Capítulo III - Franquias postais.
+Capítulo III - Franquias postais.
 
-###### Artigo 17.º - Encomendas de serviço.
+Artigo 17.º - Encomendas de serviço.
 
-###### Artigo 18.º - Encomendas de prisioneiros de guerra e internados civis.
+Artigo 18.º - Encomendas de prisioneiros de guerra e internados civis.
 
-## Título II - Execução do serviço.
+Título II - Execução do serviço.
 
-### Capítulo I - Condições de admissão.
+Capítulo I - Condições de admissão.
 
-#### Secção I - Condições gerais de admissão.
+Secção I - Condições gerais de admissão.
 
-###### Artigo 19.º - Condições de aceitação.
+Artigo 19.º - Condições de aceitação.
 
-###### Artigo 20.º - Proibições.
+Artigo 20.º - Proibições.
 
-###### Artigo 21.º - Limites de dimensões.
+Artigo 21.º - Limites de dimensões.
 
-###### Artigo 22.º - Tratamento das encomendas indevidamente aceites.
+Artigo 22.º - Tratamento das encomendas indevidamente aceites.
 
-###### Artigo 23.º - Instruções do remetente no momento do depósito.
+Artigo 23.º - Instruções do remetente no momento do depósito.
 
-#### Secção II - Condições particulares de admissão.
+Secção II - Condições particulares de admissão.
 
-###### Artigo 24.º - Encomendas com valor declarado.
+Artigo 24.º - Encomendas com valor declarado.
 
-###### Artigo 25.º - Encomendas isentas de taxas e direitos.
+Artigo 25.º - Encomendas isentas de taxas e direitos.
 
-### Capítulo II - Condições de entrega e de reexpedição.
+Capítulo II - Condições de entrega e de reexpedição.
 
 #### Secção I - Entrega.
 
-###### Artigo 26.º - Regras gerais de entrega. Prazos de guarda.
+Artigo 26.º - Regras gerais de entrega. Prazos de guarda.
 
-###### Artigo 27.º - Entrega das encomendas por expresso.
+Artigo 27.º - Entrega das encomendas por expresso.
 
-###### Artigo 28.º - Aviso de recepção.
+Artigo 28.º - Aviso de recepção.
 
-###### Artigo 29.º - Não entrega ao destinatário.
+Artigo 29.º - Não entrega ao destinatário.
 
-###### Artigo 30.º - Devolução ao remetente das encomendas não entregues.
+Artigo 30.º - Devolução ao remetente das encomendas não entregues.
 
-###### Artigo 31.º - Abandono, pelo remetente, de uma encomenda não entregue.
+Artigo 31.º - Abandono, pelo remetente, de uma encomenda não entregue.
 
-#### Secção II - Reexpedição.
+Secção II - Reexpedição.
 
-###### Artigo 32.º - Reexpedição em consequência de mudança de residência do destinatário ou de modificação ou correcção de endereço.
+Artigo 32.º - Reexpedição em consequência de mudança de residência do destinatário ou de modificação ou correcção de endereço.
 
-###### Artigo 33.º - Encomendas mal encaminhadas e a reexpedir.
+Artigo 33.º - Encomendas mal encaminhadas e a reexpedir.
 
-###### Artigo 34.º - Devolução ao remetente das encomendas aceites indevidamente.
+Artigo 34.º - Devolução ao remetente das encomendas aceites indevidamente.
 
-###### Artigo 35.º - Devolução ao remetente em consequência da suspensão do serviço.
+Artigo 35.º - Devolução ao remetente em consequência da suspensão do serviço.
 
-### Capítulo III - Disposições particulares.
+Capítulo III - Disposições particulares.
 
-###### Artigo 36.º - Inobservância, por parte de uma administração, das instruções dadas.
+Artigo 36.º - Inobservância, por parte de uma administração, das instruções dadas.
 
-###### Artigo 37.º - Encomendas contendo objectos cuja deterioração ou decomposição a curto prazo são prováveis.
+Artigo 37.º - Encomendas contendo objectos cuja deterioração ou decomposição a curto prazo são prováveis.
 
-###### Artigo 38.º - Retirada. Modificação ou correcção de endereço.
+Artigo 38.º - Retirada. Modificação ou correcção de endereço.
 
-###### Artigo 39.º - Reclamações.
+Artigo 39.º - Reclamações.
 
-## Título III - Responsabilidade.
+Título III - Responsabilidade.
 
-###### Artigo 40.º - Princípio e extensão da responsabilidade das administrações postais.
+Artigo 40.º - Princípio e extensão da responsabilidade das administrações postais.
 
-###### Artigo 41.º - Exclusão da responsabilidade das administrações postais.
+Artigo 41.º - Exclusão da responsabilidade das administrações postais.
 
-###### Artigo 42.º - Responsabilidade do remetente.
+Artigo 42.º - Responsabilidade do remetente.
 
-###### Artigo 43.º - Determinação da responsabilidade entre as administrações postais.
+Artigo 43.º - Determinação da responsabilidade entre as administrações postais.
 
-###### Artigo 44.º - Pagamento da indemnização.
+Artigo 44.º - Pagamento da indemnização.
 
-###### Artigo 45.º - Reembolso da indemnização à administração que tenha efectuado o pagamento.
+Artigo 45.º - Reembolso da indemnização à administração que tenha efectuado o pagamento.
 
-###### Artigo 46.º - Recuperação eventual da indemnização junto do remetente ou do destinatário.
+Artigo 46.º - Recuperação eventual da indemnização junto do remetente ou do destinatário.
 
-## Título IV - Quotas-partes das administrações. Atribuição das quotas-partes.
+Título IV - Quotas-partes das administrações. Atribuição das quotas-partes.
 
-### Capítulo I - Quotas-partes.
+Capítulo I - Quotas-partes.
 
-###### Artigo 47.º - Quota-parte terrestre de saída e de chegada.
+Artigo 47.º - Quota-parte terrestre de saída e de chegada.
 
-###### Artigo 48.º - Quota-parte terrestre de trânsito.
+Artigo 48.º - Quota-parte terrestre de trânsito.
 
-###### Artigo 49.º - Quota-parte marítima.
+Artigo 49.º - Quota-parte marítima.
 
-###### Artigo 50.º - Redução ou aumento da quota-parte marítima.
+Artigo 50.º - Redução ou aumento da quota-parte marítima.
 
-###### Artigo 51.º - Aplicação de novas quotas-partes em consequência de modificações imprevistas de encaminhamento.
+Artigo 51.º - Aplicação de novas quotas-partes em consequência de modificações imprevistas de encaminhamento.
 
-###### Artigo 52.º - Taxas de base e cálculo dos encargos de transporte aéreo.
+Artigo 52.º - Taxas de base e cálculo dos encargos de transporte aéreo.
 
-###### Artigo 53.º - Encargos de transporte aéreo das encomendas-avião perdidas ou destruídas.
+Artigo 53.º - Encargos de transporte aéreo das encomendas-avião perdidas ou destruídas.
 
-### Capítulo II - Atribuição das quotas-partes.
+Capítulo II - Atribuição das quotas-partes.
 
-###### Artigo 54.º - Princípio geral.
+Artigo 54.º - Princípio geral.
 
-###### Artigo 55.º - Encomendas de serviço. Encomendas de prisioneiros de guerra e de internados civis.
+Artigo 55.º - Encomendas de serviço. Encomendas de prisioneiros de guerra e de internados civis.
 
-## Título V - Disposições diversas.
+Título V - Disposições diversas.
 
-###### Artigo 56.º - Aplicação da Convenção.
+Artigo 56.º - Aplicação da Convenção.
 
-###### Artigo 57.º - Condições de aprovação das propostas referentes ao presente Acordo e ao seu Regulamento de Execução.
+Artigo 57.º - Condições de aprovação das propostas referentes ao presente Acordo e ao seu Regulamento de Execução.
 
-###### Artigo 58.º - Encomendas com destino ou provenientes de países não participantes do Acordo.
+Artigo 58.º - Encomendas com destino ou provenientes de países não participantes do Acordo.
 
-## Título VI - Disposições finais.
+Título VI - Disposições finais.
 
-###### Artigo 59.º - Execução e vigência do Acordo.
+Artigo 59.º - Execução e vigência do Acordo.
 
 PROTOCOLO FINAL DO ACORDO REFERENTE ÀS ENCOMENDAS POSTAIS
 
@@ -8930,7 +8872,7 @@ o) Taxa para riscos de força maior, cobrada pelas administrações que aceitam 
 
 A tarifa das taxas suplementares definidas no artigo 14.º é fixada conforme as indicações do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - As administrações que cobram, no seu regime interno, taxas suplementares superiores às fixadas no parágrafo 1, ficam autorizadas, quando mantêm integralmente estas últimas, a aplicar, no serviço internacional, as taxas do regime interno.
 
@@ -9434,7 +9376,7 @@ Atribuição das quotas-partes
 
 1 - As encomendas permutadas entre duas administrações estão sujeitas às quotas-partes terrestres de partida e de chegada para cada país e para cada encomenda segundo as taxas indicativas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 Em caso de atribuição das quotas-partes conforme o artigo 54.º, parágrafo 3, são recomendadas as seguintes taxas indicativas:
 
@@ -9456,11 +9398,11 @@ Tendo em conta as taxas indicativas do quadro anterior, as administrações fixa
 
 1 - As encomendas permutadas entre duas administrações ou duas estações do mesmo país através dos serviços terrestres de uma ou de várias administrações estão sujeitas, em benefício dos países cujos serviços participam no encaminhamento terrestre, às seguintes quotas-partes terrestres de trânsito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 Em caso de atribuição das quotas-partes conforme o artigo 54.º, parágrafo 3, são recomendadas as seguintes taxas indicativas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 2 - Cada país mencionado no parágrafo 1 fica autorizado a reclamar, para cada encomenda, as quotas-partes terrestres de trânsito referentes ao escalão de distância correspondentes à distância média ponderada de transporte das encomendas das quais assegura o trânsito. Esta distância é calculada pela Secretaria Internacional.
 
@@ -9480,11 +9422,11 @@ Em caso de atribuição das quotas-partes conforme o artigo 54.º, parágrafo 3,
 
 2 - Para cada serviço marítimo utilizado, a quota-parte marítima é calculada conforme as indicações do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 Em caso de atribuição das quotas-partes conforme o artigo 54.º, parágrafo 3, são recomendadas as seguintes taxas indicativas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - Se for necessário, os escalões de distância que servem para determinar o montante da quota-parte marítima a ser aplicada entre dois países são calculados com base numa distância média ponderada, determinada em função da tonelagem das malas transportadas entre os respectivos portos dos dois países.
 
@@ -9586,9 +9528,7 @@ PROTOCOLO FINAL DO ACORDO REFERENTE ÀS ENCOMENDAS POSTAIS
 
 No momento de se proceder à assinatura do Acordo Referente às Encomendas Postais, celebrado nesta data, os plenipotenciários abaixo assinados convencionaram o que segue:
 
-Artigo I
-
-Quotas-partes terrestres de chegada excepcionais
+###### Artigo I — Quotas-partes terrestres de chegada excepcionais
 
 1 - Em derrogação ao artigo 47.º, as administrações que figuram na lista abaixo indicada reservam-se o direito de fixar as suas quotas-partes terrestres de chegada a um nível superior a 30% às suas quotas-partes terrestres de partida:
 
@@ -9596,35 +9536,25 @@ Argélia, Angola, Bahrein, Benim, Brasil, Brunei Darussalam, Bulgária (Rep. Pop
 
 2 - Em derrogação ao artigo 47.º, a administração da República Árabe do Egipto reserva-se o direito de cobrar uma quota-parte terrestre de chegada excepcional de 6,53 DES por encomenda, além das mencionadas no artigo supracitado.
 
-Artigo II
-
-Quotas-partes terrestres de trânsito excepcionais
+###### Artigo II — Quotas-partes terrestres de trânsito excepcionais
 
 A título provisório, as administrações que figuram no quadro seguinte estão autorizadas a cobrar as quotas-partes terrestres de trânsito excepcionais indicadas no quadro, as quais se acrescentam às quotas-partes de trânsito referidas no artigo 48.º, parágrafo 1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
-Artigo III
-
-Distância média ponderada de transporte das encomendas em trânsito
+###### Artigo III — Distância média ponderada de transporte das encomendas em trânsito
 
 O artigo 48.º, parágrafo 2, última frase, aplica-se aos seguintes países, apenas a pedido dos mesmos: Bielo Rússia, Bulgária (Rep. Pop.), Cuba, Mongólia (Rep. Pop.), Polónia (Rep. Pop.), Checoslováquia, Ucrânia e União das Repúblicas Socialistas Soviéticas.
 
-Artigo IV
-
-Quotas-partes marítimas
+###### Artigo IV — Quotas-partes marítimas
 
 A Alemanha (Rep. Fed.), América (Estados Unidos), Argentina, Austrália, Baamas, Bahrein, Bangladesh, Barbados, Bélgica, Belize, Brasil, Brunei Darussalam, Canadá, Chile, Chipre, Comores, Congo (Rep. Pop.), Djibuti, Dominica, Emirados Árabes Unidos, Espanha, Finlândia, França, Gabão, Gâmbia, Reino Unido da Grã-Bretanha e Irlanda do Norte, territórios do ultramar dependentes do Reino Unido, Grécia, Granada, Guiana, Índia, Itália, Jamaica, Japão, Quénia, Kiribati, Malásia, Madagáscar, Malta, Maurícias, Nigéria, Noruega, Omã, Uganda, Paquistão, Papuásia-Nova Guiné, Países Baixos, Portugal, Qatar, São Cristóvão e Nevis, Santa Lúcia, São Vicente e Granadinas, Salomão (ilhas), Seychelles, Serra Leoa, Singapura, Suécia, Tanzânia (Rep. Unida), Tailândia, Trindade e Tabago, Tuvalu, Vanuatu, Iémene (Rep. Dem. Pop.) e Zâmbia reservam-se o direito em aumentar de 50%, no máximo, as quotas-partes marítimas previstas nos artigos 49.º e 50.º
 
-Artigo V
-
-Estabelecimento das quotas-partes médias
+###### Artigo V — Estabelecimento das quotas-partes médias
 
 Por derrogação ao artigo 54.º, parágrafo 3, do Acordo, e ao artigo 150.º, parágrafo 2, do Regulamento, a América (Estados Unidos) fica autorizada a estabelecer quotas-partes terrestres e marítimas médias por quilograma, baseando-se na distribuição, em peso, das encomendas recebidas de todas as administrações.
 
-Artigo VI
-
-Quotas-partes suplementares
+###### Artigo VI — Quotas-partes suplementares
 
 1 - Qualquer encomenda encaminhada por via de superfície ou aérea com destino à Córsega, aos departamentos franceses do ultramar, aos territórios franceses do ultramar e às colectividades de Mayotte e Saint Pierre e Miquelon fica sujeita a uma quota-parte terrestre de chegada igual, no máximo, à quota-parte francesa correspondente. Quando tal encomenda for encaminhada em trânsito pela França continental gera, também, a cobrança das quotas-partes e despesas suplementares seguintes:
 
@@ -9642,7 +9572,7 @@ b) Encomendas-avião:
 
 2 - Qualquer encomenda que utilize os serviços automotores transdesérticos Iraque-Síria dá lugar à cobrança de uma quota-parte suplementar especial assim fixada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf))](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188a01/00020163.pdf)
 
 3 - As administrações postais da República Árabe do Egipto e da República do Sudão ficam autorizadas a cobrar uma quota-parte suplementar de 0,65 DES além das quotas-partes terrestres de trânsito previstas no artigo 48.º, parágrafo 1, para qualquer encomenda em trânsito através do lago Nasser entre Shallal (Egipto) e Wadi Halfa (Sudão).
 
@@ -9686,9 +9616,7 @@ b) Encomendas-avião:
 
 - Os encargos de transporte aéreo correspondentes à distância aeropostal entre Espanha continental e cada uma das províncias insulares consideradas.
 
-Artigo VII
-
-Tarifas especiais
+###### Artigo VII — Tarifas especiais
 
 1 - As administrações da Bélgica, da França e da Noruega podem cobrar, para as encomendas-avião, quotas-partes terrestres mais elevadas do que para as encomendas de superfície.
 
@@ -9696,41 +9624,29 @@ Tarifas especiais
 
 3 - A administração do Panamá (Rep.) está autorizada a cobrar 0,20 DES por quilograma para as encomendas de superfície transportadas por via aérea (SAL) em trânsito.
 
-Artigo VIII
-
-Taxas suplementares
+###### Artigo VIII — Taxas suplementares
 
 A título excepcional as administrações ficam autorizadas a ultrapassar os limites superiores das taxas suplementares indicadas nos artigos 10.º a 13.º e 15.º, se tal for necessário para adequar essas taxas aos custos operacionais dos seus serviços. No entanto, em casos de devolução ao remetente [artigo 30.º, parágrafo 3, alínea b)], ou de reexpedição [artigo 32.º, parágrafo 6, alínea c)], o montante das taxas recuperadas não pode ultrapassar as taxas fixadas no Acordo. As administrações que desejem aplicar esta disposição devem informar a Secretaria Internacional logo que seja possível.
 
-Artigo IX
-
-Tratamento das encomendas indevidamente aceites
+###### Artigo IX — Tratamento das encomendas indevidamente aceites
 
 A Bielo Rússia, a Bulgária (Rep. Pop.), Cuba, a Rep. Pop. Dem. da Coreia, a Ucrânia e a União das Repúblicas Socialistas Soviéticas reservam-se o direito de só fornecer as informações sobre as razões da apreensão de uma encomenda postal ou de uma parte do seu conteúdo dentro dos limites das informações provenientes das autoridades alfandegárias e de acordo com a sua legislação interna.
 
-Artigo X
-
-Retirada. Modificação ou correcção de endereço
+###### Artigo X — Retirada. Modificação ou correcção de endereço
 
 Em derrogação ao artigo 38.º, a Costa Rica, El Salvador, o Equador, o Panamá (Rep.) e a Venezuela ficam autorizadas a não devolverem as encomendas postais após o destinatário ter solicitado o desalfandegamento, uma vez que a sua legislação aduaneira a tal se opõe.
 
-Artigo XI
-
-Proibições
+###### Artigo XI — Proibições
 
 1 - A administração postal do Canadá fica autorizada a não aceitar encomendas com valor declarado contendo os objectos preciosos mencionados no artigo 20.º, alínea b), uma vez que a sua regulamentação interna o não permite.
 
 2 - A título excepcional a administração postal do Líbano não aceita as encomendas que contenham moedas, notas de banco ou qualquer valor ao portador, cheques de viagem ou de platina, ouro ou prata manufacturados ou não, pedras preciosas ou outros objectos preciosos, líquidos e corpos que facilmente se liquefaçam e objectos em vidro ou artigos da mesma natureza frágil. Não é abrangida pelas disposições do artigo 40.º, incluindo os casos enunciados nos artigos 41.º e 43.º
 
-Artigo XII
-
-Excepções ao princípio da responsabilidade
+###### Artigo XII — Excepções ao princípio da responsabilidade
 
 Em derrogação ao artigo 40.º, a Bolívia, a República do Iraque, a República do Sudão, a República Democrática Popular do Iémene e a República do Zaire estão autorizadas a não pagar qualquer indemnização pela avaria das encomendas originárias de todos os países com destino à Bolívia, ao Iraque, ao Sudão, ao Iémene (Rep. Dem. Pop.) ou ao Zaire que contenham líquidos e corpos que facilmente se liquefaçam, objectos em vidro e artigos da mesma natureza frágil ou deterioráveis.
 
-Artigo XIII
-
-Indemnização
+###### Artigo XIII — Indemnização
 
 1 - Em derrogação ao artigo 40.º, a América (Estados Unidos), Angola, Baamas, Barbados, Belize, Bolívia, Botswana, Brunei Darussalam, Canadá, Dominicana (Rep.), Dominica, El Salvador, Fidji, Gâmbia, os territórios do ultramar dependes do Reino Unido da Grã-Bretanha e Irlanda do Norte cuja regulamentação interna a tal se oponha, Granada, Guatemala, Guiana, Kiribati, Lesoto, Malawi, Malta, Maurícias, Nauru, Nigéria, Uganda, Papuásia-Nova Guiné, São Cristóvão e Nevis, Santa Lúcia, São Vicente e Granadinas, Salomão (ilhas), Seychelles, Serra Leoa, Suazilândia, Trindade e Tabago, Zâmbia e Zimbabwe podem não pagar qualquer indemnização pelas encomendas sem valor declarado perdidas, espoliadas ou avariadas nos seus serviços.
 
@@ -9740,21 +9656,15 @@ Indemnização
 
 4 - Quando agir na qualidade de administração intermediária, a América (Estados Unidos) está autorizada a não pagar a indemnização às outras administrações em caso de perda, de espoliação ou de avaria das encomendas com valor declarado a descoberto ou remetidas em malas fechadas.
 
-Artigo XIV
-
-Pagamento da indemnização
+###### Artigo XIV — Pagamento da indemnização
 
 As administrações postais de Angola, Guiné, Líbano e Mauritânia (Rep. Islâmica) não têm a obrigação de observar o artigo 44.º, parágrafo 4, do Acordo, no que respeita à adopção de uma solução definitiva de uma reclamação no prazo de três meses. Além disso, estas administrações não aceitam que quem de direito seja indemnizado, por sua conta, por outra administração, quando se esgotar o referido prazo.
 
-Artigo XV
-
-Exclusão da responsabilidade da administração postal
+###### Artigo XV — Exclusão da responsabilidade da administração postal
 
 A administração postal do Nepal está autorizada a não aplicar o artigo 41.º, parágrafo 1, alínea b).
 
-Artigo XVI
-
-Aviso de recepção
+###### Artigo XVI — Aviso de recepção
 
 A administração postal do Canadá está autorizada a não aplicar o artigo 28.º, uma vez que não oferece o serviço de aviso de recepção para as encomendas no seu regime interno.
 
@@ -9766,31 +9676,31 @@ ACORDO REFERENTE AOS VALES POSTAIS
 
 Índice
 
-###### Artigo 1.º - Objecto do Acordo.
+Artigo 1.º - Objecto do Acordo.
 
-###### Artigo 2.º - Diferentes categorias de vales postais.
+Artigo 2.º - Diferentes categorias de vales postais.
 
-###### Artigo 3.º - Emissão dos vales (moeda, conversão, montante).
+Artigo 3.º - Emissão dos vales (moeda, conversão, montante).
 
 ###### Artigo 4.º - Taxas.
 
-###### Artigo 5.º - Modalidades de permuta.
+Artigo 5.º - Modalidades de permuta.
 
-###### Artigo 6.º - Pagamento dos vales.
+Artigo 6.º - Pagamento dos vales.
 
-###### Artigo 7.º - Reexpedição.
+Artigo 7.º - Reexpedição.
 
-###### Artigo 8.º - Reclamações.
+Artigo 8.º - Reclamações.
 
-###### Artigo 9.º - Responsabilidade.
+Artigo 9.º - Responsabilidade.
 
-###### Artigo 10.º - Remuneração da administração de pagamento.
+Artigo 10.º - Remuneração da administração de pagamento.
 
-###### Artigo 11.º - Elaboração das contas.
+Artigo 11.º - Elaboração das contas.
 
-###### Artigo 12.º - Liquidação das contas.
+Artigo 12.º - Liquidação das contas.
 
-###### Artigo 13.º - Disposições finais.
+Artigo 13.º - Disposições finais.
 
 ACORDO REFERENTE AOS VALES POSTAIS
 
@@ -10038,57 +9948,57 @@ ACORDO REFERENTE AO SERVIÇO DE CHEQUES POSTAIS
 
 Índice
 
-### Capítulo I - Disposições preliminares.
+Capítulo I - Disposições preliminares.
 
-###### Artigo 1.º - Objecto do Acordo.
+Artigo 1.º - Objecto do Acordo.
 
-###### Artigo 2.º - Diferentes categorias de prestações oferecidas pelo serviço de cheques postais.
+Artigo 2.º - Diferentes categorias de prestações oferecidas pelo serviço de cheques postais.
 
-### Capítulo II - Transferência de fundos.
+Capítulo II - Transferência de fundos.
 
-###### Artigo 3.º - Condições de admissão e de execução das ordens de transferência de fundos.
+Artigo 3.º - Condições de admissão e de execução das ordens de transferência de fundos.
 
-###### Artigo 4.º - Responsabilidade.
+Artigo 4.º - Responsabilidade.
 
-### Capítulo III - Depósito.
+Capítulo III - Depósito.
 
 ###### Artigo 5.º - Depósito.
 
-### Capítulo IV - Pagamento por vale.
+Capítulo IV - Pagamento por vale.
 
-###### Artigo 6.º - Modalidades de execução dos pagamentos por vale.
+Artigo 6.º - Modalidades de execução dos pagamentos por vale.
 
-### Capítulo V - Pagamento por cheque nominal.
+Capítulo V - Pagamento por cheque nominal.
 
-###### Artigo 7.º - Emissão dos cheques nominais.
+Artigo 7.º - Emissão dos cheques nominais.
 
-###### Artigo 8.º - Pagamento dos cheques nominais.
+Artigo 8.º - Pagamento dos cheques nominais.
 
-###### Artigo 9.º - Responsabilidade.
+Artigo 9.º - Responsabilidade.
 
-###### Artigo 10.º - Remuneração da administração de pagamento.
+Artigo 10.º - Remuneração da administração de pagamento.
 
-### Capítulo VI - Outros meios de permuta dos pagamento.
+Capítulo VI - Outros meios de permuta dos pagamento.
 
-###### Artigo 11.º - Outros meios de permuta dos pagamentos.
+Artigo 11.º - Outros meios de permuta dos pagamentos.
 
-### Capítulo VII - Pós-cheque.
+Capítulo VII - Pós-cheque.
 
-###### Artigo 12.º - Fornecimento dos pós-cheques.
+Artigo 12.º - Fornecimento dos pós-cheques.
 
-###### Artigo 13.º - Pagamento.
+Artigo 13.º - Pagamento.
 
-###### Artigo 14.º - Responsabilidade.
+Artigo 14.º - Responsabilidade.
 
-###### Artigo 15.º - Remuneração da administração de pagamento.
+Artigo 15.º - Remuneração da administração de pagamento.
 
-### Capítulo VIII - Disposições diversas.
+Capítulo VIII - Disposições diversas.
 
-###### Artigo 16.º - Disposições diversas.
+Artigo 16.º - Disposições diversas.
 
-### Capítulo IX - Disposições finais.
+Capítulo IX - Disposições finais.
 
-###### Artigo 17.º - Disposições finais.
+Artigo 17.º - Disposições finais.
 
 ACORDO REFERENTE AO SERVIÇO DE CHEQUES POSTAIS
 
@@ -10370,23 +10280,23 @@ ACORDO REFERENTE AOS OBJECTOS CONTRA REEMBOLSO
 
 Índice
 
-###### Artigo 1.º - Objecto do Acordo.
+Artigo 1.º - Objecto do Acordo.
 
-###### Artigo 2.º - Definição do serviço.
+Artigo 2.º - Definição do serviço.
 
-###### Artigo 3.º - Papel da estação de depósito dos objectos.
+Artigo 3.º - Papel da estação de depósito dos objectos.
 
-###### Artigo 4.º - Papel da estação de destino dos objectos.
+Artigo 4.º - Papel da estação de destino dos objectos.
 
-###### Artigo 5.º - Transmissão dos vales de reembolso.
+Artigo 5.º - Transmissão dos vales de reembolso.
 
-###### Artigo 6.º - Pagamento aos expedidores dos objectos.
+Artigo 6.º - Pagamento aos expedidores dos objectos.
 
-###### Artigo 7.º - Remuneração. Elaboração e liquidação das contas.
+Artigo 7.º - Remuneração. Elaboração e liquidação das contas.
 
-###### Artigo 8.º - Responsabilidade.
+Artigo 8.º - Responsabilidade.
 
-###### Artigo 9.º - Disposições finais.
+Artigo 9.º - Disposições finais.
 
 ACORDO REFERENTE AOS OBJECTOS CONTRA REEMBOLSO
 

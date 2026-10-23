@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/540/1992/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/540-1992-303423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c2dc75f774772e26e64dbd8e9e130d2561d474b24c3725725cbc3169f97f3ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 787a92e67ad95c6a2b110f7e9b0d71b441f180a22e19ee90dbb31c5c3ccb26d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,72 @@ relationships:
   target: pt:dre:603188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671020:por
+  label: "Anexado um prédio rústico á zona de caça turística criada pelo presente diploma, pela PORT.579/2003.2003.07.17.MECO\
+    \ DR.IS-B [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/579-2003-671020
+  date: '2003-07-17'
+- type: amended_by
+  target: pt:dre:271251:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça concessionada pelo presente diploma,\
+    \ alterada pela Port 579/2003, de 17-Jul, pela PORT.725/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-2004-271251
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:528426:por
+  label: "Renovada por doze anos a concessão da zona de caça turística atribuída pelo presente diploma, alterada pela Port\
+    \ 579/2003, de 17-Jul, pela PORT.1037-N/2004.12.08.2004.MAPF, DR.IS-B [189-Supl] de 12.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-n-2004-528426
+  date: '2004-08-12'
+- type: amended_by
+  target: pt:dre:157793:por
+  label: "Transferida para a Alcaçar Grupo Amigo, a concessão da zona de caça concessionada à A.T.-Exploração Agro-Pecuária\
+    \ pelo presente diploma, alterada pela Port 579/2003 de 17-Jul e renovada pela Port 1037-N/2004 de 12-Ago, pela PORT.990/2005.06.10.2005.MADRP,\
+    \ DR.IS-B [192] de 06.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-2005-157793
+  date: '2005-10-06'
+- type: amended_by
+  target: pt:dre:603188:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pelo presente diploma, alterada pela Port 579/2003, de 17-Jul,\
+    \ pela Port 1037-N/2004, de 12-Ago e pela Port 990/2005, de 06-Out, pela PORT.25/2009.15.01.2009.MADRP, DR.IS [10] de\
+    \ 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/25-2009-603188
+  date: '2009-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:38Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +171,8 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 Ministério da Agricultura.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/142b00/29402940.pdf))](https://files.diariodarepublica.pt/1s/1992/06/142b00/29402940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/142b00/29402940.pdf)

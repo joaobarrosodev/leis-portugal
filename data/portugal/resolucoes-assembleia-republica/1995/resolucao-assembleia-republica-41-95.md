@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/41/1995/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/41-1995-668704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9760741abbce450cff87cdf1c1a6cb0c879cc61b63a88b1f79c787462173339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 276aadfe3eb0f238b0b38ebb198874c0cef5e62ea4aaaa9d7e34a7d8c8ec72d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Convenção
-- Portugal
 - Gabinete Europeu de Radiocomunicações
 - HAIA
-- ACTO Constitutivo
+- Portugal
 - Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:604591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:211810:por
+  label: "Alterado o anexo A da Convenção aprovada para ratificação pela presente resolução, pela RES.5/98.1998.01.22.AR DR.IS-A\
+    \ [49] de 27/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/5-1998-211810
+  date: '1998-01-22'
+- type: amended_by
+  target: pt:dre:604591:por
+  label: "Aprovadas as Emendas à Convenção, pela RES.5/2009.26.02.2009.AR, DR.IS [40] de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/5-2009-604591
+  date: '2009-02-26'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 18 de Maio de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION POUR LA CRÉATION DU BUREAU EUROPÉEN DES RADIOCOMMUNICATIONS (BER)
 
@@ -354,7 +365,7 @@ En foi de quoi, les représentants soussignés, dûment habilités à cet effet,
 
 Fait à la Haye le 23 juin 1993 en un original unique en allemand, anglais et français, chaque texte faisant également foi.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf))](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
 
 ANNEXE A
 
@@ -710,7 +721,7 @@ In witness whereof the undersigned representatives, having been duly authorised 
 
 Done at The Hague this 23rd day of June 1993 in a single copy in the English, French and German languages, each text being equally authentic.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf))](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
 
 ANNEX A
 
@@ -814,7 +825,7 @@ Arbitration procedure
 
 7 - The award of the tribunal shall be made by a majority of its members, who may not abstain from voting. This award shall be final and biding on all parties to the dispute and no appeal shall lie against it. The parties shall comply with the award without delay. In the event of a dispute as to its meaning or scope, the tribunal shall interpret it at the request of any party to the dispute.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf))](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/240a00/64246442.pdf)
 
 CONVENÇÃO PARA A CRIAÇÃO DO GABINETE EUROPEU DE RADIOCOMUNICAÇÕES (ERO)
 

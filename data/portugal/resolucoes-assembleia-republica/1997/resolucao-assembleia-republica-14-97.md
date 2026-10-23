@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/1997/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1997-518263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f12ac5f3e245b8d88fc88fec6470010f2ceb7058d46b5b5c14e6071efb10064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ff2383fef1776ddb8d9a454178db4470df573687b718d41d1dab72d3645bc4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Cooperação Jurídica
-- Cooperação Técnica
-- Portugal
-- Relações Diplomáticas
-- Estatuto
-- Lisboa
-- CPLP
-- Palop
 - ACTO Constitutivo
+- Convenção
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Internacional
+- Cooperação Jurídica
 - Cooperação Política
+- Cooperação Técnica
+- CPLP
+- Estatuto
+- Lisboa
+- Palop
+- Portugal
+- Relações Diplomáticas
 relationships:
 - type: amended_by
   target: pt:dre:454367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454367:por
+  label: "Aprovadas as emendas (alteração do art. 8º, aditamento de um art. 15º e renumeração) aos Estatutos da CPLP, aprovados,\
+    \ para ratificação, pelo presente diploma, e ratificados pelo Dec Lei 15/97, de 20-Mar, pela RES.30/2008.23.07.2008.AR,\
+    \ DR.IS [141] de 23.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/30-2008-454367
+  date: '2008-07-23'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:43Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +114,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 30 de Janeiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 DECLARAÇÃO CONSTITUTIVA DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA
 
@@ -177,7 +184,7 @@ decidem, num acto de fidelidade à vocação e à vontade dos seus povos e no re
 
 Feita em Lisboa, a 17 de Julho de 1996.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf))](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf)
 
 ESTATUTOS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA
 
@@ -395,4 +402,4 @@ Os textos originais da declaração constitutiva da CPLP e dos presentes Estatut
 
 Feitos em Lisboa, a 17 de Julho de 1996.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf))](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/067a00/12701275.pdf)

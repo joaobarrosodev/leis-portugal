@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/133/1992/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-1992-169068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 812d1c12bf9d4b4514923aa96d0bbce6f32a83c3a5cb924b6a395ed312a1217a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96382bd76c75c98ab9bb2a4f0abbfefdbf418a4a89c7a2ef702e3d19ac7d9dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Gabinete da Área de Sines
 - Sines
 - Transferência Patrimonial
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:219150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219150:por
+  label: Derrogado o Protocolo n.º 2 pelo(a) Portaria n.º 772/94 - Diário da República n.º 197/1994, Série I-B de 1994-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1994-219150
+  date: '1994-08-26'
+- type: cites
+  target: pt:dre:575142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:34Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +118,9 @@ A presente portaria revoga e substitui a [Portaria n.º 419/90](https://diarioda
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 31 de Outubro de 1991.**
+Assinada em 31 de Outubro de 1991.
 
-**O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Jorge Braga de Macedo. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 Protocolo n.º 1
 
@@ -123,7 +136,7 @@ Entre o Gabinete da Área de Sines, em liquidação, adiante designado por GAS, 
 
 Santo André. - O Administrador Liquidatário do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf))](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf)
 
 Protocolo n.º 2
 
@@ -147,4 +160,4 @@ Santo André. - O Administrador Liquidatário do GAS, João Manuel Soares de Alm
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf))](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/052b00/11441149.pdf)

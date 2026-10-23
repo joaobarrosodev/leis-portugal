@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/143/1992/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1992-168624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2e302386b48e63f6779a920817079e61a8494dff46f501fa73c91fcbf90382
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 772c04093f936635e35948d9c15477e9cc6eb56db8e96ccb6e5e9f379a57bf43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Alvará
 - Construção Civil
 - Impresso
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 relationships:
 - type: amended_by
   target: pt:dre:664882:por
@@ -80,16 +80,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:664882:por
+  label: "Revogadas as alíneas b) e c) do n.º 1.º pela PORT.1115-D/94.15.12.1994.MPLAT, DR.IS-B [288]2ºSupl de 15.12.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1115-d-1994-664882
+  date: '1994-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:47Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +132,12 @@ c) O aviso a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 445/91](
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 14 de Fevereiro de 1992.**
+Assinada em 14 de Fevereiro de 1992.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf))](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf))](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf))](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11781179.pdf)

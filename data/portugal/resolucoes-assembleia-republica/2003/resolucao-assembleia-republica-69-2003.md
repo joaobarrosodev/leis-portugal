@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/69/2003/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/69-2003-655077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1120cbb15e30e2d534b1c138a9f6f338a9b7f1c57918de6c333fd97ee129545c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0311a8ed1e98d14b09491d279baacfce2095152624d37f1369e30a4e9ad55325
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
 - Convenção
-- Portugal
-- HAIA
-- Proteção do Ambiente
 - Espécie Protegida
-relationships: []
+- HAIA
+- Portugal
+- Proteção do Ambiente
+- Proteção dos Animais
+- Vida Selvagem
+relationships:
+- type: amended_by
+  target: pt:dre:655078:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.47/2003.2003.08.19.PR DR.IS-A [190]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/47-2003-655078
+  date: '2003-08-19'
 article_structure:
-  article_count: 0
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:14Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de Maio de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 AGREEMENT ON THE CONSERVATION OF AFRICAN-EURASIAN MIGRATORY WATERBIRDS
 
@@ -470,7 +476,7 @@ ANNEX 1-A
 
 Map of the Agreement Area
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 ANNEX 2
 
@@ -1154,7 +1160,7 @@ Notes
 
 2 - Suffixes (bre) or (win) in population listings are solely aids to population identification. They do not indicate seasonal restrictions to actions in respect of these populations, under this Agreement and action plan.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 Done at the Hague, this fifteenth day of August 1996.
 
@@ -1202,13 +1208,13 @@ For the Kingdom of Belgium:
 
 Pour le Royaume de Belgique:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Benin:
 
 Pour la République du Benin:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Bosnia-Hercegovin:
 
@@ -1222,7 +1228,7 @@ For the Republic of Bulgaria:
 
 Pour la République de Bulgarie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For Burkina Faso:
 
@@ -1260,7 +1266,7 @@ For the Republic of Congo:
 
 Pour la République du Congo:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Côte d'Ivoire:
 
@@ -1282,7 +1288,7 @@ For the Kingdom of Denmark:
 
 Pour le Royaume du Danemark:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Djibouti:
 
@@ -1292,7 +1298,7 @@ For the Arab Republic of Egypt:
 
 Pour la République arabe d'Egypte:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Equatorial Guinea:
 
@@ -1314,13 +1320,13 @@ For the Republic of Finland:
 
 Pour la République de Finlande:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the French Republic:
 
 Pour la République française:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Gabon:
 
@@ -1330,7 +1336,7 @@ For the Republic of Gambia:
 
 Pour la République de Gambie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Georgia:
 
@@ -1340,7 +1346,7 @@ For the Federal Republic of Germany:
 
 Pour la République fédérale d'Allemagne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Ghana:
 
@@ -1350,7 +1356,7 @@ For the Republic of Guinea:
 
 Pour la République de Guinée:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Guinea-Bissau:
 
@@ -1360,7 +1366,7 @@ For the Hellenic Republic:
 
 Pour la République hellénique:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Hungary:
 
@@ -1378,7 +1384,7 @@ For Ireland:
 
 Pour l'Irlande:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Islamic Republic of Iran:
 
@@ -1396,7 +1402,7 @@ For the Hashemite Kingdom of Jordan:
 
 Pour le Royaume Hachémite de Jordanie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Kazakstan:
 
@@ -1440,7 +1446,7 @@ For the Grand Duchy of Luxemburg:
 
 Pour le Grand-Duché de Luxembourg:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the former Yugoslav Republic of Macedonia:
 
@@ -1458,7 +1464,7 @@ For the Republic of Mali:
 
 Pour la République du Mali:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Malta:
 
@@ -1480,13 +1486,13 @@ For the Principality of Monaco:
 
 Pour la Principauté de Monaco:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Kingdom of Morocco:
 
 Pour le Royaume du Maroc:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Mozambique:
 
@@ -1500,13 +1506,13 @@ For the Kingdom of the Netherlands:
 
 Pour le Royaume des Pays-Bas:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Niger:
 
 Pour la République du Niger:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Federal Republic of Nigeria:
 
@@ -1536,7 +1542,7 @@ For Romania:
 
 Pour la Roumanie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Russian Federation:
 
@@ -1562,7 +1568,7 @@ For the Republic of Senegal:
 
 Pour la République du Sénégal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Seychelles:
 
@@ -1588,19 +1594,19 @@ For the Republic of South Africa:
 
 Pour la République d'Afrique du Sud:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Kingdom of Spain:
 
 Pour le Royaume d'Espagne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Sudan:
 
 Pour la République du Soudan:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Kingdom of Swaziland:
 
@@ -1610,13 +1616,13 @@ For the Kingdom of Sweden:
 
 Pour le Royaume de Suède:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Swiss confederation:
 
 Pour la Confédération suisse:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Syrian Arab Republic:
 
@@ -1626,13 +1632,13 @@ For the United Republic of Tanzania:
 
 Pour la République Unie de Tanzanie:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Togo:
 
 Pour la République togolaise:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Tunisian Republic:
 
@@ -1654,7 +1660,7 @@ For Ukraine:
 
 Pour Ukraine:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Uzbekistan:
 
@@ -1664,7 +1670,7 @@ For the United Kingdom of Great Britain and Northern Ireland:
 
 Pour le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 For the Republic of Yemen:
 
@@ -1690,7 +1696,7 @@ For the European Community:
 
 Pour la Communauté européenne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 ACORDO PARA A CONSERVAÇÃO DAS AVES AQUÁTICAS MIGRADORAS AFRO-EUROASIÁTICAS
 
@@ -1716,9 +1722,7 @@ Reconhecendo que a implementação efectiva de um Acordo deste tipo requer que s
 
 acordaram no seguinte:
 
-Artigo I
-
-Âmbito, definições e interpretação
+###### Artigo I — Âmbito, definições e interpretação
 
 1 - O âmbito geográfico deste Acordo é a área abrangida pelas rotas migradoras das aves aquáticas afro-euroasiáticas, tal como definido no anexo n.º 1 deste Acordo, adiante designada como área do Acordo.
 
@@ -1742,17 +1746,13 @@ Para além disso, os termos definidos no artigo I, parágrafo 1, subparágrafos 
 
 4 - Os anexos constituem parte integrante deste Acordo. Qualquer referência ao Acordo inclui a referência aos seus anexos.
 
-Artigo II
-
-Princípios fundamentais
+###### Artigo II — Princípios fundamentais
 
 1 - As Partes deverão tomar medidas coordenadas para manter as espécies de aves aquáticas migradoras afro-euroasiáticas num estatuto de conservação favorável, ou recuperá-las para esse estatuto. Para tal deverão aplicar, dentro dos limites da sua jurisdição nacional, as medidas prescritas no artigo III juntamente com as acções específicas estabelecidas no plano de acção apresentado no artigo IV deste Acordo.
 
 2 - Ao implementarem as medidas prescritas no parágrafo anterior, as Partes deverão ter em consideração o princípio da precaução.
 
-Artigo III
-
-Medidas gerais de conservação
+###### Artigo III — Medidas gerais de conservação
 
 1 - As Partes deverão tomar medidas para conservar as aves aquáticas migradoras, prestando particular atenção às espécies ameaçadas, bem como às que tenham um estatuto de conservação desfavorável.
 
@@ -1782,9 +1782,7 @@ k) Trocar informações e resultados de programas de investigação, monitoriza�
 
 l) Cooperar com vista ao auxílio mútuo na implementação deste Acordo, particularmente em áreas de investigação e monitorização.
 
-Artigo IV
-
-Plano de acção e linhas de conservação
+###### Artigo IV — Plano de acção e linhas de conservação
 
 1 - O plano de acção é anexado como anexo n.º 3 a este Acordo. Especifica acções que as Partes deverão empreender em relação a espécies e assuntos prioritários, de acordo com os tópicos enunciados, e consistentes com as medidas gerais de conservação enunciadas no artigo III deste Acordo:
 
@@ -1806,9 +1804,7 @@ f) Implementação.
 
 4 - As linhas orientadoras de conservação deverão ser submetidas para adopção à primeira sessão da Conferência das Partes e deverão ser revistas regularmente.
 
-Artigo V
-
-Implementação e financiamento
+###### Artigo V — Implementação e financiamento
 
 1 - Cada Parte deverá:
 
@@ -1826,9 +1822,7 @@ b) As decisões relacionadas com o orçamento e quaisquer alterações à escala
 
 4 - As Partes são encorajadas a proporcionar formação e apoio técnico e financeiro a outras Partes, numa base multilateral ou bilateral, de forma a auxiliá-las na implementação das disposições deste Acordo.
 
-Artigo VI
-
-Conferência das Partes
+###### Artigo VI — Conferência das Partes
 
 1 - A Conferência das Partes deverá ser o órgão decisor deste Acordo.
 
@@ -1882,9 +1876,7 @@ e) Estabelecer os organismos subsidiários considerados necessários à implemen
 
 f) Decidir sobre outros assuntos relacionados com a implementação deste Acordo.
 
-Artigo VII
-
-Comité técnico
+###### Artigo VII — Comité técnico
 
 1 - O comité técnico deverá incluir:
 
@@ -1912,9 +1904,7 @@ d) Desempenhar quaisquer outras tarefas que lhe tenham sido remetidas pela Confe
 
 5 - O comité técnico pode estabelecer os grupos de trabalho considerados necessários para o desempenho de tarefas específicas.
 
-Artigo VIII
-
-Secretariado do Acordo
+###### Artigo VIII — Secretariado do Acordo
 
 As funções do secretariado do Acordo serão:
 
@@ -1940,9 +1930,7 @@ j) Fornecer ao público informação sobre o Acordo e os seus objectivos; e
 
 k) Desempenhar outras funções que lhe tenham sido confiadas pelo Acordo ou pela Conferência das Partes.
 
-Artigo IX
-
-Relações com organismos internacionais relacionados com aves aquáticas migradoras afro-euroasiáticas e seus habitats
+###### Artigo IX — Relações com organismos internacionais relacionados com aves aquáticas migradoras afro-euroasiáticas e seus habitats
 
 O secretariado do Acordo deverá consultar:
 
@@ -1952,9 +1940,7 @@ b) Os secretariados de outras convenções e instrumentos internacionais, em ass
 
 c) Outras organizações competentes no domínio da conservação, incluindo protecção e gestão de aves aquáticas migradoras afro-euroasiáticas e dos seus habitats, bem como nos domínios da investigação, educação e sensibilização pública.
 
-Artigo X
-
-Emendas ao Acordo
+###### Artigo X — Emendas ao Acordo
 
 1 - Este Acordo pode ser emendado em qualquer sessão ordinária ou extraordinária da Conferência das Partes.
 
@@ -1968,25 +1954,19 @@ Emendas ao Acordo
 
 6 - Durante o período de 90 dias consignado no parágrafo 5 deste artigo, qualquer Parte poderá, por notificação escrita endereçada ao Depositário, apresentar restrições relativas a um anexo adicional ou a uma emenda a um anexo. Tais restrições poderão ser retiradas em qualquer altura, mediante notificação por escrito ao Depositário, após o que o anexo adicional ou a emenda a um anexo entrará em vigor, para essa Parte, no 30.º dia após a data de retirada da restrição.
 
-Artigo XI
-
-Efeito deste Acordo em convenções e legislação internacionais
+###### Artigo XI — Efeito deste Acordo em convenções e legislação internacionais
 
 1 - As cláusulas deste Acordo não afectam os direitos e obrigações de cada Parte derivados de tratados internacionais, convenções ou acordos existentes.
 
 2 - As cláusulas deste Acordo não deverão, de forma alguma, afectar o direito de cada Parte a manter ou adoptar medidas rigorosas para a conservação das aves aquáticas migradoras afro-euroasiáticas e dos seus habitats.
 
-Artigo XII
-
-Resolução de conflitos
+###### Artigo XII — Resolução de conflitos
 
 1 - Qualquer discussão entre duas ou mais Partes relativa à interpretação ou aplicação das cláusulas deste Acordo será sujeita a negociação entre as Partes envolvidas na discussão.
 
 2 - Caso a discussão não possa ser resolvida de acordo com o estipulado no parágrafo 1 deste artigo, as Partes poderão, por consenso mútuo, submeter a discussão a uma arbitragem, em particular à do Tribunal Permanente de Arbitragem de Haia e, neste caso, as Partes envolvidas ficarão submetidas à decisão arbitral.
 
-Artigo XIII
-
-Assinatura, ratificação, aceitação, aprovação, adesão
+###### Artigo XIII — Assinatura, ratificação, aceitação, aprovação, adesão
 
 1 - Este Acordo estará aberto para assinatura por parte de qualquer Estado da área do Acordo, independentemente de existirem áreas sob sua jurisdição que se sobreponham à área do Acordo, ou por qualquer organização regional de integração económica em que pelo menos um dos seus membros seja um Estado da área do Acordo, por meio de:
 
@@ -2000,9 +1980,7 @@ b) Assinatura com restrições relativamente à ratificação, aceitação ou ap
 
 4 - Os instrumentos de ratificação, aceitação, aprovação ou adesão serão depositados junto do Depositário.
 
-Artigo XIV
-
-Entrada em vigor
+###### Artigo XIV — Entrada em vigor
 
 1 - Este Acordo entrará em vigor no 1.º dia do 3.º mês após, pelo menos, 14 Estados da área do Acordo ou organizações regionais de integração económica, compreendendo pelo menos 7 de África e 7 da Eurásia, terem assinado sem restrições relativamente à ratificação, aceitação ou aprovação, ou terem depositado os seus instrumentos de ratificação, aceitação ou aprovação, de acordo com o artigo XIII deste Acordo.
 
@@ -2016,21 +1994,15 @@ c) Aderido a
 
 este Acordo após a data em que o número de Estados da área do Acordo e organizações regionais de integração económica necessárias à sua entrada em vigor o tenham assinado sem restrições ou o tenham ratificado, aceite ou aprovado, o Acordo entrará em vigor no 1.º dia do 3.º mês após a assinatura sem restrições, ou depósito por esse Estado ou organização, dos seus instrumentos de ratificação, aceitação, aprovação ou adesão.
 
-Artigo XV
-
-Restrições
+###### Artigo XV — Restrições
 
 As cláusulas deste Acordo não estarão sujeitas a restrições gerais. No entanto, qualquer Estado ou organização regional de integração económica poderá introduzir uma restrição específica relativa a qualquer espécie contemplada pelo Acordo ou qualquer cláusula específica do plano de acção, no momento da assinatura sem restrições relativamente à ratificação, aceitação ou aprovação ou, dependendo da situação, no momento da deposição dos seus instrumentos de ratificação, aceitação, aprovação ou adesão. Esta restrição poderá ser retirada em qualquer altura pelo Estado ou organização regional de integração económica que a tenha apresentado por notificação escrita ao Depositário. Este Estado ou organização regional de integração económica só ficará obrigado pelas cláusulas que foram objecto da restrição 30 dias após a retirada da restrição.
 
-Artigo XVI
-
-Denúncia
+###### Artigo XVI — Denúncia
 
 Este Acordo poderá ser denunciado em qualquer altura e por qualquer Parte por meio de notificação escrita ao Depositário. A denúncia terá efeito 12 meses após a data da sua recepção pelo Depositário.
 
-Artigo XVII
-
-Depositário
+###### Artigo XVII — Depositário
 
 1 - A versão original deste Acordo, nas línguas árabe, francesa, inglesa e russa, será depositada junto do Depositário que será o Governo do Reino dos Países Baixos. O Depositário emitirá cópias certificadas destas versões a todos os Estados e organizações regionais de integração económica referidas no artigo XIII, parágrafo 1, deste Acordo, e ao secretariado do Acordo após a sua constituição.
 
@@ -2060,7 +2032,7 @@ O limite da área do Acordo é definido como: a partir do Pólo Norte, e para su
 
 ## ANEXO N.º 1-A — Mapa da área do Acordo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
 
 ## ANEXO N.º 2 — Espécies de aves aquáticas migradoras afro-euroasiáticas às quais se aplica o presente Acordo
 
@@ -2746,4 +2718,4 @@ Notas
 
 5 - Quando as espécies são referidas na tabela n.º 1 em categorias múltiplas, a sua inclusão refere-se somente às categorias listadas.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)](https://files.diariodarepublica.pt/1s/2003/08/190a00/51545188.pdf)

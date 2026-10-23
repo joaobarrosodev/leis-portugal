@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/62/2001/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/62-2001-621167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e97d398ffaac1afb8955ebfce5da0dfc33b953b65a5f3ead7c6e588e41b865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a99966bb0849e35cb05724667b0cd295f4630cef0a4eb1e2d0e7f20ac8769a22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Expulsão de Estrangeiros
-- Lisboa
-- Hungria
 - Admissão de Estrangeiros
-relationships: []
+- Convenção
+- Expulsão de Estrangeiros
+- Hungria
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:621170:por
+  label: "Ratificada, pelo DEC.52/2001.2001.10.06.PR,DR.IS-A [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/52-2001-621170
+  date: '2001-10-06'
 article_structure:
   article_count: 14
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:52Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 7 de Junho de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA HUNGRIA SOBRE READMISSÃO DE PESSOAS EM SITUAÇÃO IRREGULAR.
 
@@ -303,10 +308,10 @@ Feito em Lisboa, aos 27 de Janeiro de 2000, em dois exemplares, em português e 
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)
 
 Pela República da Hungria:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)
 
 [(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/2001/10/232a00/63386345.pdf)

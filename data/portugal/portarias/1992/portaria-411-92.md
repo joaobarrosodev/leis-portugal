@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/114b00/22482251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/411/1992/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1992-524646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 251b93cddd49cb3aa91e8b7cdf5563d31b772fde98ce832b2996cd9cbc0c73c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b93b8c884e9a1fbd8cc669d7335dcf08bf64e7225c3f57a874e2ebaf2b237bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
+- Comunicação Social
+- Comunicações
 - Financiamento
 - Formação Profissional
-- Jornalista
-- Comunicação Social
 - GAI
 - Imprensa
+- Jornalista
 - Porte PAGO
 - Presidência do Conselho de Ministros
-- Comunicações
 - Subsídio
 - Subsídio de Transporte
 relationships:
@@ -83,16 +83,43 @@ relationships:
   target: pt:dre:278974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610767:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:352877:por
+  label: "Rectificada pela DECL-RECT.91/92.1992.06.11.SG-PCM, DR.IS-B [148]2ºSupl de 30/Jun/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/91-1992-352877
+  date: '1992-06-11'
+- type: corrected_by
+  target: pt:dre:159145:por
+  label: "Rectificada pela DECL-RECT.145/92.1992.08.31.SG-PCM, DR.IS-B [200]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/145-1992-159145
+  date: '1992-08-31'
+- type: repealed_by
+  target: pt:dre:278974:por
+  label: "Revogada pela PORT.169-A/94.1994.03.24.PCM, DR.IS-B [70]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-a-1994-278974
+  date: '1994-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:29Z'
   warnings: []
   errors: []
 ---
@@ -295,7 +322,7 @@ b) Prestar as informações que, no âmbito das suas competências, lhe sejam so
 
 39.º A CTP é integrada pelos seguintes membros:
 
-**O secretário-geral-adjunto da Presidência do Conselho de Ministros, que preside;**
+O secretário-geral-adjunto da Presidência do Conselho de Ministros, que preside;
 
 O director do GAI;
 
@@ -341,6 +368,6 @@ F - Disposições finais e transitórias
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 12 de Maio de 1992.**
+Assinada em 12 de Maio de 1992.
 
 Pelo Ministro Adjunto, Amândio Santa Cruz Domingues Basto Oliveira, Subsecretário de Estado Adjunto do Ministro Adjunto. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado da Habitação, Carlos Alberto Pereira Silva Costa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05600/16631663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/2007/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2007-518578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94120bae2ee82e6de1f8d1cfe5072af45e057f1241442f6d545132569628620e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29969e23e612e8ac911dda2bfc1424ada01e12ada7dec255cd4c3f1fb0b64d8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,46 @@ reuse:
 subjects:
 - Agência de Turismo
 - Ajudas de Custo
-- Parlamentar
+- Assembleia da República
 - Deslocação em Serviço
 - Despesas de Deslocação
-- Assembleia da República
+- Parlamentar
 - Veículo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123407852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190272:por
+  label: "Alterado, a partir de 01.01.2013, o art. 17º da Res 57/2004, de 06-ago, na redação do presente diploma, pela RES.148/2012.27.12.2012.AR,\
+    \ DR.IS [250] de 27.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/148-2012-190272
+  date: '2012-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/57/2004/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/57/2004/08/06/p/dre
+- type: cites
+  target: pt:dre:515264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123407852:por
+  label: Revogada, no 1.º dia da XIV Legislatura (25.10.2019), a Res 57/2004 de 06-ago AR, na redação da presente Resolução,
+    pelo(a) Resolução da Assembleia da República n.º 113/2019 - Diário da República n.º 139/2019, Série I de 2019-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/113-2019-123407852
+  date: '2019-07-23'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:53Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +134,4 @@ Viagens e alojamento
 
 Aprovada em 8 de Março de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

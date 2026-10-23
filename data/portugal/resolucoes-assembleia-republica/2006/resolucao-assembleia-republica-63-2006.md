@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/63/2006/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/63-2006-545459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7ac41fda1e7fef3783f9698fcf15725f01b6358ff434acd54ce1d755fbd9660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1374fe890bda1f91831c31c63afdc211d824f6f30841f2e6d5939b46e05dd63e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Grupo Internacional de Estudo do Cobre
-- Convenção
-- Portugal
-- Lisboa
-- Cobre
-- Grupo Internacional de Estudos do Chumbo e Zinco
 - Chumbo
-- Zinco
+- Cobre
+- Convenção
+- Grupo Internacional de Estudo do Cobre
+- Grupo Internacional de Estudos do Chumbo e Zinco
 - Grupo Internacional de Estudos do Niquel
+- Lisboa
 - Níquel
+- Portugal
 - Sede
-relationships: []
+- Zinco
+relationships:
+- type: amended_by
+  target: pt:dre:545463:por
+  label: "Ratificado o Acordo de Sede entre a República Portuguesa e o Grupo Internacional de Estudos do Cobre, o Grupo Internacional\
+    \ de Estudos do Chumbo e Zinco e o Grupo Internacional de Estudos do Níquel, aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.122/2006.06.12.2006.PR, DR.IS [234] de 06.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/122-2006-545463
+  date: '2006-12-06'
 article_structure:
   article_count: 26
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:30Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +107,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE SEDE ENTRE A REPÚBLICA PORTUGUESA E O GRUPO INTERNACIONAL DE ESTUDOS DO COBRE, O GRUPO INTERNACIONAL DE ESTUDOS DO CHUMBO E ZINCO E O GRUPO INTERNACIONAL DE ESTUDOS DO NÍQUEL.
 
 A República Portuguesa, o Grupo Internacional de Estudos do Cobre, o Grupo Internacional de Estudos do Chumbo e Zinco e o Grupo Internacional de Estudos do Níquel, doravante designados «as Partes», com o objectivo de definir o estatuto, os privilégios e as imunidades de cada Grupo e das pessoas a eles vinculadas, acordam o seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Definições
 
@@ -136,7 +143,7 @@ O presente Acordo tem por finalidade proporcionar a cada um dos Grupos todas as 
 
 Cada Grupo possui personalidade jurídica individual e separada e tem capacidade jurídica individual e separada, em especial, para contratar, adquirir e dispor de bens imóveis e móveis, bem como para instaurar processos legais.
 
-# PARTE II — Sede
+## PARTE II — Sede
 
 ###### Artigo 4.º — Inviolabilidade das instalações e arquivos dos Grupos
 
@@ -178,7 +185,7 @@ c) Da utilização de todos os serviços comuns do prédio, incluindo medidas co
 
 Cada Grupo tem o direito de utilizar a sua bandeira e símbolo nas suas instalações e veículos e outros meios de transporte usados para fins oficiais.
 
-# PARTE III — Imunidades e privilégios de cada Grupo
+## PARTE III — Imunidades e privilégios de cada Grupo
 
 ###### Artigo 7.º — Imunidade de jurisdição e de execução
 
@@ -242,7 +249,7 @@ b) Cada Grupo poderá transferir livremente os seus fundos, divisas ou valores m
 
 2 - Cada Grupo beneficiará de isenção do imposto do selo sobre operações bancárias.
 
-# PARTE IV — Imunidades e privilégios dos representantes, funcionários do Secretariado e peritos
+## PARTE IV — Imunidades e privilégios dos representantes, funcionários do Secretariado e peritos
 
 ###### Artigo 15.º — Representantes
 
@@ -324,7 +331,7 @@ As alíneas a), b) e c) do n.º 1 do artigo 15.º aplicam-se aos peritos que nã
 
 3 - O direito de o Governo tomar todas as medidas preventivas necessárias em conformidade com o direito internacional para garantir a segurança nacional não será prejudicado por qualquer disposição deste Acordo.
 
-# PARTE V — Resolução de diferendos
+## PARTE V — Resolução de diferendos
 
 ###### Artigo 21.º — Resolução de diferendos com terceiros
 
@@ -356,7 +363,7 @@ c) Envolva qualquer funcionário do Secretariado ou perito de qualquer Grupo, qu
 
 7 - O tribunal arbitral, que decidirá por maioria de votos, decidirá com base nas disposições do presente Acordo e das normas de direito internacional aplicáveis. A decisão do tribunal arbitral será final e vinculativa para as Partes.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 24.º — Entrada em vigor
 
@@ -382,19 +389,19 @@ Feito em Lisboa, aos 17 dias do mês de Novembro de 2005, nas línguas portugues
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 Pelo Grupo Internacional de Estudos do Cobre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 Pelo Grupo Internacional de Estudos do Chumbo e Zinco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 Pelo Grupo Internacional de Estudos do Níquel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 HEADQUARTERS AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE INTERNATIONAL COPPER STUDY GROUP, THE INTERNATIONAL LEAD AND ZINC STUDY GROUP AND THE INTERNATIONAL NICKEL STUDY GROUP.
 
@@ -740,16 +747,16 @@ Done in Lisbon, on the 17th of November of 2005, in Portuguese and English, both
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 For the International Copper Study Group:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 For the International Lead and Zinc Study Group:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
 
 For the International Nickel Study Group:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23400/82268235.pdf)

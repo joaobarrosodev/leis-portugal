@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/18/1998/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-1998-176030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97ad1e6eebbfb813467c0101346dbb2e48753b6ec12fa5411c0617a1b6d84e08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90c0283688cc7dcc0c67ec2cf7965a6c2d0d395f580599417284031f205f3ac8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,37 @@ reuse:
 subjects:
 - Acordo CE
 - CE Países
-- Direitos do Homem
+- Chile
 - Comunidade Europeia
 - Convenção
 - Cooperação
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Florença
-- Organização Mundial do Comércio
-- Chile
 - Cooperação Científica
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
+- Cooperação Técnica
 - Dados Pessoais
-relationships: []
+- Direitos do Homem
+- Florença
+- Organização Mundial do Comércio
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:176033:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.14/98.1998.04.23.PR DR.IS-A [95] de\
+    \ 23/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-1998-176033
+  date: '1998-04-23'
 article_structure:
   article_count: 44
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:32Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +112,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 19 de Fevereiro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO QUADRO DE COOPERAÇÃO DESTINADO A PREPARAR, COMO OBJECTIVO FINAL, UMA ASSOCIAÇÃO DE CARÁCTER POLÍTICO E ECONÓMICO ENTRE, POR UM LADO, A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS E, POR OUTRO, A REPÚBLICA DO CHILE.
 
@@ -694,7 +700,7 @@ O presente Acordo é redigido em duplo exemplar nas línguas alemã, dinamarques
 
 Feito em Florença em 21 de Junho de 1996.
 
-[(ver assinaturas e fecho no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)
+[[(ver assinaturas e fecho no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)
 
 ## ANEXO N.º 1 — Declaração conjunta relativa ao diálogo político entre a União Europeia e o Chile
 
@@ -754,4 +760,4 @@ Declaração conjunta relativa à cooperação económica inter-regional
 
 Feito em Florença em 21 de Junho de 1996.
 
-[(ver assinaturas e fecho no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)
+[[(ver assinaturas e fecho no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18001811.pdf)

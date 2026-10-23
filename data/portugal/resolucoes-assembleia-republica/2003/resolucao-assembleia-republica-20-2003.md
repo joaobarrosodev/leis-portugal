@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/20/2003/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2003-221330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74f545af2657b5188f7c3b718e6062a3211b4503312903040814ba00c285fc81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2de5dd0bc026c422d38ed17d3911414f7e28b32d001fabb9d815293846ff3d00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Helsinborg
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Helsinborg
+- Imposto sobre o Rendimento
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:221340:por
+  label: "Ratificada a Convenção pelo DEC.18/2003.2003.03.11.PR DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-2003-221340
+  date: '2003-03-11'
+- type: amended_by
+  target: pt:dre:178478633:por
+  label: Tornado público ter sido recebida comunicação de denúncia, com efeitos a 01.01.2022, por parte do Reino da Suécia,
+    da Convenção entre a República Portuguesa e o Reino da Suécia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal
+    em Matéria de Impostos sobre o Rendimento, aprovada pelo presente diploma e ratificada pelo Dec 18/2003 de 11-mar do PR,
+    pelo(a) Aviso n.º 2/2022 - Diário da República n.º 22/2022, Série I de 2022-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2-2022-178478633
+  date: '2022-02-01'
 - type: cites
   target: celex:31990L0435
   label: null
@@ -80,13 +93,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:59Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +112,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Dezembro de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E O REINO DA SUÉCIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -541,11 +554,11 @@ Feito em duplicado, em Helsinborg, aos 29 dias do mês de Agosto de 2002, nas l�
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
 Pelo Reino da Suécia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
 PROTOCOLO
 
@@ -583,11 +596,11 @@ Feito em duplicado, em Helsinborg, aos 29 dias do mês de Agosto de 2002, nas l�
 
 Pela República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
 Pelo Reino da Suécia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
 [(ver texto em língua sueca no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
@@ -1131,8 +1144,8 @@ Done at Helsinborg this 29 th day of August 2002, in duplicate in the Portuguese
 
 For the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
 
 For the Kingdom of Sweden:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)
+[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)](https://files.diariodarepublica.pt/1s/2003/03/059a00/16871713.pdf)

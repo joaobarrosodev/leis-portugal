@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/1994/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1994-274034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7ec8f057dee9b602f1c6a40b29708d8e1b44e3b3d39eca1cb8d189e477ed5bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 462c659b02234721c9ba4d607f9f54a6bd530b6ac0348f835d19dc3f98a34522
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:53Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +100,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 2 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 DECISÃO DO CONSELHO, DE 1 DE FEVEREIRO DE 1993, QUE ALTERA O ACTO RELATIVO À ELEIÇÃO DOS REPRESENTANTES AO PARLAMENTO EUROPEU, POR SUFRÁGIO UNIVERSAL DIRECTO, ANEXO À DECISÃO ([76/787/CECA](http://data.europa.eu/eli/dec/1976/787/oj?locale=pt), CEE, EURATOM) DO CONSELHO, DE 20 DE SETEMBRO DE 1976.
 
@@ -120,7 +120,7 @@ Pretendendo dar execução às conclusões do Conselho Europeu de Edimburgo de 1
 
 O artigo 2.º do Acto Relativo à Eleição dos Representantes ao Parlamento Europeu, por sufrágio universal directo, anexo à Decisão ([76/787/CECA](http://data.europa.eu/eli/dec/1976/787/oj?locale=pt), CEE, EURATOM) do Conselho, de 20 de Setembro de 1976, com a última redacção que lhe foi dada pelo artigo 10.º do Acto de Adesão de Espanha e de Portugal às Comunidades Europeias, passa a ter a seguinte redacção:
 
-###### Art. 2.º O número de representantes eleitos em cada Estado membro é fixado da seguinte forma:
+Art. 2.º O número de representantes eleitos em cada Estado membro é fixado da seguinte forma:
 
 Bélgica ... 25
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/970/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/970-1991-301615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4036cd1a544145723eded10b6d017ae6368f03452f4fe9dbf221c1dcfd0756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243730fb68fd8070ad547b0d06f6573011cfc7b16f1399adacec60c63891873d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Gestão Hoteleira
 - Escola Superior de Gestão Hotelaria e Turismo
 - Faro
 - Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:225995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225995:por
+  label: "Aditado um n.º 1.º-A, pela PORT.971/92.12.10.1992.ME, DR.IS-B [235] de 12.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/971-1992-225995
+  date: '1992-10-12'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:29Z'
   warnings: []
   errors: []
 ---
@@ -169,8 +182,8 @@ O curso referido no n.º 1.º entre em funcionamento progressivamente, um ano cu
 
 Ministério da Educação.
 
-**Assinada em 29 de Agosto de 1991.**
+Assinada em 29 de Agosto de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/217b00/49934994.pdf))](https://files.diariodarepublica.pt/1s/1991/09/217b00/49934994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/217b00/49934994.pdf)

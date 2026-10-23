@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/1994/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1994-301456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d86bc7f3d9cb20d8e5206503bc7280882211dcf9f3847bd65ac0fc03f3a8f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a350dbf1aa27ff07cd14aa1a90867a574c4e7e9702be8313079e61f971c0c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Europa
 - Florença
 - Instituto Universitário Europeu
-relationships: []
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:618746:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:12Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO DE REVISÃO DA CONVENÇÃO QUE CRIA UM INSTITUTO UNIVERSITÁRIO EUROPEU
 
@@ -107,11 +111,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Sr.ª Ellen Hansen, representante do Governo no Conselho Superior do Instituto Universitário Europeu;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Sr. Konrad Seitz, embaixador da República Federal da Alemanha em Roma;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Sr. George Contogiorgis, representante do Governo no Conselho Superior do Instituto Universitário Europeu;
 
@@ -119,15 +123,15 @@ Sua Majestade o Rei de Espanha:
 
 Sr. Delfin Colomé, director-geral das Relações Culturais e Científicas;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Sr. André Baeyens, delegado junto do director-geral das Relações Culturais, Científicas e Técnicas;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Sr. Sean Nolan, representante do Governo no Conselho Superior do Instituto Universitário Europeu;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Sr. Bruno Bottai, secretário-geral do Ministério dos Negócios Estrangeiros;
 
@@ -139,7 +143,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 Sr. W. L. C. H. M. Van Den Berg, representante do Governo no Conselho Superior do Instituto Universitário Europeu;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Sr. Armando Marques Guedes, representante do Governo no Conselho Superior do Instituto Universitário Europeu;
 
@@ -183,7 +187,7 @@ O n.º 3 do artigo 7.º passa a ter a seguinte redacção:
 
 3 - O presidente do Instituto é escolhido pelo Conselho Superior após consulta do Conselho Académico. As modalidades de cooperação entre o Conselho Superior e o Conselho Académico com vista à preparação desta decisão são determinadas por unanimidade pelo Conselho Superior, após parecer do Conselho Académico.
 
-**O presidente é nomeado por cinco anos. O Conselho Superior, após parecer do Conselho Académico, pode deliberar, por unanimidade, prolongar o seu mandato por um período máximo de três anos.**
+O presidente é nomeado por cinco anos. O Conselho Superior, após parecer do Conselho Académico, pode deliberar, por unanimidade, prolongar o seu mandato por um período máximo de três anos.
 
 As disposições regulamentares previstas na alínea a) do n.º 5 do artigo 6.º estabelecerão as condições em que o contrato poderá ser rescindido no decurso do mandato, por iniciativa do presidente ou do Instituto.
 
@@ -301,11 +305,11 @@ Entra em vigor no primeiro dia do mês seguinte ao da data da recepção pelo Go
 
 A Convenção, redigida em exemplares únicos nas línguas alemã, inglesa, dinamarquesa, espanhola, francesa, grega, irlandesa, italiana, neerlandesa e portuguesa, cada um dos quais faz fé, é depositada nos arquivos do Governo da República Italiana, que remeterá uma cópia autenticada a cada um dos Governos dos outros Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf))](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no final da presente Convenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf))](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
 
 Feito em Florença, em dezoito de Junho de mil novecentos e noventa e dois e em dezassete de Setembro de mil novecentos e noventa e dois.
 
@@ -323,7 +327,7 @@ Für den Präsidenten der Bundesrepublik Deutschland:
 
 Konrad Seitz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf))](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/128a00/29262929.pdf)
 
 George Contogiorgis.
 

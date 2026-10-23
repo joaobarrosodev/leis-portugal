@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1126/1992/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1126-1992-616379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb08972ad60c481f84a66b53326a964debcf93f595a6dfa51080809418b2046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4cce34d595c67680db6f8b0c91b126289b4b5844d6b1a97176f058538f56216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Histocompatibilidade do Centro
-- Pessoal de Saúde
 - Centro de Histocompatibilidade do Norte
 - Centro de Histocompatibilidade do SUL
+- Pessoal de Saúde
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:287382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666535:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:30Z'
   warnings: []
   errors: []
 ---
@@ -110,18 +130,18 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Novembro de 1992.**
+Assinada em 2 de Novembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO I — Quadro de pessoal do Centro de Histocompatibilidade do Centro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf))](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)
 
 ## ANEXO II — Quadro de pessoal do Centro de Histocompatibilidade do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf))](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)
 
 ## ANEXO III — Quadro de pessoal do Centro de Histocompatibilidade do Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf))](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56505651.pdf)

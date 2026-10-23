@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 66/1991, 1º Suplemento, Série I-A de 1991-03-20
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1466-(2) a 1466-(40)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9-a/1991/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-a-1991-181384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84417c1be7105bfece046e0ac5b23cedcb3ce40d0dc1d8ceb9988af0740934c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de941d530b51c10d0eb08b00e4e24ab63d92fffc6b2ded2c850ed5e8977a89d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,42 @@ reuse:
 subjects:
 - Banco Europeu de Reconstrução e Desenvolvimento
 - Convenção
-- Portugal
 - Iniciativa Privada
 - Integração Económica
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:178535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:349160:por
+  label: "Aprovada para ratificação a alteração ao art. 1º do Acordo Constitutivo do Banco Europeu para a Reconstrução e Desenvolvimento,\
+    \ aprovado para ratificação pelo presente diploma, pela RES.84/2004.09.12.2004.AR, DR.IS-A [303] de 29.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/84-2004-349160
+  date: '2004-12-09'
+- type: amended_by
+  target: pt:dre:596316:por
+  label: "Aprovada para ratificação a alteração ao art. 1º do Acordo Constitutivo do Banco Europeu para a Reconstrução e Desenvolvimento,\
+    \ aprovado para ratificação pelo presente diploma, pela RES.2/2005.09.12.2004.AR, DR.IS-A [31] de 14.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/2-2005-596316
+  date: '2004-12-09'
+- type: amended_by
+  target: pt:dre:178535:por
+  label: "Aprovadas, para ratificação, as emendas ao art. 1.º e art. 18.º do Acordo Constitutivo do Banco Europeu para a Reconstrução\
+    \ e Desenvolvimento (BERD), pela RES.83/2012.29.06.2012.AR, DR.IS [125] de 29.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/83-2012-178535
+  date: '2012-06-29'
 article_structure:
   article_count: 63
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:57Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +115,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 7 de Março de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT
 
@@ -987,7 +1005,7 @@ ANNEX A
 
 Initial subscriptions to the authorized capital stock for prospective members which may become members in accordance with article 61.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf))](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf)
 
 ANNEX B
 
@@ -1319,7 +1337,7 @@ X - Disposições finais.
 
 ## Anexo A.
 
-## Anexo B.
+Anexo B.
 
 As Partes Contratantes:
 
@@ -2033,11 +2051,13 @@ Feito em Paris em 29 de Maio de 1990, num único original, cujas versões nas l�
 
 Subscrições iniciais do capital social autorizado para os membros potenciais (ver nota *), que poderão tornar-se membros em conformidade com o disposto no artigo 61.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf))](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/066a01/00020040.pdf)
 
 (nota *) Os membros potenciais são classificados nas categorias acima referidas exclusivamente para efeitos do presente Acordo. Nas outras disposições do presente Acordo, os países beneficiários figuram sob o nome de países da Europa Central e Oriental.
 
-## ANEXO B — SECÇÃO A
+## ANEXO B
+
+#### SECÇÃO A
 
 Eleição dos administradores pelos governadores que representam a República Federal da Alemanha, a Bélgica, a Dinamarca, a Espanha, a França, a Grécia, a Irlanda, a Itália, o Luxemburgo, os Países Baixos, Portugal, o Reino Unido, a Comunidade Económica Europeia e o Banco Europeu de Investimento (adiante denominados «governadores da secção A»).
 
@@ -2067,7 +2087,7 @@ b) Os governadores cujos votos numa pessoa eleita forem considerados, nos termos
 
 #### SECÇÃO B — Eleição dos administradores pelos governadores que representam outros países
 
-#### Secção B (i). - Eleição dos administradores pelos governadores que representam os países enumerados no anexo A na categoria países da Europa Central e Oriental países beneficiários) [adiante denominados «governadores da secção B (i)»].
+Secção B (i). - Eleição dos administradores pelos governadores que representam os países enumerados no anexo A na categoria países da Europa Central e Oriental países beneficiários) [adiante denominados «governadores da secção B (i)»].
 
 1 - As disposições da presente secção aplicam-se exclusivamente a esta secção.
 
@@ -2093,7 +2113,7 @@ b) Os governadores cujos votos numa pessoa eleita forem considerados, nos termos
 
 10 - Enquanto qualquer signatário ou grupo de signatários cuja quota do montante total do capital subscrito, definida no anexo A, seja superior a 2,8%, não tiver depositado o seu instrumento de ratificação, aprovação ou aceitação, não será eleito qualquer administrador em representação do referido signatário ou grupo de signatários. O governador ou os governadores que representem tal signatário ou grupo de signatários elegerão um administrador para cada signatário ou grupo de signatários, logo que o signatário ou grupo de signatários se torne(m) membro(s). Este administrador será considerado como tendo sido eleito pelo conselho de governadores na reunião inaugural, nos termos do n.º 3 do artigo 26.º do presente acordo, caso seja eleito durante o período em que o primeiro conselho de adminstração exercer o cargo.
 
-#### Secção B (ii). - Eleição dos administradores pelos governadores que representam os países enumerados no anexo A na categoria outros países europeus [adiante denominados «governadores da secção B (ii)»].
+Secção B (ii). - Eleição dos administradores pelos governadores que representam os países enumerados no anexo A na categoria outros países europeus [adiante denominados «governadores da secção B (ii)»].
 
 1 - As disposições da presente secção aplicam-se exclusivamente a esta secção.
 
@@ -2119,7 +2139,7 @@ b) Os governadores cujos votos numa pessoa eleita forem considerados, nos termos
 
 10 - Enquanto qualquer signatário ou grupo de signatários cuja quota do montante total do capital subscrito, definida no anexo A, seja superior a 2,8% não tiver depositado o seu instrumento de ratificação, aprovação ou aceitação, não será eleito qualquer administrador em representação do referido signatário ou grupo de signatários. O governador ou os governadores que representem tal signatário ou grupo de signatários elegerão um administrador para cada signatário ou grupo de signatários, logo que o signatário ou grupo de signatários se torne(m) membro(s). Este administrador será considerado como tendo sido eleito pelo conselho de governadores na reunião inaugural, nos termos do n.º 3 artigo 26.º do presente Acordo, caso seja eleito durante o período em que o primeiro conselho de administração exercer o cargo.
 
-#### Secção B (iii). - Eleição dos administradores pelos governadores que representem os países enumerados no anexo A na categoria países não europeus [adiante denominados «governadores da secção B (iii)»].
+Secção B (iii). - Eleição dos administradores pelos governadores que representem os países enumerados no anexo A na categoria países não europeus [adiante denominados «governadores da secção B (iii)»].
 
 1 - As disposições da presente secção aplicam-se exclusivamente a esta secção.
 

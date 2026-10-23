@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25/2000/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-2000-506404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cdf6758a851b6251ca727eb01f0e1b76d163df9c65f60ebf686e618be805d1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3256e77de9903cc3394b9c1a01551b5b0fde45ed86e41bba7f97a4a3fcfe0c21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
+- Conselho da Europa
 - Convenção
-- Portugal
+- Ensino Superior
+- Equivalência de Diplomas
 - Equivalência de Habilitações Literárias
 - Lisboa
-- Conselho da Europa
+- Portugal
 - Qualificação Profissional
-- Equivalência de Diplomas
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:116068879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506411:por
+  label: "Ratificada a Convenção pelo DEC.12/2000.2000.03.10.PR DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2000-506411
+  date: '2000-03-10'
 article_structure:
-  article_count: 0
+  article_count: 47
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:04Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 2 de Dezembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION SUR LA RECONNAISSANCE DES QUALIFICATIONS RELATIVES À L'ENSEIGNEMENT SUPÉRIEUR DANS LA RÉGION EUROPÉENNE.
 
@@ -1112,7 +1117,7 @@ acordaram no que se segue:
 
 #### SECÇÃO I — Definições
 
-Artigo I.1
+###### Artigo I.1
 
 Para os fins de aplicação da presente Convenção, os termos abaixo mencionados designarão o seguinte:
 
@@ -1150,7 +1155,7 @@ B) «Condições específicas» condições que devem ser preenchidas para além
 
 #### SECÇÃO II — Competência das autoridades
 
-Artigo II.1
+###### Artigo II.1
 
 1 - Sempre que as autoridades centrais de uma Parte tenham competência para decidir questões de reconhecimento, essa Parte ficará imediatamente vinculada pelas disposições da presente Convenção e tomará as medidas necessárias para assegurar a aplicação destas disposições no seu território.
 
@@ -1160,27 +1165,27 @@ Sempre que se tratar de entidades constituintes da Parte com competência para d
 
 3 - As disposições dos parágrafos 1 e 2 deste artigo aplicar-se-ão mutatis mutandis às obrigações das Partes em virtude dos artigos seguintes da presente Convenção.
 
-Artigo II.2
+###### Artigo II.2
 
 No acto da assinatura ou do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão ou em qualquer outro momento posterior, cada Estado, a Santa Sé e a Comunidade Europeia informará, junto de um dos depositários da presente Convenção, quais as autoridades competentes para tomar os diferentes tipos de decisão em matéria de reconhecimento.
 
-Artigo II.3
+###### Artigo II.3
 
 Nenhuma disposição da presente Convenção poderá ser considerada derrogante das disposições mais favoráveis relativas ao reconhecimento de qualificações conferidas numa das Partes, já contempladas em tratado existente ou futuro, ou que resultem deste e de que a Parte na presente Convenção poderá vir a ser parte.
 
 #### SECÇÃO III — Princípios fundamentais para a avaliação das qualificações
 
-Artigo III.1
+###### Artigo III.1
 
 1 - Os titulares de qualificações conferidas numa das Partes têm direito à avaliação quando o seu pedido for solicitado ao organismo competente em matéria de reconhecimento.
 
 2 - Nenhuma discriminação será feita com base, nomeadamente, no sexo, raça, cor, deficiência, língua, religião, convicções políticas ou qualquer outra, nacionalidade, etnia ou condição social dos requerentes ou pelo facto de pertencerem a uma minoria étnica, pela sua condição económica ou ascendência ou qualquer outra situação ou circunstância que não tenha a ver com o valor da qualificação cujo reconhecimento foi solicitado. A fim de assegurar este direito, cada Parte compromete-se a tomar as disposições necessárias para avaliar um pedido de reconhecimento de qualificações, tendo exclusivamente em consideração os conhecimentos e competências adquiridos.
 
-Artigo III.2
+###### Artigo III.2
 
 Cada Parte zelará por que as práticas e critérios utilizados na avaliação e no reconhecimento das qualificações sejam transparentes, coerentes e fiáveis.
 
-Artigo III.3
+###### Artigo III.3
 
 1 - As decisões de reconhecimento serão tomadas com base em informações relevantes relativas às qualificações para as quais o reconhecimento é pedido.
 
@@ -1192,63 +1197,63 @@ Artigo III.3
 
 5 - Incumbe ao organismo responsável pela avaliação demonstrar que um pedido de reconhecimento não preenche as condições exigidas.
 
-Artigo III.4
+###### Artigo III.4
 
 Com o fim de facilitar o reconhecimento das qualificações, cada Parte deve fornecer as informações necessárias, de forma clara e precisa, sobre o respectivo sistema de ensino.
 
-Artigo III.5
+###### Artigo III.5
 
 As decisões sobre o reconhecimento serão tomadas num prazo razoável, previamente estabelecido pela autoridade competente em matéria de reconhecimento, a contar do momento em que toda a informação necessária para análise do pedido tenha sido fornecida. Em caso de decisão negativa, os motivos de recusa serão enumerados e o requerente será informado das medidas que poderá tomar com o objectivo de obter o reconhecimento num momento posterior. Em caso de recusa ou de falta de decisão, o requerente deverá ter a possibilidade de poder recorrer da decisão num prazo razoável.
 
 #### SECÇÃO IV — Reconhecimento das qualificações que dão acesso ao ensino superior
 
-Artigo IV.1
+###### Artigo IV.1
 
 Cada Parte reconhece, com o objectivo de aceder aos programas do seu sistema de ensino superior, as qualificações concedidas pelas outras Partes e que satisfaçam nessas Partes às condições gerais de acesso ao ensino superior, a menos que possam demonstrar que existe uma diferença substancial entre as condições gerais de acesso na Parte em que a qualificação foi obtida e na Parte em que o reconhecimento da qualificação é solicitado.
 
-Artigo IV.2
+###### Artigo IV.2
 
 Por outro lado, é suficiente que uma Parte permita ao titular de uma qualificação conferida numa outra Parte obter uma avaliação dessa qualificação a pedido de requerente, aplicando-se neste caso, mutatis mutandis, as disposições do artigo IV.1.
 
-Artigo IV.3
+###### Artigo IV.3
 
 Sempre que uma qualificação não der acesso a certos tipos de instituição ou de programas específicos de ensino superior na Parte em que foi obtida, qualquer das outras Partes garantirá aos titulares de uma tal qualificação a possibilidade de acesso a programas específicos similares do seu sistema de ensino superior, a menos que se possa provar que há uma diferença substancial entre as condições de acesso na Parte onde a qualificação foi obtida e na Parte onde é pedido o reconhecimento.
 
-Artigo IV.4
+###### Artigo IV.4
 
 Sempre que a admissão a programas determinados de ensino superior depender de condições específicas de acesso, para além das condições gerais de acesso, as autoridades competentes da Parte que analisam o pedido podem exigir esses mesmos requisitos complementares aos titulares de qualificações obtidas nas outras Partes ou avaliar se os candidatos com qualificações obtidas nas outras Partes preenchem condições equivalentes de acesso.
 
-Artigo IV.5
+###### Artigo IV.5
 
 Sempre que o certificado de fim de estudos secundários, obtido numa Parte, facultar o acesso ao ensino superior, apenas em combinação com exames de qualificações complementares, como um pré-requisito de acesso, as outras 'Partes podem condicionar o acesso ao preenchimento desses requisitos, proporcionar uma alternativa que satisfaça a tais requisitos, ou proporcionar uma alternativa que satisfaça a tais requisitos complementares nos respectivos sistemas educativos. Cada Estado, a Santa Sé e a Comunidade Europeia podem, no acto de assinatura ou no momento de depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão ou em qualquer momento posterior, notificar um dos depositários de que porá em prática o disposto no presente artigo, indicando as Partes relativamente às quais pretende aplicar este artigo, bem como o motivo.
 
-Artigo IV.6
+###### Artigo IV.6
 
 Sem prejuízo do disposto nos artigos IV.1, IV.2, IV.3, IV.4 e IV.5, a admissão a uma determinada instituição de ensino superior, ou a um determinado programa dessa instituição, pode ser limitativa ou selectiva. Nos casos em que for selectiva, as práticas de admissão deverão ser estabelecidas de forma a assegurar que a avaliação das qualificações estrangeiras se processe de acordo com os princípios de equidade e não discriminação referidos na secção III.
 
-Artigo IV.7
+###### Artigo IV.7
 
 Sem prejuízo do disposto nos artigos IV.1, IV.2, IV.3, IV.4 e IV.5, a admissão a uma determinada instituição de ensino superior ou a um determinado programa dessa instituição pode ser condicionada a uma comprovação, pelo candidato, de domínio suficiente da língua ou línguas de ensino da instituição em causa ou de outras línguas.
 
-Artigo IV.8
+###### Artigo IV.8
 
 Nas Partes em que o acesso ao ensino superior se processa com base em qualificações não tradicionais, qualificações similares obtidas noutras Partes serão avaliadas do mesmo modo que as qualificações não tradicionais obtidas na Parte em que se faz o pedido de reconhecimento.
 
-Artigo IV.9
+###### Artigo IV.9
 
 Para efeitos de admissão a programas de ensino superior, cada Parte pode condicionar o reconhecimento de qualificações conferidas por instituições de ensino superior estrangeiras situadas no seu território a requisitos específicos de acordo com legislação nacional em vigor ou acordos específicos que hajam sido celebrados com a Parte de origem dessas instituições.
 
 #### SECÇÃO V — Reconhecimento de períodos de estudo
 
-Artigo V.1
+###### Artigo V.1
 
 Cada Parte reconhece os períodos de estudo realizados no âmbito de um programa de ensino superior numa outra Parte. Este reconhecimento abrange os períodos de estudo realizados com o objectivo de completar um programa de ensino superior na Parte onde o reconhecimento foi pedido, a menos que se possa demonstrar a existência de uma diferença substancial entre os períodos de estudo realizados na outra Parte e a parte do programa de ensino superior que eles substituírem na Parte onde o reconhecimento é pedido.
 
-Artigo V.2
+###### Artigo V.2
 
 Por outro lado, é suficiente que uma Parte permita a uma pessoa que tenha completado um período de estudos no âmbito de um programa de ensino superior de uma outra Parte obter uma avaliação desse período de estudos, a pedido da pessoa em questão, aplicando-se, mutatis mutandis, as disposições do artigo V.1 neste caso.
 
-Artigo V.3
+###### Artigo V.3
 
 Cada Parte deve facilitar o reconhecimento dos períodos de estudo nas seguintes condições:
 
@@ -1258,15 +1263,15 @@ b) A instituição de ensino superior onde o período de estudos foi realizado t
 
 #### SECÇÃO VI — Reconhecimento de qualificações de ensino superior
 
-Artigo VI.1
+###### Artigo VI.1
 
 Na medida em que a decisão de reconhecimento se baseia no conhecimento e na competência sancionados por qualificações de ensino superior, cada Parte reconhecerá as qualificações de ensino superior conferidas numa outra Parte, a menos que se possa demonstrar a existência de uma diferença substancial entre a qualificação para a qual o reconhecimento é solicitado e a qualificação correspondente na outra Parte.
 
-Artigo VI.2
+###### Artigo VI.2
 
 Por outro lado, é suficiente que uma Parte permita ao titular de uma qualificação emitida numa das Partes obter uma avaliação dessa qualificação a pedido do titular aplicando-se, mutatis mutandis, as disposições do artigo VI.1 neste caso.
 
-Artigo VI.3
+###### Artigo VI.3
 
 O reconhecimento numa Parte de uma qualificação de ensino superior conferida noutra Parte implicará uma das seguintes consequências, ou ambas:
 
@@ -1276,7 +1281,7 @@ b) O uso de um título académico, de acordo com as leis e regulamentações da 
 
 Por outro lado, o reconhecimento pode facilitar o acesso ao mercado de trabalho de acordo com as leis e regulamentos da Parte ou da jurisdição da Parte onde o reconhecimento é solicitado.
 
-Artigo VI.4
+###### Artigo VI.4
 
 A avaliação de uma qualificação superior numa Parte conferida numa outra Parte pode apresentar-se como:
 
@@ -1286,7 +1291,7 @@ b) Uma recomendação para fins de admissão a um, programa de estudos numa dete
 
 c) Uma recomendação a qualquer outra autoridade competente em matéria de reconhecimento.
 
-Artigo VI.5
+###### Artigo VI.5
 
 Cada Parte pode condicionar o reconhecimento de qualificações de ensino superior, conferidas por instituições de ensino estrangeiras situadas no seu território, a requisitos específicos de acordo com a legislação nacional em vigor ou com acordos específicos celebrados com a Parte de origem dessas instituições.
 
@@ -1294,13 +1299,13 @@ Cada Parte pode condicionar o reconhecimento de qualificações de ensino superi
 
 Reconhecimento de qualificações apresentadas por refugiados, pessoas deslocadas e pessoas com estatuto idêntico ao de refugiado.
 
-Artigo VII
+###### Artigo VII
 
 Cada Parte deverá tomar todas as medidas possíveis e razoáveis no âmbito do sistema educativo, e em conformidade com as suas disposições constitucionais, legais e administrativas, com vista a elaborar procedimentos adequados que permitam avaliar, de um modo justo e eficaz, se os refugiados, os deslocados e as pessoas com estatuto idêntico ao de refugiado reúnem os requisitos para acesso ao ensino superior, para prosseguimento de programas complementares de ensino superior ou para o exercício de actividades profissionais, mesmo nos casos em que as qualificações obtidas numa das Partes não possam ser comprovadas documentalmente.
 
 #### SECÇÃO VIII — Informação sobre avaliação de instituições e programas de ensino superior
 
-Artigo VIII.1
+###### Artigo VIII.1
 
 Cada Parte providenciará informação relevante sobre qualquer instituição pertencente ao seu sistema de ensino superior e sobre qualquer programa organizado por instituições com vista a permitir às autoridades competentes das outras Partes verificar se a qualidade das qualificações emitidas por essas instituições justificará o reconhecimento na Parte aonde o reconhecimento é solicitado. Essa informação apresentar-se-á da seguinte forma:
 
@@ -1308,7 +1313,7 @@ a) No caso das Partes que tenham estabelecido um sistema formal de avaliação d
 
 b) No caso das Partes que não tenham estabelecido um sistema formal de avaliação de instituições e programas de ensino superior: informação sobre reconhecimento de várias qualificações obtidas em qualquer programa de ensino superior pertencente ao seu sistema de ensino superior.
 
-Artigo VIII.2
+###### Artigo VIII.2
 
 Cada Parte tomará as disposições adequadas para implementar, manter actualizado e publicar:
 
@@ -1322,11 +1327,11 @@ d) Uma lista das instituições de ensino superior situadas fora do seu territó
 
 #### SECÇÃO IX — Informação em matéria de reconhecimento
 
-Artigo IX.1
+###### Artigo IX.1
 
 Com vista a facilitar o reconhecimento das qualificações de ensino superior, as Partes envidarão todos os esforços no sentido de estabelecer sistemas transparentes que permitam uma descrição completa das qualificações conferidas.
 
-Artigo IX.2
+###### Artigo IX.2
 
 1 - Reconhecendo a necessidade de dispor de informações relevantes, precisas e actualizadas, cada Parte deverá criar ou manter um centro nacional de informações e notificará um dos depositários dessa criação ou de qualquer modificação que o afecte.
 
@@ -1340,13 +1345,13 @@ c) Aconselhar e informar sobre matéria relativa ao reconhecimento e avaliação
 
 3 - Cada centro nacional de informações deverá dispor dos meios adequados que lhe permitam exercer as suas funções.
 
-Artigo IX.3
+###### Artigo IX.3
 
 As Partes encorajarão, através dos centros nacionais de informação ou por outros meios, a implementação do suplemento ao diploma UNESCO/Conselho da Europa, ou de outro documento comparável, nas suas instituições de ensino superior.
 
 #### SECÇÃO X — Mecanismos de implementação
 
-Artigo X.1
+###### Artigo X.1
 
 Os organismos abaixo mencionados deverão acompanhar, promover e facilitar a implementação da Convenção:
 
@@ -1354,7 +1359,7 @@ a) Comité da Convenção sobre o Reconhecimento de Qualificações Relativas ao
 
 b) Rede Europeia dos Centros Nacionais de Informação sobre o Reconhecimento e Mobilidade Académicos (Rede ENIC), criada por decisão do Comité de Ministros do Conselho da Europa em 9 de Junho e do Comité Regional da UNESCO para a Europa em 18 de Junho de 1994.
 
-Artigo X.2
+###### Artigo X.2
 
 1 - O Comité da Convenção sobre o Reconhecimento de Qualificações Relativas ao Ensino Superior na Região Europa (doravante designado por «o Comité») é criado pela presente Convenção. É constituído por um representante de cada Parte.
 
@@ -1376,7 +1381,7 @@ Artigo X.2
 
 10 - O secretariado do Comité será confiado conjuntamente ao Secretário-Geral do Conselho da Europa e ao Director-Geral da UNESCO.
 
-Artigo X.3
+###### Artigo X.3
 
 1 - Cada Parte designará como membro da Rede Europeia dos Centros Nacionais de Informação sobre Reconhecimento e Mobilidade Académicos (Rede ENIC) o centro nacional de informações criado ou já existente, no âmbito do artigo IX.2. Na hipótese de existir um ou mais centros de informação numa das Partes, em virtude do artigo IX.2, todos os centros serão membros da Rede, mas a Parte a que pertencem não disporá senão de um só voto.
 
@@ -1388,7 +1393,7 @@ Artigo X.3
 
 #### SECÇÃO XI — Disposições finais
 
-Artigo XI.1
+###### Artigo XI.1
 
 1 - A presente Convenção ficará aberta à assinatura:
 
@@ -1410,11 +1415,11 @@ c) Adesão.
 
 3 - As assinaturas terão lugar junto de um dos depositários. Os instrumentos de ratificação, aceitação, aprovação ou adesão serão depositados junto de um dos depositários.
 
-Artigo XI.2
+###### Artigo XI.2
 
 A presente Convenção entrará em vigor no 1.º dia do mês seguinte ao período de um mês após cinco Estados, incluindo pelo menos três Estados membros do Conselho da Europa e ou da região Europa da UNESCO, terem manifestado o seu consentimento em estarem vinculados à Convenção. Para qualquer outro Estado, a Convenção entrará em vigor no 1.º dia do mês que se segue ao período de um mês após esse Estados ter manifestado o seu consentimento em estar vinculado à Convenção.
 
-Artigo XI.3
+###### Artigo XI.3
 
 1 - Após a entrada em vigor da presente Convenção, qualquer Estado que não pertença a uma das categorias enumeradas no artigo XI.1 pode solicitar um pedido de adesão à Convenção. Qualquer pedido neste sentido deverá ser comunicado a um dos depositários, que o transmitirá às Partes pelo menos três meses antes da realização da reunião do Comité da Convenção sobre o Reconhecimento de Qualificações Relativas ao Ensino Superior na Região Europa. O depositário informará, igualmente, o Comité de Ministros do Conselho da Europa e o Conselho Executivo da UNESCO.
 
@@ -1424,7 +1429,7 @@ Artigo XI.3
 
 4 - Para qualquer Estado aderente, ou para a Comunidade Europeia, a Convenção entrará em vigor no 1.º dia do mês que se segue ao período de um mês após a data de depósito do instrumento de adesão junto de um dos depositários.
 
-Artigo XI.4
+###### Artigo XI.4
 
 As Partes na presente Convenção, que são, simultaneamente, partes numa ou mais das seguintes convenções:
 
@@ -1446,7 +1451,7 @@ b) Continuarão a aplicar as Convenções acima mencionadas, nas quais elas já 
 
 2 - As Partes na presente Convenção comprometem-se a não aderir às Convenções mencionadas no parágrafo 1, nas quais não são ainda partes, com excepção da Convenção Internacional sobre o Reconhecimento de Estudos, de Diplomas e Graus de Ensino Superior nos Estados Árabes e nos Estados Europeus Ribeirinhos do Mediterrâneo.
 
-Artigo XI.5
+###### Artigo XI.5
 
 1 - Qualquer Estado pode, no acto da assinatura ou aquando do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, designar o ou os territórios aos quais se aplica a presente Convenção.
 
@@ -1454,7 +1459,7 @@ Artigo XI.5
 
 3 - Qualquer declaração apresentada de acordo com os dois parágrafos anteriores e relativa a qualquer território que tenha sido designado pela dita declaração, pode ser denunciada por notificação dirigida a um dos depositários. A denúncia terá efeito no 1.º dia do mês seguinte ao período de um mês, após a data de recepção da notificação pelo depositário.
 
-Artigo XI.6
+###### Artigo XI.6
 
 1 - Qualquer Parte poderá em qualquer momento denunciar a presente Convenção através de notificação dirigida a um dos depositários.
 
@@ -1462,19 +1467,19 @@ Artigo XI.6
 
 3 - A extinção da presente Convenção ou a suspensão da sua aplicação em consequência de violação por uma das Partes de uma disposição essencial para a realização do objectivo ou do fim da Convenção, far-se-á conforme o direito internacional.
 
-Artigo XI.7
+###### Artigo XI.7
 
 1 - Qualquer Estado, a Santa Sé ou a Comunidade Europeia pode, no acto da assinatura' ou no momento do depósito do seu instrumento de ratificação, aceitação, aprovação ou adesão, declarar que se reserva o direito de não aplicar, parcial ou totalmente, um ou mais dos artigos seguintes da presente Convenção:
 
-Artigo IV.8;
+###### Artigo IV.8;
 
 Artigo V.3;
 
-Artigo VI.3;
+###### Artigo VI.3;
 
 Artigo VIII.2;
 
-Artigo IX.3.
+###### Artigo IX.3.
 
 Não é possível fazer mais nenhuma reserva.
 
@@ -1482,7 +1487,7 @@ Não é possível fazer mais nenhuma reserva.
 
 3 - Qualquer Parte que tenha formulado uma reserva relativamente a uma disposição da presente Convenção não pode requerer a sua aplicação por uma outra Parte, se a reserva for parcial ou condicional. Pode requerer a aplicação desta disposição nas mesmas condições em que a aceitou.
 
-Artigo XI.8
+###### Artigo XI.8
 
 1 - Qualquer proposta de alteração à presente Convenção poderá ser adoptada pelo Comité da Convenção sobre o Reconhecimento de Qualificações Relativas ao Ensino Superior na Região Europa por maioria de dois terços das Partes. Neste caso a adopção da proposta deverá ser incluída num protocolo à presente Convenção. Este protocolo deverá especificar as modalidades da sua entrada em vigor, as quais necessitarão, em qualquer dos casos, do acordo das Partes.
 
@@ -1490,7 +1495,7 @@ Artigo XI.8
 
 3 - Qualquer proposta de alteração deverá ser comunicada a um dos depositários, que a transmitirá às Partes pelo menos três meses antes da reunião do Comité. O depositário informará, igualmente, o Comité de Ministros do Conselho da Europa e do Conselho Executivo da UNESCO.
 
-Artigo XI.9
+###### Artigo XI.9
 
 1 - O Secretário-Geral do Conselho da Europa e o Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura são os depositários da presente Convenção.
 

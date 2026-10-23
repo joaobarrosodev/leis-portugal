@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/592/1991/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1991-648899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef5d80fe3956e13375fc42c1fe626049529e57a3b14435a998a7b24d8c3290d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 999340f64591c5943237f3682513ec4a8bdb03ca427db90d635befdc795829c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
-- Instituto Politécnico
 - Guarda
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:319915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319915:por
+  label: "Revogada pela PORT.86/2001.2001.02.08.ME DR.IS-B [33], nos termos do respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2001-319915
+  date: '2001-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:19Z'
   warnings: []
   errors: []
 ---
@@ -316,8 +329,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 29 de Maio de 1991.**
+Assinada em 29 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/147b00/33393341.pdf))](https://files.diariodarepublica.pt/1s/1991/06/147b00/33393341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/147b00/33393341.pdf)

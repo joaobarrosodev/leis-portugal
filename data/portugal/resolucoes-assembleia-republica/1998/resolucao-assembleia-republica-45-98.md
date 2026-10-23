@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/45/1998/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-1998-234735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e7ffbd94f8ddc1b38e87796379a53f50ddb4a5ecec1f07bf76594d00968b079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae1f58a179991204df52d1eeb213e0dc1483b31c163509dd357c8a5480a01edf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
-- Convenção
-- Portugal
 - Condições de Higiene e Segurança no Trabalho
-relationships: []
+- Convenção
+- Pessoal do MAR
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:234734:por
+  label: "Ratificada pelo DEC.42/98.1998.10.13.PR DR.IS-A [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/42-1998-234734
+  date: '1998-10-13'
 article_structure:
   article_count: 0
-  section_count: 110
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 135
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 28 de Maio de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 Attachment no. 1 to the Final Act of the Conference
 
@@ -1006,11 +1011,11 @@ Certificate issued under the provisions of the International Convention on Stand
 
 The Government of ... certifies that ... has been found duly qualified in accordance with the provisions of regulation ... of the above Convention, as amended, and has been found competent to perform the following functions, at the specified, subject to any limitations indicated until ... or until the date of expiry of any extension of the validity of this certificate as may be shown overleaf:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 The lawful holder of this certificate may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 2 - Except as provided in paragraph 1, the form used to attest the issue of a certificate shall be as shown hereunder, provided that the words «or until the date of expiry of any extension of the validity of this endorsement as may be shown overleaf» appearing on the front of the form and the provisions for recording extension of the validity appearing on the back of the form shall be omitted where the endorsement is required to be replaced upon its expiry. Guidance on completion of the form is contained in section B-I/2 of this Code.
 
@@ -1022,11 +1027,11 @@ Endorsement attesting the issue of a certificate under the provisions of the Int
 
 The Government of ... certifies that certification no ... who has been found duly qualified in accordance with the provisions of regulation ... of the above Convention, as amended, and has been found competent to perform the following functions, at the specified, subject to any limitations indicated until ... or until the date of expiry of any extension of the validity of this certificate as may be shown overleaf:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 3 - The form used to attest the recognition of a certificate shall be as shown hereunder, except that the words «or until the date of expiry of any extension of the validity of this endorsement as may be shown overleaf» appearing on the front of the form and the provisions for recording extension of the validity appearing on the back of the form shall be omitted where the endorsement is required to be replaced upon its expiry. Guidance on completion of the form is contained in section B-I/2 of this Code.
 
@@ -1038,11 +1043,11 @@ Endorsement attesting the recognition of a certificate under the provisions of t
 
 The Government of ... certifies that certificate no. ... issued to ... by or behalf of the Government of ... is duly recognized in accordance with the provisions of regulation I/10 of the above Convention, as amended, and the lawful holder is authorized to perform the following functions at the levels specified, subject to any limitations indicated until ... or until the date of expiry of any extension of the validity of this certificate as may be shown overleaf:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 The lawful holder of this certificate may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 4 - In using formats which may be different from those set forth in this section, pursuant to regulation I/2, paragraph 8, Parties shall ensure that in all cases:
 
@@ -1438,7 +1443,7 @@ TABLE A-II/1
 
 Specification of minimum standard of competence for officers in charge of a navigational watch on ships of 500 gross tonnage or more
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-II/2
 
@@ -1468,7 +1473,7 @@ TABLE A-II/2
 
 Specification of minimum standard of competence for masters and chief mates on ships of 500 gross tonnage or more
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-II/3
 
@@ -1512,7 +1517,7 @@ TABLE A-II/3
 
 Specification of minimum standard of competence for officers in charge of a navigational watch and for masters on ships of less than 500 gross tonnage engaged on near-coastal voyages
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-II/4
 
@@ -1532,7 +1537,7 @@ TABLE A-II/4
 
 Specification of minimum standard of competence for ratings forming part of a navigational watch
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 CHAPTER III
 
@@ -1578,7 +1583,7 @@ TABLE A-III/1
 
 Specification of minimum standard of competence for officers in charge of an engineering watch in a manned engine-room or designated duty engineers in a periodically unmanned engine-room
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-III/2
 
@@ -1608,7 +1613,7 @@ TABLE A-III/2
 
 Specification of minimum standard of competence for chief engineer officers and second engineer officers on ships powered by main propulsion machinery of 3,000 kW propulsion power or more
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-III/3
 
@@ -1654,7 +1659,7 @@ Specification of minimum standard of competence for ratings forming part of an e
 
 Function: marine engineering at the support level
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 CHAPTER IV
 
@@ -1688,7 +1693,7 @@ TABLE A-IV/2
 
 Specification of minimum standard of competence for GMDSS radio operators
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 CHAPTER V
 
@@ -2080,13 +2085,13 @@ TABLE A-VI/1-1
 
 Specification of minimum standard of competence in personal survival techniques
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 TABLE A-VI/1-2
 
 Specification of minimum standard of competence in fire prevention and fire-fighting
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 TABLE A-VI/1-3
 
@@ -2098,7 +2103,7 @@ TABLE A-VI/1-4
 
 Specification of minimum standard of competence in personal safety and social responsibilities
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-VI/2
 
@@ -2140,13 +2145,13 @@ TABLE A-VI/2-1
 
 Specification of the minimum standard of competence in survival craft and rescue boats other than fast rescue boats
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 TABLE A-VI/2-2
 
 Specification of the minimum standard of competence in fast rescue boats
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-VI/3
 
@@ -2166,7 +2171,7 @@ TABLE A-VI/3
 
 Specification of minimum standard of competence in advanced fire-fighting
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION A-VI/4
 
@@ -2192,13 +2197,13 @@ TABLE A-VI/4-1
 
 Specification of minimum standard of proficiency in medical first aid
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 TABLE A-VI/4-2
 
 Specification of minimum standard of proficiency for persons in charge of medical care on board ship
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 CHAPTER VII
 
@@ -3164,11 +3169,11 @@ Endorsement attesting the issued of a certificate under the provisions of the In
 
 The Government of ... (1) certifies that certificate no. ... (2) has been issued to ... (3) who has been found duly qualified in accordance with the provisions of regulation ... (4) of the above Convention, as amended, and has been found competent to perform the following functions, at the specified, subject to any limitations indicated until ... (5) or until the date of expiry of any extension of the validity of this endorsement as may be shown overleaf:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 2 - An endorsement attesting the recognition of a certificate may be attached to and form part of the certificate endorsed, or may be issued as a separate document (see STCW, regulation I/2, paragraph 6). All entries made in the form are required to be in Roman characters and Arabic figures (see STCW, regulation I/2, paragraph 8). The spaces numbered (1) to (17) in the form which follows the text hereunder are intended to be completed as indicated in paragraph 1 above, except in respect of the following spaces:
 
@@ -3194,11 +3199,11 @@ Endorsement attesting the recognition of a certificate under the provisions of t
 
 The Government of ... (1) certifies that certificate no. ... (2) issued to ... (3) by or behalf of the Government of ... (4) is duly recognized in accordance with the provisions of regulation I/10 of the above Convention, as amended, and the lawful holder is authorized to perform the following functions, at the specified, subject to any limitations indicated until ... (5) or until the date of expiry of any extension of the validity of this endorsement as may be shown overleaf:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 The lawful holder of this endorsement may serve in the following capacity or capacities specified in the applicable safe manning requirements of the Administration:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION B-I/3
 
@@ -3440,7 +3445,7 @@ TABLE B-I/9
 
 Minimum in-service eyesight standards
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 SECTION B-I/10
 
@@ -5280,7 +5285,7 @@ For the Secretary-General of the International Maritime Organization:
 
 EMENDAS DE 1995 AO ANEXO À CONVENÇÃO INTERNACIONAL SOBRE NORMAS DE FORMAÇÃO, DE CERTIFICAÇÃO E DE SERVIÇO DE QUARTOS PARA OS MARÍTIMOS, 1978.
 
-## Anexo n.º 1 à Acta Final da Conferência
+Anexo n.º 1 à Acta Final da Conferência
 
 Resolução n.º 1
 
@@ -5764,7 +5769,9 @@ Requisitos mínimos obrigatórios para a certificação dos marítimos da mestra
 
 4 - Os marítimos podem ser considerados por uma Parte como satisfazendo os requisitos desta regra se tiverem desempenhado funções numa capacidade apropriada na secção de convés durante um período não inferior a um ano nos cinco anos anteriores à entrada em vigor da Convenção para essa Parte.
 
-### CAPÍTULO III — Secção de máquinas
+### CAPÍTULO III
+
+#### Secção de máquinas
 
 Regra III/1
 
@@ -6048,7 +6055,7 @@ Sistema de quartos e princípios que devem ser observados
 
 4) Seja mantido um serviço eficiente de quartos, com vista à manutenção da segurança em qualquer momento, quer o navio esteja fundeado ou atracado e, se o navio transportar carga perigosa, a organização do serviço de quartos deve tomar em devida consideração a natureza, a quantidade e o método de embalagem e de estiva da carga perigosa, assim como quaisquer outras condições especiais existentes a bordo, a flutuar ou em terra.
 
-## Anexo n.º 2 à Acta Final da Conferência
+Anexo n.º 2 à Acta Final da Conferência
 
 Resolução n.º 2
 
@@ -6092,7 +6099,7 @@ Após ter tomado em devida nota que o parágrafo 2 da regra I/1 do anexo emendad
 
 ## ANEXO N.º 1 — Código de Formação, de Certificação e de Serviço de Quartos para os Marítimos (Código STCW)
 
-# PARTE A — Normas de cumprimento obrigatório relativas ao anexo à Convenção STCW
+## PARTE A — Normas de cumprimento obrigatório relativas ao anexo à Convenção STCW
 
 Introdução
 
@@ -6164,11 +6171,11 @@ Certificado emitido nos termos da Convenção Internacional sobre Normas de Form
 
 O Governo ... certifica que ... foi considerado devidamente qualificado, em conformidade com o disposto na regra ... da Convenção acima mencionada e respectivas emendas, tendo sido considerado competente para o desempenho das seguintes funções nos níveis mencionados, com excepção de quaisquer restrições indicadas, até ... ou até à data limite de validade de qualquer prorrogação da validade do presente certificado, conforme indicado no verso:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 O titular legítimo do presente certificado pode desempenhar o cargo ou os cargos a seguir mencionado(s), em conformidade com os requisitos de lotação mínima de segurança fixada pela Administração:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 2 - Excepto nos termos do parágrafo 1, o modelo utilizado para atestar a emissão de um certificado deverá ser conforme o a seguir indicado, desde que a frase «ou até à data limite de qualquer prorrogação da validade da presente autenticação, conforme indicado no verso», que figura na frente do modelo, e os compartimentos reservados para registo das extensões da validade constantes do verso do impresso sejam omitidos, caso a autenticação deva ser substituída, após ter expirado a sua validade. As regras de orientação para preenchimento do modelo encontram-se na secção B-I/2 do presente Código.
 
@@ -6180,11 +6187,11 @@ Autenticação atestando a emissão de um certificado nos termos da Convenção 
 
 O Governo ... certifica que o certificado n.º ... foi emitido a ..., o qual foi considerado devidamente qualificado, em conformidade com o disposto na regra ... da Convenção acima mencionada e respectivas emendas, tendo sido considerado competente para o desempenho das seguintes funções nos níveis mencionados, com excepção de quaisquer restrições indicadas, até ... ou até à data de qualquer prorrogação da validade da presente autenticação, conforme indicado no verso:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 O legítimo titular da presente autenticação pode desempenhar o cargo ou os cargos a seguir mencionado(s), em conformidade com os requisitos de lotação mínima de segurança fixada pela Administração:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 3 - O modelo utilizado para atestar o reconhecimento de um certificado deverá ser conforme o a seguir indicado, desde que a frase «ou até à data limite de qualquer prorrogação da validade da presente autenticação, conforme indicado no verso», que figura na frente do modelo, e os compartimentos reservados para registo das extensões da validade constantes do verso do impresso sejam omitidos, caso a autenticação deva ser substituída após ter expirado a sua validade. As regras de orientação para preenchimento do modelo encontram-se na secção B-I/2 do presente Código.
 
@@ -6196,11 +6203,11 @@ Autenticação atestando o reconhecimento de um certificado nos termos da Conven
 
 O Governo ... certifica que o certificado n.º ..., emitido a ..., o qual foi considerado devidamente reconhecido, nos termos das disposições da regra I/10 da Convenção acima mencionada e respectivas emendas, e que o seu legítimo titular está autorizado a desempenhar as seguintes funções nos níveis mencionados, com excepção de quaisquer restrições indicadas, até ... ou até à data de qualquer prorrogação da validade da presente autenticação, conforme indicado no verso:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 O legítimo titular da presente autenticação pode desempenhar o cargo ou os cargos a seguir mencionado(s), em conformidade com os requisitos de lotação mínima de segurança fixada pela Administração:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 4 - O uso de modelos diferentes dos indicados na presente secção, em conformidade com o disposto no parágrafo 8 da regra I/8, obriga as Partes a observar, em todas as circunstâncias, o seguinte:
 
@@ -6390,7 +6397,7 @@ Competência profissional
 
 #### SECÇÃO A- I/12 — Normas reguladoras da utilização de simuladores
 
-# Parte 1 — Normas de funcionamento
+## Parte 1 — Normas de funcionamento
 
 Normas gerais de funcionamento relativas a simuladores utilizados na formação
 
@@ -6452,7 +6459,7 @@ Simuladores ARPA (auxiliar automático de traçagem de radar)
 
 5) Manobras de teste.
 
-# Parte 2 — Outras disposições
+## Parte 2 — Outras disposições
 
 Objectivos da formação com simuladores
 
@@ -6564,7 +6571,7 @@ QUADRO A-II/1
 
 Especificação das normas mínimas de competência para oficiais chefes de quarto de navegação de navios de arqueação bruta igual ou superior a 500 t
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-II/2 — Requisitos mínimos obrigatórios para a certificação de comandantes e imediatos de navios com arqueação bruta igual ou superior a 500 t
 
@@ -6592,7 +6599,7 @@ QUADRO A-II/2
 
 Especificação das normas mínimas de competência para comandantes e imediatos de navios de arqueação bruta igual ou superior a 500 t
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-II/3
 
@@ -6636,7 +6643,7 @@ QUADRO A-II/3
 
 Especificação das normas mínimas de competência para oficiais chefes de quarto de navegação e comandantes de navios de arqueação bruta inferior a 500 t, envolvidos em viagens costeiras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-II/4 — Requisitos mínimos obrigatórios para certificação de marítimos de mestrança e marinhagem que façam parte de quartos de navegação
 
@@ -6656,7 +6663,7 @@ Especificação das normas mínimas de competência para marítimos de mestranç
 
 Função: navegação ao nível de apoio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 ### CAPÍTULO III — Normas relativas à secção de máquinas
 
@@ -6700,7 +6707,7 @@ QUADRO A-III/1
 
 Especificação das normas de competência mínimas para oficiais de máquinas chefes de quarto numa casa de máquina em condução atendida ou de oficiais de máquinas de serviço numa casa de máquina em condução desatendida
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-III/2
 
@@ -6730,7 +6737,7 @@ QUADRO A-III/2
 
 Especificação das normas de competência mínimas para chefes de máquinas e segundos-oficiais de máquinas de navios cuja máquina principal tenha uma potência propulsora igual ou superior a 3000 kW
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-III/3
 
@@ -6776,7 +6783,7 @@ Especificação das normas de competência mínimas para marítimos de mestranç
 
 Função: engenharia marítima ao nível de apoio
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 ### CAPÍTULO IV — Normas relativas ao pessoal de rádio
 
@@ -6806,7 +6813,7 @@ Especificação da norma de competência mínima para os operadores de rádio no
 
 Função: radiocomunicações ao nível operacional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 ### CAPÍTULO V — Requisitos especiais de formação para o pessoal de determinados tipos de navios
 
@@ -7192,13 +7199,13 @@ QUADRO A-VI/1-1
 
 Especificação das normas de competência mínimas em técnicas pessoais de sobrevivência
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 QUADRO A-VI/1-2
 
 Especificação das normas de competência mínima em técnicas de prevenção e combate a incêndios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 QUADRO A-VI/1-3
 
@@ -7248,13 +7255,13 @@ QUADRO A-VI/2-1
 
 Especificação das normas de competência mínimas respeitantes a embarcações salva-vidas e embarcações de salvamento, excepto embarcações de salvamento rápidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 QUADRO A-VI/2-2
 
 Especificação das normas mínimas de competência relativas a embarcações de salvamento rápidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-VI/3 — Formação mínima obrigatória em técnicas avançadas de combate a incêndios
 
@@ -7272,7 +7279,7 @@ QUADRO A-VI/3
 
 Especificação das normas mínimas de competência em técnicas avançadas de combate a incêndios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO A-VI/4 — Requisitos mínimos obrigatórios relativos a primeiros socorros e cuidados médicos
 
@@ -7296,13 +7303,13 @@ QUADRO A-VI/4-1
 
 Especificação das normas de competência mínimas respeitantes à prestação de primeiros socorros
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 QUADRO A-VI/4-2
 
 Especificação das normas de competência mínimas relativas a pessoas que chefiam os serviços de saúde a bordo de navios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 ### CAPÍTULO VII — Normas respeitantes à certificação alternativa
 
@@ -7350,13 +7357,13 @@ Especificação das normas de competência mínimas relativas a pessoas que chef
 
 #### SECÇÃO A-VIII/2 — Organização do serviço de quartos e princípios a observar
 
-# Parte 1 — Certificação
+## Parte 1 — Certificação
 
 1 - Os oficiais chefes de quarto de navegação e de convés deverão ser devidamente qualificados em conformidade com as disposições constantes do capítulo II ou do capítulo VII, no que se refere às funções relacionadas com o serviço de quartos de navegação ou de convés.
 
 2 - O oficial chefe de quarto de máquinas deverá ser devidamente qualificado em conformidade com as disposições constantes do capítulo III ou do capítulo VII, no que se refere às funções relacionadas com o serviço de quartos de máquinas.
 
-# Parte 2 — Planeamento da viagem
+## Parte 2 — Planeamento da viagem
 
 Requisitos gerais
 
@@ -7376,7 +7383,7 @@ Desvios da rota planeada
 
 7 - Se durante a viagem for tomada alguma decisão que implique a mudança do porto de escala seguinte, ou se, por outras razões, for necessário efectuar um desvio significativo em relação à rota planeada, deverá ser planeada uma derrota corrigida, antes de ser efectuado o desvio da derrota inicialmente planeada.
 
-# Parte 3 — Serviço de quartos a navegar
+## Parte 3 — Serviço de quartos a navegar
 
 Princípios gerais do serviço de quartos
 
@@ -7390,7 +7397,7 @@ Protecção do meio ambiente marinho
 
 11 - O comandante, oficiais e pessoal da mestrança e marinhagem deverão estar cientes dos graves efeitos que a poluição, quer operacional quer acidental, tem no ambiente marinho e deverão tomar todas as precauções possíveis para a sua prevenção, em particular no que respeita ao cumprimento das regras constantes dos regulamentos internacionais e portuários aplicáveis.
 
-# Parte 3.1 — Princípios a observar durante um quarto de navegação
+## Parte 3.1 — Princípios a observar durante um quarto de navegação
 
 12 - O oficial chefe de quarto de navegação é o representante do comandante e o primeiro responsável em qualquer circunstância pela segurança da navegação do navio e pelo cumprimento das disposições constantes do Regulamento Internacional para Evitar Abalroamentos no Mar, 1972.
 
@@ -7650,7 +7657,7 @@ Navio fundeado
 
 10) Tomar medidas relativamente à protecção do meio ambiente marinho contra a poluição pelo navio e respeitar os regulamentos aplicáveis.
 
-# Parte 3.2 — Princípios a observar durante um quarto de máquinas
+## Parte 3.2 — Princípios a observar durante um quarto de máquinas
 
 52 - O termo «quarto de máquinas», tal como utilizado nas partes 32 e 42 da presente secção, refere-se a uma pessoa ou a um grupo de pessoas que integra o quarto, ou a um período da responsabilidade de um oficial durante o qual poderá ser ou não necessária a sua presença física na casa das máquinas.
 
@@ -7802,7 +7809,7 @@ Navio fundeado
 
 5) A prontidão de todos os sistemas de limitação de avarias e de combate a incêndios.
 
-# Parte 3.3 — Princípios a observar durante o serviço de escuta radioeléctrica
+## Parte 3.3 — Princípios a observar durante o serviço de escuta radioeléctrica
 
 Disposições gerais
 
@@ -7844,7 +7851,7 @@ Desempenho do serviço de escuta radioeléctrica
 
 2) Inspecção por qualquer oficial certificado da Administração, e por qualquer oficial devidamente autorizado que exerça o controlo nos termos do artigo X da Convenção.
 
-# Parte 4 — Serviço de quartos em porto
+## Parte 4 — Serviço de quartos em porto
 
 Princípios aplicáveis a todos os serviços de quartos
 
@@ -7882,7 +7889,7 @@ Rendição dos quartos
 
 97 - Se no momento da rendição do quarto de convés ou do quarto de máquinas estiver em curso uma operação importante, esta deverá ser concluída pelo oficial que vai ser rendido, excepto quando determinado de modo diferente pelo comandante ou pelo chefe de máquinas.
 
-# Parte 4.1 — Rendição do quarto de convés
+## Parte 4.1 — Rendição do quarto de convés
 
 98 - Antes de assumir as funções de chefe de quarto, o oficial substituto deverá ser informado pelo oficial chefe de quarto de convés dos seguintes aspectos:
 
@@ -7920,7 +7927,7 @@ Rendição dos quartos
 
 5) As condições ou circunstâncias externas não põem em risco o navio, nem o navio constitui um perigo para quaisquer outros.
 
-# Parte 4.2 — Rendição do quarto de máquinas
+## Parte 4.2 — Rendição do quarto de máquinas
 
 100 - Antes de assumir as funções de chefe de quarto de máquinas, o oficial substituto deverá ser informado, pelo oficial chefe de quarto de máquinas, dos seguintes aspectos:
 
@@ -7952,7 +7959,7 @@ Rendição dos quartos
 
 3) Estão prontos para preparar o navio e as máquinas, dentro das suas possibilidades, para situações de atenção ou de emergência, caso necessário.
 
-# Parte 4.3 — Desempenho do serviço de quarto de convés
+## Parte 4.3 — Desempenho do serviço de quarto de convés
 
 102 - O oficial chefe de quarto de convés deverá:
 
@@ -7988,7 +7995,7 @@ Rendição dos quartos
 
 9) Registar no diário de bordo apropriado todos as ocorrências importantes que afectem o navio.
 
-# Parte 4.4 — Desempenho do serviço de quartos de máquinas
+## Parte 4.4 — Desempenho do serviço de quartos de máquinas
 
 103 - O oficial chefe de quarto de máquinas deverá prestar atenção especial ao seguinte:
 
@@ -8012,7 +8019,7 @@ Rendição dos quartos
 
 5) Assegurar-se de que são registados devidamente todos os acontecimentos importantes que afectem a operação, calibração ou reparação das máquinas do navio.
 
-# Parte 4.5 — Serviço de quartos em porto em navios transportando cargas perigosas
+## Parte 4.5 — Serviço de quartos em porto em navios transportando cargas perigosas
 
 Generalidades
 
@@ -8022,7 +8029,7 @@ Generalidades
 
 ## ANEXO N.º 2 — Código de Formação, de Certificação e de Serviço de Quartos para os Marítimos (STCW)
 
-# PARTE B — Recomendações relativas às disposições da Convenção STCW e dos seus anexos
+## PARTE B — Recomendações relativas às disposições da Convenção STCW e dos seus anexos
 
 Introdução
 
@@ -8194,11 +8201,11 @@ Autenticação atestando a emissão de um certificado nos termos da Convenção 
 
 O Governo d... (1) certifica que o certificado n.º ... (2) foi emitido a ... (3), que foi considerado devidamente qualificado em conformidade com as disposições na regra ... (4) da supracitada Convenção e suas emendas, tendo sido considerado competente para o desempenho das seguintes funções, aos níveis especificados, sujeito às restrições indicadas até ... (5) ou até à data limite de qualquer prorrogação da validade desta autenticação, como poderá ser verificado no verso:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 O legítimo titular desta autenticação pode prestar serviço no cargo ou cargos especificados nos requisitos de lotação mínima de segurança fixada pela Administração.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 2 - Uma autenticação que ateste o reconhecimento de um certificado poderá ser anexada ao certificado e dele fazer parte integrante, ou poderá ser emitida como um documento separado (ver parágrafo 6 da regra I/2 da Convenção STCW). Todos os dados registados no impresso deverão ser em caracteres romanos e algarismos árabes (ver parágrafo 8 da regra I/2 da Convenção STCW). Os espaços numerados de (1) a (17) no impresso devem ser preenchidos conforme indicado no parágrafo 1, excepto nos casos a seguir referidos:
 
@@ -8224,11 +8231,11 @@ Autenticação atestando o reconhecimento de um certificado nos termos da Conven
 
 O Governo d... (1) certifica que o certificado n.º ... (2) foi emitido a ... (3) pelo ou em representação do governo d... (4) é devidamente reconhecido nos termos das disposições da regra I/10 da Convenção e emendas e o seu legítimo titular está autorizado a desempenhar as seguintes funções, aos níveis especificados, sujeito às restrições indicadas até ... (5) ou até à data limite de qualquer prorrogação da validade desta autenticação, como poderá ser verificado no verso:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 O legítimo titular desta autenticação pode prestar serviço no cargo ou cargos especificados nos requisitos de lotação mínima de segurança fixada pela Administração.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO B-I/3 — Recomendações relativas a viagens costeiras
 
@@ -8458,7 +8465,7 @@ QUADRO B-I/9
 
 Padrões mínimos de visão em serviço
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)](https://files.diariodarepublica.pt/1s/1998/10/236a00/51025305.pdf)
 
 #### SECÇÃO B-I/10 — Recomendações relativas ao reconhecimento de certificados
 
@@ -10014,19 +10021,19 @@ Prevenção da fadiga
 
 1 - As recomendações operacionais seguintes devem ser tomadas em consideração pelos companhias, pelos comandantes e pelos oficiais de quarto.
 
-# Parte 1 — Recomendações respeitantes à certificação
+## Parte 1 — Recomendações respeitantes à certificação
 
 (Sem disposições.)
 
-# Parte 2 — Recomendações respeitantes ao planeamento da viagem
+## Parte 2 — Recomendações respeitantes ao planeamento da viagem
 
 (Sem disposições.)
 
-# Parte 3 — Recomendações respeitantes ao serviço de quartos a navegar
+## Parte 3 — Recomendações respeitantes ao serviço de quartos a navegar
 
 (Sem disposições.)
 
-# Parte 3.1 — Recomendações respeitantes ao serviço de quartos de navegação
+## Parte 3.1 — Recomendações respeitantes ao serviço de quartos de navegação
 
 Introdução
 
@@ -10068,7 +10075,7 @@ Gestão dos recursos existentes na ponte
 
 14) Os elementos do quarto de navegação devem estar preparados, a todo o momento, para responder com eficácia e eficiência a alterações nas condições prevalecentes.
 
-# Parte 3.2 — Recomendações respeitantes ao serviço de quartos na casa das máquinas
+## Parte 3.2 — Recomendações respeitantes ao serviço de quartos na casa das máquinas
 
 6 - Poderão ser necessárias recomendações especiais para tipos de sistemas de propulsão, equipamentos auxiliares especiais e para navios que transportam substâncias nocivas, perigosas, tóxicas, altamente inflamáveis, ou qualquer outro tipo de carga especial. O chefe de máquinas deve fornecer, conforme aplicável, estas recomendações operacionais.
 
@@ -10086,7 +10093,7 @@ Gestão dos recursos existentes na ponte
 
 3.2) As máquinas auxiliares utilizadas para serviços relacionados com os alojamentos da tripulação ou passageiros, com as operações de carga e descarga, com o abastecimento de água e com os sistemas de evacuação.
 
-# Parte 3.3 — Recomendações respeitantes ao serviço de escuta radioeléctrica
+## Parte 3.3 — Recomendações respeitantes ao serviço de escuta radioeléctrica
 
 Disposições gerais
 
@@ -10200,11 +10207,11 @@ Manutenção de baterias
 
 Os resultados destes ensaios devem ser registados no Diário de radiocomunicações.
 
-# Parte 4 — Recomendações respeitantes ao serviço de quartos em porto
+## Parte 4 — Recomendações respeitantes ao serviço de quartos em porto
 
 (Sem disposições.)
 
-# Parte 5 — Recomendações respeitantes à prevenção de uso de drogas e ao abuso do álcool
+## Parte 5 — Recomendações respeitantes à prevenção de uso de drogas e ao abuso do álcool
 
 34 - O abuso do consumo de drogas e de álcool afectam directamente a aptidão e a capacidade dos marítimos para o desempenho das funções do serviço de quartos. Os marítimos considerados sob a influência de drogas ou de álcool não devem ser autorizados a desempenhar funções de serviço de quartos até que deixem de estar diminuídos nas suas capacidades para o exercício dessas funções.
 

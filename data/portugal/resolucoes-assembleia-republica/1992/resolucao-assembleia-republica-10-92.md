@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/1992/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-1992-189078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1eb90f6f6a8cec21fd09cecca6349b6ea5ae4db91398b8546961685a63021ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97d4d4b646d84217008706975138e8ab24d4d4e1f21abd9c114cb48b850315e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Forças Armadas
-- Prisioneiro de Guerra
 - Genebra
+- Portugal
+- Prisioneiro de Guerra
 - Vítima Civil
 - Vítima de Guerra
 relationships:
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 146
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:02Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +101,7 @@ A ratificação será acompanhada da declaração que segue como anexo II à pre
 
 Aprovada em 6 de Junho de 1991.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ## ANEXO I — PROTOCOLO ADICIONAL ÀS CONVENÇÕES DE GENEBRA DE 12 DE AGOSTO DE 1949 RELATIVO À PROTECÇÃO DAS VÍTIMAS DOS CONFLITOS ARMADOS INTERNACIONAIS
 
@@ -1529,7 +1529,7 @@ No princípio das hostilidades, as Partes no conflito deverão comunicar mutuame
 
 2 - Quando as circunstâncias impedirem a entrega ao pessoal sanitário e religioso, civil e temporário, de bilhetes de identidade análogos ao descrito no artigo 1.º do presente Regulamento, aquele pessoal poderá receber um certificado, assinado pela autoridade competente, comprovando que a pessoa, à qual foi entregue, foi afecta como pessoal temporário, e indicando, se possível, a duração dessa afectação e o direito do titular ao uso do sinal distintivo. Este certificado deverá indicar o nome e a data de nascimento do titular (ou, na falta dessa data, a sua idade no momento da emissão do certificado), a função do titular assim como o número de registo, se o houver. Deverá conter ainda a sua assinatura ou a impressão do polegar ou ambas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 ### CAPÍTULO II — O sinal distintivo
 
@@ -1539,7 +1539,7 @@ No princípio das hostilidades, as Partes no conflito deverão comunicar mutuame
 
 2 - De noite ou com visibilidade reduzida, o sinal distintivo poderá ser iluminado; poderá igualmente ser feito de materiais que o tornem reconhecível por meios técnicos de detecção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 ###### Artigo 4.º — Utilização
 
@@ -1629,13 +1629,13 @@ Se uma aeronave interceptadora for usada para identificar uma aeronave sanitári
 
 3 - Se o pessoal de protecção civil estiver autorizado a usar armas ligeiras individuais, os bilhetes de identidade deverão mencionar esse facto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 ###### Artigo 15.º — Sinal distintivo internacional
 
 1 - O sinal distintivo internacional de protecção civil previsto no artigo 66.º, n.º 4, do Protocolo é um triângulo equilátero, azul em fundo cor de laranja. Está representado na figura n.º 4 abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 2 - Recomenda-se:
 
@@ -1659,11 +1659,11 @@ c) Que nenhum dos vértices do triângulo toque os bordos do fundo cor de laranj
 
 4 - De noite, ou quando a visibilidade for reduzida, o sinal poderá ser iluminado; poderá igualmente ser feito de materiais que o tornem reconhecível por meios técnicos de detecção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 ## ANEXO II — Cartão de identidade de jornalista em missão perigosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 PROTOCOLO ADICIONAL ÀS CONVENÇÕES DE GENEBRA DE 12 DE AGOSTO DE 1949 RELATIVO À PROTECÇÃO DAS VÍTIMAS DOS CONFLITOS ARMADOS NÃO INTERNACIONAIS (PROTOCOLO II).
 
@@ -3601,7 +3601,7 @@ Carte d'identité du personnel sanitaire et religieux, civil et temporaire
 
 1 - La carte d'identité du personnel sanitaire et religieux, civil et temporaire, devrait, si possible, être analogue à celle qui est prévue à l'article premier du présent Règlement. Les Parties au conflit peuvent s'inspirer du modèle de la figure 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 2 - Lorsque les circonstances empêchent de délivrer au personnel sanitaire et religieux, civil et temporaire, des cartes d'identité analogues à celle qui est décrite à l'article premier du présent Règlement, ce personnel peut recevoir un certificat, signé par l'autorité compétente, attestant que la personne à laquelle il est délivré a reçu une affectation en tant que personnel temporaire, et indiquant, si possible, la durée de cette affectation et le droit du titulaire au port du signe distinctif. Ce certificat doit indiquer le nom et la date de naissance du titulaire (ou, à défaut de cette date, son âge au moment de la délivrance du certificat), la fonction du titulaire ainsi que son numéro d'immatriculation s'il en a un. Il doit porter sa signature ou l'empreinte de son pouce, ou les deux.
 
@@ -3617,7 +3617,7 @@ Forme et nature
 
 2 - De nuit ou par visibilité réduite, le signe distinctif pourra être éclairé ou illuminé; il pourra également être fait de matériaux le rendant reconnaissable par des moyens techniques de détection.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 Article 4
 
@@ -3731,7 +3731,7 @@ Carte d'identité
 
 1 - La carte d'identité du personnel de la protection civile visé à l'article 66, paragraphe 3, du Protocole, est régie par les dispositions pertinentes de l'article premier du présent Réglement.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 2 - La carte d'identité du personnel de la protection civile pourra se conformer au modèle représenté à la figure 3.
 
@@ -3743,7 +3743,7 @@ Signe distinctif international
 
 1 - Le signe distinctif international de la protection civile, prévu à l'article 66, paragraphe 4, du Protocole, est un triangle équilatéral bleu sur fond orange. Il est représenté à la figure 4 ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 2 - Il est recommandé:
 
@@ -3771,13 +3771,13 @@ Signe spécial international
 
 4 - De nuit ou par visibilité réduite, le signe pourra être éclairé ou illuminé; il pourra également être fait de matériaux le rendant reconnaissable par des moyens techniques de détection.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 ANNEXE II
 
 Carte d'identité de journaliste en mission périlleuse
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf))](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/077a00/15151587.pdf)
 
 PROTOCOLE ADDITIONNEL AUX CONVENTIONS DE GENEVE DU 12 AOÛT 1949 RELATIF À LA PROTECTION DES VICTIMES DES CONFLITS ARMÉS NON INTERNATIONAUX.
 

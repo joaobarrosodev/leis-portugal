@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/1991/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-1991-674217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11245e4a09da747e6c7a25d6d92b76edddedcc921d5e03e27d27b0b111d0d7e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e41e1c9321e4e329d7f9aefc229f837a587d401b05d178affb9d72fcfba999c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,26 @@ relationships:
   target: pt:dre:301575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301575:por
+  label: Aditada, entre as als. h) e i), a al. hh) ao n.º 4 do Regulamento da Comissão Consultiva da Qualidade da Água pelo(a)
+    Portaria n.º 946/91 - Diário da República n.º 214/1991, Série I-B de 1991-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-1991-301575
+  date: '1991-09-17'
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:13Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +110,9 @@ Manda o Govenro, pelo Ministro do Ambiente e Recursos Naturais, o seguinte:
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 17 de Julho de 1991.**
+Assinada em 17 de Julho de 1991.
 
-**O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
 ## ANEXO — Regulamento da Comissão Consultiva da Qualidade da Água
 

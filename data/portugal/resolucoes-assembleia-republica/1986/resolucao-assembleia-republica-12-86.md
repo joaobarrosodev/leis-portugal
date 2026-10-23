@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-1986-226998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 854b62bd288aa511a59f57d36ba17914ab95c7c9ab069107e3fe6e4f9b8307bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de24257e5af66be294c2e309306fc6a5d691c3ff558d0bd5d5a4289d2d7b6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Convenção
+- Direitos do Homem
+- Direitos e Liberdades
+- Estrasburgo
+- Liberdades Fundamentais
+- Pena de Morte
+- Portugal
+- Roma
 relationships:
 - type: amended_by
   target: pt:dre:381301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381301:por
+  label: "Alterado o Protocolo aprovado para ratificação pelo presente diploma, pela RES.21/97.1997.04.04.AR, DR.IS-A [102]\
+    \ de 03/Mai/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/21-1997-381301
+  date: '1997-04-04'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:11Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +108,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 15 de Abril de 1986.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ## ANEXO
 
@@ -207,7 +222,7 @@ Este Protocolo fica aberto à assinatura dos Estados membros do Conselho da Euro
 
 ###### Artigo 9.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho:
 
 a) Qualquer assinatura;
 
@@ -221,4 +236,4 @@ Em fé do que, os abaixo assinados, devidamente autorizados para este efeito, as
 
 Feito em Estrasburgo, aos 28 dias de Abril de 1983, em francês e em inglês, fazendo ambos os textos igualmente fé, num único exemplar, que será depositado nos arquivos do Conselho da Europa. O Secretário-Geral do Conselho da Europa dele enviará cópia devidamente certificada a cada um dos Estados membros do Conselho da Europa.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.

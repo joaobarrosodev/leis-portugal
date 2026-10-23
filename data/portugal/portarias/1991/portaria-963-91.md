@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/963/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/963-1991-301621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef2716ad27c52e7067b613ca532acc1b659d7a9938580f6d8aeef8aae16ce5d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c874b80e790367be1f076089c50c17074389421de6a99a5b0bed80d1fb4df1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,34 @@ relationships:
   target: pt:dre:139217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139217:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 958/90 de 09-Out, alterada pelo presente\
+    \ diploma, pela PORT.831/2005.16.09.2005.MAOTDR, DR.IS-B [179] de 16.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/831-2005-139217
+  date: '2005-09-16'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:20Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +122,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, que o n.�
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Setembro de 1991.**
+Assinada em 2 de Setembro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

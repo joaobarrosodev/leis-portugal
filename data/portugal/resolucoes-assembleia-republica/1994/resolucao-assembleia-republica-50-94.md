@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/50/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/50-1994-225578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2e810d449af8ca4c3b8ef2033a490d5a3899a0c962460e48bed3d4282df3261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b1a41b85155d750a23e1f9e6736cc19ccfa7c66627cb1812208510ef7c61416
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
+- Conselho da Europa
 - Convenção
-- Portugal
+- Cooperação Judiciária
+- Crime
+- Direito Penal
 - Estrasburgo
 - Execução de Penas
 - Execução de Sentença
-- Sanção Penal
-- Cooperação Judiciária
-- Conselho da Europa
+- Portugal
 - Recluso
-- Direito Penal
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:70300344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70300344:por
+  label: Substituido, nas relações entre Portugal e os outros Estados membros da União Europeia, a partir de 16.12.2015, as
+    disposições correspondentes da Convenção do Conselho da Europa para a Vigilância de Pessoas Condenadas ou Libertadas Condicionalmente,
+    de 30 de novembro de 1964, aprovada pela presente Resolução, pelo(a) Lei n.º 158/2015 - Diário da República n.º 182/2015,
+    Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/158-2015-70300344
+  date: '2015-09-17'
 article_structure:
-  article_count: 41
+  article_count: 40
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:44Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +109,9 @@ Aprova, para ratificação, a Convenção para a Vigilância de Pessoas Condenad
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção para a Vigilância de Pessoas Condenadas ou Libertadas Condicionalmente, aberta à assinatura dos Estados membros do Conselho da Europa em Estrasburgo em 30 de Novembro de 1964, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
+Artigo 1.º É aprovada, para ratificação, a Convenção para a Vigilância de Pessoas Condenadas ou Libertadas Condicionalmente, aberta à assinatura dos Estados membros do Conselho da Europa em Estrasburgo em 30 de Novembro de 1964, cujo texto original em francês e a respectiva tradução para português seguem em anexo à presente resolução.
 
-###### Art. 2.º Ao texto da Convenção são formuladas as seguintes declarações:
+Art. 2.º Ao texto da Convenção são formuladas as seguintes declarações:
 
 a) Para efeitos da alínea c) do n.º 2 do artigo 7.º, Portugal não procederá à vigilância, à execução ou à aplicação integral de condenação proferida à revelia;
 
@@ -111,7 +119,7 @@ b) Para efeitos do n.º 2 do artigo 29.º, Portugal reserva-se a faculdade de ex
 
 Aprovada em 3 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION EUROPÉENNE POUR LA SURVEILLANCE DES PERSONNES CONDAMNÉES OU LIBÉRÉES SOUS CONDITION.
 
@@ -803,7 +811,7 @@ As Partes Contratantes que venham a excluir das suas relações mútuas a aplica
 
 ###### Artigo 40.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho e a qualquer Estado que tenha aderido à presente Convenção:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho e a qualquer Estado que tenha aderido à presente Convenção:
 
 a) Qualquer assinatura;
 

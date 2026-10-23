@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/1992/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-1992-623241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d4b74a0e9911d29452f721a8354f28f72a7587a26dbe30c479eaec867b8fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e84b28b489f016d845b747106e8773570717125b97c275c66358e58c2e96a9d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
 subjects:
 - Associação Internacional de Desenvolvimento
 - Convenção
-- Portugal
-- Desenvolvimento
-- Ministro das Finanças
-- Instituição Especializada da ONU
 - Cooperação Internacional
+- Desenvolvimento
+- Instituição Especializada da ONU
+- Ministro das Finanças
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:37Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +97,7 @@ Aprovação, para adesão, do Convénio Constitutivo da Associação Internacion
 
 Aprovada em 3 de Novembro de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ARTICLES OF AGREEMENT OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
 
@@ -823,21 +823,17 @@ Que a consecução destes objectivos seria facilitada pelo aumento do fluxo de c
 
 acordam o seguinte:
 
-ARTIGO PRELIMINAR
+###### ARTIGO PRELIMINAR
 
 É constituída a Associação Internacional para o Desenvolvimento (a seguir denominada «Associação»), que funcionará de acordo com as disposições seguintes.
 
-ARTIGO I
-
-Objectivos
+###### ARTIGO I — Objectivos
 
 São objectivos da Associação promover o desenvolvimentos económico, aumentar a produtividade, melhorando, desta forma, o nível de vida em regiões menos desenvolvidas do mundo cujos países sejam membros da Associação e, em particular, prestando-lhes auxílio financeiro, de modo a satisfazerem as suas necessidades básicas de desenvolvimento, em termos mais flexíveis e com reflexos menos gravosos na balança de pagamentos do que os originais por empréstimos convencionais, favorecendo, desse modo, a prossecução dos objectivos de desenvolvimento do Banco Internacional para a Reconstrução e Desenvolvimento (a seguir denominado «Banco») e complementando as suas actividades.
 
 Em todas as suas decisões, a Associação será orientada pelo disposto no presente artigo.
 
-ARTIGO II
-
-Membros; subscrições iniciais
+###### ARTIGO II — Membros; subscrições iniciais
 
 #### Secção 1 — Membros
 
@@ -871,9 +867,7 @@ h) As condições em que as subscrições iniciais dos membros, à excepção do
 
 Nenhum membro será responsável por obrigações da Associação pelo simples facto de ser membro desta.
 
-ARTIGO III
-
-Aumento de recursos
+###### ARTIGO III — Aumento de recursos
 
 #### Secção 1 — Subscrições adicionais
 
@@ -893,9 +887,7 @@ b) A Associação entregará ao membro contribuinte um certificado especial de d
 
 c) O disposto nesta secção não impedirá que a Associação aceite recursos de um membro, na sua própria moeda, em termos que possam ser acordados.
 
-ARTIGO IV
-
-Moedas
+###### ARTIGO IV — Moedas
 
 #### Secção 1 — Utilização das moedas
 
@@ -919,9 +911,7 @@ c) A Associação poderá dispensar a aplicação das disposições dos parágra
 
 d) Os montantes entregues nos termos do disposto no parágrafo a) da presente secção, com vista a manter o valor de qualquer moeda, serão convertíveis e utilizáveis do mesmo modo que essa moeda.
 
-ARTIGO V
-
-Operações
+###### ARTIGO V — Operações
 
 #### Secção 1 — Utilização dos recursos e condições de financiamento
 
@@ -985,9 +975,7 @@ vi) Exercer outros poderes incidentais em relação às suas operações que sej
 
 A Associação e os seus funcionários não interferirão nos assuntos políticos de qualquer membro nem se deixarão influenciar nas suas decisões pela posição política do membro ou membros relevantes. As suas decisões pautar-se-ão essencial e exclusivamente por critérios de ordem económica, e estes critérios serão ponderados imparcialmente por forma a alcançar os objectivos enunciados nestes Estatutos.
 
-ARTIGO VI
-
-Organização e gestão
+###### ARTIGO VI — Organização e gestão
 
 #### Secção 1 — Estrutura da Associação
 
@@ -1097,9 +1085,7 @@ c) Serão distribuídos aos membros exemplares de todos os relatórios, balanço
 
 O conselho de governadores determinará, periodicamente, a aplicação do rendimento líquido da Associação, dedução feita da importância afectada às reservas e às despesas imprevistas.
 
-ARTIGO VII
-
-Exoneração; suspensão dos membros; suspensão de operações
+###### ARTIGO VII — Exoneração; suspensão dos membros; suspensão de operações
 
 #### Secção 1 — Exoneração dos membros
 
@@ -1147,9 +1133,7 @@ c) Com sujeição ao que precede, bem como a quaisquer acordos específicos rela
 
 d) Os membros que receberam activos distribuídos pela Associação, em conformidade com esta secção ou com a secção 4, terão, em relação a esses activos, os mesmos direitos de que a Associação gozava antes de fazer a distribuição.
 
-ARTIGO VIII
-
-Estatuto, imunidades e privilégios
+###### ARTIGO VIII — Estatuto, imunidades e privilégios
 
 #### Secção 1 — Objectivos deste artigo
 
@@ -1217,9 +1201,7 @@ ii) Se a única base legal para tal tributação for a localização de qualquer
 
 Cada membro deverá adoptar, nos seus próprios territórios, todas as medidas necessárias para introduzir na sua própria legislação os princípios prescritos neste artigo e informará a Associação, em pormenor, das medidas que tiver adoptado.
 
-ARTIGO IX
-
-Alterações
+###### ARTIGO IX — Alterações
 
 a) Qualquer proposta de alteração dos presentes Estatutos, quer seja apresentada por um membro, por um governador ou pelos administradores, será comunicada ao presidente do conselho de governadores, que a apresentará ao conselho de governadores. Se a alteração proposta for aprovada pelo conselho, a Associação deverá, por carta-circular ou telegrama, perguntar a todos os membros se aceitam a alteração proposta. Desde que três quintos dos membros dispondo de quatro quintos do total do poder de voto aceitem as alterações propostas, a Associação confirmará o facto por comunicação formal dirigida a todos os membros.
 
@@ -1233,9 +1215,7 @@ iii) A limitação da responsabilidade prevista no artigo II, secção 3.
 
 c) As alterações entrarão em vigor para todos os membros três meses depois da data da comunicação formal, excepto se na carta-circular ou telegrama se fixar um prazo mais curto.
 
-ARTIGO X
-
-Interpretação e arbitragem
+###### ARTIGO X — Interpretação e arbitragem
 
 a) Qualquer questão relativa à interpretação das disposições dos presentes Estatutos que surgir entre qualquer membro e a Associação ou entre quaisquer membros da Associação será submetida à decisão dos administradores. Se a questão afectar especialmente um membro da Associação que não possua o direito de nomear um administrador do Banco, aquele terá o direito de se fazer representar de harmonia com o artigo VI, secção 4, g).
 
@@ -1243,9 +1223,7 @@ b) Em qualquer caso em que os administradores tenham tomado uma decisão ao abri
 
 c) Sempre que surja desacordo entre a Associação e um país que deixou de ser membro ou entre a Associação e qualquer membro, durante a suspensão permanente das operações da Associação, esse desacordo será submetido à arbitragem de um tribunal constituído por três árbitros, um nomeado pela Associação, outro pelo país em questão e um árbitro de desempate, nomeado, salvo acordo em contrário entre as partes, pelo Presidente do Tribunal Internacional de Justiça ou qualquer outra autoridade designada por regulamento adoptado pela Associação. O árbitro de desempate terá plenos poderes para resolver todas as questões processuais em que as partes não estejam de acordo.
 
-ARTIGO XI
-
-Disposições finais
+###### ARTIGO XI — Disposições finais
 
 #### Secção 1 — Entrada em vigor
 
@@ -1283,7 +1261,7 @@ Feito em Washington, num único exemplar, que ficará depositado nos arquivos do
 
 (Em milhões de dólares dos Estados Unidos)(ver nota *)
 
-# Parte I — Austrália ... 20,18
+## Parte I — Austrália ... 20,18
 
 Áustria ... 5,04
 
@@ -1319,7 +1297,7 @@ Estados Unidos ... 320,29
 
 ... 763,07
 
-# Parte II — Afeganistão ... 1,01
+## Parte II — Afeganistão ... 1,01
 
 Argentina ... 18,83
 

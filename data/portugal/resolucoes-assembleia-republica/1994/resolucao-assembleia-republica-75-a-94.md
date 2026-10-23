@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 298/1994, 4º Suplemento, Série I-A de 1994-12-27
   number: '298'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 7380-(448) a 7380-(753)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf
 entry_into_force_dates: []
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/75-a/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-a-1994-233967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183b9c1836db4e6e940555b812a0279ccb8b529096d8cd4ba51673b89a20e28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bafb03ed52781c5fbc051ac14e8cd28d2c45407f7b893b287cf5fc9a6668b9f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,26 +71,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
+- Acto de Adesão
+- Áustria
 - Bélgica
 - Convenção
 - Corfu
-- Irlanda
-- Portugal
 - Dinamarca
-- União Europeia
 - Espanha
 - Finlândia
-- Acto de Adesão
-- RFA
-- Áustria
-- Noruega
-- Países Baixos
-- Tratado de Adesão CE
 - França
 - Grécia
+- Irlanda
 - Itália
 - Luxemburgo
+- Noruega
+- Países Baixos
+- Portugal
+- Reino Unido
+- RFA
+- Tratado de Adesão CE
+- União Europeia
 relationships:
 - type: cites
   target: celex:31968L0089
@@ -165,15 +165,15 @@ relationships:
   label: null
   source: http://data.europa.eu
 article_structure:
-  article_count: 303
-  section_count: 80
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 192
+  section_count: 67
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:29Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +188,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 15 de Dezembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 TRATADO ENTRE EL REINO DE BÉLGICA, EL REINO DE DINAMARCA, LA REPÚBLICA FEDERAL DE ALEMANHA, LA REPÚBLICA HELÉNICA, EL REINO DE ESPAÑA, LA REPÚBLICA FRANCESA, IRLANDA, LA REPÚBLICA ITALIANA, EL GRAN DUCADO DE LUXEMBURGO, EL REINO DE LOS PAÍSES BAJOS, LA REPÚBLICA PORTUGUESA, EL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE (ESTADOS MIEMBROS DE LA UNIÓN EUROPEA) Y EL REINO DE NORUEGA, LA REPÚBLICA DE AUSTRIA, LA REPÚBLICA DE FINLANDIA, EL REINO DE SUECIA, RELATIVO A LA ADHESIÓN DEL REINO DE NORUEGA, LA REPÚBLICA DE AUSTRIA, LA REPÚBLICA DE FINLANDIA Y EL REINO DE SUECIA A LA UNIÓN EUROPEA.
 
@@ -196,7 +196,7 @@ TRAKTAT MELLEM KONGERIGET, KONGERIGET DANMARK, FORBUNDSREPUBLIKKEN TYSKLAND, DEN
 
 VERTRAG ZWISCHEN DEM KÖNIGREICH BELGIAN, DEM KÖNIGREICH DÄNEMARK, DER BUNDESREPUBLIK DEUTSCHLAND, DER GRIECHISCHEN REPUBLIK, DEM KÖNIGREICH SPANIEN, DER FRANZÖSISCHEN REPUBLIK, IRLAND, DER ITALIENISCHEN REPUBLIK, DEM GROSSHERZOGTUM LUXEMBURG, DEM KÖNIGREICH DER NIEDERLANDE, DER PORTUGIESISCHEN REPUBLIK, DEM VEREINIGTEN KÖNIGREICH GROSSBRITANNIEN UND NORDIRLAND (MITGLIEDSTAATEN DER EUROPÄISCHEN UNION) UND DEM KÖNIGREICH NORWEGEN, DER REPUBLIK ÖSTERREICH, DER REPUBLIK FINNLAND, DEM KÖNIGREICH SCHWEDEN ÜBER DEN BEITRITT DES KÖNIGREICHS NORWEGEN, DER REPUBLIK, ÖSTERREICH, DER REPUBLIK FINNLAND UND DES KÖNIGREICHS SCHWEDEN ZUR EUROPÄISCHEN UNION.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 TREATY BETWEEN THE KINGDOM OF BELGIUM, THE KINGDOM OF DENMARK, THE FEDERAL REPUBLIC OF GERMANY, THE HELLENIC REPUBLIC, THE KINGDOM OF SPAIN, THE FRENCH REPUBLIC, IRELAND, THE ITALIAN REPUBLIC, THE GRAND DUCHY OF LUXEMBOURG, THE KINGDOM OF THE NETHERLANDS, THE PORTUGUESE REPUBLIC, THE UNITED KINGDOM OF GREAT BRITAIN RAND NORTHERN IRELAND (MEMBER STATES OF THE EUROPEAN UNION) RAND THE KINGDOM OF NORWAY, THE REPUBLIC OF AUSTRIA, THE REPUBLIC OF FINLAND, THE KINGDOM OF SWEDEN, CONCERNING THE ACCESSION OF THE KINGDOM OF NORWAY, THE REPUBLIC OF AUSTRIA, THE REPUBLIC OF FINLAND RAND THE KINGDOM OF SWEDEN TO THE EUROPEAN UNION.
 
@@ -248,7 +248,7 @@ Niels Helveg Petersen, Ministro das Relações Externas;
 
 Gunnar Riberholdt, embaixador, representante permanente da Dinamarca junto da União Europeia;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Helmut Kohl, Chanceler Federal;
 
@@ -256,7 +256,7 @@ Klaus Kinkel, Ministro dos Negócios Estrangeiros e Vice-Chanceler Federal;
 
 Dietrich von Kyaw, embaixador, representante permanente da República Federal da Alemanha junto da União Europeia;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Andreas Papandreou, Primeiro-Ministro;
 
@@ -272,7 +272,7 @@ Javier Solana Madariaga, Ministro das Relações Externas;
 
 Carlos Westendorp y Cabeza, Secretário de Estado para as Relações com as Comunidades Europeias;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Edouard Balladur, Primeiro-Ministro;
 
@@ -282,7 +282,7 @@ Alain Lamassoure Ministro Delegado junto do Ministro dos Negócios Estrangeiros,
 
 Pierre de Boissieu, embaixador, representante permanente da República Francesa junto da União Europeia;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Albert Reynolds, Primeiro-Ministro;
 
@@ -290,7 +290,7 @@ Dick Spring, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros;
 
 Padraic McKernan, embaixador, representante permanente da Irlanda junto da União Europeia;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Silvio Berlusconi, Presidente do Conselho de Ministros;
 
@@ -324,7 +324,7 @@ Grete Knundsen, Ministro do Comércio e da Marinha Mercante;
 
 Eivinn Berg, chefe da Delegação encarregada das negociações;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Franz Vranitzky, Chanceler Federal;
 
@@ -334,7 +334,7 @@ Ulrich Stacher, Director-Geral, Chancelaria Federal;
 
 Manfred Scheich, chefe da Missão da Áustria junto das Comunidades Europeias;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 Aníbal Cavaco Silva, Primeiro-Ministro;
 
@@ -342,7 +342,7 @@ José Durão Barroso, Ministro dos Negócios Estrangeiros;
 
 Vítor Martins, Secretário de Estado dos Assuntos Europeus;
 
-**O Presidente da República da Finlândia:**
+O Presidente da República da Finlândia:
 
 Esko Aho, Primeiro-Ministro;
 
@@ -400,7 +400,7 @@ Til bekraeftelse heraf har undertegnede befuldmaegtigede underskrevet denne Trak
 
 Zu urkund dessen haben die unterzeichneten Bevollmächtigten ihre Unterschriften unter diesen Vertrag gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 In witness whereof the undersigned Plenipotentiaries have signed this Treaty.
 
@@ -426,7 +426,7 @@ Undfaerdiget i Korfu den fireogtyvende juni nitten hundrede og fire og halvfems.
 
 Geschehen zu Korfu am vierundzwanzigsten Juni neunzehnhundertvierundneunzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Done at Corfu on the twenty-fourth day of June in the year one thousand nine hundred rand ninety-four.
 
@@ -474,7 +474,7 @@ Klaus Kinkel.
 
 Dietrich von Kyaw.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Andreas Papandreou.
 
@@ -1160,13 +1160,13 @@ As regras de execução do presente artigo serão adoptadas até 1 de Janeiro de
 
 1 - As quotas-partes das possibilidades comunitárias de pesca a atribuir à Noruega, cujas unidades populacionais (sotcks) sejam reguladas por uma limitação de capturas, são definidas, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - As possibilidades comunitárias de pesca atribuídas à Noruega serão definidas nos termos do n.º 4 do artigo 8.º do Regulamento (CEE) n.º [3760/92](http://data.europa.eu/eli/reg/1992/3760/oj?locale=pt), pela primeira vez antes de 1 de Janeiro de 1995.
 
 3 - As quantidades atribuídas à Noruega de espécies não sujeitas a limites das taxas de exploração através da limitação de capturas ou sujeitas a TAC sem repartição de quotas pelos Estados membros da União da sua composição actual serão definidas caso a caso, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 4 - Até à data de aplicação do regime comunitário de licenças de pesca nas águas da Comunidade na sua composição actual, os níveis do esforço de pesca dos navios da Noruega em relação às espécies não regulamentadas nem repartidas não podem ser superiores aos níveis atingidos imediatamente antes da entrada em vigor do Tratado de Adesão.
 
@@ -1188,13 +1188,13 @@ As normas de aplicação do presente artigo serão adoptadas até 1 de Janeiro d
 
 1 - As quotas-partes das possibilidades comunitárias de pesca, em águas sob a soberania ou jurisdição da Noruega, de unidades populacionais (stocks) que não sejam administradas conjuntamente pela União e pela Noruega e sujeitas a uma limitação de capturas, a atribuir à União na sua composição actual, são definidas, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - As possibilidades de pesca atribuídas à União na sua composição actual serão definidas nos termos do n.º 4 do artigo 8.º do Regulamento (CEE) n.º [3760/92](http://data.europa.eu/eli/reg/1992/3760/oj?locale=pt), pela primeira vez antes de 1 de Janeiro de 1995.
 
 3 - As possibilidades de pesca atribuídas à União na sua composição actual, em águas sob a soberania ou jurisdição da Noruega, de espécies não sujeitas a limitações das taxas de exploração sob forma de limites de capturas, serão definidas caso a caso, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 4 - Até à data de aplicação do regime comunitário de licenças de pesca nas águas sob a soberania ou jurisdição da Noruega, os níveis do esforço de pesca dos navios da União na sua composição actual em relação às espécies não regulamentadas nem repartidas, não podem ser superiores aos níveis atingidos imediatamente antes da entrada em vigor do Tratado de Adesão.
 
@@ -1548,7 +1548,7 @@ As regras de execução do presente artigo serão adoptadas antes de 1 de Janeir
 
 1 - As quotas-partes de possibilidades comunitárias de pesca a atribuir à Finlândia, cujas unidades populacionais (stocks) sejam reguladas por uma limitação de capturas, são definidas, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - As quotas-partes atribuídas à Finlândia serão definidas nos termos do n.º 4 do artigo 8.º do Regulamento (CEE) n.º [3760/92](http://data.europa.eu/eli/reg/1992/3760/oj?locale=pt), pela primeira vez antes de 31 de Dezembro de 1994.
 
@@ -1746,13 +1746,13 @@ As regras de execução do presente artigo serão adoptadas antes de 1 de Janeir
 
 1 - As quotas-partes das possibilidades comunitárias de pesca a atribuir à Suécia, cujas unidades populacionais (stocks) sejam regulamentadas por uma limitação de capturas, são definidas, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - As quotas-partes atribuídas à Suécia serão definidas nos termos do n.º 4 do artigo 8.º do Regulamento (CEE) n.º [3760/92](http://data.europa.eu/eli/reg/1992/3760/oj?locale=pt), pela primeira vez antes de 31 de Dezembro de 1994.
 
 3 - As quantidades atribuídas à Suécia de espécies não sujeitas a limites das taxas de exploração através da limitação de capturas, ou sujeitas a TAC sem repartição de quotas pelos Estados membros da União na sua composição actual, serão fixadas caso a caso, por espécie e por zona, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 4 - Até à data de aplicação do regime comunitário de licenças de pesca, e o mais tardar até 31 de Dezembro de 1997, nas águas da Comunidade abrangidas pelo artigo 117.º os níveis do esforço de pesca dos navios da Suécia em relação às espécies não regulamentadas nem atribuídas não podem ser superiores aos níveis atingidos imediatamente antes da entrada em vigor do presente Acto.
 
@@ -2196,7 +2196,7 @@ Os textos desses Tratados, redigidos nas línguas finlandesa, norueguesa e sueca
 
 ###### Artigo 177.º
 
-**O Secretário-Geral do Conselho remeterá uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia aos Governos dos novos Estados membros.**
+O Secretário-Geral do Conselho remeterá uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia aos Governos dos novos Estados membros.
 
 ## ANEXO I — Lista prevista no artigo 29.º do Acto de Adesão
 
@@ -2318,7 +2318,7 @@ O anexo passa a ter a seguinte redacção:
 
 Os limites máximos do montante da dívida, previstos no n.º 3 do artigo 1.º, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 III - CONCORRÊNCIA
 
@@ -3718,7 +3718,9 @@ P) Reino Unido.
 
 o) O anexo VII passa a ter a seguinte redacção:
 
-## ANEXO VII — [N.º 1, alínea b), do artigo 14.º-C]
+ANEXO VII
+
+[N.º 1, alínea b), do artigo 14.º-C]
 
 Casos em que uma pessoa esteja sujeita simultaneamente à legislação de dois Estados membros
 
@@ -4204,7 +4206,7 @@ iv) Após a entrada na rubrica «23) Dinamarca-Países Baixos» é aditado o seg
 
 24) Dinamarca-Noruega:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 25) Dinamarca-Áustria:
 
@@ -4214,11 +4216,11 @@ v) O cabeçalho «20) Dinamarca-Portugal» é alterado para «26) Dinamarca-Port
 
 27) Dinamarca-Finlândia:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 28) Dinamarca-Suécia:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 vi) O cabeçalho «21) Dinamarca-Reino Unido» é alterado para «29) Dinamarca-Reino Unido» e as rubricas subsequentes são renumeradas do modo seguinte:
 
@@ -4244,7 +4246,7 @@ Sem objecto.
 
 38) Alemanha-Áustria:
 
-#### Secção II, n.º 1, e secção III do Convénio de 2 de Agosto de 1979 sobre a Aplicação da Convenção de Seguro de Desemprego, de 19 de Julho de 1978.
+Secção II, n.º 1, e secção III do Convénio de 2 de Agosto de 1979 sobre a Aplicação da Convenção de Seguro de Desemprego, de 19 de Julho de 1978.
 
 viii) O cabeçalho «29) Alemanha-Portugal» é alterado para «39) Alemanha-Portugal» e é aditado o seguinte:
 
@@ -4446,11 +4448,11 @@ Nenhuma.
 
 106) Noruega-Finlândia:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos dos n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes do trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos dos n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes do trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 107) Noruega-Suécia:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos dos n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes do trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos dos n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes do trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 108) Noruega-Reino Unido:
 
@@ -4486,7 +4488,7 @@ xxviii) O cabeçalho «66) Portugal-Reino Unido» é alterado para «115) Portug
 
 116) Finlândia-Suécia:
 
-###### Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
+Artigo 23.º da Convenção Nórdica sobre Segurança Social, de 15 de Junho de 1992: acordo quanto à renúncia recíproca de reembolsos nos termos do n.º 3 do artigo 36.º, do n.º 3 do artigo 63.º e do n.º 3 do artigo 70.º do regulamento (custo de prestações em espécie de doença, maternidade, acidentes de trabalho e doenças profissionais e de prestações de desemprego) e do n.º 2 do artigo 105.º do regulamento de execução (custos de controlos administrativos e exames médicos).
 
 117) Finlândia-Reino Unido:
 
@@ -4546,7 +4548,9 @@ iii) O cabeçalho «L) Reino Unido» é alterado para «P) Reino Unido».
 
 h) O anexo 8 passa a ter a seguinte redacção:
 
-## ANEXO 8 — Concessão das prestações familiares
+ANEXO 8
+
+Concessão das prestações familiares
 
 (N.º 8 do artigo 4.º, n.º 1, alínea d), do artigo 10.º-A e artigo 122.º do regulamento de aplicação)
 
@@ -5334,7 +5338,7 @@ A Áustria, a Finlândia, a Noruega e a Suécia procederão pela primeira vez ao
 
 É aditado o seguinte artigo:
 
-###### Artigo 1.º-C
+Artigo 1.º-C
 
 A República da Áustria procederá ao primeiro inquérito de base em 1999. Esse inquérito incidirá sobre a situação após o arranque e as plantações da campanha 1998/1999.
 
@@ -5368,23 +5372,29 @@ O ponto 1 do anexo I passa a ter a seguinte redacção:
 
 O anexo III passa a ter a seguinte redacção:
 
-## ANEXO III — Níveis regionais referidos no artigo 6.º
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Níveis regionais referidos no artigo 6.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 6 - 393 R 0959: Regulamento (CEE) n.º [959/93](http://data.europa.eu/eli/reg/1993/959/oj?locale=pt), do Conselho, de 5 de Abril de 1993, relativo à informação estatística a fornecer pelos Estados membros sobre produtos vegetais, excepto cereais (JO, n.º L 98, de 24 de Abril de 1993, p. 1).
 
 a) O anexo VI passa a ter a seguinte redacção:
 
-## ANEXO VI — Níveis regionais mencionados no artigo 6.º
+ANEXO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Níveis regionais mencionados no artigo 6.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 b) o anexo VIII passa a ter a seguinte redacção:
 
-## ANEXO VIII — Superfícies de importância marginal e superfícies a abranger pelos inquéritos nos Estados membros
+ANEXO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Superfícies de importância marginal e superfícies a abranger pelos inquéritos nos Estados membros
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 III - Política de qualidade
 
@@ -5462,7 +5472,7 @@ No n.º 2 do artigo 3.º:
 
 - O quadro do primeiro parágrafo passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 - São aditados os seguintes parágrafos:
 
@@ -5574,13 +5584,13 @@ V - OVOS E AVES DE CAPOEIRA
 
 a) O n.º 2 do artigo 5.º passa a ter a seguinte redacção:
 
-2 - Os ovos para incubação serão transportados em embalagens irrepreensivelmente limpas, que contenham exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves de capoeira, provenientes de um único estabelecimento, e nas quais figure pelo menos a menção «oeufs à couver», «broedeieren», «rugeaeg», «Bruteier», [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf), «huevos para incubar», «eggs for hatching», «uova da cova», «rugeegg», «ovos para incubação», «munia haudottavaski» ou «kläckägg».
+2 - Os ovos para incubação serão transportados em embalagens irrepreensivelmente limpas, que contenham exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves de capoeira, provenientes de um único estabelecimento, e nas quais figure pelo menos a menção «oeufs à couver», «broedeieren», «rugeaeg», «Bruteier», [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf), «huevos para incubar», «eggs for hatching», «uova da cova», «rugeegg», «ovos para incubação», «munia haudottavaski» ou «kläckägg».
 
 b) O artigo 6.º passa a ter a seguinte redacção:
 
-###### Artigo 6.º
+Artigo 6.º
 
-Os ovos para incubação provenientes de países terceiros só podem ser importados se neles figurar, em caracteres de, pelo menos, 3 mm de altura, o nome do país de origem e a menção impressa «à couver», «broedei», «rugeaeg», «Brutei», [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf), «para incubar», «hatching», «cova», «rugeegg», «para incubação», «haudottavaksi», «för kläckning». As suas embalagens devem conter exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves de capoeira, do mesmo país de origem e do mesmo expedidor e devem mencionar pelo menos o seguinte:
+Os ovos para incubação provenientes de países terceiros só podem ser importados se neles figurar, em caracteres de, pelo menos, 3 mm de altura, o nome do país de origem e a menção impressa «à couver», «broedei», «rugeaeg», «Brutei», [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf), «para incubar», «hatching», «cova», «rugeegg», «para incubação», «haudottavaksi», «för kläckning». As suas embalagens devem conter exclusivamente ovos para incubação da mesma espécie, da mesma categoria e do mesmo tipo de aves de capoeira, do mesmo país de origem e do mesmo expedidor e devem mencionar pelo menos o seguinte:
 
 a) As indicações que figuram nos ovos;
 
@@ -5638,11 +5648,11 @@ e) O n.º 2 do artigo 24.º passa a ter a seguinte redacção:
 
 I - Quantidades de base A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 II - Quantidades de base B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 f) Ao n.º 3 do artigo 24.º são aditados os segundo e terceiro parágrafos seguintes:
 
@@ -5812,7 +5822,7 @@ b) Ao n.º 3 do artigo 2.º são aditadas as seguintes alíneas:
 
 f-A) Viiniglögi/Vinglögg:
 
-A bebida aromatizada obtida exclusivamente a partir de vinho tinto ou vinho branco e açúcar aromatizado principalmente com canela e ou cravo-de-cabecinha. Quando essa bebida tenha sido preparada a partir de vinho branco, a denominação comercial «[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)» deve ser completada com as palavras «vinho branco».
+A bebida aromatizada obtida exclusivamente a partir de vinho tinto ou vinho branco e açúcar aromatizado principalmente com canela e ou cravo-de-cabecinha. Quando essa bebida tenha sido preparada a partir de vinho branco, a denominação comercial «[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)» deve ser completada com as palavras «vinho branco».
 
 f-B) Glogg:
 
@@ -5842,7 +5852,7 @@ Na nota de rodapé (a) do n.º 1 do artigo 1.º são suprimidos os termos «da �
 
 São inseridos os artigos seguintes:
 
-###### Artigo 5.º-E
+Artigo 5.º-E
 
 1 - Em derrogação dos n.os 1, 2, 3, 4, alínea a), 5 e 6 do artigo 5.º-A, será fixado um limite máximo global para a concessão do prémio referido no artigo 5.º para a Áustria, Finlândia e Suécia. O valor total dos direitos abrangidos por esse limite máximo é fixado em:
 
@@ -5862,7 +5872,7 @@ Estes valores abrangem simultaneamente as quantidades a atribuir inicialmente e 
 
 3 - A Comissão adoptará as normas de aplicação do presente artigo, nomeadamente as medidas de adaptação e transição necessárias, nos termos do procedimento previsto no artigo 30.º
 
-###### Artigo 5.º-F
+Artigo 5.º-F
 
 1 - Em derrogação dos n.os 1, 2, 3, 4, alínea a), 5 e 6 do artigo 5.º-A, será fixado para a Noruega um limite máximo global para a concessão do prémio referido no artigo 5.º O valor total dos direitos abrangidos por esse limite máximo é fixado em:
 
@@ -6102,7 +6112,9 @@ PRIMEIRA PARTE
 
 Textos de base
 
-### CAPÍTULO 1 — Textos horizontais
+CAPÍTULO 1
+
+Textos horizontais
 
 1 - 390 L 0675: Directiva n.º [90/675/CEE](http://data.europa.eu/eli/dir/1990/675/oj?locale=pt), do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (JO, n.º L 373, de 31 de Dezembro de 1990, p. 1), alterada por:
 
@@ -6116,7 +6128,7 @@ Textos de base
 
 a) É aditado o seguinte artigo:
 
-###### Artigo 18.º-A
+Artigo 18.º-A
 
 1 - A Áustria dispõe do prazo de três anos a contar da data de entrada em vigor dos Tratados de Adesão para pôr em vigor o sistema de controlos previsto no presente capítulo. Durante esse período de transição, a Áustria aplicará as medidas definidas antes da data de entrada em vigor do Tratado de Adesão, nos termos do procedimento previsto no artigo 24.º Essas medidas devem garantir que todos os controlos necessários sejam efectuados o mais próximo possível da fronteira externa da Comunidade.
 
@@ -6144,7 +6156,7 @@ c) Ao anexo I é aditado o seguinte texto:
 
 a) É aditado o seguinte artigo:
 
-###### Artigo 17.º-A
+Artigo 17.º-A
 
 A Áustria e a Finlândia dispõem do prazo de três anos a contar da data da entrada em vigor dos Tratados de Adesão para porem em vigor o sistema de controlos previsto no presente capítulo. Durante esse período de transição, a Áustria e a Finlândia aplicarão as medidas definidas antes da data de entrada em vigor do Tratado de Adesão, nos termos do procedimento previsto no artigo 23.º Essas medidas devem garantir que todos os controlos necessários sejam efectuados o mais próximo possível da fronteira externa da Comunidade.
 
@@ -6152,7 +6164,9 @@ b) No artigo 29.º, a seguir à expressão «Estados membros», é aditada a seg
 
 , especialmente a Áustria e a Finlândia.
 
-### CAPÍTULO 2 — Saúde animal
+CAPÍTULO 2
+
+Saúde animal
 
 A) Comércio e colocação no mercado
 
@@ -6184,7 +6198,7 @@ Além disso, durante um período transitório de 3 anos a contar da data de entr
 
 e) É aditado o seguinte artigo:
 
-###### Artigo 8.º-A
+Artigo 8.º-A
 
 No que se refere à síndrome respiratória e reprodutiva dos suínos, e durante um período transitório de 3 anos a contar da data de entrada em vigor do Tratado de Adesão, deve ser efectuada uma análise serológica, com resultados negativos, em todos os suídeos vivos, incluindo os porcos selvagens, no que se refere às remessas destinadas à Suécia a partir de uma região definida na alínea o) do artigo 2.º, onde tenha sido oficialmente constatado um foco de síndrome respiratória e reprodutiva dos suínos. Essa análise será exigida durante um período de 12 meses a contar da verificação do último foco na referida região. As normas de aplicação do presente artigo serão adoptadas nos termos do procedimento previsto no artigo 12.º
 
@@ -6204,7 +6218,7 @@ g) Ao artigo 10.º são aditados os seguintes números:
 
 h) É aditado o seguinte artigo:
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 1 - Quanto às salmonelas, e enquanto se aguarda a entrada em vigor das alterações à presente directiva, os animais das espécies bovina e suína de reprodução, produção ou abate, com destino à Finlândia, Noruega ou Suécia, serão sujeitos, no local de destino, às regras do programa operacional aplicado por esses Estados membros. Se se verificar que esses animais dão resultados positivos, serão sujeitos às mesmas medidas que os animais originários desses Estados membros. Essas medidas não serão aplicáveis aos animais provenientes de explorações abrangidas por um programa reconhecido como equivalente nos termos do procedimento previsto no artigo 12.º
 
@@ -6258,7 +6272,7 @@ a) Ao artigo 8.º é aditado o seguinte número:
 
 b) É aditado o seguinte artigo:
 
-###### Artigo 8.º-A
+Artigo 8.º-A
 
 Em relação à Finlândia e à Noruega, para efeitos de aplicação dos artigos 7.º e 8.º, e a pedido desses países, a Comissão organizará os exames necessários no que se refere às doenças enumeradas nas rubricas II e III do anexo B, a fim de permitir que as decisões adequadas sejam adoptadas, se necessário, nos termos do procedimento previsto no artigo 15.º, antes da data de entrada em vigor do Tratado de Adesão.
 
@@ -6300,13 +6314,13 @@ d) Em matéria de salmonelas, as aves de capoeira destinadas à Finlândia, à N
 
 b) São aditados os seguintes artigos:
 
-###### Artigo 9.º-A
+Artigo 9.º-A
 
 1 - Em matéria de salmonelas, a Finlândia, a Noruega e a Suécia podem apresentar à Comissão um programa operacional relativo aos bandos de aves de capoeira de reprodução e aos bandos de pintos do dia que se destinam a ser introduzidos em bandos de aves de capoeira de reprodução ou em bandos de aves de capoeira de rendimento.
 
 2 - A Comissão examinará os programas operacionais. Na sequência deste exame, e caso se justifique, a Comissão, nos termos do procedimento previsto no artigo 32.º, especificará as garantias complementares gerais ou limitadas que podem ser exigidas em relação às remessas com destino à Finlândia, à Noruega e à Suécia. As referidas garantias devem ser equivalentes às que a Finlândia, a Noruega e a Suécia, respectivamente, aplicam a nível nacional. As decisões adequadas serão adoptadas antes da data de entrada em vigor do Tratado de Adesão.
 
-###### Artigo 9.º-B
+Artigo 9.º-B
 
 1 - No que se refere às salmonelas, e enquanto se aguarda a adopção de uma regulamentação comunitária, a Finlândia, a Noruega e a Suécia podem apresentar à Comissão um programa operacional relativo aos bandos de galinhas poedeiras (aves de capoeira de rendimento criadas para produção de ovos de consumo).
 
@@ -6314,7 +6328,7 @@ b) São aditados os seguintes artigos:
 
 c) É aditado o seguinte artigo:
 
-###### Artigo 10.º-B
+Artigo 10.º-B
 
 1 - Em matéria de salmonelas, e em relação aos serotipos que se encontram mencionados no capítulo III, rubrica A, do anexo II, as remessas de aves de capoeira de abate com destino à Finlândia, à Noruega e à Suécia serão submetidas a uma análise microbiológica por amostragem no estabelecimento de origem, segundo normas a definir pelo Conselho, deliberando sob proposta da Comissão, antes da data de entrada em vigor do Tratado de Adesão.
 
@@ -6358,15 +6372,15 @@ b) Ao artigo 13.º é aditado o seguinte número:
 
 c) São aditados os seguintes artigos:
 
-###### Artigo 28.º-A
+Artigo 28.º-A
 
 No que diz respeito aos peixes e aos seus ovos e gâmetas destinados à criação ou ao repovoamento, as remessas a partir de ou para a Finlândia não serão autorizadas durante um período transitório de três anos a contar da data de entrada em vigor do Tratado de Adesão.
 
-###### Artigo 28.º-B
+Artigo 28.º-B
 
 No que diz respeito aos peixes e crustáceos destinados à criação ou ao repovoamento, as remessas a partir de ou para a Noruega não serão autorizadas durante um período transitório de um ano a contar da data de entrada em vigor do Tratado de Adesão. A pedido da Noruega, e nos termos do procedimento previsto no artigo 26.º, o referido período será prorrogado anualmente. O período transitório será, no máximo, de cinco anos a contar da data de entrada em vigor do Tratado de Adesão.
 
-###### Artigo 28.º-C
+Artigo 28.º-C
 
 Segundo o procedimento previsto no artigo 26.º, podem ser adoptadas as decisões adequadas para aprovar os programas apresentados pela Finlândia, pela Noruega e pela Suécia em relação às doenças referidas na lista II do anexo A. As referidas decisões entrarão em vigor, consoante o caso, imediatamente após a adesão ou durante os períodos de transição previstos nos artigos 28.º-A e 28.º-B. A este respeito, o período de quatro anos previsto no ponto I.B do anexo B será reduzido para três anos no caso da Finlândia, incluindo, neste período, duas análises em cada unidade de produção. Quanto à Noruega, serão tomados em consideração os dados históricos relativos à IHN e à VHS.
 
@@ -6394,7 +6408,7 @@ g) No que diz respeito à síndrome respiratória e reprodutiva dos suínos, e d
 
 e) É aditado o seguinte artigo:
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 No que se refere à raiva e segundo o procedimento previsto no artigo 26.º, após apresentação das justificações adequadas, os artigos 9.º e 10.º serão alterados, a fim de tomar em consideração a situação da Finlândia, da Noruega e da Suécia, para lhes aplicar as disposições aplicáveis aos Estados membros que tenham uma situação equivalente.
 
@@ -6522,7 +6536,9 @@ Noruega: Statens Veterinaere Institut for virusforskning, Lindholm, DK-4771 Kalv
 
 Suécia: Statens veterinärmedicinska anstalt, Uppsala.
 
-### CAPÍTULO 3 — Saúde pública
+CAPÍTULO 3
+
+Saúde pública
 
 1 - 364 L 0433: Directiva n.º [64/433/CEE](http://data.europa.eu/eli/dir/1964/433/oj?locale=pt), do Conselho, de 26 de Junho de 1964, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca (JO, n.º 121, de 29 de Julho de 1964, p. 2012/64), alterada por:
 
@@ -6722,7 +6738,9 @@ Para a Áustria:
 
 Se necessário, a Comissão, depois de consultar as autoridades austríacas, alterará o presente anexo para designar um laboratório nacional de referência para o controlo das biotoxinas marinhas.
 
-### CAPÍTULO 4 — Textos mistos
+CAPÍTULO 4
+
+Textos mistos
 
 1 - 392 L 0046: Directiva n.º [92/46/CEE](http://data.europa.eu/eli/dir/1992/46/oj?locale=pt), do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado (JO, n.º L 268, de 14 de Setembro de 1992, p. 1), alterada por:
 
@@ -6816,7 +6834,9 @@ Ao n.º 1 do artigo 11.º é aditado o seguinte travessão:
 
 No artigo 3.º o n.º «18» é substituído pelo n.º «22».
 
-### CAPÍTULO 5 — Protecção dos animais
+CAPÍTULO 5
+
+Protecção dos animais
 
 391 L 0628: Directiva n.º [91/628/CEE](http://data.europa.eu/eli/dir/1991/628/oj?locale=pt), do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas n.os [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt) e [91/496/CEE](http://data.europa.eu/eli/dir/1991/496/oj?locale=pt) (JO, n.º L 340, de 11 de Dezembro de 1991, p. 17), alterada por:
 
@@ -6952,7 +6972,7 @@ Para a Comunidade, na sua composição anterior à entrada em vigor do Tratado d
 
 b) É aditado o seguinte artigo:
 
-###### Artigo 2.º-A
+Artigo 2.º-A
 
 1 - A Áustria, a Finlândia, a Noruega e a Suécia podem beneficiar da participação financeira da Comunidade, nas condições previstas no n.º 1 do artigo 1.º
 
@@ -6988,7 +7008,7 @@ Suécia.
 
 É aditado o seguinte artigo:
 
-###### Artigo 1.º-A
+Artigo 1.º-A
 
 Para a Áustria, a Finlândia, a Noruega e a Suécia, a Comissão fixará o número de unidades que podem beneficiar da participação financeira da Comunidade. As decisões adequadas para a Noruega e a Suécia serão adoptadas antes da data de entrada em vigor do Acto de Adesão.
 
@@ -7126,11 +7146,13 @@ Produção concentrada: tratamento da fase líquida, a fim de extrair uma parte 
 
 b) Ao anexo é aditado o seguinte capítulo:
 
-### CAPÍTULO VIII — Animais aquáticos - Tratamento combinado, acidificação e calor
+CAPÍTULO VIII
+
+Animais aquáticos - Tratamento combinado, acidificação e calor
 
 I - Descrição do sistema
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 A matéria-prima é reduzida por trituração e misturada com ácido fórmico, a fim de lhe reduzir o pH. A mistura é armazenada durante um período intermédio, enquanto aguarda um novo tratamento. O produto é seguidamente introduzido num conversor de calor. A progressão do produto através do conversor de calor é controlada através de comandos mecânicos que limitem a sua deslocação, de forma que o produto, no final da operação de tratamento pelo calor, tenha efectuado um ciclo suficiente em termos de tempo e temperatura. Após o tratamento pelo calor, o produto é separado em fases líquido/gordura/resíduos por via mecânica. A fim de obter um concentrado de proteínas animais, a fase líquida é aspirada para dois permutadores térmicos aquecidos a vapor e munidos de câmaras sob vácuo, para aí ser libertado da humidade sob a forma de vapor de água. Os resíduos são reincorporados no concentrado de proteína antes da armazenagem.
 
@@ -7178,7 +7200,7 @@ Ao anexo II, ponto 2, alínea d), é aditado o seguinte texto:
 
 É aditado o seguinte artigo:
 
-###### Artigo 3.º-A
+Artigo 3.º-A
 
 Para a Áustria, a Finlândia, a Noruega e a Suécia, a acção prevista no artigo 1.º será tomada a cargo pela Comunidade a 100%.
 
@@ -7186,7 +7208,7 @@ Para a Áustria, a Finlândia, a Noruega e a Suécia, a acção prevista no arti
 
 É aditado o seguinte artigo:
 
-###### Artigo 2.º-A
+Artigo 2.º-A
 
 Para a Áustria, a Finlândia, a Noruega e a Suécia, a Comissão completará, se necessário, os anexos I e II. As decisões apropriadas serão adoptadas antes da data de entrada em vigor do Tratado de Adesão.
 
@@ -7286,7 +7308,7 @@ Ao anexo II, 2 d), é aditado o seguinte texto:
 
 Ao anexo é aditado o seguinte texto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 44 - 393 D 0317: Decisão n.º [93/317/CEE](http://data.europa.eu/eli/dec/1993/317/oj?locale=pt), da Comissão, de 21 de Abril de 1993, relativa à composição do código a utilizar nas marcas auriculares de bovinos (JO, n.º L 122, de 18 de Maio de 1993, p. 45).
 
@@ -7326,11 +7348,11 @@ Da Suécia, da Noruega, da Finlândia e.
 
 No anexo são suprimidas as seguintes partes:
 
-# Parte 4 - Suécia;
+Parte 4 - Suécia;
 
-# Parte 8 - Noruega;
+Parte 8 - Noruega;
 
-# Parte 9 - Áustria.
+Parte 9 - Áustria.
 
 50 - 394 D 0024: Decisão n.º [94/24/CE](http://data.europa.eu/eli/dec/1994/24/oj?locale=pt), da Comissão, de 7 de Janeiro de 1994, que estabelece a lista dos postos de inspecção fronteiriços pré-seleccionados para os controlos veterinários dos produtos e dos animais provenientes de países terceiros e que revoga as Decisões n.os [92/430/CEE](http://data.europa.eu/eli/dec/1992/430/oj?locale=pt) e [92/431/CEE](http://data.europa.eu/eli/dec/1992/431/oj?locale=pt) (JO, n.º L 18, de 21 de Janeiro de 1994, p. 16).
 
@@ -7358,7 +7380,7 @@ Excepto no que se refere à Noruega e à Suécia, em que a data de entrada em vi
 
 e) É aditado o seguinte artigo:
 
-###### Artigo 6.º-A
+Artigo 6.º-A
 
 Para a Áustria e a Finlândia, a Comissão adoptará as medidas transitórias necessárias.
 
@@ -8492,7 +8514,7 @@ a) No n.º 2 do artigo 8.º «54» é substituído por «64».
 
 b) Ao anexo I «Lista das estações de colheita de amostras ou de medição que participam na troca de informações» é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 3 - 378 L 0659: Directiva n.º [78/659/CEE](http://data.europa.eu/eli/dir/1978/659/oj?locale=pt), do Conselho, de 18 de Julho de 1978, relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes (JO, n.º L 222, de 14 de Agosto de 1978, p. 1), alterada por:
 
@@ -8592,11 +8614,11 @@ No n.º 2 do artigo 12.º «54» é substituído por «64».
 
 a) Ao anexo I são aditadas, nas colunas indicadas, as seguintes entradas no quadro intitulado «Limites máximos e objectivos de redução das emissões de SO(índice 2) para as instalações existentes»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 b) Ao anexo II são aditadas, nas colunas indicadas, as seguintes entradas no quadro intitulado «Limites máximos e objectivos de redução das emissões de SO(índice 2) para as instalações existentes»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 C) PREVENÇÃO DA POLUIÇÃO SONORA
 
@@ -8696,11 +8718,11 @@ i) Ao quadro são aditadas as seguintes entradas:
 
 ii) Em frente dos números indicados são aditadas as seguintes colunas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 b) No anexo II/1, em frente dos números indicados são aditadas as seguintes colunas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 c) O anexo II/2 é alterado do seguinte modo:
 
@@ -8720,7 +8742,7 @@ i) Ao quadro são aditadas as seguintes entradas:
 
 ii) Em frente dos números indicados são aditadas as seguintes colunas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 d) Aos quadros no final do anexo II/2 (contendo as espécies n.os 25 a 72) é aditado o seguinte:
 
@@ -8904,13 +8926,13 @@ Norge.
 
 e) Ao anexo III/1 são aditadas as seguintes colunas em frente aos números indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 No anexo III/1, 2, após Lagopus lagopus aditar lagopus (a entrada 2 deve ler-se Lagopus lagopus lagopus, scoticus et hirbenicus).
 
 f) Ao anexo III/2 são aditadas as seguintes colunas em frente aos números indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 g) No anexo IV, alínea a), primeiro travessão, a seguir a - Snares aditar «(excepto a Finlândia, a Noruega e a Suécia em relação à captura de Lagopus lagopus lagopus e de Lagopus mutus a norte da latitude 58º N.)».
 
@@ -9148,9 +9170,11 @@ Ao n.º 2, segundo travessão, do artigo 4.º é aditado o seguinte:
 
 O primeiro quadro do anexo é substituído pelo seguinte:
 
-## ANEXO — Bacalhau na zona Spitzberg e ilha dos Ursos (divisões CIEM I e IIb, excepto águas da Comunidade)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Bacalhau na zona Spitzberg e ilha dos Ursos (divisões CIEM I e IIb, excepto águas da Comunidade)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 6 - 392 R 3760: Regulamento (CEE) n.º [3760/92](http://data.europa.eu/eli/reg/1992/3760/oj?locale=pt), do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura (JO, n.º L 389, de 31 de Dezembro de 1992, p. 1).
 
@@ -9158,17 +9182,17 @@ O anexo I é alterado do seguinte modo:
 
 a) Ao quadro «Faixa costeira da Dinamarca» é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 b) A seguir ao quadro «Faixa costeira dos Países Baixos» é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 O anexo II é alterado do seguinte modo:
 
 No quadro é aditado o seguinte ao ponto B:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 7 - 393 R 2018: Regulamento (CEE) n.º [2018/93](http://data.europa.eu/eli/reg/1993/2018/oj?locale=pt), do Conselho, de 30 de Junho de 1993, relativo à comunicação de estatísticas sobre as capturas e a actividade de pesca dos Estados membros que pescam no noroeste do Atlântico (JO, n.º L 186, de 28 de Julho de 1993, p. 1).
 
@@ -10114,7 +10138,7 @@ Energiförbrukning vid en rengöringsprocess (S).
 
 b) São aditados os seguintes anexos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 V - MÁQUINAS E MATERIAIS DE ESTALEIRO
 
@@ -11152,7 +11176,7 @@ A expressão «fixadas no artigo 2.º, no n.º 1 do artigo 7.º e no artigo 19.�
 
 vi) Após o artigo 19.º-A é aditado o seguinte:
 
-###### Artigo 19.º-B
+Artigo 19.º-B
 
 A partir da data em que a República da Áustria tome as medidas necessárias para aplicar o disposto na presente directiva, os Estados membros reconhecerão, relativamente ao exercício das actividades referidas no artigo 1.º, os diplomas, certificados e outros títulos de medicina que tenham sido concedidos na Áustria a pessoas cuja formação universitária tenha sido iniciada antes de 1 de Janeiro de 1994, acompanhados de um certificado emitido pelas autoridades austríacas competentes comprovativo de que essas pessoas exerceram na Áustria, de forma efectiva, legítima e predominantemente, as actividades definidas no artigo 5.º da Directiva n.º [78/687/CEE](http://data.europa.eu/eli/dir/1978/687/oj?locale=pt), durante, pelo menos, três anos consecutivos do período de cinco anos anterior à emissão do certificado, e que as referidas pessoas estão autorizadas a exercer essas actividades nas mesmas condições que os detentores dos diplomas, certificados e outros títulos de formação mencionados na alínea m) do artigo 3.º
 
@@ -11288,7 +11312,7 @@ V - COMÉRCIO E INTERMEDIÁRIOS
 
 Ao artigo 3.º é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - Comércio e distribuição de produtos tóxicos
 
@@ -12022,15 +12046,15 @@ o) Suécia.
 
 a) Ao apêndice A, «Designação dos produtos petrolíferos», é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 b) Ao apêndice B, «Especificações dos combustíveis automóveis», é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 c) Ao apêndice C, «Especificações dos combustíveis», é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 4 - 390 L 0377: Directiva n.º [90/377/CEE](http://data.europa.eu/eli/dir/1990/377/oj?locale=pt), do Conselho, de 29 de Junho de 1990, que estabelece um processo comunitário que assegure a transparência dos preços no consumidor final industrial de gás e electricidade (JO, n.º L 185, de 17 de Julho de 1990, p. 16), alterada por:
 
@@ -12058,19 +12082,21 @@ b) No ponto I.2 do anexo II é aditado o seguinte:
 
 Ao anexo é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 6 - 391 L 0296: Directiva n.º [91/296/CEE](http://data.europa.eu/eli/dir/1991/296/oj?locale=pt), do Conselho, de 31 de Maio de 1991, relativa ao trânsito de gás natural nas grandes redes (JO, n.º L 147, de 12 de Junho de 1991, p. 37).
 
 Ao anexo é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 7 - 392 D 0167: Decisão da Comissão, de 4 de Março de 1992, relativa à criação de um comité de peritos sobre o trânsito de electricidade nas grandes redes ([92/167/CEE](http://data.europa.eu/eli/dec/1992/167/oj?locale=pt), do Conselho) (JO, n.º L 74, de 20 de Março de 1992, p. 43).
 
 O artigo 4.º passa a ter a seguinte redacção:
 
-###### Artigo 4.º — Composição
+Artigo 4.º
+
+Composição
 
 1 - O Comité é constituído por 21 membros, ou seja:
 
@@ -12176,13 +12202,13 @@ b) É suprimido o número de ordem 5.
 
 7 - O artigo 80.º passa a ter a seguinte redacção:
 
-###### Artigo 80.º
+Artigo 80.º
 
 Os produtos originários, na presente secção, serão elegíveis, à importação na Comunidade, para beneficiarem das tarifas preferenciais a que se refere o artigo 66.º, mediante a apresentação de um certificado de origem tipo A, emitido pelas autoridades aduaneiras da Suíça com base num certificado de origem tipo A passado pelas autoridades competentes do país exportador beneficiário, desde que as condições constantes do artigo 75.º tenham sido preenchidas e que a Suíça preste assistência à Comunidade permitindo que as suas autoridades aduaneiras verifiquem a autenticidade e exactidão dos certificados de origem tipo A. É aplicável, mutatis mutandis, o mecanismo de verificação constante do artigo 95.º O prazo constante do n.º 3, primeiro parágrafo, do artigo 95.º é prorrogado por oito meses.
 
 8 - O artigo 96.º passa a ter a seguinte redacção:
 
-###### Artigo 96.º
+Artigo 96.º
 
 O disposto no n.º 1, alínea c), do artigo 75.º e no artigo 80.º só é aplicável na medida em que, no contexto das preferências generalizadas concedidas pela Suíça a certos produtos originários de países em desenvolvimento, este país aplique disposições semelhantes às acima referidas.
 
@@ -12672,13 +12698,13 @@ Suède.
 
 51 - Ao anexo 25 é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 52 - Ao anexo 27 é aditado o seguinte:
 
 Centros de comercialização para o cálculo de preços unitários por posições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 53 - O anexo 31 (DAU - Documento administrativo único) é alterado do seguinte modo:
 
@@ -12892,13 +12918,13 @@ O representante da Comissão submeterá ao Comité um projecto de medidas a toma
 
 a) É inserido o seguinte artigo:
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 Em derrogação dos artigos 3.º, 4.º e 7.º, a Noruega poderá aplicar a sua legislação nacional em vigor antes da adesão, referente à importação de mercadorias do Svalbard para o território continental da Noruega, desde que o tratamento das importações das mercadorias em causa provenientes do Svalbard vigente na Noruega antes da adesão seja mais favorável do que o que lhes seria dado pela Comunidade à entrada no território aduaneiro, tal como se encontra definido relativamente à Noruega no Regulamento (CEE) n.º [2913/92](http://data.europa.eu/eli/reg/1992/2913/oj?locale=pt), do Conselho, de 12 de Outubro de 1992, alterado pelo Acto de Adesão da Noruega.
 
 b) É inserido o seguinte artigo:
 
-###### Artigo 30.º-A
+Artigo 30.º-A
 
 Em derrogação do artigo 30.º, a Noruega fica autorizada a aplicar a sua legislação nacional em vigor antes da adesão relativamente à importação de pequenas remessas de mercadorias do Svalbard para o território continental da Noruega, desde que o tratamento das mercadorias em causa provenientes do Svalbard vigente na Noruega antes da adesão seja mais favorável do que o que lhes seria dado pela Comunidade à entrada no território aduaneiro, tal como se encontra definido relativamente à Noruega no Regulamento (CEE) n.º [2913/92](http://data.europa.eu/eli/reg/1992/2913/oj?locale=pt), do Conselho, de 12 de Outubro de 1992, alterado pelo Acto de Adesão da Noruega.
 
@@ -13004,7 +13030,7 @@ Grundsteuer;
 
 Na Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Em Espanha:
 
@@ -13174,7 +13200,7 @@ Der Bundesminister der Finanzen ou um representante autorizado:
 
 Na Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf) ou um representante autorizado;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf) ou um representante autorizado;
 
 Em Espanha:
 
@@ -13210,7 +13236,7 @@ Der Bundesminister fur Finanzen ou um representante autorizado;
 
 Em Portugal:
 
-**O Ministro das Finanças ou um representante autorizado;**
+O Ministro das Finanças ou um representante autorizado;
 
 Na Finlândia:
 
@@ -13234,7 +13260,7 @@ The Commissioners of Inland Revenue ou um representante autorizado, relativament
 
 É inserido o seguinte artigo:
 
-###### Artigo 1.º-A
+Artigo 1.º-A
 
 Em derrogação do terceiro travessão da alínea a) do artigo 1.º, a Noruega poderá aplicar a sua legislação nacional em vigor antes da adesão, referente à importação de pequenas remessas de mercadorias do Svalbard para o território continental da Noruega, desde que o tratamento dado pela Noruega antes da adesão às importações das mercadorias em causa provenientes do Svalbard seja mais favorável do que o que lhes seria dado pela Comunidade à entrada do território fiscal, tal como se encontra definido relativamente à Noruega no artigo 3.º da Directiva n.º [77/388/CEE](http://data.europa.eu/eli/dir/1977/388/oj?locale=pt), do Conselho, alterada pelo Acto de Adesão da Noruega.
 
@@ -13352,7 +13378,7 @@ se o período a que se reporta for um ano civil ou inferior a três meses.
 
 É inserido o seguinte artigo:
 
-###### Artigo 9.º-A
+Artigo 9.º-A
 
 Em derrogação dos artigos 3.º e 7.º, a Noruega poderá aplicar a sua legislação nacional em vigor antes da adesão referente à propriedade privada no momento das transferências da residencial habitual do Svalbard para o território continental da Noruega, desde que o tratamento dado pela Noruega antes da adesão às importações das mercadorias em causa provenientes do Svalbard seja mais favorável do que o que lhes seria dado pela Comunidade à entrada do território fiscal, tal como se encontra definido relativamente à Noruega no artigo 3.º da Directiva n.º [77/738/CEE](http://data.europa.eu/eli/dir/1977/738/oj?locale=pt), do Conselho, alterada pelo Acto de Adesão da Noruega.
 
@@ -13362,7 +13388,9 @@ Em derrogação dos artigos 3.º e 7.º, a Noruega poderá aplicar a sua legisla
 
 O anexo passa a ter a seguinte redacção:
 
-## ANEXO — Lista dos impostos a que se refere o n.º 1, segundo travessão, do artigo 1.º
+ANEXO
+
+Lista dos impostos a que se refere o n.º 1, segundo travessão, do artigo 1.º
 
 Bélgica:
 
@@ -13382,7 +13410,7 @@ Alemanha:
 
 Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Espanha:
 
@@ -13450,7 +13478,7 @@ XIV - EDUCAÇÃO
 
 O primeiro parágrafo do artigo 1.º da Decisão n.º [63/688/CEE](http://data.europa.eu/eli/dec/1963/688/oj?locale=pt) passa a ter a seguinte redacção.
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - O Comité Consultivo para a Formação Profissional, instituído nos termos do quarto princípio da Decisão do Conselho de 2 de Abril de 1963, que estabelece os princípios gerais para pôr em prática uma política comum de formação profissional, é composto por 96 membros sendo, por cada Estado membro, dois representantes do Governo, dois representantes das organizações sindicais e dois representantes das organizações patronais.
 
@@ -13466,7 +13494,7 @@ a «kommune» na Noruega; a «Gemeinde» na Áustria; o «concelho» em Portugal
 
 No questionário Q60.A60:
 
-#### Secção 1.1:
+Secção 1.1:
 
 Após «Países Baixos», é aditado o seguinte: «Noruega», «Áustria».
 
@@ -13476,7 +13504,7 @@ Após «Portugal», é aditado o seguinte: «Finlândia», «Suécia».
 
 a) Nos questionários M30, M30a, A30, A30a, A30b, M40, A40, A40a, Q61/A61:
 
-#### Secção 1.1:
+Secção 1.1:
 
 Após «Países Baixos», é aditado o seguinte: «Noruega», «Áustria».
 
@@ -13484,7 +13512,7 @@ Após «Portugal», é aditado o seguinte: «Finlândia», «Suécia».
 
 b) Nos questionários M40, A40, A40a:
 
-#### Secção 1.2:
+Secção 1.2:
 
 São suprimidas as palavras «Áustria», «Noruega», «Suécia».
 
@@ -13750,9 +13778,11 @@ A repartição anual desses recursos pelos Estados membros consta do anexo III.
 
 3 - Ao anexo III é aditado o seguinte:
 
-## ANEXO III — Dotações de autorização indicativas para os novos Estados membros
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Dotações de autorização indicativas para os novos Estados membros
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 XVIII - DIVERSOS
 
@@ -13768,19 +13798,19 @@ Actos CEE
 
 a) O artigo 1.º passa a ter a seguinte redacção:
 
-###### Artigo 1.º
+Artigo 1.º
 
 As línguas oficiais e as línguas de trabalho das instituições da união são o alemão, o dinamarquês, o espanhol, o finlandês, o francês, o grego, o inglês, o italiano, o neerlandês, o norueguês, o português e o sueco.
 
 b) O artigo 4.º passa a ter a seguinte redacção:
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os regulamentos e os outros textos de carácter geral serão redigidos nas doze línguas oficiais.
 
 c) O artigo 5.º passa a ter a seguinte redacção:
 
-###### Artigo 5.º
+Artigo 5.º
 
 O Jornal Oficial das Comunidades Europeias será publicado nas 12 línguas oficiais.
 
@@ -13792,23 +13822,25 @@ Actos EURATOM
 
 a) O artigo 1.º passa a ter a seguinte redacção:
 
-###### Artigo 1.º
+Artigo 1.º
 
 As línguas oficiais e as línguas de trabalho das instituições da união são o alemão, o dinamarquês, o espanhol, o finlandês, o francês, o grego, o inglês, o italiano, o neerlandês, o norueguês, o português e o sueco.
 
 b) O artigo 4.º passa a ter a seguinte redacção:
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os regulamentos e os outros textos de carácter geral serão redigidos nas doze línguas oficiais.
 
 c) O artigo 5.º passa a ter a seguinte redacção:
 
-###### Artigo 5.º
+Artigo 5.º
 
 O Jornal Oficial das Comunidades Europeias será publicado nas 12 línguas oficiais.
 
-## ANEXO II — Lista a que se refere o artigo 30.º do Acto de Adesão
+ANEXO II
+
+Lista a que se refere o artigo 30.º do Acto de Adesão
 
 I - POLÍTICA COMERCIAL
 
@@ -13848,15 +13880,17 @@ A alteração do artigo 5.º para autorizar os Estados membros a reconhecer as o
 
 Antes da adesão, será estabelecida uma lista dos mercados e portos representativos de acordo com o procedimento adequado.
 
-## ANEXO III — Disposições referidas no artigo 32.º do Acto de Adesão
+ANEXO III
+
+Disposições referidas no artigo 32.º do Acto de Adesão
 
 1 - 376 L 0116: Directiva n.º [76/116/CEE](http://data.europa.eu/eli/dir/1976/116/oj?locale=pt), do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados membros respeitantes aos adubos (JO, n.º L 24, de 30 de Janeiro de 1976, p. 21), com a última redacção que lhe foi dada pela Directiva n.º [93/69/CEE](http://data.europa.eu/eli/dir/1993/69/oj?locale=pt), da Comissão, de 23 de Julho de 1993 (JO, n.º L 185, de 28 de Julho de 1993, p. 30).
 
-###### Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos e à rotulagem de tal teor.
+Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos e à rotulagem de tal teor.
 
 2 - 391 L 0157: Directiva n.º [91/157/CEE](http://data.europa.eu/eli/dir/1991/157/oj?locale=pt), do Conselho, de 18 de Março de 1991, relativa às pilhas e acumuladores contendo determinadas matérias perigosas (JO, n.º 78, de 26 de Março de 1991, p. 38), com a última redacção que lhe foi dada pela Directiva n.º [93/86/CEE](http://data.europa.eu/eli/dir/1993/86/oj?locale=pt), da Comissão, de 4 de Outubro de 1993 (JO, n.º L 264, de 23 de Outubro de 1993, p. 51).
 
-###### Artigo 9.º, no que se refere ao teor de mercúrio das pilhas alcalinas de manganês, incluindo as pilhas de tipo botão, mencionado no n.º 1 do artigo 3.º
+Artigo 9.º, no que se refere ao teor de mercúrio das pilhas alcalinas de manganês, incluindo as pilhas de tipo botão, mencionado no n.º 1 do artigo 3.º
 
 3 - 367 L 0548: Directiva n.º [67/548/CEE](http://data.europa.eu/eli/dir/1967/548/oj?locale=pt), do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas (JO, n.º L 196, de 16 de Agosto de 1967, p. 1), com a última redacção que lhe foi dada pela Directiva n.º [93/101/CEE](http://data.europa.eu/eli/dir/1993/101/oj?locale=pt), da Comissão, de 11 de Novembro de 1993 (JO, n.º L 13, de 15 de Janeiro de 1994, p. 1).
 
@@ -13882,13 +13916,13 @@ b) N.º 3, alínea b), do artigo 3.º, no que se refere aos testes de preparados
 
 6 - 391 L 0414: Directiva n.º [91/414/CEE](http://data.europa.eu/eli/dir/1991/414/oj?locale=pt), do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado (JO, n.º 230, de 19 de Agosto de 1991, p. 1).
 
-###### Artigo 15.º e alínea f) do artigo 16.º, na medida em que estas disposições respeitantes à classificação e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
+Artigo 15.º e alínea f) do artigo 16.º, na medida em que estas disposições respeitantes à classificação e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
 
-## APÊNDICE A
+APÊNDICE A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
-## APÊNDICE B
+APÊNDICE B
 
 Designação
 
@@ -13916,19 +13950,25 @@ Monosulforeto de tetrametiltiorama.
 
 Acetaldeídio de cloro.
 
-## ANEXO IV — Lista a que se refere o artigo 39.º do Acto de Adesão
+ANEXO IV
+
+Lista a que se refere o artigo 39.º do Acto de Adesão
 
 Lista dos navios de pesca demersal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
-## ANEXO V — Lista a que se refere o n.º 5 do artigo 39.º do Acto de Adesão
+ANEXO V
+
+Lista a que se refere o n.º 5 do artigo 39.º do Acto de Adesão
 
 Lista de navios de pesca demersal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
-## ANEXO VI — Lista a que se referem os artigos 54.º, 73.º, 97.º e 126.º do Acto de Adesão
+ANEXO VI
+
+Lista a que se referem os artigos 54.º, 73.º, 97.º e 126.º do Acto de Adesão
 
 LEGISLAÇÃO ADUANEIRA
 
@@ -14030,11 +14070,15 @@ A cobrança será efectuada nas condições previstas na legislação comunitár
 
 O reembolso e a dispensa de pagamento dos direitos serão efectuados nas condições previstas na legislação comunitária. No entanto, nos casos em que os direitos em relação aos quais tenham sido apresentados pedidos de reembolso ou dispensa de pagamento digam respeito a uma dívida aduaneira constituída antes da data de adesão, o reembolso e a dispensa de pagamento dos direitos serão efectuados pelo novo Estado membro em causa, nas condições nele aplicáveis e a suas expensas.
 
-## ANEXO VII — Lista a que se refere o artigo 56.º do Acto de Adesão
+ANEXO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Lista a que se refere o artigo 56.º do Acto de Adesão
 
-## ANEXO VIII — Disposições referidas no artigo 69.º do Acto de Adesão
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+
+ANEXO VIII
+
+Disposições referidas no artigo 69.º do Acto de Adesão
 
 1 - 391 L 0173: Directiva n.º [91/173/CEE](http://data.europa.eu/eli/dir/1991/173/oj?locale=pt), do Conselho, de 21 de Março de 1991 (pentaclorofenol), que altera pela nona vez a Directiva n.º [76/769/CEE](http://data.europa.eu/eli/dir/1976/769/oj?locale=pt), do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (JO, n.º L 85, de 5 de Abril de 1991, p. 14).
 
@@ -14048,19 +14092,19 @@ Nos pontos da directiva que digam respeito aos compostos organoestânicos.
 
 4 - 376 L 0116: Directiva n.º [76/116/CEE](http://data.europa.eu/eli/dir/1976/116/oj?locale=pt), do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados membros respeitantes aos adubos (JO, n.º L 24, de 30 de Janeiro de 1976, p. 21), com a última redacção que lhe foi dada pela Directiva n.º [93/69/CEE](http://data.europa.eu/eli/dir/1993/69/oj?locale=pt), da Comissão, de 23 de Julho de 1993 (JO, n.º L 185, de 28 de Julho de 1993, p. 30).
 
-###### Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
+Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
 
 5 - 385 L 0210: Directiva n.º [85/210/CEE](http://data.europa.eu/eli/dir/1985/210/oj?locale=pt), do Conselho, de 20 de Março de 1985, relativa à aproximação das legislações dos Estados membros respeitantes ao teor de chumbo na gasolina (JO, n.º L 96, de 3 de Abril de 1985, p. 25), com a redacção que lhe foi dada pela Directiva n.º [87/416/CEE](http://data.europa.eu/eli/dir/1987/416/oj?locale=pt), do Conselho (JO, n.º L 225, de 13 de Agosto de 1987, p. 33).
 
-###### Artigo 7.º, no que respeita ao teor de benzeno na gasolina, referido no artigo 4.º
+Artigo 7.º, no que respeita ao teor de benzeno na gasolina, referido no artigo 4.º
 
 6 - 393 L 0012: Directiva n.º [93/12/CEE](http://data.europa.eu/eli/dir/1993/12/oj?locale=pt), do Conselho, de 23 de Março de 1993, relativa ao teor de enxofre de determinados combustíveis líquidos (JO, n.º L 74, de 27 de Março de 1993, p. 81).
 
-###### Artigo 3.º, no que se refere ao teor de enxofre do gasóleo, referido no n.º 2, primeiro parágrafo, do artigo 2.º
+Artigo 3.º, no que se refere ao teor de enxofre do gasóleo, referido no n.º 2, primeiro parágrafo, do artigo 2.º
 
 7 - 391 L 0157: Directiva n.º [91/157/CEE](http://data.europa.eu/eli/dir/1991/157/oj?locale=pt), do Conselho, de 18 de Março de 1991, relativa às pilhas e acumuladores, contendo determinadas matérias perigosas (JO, n.º L 78, de 26 de Março de 1991, p. 38).
 
-###### Artigo 9.º, no que se refere ao teor de mercúrio das pilhas alcalinas de manganês mencionado no n.º 1 do artigo 3.º
+Artigo 9.º, no que se refere ao teor de mercúrio das pilhas alcalinas de manganês mencionado no n.º 1 do artigo 3.º
 
 8 - 367 L 0548: Directiva n.º [67/548/CEE](http://data.europa.eu/eli/dir/1967/548/oj?locale=pt), do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas (JO, n.º L 196, de 16 de Agosto de 1967, p. 1).
 
@@ -14090,39 +14134,47 @@ c) Artigo 13.º, conjugado com o n.º 1, alínea c), do artigo 7.º, quanto às 
 
 11 - 391 L 0414: Directiva n.º [91/414/CEE](http://data.europa.eu/eli/dir/1991/414/oj?locale=pt), do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado (JO, n.º 230, de 19 de Agosto de 1991, p. 1).
 
-###### Artigo 15.º e alínea f) do artigo 16.º na medida em que estas disposições respeitantes à classificação e rotulagem se refiram à Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das legislações dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
+Artigo 15.º e alínea f) do artigo 16.º na medida em que estas disposições respeitantes à classificação e rotulagem se refiram à Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das legislações dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
 
-## APÊNDICE X
+APÊNDICE X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
-## ANEXO IX — Lista a que se refere o n.º 2 do artigo 71.º do Acto de Adesão
+ANEXO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Lista a que se refere o n.º 2 do artigo 71.º do Acto de Adesão
 
-## ANEXO X — Disposições referidas no artigo 84.º do Acto de Adesão
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+
+ANEXO X
+
+Disposições referidas no artigo 84.º do Acto de Adesão
 
 1 - 391 L 0173: Directiva n.º [91/173/CEE](http://data.europa.eu/eli/dir/1991/173/oj?locale=pt), do Conselho, de 21 de Março de 1991 (pentaclorofenol), que altera pela nona vez a Directiva n.º [76/769/CEE](http://data.europa.eu/eli/dir/1976/769/oj?locale=pt), do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (JO, n.º L 85, de 5 de Abril de 1991, p. 34).
 
 2 - 376 L 0116: Directiva n.º [76/116/CEE](http://data.europa.eu/eli/dir/1976/116/oj?locale=pt), do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados membros respeitantes aos adubos (JO, n.º L 24, de 30 de Janeiro de 1976, p. 21), com a última redacção que lhe foi dada pela Directiva n.º [93/69/CEE](http://data.europa.eu/eli/dir/1993/69/oj?locale=pt), da Comissão, de 23 de Julho de 1993 (JO, n.º L 185, de 28 de Julho de 1993, p. 30).
 
-###### Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
+Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
 
 3 - 378 L 0631: Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das legislações dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1978, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
 
 4 - 393 L 0012: Directiva n.º [93/12/CEE](http://data.europa.eu/eli/dir/1993/12/oj?locale=pt), do Conselho, de 23 de Março de 1993, relativa ao teor de enxofre de determinados combustíveis líquidos (JO, n.º L 74, de 27 de Março de 1993, p. 81).
 
-###### Artigo 3.º, no que se refere ao teor de enxofre do gasóleo, referido no n.º 2 do artigo 2.º
+Artigo 3.º, no que se refere ao teor de enxofre do gasóleo, referido no n.º 2 do artigo 2.º
 
 5 - 391 L 0414: Directiva n.º [91/414/CEE](http://data.europa.eu/eli/dir/1991/414/oj?locale=pt), do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado (JO, n.º 230, de 19 de Agosto de 1991, p. 1).
 
-###### Artigo 15.º e alínea f) do artigo 16.º, na medida em que estas disposições respeitantes à classificação e rotulagem se refiram à Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das legislações dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho,de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
+Artigo 15.º e alínea f) do artigo 16.º, na medida em que estas disposições respeitantes à classificação e rotulagem se refiram à Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das legislações dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas (pesticidas) (JO, n.º L 206, de 29 de Julho de 1968, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho,de 30 de Abril de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
 
-## ANEXO XI — Lista a que se refere o artigo 99.º do Acto de Adesão
+ANEXO XI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Lista a que se refere o artigo 99.º do Acto de Adesão
 
-## ANEXO XII — Disposições referidas no artigo 112.º do Acto de Adesão
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+
+ANEXO XII
+
+Disposições referidas no artigo 112.º do Acto de Adesão
 
 1 - 391 L 0173: Directiva n.º [91/173/CEE](http://data.europa.eu/eli/dir/1991/173/oj?locale=pt), do Conselho, de 21 de Março de 1991 (pentaclorofenol), que altera pela nona vez a Directiva n.º [76/769/CEE](http://data.europa.eu/eli/dir/1976/769/oj?locale=pt), do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (JO, n.º L 85, de 5 de Abril de 1991, p. 34).
 
@@ -14136,11 +14188,11 @@ Nos pontos da directiva que digam respeito ao arsénico e aos compostos organoes
 
 4 - 376 L 0116: Directiva n.º [76/116/CEE](http://data.europa.eu/eli/dir/1976/116/oj?locale=pt), do Conselho, de 18 de Dezembro de 1975, relativa a aproximação das legislações dos Estados membros respeitantes aos adubos (JO, n.º L 24, de 30 de Janeiro de 1976, p. 21), com a última redacção que lhe foi dada pela Directiva n.º [93/69/CEE](http://data.europa.eu/eli/dir/1993/69/oj?locale=pt), da Comissão, de 23 de Julho de 1993 (JO, n.º L 185, de 28 de Julho de 1993, p. 30).
 
-###### Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
+Artigo 7.º, no que diz respeito ao teor de cádmio dos adubos.
 
 5 - 391 L 0517: Directiva n.º [91/157/CEE](http://data.europa.eu/eli/dir/1991/157/oj?locale=pt), do Conselho, de 18 de Março de 1991, relativa às pilhas e acumuladores contendo determinadas matérias perigosas (JO, n.º L 78, de 26 de Março de 1991, p. 38).
 
-###### Artigo 9.º, no que se refere ao teor em mercúrio das pilhas alcalinas de manganés mencionado no n.º 1 do artigo 3.º
+Artigo 9.º, no que se refere ao teor em mercúrio das pilhas alcalinas de manganés mencionado no n.º 1 do artigo 3.º
 
 6 - 367 L 0548: Directiva n.º [67/548/CEE](http://data.europa.eu/eli/dir/1967/548/oj?locale=pt), do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem de substâncias perigosas (JO, n.º L 196, de 16 de Agosto de 1967, p. 1), com a última redacção que lhe foi dada pela Directiva n.º [93/101/CEE](http://data.europa.eu/eli/dir/1993/101/oj?locale=pt), da Comissão, de 11 de Novembro de 1993 (JO, n.º L 13, de 15 de Janeiro de 1994, p. 1).
 
@@ -14172,11 +14224,11 @@ Durante o período de transição referido no artigo [4V 1a], a Comunidade reexa
 
 8 - 378 L 0631: Directiva n.º [78/631/CEE](http://data.europa.eu/eli/dir/1978/631/oj?locale=pt), do Conselho, de 26 de Junho de 1978, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à classificação, embalagem e rotulagem dos preparados perigosos (pesticidas) (JO, n.º L 206, de 29 de Julho de 1978, p. 13), com a última redacção que lhe foi dada pela Directiva n.º [92/32/CEE](http://data.europa.eu/eli/dir/1992/32/oj?locale=pt), do Conselho, de 5 de Junho de 1992 (JO, n.º L 154, de 5 de Junho de 1992, p. 1).
 
-## APÊNDICE A
+APÊNDICE A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
-## APÊNDICE B
+APÊNDICE B
 
 Substâncias
 
@@ -14198,7 +14250,9 @@ Compostos de tungsténio.
 
 Óxido de zinco.
 
-## ANEXO XIII — Lista a que se refere o n.º 5 do artigo 138.º do Acto de Adesão
+ANEXO XIII
+
+Lista a que se refere o n.º 5 do artigo 138.º do Acto de Adesão
 
 NORUEGA
 
@@ -14238,7 +14292,9 @@ FINLÂNDIA
 
 Pode ser especialmente concedida para as seguintes variedades de sementes de plantas forrageiras: rabo de gato, trevo violeta, festuca dos prados e dactilo.
 
-## ANEXO XIV — Lista a que se refere o artigo 140.º do Acto de Adesão
+ANEXO XIV
+
+Lista a que se refere o artigo 140.º do Acto de Adesão
 
 NORUEGA
 
@@ -14290,7 +14346,9 @@ FINLÂNDIA
 
 - Serão concedidas dentro dos limites individuais de produção a determinar nos termos do procedimento previsto no artigo 29.º do Regulamento (CEE) n.º [4253/88](http://data.europa.eu/eli/reg/1988/4253/oj?locale=pt).
 
-## ANEXO XV — Lista a que se refere o artigo 151.º do Acto de Adesão
+ANEXO XV
+
+Lista a que se refere o artigo 151.º do Acto de Adesão
 
 I - LIVRE CIRCULAÇÃO DE MERCADORIAS
 
@@ -15110,7 +15168,9 @@ c) A Comissão deverá acompanhar a aplicação efectiva das medidas previstas n
 
 d) Três anos após a adesão da Suécia e da Noruega, a Comissão deverá apresentar ao Conselho um relatório sobre a implementação das medidas referidas na alínea b) nestes países, acompanhado, se tal se justificar, de propostas adequadas.
 
-## ANEXO XVI — Lista a que se refere o n.º 1 do artigo 165.º do Acto de Adesão
+ANEXO XVI
+
+Lista a que se refere o n.º 1 do artigo 165.º do Acto de Adesão
 
 1 - Comité do Fundo Social Europeu:
 
@@ -15252,7 +15312,9 @@ Instituído pelo artigo 4.º de 393 D 0379: Decisão n.º [93/379/CEE](http://da
 
 Instituído por 392 D 0421: Decisão n.º [92/421/CEE](http://data.europa.eu/eli/dec/1992/421/oj?locale=pt), do Conselho, de 13 de Julho de 1992, relativa a um plano de acções comunitárias a favor do turismo (JO, n.º L 231, de 13 de Agosto de 1992, p. 26).
 
-## ANEXO XVII — Lista a que se refere o n.º 2 do artigo 165.º do Acto de Adesão
+ANEXO XVII
+
+Lista a que se refere o n.º 2 do artigo 165.º do Acto de Adesão
 
 1 - Comité Consultivo para a Formação Profissional:
 
@@ -15278,7 +15340,9 @@ Instituído por 371 D 0128: Decisão n.º [71/128/CEE](http://data.europa.eu/eli
 
 Instituído por 391 D 0453: Decisão n.º [91/453/CEE](http://data.europa.eu/eli/dec/1991/453/oj?locale=pt), da Comissão, de 30 de Julho de 1991 (JO, n.º L 241, de 30 de Agosto de 1991, p. 43).
 
-## ANEXO XVIII — Lista a que se refere o artigo 167.º do Acto de Adesão
+ANEXO XVIII
+
+Lista a que se refere o artigo 167.º do Acto de Adesão
 
 A) OVOS E AVES DE CAPOEIRA
 
@@ -15340,7 +15404,9 @@ Suécia: 1 de Janeiro de 1996.
 
 Durante o período transitório não serão introduzidas batatas originárias destes Estados membros nos territórios dos outros Estados membros.
 
-## ANEXO XIX — Lista a que se refere o artigo 168.º do Acto de Adesão
+ANEXO XIX
+
+Lista a que se refere o artigo 168.º do Acto de Adesão
 
 I - LIVRE CIRCULAÇÃO DE PESSOAS, DE SERVIÇOS E DE CAPITAIS
 
@@ -15416,11 +15482,13 @@ PROTOCOLO N.º 1
 
 RELATIVO AOS ESTATUTOS DO BANCO EUROPEU DE INVESTIMENTO
 
-# PARTE I — Adaptações dos Estatutos do Banco Europeu de Investimento
+PARTE I
+
+Adaptações dos Estatutos do Banco Europeu de Investimento
 
 O artigo 3.º do Protocolo Relativo aos Estatutos do Banco passa a ter a seguinte redacção:
 
-###### Artigo 3.º
+Artigo 3.º
 
 São membros do Banco, nos termos do artigo 198.º-D do Tratado:
 
@@ -15456,7 +15524,7 @@ São membros do Banco, nos termos do artigo 198.º-D do Tratado:
 
 - O Reino Unido da Grã-Bretanha e Irlanda do Norte.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O n.º 1, primeiro parágrafo, do artigo 4.º do Protocolo Relativo aos Estatutos do Banco passa a ter a seguinte redacção:
 
@@ -15494,15 +15562,15 @@ O n.º 1, primeiro parágrafo, do artigo 4.º do Protocolo Relativo aos Estatuto
 
 - Luxemburgo: 77316 milhões.
 
-###### Artigo 3.º
+Artigo 3.º
 
 O artigo 10.º do Protocolo Relativo aos Estatutos do Banco passa a ter a seguinte redacção:
 
-###### Artigo 10.º
+Artigo 10.º
 
 Salvo disposição em contrário dos presentes Estatutos, as decisões do Conselho de Governadores serão tomadas por maioria dos seus membros. Esta maioria deve representar, pelo menos, 50% do capital subscrito. As votações do Conselho de Governadores serão efectuadas nos termos do artigo 148.º do presente Tratado.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O n.º 2, primeiro, segundo e terceiro parágrafos, do artigo 11.º do Protocolo Relativo aos Estatutos do Banco passa a ter a seguinte redacção:
 
@@ -15564,15 +15632,17 @@ Os suplentes são nomeados por um período de cinco anos pelo Conselho de Govern
 
 - Um suplente designado pela Comissão.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O n.º 2, segundo período, do artigo 12.º do Protocolo Relativo aos Estatutos do Banco passa a ter a seguinte redacção:
 
 Para a maioria qualificada são necessários 18 votos.
 
-# PARTE 2 — Outras disposições
+PARTE 2
 
-###### Artigo 6.º
+Outras disposições
+
+Artigo 6.º
 
 1 - Os novos Estados membros pagarão as importâncias a seguir discriminadas, correspondentes à sua quota do capital pago pelos Estados membros, à data de 1 de Janeiro de 1995:
 
@@ -15598,7 +15668,7 @@ Finlândia: 6048611 ECU.
 
 Estes montantes serão pagos em oito prestações semestrais iguais, a vencer nas datas fixadas para este aumento de capital, a partir de 30 de Abril de 1995.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Os novos Estados membros contribuirão, em cinco prestações semestrais iguais a vencer nas datas indicadas no n.º 1 do artigo 6.º, para o fundo de reserva, para a reserva suplementar, para as provisões equivalentes a reservas e para o montante que venha ainda a ser destinado às reservas e provisões, constituído pelo saldo da conta de ganhos e perdas estabelecido em 31 de Dezembro do ano que precede a adesão, tal como consta do balanço aprovado do Banco, com montantes correspondentes às seguintes percentagens das reservas e provisões:
 
@@ -15610,13 +15680,13 @@ Noruega: 1,60937500%;
 
 Finlândia: 1,51215278%.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Os pagamentos previstos nos artigos 6.º e 7.º do presente Protocolo serão efectuados pelos novos Estados membros em ecus ou na respectiva moeda nacional.
 
 Se for utilizada uma moeda nacional para pagamento, será tomada em consideração, para o cálculo dos montantes a pagar, a taxa de conversão aplicável no último dia útil do mês anterior às datas dos pagamentos em causa. Esta fórmula será igualmente utilizada para o ajustamento do capital previsto no artigo 7.º do Protocolo Relativo aos Estatutos do Banco.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - A partir da adesão, o Conselho de Governadores aumentará o número de membros do Conselho de administração, nomeando quatro administradores, designados respectivamente por cada um dos novos Estados membros, e um suplente designado, de comum acordo, pelo Reino da Noruega, pela República da Áustria, pela República da Finlândia e pelo Reino da Suécia.
 
@@ -15628,7 +15698,7 @@ RELATIVO ÀS ILHAS ALAND
 
 Tendo em conta que o estatuto especial das ilhas Aland é reconhecido pelo direito internacional, os tratados em que se funda a União Europeia serão aplicáveis às ilhas Aland com as seguintes derrogações:
 
-###### Artigo 1.º
+Artigo 1.º
 
 As disposições do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) não prejudicarão a aplicação das actuais disposições em vigor em 1 de Janeiro de 1994 nas ilhas Aland relativamente:
 
@@ -15636,7 +15706,7 @@ As disposições do [Tratado CE](https://diariodarepublica.pt/application/extern
 
 - Às restrições, numa base não discriminatória, ao direito de estabelecimento e ao direito de prestação de serviços das pessoas singulares sem hembygdsrätt/kotiseutuoikeus (cidadania regional) das ilhas Aland, ou das pessoas colectivas, sem licença das autoridades competentes dessas ilhas.
 
-###### Artigo 2.º
+Artigo 2.º
 
 a) O território das ilhas Aland - considerado como território terceiro, nos termos do n.º 1, terceiro travessão, do artigo 3.º da Directiva n.º [77/388/CEE](http://data.europa.eu/eli/dir/1977/388/oj?locale=pt), do Conselho, alterada, e considerado como território nacional excluído do âmbito de aplicação das directivas relativas à harmonização dos impostos especiais de consumo, nos termos do artigo 2.º da Directiva n.º [92/12/CEE](http://data.europa.eu/eli/dir/1992/12/oj?locale=pt), do Conselho - não será abrangido pela aplicação territorial das disposições comunitárias em matéria de harmonização das legislações dos Estados membros relativas aos impostos sobre o volume de negócios, aos impostos especiais de consumo e outras formas de tributação indirecta. Esta isenção não terá quaisquer efeitos sobre os recursos próprios comunitários.
 
@@ -15644,7 +15714,7 @@ Esta alínea não é aplicável às disposições da Directiva n.º [69/335/CEE]
 
 b) Esta derrogação destina-se a manter uma economia local viável nas ilhas e não produzirá efeitos negativos nos interesses da União nem nas suas políticas comuns. Se considerar que o disposto na alínea a) deixa de se justificar, especialmente em termos de concorrência leal ou de recursos próprios, a Comissão apresentará propostas adequadas ao Conselho, que decidirá nos termos dos artigos aplicáveis do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
-###### Artigo 3.º
+Artigo 3.º
 
 A Finlândia assegurará que todas as pessoas singulares e colectivas dos Estados membros beneficiem de tratamento igual nas ilhas Aland.
 
@@ -15662,11 +15732,11 @@ Atendendo a que a cultura e o modo de subsistência tradicionais dos Samis depen
 
 acordaram nas seguintes disposições:
 
-###### Artigo 1.º
+Artigo 1.º
 
 Sem prejuízo do disposto no [Tratado CE](https://diariodarepublica.pt/application/external/tratado), podem ser concedidos ao povo sami direitos exclusivos de criação de renas no interior das zonas samis tradicionais.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O presente Protocolo pode ser tornado extensivo por forma a contemplar qualquer evolução futura dos direitos exclusivos dos Samis que se prendam com os seus meios de subsistência tradicionais. O Conselho, deliberando por unanimidade, sob proposta da Comissão, e após consulta do Parlamento Europeu e do Comité das Regiões, pode adoptar as alterações necessárias ao presente Protocolo.
 
@@ -15726,23 +15796,23 @@ Considerando que há que definir os procedimentos aplicáveis a este novo object
 
 acordaram no seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 Até 31 de Dezembro de 1999, os fundos estruturais, o instrumento financeiro de orientação das pescas (IFOP) e o Banco Europeu de Investimento contribuirão cada um, nos moldes adequados, para um novo objectivo prioritário além dos cinco objectivos referidos no artigo 1.º do Regulamento (CEE) n.º [2052/88](http://data.europa.eu/eli/reg/1988/2052/oj?locale=pt), do Conselho, com a redacção que lhe foi dada pelo Regulamento (CEE) n.º [2081/93](http://data.europa.eu/eli/reg/1993/2081/oj?locale=pt), do Conselho. O novo objectivo destina-se a:
 
 - Promover o desenvolvimento e o ajustamento estrutural de regiões com uma densidade populacional extremamente reduzida (adiante designado «Objectivo n.º 6»).
 
-###### Artigo 2.º
+Artigo 2.º
 
 As zonas abrangidas pelo Objectivo n.º 6 devem, em princípio, corresponder ou pertencer a regiões de nível NUTS II com uma densidade populacional igual ou inferior a oito pessoas por quilómetro quadrado. Além disso, o apoio comunitário poderá, sob reserva do requisito de concentração, ser tornado igualmente extensivo a zonas adjacentes ou contíguas mais pequenas que preencham os mesmos critérios de densidade populacional.
 
 Essas regiões e áreas, referidas no presente Protocolo como «regiões» abrangidas pelo Objectivo n.º 6, constam da lista do anexo I.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Para o período compreendido entre 1995 e 1999, considera-se que a verba de 1109 milhões de ecus, a preços de 1995, constitui o montante adequado dos recursos comunitários a serem autorizados pelos fundos estruturais e o IFOP nas regiões abrangidas pelo Objectivo n.º 6 que figuram na lista do anexo 1. O anexo 2 estabelece a repartição dos recursos por ano e por Estado membro. Os referidos recursos vêm acrescentar-se aos fundos já previstos para pagamentos a efectuar pelos fundos estruturais e o IFOP nos termos do Regulamento (CEE) n.º [2052/88](http://data.europa.eu/eli/reg/1988/2052/oj?locale=pt), do Conselho, com a redacção que lhe foi dada pelo Regulamento (CEE) n.º [2081/93](http://data.europa.eu/eli/reg/1993/2081/oj?locale=pt), do Conselho.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Sem prejuízo do disposto nos artigos 1.º, 2.º e 3.º, as disposições dos regulamentos adiante referidos, em especial as disposições que se aplicam ao Objectivo n.º 1, aplicar-se-ão ao Objectivo n.º 6:
 
@@ -15750,11 +15820,13 @@ Sem prejuízo do disposto nos artigos 1.º, 2.º e 3.º, as disposições dos re
 
 - Regulamentos (CEE) n.os [2052/88](http://data.europa.eu/eli/reg/1988/2052/oj?locale=pt), [4253/88](http://data.europa.eu/eli/reg/1988/4253/oj?locale=pt), [4254/88](http://data.europa.eu/eli/reg/1988/4254/oj?locale=pt), [4255/88](http://data.europa.eu/eli/reg/1988/4255/oj?locale=pt) e [4256/88](http://data.europa.eu/eli/reg/1988/4256/oj?locale=pt), do Conselho, com a redacção que lhes foi dada pelos Regulamentos (CEE) n.os [2081/93](http://data.europa.eu/eli/reg/1993/2081/oj?locale=pt), [2082/93](http://data.europa.eu/eli/reg/1993/2082/oj?locale=pt), [2083/93](http://data.europa.eu/eli/reg/1993/2083/oj?locale=pt), [2084/93](http://data.europa.eu/eli/reg/1993/2084/oj?locale=pt) e [2085/93](http://data.europa.eu/eli/reg/1993/2085/oj?locale=pt), do Conselho.
 
-###### Artigo 5.º
+Artigo 5.º
 
 As disposições do presente Protocolo, incluindo a elegibilidade das regiões enumeradas no anexo I como elegíveis para a assistência dos fundos estruturais, serão reanalisadas em 1999 simultaneamente com o Regulamento Quadro (CEE) n.º [2081/93](http://data.europa.eu/eli/reg/1993/2081/oj?locale=pt), relativo aos instrumentos estruturais e às políticas e de acordo com os procedimentos previstos no referido regulamento.
 
-## ANEXO 1 — Regiões abrangidas pelo Objectivo n.º 6
+ANEXO 1
+
+Regiões abrangidas pelo Objectivo n.º 6
 
 FINLÂNDIA
 
@@ -15792,9 +15864,11 @@ mas incluindo as seguintes áreas adjacentes:
 
 As referências desse anexo ao NUTS não prejudicam as definições finais dos níveis de NUTS nas áreas e regiões acima mencionados.
 
-## ANEXO 2 — Dotações de autorização indicativas para o Objectivo n.º 6
+ANEXO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+Dotações de autorização indicativas para o Objectivo n.º 6
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Estes valores incluem, além dos créditos concedidos aos Objectivos n.os 3, 4 e 5a, quando apropriado, dotações de autorização para projectos piloto, acções inovadoras, estudos e iniciativas comunitárias nos termos do artigo 3.º e do n.º 5 do artigo 12.º do Regulamento (CEE) n.º [2052/88](http://data.europa.eu/eli/reg/1988/2052/oj?locale=pt), do Conselho, com a redacção que lhe foi dada pelo Regulamento (CEE) n.º [2081/93](http://data.europa.eu/eli/reg/1993/2081/oj?locale=pt), do Conselho.
 
@@ -15812,17 +15886,17 @@ Reconhecendo a suprema importância de manter instalações viáveis no Svalbard
 
 acordaram no seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 Os Tratados em que se funda a União Europeia não se aplicam ao Svalbard.
 
 Todavia, a adesão da Noruega à União Europeia implica que, de acordo com o acervo comunitário, e em especial com as normas da política comum de pesca, a atribuição de todos os recursos a que os navios dos Estados membros, incluindo a Noruega, têm acesso nas águas até 200 milhas em torno do Svalbard, bem como a gestão desses recursos, seja decidida pela União, com base nas práticas actuais.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - As seguintes mercadorias originárias do Svalbard podem ser importadas da União, isentas de direitos aduaneiros, encargos de efeito equivalente e restrições quantitativas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode introduzir quaisquer adaptações complementares necessárias que permitam a importação na União Europeia, nas mesmas condições, de quaisquer produtos originários do Svalbard, com excepção dos enumerados no n.º 1.
 
@@ -15842,7 +15916,7 @@ iii) Qualquer auxílio de carácter público que falseie ou ameace falsear a con
 
 5 - Sempre que surjam quaisquer dificuldades na aplicação do presente artigo, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar as medidas adequadas.
 
-###### Artigo 3.º
+Artigo 3.º
 
 A aplicação do disposto no presente Protocolo não prejudicará de modo algum as posições das Partes Contratantes relativamente à aplicação do Tratado de Paris de 1920.
 
@@ -15852,21 +15926,21 @@ RELATIVO ÀS ELEIÇÕES PARA O PARLAMENTO EUROPEU EM ALGUNS DOS NOVOS ESTADOS ME
 
 As Altas Partes Contratantes, considerando que alguns dos novos Estados membros pretendem dispor da possibilidade de realizar eleições para o Parlamento Europeu durante o período que decorre entre a assinatura do presente Tratado e a sua entrada em vigor, acordaram no seguinte:
 
-###### Artigo 1.º
+Artigo 1.º
 
 Nos termos do n.º 3 do artigo 31.º do presente Acto de Adesão, cada novo Estado membro pode realizar eleições para o Parlamento Europeu durante o período intercalar que decorre entre a assinatura do Acto de Adesão e a sua entrada em vigor nesse Estado.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Consideram-se aplicáveis às eleições realizadas nos termos do presente Protocolo as disposições pertinentes do Acto de 20 de Setembro de 1976 relativo à eleição dos representantes ao Parlamento Europeu por sufrágio universal directo, anexo à Decisão n.º [76/787/CECA](http://data.europa.eu/eli/dec/1976/787/oj?locale=pt)[76/787/CECA, CEE, EURATOM](http://data.europa.eu/eli/dec/1976/787/oj?locale=pt), com a última redacção que lhe foi dada pelo presente Acto de Adesão.
 
 As eleições serão realizadas de acordo com o disposto no anexo do presente Protocolo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os resultados das eleições realizadas nos termos dos artigos 1.º e 2.º produzirão efeitos a partir da data de entrada em vigor do presente Tratado em relação aos novos Estados membros que as tenham realizado.
 
-###### Artigo 4.º
+Artigo 4.º
 
 No que se refere aos representantes eleitos nos termos do presente Protocolo, e a partir da data da adesão dos Estados membros interessados:
 
@@ -15874,13 +15948,15 @@ No que se refere aos representantes eleitos nos termos do presente Protocolo, e 
 
 - O Tribunal de Justiça terá os mesmos poderes de que disporia se essas eleições tivessem sido realizadas nos termos do n.º 1 do artigo 31.º do Acto de Adesão.
 
-## ANEXO
+ANEXO
 
 Disposições aplicáveis às eleições para o Parlamento Europeu durante o período que precede a adesão, em alguns dos novos Estados membros.
 
-### CAPÍTULO I — Princípios gerais
+CAPÍTULO I
 
-###### Artigo 1.º
+Princípios gerais
+
+Artigo 1.º
 
 Para efeitos do presente anexo, entende-se por:
 
@@ -15904,7 +15980,7 @@ Para efeitos do presente anexo, entende-se por:
 
 - «Declaração formal», o acto do interessado cuja inexactidão é passível de sanções, nos termos da legislação nacional aplicável.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Qualquer pessoa que, no dia de referência:
 
@@ -15916,23 +15992,23 @@ tem direito de voto e é elegível no Estado candidato de residência nas eleiç
 
 Se, para serem elegíveis, os nacionais do Estado candidato de residência devem ter adquirido a nacionalidade determinado tempo antes, considera-se que os cidadãos da União preenchem esta condição quando tenham adquirido a nacionalidade de um Estado membro após esse mesmo período.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Ninguém pode votar no Estado candidato se tiver votado nas eleições de 1994 em qualquer dos Estado membros.
 
 2 - Ninguém pode ser candidato no Estado candidato se tiver sido candidato nas eleições de 1994 em qualquer dos Estado membros.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Se, para serem eleitores ou elegíveis, os nacionais do Estado candidato de residência devem ter completado um período mínimo de residência no território eleitoral desse Estado, considera-se que qualquer eleitor e elegível comunitário preenche essa condição quando tenha residido durante um período equivalente noutro Estado membro. Essa disposição é aplicável sem prejuízo das condições específicas relacionadas com a duração do período de residência num determinado círculo eleitoral ou autarquia local.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Qualquer cidadão da União que resida num Estado candidato de que não seja nacional e que não seja elegível na sequência de uma decisão individual em matéria civil ou penal, por força do direito do Estado candidato de residência ou do seu Estado membro de origem, fica privado do exercício desse direito no Estado candidato de residência nas eleições para o Parlamento Europeu.
 
 2 - A candidatura de qualquer cidadão da União às eleições para o Parlamento Europeu no Estado candidato de residência será indeferida sempre que o cidadão não possa apresentar o atestado previsto no n.º 2 do artigo 9.º
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O Estado candidato de residência pode verificar se um cidadão da União que tenha manifestado vontade de aí exercer o seu direito de voto não está privado desse direito no Estado membro de origem, na sequência de uma decisão individual em matéria penal ou civil.
 
@@ -15940,15 +16016,17 @@ Se, para serem eleitores ou elegíveis, os nacionais do Estado candidato de resi
 
 3 - O Estado membro de origem pode transmitir, na forma e prazos adequados, ao Estado candidato de residência, todas as informações necessárias para efeitos do presente artigo.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O eleitor comunitário que tenha manifestado essa vontade exercerá o direito de voto no Estado candidato de residência.
 
 2 - Se o voto for obrigatório no Estado candidato de residência, essa obrigação é aplicável aos eleitores comunitários que tenham manifestado essa vontade.
 
-### CAPÍTULO II — Exercício do direito de voto e elegibilidade
+CAPÍTULO II
 
-###### Artigo 8.º
+Exercício do direito de voto e elegibilidade
+
+Artigo 8.º
 
 1 - Os Estados candidatos adoptarão, num prazo suficiente, anterior às eleições, as medidas necessárias para permitir a inscrição nos cadernos eleitorais do eleitor comunitário que tenha manifestado essa vontade.
 
@@ -15970,7 +16048,7 @@ c) Indique a data a partir da qual reside nesse ou noutro Estado membro.
 
 4 - Os eleitores comunitários que tenham sido inscritos nos cadernos eleitorais mantêm a sua inscrição nas mesmas condições dos eleitores nacionais, até solicitarem a eliminação da inscrição ou até que sejam automaticamente eliminados do caderno por terem deixado de preencher as condições necessárias para o exercício do direito de voto.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Na apresentação da declaração de candidatura, cada elegível comunitário deve apresentar as mesmas provas que um candidato nacional. Além disso, deve apresentar uma declaração formal que especifique:
 
@@ -15984,21 +16062,25 @@ c) Se necessário, os cadernos eleitorais da autarquia local ou círculo eleitor
 
 3 - Além disso, o Estado candidato de residência pode exigir que o elegível comunitário apresente um documento de identidade válido; pode igualmente exigir que dele conste a data desde a qual é nacional de um Estado membro.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - O Estado candidato de residência informará o interessado do seguimento dado ao seu pedido de inscrição nos cadernos eleitorais ou da decisão respeitante à admissibilidade da sua candidatura.
 
 2 - Em caso de recusa de inscrição nos cadernos eleitorais ou de rejeição da candidatura, o interessado pode interpor os recursos previstos na legislação do Estado candidato de residência em casos idênticos para os eleitores e elegíveis nacionais.
 
-###### Artigo 11.º
+Artigo 11.º
 
 O Estado candidato de residência informará, com a devida antecedência e de forma adequada, os eleitores e elegíveis comunitários das condições e modalidades de exercício do direito de voto e da elegibilidade nesse Estado.
 
-###### Artigo 12.º — Os actuais Estados membros e o Estado candidato procederão ao intercâmbio das informações necessárias para efeitos do artigo 3.º
+Artigo 12.º
 
-### CAPÍTULO III — Disposições derrogatórias e transitórias
+Os actuais Estados membros e o Estado candidato procederão ao intercâmbio das informações necessárias para efeitos do artigo 3.º
 
-###### Artigo 13.º
+CAPÍTULO III
+
+Disposições derrogatórias e transitórias
+
+Artigo 13.º
 
 1 - Se, num Estado candidato, em 1 de Janeiro de 1993, a proporção de cidadãos da União nele residentes que não tenham a sua nacionalidade e tenham atingido a idade para votar ultrapassar 20% do conjunto dos cidadãos com capacidade eleitoral, aí residentes, esse Estado candidato pode reservar, em derrogação dos artigos 2.º, 8.º e 9.º:
 
@@ -16016,9 +16098,11 @@ PROTOCOLO N.º 9
 
 RELATIVO AO TRANSPORTE RODOVIÁRIO, FERROVIÁRIO E COMBINADO NA ÁUSTRIA
 
-# PARTE I — Definições
+PARTE I
 
-###### Artigo 1.º
+Definições
+
+Artigo 1.º
 
 Para efeitos do presente Protocolo, entende-se-por:
 
@@ -16036,45 +16120,51 @@ f) «Transporte combinado» o transporte efectuado por meio de veículos pesados
 
 g) «Trajectos bilaterais», o transporte internacional em deslocações efectuadas por um veículo, com o ponto de partida ou de chegada na Áustria e com o ponto de chegada ou de partida, respectivamente, noutro Estado membro e as deslocações sem carga combinadas com essas deslocações.
 
-# PARTE II — Transporte ferroviário e transporte combinado
+PARTE II
 
-###### Artigo 2.º
+Transporte ferroviário e transporte combinado
+
+Artigo 2.º
 
 A presente parte aplica-se às medidas relacionadas com a prestação de serviços de transporte ferroviário e de transporte combinado através do território da Áustria.
 
-###### Artigo 3.º
+Artigo 3.º
 
 No âmbito das respectivas competências, a Comunidade e os Estados membros interessados adoptarão e coordenarão entre si medidas destinadas a desenvolver e a promover o transporte ferroviário e o transporte combinado de mercadorias no tráfego transalpino.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Ao estabelecer as orientações previstas no artigo 129.º-C do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), a Comunidade assegurará que os eixos definidos no anexo 1 façam parte das redes transeuropeias de transporte ferroviário e combinado e sejam, além disso, identificados como projectos de interesse comum.
 
-###### Artigo 5.º
+Artigo 5.º
 
 No âmbito das respectivas competências, a Comunidade e os Estados membros interessados aplicarão as medidas constantes no anexo 2.
 
-###### Artigo 6.º
+Artigo 6.º
 
 A Comunidade e os Estados membros interessados envidarão todos os esforços para desenvolver e utilizar a capacidade ferroviária suplementar referida no anexo 3.
 
-###### Artigo 7.º
+Artigo 7.º
 
 A Comunidade e os Estados membros interessados tomarão medidas destinadas a intensificar a prestação de serviços de transporte ferroviário e de transporte combinado; quando necessário e sem prejuízo de outras disposições do Tratado, essas medidas poderão ser definidas em estreita concertação com companhias de caminhos de ferro e outros prestadores de serviços de transporte ferroviário. Deve ser dada prioridade às medidas previstas nas disposições comunitárias sobre transporte ferroviário e transporte combinado; na sua aplicação, deve ser dada particular atenção à competitividade, à eficácia e à transparência dos custos do transporte ferroviário e do transporte combinado. Os Estados membros interessados deverão, em especial, envidar todos os esforços para que essas medidas assegurem a competitividade dos preços do transporte combinado em relação a outras modalidades de transporte. Quaisquer auxílios concedidos para esse efeito deverão ser conformes com as normas comunitárias.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Em caso de grave perturbação do tráfego ferroviário de trânsito causada, por exemplo, por uma catástrofe natural, a Comunidade e os Estado membros interessados desencadearão concertadamente todas as iniciativas susceptíveis de manter o fluxo de tráfego. Certos transportes sensíveis, nomeadamente os de géneros alimentícios perecíveis, beneficiarão de um tratamento prioritário.
 
-###### Artigo 9.º — A Comissão procederá à revisão da presente parte, nos termos do procedimento previsto no artigo 16.º
+Artigo 9.º
 
-# PARTE III — Transporte rodoviário
+A Comissão procederá à revisão da presente parte, nos termos do procedimento previsto no artigo 16.º
 
-###### Artigo 10.º
+PARTE III
+
+Transporte rodoviário
+
+Artigo 10.º
 
 A presente parte aplica-se ao transporte rodoviário de mercadorias em trajectos efectuados dentro do território da Comunidade.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - No que diz respeito aos trajectos que incluem o tráfego rodoviário de mercadorias em trânsito na Áustria, aplicar-se-á o regime estabelecido na Primeira Directiva do Conselho, de 23 de Julho de 1962, aos trajectos por conta própria, e no Regulamento (CEE) n.º [881/92](http://data.europa.eu/eli/reg/1992/881/oj?locale=pt), do Conselho, aos trajectos a título oneroso, sem prejuízo do disposto no presente artigo.
 
@@ -16100,7 +16190,7 @@ e) A Comissão distribuirá os ecopontos entre os Estados membros, de acordo com
 
 As medidas referidas no primeiro parágrafo garantirão a manutenção da situação de facto, resultante para os Estados membros da aplicação do Regulamento (CEE) n.º [3637/92](http://data.europa.eu/eli/reg/1992/3637/oj?locale=pt), do Conselho, e do Convénio Administrativo, assinado em 23 de Dezembro de 1992, que determina a data de entrada em vigor e o processo de introdução do sistema de ecopontos referido no Acordo de Trânsito. Envidar-se-ão os esforços necessários para garantir que a quota-parte de ecopontos atribuída à Grécia tome suficientemente em consideração as necessidades gregas neste âmbito.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - No que diz respeito ao transporte internacional de mercadorias em trajectos entre Estados membros, aplicar-se-á o regime estabelecido no Regulamento (CEE) n.º [881/92](http://data.europa.eu/eli/reg/1992/881/oj?locale=pt), do Conselho, sob reserva do disposto no presente artigo. Estas disposições serão aplicáveis até 31 de Dezembro de 1996.
 
@@ -16114,19 +16204,19 @@ Se necessário, o Conselho, deliberando por maioria qualificada, sob proposta da
 
 5 - Os transportadores que possuam uma licença comunitária emitida pelas autoridades competentes da Áustria não poderão efectuar transportes internacionais de mercadorias em trajectos sem operações de carga ou descarga em território austríaco. Todos estes trajectos que impliquem o trânsito pela Áustria devem ser, todavia, sujeitos ao disposto no artigo 11.º e, à excepção dos trajectos entre a Alemanha e a Itália, às quotas actuais, às quais se aplicará o disposto no n.º 2.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Até 31 de Dezembro de 1996, as disposições do Regulamento (CEE) n.º [3118/93](http://data.europa.eu/eli/reg/1993/3118/oj?locale=pt) não serão aplicáveis aos transportadores que possuam uma licença comunitária emitida pelas autoridades competentes da Áustria para a prestação de serviços nacionais de transporte rodoviário noutros Estados membros.
 
 2 - Durante o mesmo período, as disposições do Regulamento (CEE) n.º [3118/93](http://data.europa.eu/eli/reg/1993/3118/oj?locale=pt) não serão aplicáveis aos transportadores que possuam uma licença comunitária emitida pelas autoridades competentes de outro Estado membro para a prestação de serviços nacionais de transporte rodoviário na Áustria.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Não haverá quaisquer controlos nas fronteiras entre a Áustria e os outros Estados membros. No entanto, em derrogação dos Regulamentos (CEE) n.º [4060/89](http://data.europa.eu/eli/reg/1989/4060/oj?locale=pt) e (CEE) n.º [3912/92](http://data.europa.eu/eli/reg/1992/3912/oj?locale=pt), e sem prejuízo do artigo 153.º do Acto de Adesão, poderão continuar a ser efectuados, até 31 de Dezembro de 1996, controlos físicos não discriminatórios que impliquem a paragem de veículos exclusivamente para verificar os ecopontos emitidos nos termos do artigo 11.º e as licenças de transporte referidas no artigo 12.º Esses controlos não deverão provocar um abrandamento indevido do fluxo normal de tráfego.
 
 2 - Na medida do necessário, os métodos de controlo, incluindo sistemas electrónicos, aplicáveis depois de 31 de Dezembro de 1996, relacionados com a aplicação do artigo 11.º, serão decididos nos termos do procedimento previsto no artigo 16.º
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Em derrogação da alínea f) do artigo 7.º da Directiva n.º [93/89/CEE](http://data.europa.eu/eli/dir/1993/89/oj?locale=pt), a Áustria pode aplicar, até 31 de Dezembro de 1995, direitos de uso até um nível máximo de 3750 ECU por ano, incluindo custos administrativos, e, até 31 de Dezembro de 1996, a um nível máximo de 2500 ECU por ano, incluindo custos administrativos.
 
@@ -16136,9 +16226,11 @@ Se necessário, o Conselho, deliberando por maioria qualificada, sob proposta da
 
 4 - Até 31 de Dezembro de 1995, a Itália pode aplicar, aos veículos registados na Áustria, direitos de um nível máximo de 6,5 ECU por entrada, incluindo custos administrativos, e, até 31 de Dezembro de 1996, de um nível máximo de 3,5 ECU por entrada, incluindo custos administrativos. Esses direitos serão administrados de acordo com a alínea c) do artigo 7.º da Directiva n.º [93/89/CEE](http://data.europa.eu/eli/dir/1993/89/oj?locale=pt).
 
-# PARTE IV — Disposições gerais
+PARTE IV
 
-###### Artigo 16.º
+Disposições gerais
+
+Artigo 16.º
 
 1 - A Comissão será assistida por um Comité composto por representantes dos Estados membros e presidido pelo representante da Comissão.
 
@@ -16150,7 +16242,9 @@ Se as medidas previstas não forem conformes com o parecer do Comité, ou na fal
 
 4 - Se, no termo de um período de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas.
 
-## ANEXO 1 — Grandes eixos transalpinos de transporte ferroviário e combinado
+ANEXO 1
+
+Grandes eixos transalpinos de transporte ferroviário e combinado
 
 (a que se refere o artigo 4.º do Protocolo)
 
@@ -16168,7 +16262,9 @@ Se as medidas previstas não forem conformes com o parecer do Comité, ou na fal
 
 2 - Os prolongamentos e os terminais fazem parte integrante desses grandes eixos.
 
-## ANEXO 2 — Obras de infra-estrutura de transporte ferroviário e combinado
+ANEXO 2
+
+Obras de infra-estrutura de transporte ferroviário e combinado
 
 (a que se refere o artigo 5.º do Protocolo)
 
@@ -16292,13 +16388,15 @@ A longo prazo: disponível:
 
 - No final de 2010 no que respeita ao eixo do Brenner.
 
-## ANEXO 3 — Capacidade ferroviária
+ANEXO 3
+
+Capacidade ferroviária
 
 (a que se refere o artigo 6.º do Protocolo)
 
 1 - Capacidade suplementar dos caminhos de ferro austríacos no que respeita ao trânsito de mercadorias através da Áustria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 2 - Aumento possível das capacidades
 
@@ -16326,11 +16424,15 @@ A longo prazo: disponível:
 
 - No final de 2010 no que respeita ao eixo do Brenner.
 
-## ANEXO 4 — [a que se refere o n.º 2, alínea a), do artigo 11.º do Protocolo]
+ANEXO 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[a que se refere o n.º 2, alínea a), do artigo 11.º do Protocolo]
 
-## ANEXO 5 — Cálculo e gestão dos ecopontos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+
+ANEXO 5
+
+Cálculo e gestão dos ecopontos
 
 [a que se refere o n.º 2, alínea b), do artigo 11.º do Protocolo]
 
@@ -16370,7 +16472,9 @@ No âmbito da União Europeia, aplicar-se-á o seguinte:
 
 2 - Na versão em língua alemã dos novos actos jurídicos, os termos correspondentes utilizados na Alemanha serão acompanhados da forma adequada pelos termos austríacos específicos referidos no anexo do presente Protocolo.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+ANEXO
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 TEXTO DA ACTA FINAL
 
@@ -16384,43 +16488,43 @@ III) Os textos a seguir enumerados, que vêm anexos ao Acto Relativo às Condiç
 
 A):
 
-## Anexo I: Lista a que se refere o artigo 29.º do Acto de Adesão;
+Anexo I: Lista a que se refere o artigo 29.º do Acto de Adesão;
 
-## Anexo II: Lista a que se refere o artigo 30.º do Acto de Adesão;
+Anexo II: Lista a que se refere o artigo 30.º do Acto de Adesão;
 
-## Anexo III: Disposições referidas no artigo 32.º do Acto de Adesão;
+Anexo III: Disposições referidas no artigo 32.º do Acto de Adesão;
 
-## Anexo IV: Lista a que se refere o n.º 1 do artigo 39.º do Acto de Adesão;
+Anexo IV: Lista a que se refere o n.º 1 do artigo 39.º do Acto de Adesão;
 
-## Anexo V: Lista a que se refere o n.º 5 do artigo 39.º do Acto de Adesão;
+Anexo V: Lista a que se refere o n.º 5 do artigo 39.º do Acto de Adesão;
 
-## Anexo VI: Lista a que se referem os artigos 54.º, 73.º, 97.º e 126.º do Acto de Adesão;
+Anexo VI: Lista a que se referem os artigos 54.º, 73.º, 97.º e 126.º do Acto de Adesão;
 
-## Anexo VII: Lista a que se refere o artigo 56.º do Acto de Adesão;
+Anexo VII: Lista a que se refere o artigo 56.º do Acto de Adesão;
 
-## Anexo VIII: Disposições referidas no artigo 69.º do Acto de Adesão;
+Anexo VIII: Disposições referidas no artigo 69.º do Acto de Adesão;
 
-## Anexo IX: Lista a que se refere o n.º 2 do artigo 71.º do Acto de Adesão;
+Anexo IX: Lista a que se refere o n.º 2 do artigo 71.º do Acto de Adesão;
 
-## Anexo X: Disposições referidas no artigo 84.º do Acto de Adesão;
+Anexo X: Disposições referidas no artigo 84.º do Acto de Adesão;
 
-## Anexo XI: Lista a que se refere o artigo 99.º do Acto de Adesão;
+Anexo XI: Lista a que se refere o artigo 99.º do Acto de Adesão;
 
-## Anexo XII: Disposições referidas no artigo 112.º do Acto de Adesão;
+Anexo XII: Disposições referidas no artigo 112.º do Acto de Adesão;
 
-## Anexo XIII: Lista a que se refere o n.º 5 do artigo 138.º do Acto de Adesão;
+Anexo XIII: Lista a que se refere o n.º 5 do artigo 138.º do Acto de Adesão;
 
-## Anexo XIV: Lista a que se refere o artigo 140.º do Acto de Adesão;
+Anexo XIV: Lista a que se refere o artigo 140.º do Acto de Adesão;
 
-## Anexo XV: Lista a que se refere o artigo 151.º do Acto de Adesão;
+Anexo XV: Lista a que se refere o artigo 151.º do Acto de Adesão;
 
-## Anexo XVI: Lista a que se refere o n.º 1 do artigo 165.º do Acto de Adesão;
+Anexo XVI: Lista a que se refere o n.º 1 do artigo 165.º do Acto de Adesão;
 
-## Anexo XVII: Lista a que se refere o n.º 2 do artigo 165.º do Acto de Adesão;
+Anexo XVII: Lista a que se refere o n.º 2 do artigo 165.º do Acto de Adesão;
 
-## Anexo XVIII: Lista a que se refere o artigo 167.º do Acto de Adesão;
+Anexo XVIII: Lista a que se refere o artigo 167.º do Acto de Adesão;
 
-## Anexo XIX: Lista a que se refere o artigo 168.º do Acto de Adesão;
+Anexo XIX: Lista a que se refere o artigo 168.º do Acto de Adesão;
 
 B):
 
@@ -16994,7 +17098,7 @@ Tenho a honra de confirmar o acordo do Governo do meu país quanto ao teor da pr
 
 Apresento a V. Ex.ª os protestos da minha mais elevada consideração.
 
-## ANEXO
+ANEXO
 
 Processo de informação e consulta para a adopção de certas decisões e outras medidas a tomar durante o período que precede a adesão.
 
@@ -17060,7 +17164,7 @@ Undfaerdiget i Korfu den fireogtyvende juni nitten hundrede og fire og halvfems.
 
 Geschehen zu Korfu am vierundzwanzigsten Juni neunzehnhundertvierundneunzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Done at Corfu on the twenty-fourth day of June in the year one thousand nine hundred rand ninety-four.
 
@@ -17108,7 +17212,7 @@ Klaus Kinkel.
 
 Dietrich von Kyaw.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 Andreas Papandreou.
 
@@ -17232,7 +17336,7 @@ Foranstaende tekst er en bekraeftet genpart af det eneste originaleksemplar af s
 
 Der Vorstechende Text stimmt mit dem einzigen Exemplar der am vierundzwanzigsten juni neunzehnhundertvierundneunzig in Korfu unterzeichneten und im Archiv der Regierung der Italienischen Republik hinterlegten SchBakte des Vertrages über den Beitritt des königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union überein.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a04/04480753.pdf)
 
 The preceding text is a certified true copy of the single original of the Final Act of the Treaty concerning the accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union, signed at Sorfu on the twenty-fourth day of June in the year one thousand nine hundred and ninety four and deposited in the archives of the Government of the Italian Republic
 

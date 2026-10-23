@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110/1992/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1992-158638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 440741c95c796221ac8fe154ce7e2200d7aa1e6da41c494a8ad04d12ad2eabe0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a84cb837cd69340aa03919eab8ed4dcb841a452a10e85a824857d0b48f0310b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
+- Marinha
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38/1991/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38/1991/01/17/p/dre
+- type: cites
+  target: pt:dre:495328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647953:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 25/92, PUBLICADA NO DR.IS-A, 76, 2 SUPL, DE 920331.\020331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/25-1992-647953
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:45Z'
   warnings: []
   errors: []
 ---
@@ -117,11 +137,11 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 1.º Os quantitativos máximos de militares, prontos da instrução, destinados à prestação de serviço efectivo além dos quadros permanentes, a que se refere o n.º 2 do artigo 4.º da [Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/lei/22-1991-659544), de 19 de Junho são os constantes do quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf))](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf)
 
 2.º Nos termos e para os efeitos do n.º 4 do artigo 45.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, com a redacção dada pela ratificação da [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), de 17 de Julho, os quantitativos referidos no n.º 1.º integram os seguintes máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf))](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/045b00/10511052.pdf)
 
 3.º No caso das praças da Marinha e até um máximo de 261, as contratações deverão ser compensadas por igual número de vagas nos quadros permanentes.
 
@@ -135,6 +155,6 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 29 de Janeiro de 1992.**
+Assinada em 29 de Janeiro de 1992.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

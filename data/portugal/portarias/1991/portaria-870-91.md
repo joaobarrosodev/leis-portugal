@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/870/1991/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/870-1991-403315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d23734fc3611f5331af6a3716bf5ff2ab9d2e6ccade58f43f4dbd9cd65190c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d45b6920a52198d83730d599d9b4edc7fdf67b186fb880378702d4c0fa933f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equipamento de Veículo
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:230959:por
@@ -91,16 +91,21 @@ relationships:
   target: celex:31991L0226
   label: null
   source: http://data.europa.eu/eli/dir/1991/226/oj
+- type: repealed_by
+  target: pt:dre:230959:por
+  label: "Revogada pela PORT.906/92.21.09.1992.MAI, DR.IS-B [218] de 21.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-1992-230959
+  date: '1992-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:03Z'
   warnings: []
   errors: []
 ---
@@ -119,14 +124,14 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Julho de 1991.**
+Assinada em 31 de Julho de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
 
 ## ANEXO I — Veículos automóveis e seus componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf))](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf)
 
 ## ANEXO II — Directivas contendo disposições sobre características técnicas dos veículos automóveis e seus componentes e sua aprovação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf))](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/192b00/43624363.pdf)

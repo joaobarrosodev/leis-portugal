@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/788/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1991-682242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 295184a8bb253f32b2752cf0882546497144071e88a4b2b0b8fa37a8f104da24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 419e27c4c8fea7b455a0946004f68d5d87d221cbff06f5d72a22f3ad842a1151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,29 @@ subjects:
 - Cabo Verde
 - Equivalência de Diplomas
 - Sistema Educativo
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:08Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +125,12 @@ b) Matemática, no caso dos estudantes que tenham concluído a área de Estudos 
 
 Ministério da Educação.
 
-**Assinada em 17 de Julho de 1991.**
+Assinada em 17 de Julho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo à Portaria n.º 788/91, de 8 de Agosto
+Anexo à Portaria n.º 788/91, de 8 de Agosto
 
 Tabela de correspondência entre as disciplinas do curso propedêutico da República de Cabo Verde e do 12.º ano de escolaridade (via de ensino) do sistema de ensino português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/181b00/39883989.pdf))](https://files.diariodarepublica.pt/1s/1991/08/181b00/39883989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/181b00/39883989.pdf)

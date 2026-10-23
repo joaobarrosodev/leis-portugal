@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/1992/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-1992-175317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eaeeaac0637469f81b074cf56365f12cf0d8d884116e7128454b401938dd6ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb78369e61e1f829033a72a0660be7da7fca2b34a14132b07284d5e345b0f2e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:180451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:02Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +185,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 3 de Fevereiro de 1992.**
+Assinada em 3 de Fevereiro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/060b00/12581261.pdf))](https://files.diariodarepublica.pt/1s/1992/03/060b00/12581261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/060b00/12581261.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/148b00/33573358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/596/1991/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-1991-649125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9411816287dffed69e2066b5da6ec6cb35ed21f020bcdbedb9866dbbfd4e9074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d50abbfaa9830313e4878b12ec15daacf2b9b1fb79c35cb4e581e9f52d39b2d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Instrumentação e Qualidade Industrial
 - Instituto Politécnico
 - Instituto Superior de Engenharia
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:544640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230675:por
+  label: "Alterado o plano de estudos e a designação do curso para Engenharia de Instrumentação e Qualidade Industrial, pela\
+    \ PORT.303/95.11.04.1995.ME, DR.IS-B [86] de 11.04.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/303-1995-230675
+  date: '1995-04-11'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544640:por
+  label: "Revogada, com a redacção dada pela Port 303/95 de 11-Abr, pela PORT.963/2000.2000.10.09.ME DR.IS-B [233], nos termos\
+    \ do disposto no respectivo nº 2º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-2000-544640
+  date: '2000-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:24Z'
   warnings: []
   errors: []
 ---
@@ -173,8 +193,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 28 de Maio de 1991.**
+Assinada em 28 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/148b00/33573358.pdf))](https://files.diariodarepublica.pt/1s/1991/07/148b00/33573358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/148b00/33573358.pdf)

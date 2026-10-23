@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/20/2008/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2008-448962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd710713f0098cbdb4d4ea8da4b5e2fa2ac4050dbbee013c200937ebf8c4c215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c868c3787eefbf1b818e35249fd35065b6e9b112c1f5ec293018f0e1d4cd6d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,21 +72,26 @@ subjects:
 - Combate à Fraude
 - Comunidade Europeia
 - Convenção
-- Portugal
-- Fraude
 - Evasão Fiscal
+- Fraude
 - Luxemburgo
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:448965:por
+  label: "Ratificado o Acordo pelo DEC.32/2008.30.05.2008.PR, DR.IS [104] de 30.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-2008-448965
+  date: '2008-05-30'
 article_structure:
   article_count: 48
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:20Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de Fevereiro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE COOPERAÇÃO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A CONFEDERAÇÃO SUÍÇA, POR OUTRO, PARA LUTAR CONTRA A FRAUDE E QUAISQUER OUTRAS ACTIVIDADES ILEGAIS LESIVAS DOS SEUS INTERESSES FINANCEIROS.
 
@@ -567,7 +572,7 @@ As disposições do presente Acordo são aplicáveis aos pedidos relativos às a
 
 Em fé do que os plenipotenciários abaixo assinados apuseram as suas assinaturas no presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf)
 
 Acta Final
 
@@ -619,4 +624,4 @@ Quanto ao artigo 43.º:
 
 A Comissão Europeia comunicará à Confederação Suíça uma lista indicativa dos territórios em que o presente Acordo é aplicável, o mais tardar no momento da sua assinatura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0302703041.pdf)

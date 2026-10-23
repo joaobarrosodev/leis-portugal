@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 122/1988, 1º Suplemento, Série I de 1988-05-26
   number: '122'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2266-(2) a 2266-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf
 entry_into_force_dates: []
@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-a-1988-238987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeb5ab2d3dd4eb299dc05317a2e4825aad0522ea747360b7c0658023cc560469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf658e1cb044848964f30d91328ba201cbfd05417cf43a6926ee8464ee2357d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência Multilateral de Garantia dos Investimentos
+- Convenção
+- Investimento
+- Portugal
 relationships: []
 article_structure:
   article_count: 79
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:26Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ A Assembleia da República resolve, nos termos do artigo 164.º, alínea i), e n
 
 Aprovada em 20 de Maio de 1988.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENTION ESTABLISHING THE MULTILATERAL INVESTMENT GUARANTEE AGENCY
 
@@ -970,7 +974,7 @@ SCHEDULE A
 
 Membership and subscriptions
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf)
 
 SCHEDULE B
 
@@ -1078,7 +1082,9 @@ c) O Conselho de Governadores, por maioria qualificada, pode, em qualquer altura
 
 Cada membro originário da Agência subscreverá, ao valor par, o número de acções do capital indicado a seguir ao seu nome no apêndice A. Cada um dos outros membros subscreverá o número de acções do capital, nos termos e condições que o Conselho de Governadores determine, mas em caso algum, a um preço de emissão abaixo do par. Nenhum membro poderá subscrever menos de 50 acções. O Conselho de Governadores pode adoptar regras segundo as quais os membros podem subscrever acções adicionais do capital autorizado.
 
-###### Artigo 7 — Divisão do capital subscrito e sua realização
+###### Artigo 7
+
+##### Divisão do capital subscrito e sua realização
 
 A subscrição inicial de cada membro será paga do seguinte modo:
 
@@ -1186,7 +1192,7 @@ Os termos e condições de cada contrato de garantia serão determinados pela Ag
 
 ###### Artigo 17 — Pagamento de indemnizações
 
-**O presidente, sob a direcção do Conselho de Administração, decidirá sobre o pagamento das indemnizações ao detentor de uma garantia, de acordo com o contrato de garantia e as políticas que o Conselho de Administração venha a adoptar. Os contratos de garantia exigirão que os detentores de garantias, antes dos pagamentos a efectuar pela Agência, procurem obter as providências administrativas que se julguem adequadas em virtude das circunstâncias, com a condição de as leis do país de acolhimento lhas colocarem rapidamente ao dispor. Tais contratos podem exigir o decurso de certos prazos razoáveis entre a ocorrência dos factos que deram lugar às indemnizações e o pagamento destas.**
+O presidente, sob a direcção do Conselho de Administração, decidirá sobre o pagamento das indemnizações ao detentor de uma garantia, de acordo com o contrato de garantia e as políticas que o Conselho de Administração venha a adoptar. Os contratos de garantia exigirão que os detentores de garantias, antes dos pagamentos a efectuar pela Agência, procurem obter as providências administrativas que se julguem adequadas em virtude das circunstâncias, com a condição de as leis do país de acolhimento lhas colocarem rapidamente ao dispor. Tais contratos podem exigir o decurso de certos prazos razoáveis entre a ocorrência dos factos que deram lugar às indemnizações e o pagamento destas.
 
 ###### Artigo 18 — Sub-rogação
 
@@ -1268,7 +1274,7 @@ b) Depois de as reservas da Agência terem atingido o nível estipulado na secç
 
 ###### Artigo 28 — Orçamento
 
-**O presidente preparará o orçamento anual das receitas e despesas da Agência, para aprovação do Conselho de Administração.**
+O presidente preparará o orçamento anual das receitas e despesas da Agência, para aprovação do Conselho de Administração.
 
 ###### Artigo 29 — Contas
 
@@ -1688,13 +1694,13 @@ k) Salvo acordo das partes em contrário, os honorários e remunerações pagáv
 
 Qualquer licitação em processo ou notificação relativas a qualquer procedimento previsto neste anexo serão feitas por escrito. Serão dirigidas pela Agência à autoridade designada pelo membro em questão, em conformidade com o artigo 38 desta Convenção e pelo dito membro à sede da Agência.
 
-## APÊNDICE A
+APÊNDICE A
 
 Membros e subscrições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12201/00020031.pdf)
 
-## APÊNDICE B
+APÊNDICE B
 
 Eleição de administradores
 

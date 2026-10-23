@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/987/1991/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/987-1991-292932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cbe596a7e8558d962cd5df249d4f7a342523ef8965c99633f3af9ab3b75e5e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 060cf9fcadfc47c0cddc354ef4dac5e17906d6fcdf795b4c3548f27fbe46fac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,26 @@ subjects:
 - ÁGIO
 - Contribuições e Impostos
 - Operação Cambial
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 244/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 251,\
+    \ 5 SUPLEMENTO, DE 911031.\011031.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:55Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +99,10 @@ de 27 de Setembro
 
 Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do disposto no § único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenham por base o ouro ou moeda estrangeira sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/223b00/50635064.pdf))](https://files.diariodarepublica.pt/1s/1991/09/223b00/50635064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/223b00/50635064.pdf)
 
 Ministério das Finanças.
 
-**Assinada em 13 de Agosto de 1991.**
+Assinada em 13 de Agosto de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.

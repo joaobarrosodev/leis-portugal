@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 65/2007, 1º Suplemento, Série I de 2007-04-02
   number: '65'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2084-(2) a 2084-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06501/00020016.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14-b/2007/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-b-2007-249072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da386b9b2ce764e520ceba74dad1c89eedec75f6780eab946a6c44c4e5c629a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37c6d2d025927db8f164cf03596aa50b5ceac87cc10bdde6e7c62b4bcc3132ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,28 @@ reuse:
 subjects:
 - Conferência de HAIA de Direito Internacional Privado
 - Convenção
-- Portugal
 - Direito Internacional Privado
 - Estatuto
 - HAIA
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:249071:por
+  label: "Ratificadas as Emendas ao Estatuto da Conferência da Haia de Direito Internacional Privado [aprovado pelo Dec Lei\
+    \ 41378 de 19-Nov 1957] aprovadas no presente diploma pelo DEC.28-A/2007.02.04.2007.PR, DR.IS [65-Supl] de 02.04.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-a-2007-249071
+  date: '2007-04-02'
 article_structure:
-  article_count: 29
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:58Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 22 de Março de 2007.
 
-**O Presidente da Assembleia da República, em exercício, Guilherme Silva.**
+O Presidente da Assembleia da República, em exercício, Guilherme Silva.
 
 C - Les décisions suivantes:
 
@@ -583,7 +590,7 @@ Depois do artigo 2.º, inserir o artigo 2.º-A seguinte:
 
 9 - 'Organização Regional de Integração Económica' designa uma organização internacional que é apenas constituída por Estados soberanos e que possua competências transferidas pelos seus Estados membros no âmbito de um leque de matérias, incluindo o poder de tomar decisões vinculativas para os seus Estados membros sobre essas matérias.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O funcionamento da Conferência será assegurado pelo Conselho sobre Assuntos Gerais e Política (doravante designado por 'o Conselho') composto por todos os membros. Em princípio, as reuniões do Conselho realizar-se-ão todos os anos.
 
@@ -601,7 +608,7 @@ Depois do artigo 2.º, inserir o artigo 2.º-A seguinte:
 
 8 - O Conselho poderá consultar a Comissão de Estado sobre qualquer outra questão relevante para a Conferência.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A Secretaria Permanente terá a sua sede na Haia. Compor-se-á de um Secretário-Geral e de quatro secretários, que serão nomeados pelo Governo dos Países Baixos, mediante indicação da Comissão de Estado.
 
@@ -609,7 +616,7 @@ Depois do artigo 2.º, inserir o artigo 2.º-A seguinte:
 
 3 - O número de secretários poderá ser aumentado depois de consultado o Conselho e em conformidade com o artigo 9.º
 
-###### Artigo 5.º
+Artigo 5.º
 
 Sob a direcção do Conselho, a Secretaria Permanente fica encarregada:
 
@@ -619,19 +626,19 @@ b) Do trabalho do secretariado das sessões e das reuniões acima previstas;
 
 c) De quaisquer trabalhos que façam parte da actividade de um secretariado.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Com o fim de facilitar as comunicações entre os membros da Conferência e a Secretaria Permanente, o Governo de cada um dos Estados membros deverá designar um órgão nacional e cada organização membro um órgão de ligação.
 
 2 - A Secretaria Permanente poderá corresponder-se com todos os órgãos assim designados e com as organizações internacionais competentes.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - As sessões e, no intervalo das sessões, o Conselho poderão criar comissões especiais, com o fim de elaborar os projectos de Convenção ou estudar quaisquer questões de direito internacional privado que caibam no objectivo da Conferência.
 
 2 - As sessões, o Conselho e as comissões especiais funcionarão, tanto quanto possível, na base do consenso.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As despesas previstas no orçamento anual da Conferência serão repartidas entre os Estados membros da Conferência.
 
@@ -639,7 +646,7 @@ c) De quaisquer trabalhos que façam parte da actividade de um secretariado.
 
 3 - Em qualquer caso, as despesas relativas às deslocações e estada dos delegados ao Conselho e às comissões especiais ficarão a cargo dos membros representados.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - O orçamento da Conferência será submetido, todos os anos, à aprovação do Conselho dos Representantes Diplomáticos dos Estados membros na Haia.
 
@@ -647,17 +654,17 @@ c) De quaisquer trabalhos que façam parte da actividade de um secretariado.
 
 3 - Os representantes diplomáticos reunir-se-ão, para aqueles fins, sob a presidência do Ministro dos Negócios Estrangeiros do Reino dos Países Baixos.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - As despesas resultantes das sessões ordinárias e extraordinárias da Conferência serão suportadas pelo Governo dos Países Baixos.
 
 2 - Em qualquer dos casos, as despesas de deslocação e estada dos delegados ficarão a cargo dos respectivos membros.
 
-###### Artigo 11.º (somente o texto francês; sem alterações na tradução inglesa)
+Artigo 11.º (somente o texto francês; sem alterações na tradução inglesa)
 
 Os usos da Conferência continuarão em vigor em tudo o que não for contrário ao presente Estatuto ou aos regulamentos.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - As Emendas ao Estatuto serão adoptadas por consenso dos Estados membros presentes numa reunião sobre assuntos gerais e política.
 
@@ -665,17 +672,17 @@ Os usos da Conferência continuarão em vigor em tudo o que não for contrário 
 
 3 - A reunião referida no n.º 1 poderá alterar por consenso os prazos referidos no n.º 2.
 
-###### Artigo 13.º
+Artigo 13.º
 
 As disposições do presente Estatuto serão complementadas por regulamentos a fim de assegurar a sua execução. Esses regulamentos serão elaborados pela Secretaria Permanente e submetidos à aprovação de uma sessão diplomática, do Conselho de Representantes Diplomáticos ou do Conselho sobre Assuntos Gerais e Política.
 
-###### Artigo 14.º
+Artigo 14.º
 
 ...
 
 3 - O Governo dos Países Baixos, em caso de admissão de um novo membro, deverá notificar todos os membros a declaração de aceitação daquele novo membro.
 
-###### Artigo 15.º
+Artigo 15.º
 
 ...
 

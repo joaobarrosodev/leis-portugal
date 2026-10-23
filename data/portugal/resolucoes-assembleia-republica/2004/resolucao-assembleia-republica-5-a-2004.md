@@ -11,10 +11,10 @@ summary: 'Aprova, para ratificação, o Tratado entre os Estados membros da Uni�
   incluindo o Acto Relativo às Condições de Adesão da República Checa, da República da Estónia, da República de Chipre, da
   República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
   da República da Eslovénia e da República Eslovaca e às adaptações dos tratados em que se funda a União Europeia, os anexos,
-  os protocolos e a Acta Final com as suas declarações, assinado em Atenas em 16 de Abril de 2003 Informação: Informa-se que
-  o Diário da República, 1.ª série-A, n.º 12, suplemento, de 15 de Janeiro de 2004, cuja primeira remessa, que contém o rosto,
-  foi distribuída em 23 de Janeiro de 2004, chegará aos Srs. Assinantes, dado o seu volume (2328 páginas), em mais sete remessas,
-  além da presente.'
+  os protocolos e a Acta Final com as suas declarações, assinado em Atenas em 16 de Abril de 2003  Informação: Informa-se
+  que o Diário da República, 1.ª série-A, n.º 12, suplemento, de 15 de Janeiro de 2004, cuja primeira remessa, que contém
+  o rosto, foi distribuída em 23 de Janeiro de 2004, chegará aos Srs. Assinantes, dado o seu volume (2328 páginas), em mais
+  sete remessas, além da presente.'
 jurisdiction: portugal
 territory: null
 document_type: resolucao-assembleia-republica
@@ -30,7 +30,7 @@ publication:
   reference: Diário da República n.º 12/2004, 1º Suplemento, Série I-A de 2004-01-15
   number: '12'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 322-(0002) a 322-(2328)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf
 entry_into_force_dates: []
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/5-a/2004/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/5-a-2004-301779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aed2b4d85391ea95d92e80a21c4b35fd58dc513c0cd0dc29b044e1df7cd87dfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 384cd94395cbfbce976f0f1683feffa979e9459afb22a1b03e28052fda8d2357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,45 +76,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
+- Acto de Adesão
 - Atenas
+- Áustria
 - Bélgica
 - CECA
+- Chipre
 - Convenção
-- Irlanda
-- Portugal
 - Dinamarca
 - Direito Comunitário
-- Tratado de Adesão à União Europeia
+- Eslováquia
 - Eslovénia
 - Espanha
-- Finlândia
-- Acto de Adesão
-- RFA
+- Estónia
 - Euratom
-- Áustria
+- Finlândia
+- França
+- Grécia
 - Hungria
-- Polónia
-- República Checa
+- Irlanda
+- Itália
 - Letónia
+- Lituânia
+- Luxemburgo
+- Malta
 - Países Baixos
+- Polónia
+- Portugal
+- Reino Unido
+- República Checa
+- RFA
 - Suécia
 - Tratado CEE
 - Tratado da União Europeia
-- Chipre
-- Eslováquia
-- Estónia
-- França
-- Grécia
-- Itália
-- Luxemburgo
-- Malta
-- Lituânia
+- Tratado de Adesão à União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:294737:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301778:por
+  label: "Ratificado o Tratado aprovado para ratifica&#231;&#227;o no presente diploma, pelo DEC.4-A/2004.15.01.2004.PR, DR.IS-A\
+    \ [12]Supl de 15.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/4-a-2004-301778
+  date: '2004-01-15'
+- type: amended_by
+  target: pt:dre:252200:por
+  label: "Tornada pública a Segunda Acta de Rectificação do Tratado de Adesão à União Europeia da República Checa, da República\
+    \ da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República\
+    \ de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca, aprovada para ratificação pelo\
+    \ presente diploma, pelo AV.100/2004.30.04.2004.MNE, DR.IS-A [122] de 25.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/100-2004-252200
+  date: '2004-04-30'
+- type: amended_by
+  target: pt:dre:252201:por
+  label: "Tornada p&#250;blica a Acta de Rectifica&#231;&#227;o do Tratado de Ades&#227;o &#224; Uni&#227;o Europeia da Rep&#250;blica\
+    \ Checa, da Rep&#250;blica da Est&#243;nia, da Rep&#250;blica de Chipre, da Rep&#250;blica da Let&#243;nia, da Rep&#250;blica\
+    \ da Litu&#226;nia, da Rep&#250;blica da Hungria, da Rep&#250;blica de Malta, da Rep&#250;blica da Pol&#243;nia, da Rep&#250;blica\
+    \ da Eslov&#233;nia e da Rep&#250;blica Eslovaca aprovada para ratifica&#231;&#227;o pelo presente diploma, pelo AV.99/2004.30.04.2004.MNE,\
+    \ DR.IS-A [122] de 25.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/99-2004-252201
+  date: '2004-04-30'
+- type: amended_by
+  target: pt:dre:294737:por
+  label: "Alterado o Tratado entre os Estados Membros da União Europeia e a República Checa, a República da Estónia, a República\
+    \ de Chipre, a República da Letónia, a República da Lituânia, a República da Hungria, a República de Malta, a República\
+    \ da Polónia, a República da Eslovénia e a República Eslovaca Relativo à Adesão à União Europeia aprovado para ratificação\
+    \ pelo presente diploma, pelo Tratado aprovado para ratiticação pela RES.52-A/2006.08.03.2006.AR, DR.IS [144-Supl] de\
+    \ 27.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-a-2006-294737
+  date: '2006-03-08'
 - type: cites
   target: celex:31989R3906
   label: null
@@ -172,15 +204,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/r
 article_structure:
-  article_count: 66
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 65
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:46Z'
   warnings: []
   errors: []
 ---
@@ -193,13 +225,13 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 3 de Outubro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 TRATADO DE ADESÃO À UNIÃO EUROPEIA DE 2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 ÍNDICE
 
@@ -211,49 +243,49 @@ Primeira Parte: Os Princípios.
 
 Segunda Parte: Adaptações dos Tratados.
 
-## Título I: Disposições Institucionais.
+Título I: Disposições Institucionais.
 
-### Capítulo 1: O Parlamento Europeu.
+Capítulo 1: O Parlamento Europeu.
 
-### Capítulo 2: O Conselho.
+Capítulo 2: O Conselho.
 
-### Capítulo 3: O Tribunal de Justiça.
+Capítulo 3: O Tribunal de Justiça.
 
-### Capítulo 4: O Comité Económico e Social.
+Capítulo 4: O Comité Económico e Social.
 
-### Capítulo 5: O Comité das Regiões.
+Capítulo 5: O Comité das Regiões.
 
-### Capítulo 6: O Comité Científico e Técnico.
+Capítulo 6: O Comité Científico e Técnico.
 
-### Capítulo 7: O Banco Europeu de Investimento.
+Capítulo 7: O Banco Europeu de Investimento.
 
-## Título II: Outras adaptações.
+Título II: Outras adaptações.
 
 Terceira Parte: Disposições permanentes.
 
-## Título I: Adaptações dos actos adoptados pelas instituições.
+Título I: Adaptações dos actos adoptados pelas instituições.
 
-## Título II: Outras disposições.
+Título II: Outras disposições.
 
 Quarta Parte: Disposições temporárias.
 
-## Título I: Medidas transitórias.
+Título I: Medidas transitórias.
 
-## Título II: Outras disposições.
+Título II: Outras disposições.
 
 Quinta Parte: Disposições relativas à aplicação do presente Acto.
 
-## Título I: Instalação das instituições e dos outros organismos.
+Título I: Instalação das instituições e dos outros organismos.
 
-## Título II: Aplicabilidade dos actos das instituições.
+Título II: Aplicabilidade dos actos das instituições.
 
-## Título III: Disposições finais.
+Título III: Disposições finais.
 
 Anexos
 
-## Anexo I: Lista de disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados, que vinculam os novos Estados-Membros e neles são aplicáveis a partir da adesão (a que se refere o artigo 3.º do Acto de Adesão).
+Anexo I: Lista de disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados, que vinculam os novos Estados-Membros e neles são aplicáveis a partir da adesão (a que se refere o artigo 3.º do Acto de Adesão).
 
-## Anexo II: Lista a que se refere o artigo 20.º do Acto de Adesão.
+Anexo II: Lista a que se refere o artigo 20.º do Acto de Adesão.
 
 1. Livre circulação de mercadorias.
 
@@ -403,7 +435,7 @@ B. Outras adaptações técnicas.
 
 22. Instituições.
 
-## Anexo III: Lista a que se refere o artigo 21.º do Acto de Adesão.
+Anexo III: Lista a que se refere o artigo 21.º do Acto de Adesão.
 
 1. Livre circulação de pessoas.
 
@@ -423,7 +455,7 @@ II. Legislação fitossanitária.
 
 5. Política regional e coordenação dos instrumentos estruturais.
 
-## Anexo IV: Lista a que se refere o artigo 22.º do Acto de Adesão.
+Anexo IV: Lista a que se refere o artigo 22.º do Acto de Adesão.
 
 1. Livre circulação de capitais.
 
@@ -435,9 +467,9 @@ II. Legislação fitossanitária.
 
 5. União aduaneira.
 
-## Apêndice.
+Apêndice.
 
-## Anexo V: Lista a que se refere o artigo 24.º do Acto de Adesão: República Checa.
+Anexo V: Lista a que se refere o artigo 24.º do Acto de Adesão: República Checa.
 
 1. Livre circulação de pessoas.
 
@@ -463,11 +495,11 @@ B. Qualidade da água.
 
 C. Controlo da poluição industrial e gestão dos riscos.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Anexo VI: Lista a que se refere o artigo 24.º do Acto de Adesão: Estónia.
+Anexo VI: Lista a que se refere o artigo 24.º do Acto de Adesão: Estónia.
 
 1. Livre circulação de pessoas.
 
@@ -497,7 +529,7 @@ D. Controlo da poluição industrial e gestão dos riscos.
 
 E. Protecção da natureza.
 
-## Anexo VII: Lista a que se refere o artigo 24.º do Acto de Adesão: Chipre.
+Anexo VII: Lista a que se refere o artigo 24.º do Acto de Adesão: Chipre.
 
 1. Livre circulação de mercadorias.
 
@@ -529,9 +561,9 @@ C. Qualidade da água.
 
 D. Controlo da poluição industrial e gestão dos riscos.
 
-## Apêndice.
+Apêndice.
 
-## Anexo VIII: Lista a que se refere o artigo 24.º do Acto de Adesão: Letónia.
+Anexo VIII: Lista a que se refere o artigo 24.º do Acto de Adesão: Letónia.
 
 1. Livre circulação de pessoas.
 
@@ -571,11 +603,11 @@ D. Controlo da poluição industrial e gestão dos riscos.
 
 E. Segurança nuclear e protecção contra as radiações.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Anexo IX: Lista a que se refere o artigo 24.º do Acto de Adesão: Lituânia.
+Anexo IX: Lista a que se refere o artigo 24.º do Acto de Adesão: Lituânia.
 
 1. Livre circulação de mercadorias.
 
@@ -613,11 +645,11 @@ C. Qualidade da água.
 
 D. Controlo da poluição industrial e gestão dos riscos.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Anexo X: Lista a que se refere o artigo 24.º do Acto de Adesão: Hungria.
+Anexo X: Lista a que se refere o artigo 24.º do Acto de Adesão: Hungria.
 
 1. Livre circulação de pessoas.
 
@@ -647,11 +679,11 @@ C. Controlo da poluição industrial e gestão dos riscos.
 
 9. União aduaneira.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Anexo XI: Lista a que se refere o artigo 24.º do Acto de Adesão: Malta.
+Anexo XI: Lista a que se refere o artigo 24.º do Acto de Adesão: Malta.
 
 1. Livre circulação de mercadorias.
 
@@ -693,13 +725,13 @@ E. Controlo da poluição industrial e gestão dos riscos.
 
 11. União Aduaneira.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Apêndice C.
+Apêndice C.
 
-## Anexo XII: Lista a que se refere o artigo 24.º do Acto de Adesão: Polónia.
+Anexo XII: Lista a que se refere o artigo 24.º do Acto de Adesão: Polónia.
 
 1. Livre circulação de mercadorias.
 
@@ -745,13 +777,13 @@ D. Controlo da poluição industrial e gestão dos riscos.
 
 E. Segurança nuclear e protecção contra as radiações.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Apêndice C.
+Apêndice C.
 
-## Anexo XIII: Lista a que se refere o artigo 24.º do Acto de Adesão: Eslovénia.
+Anexo XIII: Lista a que se refere o artigo 24.º do Acto de Adesão: Eslovénia.
 
 1. Livre circulação de mercadorias.
 
@@ -785,11 +817,11 @@ B. Qualidade da água.
 
 C. Controlo da poluição industrial e gestão dos riscos.
 
-## Apêndice A.
+Apêndice A.
 
-## Apêndice B.
+Apêndice B.
 
-## Anexo XIV: Lista a que se refere o artigo 24.º do Acto de Adesão: Eslováquia.
+Anexo XIV: Lista a que se refere o artigo 24.º do Acto de Adesão: Eslováquia.
 
 1. Livre circulação de pessoas.
 
@@ -821,15 +853,15 @@ C. Qualidade da água.
 
 D. Controlo da poluição industrial e gestão dos riscos.
 
-## Apêndice.
+Apêndice.
 
-## Anexo XV: Montantes máximos das dotações suplementares a que se refere o n.º 1 do artigo 32.º do Acto de Adesão.
+Anexo XV: Montantes máximos das dotações suplementares a que se refere o n.º 1 do artigo 32.º do Acto de Adesão.
 
-## Anexo XVI: Lista a que se refere o n.º 1 do artigo 52.º do Acto de Adesão.
+Anexo XVI: Lista a que se refere o n.º 1 do artigo 52.º do Acto de Adesão.
 
-## Anexo XVII: Lista a que se refere o n.º 2 do artigo 52.º do Acto de Adesão.
+Anexo XVII: Lista a que se refere o n.º 2 do artigo 52.º do Acto de Adesão.
 
-## Anexo XVIII: Lista a que se refere o n.º 3 do artigo 52.º do Acto de Adesão.
+Anexo XVIII: Lista a que se refere o n.º 3 do artigo 52.º do Acto de Adesão.
 
 Protocolos.
 
@@ -969,7 +1001,7 @@ M. Declarações da República da Eslovénia.
 
 41. Declaração da República da Eslovénia relativa à futura divisão regional da República da Eslovénia.
 
-42. Declaração da República da Eslovénia relativa à abelha autóctone eslovena Apis mellifera Carnica ([([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)).
+42. Declaração da República da Eslovénia relativa à abelha autóctone eslovena Apis mellifera Carnica ([(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)).
 
 N. Declarações da Comissão das Comunidades Europeias.
 
@@ -1005,13 +1037,13 @@ Louis MICHEL
 
 Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA CHECA,**
+O PRESIDENTE DA REPÚBLICA CHECA,
 
 Václav KLAUS
 
 Presidente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Primeiro-Ministro
 
@@ -1019,7 +1051,7 @@ Cyril SVOBODA
 
 Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Chefe da Delegação da República Checa para as negociações sobre a adesão à União Europeia e Embaixador e Chefe da Missão da República Checa junto das Comunidades Europeias
 
@@ -1029,11 +1061,11 @@ Anders Fogh RASMUSSEN
 
 Primeiro-Ministro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA FEDERAL DA ALEMANHA,**
+O PRESIDENTE DA REPÚBLICA FEDERAL DA ALEMANHA,
 
 Gerhard SCHRÖDER
 
@@ -1043,7 +1075,7 @@ Joseph FISCHER
 
 Ministro Federal dos Negócios Estrangeiros e Vice-Chanceler Federal
 
-**O PRESIDENTE DA REPÚBLICA DA ESTÓNIA,**
+O PRESIDENTE DA REPÚBLICA DA ESTÓNIA,
 
 Arnold RÜÜTEL
 
@@ -1053,7 +1085,7 @@ Kristiina OJULAND
 
 Ministra dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA HELÉNICA,**
+O PRESIDENTE DA REPÚBLICA HELÉNICA,
 
 Konstantinos SIMITIS
 
@@ -1077,7 +1109,7 @@ Ana PALACIO VALLELERSUNDI
 
 Ministra dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA FRANCESA,**
+O PRESIDENTE DA REPÚBLICA FRANCESA,
 
 Jean-Pierre RAFFARIN
 
@@ -1091,7 +1123,7 @@ Noëlle LENOIR
 
 Ministra Delegada junto do Ministro dos Negócios Estrangeiros, encarregada dos Assuntos Europeus
 
-**A PRESIDENTE DA IRLANDA,**
+A PRESIDENTE DA IRLANDA,
 
 Bertie AHERN
 
@@ -1101,7 +1133,7 @@ Brian COWEN
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA ITALIANA,**
+O PRESIDENTE DA REPÚBLICA ITALIANA,
 
 Silvio BERLUSCONI
 
@@ -1111,7 +1143,7 @@ Franco FRATTINI
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA DE CHIPRE,**
+O PRESIDENTE DA REPÚBLICA DE CHIPRE,
 
 Tassos PAPADOPOULOS
 
@@ -1121,13 +1153,13 @@ George IACOVOU
 
 Ministro dos Negócios Estrangeiros
 
-**A PRESIDENTE DA REPÚBLICA DA LETÓNIA,**
+A PRESIDENTE DA REPÚBLICA DA LETÓNIA,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Presidente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Primeiro-Ministro
 
@@ -1135,11 +1167,11 @@ Sandra KALNIETE
 
 Ministra dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Chefe da Delegação para as Negociações da Adesão da República da Letónia à União Europeia, Sub-Secretário de Estado do Ministério dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA DA LITUÂNIA,**
+O PRESIDENTE DA REPÚBLICA DA LITUÂNIA,
 
 Algirdas Mykolas BRAZAUSKAS
 
@@ -1159,7 +1191,7 @@ Lydie POLFER
 
 Ministra dos Negócios Estrangeiros e do Comércio Externo
 
-**O PRESIDENTE DA REPÚBLICA DA HUNGRIA,**
+O PRESIDENTE DA REPÚBLICA DA HUNGRIA,
 
 Dr. Péter MEDGYESSY
 
@@ -1173,7 +1205,7 @@ Dr. Endre JUHÁSZ
 
 Embaixador da República da Hungria junto da União Europeia, Chefe da Delegação para as Negociações da Adesão da República da Hungria à União Europeia
 
-**O PRESIDENTE DE MALTA,**
+O PRESIDENTE DE MALTA,
 
 The Hon Edward FENECH ADAMI
 
@@ -1197,7 +1229,7 @@ Jakob Gijsbert de HOOP SCHEFFER
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE FEDERAL DA REPÚBLICA DA ÁUSTRIA,**
+O PRESIDENTE FEDERAL DA REPÚBLICA DA ÁUSTRIA,
 
 Dr. Wolfgang SCHÜSSEL
 
@@ -1207,7 +1239,7 @@ Dr. Benita FERRERO-WALDNER
 
 Ministra Federal dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA DA POLÓNIA,**
+O PRESIDENTE DA REPÚBLICA DA POLÓNIA,
 
 Leszek MILLER
 
@@ -1221,7 +1253,7 @@ Dr. Danuta HÜBNER
 
 Secretária de Estado do Ministério dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA PORTUGUESA,**
+O PRESIDENTE DA REPÚBLICA PORTUGUESA,
 
 José Manuel DURÃO BARROSO
 
@@ -1231,9 +1263,9 @@ António MARTINS DA CRUZ
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA DA ESLOVÉNIA,**
+O PRESIDENTE DA REPÚBLICA DA ESLOVÉNIA,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Presidente
 
@@ -1245,13 +1277,13 @@ Dr. Dimitrij RUPEL
 
 Ministro dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA ESLOVACA,**
+O PRESIDENTE DA REPÚBLICA ESLOVACA,
 
 Rudolf SCHUSTER
 
 Presidente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Primeiro-Ministro
 
@@ -1259,11 +1291,11 @@ Eduard KUKAN
 
 Ministro dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Chefe da Delegação para as Negociações da Adesão da República Eslovaca à União Europeia
 
-**A PRESIDENTE DA REPÚBLICA DA FINLÂNDIA,**
+A PRESIDENTE DA REPÚBLICA DA FINLÂNDIA,
 
 Paavo LIPPONEN
 
@@ -1319,23 +1351,23 @@ Se, contudo, algum dos Estados a que se refere o n.º 1 do artigo 1.º não tive
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, irlandesa, letã, lituana, maltesa, neerlandesa, polaca, portuguesa e sueca, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos Governos dos outros Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 EM FÉ DO QUE, os plenipotenciários abaixo-assinados apuseram as suas assinaturas no final do presente Tratado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Feito em Atenas, em dezasseis de Abril de dois mil e três.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 [(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 O texto anterior é uma cópia autenticada do original do Tratado de Adesão à União Europeia, assinado em Atenas aos 16 de Abril de 2003 e depositado nos arquivos do Governo da República Italiana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 [(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
@@ -1925,13 +1957,13 @@ Se as deliberações do Conselho exigirem maioria qualificada, os votos dos memb
 
 No primeiro dia útil de cada mês, a Comunidade pagará à República Checa, a Chipre, a Malta e à Eslovénia, a título de despesas no âmbito do Orçamento Geral das Comunidades Europeias, um oitavo em 2004, à data da adesão, e um duodécimo em 2005 e 2006 dos seguintes montantes de compensação orçamental temporária:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 ###### Artigo 30.º
 
 No primeiro dia útil de cada mês, a Comunidade pagará à República Checa, à Estónia, a Chipre, à Letónia, à Lituânia, à Hungria, a Malta, à Polónia, à Eslovénia e à Eslováquia, a título de despesas no âmbito do Orçamento Geral das Comunidades Europeias, um oitavo em 2004, à data da adesão, e um duodécimo em 2005 e 2006 dos seguintes montantes de um mecanismo especial de montantes globais para os fluxos financeiros:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 Para qualquer cálculo da repartição dos fundos estruturais para os anos de 2004 a 2006, serão tidos em conta os montantes de 1000 milhões de euros para a Polónia e 100 milhões de euros para a República Checa incluídos no mecanismo especial de montantes globais para os fluxos financeiros.
 
@@ -1939,7 +1971,7 @@ Para qualquer cálculo da repartição dos fundos estruturais para os anos de 20
 
 1. Os novos Estados-Membros a seguir enumerados pagarão os seguintes montantes ao Fundo de Investigação do Carvão e do Aço referido na Decisão [2002/234/CECA](http://data.europa.eu/eli/dec/2002/234/oj?locale=pt) dos Representantes dos Governos dos Estados-Membros, reunidos no Conselho, de 27 de Fevereiro de 2002, relativa às consequências financeiras da cessação de vigência do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) e ao Fundo de Investigação do Carvão e do Aço (ver nota 4):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 (nota 4) JO L 79 de 22.3.2002, p. 42.
 
@@ -2069,7 +2101,7 @@ A fim de preencher as lacunas identificadas na preparação da participação em
 
 2. Serão disponibilizados os seguintes montantes, ao abrigo do Mecanismo financeiro Schengen, sob a forma de subsídios de montante fixo aos Estados-Membros beneficiários a seguir enumerados:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 3. Os Estados-Membros beneficiários serão responsáveis pela selecção e execução das diferentes operações nos termos do presente artigo. Os Estados-Membros serão igualmente responsáveis pela coordenação da utilização do mecanismo com ajudas provenientes de outros instrumentos comunitários, assegurando a compatibilidade com políticas e medidas comunitárias e o cumprimento do Regulamento Financeiro aplicável ao Orçamento Geral das Comunidades Europeias.
 
@@ -2249,13 +2281,13 @@ Os textos desses Tratados, redigidos nas línguas checa, eslovaca, eslovena, est
 
 ###### Artigo 62.º
 
-**O Secretário-Geral do Conselho remeterá aos Governos dos novos Estados-Membros uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.**
+O Secretário-Geral do Conselho remeterá aos Governos dos novos Estados-Membros uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 O texto anterior é uma cópia autenticada do original do Tratado de Adesão à União Europeia, assinado em Atenas aos 16 de Abril de 2003 e depositado nos arquivos do Governo da República Italiana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
 
 ## ANEXO I
 
@@ -2267,7 +2299,7 @@ Lista de disposições do acervo de Schengen integrado no âmbito da União Euro
 
 2. As disposições seguintes da Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, assinada em Schengen em 19 de Junho de 1990 (ver nota 2), a respectiva Acta Final e declarações comuns, alteradas por alguns dos actos enumerados no ponto 7 infra:
 
-###### Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número, e artigo 136.º;
+Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número, e artigo 136.º;
 
 Declarações comuns 1 e 3 da Acta Final.
 
@@ -2449,4 +2481,4 @@ Decisão-quadro 2002/946/JAI do Conselho, de 28 de Novembro de 2002, relativa ao
 
 Directiva [2002/90/CE](http://data.europa.eu/eli/dir/2002/90/oj?locale=pt) do Conselho, de 28 de Novembro de 2002, relativa à definição do auxílio à entrada, ao trânsito e à residência irregulares (JO L 328 de 5.12.2002, p. 17).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf))](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/012a01/00022328.pdf)

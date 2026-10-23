@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/187/1992/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/187-1992-178838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d3c4b13d2a566c758b631a3f4841c351e82851eb4352601f72b83469cd434b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36ac5b90f3ecd46a351bb06a99ad0175c2626f55e3613e195c897c3fa9b3585f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Química Tecnológica-analista de Laboratório
 - Curso de Química Tecnológica-técnica Fabril
 - Ensino Profissional
 - Escola Profissional da Indústria Química
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:505656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505652:por
+  label: "Extinto o curso profissional de Química Tecnológica/Técnico Fabril a funcionar na Escola da Indústria Química, e\
+    \ o respectivo plano de estudos, criados no presente diploma, pela PORT.886/2004.21.07.2004.ME, DR.IS-B [170] de 21.07.2004,\
+    \ nos termos do seu art. 7.º e revogadas no presente diploma as partes que àqueles cursos respeitam pela supracitada portaria\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-2004-505652
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505656:por
+  label: "Extinto o curso profissional de Química Tecnológica/Analista de laboratório a funcionar na Escola Profissional da\
+    \ Indústria Química e o respectivo plano de estudos criados pelo presente diploma, pela PORT.890/2004.21.07.2004.ME, DR.IS-B\
+    \ [170] de 21.07.2004, nos termos do seu art. 7.º e revogadas no presente diploma as partes em que àquele curso respeitam\
+    \ pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2004-505656
+  date: '2004-07-21'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:254184:por
+  label: "Revogado o Plano de Estudos do curso de técnico de Higiene e Segurança do Trabalho e Ambiente, pelo presente diploma,\
+    \ pela PORT.183/2002.2002.03.01.ME DR.IS-B [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2002-254184
+  date: '2002-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:48Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +141,8 @@ cujos planos de estudo se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/064b00/13421343.pdf))](https://files.diariodarepublica.pt/1s/1992/03/064b00/13421343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/064b00/13421343.pdf)

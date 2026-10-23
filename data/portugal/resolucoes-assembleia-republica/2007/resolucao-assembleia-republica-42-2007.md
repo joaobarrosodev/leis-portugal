@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/42/2007/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/42-2007-640343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bdafd90af48b694a71c1695c5d3ae88a7b108b126aceaab78e3c7cb6d0a69cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad651355623b74f41263c60b8198fd1a33026fc46c65450b9a5783173a7af7da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Nova Iorque
+- Portugal
 - Privilegios e Imunidades
 - Tribunal Penal Internacional
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:640340:por
+  label: "Ratificado o Acordo pelo DEC.92/2007.10.09.2007.PR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/92-2007-640340
+  date: '2007-09-10'
 article_structure:
   article_count: 41
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:37Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +109,7 @@ No momento do depósito do seu instrumento de ratificação, nos termos do artig
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 AGREEMENT ON THE PRIVILEGES AND IMMUNITIES OF THE INTERNATIONAL CRIMINAL COURT
 
@@ -972,7 +977,7 @@ Relativamente aos serviços prestados ao Tribunal, as pessoas referidas nos arti
 
 ###### Artigo 28.º — Notificação
 
-**O secretário comunica periodicamente a todos os Estados Partes as categorias e os nomes dos juízes, do procurador, dos procuradores-adjuntos, do secretário, do secretário-adjunto, do pessoal do Gabinete do procurador, do pessoal da Secretaria e dos advogados aos quais se aplicam as disposições do presente Acordo. Ele comunica igualmente a todos os Estados Partes qualquer alteração relativa ao estatuto dessas pessoas.**
+O secretário comunica periodicamente a todos os Estados Partes as categorias e os nomes dos juízes, do procurador, dos procuradores-adjuntos, do secretário, do secretário-adjunto, do pessoal do Gabinete do procurador, do pessoal da Secretaria e dos advogados aos quais se aplicam as disposições do presente Acordo. Ele comunica igualmente a todos os Estados Partes qualquer alteração relativa ao estatuto dessas pessoas.
 
 ###### Artigo 29.º — Livre trânsito
 
@@ -1050,7 +1055,7 @@ b) Parte no Acordo não alterado relativamente a qualquer Estado Parte que não 
 
 ###### Artigo 38.º — Depositário
 
-**O Secretário-Geral é o depositário do presente Acordo.**
+O Secretário-Geral é o depositário do presente Acordo.
 
 ###### Artigo 39.º — Textos autênticos
 

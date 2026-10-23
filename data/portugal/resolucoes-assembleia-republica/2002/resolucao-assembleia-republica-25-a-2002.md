@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 80/2002, 3º Suplemento, Série I-A de 2002-04-05
   number: '80'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3244-(8) a 3244-(237)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25-a/2002/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-a-2002-150942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b48b7fdb3cc6fb3d132665ce60479033fdff9c0497207a1b769ea2d3ebbedd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fc5114b416cc0ad9259277614a4309afdf52d124569b120ac7217ceab0cb550
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Luta contra a Pobreza
 - CE Países
 - Comunidade Europeia
 - Convenção
 - Cotonu
-- Portugal
 - Desenvolvimento Cultural
-- Desenvolvimento Social
 - Desenvolvimento Económico
+- Desenvolvimento Social
+- Luta contra a Pobreza
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:145989840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150941:por
+  label: "Ratificado o Acordo pelo DEC.23-B/2002.2002.04.05.PR DR.IS-A [80]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-b-2002-150941
+  date: '2002-04-05'
+- type: amended_by
+  target: pt:dre:628501:por
+  label: "Aprovado o Acordo Que Altera o Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade\
+    \ Europeia e os Seus Estados Membros, de 2000, e respectiva Acta Final, aprovados para ratificação pelo presente diploma,\
+    \ ratificados pelo Dec 23-B/2002 de 05-Abr do PR, pela RES.58/2007.22.11.2007.AR, DR.IS [225] de 22.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/58-2007-628501
+  date: '2007-11-22'
+- type: amended_by
+  target: pt:dre:174820:por
+  label: "Aprovadas as alterações ao Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico e a Comunidade\
+    \ Europeia e os seus Estados Membros, assinado em Cotonu, em 23 de junho de 2000, aprovado, para ratificação, pelo presente\
+    \ diploma, e ratificado pelo Dec 23-B/2002 de 05-Abr do PR (com as alterações posteriormente aprovadas, para ratificação,\
+    \ pela Res 58/2007 de 22-Nov da AR, e ratificadas pelo Dec 124/2007 de 22-Nov do PR) pela RES.123/2012.31.08.2012.AR,\
+    \ DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/123-2012-174820
+  date: '2012-08-31'
+- type: amended_by
+  target: pt:dre:145989840:por
+  label: Prorrogada, até 31.12.2020, ou até à entrada em vigor do novo Acordo, ou até à aplicação a título provisório do novo
+    Acordo entre a União e os Estados ACP, consoante a que ocorrer primeiro, a aplicação das disposições do Acordo de Parceria
+    ACP-UE, aprovado para ratificação pelo presente diploma e ratificado pelo Dec 23-B/2002 de 05-abr do PR, pelo(a) Resolução
+    da Assembleia da República n.º 81/2020 - Diário da República n.º 206/2020, Série I de 2020-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/81-2020-145989840
+  date: '2020-10-22'
 - type: cites
   target: celex:31980D1186
   label: null
@@ -108,14 +137,14 @@ relationships:
   source: /application/external/tratado
 article_structure:
   article_count: 257
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 68
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:44Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +157,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE PARCERIA ENTRE OS ESTADOS DE ÁFRICA, DAS CARAÍBAS E DO PACÍFICO E A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS.
 
@@ -162,7 +191,7 @@ Recordando os compromissos assumidos no âmbito da Organização Mundial do Com�
 
 Decidiram concluir o presente Acordo:
 
-# PARTE 1 — Disposições gerais
+## PARTE 1 — Disposições gerais
 
 ## TÍTULO I — Objectivos, princípios e intervenientes
 
@@ -356,7 +385,7 @@ Os Estados ACP devem beneficiar de uma assistência adequada para aplicar os ref
 
 iii) Para efeitos da presente alínea c), entende-se por «Partes» a Comunidade, qualquer dos seus Estados membros e qualquer Estado ACP.
 
-# PARTE 2 — Disposições institucionais
+## PARTE 2 — Disposições institucionais
 
 ###### Artigo 14.º — Instituições comuns
 
@@ -422,7 +451,7 @@ A Assembleia Parlamentar Paritária deve organizar periodicamente contactos com 
 
 4 - A Assembleia Parlamentar Paritária deve adoptar o seu regulamento interno no prazo de seis meses a contar de data da entrada em vigor do presente Acordo.
 
-# PARTE 3 — Estratégias de cooperação
+## PARTE 3 — Estratégias de cooperação
 
 ###### Artigo 18.º
 
@@ -1000,7 +1029,7 @@ Controlo da aplicação das disposições legislativas e regulamentares nacionai
 
 4 - Os acordos específicos referidos no n.º 2 não podem prejudicar a produção e os fluxos comerciais nas regiões ACP.
 
-# PARTE 4 — Cooperação para o financiamento do desenvolvimento
+## PARTE 4 — Cooperação para o financiamento do desenvolvimento
 
 ## TÍTULO I — Disposições gerais
 
@@ -1474,7 +1503,7 @@ d) Analisar as acções empreendidas no quadro do Acordo para alcançar os objec
 
 5 - O Comité ACP-CE pode convocar reuniões de peritos para estudar as causas de eventuais dificuldades ou bloqueios que entravem a execução eficaz da cooperação para o desenvolvimento. Esses peritos devem apresentar ao Comité recomendações sobre os meios para eliminar essas dificuldades ou bloqueios.
 
-# PARTE 5 — Disposições gerais relativas aos Estados ACP menos desenvolvidos, sem litoral ou insulares
+## PARTE 5 — Disposições gerais relativas aos Estados ACP menos desenvolvidos, sem litoral ou insulares
 
 ### CAPÍTULO 1 — Disposições gerais
 
@@ -1528,7 +1557,7 @@ b) Se a situação económica de um Estado ACP se modificar de modo significativ
 
 ###### Artigo 90.º — As disposições relativas aos Estados ACP insulares constam dos artigos 2.º, 32.º, 35.º, 56.º, 68.º, 84.º e 89.º
 
-# PARTE 6 — Disposições finais
+## PARTE 6 — Disposições finais
 
 ###### Artigo 91.º — Conflito entre o presente Acordo e outros tratados
 
@@ -1650,7 +1679,7 @@ Os protocolos e os anexos do presente Acordo fazem dele parte integrante. Os ane
 
 O presente Acordo, redigido em duplo exemplar nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e sueca, todos os textos fazendo igualmente fé, será depositado nos arquivos do Secretariado-Geral do Conselho da União Europeia e no Secretariado dos Estados ACP, que transmitirão uma cópia autenticada ao Governo de cada um dos Estados signatários.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 ## ANEXO I — Protocolo financeiro
 
@@ -3064,7 +3093,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[(ver menções no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver menções no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -3074,7 +3103,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter uma das seguintes menções:
 
-[(ver menções no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver menções no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -3606,7 +3635,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do Acordo.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 ## ANEXO III — Países e territórios ultramarinos
 
@@ -3682,11 +3711,11 @@ Ilhas Virgens Britânicas.
 
 Certificado de circulação
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 Pedido de certificado de circulação de mercadorias
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 Declaração do exportador
 
@@ -3838,11 +3867,11 @@ Se se utilizar outro documento que não seja a factura ou um anexo à factura (v
 
 Comunidades Europeias
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 ## ANEXO VIII — Modelo de formulário de pedido de derrogação
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 ## ANEXO IX
 
@@ -3850,7 +3879,7 @@ Lista de operações de complemento de fabrico ou de transformação que confere
 
 Têxteis e artigos têxteis da secção XI
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 Contudo, o facto de não ter sido efectuada uma ou várias operações de acabamento não implica que a confecção perca o seu carácter de completa.
 
@@ -3874,7 +3903,7 @@ Observação relativa às operações de acabamento - casos especiais
 
 Produtos têxteis excluídos do procedimento de cumulação com determinados países em desenvolvimento referidos no n.º 11 do artigo 6.º do presente Protocolo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 ## ANEXO XI
 
@@ -4325,6 +4354,8 @@ Cetonas e quinonas, mesmo contendo outras funções oxigenadas:
 29173700.
 
 Ácidos carboxílicos contendo funções oxigenadas suplementares:
+
+29181400
 
 29181500.
 
@@ -11294,6 +11325,8 @@ Batatas frescas ou refrigeradas:
 
 Legumes de vagem, com ou sem vagem, frescos ou refrigerados:
 
+07081020
+
 07081095.
 
 Outros produtos hortícolas frescos ou refrigerados:
@@ -11469,6 +11502,8 @@ Produtos agrícolas (ver nota 2)
 Flores e seus botões cortados:
 
 06031055.
+
+06031061
 
 06031069 (ver nota 11).
 
@@ -16184,7 +16219,7 @@ O presente Protocolo pode ser revisto por decisão do Conselho de Ministros.
 
 Sem prejuízo do disposto nos artigos anteriores, o quadro seguinte apresenta os artigos do Acordo e dos respectivos anexos que são aplicáveis à África do Sul, bem como os que não são aplicáveis.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 Acta final
 
@@ -16194,27 +16229,27 @@ Sua Majestade o Rei dos Belgas;
 
 Sua Majestade a Rainha da Dinamarca;
 
-**O Presidente da República Federal da Alemanha;**
+O Presidente da República Federal da Alemanha;
 
-**O Presidente da República Helénica;**
+O Presidente da República Helénica;
 
 Sua Majestade o Rei de Espanha;
 
-**O Presidente da República Francesa;**
+O Presidente da República Francesa;
 
-**O Presidente da Irlanda;**
+O Presidente da Irlanda;
 
-**O Presidente da República Italiana;**
+O Presidente da República Italiana;
 
 Sua Alteza Real o Grão-Duque do Luxemburgo;
 
 Sua Majestade a Rainha dos Países Baixos;
 
-**O Presidente da República Federal da Áustria;**
+O Presidente da República Federal da Áustria;
 
-**O Presidente da República Portuguesa;**
+O Presidente da República Portuguesa;
 
-**O Presidente da República da Finlândia;**
+O Presidente da República da Finlândia;
 
 O Governo do Reino da Suécia;
 
@@ -16222,105 +16257,105 @@ Sua Majestade a Rainha da Grã-Bretanha e da Irlanda do Norte;
 
 Partes contratantes no Tratado que institui a Comunidade Europeia, adiante designada Comunidade, e cujos Estados são adiante designados Estados-Membros, o Conselho da União Europeia e a Comissão das Comunidades Europeias, por um lado, e os plenipotenciários de:
 
-**O Presidente da República da África do Sul;**
+O Presidente da República da África do Sul;
 
-**O Presidente da República de Angola;**
+O Presidente da República de Angola;
 
 Sua Majestade a Rainha de Antígua e Barbuda;
 
-**O Chefe de Estado da Commonwealth das Bahamas;**
+O Chefe de Estado da Commonwealth das Bahamas;
 
-**O Chefe de Estado de Barbados;**
+O Chefe de Estado de Barbados;
 
 Sua Majestade a Rainha de Belize;
 
-**O Presidente da República do Benim;**
+O Presidente da República do Benim;
 
-**O Presidente da República do Botsuana;**
+O Presidente da República do Botsuana;
 
-**O Presidente do Burquina Faso;**
+O Presidente do Burquina Faso;
 
-**O Presidente da República do Burundi;**
+O Presidente da República do Burundi;
 
-**O Presidente da República de Cabo Verde;**
+O Presidente da República de Cabo Verde;
 
-**O Presidente da República dos Camarões;**
+O Presidente da República dos Camarões;
 
-**O Presidente da República Centro-Africana;**
+O Presidente da República Centro-Africana;
 
-**O Presidente da República do Chade;**
+O Presidente da República do Chade;
 
-**O Presidente da República Federal Islâmica das Comores;**
+O Presidente da República Federal Islâmica das Comores;
 
-**O Presidente da República Democrática do Congo;**
+O Presidente da República Democrática do Congo;
 
-**O Presidente da República Popular do Congo;**
+O Presidente da República Popular do Congo;
 
 O Governo das Ilhas Cook;
 
-**O Presidente da República de Côte d'Ivoire;**
+O Presidente da República de Côte d'Ivoire;
 
 O Governo da Commonwealth da Dominica;
 
-**O Presidente da República Dominicana;**
+O Presidente da República Dominicana;
 
-**O Presidente do Estado da Eritreia;**
+O Presidente do Estado da Eritreia;
 
-**O Presidente da República Federal Democrática da Etiópia;**
+O Presidente da República Federal Democrática da Etiópia;
 
-**O Presidente da República Soberana Democrática de Fiji;**
+O Presidente da República Soberana Democrática de Fiji;
 
-**O Presidente da República Gabonesa;**
+O Presidente da República Gabonesa;
 
-**O Presidente e Chefe de Estado da República da Gâmbia;**
+O Presidente e Chefe de Estado da República da Gâmbia;
 
-**O Presidente da República do Gana;**
+O Presidente da República do Gana;
 
 Sua Majestade a Rainha de Granada;
 
-**O Presidente da República da Guiana;**
+O Presidente da República da Guiana;
 
-**O Presidente da República da Guiné;**
+O Presidente da República da Guiné;
 
-**O Presidente da República da Guiné-Bissau;**
+O Presidente da República da Guiné-Bissau;
 
-**O Presidente da República da Guiné Equatorial;**
+O Presidente da República da Guiné Equatorial;
 
-**O Presidente da República do Haiti;**
+O Presidente da República do Haiti;
 
 Sua Majestade a Rainha das Ilhas Salomão;
 
-**O Chefe de Estado da Jamaica;**
+O Chefe de Estado da Jamaica;
 
-**O Presidente da República de Jibuti;**
+O Presidente da República de Jibuti;
 
 Sua Majestade o Rei do Reino do Lesoto;
 
-**O Presidente da República da Libéria;**
+O Presidente da República da Libéria;
 
-**O Presidente da República de Madagáscar;**
+O Presidente da República de Madagáscar;
 
-**O Presidente da República do Malaui;**
+O Presidente da República do Malaui;
 
-**O Presidente da República do Mali;**
+O Presidente da República do Mali;
 
 O Governo da República das Ilhas Marshall;
 
-**O Presidente da República da Maurícia;**
+O Presidente da República da Maurícia;
 
-**O Presidente da República Islâmica da Mauritânia;**
+O Presidente da República Islâmica da Mauritânia;
 
 O Governo dos Estados Federados da Micronésia;
 
-**O Presidente da República de Moçambique;**
+O Presidente da República de Moçambique;
 
-**O Presidente da República da Namíbia;**
+O Presidente da República da Namíbia;
 
 O Governo da República de Nauru;
 
-**O Presidente da República do Níger;**
+O Presidente da República do Níger;
 
-**O Chefe de Estado da República Federal da Nigéria;**
+O Chefe de Estado da República Federal da Nigéria;
 
 O Governo de Niue;
 
@@ -16328,69 +16363,69 @@ O Governo da República de Palau;
 
 Sua Majestade a Rainha do Estado Independente da Papuásia-Nova Guiné;
 
-**O Presidente da República do Quénia;**
+O Presidente da República do Quénia;
 
-**O Presidente da República de Quiribati;**
+O Presidente da República de Quiribati;
 
-**O Presidente da República do Ruanda;**
+O Presidente da República do Ruanda;
 
-**O Chefe de Estado do Estado Independente de Samoa;**
+O Chefe de Estado do Estado Independente de Samoa;
 
 Sua Majestade a Rainha de Santa Lúcia;
 
 Sua Majestade a Rainha de São Cristóvão e Nevis;
 
-**O Presidente da República Democrática de São Tomé e Príncipe;**
+O Presidente da República Democrática de São Tomé e Príncipe;
 
 Sua Majestade a Rainha de São Vicente e Granadinas;
 
-**O Presidente da República das Seicheles;**
+O Presidente da República das Seicheles;
 
-**O Presidente da República do Senegal;**
+O Presidente da República do Senegal;
 
-**O Presidente da República da Serra Leoa;**
+O Presidente da República da Serra Leoa;
 
-**O Presidente da República Democrática da Somália;**
+O Presidente da República Democrática da Somália;
 
 Sua Majestade o Rei do Reino da Suazilândia;
 
-**O Presidente da República do Sudão;**
+O Presidente da República do Sudão;
 
-**O Presidente da República do Suriname;**
+O Presidente da República do Suriname;
 
-**O Presidente da República Unida da Tanzânia;**
+O Presidente da República Unida da Tanzânia;
 
-**O Presidente da República Togolesa;**
+O Presidente da República Togolesa;
 
 Sua Majestade o Rei Taufa'Ahau Tupou IV de Tonga;
 
-**O Presidente da República de Trindade e Tobago;**
+O Presidente da República de Trindade e Tobago;
 
 Sua Majestade a Rainha de Tuvalu;
 
-**O Presidente da República do Uganda;**
+O Presidente da República do Uganda;
 
 O Governo de Vanuatu;
 
-**O Presidente da República da Zâmbia;**
+O Presidente da República da Zâmbia;
 
-**O Presidente da República do Zimbabué;**
+O Presidente da República do Zimbabué;
 
 cujos Estados são adiante designados por Estados ACP, por outro lado, reunidos em Cotonu, em 23 de Junho de 2000, para a assinatura do Acordo de Parceria ACP-CE, adoptaram os seguintes textos:
 
 O Acordo de Parceria ACP-CE e os seguintes anexos e protocolos:
 
-## Anexo I - Protocolo financeiro;
+Anexo I - Protocolo financeiro;
 
-## Anexo II - Modalidades e condições de financiamento;
+Anexo II - Modalidades e condições de financiamento;
 
-## Anexo III - Apoio institucional - CDE e CTA;
+Anexo III - Apoio institucional - CDE e CTA;
 
-## Anexo IV - Processos de execução e de gestão;
+Anexo IV - Processos de execução e de gestão;
 
-## Anexo V - Regime comercial aplicável durante o período preparatório referido no n.º 1 do artigo 37.º
+Anexo V - Regime comercial aplicável durante o período preparatório referido no n.º 1 do artigo 37.º
 
-## Anexo VI - Lista dos Estados menos desenvolvidos, sem litoral e insulares;
+Anexo VI - Lista dos Estados menos desenvolvidos, sem litoral e insulares;
 
 Protocolo n.º 1, relativo às despesas de funcionamento das instituições conjuntas;
 
@@ -16486,7 +16521,7 @@ Declaração XLII - Declaração comum sobre as regras de origem: acumulação c
 
 Declaração XLIII - Declaração comum relativa ao anexo II do Protocolo n.º 1 do anexo V.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)](https://files.diariodarepublica.pt/1s/2002/04/080a03/00080237.pdf)
 
 Declaração I - Declaração comum relativa aos intervenientes na parceria (artigo 6.º)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667/1991/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-1991-673653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97182799d8d3cdd11a4eedfe2693b481c8d95f4e880ee8c4059db78ff111c49a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4172a3dd4c0734b01f160cb0aae40ab31b0e35d0954643b2ed41b3898f152b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,53 @@ relationships:
   target: pt:dre:302291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669855:por
+  label: "Suspenso até à publicação da respectiva portaria de renovação pelo prazo máximo de nove meses, o exercício da caça\
+    \ e actividades de carácter venatório na zona de caça atribuída pelo presente diploma, pela PORT.616/2003.2003.07.22.MADRP\
+    \ DR.IS-B [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/616-2003-669855
+  date: '2003-07-22'
+- type: amended_by
+  target: pt:dre:302291:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça turística concessionada pelo presente diploma,\
+    \ pela PORT.442/2004.30.04.2004.MECO, DR.IS-B [102] de 30.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-2004-302291
+  date: '2004-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:06Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +154,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/159b00/35753575.pdf))](https://files.diariodarepublica.pt/1s/1991/07/159b00/35753575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/159b00/35753575.pdf)

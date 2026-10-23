@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1160/1992/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1160-1992-616659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6879b21f5eff49aaa49b9ce38f3784348cd1a80484a812828fb7bb702d9f80c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e39a0bbbcbdb26d00f5656d8cf2ad880ec02a0805289840497e446de1fb38fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Denominação de Instituição
 - Escola Superior de Ciência e Tecnologia
 - Escola Superior de Desenvolvimento Social e Comunitário
 - GAIA
 - Instituto Politécnico
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "APROVADO O PLANO DE ESTUDOS DO CURSO SUPERIOR DE CONTABILIDADE E GESTÃO PELA PORTARIA 865/93, DE 14 DE SETEMBRO,\
+    \ PUBLICADA NO DR.IS-B, 216, DE 930914. RECTIFICADOS OS PLANOS DE ESTUDOS DOS CURSOS SUPERIORES DE TURISMO, DE ENGENHARIA\
+    \ ELECTRÓNICA E DE AUTOMAÇÃO, E DO CURSO DE ENGENHARIA INFORMÁTICA PELA PORTARIA 865/93, DE 14 DE SETEMBRO, PUBLICADA\
+    \ NO DR.IS-B, 216, DE 930914.\016, DE 930914.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:240806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660309:por
+  label: Alterada a denominação e os planos de estudos dos cursos superiores de Património Cultural e de Desenvolvimento Comunitário,
+    para, respetivamente, Património e Ambiente e Administração Pública, Regional e Local, aprovados pela Portaria 1061/90
+    de 18-out, com a redação dada pelo presente diploma, assim como são alterados os planos de estudos do curso superior de
+    Contabilidade e Gestão, e os planos de estudos dos cursos superiores de Turismo, de Engenharia Eletrónica e de Automação
+    e de Engenharia Informática pelo(a) Portaria n.º 865/93 - Diário da República n.º 216/1993, Série I-B de 1993-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1993-660309
+  date: '1993-09-14'
+- type: amended_by
+  target: pt:dre:240806:por
+  label: "Determinada, nos termos do art. 3.º da Port 343/2003, a caducidade do bacharelato em Turismo cujo funcionamento\
+    \ foi autorizado pela Port 1061/91, de 18-Out DR.IS [241] na redacção do presente diploma e da Port 865/93, de 14-Set,\
+    \ pela PORT.343/2003.2003.04.29.MCES DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-2003-240806
+  date: '2003-04-29'
+- type: cites
+  target: pt:dre:565457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:17Z'
   warnings: []
   errors: []
 ---
@@ -129,26 +160,26 @@ O curso superior de Sistemas Informáticos passa a denominar-se de Engenharia In
 
 Ministério da Educação.
 
-**Assinada em 12 de Novembro de 1992.**
+Assinada em 12 de Novembro de 1992.
 
-**O Ministro da Educação, António Fernando Couto dos Santos.**
+O Ministro da Educação, António Fernando Couto dos Santos.
 
 ## ANEXO — Escola Superior de Desenvolvimento Social e Comunitário
 
 Curso superior de Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
 
 Escola Superior de Ciência e Tecnologia
 
 Curso superior de Engenharia Electrónica e de Automação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
 
 Curso superior de Engenharia Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
 
 Curso superior de Informática de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/289b00/57825785.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 25/1987, 1º Suplemento, Série I de 1987-01-30
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 392-(6) a 392-(99)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02501/00060099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-1987-272591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 971bbb09687420c1431a4da184172bc25cb0c71b46ebf6c20d3e22b125df07bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e11173b8699758de5b86f2bd1bdf0d7743f09f59cd9db96a8c3f359628319906
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Convenção
+- Nairobi
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:261905:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261905:por
+  label: Substituída a Convenção Internacional das Telecomunicações de Nairobi (1982) pelo(a) Resolução da Assembleia da República
+    n.º 10-A/95 - Diário da República n.º 44/1995, 1º Suplemento, Série I-A de 1995-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-a-1995-261905
+  date: '1995-02-21'
 article_structure:
   article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:11Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 30 de Janeiro de 1987.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 CONVENTION INTERNATIONALE DES TÉLÉCOMMUNICATIONS
 
@@ -1874,7 +1884,7 @@ Fait à Nairobi, le 6 novembre 1982.
 
 ANNEXE 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/02501/00060099.pdf))](https://files.diariodarepublica.pt/1s/1987/01/02501/00060099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02501/00060099.pdf)
 
 ANNEXE 2
 
@@ -5246,13 +5256,11 @@ Preâmbulo
 
 Em conformidade com o disposto no artigo 57 da Carta das Nações Unidas e no artigo 26 da Convenção da União Internacional das Telecomunicações, celebrada em Atlantic City em 1947, as Nações Unidas e a União Internacional das Telecomunicações convencionam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Nações Unidas reconhecem a União Internacional das Telecomunicações, adiante designada por União, como a instituição especializada incumbida de tomar todas as medidas apropriadas, conformes com o seu Acto constitutivo, para atingir os objectivos por ela fixados nesse Acto.
 
-ARTIGO II
-
-Representação recíproca
+###### ARTIGO II — Representação recíproca
 
 1 - A Organização das Nações Unidas será convidada a enviar representantes para participarem, sem direito de voto, nos trabalhos de todas as conferências de plenipotenciários e administrativas da União; será igualmente convidada, após acordo prévio com a União, a enviar representantes para assistirem às reuniões das comissões consultivas internacionais ou a quaisquer outras reuniões convocadas pela União, com o direito de participarem, sem voto, na discussão dos problemas que interessem às Nações Unidas.
 
@@ -5264,15 +5272,11 @@ Representação recíproca
 
 5 - O Secretariado das Nações Unidas procederá à distribuição de quaisquer exposições escritas apresentadas pela União aos Membros da Assembleia Geral, do Conselho Económico e Social e das suas comissões, bem como do Conselho de Tutela, conforme for o caso. Do mesmo modo, as exposições escritas apresentadas pelas Nações Unidas serão distribuídas pela União aos seus Membros.
 
-ARTIGO III
-
-Inscrição de assuntos na ordem do dia
+###### ARTIGO III — Inscrição de assuntos na ordem do dia
 
 Após as consultas preliminares que possam ser necessárias, a União inscreverá na ordem do dia das conferências plenipotenciárias ou administrativas ou das reuniões de outros órgãos da União as questões que lhe sejam propostas pelas Nações Unidas. Identicamente, o Conselho Económico e Social e as suas comissões, bem como o Conselho de Tutela, inscreverão na sua ordem do dia as questões propostas pelas conferências ou pelos outros órgãos da União.
 
-ARTIGO IV
-
-Recomendações das Nações Unidas
+###### ARTIGO IV — Recomendações das Nações Unidas
 
 1 - A União, considerando que às Nações Unidas compete promover a realização dos objectivos previstos no artigo 55 da Carta e ajudar o Conselho Económico e Social a exercer as funções e os poderes que lhe confere o artigo 62 da Carta, no sentido de elaborar ou favorecer estudos e relatórios sobre questões internacionais nos domínios económicos, sociais, da cultura intelectual e da educação, da saúde pública e noutros domínios afins, bem como de dirigir recomendações sobre todas estas questões às instituições especializadas interessadas; considerando igualmente que os artigos 58 e 63 da Carta dispõem que a Organização das Nações Unidas deve fazer recomendações para coordenar as actividades destas instituições especializadas e os princípios gerais em que elas se inspiram, acorda em tomar as medidas necessárias para submeter ao seu órgão competente, o mais breve possível e para todos os fins úteis, quaisquer recomendações oficiais que a Organização das Nações Unidas possa dirigir-lhe.
 
@@ -5280,9 +5284,7 @@ Recomendações das Nações Unidas
 
 3 - A União cooperará em qualquer outra medida que possa ser julgada necessária para assegurar a coordenação plenamente efectiva das actividades das instituições especializadas e das instituições das Nações Unidas. Acorda, nomeadamente, em colaborar com qualquer órgão ou em todos os órgãos que o Conselho Económico e Social possa estabelecer para facilitar essa coordenação e em fornecer todas as informações que possam ser necessárias para atingir esses objectivos.
 
-ARTIGO V
-
-Permuta de informações e de documentos
+###### ARTIGO V — Permuta de informações e de documentos
 
 1 - Com reserva das medidas que possam ser necessárias para salvaguardar o carácter confidencial de certos documentos, as Nações Unidas e a União procederão à permuta, tão completa e tão rápida quanto possível, de informações e documentos para satisfazer as necessidades de cada uma delas.
 
@@ -5294,15 +5296,11 @@ b) A União dará seguimento, na medida do possível, a todos os pedidos de rela
 
 c) O Secretário-Geral das Nações Uunidas procederá a trocas de impressões com a autoridade competente da União, a pedido desta, para fornecer à União as informações que revistam para esta um interesse particular.
 
-ARTIGO VI
-
-Assistência às Nações Unidas
+###### ARTIGO VI — Assistência às Nações Unidas
 
 A União acorda em cooperar com as Nações Unidas e com os seus órgãos principais e subsidiários e em dar-lhes toda a assistência que lhe seja possível, de acordo com a Carta das Nações Unidas e com a Convenção Internacional das Telecomunicações, tendo plenamente em conta a situação especial dos Membros da União que não são Membros das Nações Unidas.
 
-ARTIGO VII
-
-Relações com o Tribunal Internacional de Justiça
+###### ARTIGO VII — Relações com o Tribunal Internacional de Justiça
 
 1 - A União acorda em fornecer ao Tribunal Internacional de Justiça todas as informações que este possa solicitar-lhe, nos termos do artigo 34 do seu estatuto.
 
@@ -5312,17 +5310,13 @@ Relações com o Tribunal Internacional de Justiça
 
 4 - Quando solicitar um parecer consultivo ao Tribunal Internacional de Justiça, a União informará desse pedido o Conselho Económico e Social.
 
-ARTIGO VIII
-
-Disposições relativas ao pessoal
+###### ARTIGO VIII — Disposições relativas ao pessoal
 
 1 - A Organização das Nações Unidas e a União convencionam em estabelecer para o pessoal, na medida do possível, normas, métodos e disposições comuns destinados a evitar contradições graves nos termos e condições de emprego, bem como a concorrência no recrutamento do pessoal, e, bem assim, a facilitar as transferências de pessoal que parecerem desejáveis, de parte a parte, para utilizar da melhor maneira os serviços desse pessoal.
 
 2 - A Organização das Nações Unidas e a União acordam em cooperar, tanto quanto possível, para a consecução dos objectivos acima indicados.
 
-ARTIGO IX
-
-Serviços estatísticos
+###### ARTIGO IX — Serviços estatísticos
 
 1 - A Organização das Nações Unidas e a União acordam em empregar os seus esforços para, na mais estreita colaboração possível, conseguirem eliminar as duplicações nas suas actividades e a utilização tão eficaz quanto possível do seu pessoal técnico na colheita, análise, publicação, normalização, melhoramento e difusão de informações estatísticas. Convencionam também conjugar os seus esforços para tirarem o melhor proveito possível das informações estatísticas e para aliviarem a tarefa dos governos e dos outros organismos chamados a fornecer essas informações.
 
@@ -5334,55 +5328,41 @@ Serviços estatísticos
 
 5 - Acorda-se que os dados fornecidos à Organização das Nações Unidas para serem incorporados nas suas séries estatísticas de base ou nos seus relatórios especiais serão acessíveis à União, a pedido desta e na medida em que isso for possível e oportuno.
 
-ARTIGO X
-
-Serviços administrativos e técnicos
+###### ARTIGO X — Serviços administrativos e técnicos
 
 1 - A Organização das Nações Unidas e a União reconhecem que, para utilizar da forma mais eficaz o pessoal e os recursos disponíveis, é desejável evitar, sempre que possível, a criação de serviços cujos trabalhos sejam concorrentes ou se sobreponham, consultando-se, se necessário, para a realização deste objectivo.
 
 2 - A Organização das Nações Unidas e a União tomarão, em conjunto, disposições referentes ao registo e ao depósito de documentos oficiais.
 
-ARTIGO XI
-
-Disposições orçamentais e financeiras
+###### ARTIGO XI — Disposições orçamentais e financeiras
 
 1 - O orçamento ou o projecto de orçamento da União será transmitido à Organização das Nações Unidas ao mesmo tempo em que for transmitido aos Membros da União; a Assembleia Geral poderá, a este respeito, fazer recomendações à União.
 
 2 - A União terá o direito de enviar representantes para participarem, sem direito de voto, nos trabalhos da Assembleia Geral ou de quaisquer comissões desta Assembleia, em qualquer momento em que o orçamento da União esteja em discussão.
 
-ARTIGO XII
-
-Financiamento de serviços especiais
+###### ARTIGO XII — Financiamento de serviços especiais
 
 1 - Se a União se vir obrigada a fazer face a importantes despesas suplementares, na sequência de um pedido de assistência, de relatórios especiais ou de estudos, apresentados pela Organização das Nações Unidas nos termos do artigo VI ou de outras disposições do presente acordo, as partes consultar-se-ão para estabelecerem a forma mais equitativa de fazer face a essas despesas.
 
 2 - A Organização das Nações Unidas e a União consultar-se-ão igualmente para adoptarem as disposições julgadas equitativas para cobertura dos encargos dos serviços centrais administrativos, técnicos ou fiscais e de quaisquer facilidades ou assistência especiais concedidas pela Organização das Nações Unidas a pedido da União.
 
-ARTIGO XIII
-
-Salvo-conduto das Nações Unidas
+###### ARTIGO XIII — Salvo-conduto das Nações Unidas
 
 Os funcionários da União terão o direito de utilizar o salvo-conduto das Nações Unidas em conformidade com os acordos especiais que forem concluídos pelo Secretário-Geral da Organização das Nações Unidas e pelas autoridades competentes da União.
 
-ARTIGO XIV
-
-Acordos entre instituições
+###### ARTIGO XIV — Acordos entre instituições
 
 1 - A União acorda em informar o Conselho Económico e Social da natureza e do alcance de qualquer acordo oficial a celebrar entre a União e qualquer outra instituição especializada, ou qualquer outra organização intergovernamental ou qualquer organização internacional não governamental, e informará, por outro lado, o Conselho Económico e Social dos detalhes desse acordo quando tiver sido celebrado.
 
 2 - A Organização das Nações Unidas acorda em informar a União da natureza e do alcance de qualquer acordo oficial a celebrar por quaisquer instituições especializadas sobre questões que possam interessar à União e, por outro lado, comunicará à União os detalhes desse acordo quando ele tiver sido celebrado.
 
-ARTIGO XV
-
-Ligação
+###### ARTIGO XV — Ligação
 
 1 - A Organização das Nações Unidas e a União acordam as disposições anteriores na convicção de que elas contribuirão para manter uma ligação efectiva entre as duas organizações e afirmam a sua intenção de tomarem as medidas que possam ser necessárias para esse fim.
 
 2 - As disposições respeitantes à ligação prevista pelo presente acordo aplicar-se-ão, na medida em que for apropriado, às relações entre a União e a Organização das Nações Unidas, incluindo os seus serviços regionais ou auxiliares.
 
-ARTIGO XVI
-
-Serviços de telecomunicações das Nações Unidas
+###### ARTIGO XVI — Serviços de telecomunicações das Nações Unidas
 
 1 - A União reconhece que é importante para a Organização das Nações Unidas beneficiar dos mesmos direitos que os Membros da União na exploração de serviços de telecomunicações.
 
@@ -5390,21 +5370,15 @@ Serviços de telecomunicações das Nações Unidas
 
 3 - Os termos precisos de aplicação deste artigo serão objecto de acordos separados.
 
-ARTIGO XVII
+###### ARTIGO XVII — Execução do acordo
 
-Execução do acordo
+O Secretário-Geral das Nações Unidas e a autoridade competente da União poderão celebrar quaisquer acordos complementares que pareçam desejáveis com vista à aplicação do presente acordo.
 
-**O Secretário-Geral das Nações Unidas e a autoridade competente da União poderão celebrar quaisquer acordos complementares que pareçam desejáveis com vista à aplicação do presente acordo.**
-
-ARTIGO XVIII
-
-Revisão
+###### ARTIGO XVIII — Revisão
 
 Este acordo poderá ser revisto por entendimento entre as Nações Unidas e a União, sob reserva de um pré-aviso de seis meses, feito por qualquer das partes.
 
-ARTIGO XIX
-
-Entrada em vigor
+###### ARTIGO XIX — Entrada em vigor
 
 1 - O presente acordo entrará provisoriamente em vigor após aprovação pela Assembleia Geral das Nações Unidas e pela Conferência Plenipotenciária das Telecomunicações, celebrada em Atlantic City em 1947.
 
@@ -6464,7 +6438,7 @@ PROTOCOLO ADICIONAL IV
 
 Data de entrada em funções do secretário-geral e do vice-secretário-geral
 
-**O secretário-geral e o vice-secretário-geral eleitos pela conferência de plenipotenciários de Nairobi (1982) nas condições fixadas por esta mesma conferência entrarão em funções no dia 1 de Janeiro de 1983.**
+O secretário-geral e o vice-secretário-geral eleitos pela conferência de plenipotenciários de Nairobi (1982) nas condições fixadas por esta mesma conferência entrarão em funções no dia 1 de Janeiro de 1983.
 
 PROTOCOLO ADICIONAL V
 

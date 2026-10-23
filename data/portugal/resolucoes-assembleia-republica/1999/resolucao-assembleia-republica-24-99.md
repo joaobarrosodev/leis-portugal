@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/24/1999/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1999-138367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd2aa764d9373c6eddd643f5afb9e48c6739be2e76ec1b92e9ed337a0ae01504
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d37febce63ea8dfd7c73fa0a9d70f8fe4ac5eb348c43c257c87b9b4f607d43f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,39 +71,52 @@ subjects:
 - Assistência Mútua
 - CE Países
 - Circulação de Capitais
+- Circulação de Mercadorias
+- Comércio
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Cooperação Legislativa
-- Cooperação Transfronteira
-- Portugal
-- Investimento
-- Circulação de Mercadorias
-- Política Aduaneira
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Internacional
+- Cooperação Legislativa
 - Cooperação Política
-- Prestação de Serviços
+- Cooperação Transfronteira
 - Dados Pessoais
-- Comércio
+- Investimento
 - Luxemburgo
+- Política Aduaneira
+- Portugal
+- Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:67283028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138365:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo DEC.124/99.1999.03.26.PR, DR.IS-A [72]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-1999-138365
+  date: '1999-03-26'
+- type: repealed_by
+  target: pt:dre:67283028:por
+  label: Revogado e substituído o Acordo de Parceria e Cooperação entre as Comunidades Europeias e os seus Estados-Membros,
+    por um lado, e a Geórgia, por outro, aprovado pela presente Resolução, ratificado pelo Dec. 124/99 PR de 26-mar, pelo(a)
+    Resolução da Assembleia da República n.º 54/2015 - Diário da República n.º 99/2015, Série I de 2015-05-22 nos termos dos
+    arts. 423.º e 431.º do Acordo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/54-2015-67283028
+  date: '2015-05-22'
 article_structure:
   article_count: 119
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:19Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +129,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 29 de Janeiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE PARCERIA E COOPERAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A GEÓRGIA, POR OUTRO.
 
@@ -1208,7 +1221,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 102.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 103.º
 
@@ -1226,7 +1239,7 @@ A partir da sua entrada em vigor, o presente Acordo substitui, nas relações en
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entrada em vigor do presente Acordo, as disposições de certas partes do presente Acordo entrarem em vigor através de um acordo provisório entre a Comunidade e a Geórgia, as Partes acordam em que, nessas circunstâncias, se entende por «data de entrada em vigor do Acordo» a data de entrada em vigor do acordo provisório.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)
 
 ## ANEXO I — Lista indicativa das vantagens concedidas pela Geórgia aos Estados independentes nos termos do n.º 3 do artigo 9.º
 
@@ -1666,4 +1679,4 @@ Declaração do Governo Francês
 
 A República Francesa declara que o Acordo de Parceria e Cooperação com a Geórgia não é aplicável aos países e territórios ultramarinos associados à Comunidade Europeia por força do Tratado que institui a Comunidade Europeia.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)](https://files.diariodarepublica.pt/1s/1999/03/072a00/16961723.pdf)

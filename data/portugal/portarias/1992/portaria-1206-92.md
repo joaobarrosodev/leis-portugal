@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1206/1992/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1206-1992-624035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7e9906220f1fea33c33aa3867a206d8214638d705301230dbe91031b29488cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd9ae7a16896616d8ec91287bd6ab971b06891e0605309d58270f02921db140a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Câmara Municipal
 - Covilhã
 - Loteamento Urbano
+- Ordenamento do Território
 - Política de Solos
-- Câmara Municipal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:22Z'
   warnings: []
   errors: []
 ---
@@ -113,31 +121,31 @@ Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordena
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 22 de Outubro de 1992.**
+Assinada em 22 de Outubro de 1992.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf))](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf)
 
 Regulamento do Plano de Pormenor da Palmatória
 
-###### Artigo 1.º As disposições deste Regulamento aplicam-se a todas as edificações abrangidas pelo presente Plano de Pormenor, relativo à zona da Palmatória. Em complemento deste Regulamento apresenta-se o quadro n.º 1, no qual se encontram especificadas as áreas dos lotes, o número de pisos, a área total de pavimento coberto, uso previsto, etc.
+Artigo 1.º As disposições deste Regulamento aplicam-se a todas as edificações abrangidas pelo presente Plano de Pormenor, relativo à zona da Palmatória. Em complemento deste Regulamento apresenta-se o quadro n.º 1, no qual se encontram especificadas as áreas dos lotes, o número de pisos, a área total de pavimento coberto, uso previsto, etc.
 
-###### Art. 2.º Os projectos de todas as edificações serão elaborados e subscritos conjuntamente por arquitectos e engenheiros civis.
+Art. 2.º Os projectos de todas as edificações serão elaborados e subscritos conjuntamente por arquitectos e engenheiros civis.
 
 Os projectos de loteamentos e projectos de edifícios correntes e sem exigências especiais, que não excedam quatro pisos na totalidade e ou cuja área total de pavimentos não ultrapasse os 800 m2, serão elaborados e subscritos conjuntamente por arquitectos e engenheiros civis ou arquitectos e engenheiros técnicos civis.
 
-###### Art. 3.º Os projectos dos edifícios localizados a sul da unidade hoteleira, em especial no que se refere à escolha de cores, à utilização de materiais e à modelação de vãos na fachada, não poderão ser considerados isoladamente, mas, pelo contrário, deverão ser concebidos em simultâneo conforme o conjunto de edifícios onde se integram, nomeadamente grupos de dois e três edifícios.
+Art. 3.º Os projectos dos edifícios localizados a sul da unidade hoteleira, em especial no que se refere à escolha de cores, à utilização de materiais e à modelação de vãos na fachada, não poderão ser considerados isoladamente, mas, pelo contrário, deverão ser concebidos em simultâneo conforme o conjunto de edifícios onde se integram, nomeadamente grupos de dois e três edifícios.
 
-###### Art. 4.º A zona ocupada por uma indústria metalúrgica manter-se-á com as características actuais, admitindo-se a reconversão do referido espaço em área habitacional e de equipamento numa próxima revisão deste, quando se verifique a possibilidade e interesse da transferência desta unidade industrial para zona mais apropriada.
+Art. 4.º A zona ocupada por uma indústria metalúrgica manter-se-á com as características actuais, admitindo-se a reconversão do referido espaço em área habitacional e de equipamento numa próxima revisão deste, quando se verifique a possibilidade e interesse da transferência desta unidade industrial para zona mais apropriada.
 
-###### Art. 5.º O estacionamento coberto e exterior será na proporção de um veículo por fogo e ou um veículo por 50 m2 de comércio, podendo ser prevista uma cave para o efeito.
+Art. 5.º O estacionamento coberto e exterior será na proporção de um veículo por fogo e ou um veículo por 50 m2 de comércio, podendo ser prevista uma cave para o efeito.
 
-###### Art. 6.º Rectificações e ajustamentos a este Regulamento poderão ser propostos quando da elaboração dos projectos de arquitectura e especialmente no que se refere às cotas de implantação, acessos ou alterações imprevistas.
+Art. 6.º Rectificações e ajustamentos a este Regulamento poderão ser propostos quando da elaboração dos projectos de arquitectura e especialmente no que se refere às cotas de implantação, acessos ou alterações imprevistas.
 
-###### Art. 7.º As construções que na planta de síntese se indicam como existentes a manter não poderão sofrer alterações que impliquem a alteração de volumetria e mudança de uso.
+Art. 7.º As construções que na planta de síntese se indicam como existentes a manter não poderão sofrer alterações que impliquem a alteração de volumetria e mudança de uso.
 
-###### Art. 8.º Nos lotes destinados a moradias unifamiliares poderão as construções ser isoladas ou geminadas, consoante indica a planta de síntese, devendo respeitar as seguintes condicionantes:
+Art. 8.º Nos lotes destinados a moradias unifamiliares poderão as construções ser isoladas ou geminadas, consoante indica a planta de síntese, devendo respeitar as seguintes condicionantes:
 
 a) A área é de dois pisos, podendo-se construir uma cave, caso a topografia assim o justifique;
 
@@ -149,10 +157,10 @@ Lateral - 3,00 m;
 
 Posterior - 6,00 m.
 
-###### Art. 9.º A construção do lote n.º 1 só será possível após a demolição do edifício localizado a nascente deste.
+Art. 9.º A construção do lote n.º 1 só será possível após a demolição do edifício localizado a nascente deste.
 
-###### Art. 10.º O rés-do-chão dos edifícios de habitação colectiva poderá ser destinado a comércio.
+Art. 10.º O rés-do-chão dos edifícios de habitação colectiva poderá ser destinado a comércio.
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf))](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/295b00/59255926.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/2001/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2001-346298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6072b110ce978f70375e76ba6d834e924514351ee02c6362c1ae5a2e981f1020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 478295ecf909081418393e90b97a00a57bcf053927f70addbb043616dbadc793
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Euratom
+- Portugal
 - Tratado de não Proliferação de Armas Nucleares
 relationships:
+- type: amended_by
+  target: pt:dre:346299:por
+  label: "Ratificado o Protocolo pelo DEC.25/2001.2001.04.03.PR DR.IS-A [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-2001-346299
+  date: '2001-04-03'
 - type: cites
   target: eli:/application/external/euratom
   label: null
@@ -79,13 +84,13 @@ relationships:
 article_structure:
   article_count: 53
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:01Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de Dezembro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLO ADICIONAL DO ACORDO ENTRE A REPÚBLICA DA ÁUSTRIA, O REINO DA BÉLGICA, O REINO DA DINAMARCA, A REPÚBLICA DA FINLÂNDIA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA HELÉNICA, A IRLANDA, A REPÚBLICA ITALIANA, O GRÃO-DUCADO DO LUXEMBURGO, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA PORTUGUESA, O REINO DE ESPANHA, O REINO DA SUÉCIA, A COMUNIDADE EUROPEIA DA ENERGIA ATÓMICA E A AGÊNCIA INTERNACIONAL DA ENERGIA ATÓMICA EM APLICAÇÃO DO ARTIGO III, N.OS 1 E 4, DO TRATADO DE NÃO PROLIFERAÇÃO DAS ARMAS NUCLEARES.
 
@@ -392,7 +397,7 @@ ii) Qualquer lugar no qual se utilizem habitualmente materiais nucleares em quan
 
 J - «Lugar fora das instalações» qualquer estabelecimento ou lugar, que não seja uma instalação, no qual se utilizem habitualmente materiais nucleares em quantidades iguais ou inferiores a 1 kg efectivo.
 
-[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
+[[[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
 
 ## ANEXO I — Lista das actividades referidas no parágrafo a, alínea iv), do artigo 2.º do Protocolo
 
@@ -1294,7 +1299,7 @@ i) A pessoa colectiva criada pelo Tratado que institui a Comunidade Europeia da 
 
 ii) Os territórios em que se aplica o [Tratado EURATOM](https://diariodarepublica.pt/application/external/euratom).
 
-[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
+[[[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
 
 ## ANEXO I — Lista das actividades referidas no parágrafo A, alínea iii), do artigo 2.º do Protocolo
 
@@ -2150,7 +2155,7 @@ i) A pessoa colectiva criada pelo Tratado que institui a Comunidade Europeia da 
 
 ii) Os territórios em que se aplica o [Tratado EURATOM](https://diariodarepublica.pt/application/external/euratom).
 
-[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
+[[[(ver fecho no documento original)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)](https://files.diariodarepublica.pt/1s/2001/04/079a00/19261985.pdf)
 
 ## ANEXO I — Lista das actividades referidas no parágrafo A, alíneas iii) e vii), do artigo 2.º do Protocolo
 

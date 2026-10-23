@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 146/1994, 1º Suplemento, Série I-A de 1994-06-27
   number: '146'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3364-(2) a 3364-(111)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/1994/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-1994-335711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2de4b36449c7738b848d5aad6bd8bb4de71d450af06a9bd308fc2b37179848a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd8ad078f28ef901366053018b78c158f1be8e0d2ba74398b31bd555b71acb1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - CEE
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Euratom
+- Portugal
 relationships:
 - type: cites
   target: celex:31962R0026
@@ -131,15 +131,15 @@ relationships:
   label: null
   source: http://data.europa.eu/
 article_structure:
-  article_count: 221
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 220
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:17Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +152,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 10 de Fevereiro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A ROMÉNIA, POR OUTRO.
 
@@ -1710,31 +1710,31 @@ A partir da sua entrada em vigor, o presente Acordo substitui o Acordo entre a C
 
 2 - Se a data da entrada em vigor for posterior a 1 de Janeiro, é aplicável o disposto no Protocolo n.º 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO I — Lista de produtos referidos nos artigos 9.º a 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IIa — Lista dos produtos referidos no n.º 2, primeiro parágrafo, do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IIb — Lista dos produtos referidos no n.º 2, segundo parágrafo, do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO III — Lista dos produtos referidos no n.º 3 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IV — Lista dos produtos referidos no n.º 1 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO V — Lista dos produtos referidos no n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO VI
 
@@ -2110,19 +2110,19 @@ Sémen colchici.
 
 ## ANEXO X — Produtos referidos no artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XIa — Lista dos produtos referidos no n.º 2 do artigo 21.º
 
 Os produtos enunciados no presente anexo serão sujeitos a uma redução do direito nivelador de 50%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XIb — Lista dos produtos referidos no n.º 2 do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
-## Anexo dos anexos XIb e XIIb
+Anexo dos anexos XIb e XIIb
 
 Regime de preços mínimos aplicável na importação de certos frutos de baga destinados a transformação
 
@@ -2164,27 +2164,27 @@ As importações da Comunidade dos seguintes produtos originários da Roménia f
 
 As quantidades importadas sob o código NC referidas no presente anexo, com excepção dos códigos 0104 e 0204, serão sujeitas a uma redução de direitos niveladores e de direitos aduaneiros de 20% no primeiro ano, de 40% no segundo e de 60% nos anos seguintes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XIIb — Lista de produtos referidos no n.º 4 do artigo 21.º
 
 As importações da Comunidade dos seguintes produtos originários da Roménia ficam sujeitas às concessões abaixo indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XIII — Lista de produto referidos no n.º 4 do artigo 21.º
 
 As importações na Roménia dos seguintes produtos originários da Comunidade ficam sujeitas às concessões abaixo indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XIV — Concessões de pesca comunitárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XV — Concessões de pesca romenas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO XVI — Direito de estabelecimento (n.º 1 do artigo 45.º)
 
@@ -2450,15 +2450,15 @@ As Partes acordam em que um dos organismos especiais estabelecidos pelo Conselho
 
 ## ANEXO I — Lista dos produtos carboníferos e siderúrgicos da CECA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IIa — Lista dos produtos referidos no n.º 1) do artigo 3.º a no artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IIb — Lista dos produtos referidos no n.º 2) do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO III — Produtos a regiões referidos como excepções no artigo 8.º do Protocolo CECA
 
@@ -2564,17 +2564,17 @@ As reduções dos elementos variáveis referidas no n.os 2, alínea b), do artig
 
 ## ANEXO A — Direitos aplicáveis na importação na Comunidade de mercadorias originárias de Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO B
 
 Contingentes pautais aplicáveis na Importação na Comunidade de mercadorias originárias de Roménia relativamente às quais é concedida uma redução do elemento variável em conformidade com o n.º 2, alínea b), do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO C — Mercadorias referidas no n.º 2 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 PROTOCOLO N.º 4
 
@@ -2792,7 +2792,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 fica subordinada
 
 5 - Na casa n.º 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 6 - Não é necessário indicar nas casas n.os 8 e 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (kg) ou outra medida (1, m3, etc.). A casa n.º 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -2832,7 +2832,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2842,7 +2842,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2862,7 +2862,7 @@ b) Conter a marca aposta pelo exportador autorizado de um carimbo especial aprov
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 5 - A casa n.º 11, «Visto de alfândega», do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -3254,7 +3254,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal como uma b
 
 Lista das operações de complemento de fabrico ou transformações a efectuar em matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -3264,7 +3264,7 @@ Lista das operações de complemento de fabrico ou transformações a efectuar e
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Roménia reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -3274,17 +3274,17 @@ Lista das operações de complemento de fabrico ou transformações a efectuar e
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Roménia reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 ## ANEXO VI
 
 Lista dos produtos referidos no artigo 35.º que são temporariamente excluídos do âmbito do presente Protocolo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 PROTOCOLO N.º 5
 
@@ -3366,9 +3366,9 @@ O cumprimento por parte de Portugal dos compromissos abrangidos pelo n.º 4 do a
 
 As importações em Portugal de produtos originários da Roménia podem ser sujeitas a restrições quantitativas até 31 de Dezembro de 1995 no que se refere aos produtos enumerados no anexo B.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 PROTOCOLO N.º 6
 
@@ -3618,7 +3618,7 @@ Declaração da Roménia sobre o artigo 21.º do Acordo;
 
 Declaração da Roménia sobre o Protocolo n.º 4.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf))](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/146a01/00020111.pdf)
 
 Declarações comuns
 
@@ -3658,11 +3658,11 @@ N.º 7 do artigo 45.º:
 
 As Partes acordam em que a expressão «património público» referida no n.º 7 do artigo 45.º abrange as áreas e domínios previstos no artigo 135.º da Constituição da Roménia.
 
-### Capítulo II do título IV
+Capítulo II do título IV
 
 Sem prejuízo das disposições do capítulo IV do título IV, as Partes acordam em que o tratamento concedido aos nacionais ou às empresas de uma das Partes será considerado menos favorável do que o tratamento concedido aos nacionais ou empresas da outra Parte se esse tratamento for formalmente ou de facto menos favorável do que o tratamento concedido aos nacionais ou empresas da outra Parte.
 
-### Capítulo III do título IV
+Capítulo III do título IV
 
 As Partes envidarão esforços no sentido de obter resultados mutuamente satisfatórios no âmbito das negociações em matéria de serviços, actualmente em curso no âmbito do Uruguay Round.
 
@@ -3704,7 +3704,7 @@ O Conselho de Associação será informado da entrada em vigor do acordo entre a
 
 Declaração comum
 
-###### Artigo 5.º do Protocolo n.º 6 do Acordo
+Artigo 5.º do Protocolo n.º 6 do Acordo
 
 As Partes Contratantes salientam que a referência feita à sua própria legislação no artigo 5.º do Protocolo n.º 6 pode abrange, se for caso disso, compromissos assumidos a nível internacional, como a Convenção da Haia de 15 de Novembro de 1965 sobre a Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial.
 
@@ -3880,6 +3880,10 @@ A Roménia transmitirá à Comunidade, no início de 1993, a lista onde se enume
 
 A delegação romena insiste e reitera o seu interesse em ver resolvido, o mais breve possível, no âmbito do Conselho de Associação, o seu pedido no sentido de aumentar os contingentes dos produtos das posições NC seguintes:
 
+01041090
+
+01042090
+
 0201
 
 0202
@@ -3889,6 +3893,54 @@ ex 0203
 0204
 
 ex 0207
+
+07020010
+
+07020090
+
+07070011
+
+07096010
+
+07119040
+
+07111020
+
+07111030
+
+08091000
+
+08094011
+
+08094019
+
+08101010
+
+08101090
+
+08121000
+
+08132000
+
+08133000
+
+10019099
+
+12129910
+
+15121191
+
+15121991
+
+20011000
+
+20019090
+
+20029030
+
+20029090
+
+20097019
 
 A delegação romena está convicta de que uma questão tão importante será finalmente resolvida através dos esforços conjuntos da CE e da Roménia.
 

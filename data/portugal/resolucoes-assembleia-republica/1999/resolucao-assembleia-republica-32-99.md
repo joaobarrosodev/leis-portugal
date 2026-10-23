@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/32/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/32-1999-534591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16c52965ff11de67416f3c2866502069ae2df567de0bc21b8355c2f5f5b8df84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cf444ac5ad4d4d0c16fc7a33db43e893f476432d0315979dbaac743d58b8e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Supervisora Comum
+- Bruxelas
 - CE Países
+- Comité para o Sistema de Informação Aduaneira
 - Comunidade Europeia
+- Confidencialidade
 - Controlo Aduaneiro
 - Convenção
 - Cooperação Aduaneira
-- Portugal
 - Informática
-- Segurança da Informação
 - Política Aduaneira
-- Confidencialidade
+- Portugal
+- Segurança da Informação
 - Sistema de Informação Aduaneira
-- Autoridade Supervisora Comum
-- Comité para o Sistema de Informação Aduaneira
 - Tratado da União Europeia
-- Bruxelas
 - Tribunal de Justiça CE
 relationships:
 - type: amended_by
   target: pt:dre:493977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534595:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.129/99.1999.04.21.PR, DR.IS-A [93]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/129-1999-534595
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:493977:por
+  label: "Aprovado o Protocolo Estabelecido ao Abrigo do artigo 34.º do Tratado da União Europeia Que Altera, no Que Se Refere\
+    \ à Criação de Um Ficheiro de Identificação dos Processos de Inquérito Aduaneiro, a Convenção sobre a Utilização da Informática\
+    \ no Domínio Aduaneiro, aprovada para ratificação pelo presente diploma, e ratificada pelo Dec 129/99 de 21-Abr do PR,\
+    \ pela RES.67/2009.05.08.2009.AR, DR.IS [150] de 05.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/67-2009-493977
+  date: '2009-08-05'
 - type: cites
   target: celex:31989L0130
   label: null
@@ -96,13 +110,13 @@ relationships:
 article_structure:
   article_count: 38
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:29Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +141,7 @@ Portugal, por ocasião da assinatura do Protocolo referido no artigo 2.º, decla
 
 Aprovada em 29 de Janeiro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO, ELABORADA COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, SOBRE A UTILIZAÇÃO DA INFORMÁTICA NO DOMÍNIO ADUANEIRO.
 
@@ -473,7 +487,7 @@ Caso esses diferendos não sejam resolvidos no prazo de seis meses, qualquer das
 
 2 - Pode ser submetido ao Tribunal de Justiça qualquer diferendo entre um ou mais Estados membros e a Comissão das Comunidades Europeias relativo à aplicação da presente Convenção que não tenha podido ser resolvido por via de negociação.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)
 
 PROTOCOLO, ESTABELECIDO COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, RELATIVO À INTERPRETAÇÃO A TÍTULO PREJUDICIAL PELO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS DA CONVENÇÃO SOBRE A UTILIZAÇÃO DA INFORMÁTICA NO DOMÍNIO ADUANEIRO.
 
@@ -535,7 +549,7 @@ Os Estados que se tornarem membros da União Europeia e aderirem à Convenção 
 
 2 - O depositário publicará no Jornal Oficial das Comunidades Europeias as notificações, instrumentos ou comunicações relativas ao presente Protocolo.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)
 
 Declaração relativa à adopção simultânea da Convenção sobre a Utilização da Informática no Domínio Aduaneiro e do Protocolo Relativo à Interpretação a Título Prejudicial pelo Tribunal de Justiça das Comunidades Europeias da referida Convenção.
 
@@ -547,4 +561,4 @@ Desejando assegurar uma interpretação o mais eficaz e uniforme possível da re
 
 declaram-se prontos a tomar todas as medidas necessárias para que as formalidades nacionais de adopção da Convenção sobre a Utilização da Informática no Domínio Aduaneiro e do Protocolo Relativo à Interpretação da mesma sejam concluídas simultaneamente no prazo mais curto possível.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)](https://files.diariodarepublica.pt/1s/1999/04/093a00/20942106.pdf)

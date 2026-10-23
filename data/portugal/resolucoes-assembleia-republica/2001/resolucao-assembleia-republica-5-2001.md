@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/5/2001/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/5-2001-313610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a39ea5c1a8d4ffa26a408b4507370cc899b3697470db5e123a7fab467b27039c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cc0667dc3b9a3001562d8d459c03df95c3c2f53732b73a138e9ba15b2afb545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mulher
-- Criança
 - Convenção
-- Portugal
+- Criança
+- Mulher
 - Nova Iorque
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:313616:por
+  label: "Ratificado o presente Protocolo pelo DEC.6/2001.2001.01.27.PR,DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/6-2001-313616
+  date: '2001-01-27'
 article_structure:
-  article_count: 0
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:36Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 28 de Setembro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLE AMENDANT LA CONVENTION POUR LA REPRESSION DE LA TRAITE DES FEMMES ET DES ENFANTS, CONCLUE A GENEVE LE 30 SEPTEMBRE 1921 ET LA CONVENTION POUR LA REPRESSION DE LA TRAITE DES FEMMES MAJEURES, CONCLUE A GENEVE LE 11 OCTOBRE 1933. SIGNE A LAKE SUCCESS, NEW-YORK, LE 12 NOVEMBRE, 1947.
 
@@ -112,7 +117,7 @@ Article III
 
 Le présent Protocole sera ouvert à la signature ou à l'acceptation de tous les Etats parties à la Convention du 30 septembre 1921 pour la répression de la traite des femmes et des enfants ou à la Convention du 11 octobre 1933 pour la répression de la traite des femmes majeures, auxquels le Secrétaire général aura communiqué une copie du présent Protocole.
 
-Artigo IV
+###### Artigo IV
 
 Les Etats pourront devenir parties au présent Protocole:
 
@@ -286,19 +291,19 @@ PROTOCOLO (ver nota 1) DE ALTERAÇÃO DA CONVENÇÃO PARA A REPRESSÃO DO TRÁFI
 
 Os Estados Partes no presente Protocolo, considerando que a Convenção para a Repressão do Tráfico de Mulheres e Crianças, celebrada em Genebra em 30 de Setembro de 1921, e a Convenção para a Repressão do Tráfico de Mulheres Maiores, celebrada em Genebra em 11 de Outubro de 1933, confiaram à Sociedade das Nações certos poderes e funções e que, em virtude da dissolução desta, se torna necessário tomar medidas que assegurem o exercício continuado de tais poderes e funções, e considerando ser oportuno que esses poderes e funções sejam assumidos pela Organização das Nações Unidas, acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Os Estados Partes no presente Protocolo comprometem-se, relativamente aos instrumentos de que são partes e em conformidade com as disposições constantes do presente Protocolo, a atribuir pleno valor jurídico às alterações de tais instrumentos constantes do anexo do presente Protocolo, a torná-las vigentes e a garantir a respectiva aplicação.
 
-Artigo II
+###### Artigo II
 
-**O Secretário-Geral preparará o texto das Convenções revistas em conformidade com o presente Protocolo e transmitirá, a título de informação, cópias ao Governo de cada um dos Estados membros da Organização das Nações Unidas, bem como ao Governo de cada Estado não membro, em relação aos quais fica aberta a assinatura ou a aceitação do presente Protocolo. Convidará, igualmente, as Partes em qualquer dos instrumentos a serem alterados pelo presente Protocolo a aplicar os textos assim alterados a partir da entrada em vigor de tais alterações, mesmo que as Partes não se tenham ainda tornado Partes no presente Protocolo.**
+O Secretário-Geral preparará o texto das Convenções revistas em conformidade com o presente Protocolo e transmitirá, a título de informação, cópias ao Governo de cada um dos Estados membros da Organização das Nações Unidas, bem como ao Governo de cada Estado não membro, em relação aos quais fica aberta a assinatura ou a aceitação do presente Protocolo. Convidará, igualmente, as Partes em qualquer dos instrumentos a serem alterados pelo presente Protocolo a aplicar os textos assim alterados a partir da entrada em vigor de tais alterações, mesmo que as Partes não se tenham ainda tornado Partes no presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo ficará aberto à assinatura ou à aceitação de todos os Estados Partes na Convenção para a Repressão do Tráfico de Mulheres e Crianças, assinada em 30 de Setembro de 1921, e na Convenção para a Repressão do Tráfico de Mulheres Maiores, assinada em 11 de Outubro de 1933, aos quais o Secretário-Geral tenha transmitido uma cópia do presente Protocolo.
 
-Artigo IV
+###### Artigo IV
 
 Os Estados poderão tornar-se partes no presente Protocolo mediante:
 
@@ -306,21 +311,21 @@ a) Assinatura sem reserva de aprovação; ou
 
 b) Aceitação, a efectuar por meio de depósito, de um instrumento formal junto do Secretário-Geral da Organização das Nações Unidas.
 
-Artigo V
+###### Artigo V
 
 1 - O presente Protocolo entrará em vigor à data em que dois ou mais Estados se tornem partes no Protocolo.
 
 2 - As alterações constantes do anexo do presente Protocolo entrarão em vigor, relativamente a cada uma das Convenções, assim que a maioria das Partes na Convenção se tenham tornado partes no presente Protocolo e, consequentemente, qualquer Estado que se torne parte numa das Convenções após a entrada em vigor das alterações que a ela digam respeito tornar-se-á parte na Convenção assim alterada.
 
-Artigo VI
+###### Artigo VI
 
 Em conformidade com o disposto no artigo 102.º, n.º 1, da Carta das Nações Unidas e com o regulamento adoptado pela Assembleia Geral relativo à aplicação de tal texto, o Secretário-Geral da Organização das Nações Unidas fica autorizado a registar o presente Protocolo e as alterações por ele introduzidas em cada uma das Convenções nas datas das respectivas entradas em vigor, bem como a publicar o Protocolo e as Convenções alteradas logo que possível, após o seu registo.
 
-Artigo VII
+###### Artigo VII
 
 O presente Protocolo, cujos textos em chinês, inglês, francês, russo e espanhol fazem igualmente fé, será depositado nos arquivos do Secretariado da Organização das Nações Unidas. Atendendo a que as Convenções que serão alteradas em conformidade com o anexo apenas se encontram redigidas em inglês e francês, os textos em inglês e francês do anexo farão igualmente fé, sendo os textos em chinês, russo e espanhol considerados traduções.
 
-**O Secretário-Geral transmitirá uma cópia autenticada do Protocolo, incluindo o anexo, a cada um dos Estados Partes na Convenção para a Repressão do Tráfico de Mulheres e Crianças, assinada em 30 de Setembro de 1921, e na Convenção para a Repressão do Tráfico de Mulheres Maiores, assinada em 11 de Outubro de 1933, bem como a todos os Estados membros da Organização das Nações Unidas.**
+O Secretário-Geral transmitirá uma cópia autenticada do Protocolo, incluindo o anexo, a cada um dos Estados Partes na Convenção para a Repressão do Tráfico de Mulheres e Crianças, assinada em 30 de Setembro de 1921, e na Convenção para a Repressão do Tráfico de Mulheres Maiores, assinada em 11 de Outubro de 1933, bem como a todos os Estados membros da Organização das Nações Unidas.
 
 Em fé do que os abaixo assinados, devidamente autorizados pelos respectivos Governos, assinaram o presente Protocolo nas datas que surgem ao lado da respectiva assinatura.
 

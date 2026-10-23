@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/181b00/39913992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/792/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-1991-682249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eade9058cafa908be7880c0e186db708d55f8915faef9dc9e6f7da8c231ad52b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30de9bd3fe749db6e3e31b85ca0f9dd0b0dbd43606ac83b8de2a2f12282222c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,54 @@ subjects:
 - Horário de Funcionamento
 relationships:
 - type: amended_by
+  target: pt:dre:469656:por
+  label: "19960507 - ALTERADO O NUM 3 DA PORT 256/81 DE 10-MAR, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELA PORT 146/96\
+    \ DE 07-MAI DR.IS-B [106]\0S-B [106]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1996-469656
+- type: amended_by
   target: pt:dre:521249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521249:por
+  label: "Revogada a Port 256/81 de 10-Mar, alterada pelo presente diploma, pela PORT.582/2007.04.05.2007.MS, DR.IS [86] de\
+    \ 04.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-2007-521249
+  date: '2007-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:13Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +152,6 @@ Manda o Governo, pelo Ministro da Saúde, que os n.os 3.º, 6.º e 13.º da [Por
 
 Ministério da Saúde.
 
-**Assinada em 26 de Junho de 1991.**
+Assinada em 26 de Junho de 1991.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho.

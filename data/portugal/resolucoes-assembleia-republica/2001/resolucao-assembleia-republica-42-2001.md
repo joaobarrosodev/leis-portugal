@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/42/2001/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/42-2001-361502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1757c759d4c19527a413dcb2ed21687bc9fff9bd2bb651c3b9da968b88e892be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5f280a018182c6c439c16a95bc3b646e0ebbc2c216b725742a448bad4b77a74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho da Europa
 - Convenção
-- Portugal
 - Estrasburgo
 - Grupo Sociocultural
-- Conselho da Europa
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:361511:por
+  label: "Ratificada a convenção pelo DEC.33/2001.2001.06.25.PR,DR.IS-A[145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/33-2001-361511
+  date: '2001-06-25'
 article_structure:
-  article_count: 27
+  article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:26Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Abril de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION-CADRE POUR LA PROTECTION DES MINORITÉS NATIONALES
 
@@ -598,7 +603,9 @@ Decididos a aplicar os princípios enunciados na presente Convenção Quadro por
 
 acordam no seguinte:
 
-## TÍTULO I — Artigo 1.º
+## TÍTULO I
+
+###### Artigo 1.º
 
 A protecção das minorias nacionais e dos direitos e liberdades das pessoas pertencentes a estas minorias faz parte integrante da protecção internacional dos direitos do homem e, como tal, constitui um domínio da cooperação internacional.
 
@@ -612,7 +619,9 @@ As disposições da presente Convenção Quadro são aplicadas de boa fé, num e
 
 2 - As pessoas pertencentes a minorias nacionais podem exercer, individualmente ou em comum com outras, os direitos e as liberdades decorrentes dos princípios enunciados na presente Convenção Quadro.
 
-## TÍTULO II — Artigo 4.º
+## TÍTULO II
+
+###### Artigo 4.º
 
 1 - As Partes comprometem-se a garantir a qualquer pessoa pertencente a uma minoria nacional o direito à igualdade perante a lei e a uma igual protecção da lei. Para o efeito, é proibida toda e qualquer forma de discriminação baseada na pertença a uma minoria nacional.
 
@@ -712,7 +721,9 @@ As Partes abstêm-se de tomar medidas que, modificando as proporções da popula
 
 As Partes comprometem-se a respeitar e aplicar os princípios contidos na presente Convenção Quadro, apenas podendo, se necessário, sujeitá-los às limitações, restrições ou derrogações previstas em instrumentos jurídicos internacionais, nomeadamente na Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais e Seus Protocolos, e na medida em que tais limitações, restrições ou derrogações se mostrem relevantes para os direitos e liberdades decorrentes dos referidos princípios.
 
-## TÍTULO III — Artigo 20.º
+## TÍTULO III
+
+###### Artigo 20.º
 
 No exercício dos direitos e liberdades decorrentes dos princípios enunciados na presente Convenção Quadro, as pessoas pertencentes a minorias nacionais respeitam a legislação nacional e os direitos de outrem, particularmente os das pessoas pertencentes à maioria ou a outras minorias nacionais.
 
@@ -728,7 +739,9 @@ Nenhuma disposição da presente Convenção Quadro será interpretada no sentid
 
 Os direitos e liberdades decorrentes dos princípios enunciados na presente Convenção Quadro que correspondam a direitos e liberdades previstos na Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais e Seus Protocolos devem ser interpretados de harmonia com estes últimos.
 
-## TÍTULO IV — Artigo 24.º
+## TÍTULO IV
+
+###### Artigo 24.º
 
 1 - O Comité de Ministros do Conselho da Europa é incumbido de velar pela aplicação da presente Convenção Quadro pelas Partes Contratantes.
 
@@ -748,7 +761,9 @@ Os direitos e liberdades decorrentes dos princípios enunciados na presente Conv
 
 2 - A composição deste comité consultivo bem como as suas normas de processo são definidas pelo Comité de Ministros no ano subsequente à data de entrada em vigor da presente Convenção Quadro.
 
-## TÍTULO V — Artigo 27.º
+## TÍTULO V
+
+###### Artigo 27.º
 
 A presente Convenção Quadro está aberta à assinatura dos Estados membros do Conselho da Europa. Até à data da sua entrada em vigor, está também aberta à assinatura dos Estados convidados a subscrevê-la pelo Comité de Ministros. A presente Convenção Quadro está sujeita a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação serão depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -780,7 +795,7 @@ Qualquer Estado pode, no momento da assinatura ou do depósito do respectivo ins
 
 ###### Artigo 32.º
 
-**O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, os outros Estados signatários e qualquer Estado que tenha aderido à presente Convenção Quadro:**
+O Secretário-Geral do Conselho da Europa notificará os Estados membros do Conselho da Europa, os outros Estados signatários e qualquer Estado que tenha aderido à presente Convenção Quadro:
 
 a) De qualquer assinatura;
 
@@ -794,7 +809,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para este fim, assina
 
 Feito em Estrasburgo, em 1 de Fevereiro de 1995, em francês e em inglês, fazendo ambos os textos igualmente fé, num único exemplar, que será depositado nos arquivos do Conselho da Europa.
 
-**O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada um dos Estados membros do Conselho da Europa e aos Estados convidados a assinar ou a aderir à presente Convenção Quadro.**
+O Secretário-Geral do Conselho da Europa enviará cópia autenticada a cada um dos Estados membros do Conselho da Europa e aos Estados convidados a assinar ou a aderir à presente Convenção Quadro.
 
 Framework Convention for the Protection of National Minorities (ver nota *)
 

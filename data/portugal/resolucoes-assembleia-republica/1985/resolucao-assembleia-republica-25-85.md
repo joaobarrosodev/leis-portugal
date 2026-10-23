@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-1985-178118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0c780cd8be2230a7ea1feed5cb64f5368ead525b5845cb92d0d051b124461b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696712cdd53375888a5c8528f0ecb32c4574c488cfaae86d0b10191aa6be02f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Base das Lajes
+- Convenção
+- Cooperação Militar
+- EUA
+- Portugal
+relationships:
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, A PARTIR DA ENTRADA EM VIGOR DO ACORDO DE COOPERACAO E DEFESA, APROVADO PARA RATIFICAÇÃO PELA RES 38/95\
+    \ DE 21-JUN DA AR DR.IS-A [235] DE 11/OUT/1995\011/OUT/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:51Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 5 de Julho de 1985.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ## ANEXO
 
@@ -97,7 +109,7 @@ ACORDO TÉCNICO PARA EXECUÇÃO DO ACORDO DE DEFESA ENTRE PORTUGAL E OS ESTADOS 
 
 Preâmbulo
 
-**O Ministro da Defesa Nacional da República Portuguesa e o Secretário da Defesa dos Estados Unidos da América:**
+O Ministro da Defesa Nacional da República Portuguesa e o Secretário da Defesa dos Estados Unidos da América:
 
 Reconhecendo que o Acordo de Defesa de 6 de Setembro de 1951 entre Portugal e os Estados Unidos da América, e suas alterações, prevê a criação de instrumentos de execução.
 
@@ -869,7 +881,7 @@ O Comando das Forças dos Estados Unidos cooperará com o Comando Aéreo dos Aç
 
 Formulário referido no artigo III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf)
 
 ## Anexo J — Serviços de saúde
 
@@ -1701,7 +1713,7 @@ The United States Forces Command will cooperate with the Azores Air Command to p
 
 Form referred to in article III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24300/34503480.pdf)
 
 Annex J
 

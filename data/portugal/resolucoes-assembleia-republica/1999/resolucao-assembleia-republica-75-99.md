@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/275a00/83928392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/75/1999/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-1999-644345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0588724fef40a6301c616209bdc052b2d4b5a7272d1fd7b2ce6dc50666d82adc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f8da71fdf2e4656e8458e960568e694d5f3eaed9b1f20890790cf42b4f40cdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/4/1993/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/4/1993/03/02/p/dre
+- type: cites
+  target: pt:dre:626584:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637190:por
+  label: "Revogada, a partir de 01.09.2007, a Res 4/93 de 02-Mar, com a redacção dada pelo presente diploma, pelo REGI.1/2007.20.08.2007.AR,\
+    \ DR.IS [159] de 20.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regimento-assembleia-republica/1-2007-637190
+  date: '2007-08-20'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:29Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +120,4 @@ O artigo 36.º da [Resolução da Assembleia da República n.º 4/93](https://di
 
 Aprovada em 11 de Novembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

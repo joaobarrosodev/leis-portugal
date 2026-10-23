@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2007-641439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e50737325e5f73707c4a0626a617badea7c7965171d9ac2a4457334373ec966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcc261ecdab8d35ae61dc63016e1036982f1d323b791b499981a615a2ae6d28f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Financiamento
+- Bruxelas
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
+- Financiamento
 - Países e Territórios Ultramarinos
-- Bruxelas
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:641433:por
+  label: "Ratificado o Acordo Interno pelo DEC.109/2007.15.10.2007.PR, DR.IS [198] de 15.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/109-2007-641433
+  date: '2007-10-15'
 - type: cites
   target: celex:32001D0822
   label: null
@@ -92,13 +97,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:50Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +116,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO INTERNO ENTRE OS REPRESENTANTES DOS GOVERNOS DOS ESTADOS MEMBROS, REUNIDOS NO CONSELHO, RELATIVO AO FINANCIAMENTO DA AJUDA CONCEDIDA PELA COMUNIDADE NO ÂMBITO DO QUADRO FINANCEIRO PLURIANUAL PARA O PERÍODO DE 2008-2013, EM CONFORMIDADE COM O ACORDO DE PARCERIA ACP-CE, BEM COMO À CONCESSÃO DE ASSISTÊNCIA FINANCEIRA AOS PAÍSES E TERRITÓRIOS ULTRAMARINOS AOS QUAIS SE APLICA A PARTE IV DO [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
@@ -169,7 +174,7 @@ acordaram no seguinte:
 
 a) Um montante máximo de 22 682 milhões de euros, financiados pelos Estados membros, de acordo com a seguinte repartição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
 
 O montante de 22 682 milhões de euros está disponível a partir da entrada em vigor do quadro financeiro plurianual e é repartido do seguinte modo:
 
@@ -283,7 +288,7 @@ No que se refere aos fundos do 9.º FED e dos FED anteriores que não sejam tran
 
 2 - A votação dos Estados membros no Comité do FED é sujeita à seguinte ponderação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
 
 3 - O Comité do FED delibera por maioria qualificada de 720 votos em 999, expressando o voto favorável de pelo menos 13 Estados membros. A minoria de bloqueio é constituída por 280 votos.
 
@@ -345,7 +350,7 @@ O n.º 3 do artigo 1.º e os artigos incluídos no capítulo ii, com excepção 
 
 O presente Acordo, redigido em exemplar único nas línguas alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa e sueca, todos os textos fazendo igualmente fé, é depositado nos arquivos do Secretariado-Geral do Conselho da União Europeia, que envia uma cópia autenticada ao Governo de cada um dos Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
 
 ------
 
@@ -359,4 +364,4 @@ O presente Acordo, redigido em exemplar único nas línguas alemã, checa, dinam
 
 (5) JO, n.º C 46, de 24 de Fevereiro de 2006, a p. 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0740607414.pdf)

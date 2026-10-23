@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 154/1991, 2º Suplemento, Série I-B de 1991-07-08
   number: '154'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3494-(84) a 3494-(84)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b02/00840084.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/615-g4/1991/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-g4-1991-205835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6a7fb6ff07df4b15b7e3b012058136d1ade36bd2bf71ccf5d1477391326a361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af288264b183f132d085c59804281ac8cdf9df69fb7aa514815d66883b47abc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,52 @@ relationships:
   target: pt:dre:494523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155259:por
+  label: "Renovada, por 12 anos, a concessão dada pelo presente diploma, pela Port 471/97.1997.07.11.MADRP, DR.IS-B [158]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-1997-155259
+  date: '1997-07-11'
+- type: amended_by
+  target: pt:dre:494523:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa atribuída pelo presente diploma, renovada\
+    \ pela Port 471/97, de 11-Jul, pela PORT.642/2009.09.06.2009.MADRP, DR.IS [111] de 09.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-2009-494523
+  date: '2009-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:52Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +152,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Julho de 1991.**
+Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/154b02/00840084.pdf))](https://files.diariodarepublica.pt/1s/1991/07/154b02/00840084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/00840084.pdf)

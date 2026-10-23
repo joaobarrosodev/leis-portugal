@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/1994/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-1994-592335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22a10a3d7ecaa432639c70ba10cec6cd7cfb62ab2d36e9e9f980f258bedf7038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06b53d7175a17897b03d94dbd4b7134101b7afdb1a7a2b624b2963fca72a1a60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,13 +74,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 41
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:53Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Maio de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 TREATY ON OPEN SKIES
 
@@ -1797,7 +1797,7 @@ Section II
 
 Points of entry, points of exit, open skies airfields, entry fixes, exit fixes, refuelling airfields, and calibration targets.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf))](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
 
 ANNEX F
 
@@ -2189,7 +2189,7 @@ Additional fields for the use of the open skies regime
 
 2 - The Open Skies Consultative Commission may take decisions on such proposals or, if necessary, may refer them to the first and subsequent conferences called to review the implementation of the Treaty, in accordance with the provisions of article XVI, paragraph 3, of the Treaty.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf))](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
 
 TRATADO SOBRE O REGIME CÉU ABERTO
 
@@ -2213,17 +2213,13 @@ Notando que a aplicação de um tal regime céu aberto não trará prejuízo aos
 
 aprovaram o seguinte:
 
-ARTIGO I
-
-Disposições gerais
+###### ARTIGO I — Disposições gerais
 
 1 - O presente Tratado estabelece o regime designado por regime céu aberto, aplicável à realização de voos de observação pelos Estados Partes sobre os territórios de outros Estados Partes, e estabelece os direitos e obrigações que daí resultam para os Estados Partes.
 
 2 - Cada um dos anexos e respectivos apêndices constituem uma parte integrante deste Tratado.
 
-ARTIGO II
-
-Definições
+###### ARTIGO II — Definições
 
 Para efeitos deste Tratado:
 
@@ -2297,9 +2293,7 @@ Para efeitos deste Tratado:
 
 35) O termo «zona de perigo» significa um sector do espaço aéreo de dimensões definidas no qual se podem desenvolver em momentos precisos actividades que ponham em perigo o voo de aviões.
 
-ARTIGO III
-
-Quotas
+###### ARTIGO III — Quotas
 
 #### Secção I — Disposições gerais
 
@@ -2367,9 +2361,7 @@ D) Um grupo de Estados Partes poderá admitir outros Estados Partes que detenham
 
 7 - Após a entrada em vigor do presente Tratado, as alterações das atribuições ou distribuições de quotas resultantes do estabelecimento de um grupo de Estados Partes ou da admissão de Estados Partes num grupo de Estados Partes ou da retirada de Estados Partes de um tal grupo de acordo com o parágrafo 3 da presente secção entrará em vigor no dia 1 de Janeiro seguinte à primeira revisão anual no seio da Comissão Consultiva para o Regime Céu Aberto, que ocorre após o período de seis meses a contar da notificação. Quando for necessário, serão designados novos aeródromos céu aberto e serão estabelecidas as distâncias máximas de voo consequentes.
 
-ARTIGO IV
-
-Sensores
+###### ARTIGO IV — Sensores
 
 1 - Excepto quando previsto de outro modo no parágrafo 3 do presente artigo, o avião de observação estará equipado exclusivamente com sensores pertencentes a alguma das seguintes categorias:
 
@@ -2419,9 +2411,7 @@ B) A pedido de um Estado Parte interessado, demonstrará, procedendo a um voo de
 
 14 - No caso em que, depois de tomadas as referidas medidas mencionadas no parágrafo 13 do presente artigo, os Estados Partes continuem a não ter a certeza se um sensor instalado a bordo de um avião de observação ou o equipamento que lhe está associado corresponde aos certificados de acordo com as disposições do anexo D, o assunto poderá ser remetido à Comissão Consultiva para o Regime Céu Aberto.
 
-ARTIGO V
-
-Designação do avião
+###### ARTIGO V — Designação do avião
 
 1 - Cada Estado parte terá o direito de designar como avião(ões) de observação um ou vários tipos ou modelos de avião registados pelas autoridades competentes de um Estado Parte.
 
@@ -2433,7 +2423,7 @@ Designação do avião
 
 5 - Cada avião de observação deverá ter a capacidade para transportar o equipamento e a tripulação especificada na secção III do artigo VI.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Selecção dos aviões de observação, disposições gerais para a realização dos voos de observação e requisitos para o planeamento das missões.
 
@@ -2563,9 +2553,7 @@ C) Proporá outros parâmetros no que diz respeito à altitude, à rota ou ao ho
 
 5 - No caso em que a Parte observadora fornece um avião de observação designado por um Estado Parte que não seja nem a Parte observada nem a Parte observadora, a Parte observadora terá o direito de ter a bordo do avião de observação dois representantes e um intérprete, para além de um representante para cada posto de controlo dos sensores a bordo do avião, a menos que acordado de outro modo. Nesse caso, aplicar-se-ão também as disposições relativas aos monitores de voo estabelecidas no parágrafo 1 da presente secção. Os representantes e os intérpretes terão os direitos e obrigações indicados no anexo G deste Tratado.
 
-ARTIGO VII
-
-Voos de trânsito
+###### ARTIGO VII — Voos de trânsito
 
 1 - Os voos de trânsito efectuados por uma Parte observadora em direcção e provenientes do território de uma Parte observada para efeitos deste Tratado partirão do território da Parte observadora ou de outro Estado Parte.
 
@@ -2573,9 +2561,7 @@ Voos de trânsito
 
 3 - Proíbe-se a utilização dos sensores a bordo de um avião de observação durante os voos de trânsito. No caso em que, durante o voo de trânsito, o avião de observação aterre no território de um Estado Parte, esse Estado Parte inspeccionará, após a aterragem e antes da descolagem, as coberturas dos sensores ou outros dispositivos que inibam o funcionamento dos sensores para confirmar se estão correctamente posicionados.
 
-ARTIGO VIII
-
-Proibições, desvios em relação aos planos de voo e situações de emergência
+###### ARTIGO VIII — Proibições, desvios em relação aos planos de voo e situações de emergência
 
 #### Secção I — Proibição dos voos de observação e alterações dos planos de missão
 
@@ -2653,9 +2639,7 @@ Nesses casos, a Parte observadora terá o direito de decidir se o voo conta ou n
 
 5 - No caso em que o avião de observação não está registado junto da Parte observada, os destroços do avião de observação e dos sensores eventualmente encontrados e recuperados serão devolvidos, a seu pedido, no final da investigação à Parte observadora ou à Parte à qual pertence o avião.
 
-ARTIGO IX
-
-Dados recolhidos pelos sensores durante os voos de observação
+###### ARTIGO IX — Dados recolhidos pelos sensores durante os voos de observação
 
 #### Secção I — Disposições gerais
 
@@ -2749,9 +2733,7 @@ E) A porção ou as porções do período de observação durante as quais se re
 
 F) O tipo e o formato do meio de gravação utilizado para a reprodução do negativo, do original ou de uma banda magnética.
 
-ARTIGO X
-
-Comissão Consultiva para o Regime Céu Aberto
+###### ARTIGO X — Comissão Consultiva para o Regime Céu Aberto
 
 1 - No sentido de promover os objectivos e facilitar a aplicação das disposições do presente Tratado, os Estados Partes estabelecem por este meio uma Comissão Consultiva para o Regime Céu Aberto.
 
@@ -2775,21 +2757,15 @@ D) Acordarão nas medidas de ordem técnica e administrativa, de acordo com as d
 
 7 - As disposições relativas à actividade da Comissão Consultiva para o Regime Céu Aberto estão estabelecidas no anexo L do presente Tratado.
 
-ARTIGO XI
-
-Notificações e relatórios
+###### ARTIGO XI — Notificações e relatórios
 
 Os Estados Partes transmitirão por escrito as notificações e relatórios exigidos nos termos do presente Tratado. Os Estados Partes transmitirão essas notificações e relatórios por canais diplomáticos ou, à sua escolha, por outros canais oficiais, tais como a rede de comunicação da Conferência sobre Segurança e Cooperação na Europa.
 
-ARTIGO XII
-
-Responsabilidade
+###### ARTIGO XII — Responsabilidade
 
 Todo o Estado Parte, de acordo com o direito e a prática internacionais, será responsável pelo pagamento de uma indemnização relativa a danos que possa ter causado a outros Estados Partes ou às suas pessoas físicas ou jurídicas ou aos seus bens durante a aplicação do presente Tratado.
 
-ARTIGO XIII
-
-Designação do pessoal, privilégios e imunidades
+###### ARTIGO XIII — Designação do pessoal, privilégios e imunidades
 
 #### Secção I — Designação do pessoal
 
@@ -2817,17 +2793,13 @@ C) Em qualquer outro momento, por mútuo acordo entre os Estados Partes interess
 
 5 - Os meios de transporte do pessoal beneficiarão da mesma imunidade no que diz respeito a buscas, a requisições, a embargos e a medidas executórias como as que são concedidas a uma missão diplomática ao abrigo das disposições do parágrafo 3 do artigo 22 da Convenção de Viena, excepto quanto previsto de outro modo no Tratado.
 
-ARTIGO XIV
-
-O Benelux
+###### ARTIGO XIV — O Benelux
 
 1 - Exclusivamente para efeitos dos artigos II a IX e do artigo XI, assim como dos anexos A a I e do anexo K do presente Tratado, o Reino da Bélgica, o Grão-Ducado do Luxemburgo e o Reino dos Países Baixos serão considerados como um único Estado Parte, aqui designado «o Benelux».
 
 2 - Sem prejuízo das disposições do artigo XIV, os Estados Partes acima mencionados poderão pôr fim a este acordo notificando-o a todos os outros Estados Partes. O acordo deixará de estar em vigor no dia 31 de Dezembro seguinte ao período de 60 dias a contar de uma tal notificação.
 
-ARTIGO XV
-
-Duração e retirada
+###### ARTIGO XV — Duração e retirada
 
 1 - O presente Tratado terá duração ilimitada.
 
@@ -2835,9 +2807,7 @@ Duração e retirada
 
 3 - Assim que um Estado Parte notifique a sua decisão de se retirar do presente Tratado de acordo com o parágrafo 2 do presente artigo, os depositários convocarão uma conferência dos Estados Partes num prazo não inferior a 30 dias e não superior a 60 dias após terem recebido uma tal notificação, a fim de examinarem os efeitos dessa retirada no presente Tratado.
 
-ARTIGO XVI
-
-Emendas e revisão periódica
+###### ARTIGO XVI — Emendas e revisão periódica
 
 1 - Cada Estado Parte terá o direito de propor emendas ao presente Tratado. O texto de cada emenda proposta será submetido a um dos depositários, que o fará circular a todos os Estados Partes para consideração. Se um pedido é formulado nesse sentido por, pelo menos, três Estados Partes num prazo de 90 dias após a data de comunicação da emenda proposta, os depositários convocarão uma conferência dos Estados Partes com vista a examinar a emenda proposta. Uma tal conferência terá início num prazo não inferior a 30 dias e não superior a 60 dias após a recepção do terceiro desses pedidos.
 
@@ -2845,9 +2815,7 @@ Emendas e revisão periódica
 
 3 - A menos que, no mínimo, três Estados Partes solicitem uma data antecipada, os depositários convocarão uma conferência dos Estados Partes com vista a rever a aplicação do presente Tratado e, daí em diante, com intervalos de cinco anos.
 
-ARTIGO XVII
-
-Depositários, entrada em vigor e adesão
+###### ARTIGO XVII — Depositários, entrada em vigor e adesão
 
 1 - O presente Tratado será submetido a ratificação por cada Estado Parte de acordo com os seus procedimentos constitucionais. Os instrumentos de ratificação e os instrumentos de adesão serão depositados em poder do Governo do Canadá ou do Governo da República da Hungria, ou de ambos, designados como depositários pelo presente artigo. O Tratado será registado pelos depositários de acordo com as disposições do artigo 102 da Carta das Nações Unidas.
 
@@ -2879,9 +2847,7 @@ F) Da data de entrada em vigor de qualquer emenda do presente Tratado; e
 
 G) De qualquer outro assunto de que os depositários deverão, ao abrigo do presente Tratado, informar os Estados Partes.
 
-ARTIGO XVIII
-
-Aplicação provisória e entrada em vigor por etapas do presente Tratado
+###### ARTIGO XVIII — Aplicação provisória e entrada em vigor por etapas do presente Tratado
 
 No sentido de facilitar a aplicação do presente Tratado, algumas das suas disposições serão aplicadas a título provisório e outras por etapas.
 
@@ -2923,9 +2889,7 @@ B) Pelo menos um par de câmaras ópticas panorâmicas e de captação imagem a 
 
 7 - A efectuação de etapas adicionais no que diz respeito à introdução de outras categorias de sensores ou melhoramentos das capacidades dos sensores pertencentes às categorias existentes deverá ser examinada pela Comissão Consultiva para o Regime Céu Aberto de acordo com as disposições do parágrafo 3 do artigo IV relativo a essa introdução ou a esse melhoramento.
 
-ARTIGO XIX
-
-Textos fazendo fé
+###### ARTIGO XIX — Textos fazendo fé
 
 Os originais deste Tratado, cujos textos em alemão, inglês, espanhol, francês, italiano e russo fazem igualmente fé, serão depositados nos arquivos dos depositários. As cópias deste Tratado, devidamente autenticadas, serão transmitidas pelo depositário a todos os Estados Partes.
 
@@ -3389,7 +3353,7 @@ d) Ângulo de pranchamento.
 
 4 - Os Estados Partes terão o direito de anotar os dados recolhidos durante um voo de observação utilizando ou caracteres alfanuméricos ou códigos que serão aprovados pela Comissão Consultiva para o Regime Céu Aberto durante o período de aplicação provisória.
 
-## APÊNDICE 1 DO ANEXO B
+APÊNDICE 1 DO ANEXO B
 
 Anotação dos dados recolhidos durante um voo de observação
 
@@ -3725,7 +3689,7 @@ F) Que as coberturas dos sensores ou outros dispositivos que inibam o funcioname
 
 5 - No caso em que o Estado Parte que realiza a certificação e os Estados Partes que nela participam não consigam chegar a um acordo sobre o conteúdo do relatório de certificação, o avião de observação não deverá ser utilizado para efectuar voos de observação a título do Tratado até que a questão esteja resolvida.
 
-## APÊNDICE 1 DO ANEXO D
+APÊNDICE 1 DO ANEXO D
 
 Métodos de verificação das performances dos sensores instalados num avião de observação
 
@@ -3809,7 +3773,7 @@ C) No caso de o ponto de entrada não ser o mesmo que o ponto de saída, viajar 
 
 10 - No caso em que o avião de observação é fornecido pela Parte observada, e a Parte observadora não utilize o seu próprio avião de transporte para transportar os membros do seu pessoal do ponto de entrada ao aeródromo céu aberto, a Parte observada assegurará que os membros do pessoal da Parte observadora sejam transportados do ponto de entrada ao aeródromo céu aberto e do aeródromo céu aberto ao ponto de saída.
 
-## APÊNDICE 1 DO ANEXO E
+APÊNDICE 1 DO ANEXO E
 
 #### Secção I — Designação dos locais
 
@@ -3825,7 +3789,7 @@ C) Inspecção: possibilidade ou não de efectuar previamente ao voo a inspecç�
 
 Pontos de entrada, pontos de saída, aeródromos céu aberto, pontos de referência de saída, pontos de referência de entrada, aeródromos de reabastecimento e alvos de calibração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf))](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/212a00/53905471.pdf)
 
 ## ANEXO F — Inspecções prévias ao voo e voos de demonstração
 

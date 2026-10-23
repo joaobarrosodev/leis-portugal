@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/452/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/452-1992-516884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b57084d7a2332d9b5da350b63621751f3bc94b07fa92590041f05d9e3a51e881
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3b3b281787814e6d36d8bec97c2311d802756b5b825a3ce5dc29940dc81e8b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Serviços de Registo e Notariado
-- Leiria
 - Castelo Branco
+- Conservatória do Registo Civil
+- Évora
+- Leiria
 - Quadro de Pessoal
 - Santarém
-- Évora
-- Conservatória do Registo Civil
+- Serviços de Registo e Notariado
 - Viana do Castelo
 - Viseu
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:32Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +107,6 @@ b) Com um lugar de segundo-ajudante e dois de escriturário os quadros de oficia
 
 Ministério da Justiça.
 
-**Assinada em 11 de Maio de 1992.**
+Assinada em 11 de Maio de 1992.
 
 Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça.

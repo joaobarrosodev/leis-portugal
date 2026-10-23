@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 139/1991, 1º Suplemento, Série I-B de 1991-06-20
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3190-(2) a 3190-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/139b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536-a/1991/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-a-1991-534798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3302deab5a495e241b91ad10aa9f492e6543aecf8393ff9568e6dc5f722939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a796c49ba0fdd702b75b0f3a2065124c9003725b2c31e369d3388cb2ddb31047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:663345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666166:por
+  label: ALTERADA PELA PORT 1124/93 DE 03-NOV DR.IS-B [257]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1124-1993-666166
+  date: '1993-11-03'
+- type: amended_by
+  target: pt:dre:663345:por
+  label: "ALTERADA PELA PORT 1231/95 DE 11-OUT DR.IS-B [235]\0DR.IS-B [235]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1231-1995-663345
+  date: '1995-10-11'
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:00Z'
   warnings: []
   errors: []
 ---
@@ -863,6 +877,6 @@ Valongo.
 
 Ministério da Justiça.
 
-**Assinada em 18 de Junho de 1991.**
+Assinada em 18 de Junho de 1991.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.

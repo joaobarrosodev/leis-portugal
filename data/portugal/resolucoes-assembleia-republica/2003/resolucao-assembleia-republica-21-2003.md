@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/21/2003/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-2003-214527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a0b473d18780ede4780f64abf497f715d53771c1c1c262aa73035f7928765ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02a20f98993e034867ba24560f045d8cd7d01ef4ffc35f2b942054dbd5b9bab4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
 subjects:
 - Cidade da Praia
 - Convenção
-- Cooperação Legislativa
-- Cooperação Técnica
-- Fórum dos Parlamentos dos Países de Língua Portuguesa
-- Portugal
-- Estatuto
-- CPLP
 - Cooperação Científica
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Internacional
+- Cooperação Legislativa
 - Cooperação Política
+- Cooperação Técnica
+- CPLP
+- Estatuto
+- Fórum dos Parlamentos dos Países de Língua Portuguesa
+- Portugal
 relationships: []
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:04Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Con
 
 Aprovada em 27 de Fevereiro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ESTATUTO DO FÓRUM DOS PARLAMENTOS DOS PAÍSES DE LÍNGUA PORTUGUESA
 
@@ -303,7 +303,7 @@ Os secretários-gerais dos parlamentos nacionais cooperam em todas as actividade
 
 ###### Artigo 22.º — Secretário-geral
 
-**O Secretário-geral do Parlamento que no momento detiver a presidência do Fórum dirige e coordena as actividades do secretariado do Fórum.**
+O Secretário-geral do Parlamento que no momento detiver a presidência do Fórum dirige e coordena as actividades do secretariado do Fórum.
 
 ###### Artigo 23.º — Competência do secretariado
 
@@ -347,15 +347,15 @@ O Deputado do Congresso Nacional do Brasil:
 
 Reginaldo da Silva Germano.
 
-**O Presidente da Assembleia Nacional de Cabo Verde:**
+O Presidente da Assembleia Nacional de Cabo Verde:
 
 Aristides Raimundo Lima.
 
-**O Presidente da Assembleia da República de Moçambique:**
+O Presidente da Assembleia da República de Moçambique:
 
 Eduardo Joaquim Molembwe.
 
-**O Presidente da Assembleia da República de Portugal:**
+O Presidente da Assembleia da República de Portugal:
 
 João Bosco Mota Amaral.
 
@@ -363,6 +363,6 @@ O Vice-Presidente da Assembleia Nacional de São Tomé e Príncipe:
 
 Jaime José da Costa.
 
-**O Presidente do Parlamento Nacional de Timor Leste:**
+O Presidente do Parlamento Nacional de Timor Leste:
 
 Francisco Guterres.

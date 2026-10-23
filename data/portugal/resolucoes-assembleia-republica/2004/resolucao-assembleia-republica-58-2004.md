@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/184a00/51175120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/58/2004/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/58-2004-515265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69761bf154af628844b15ae10bf3498b6dc78dce99abb47d71e8e47c97dae0ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 426b8d8e0e4d7fba0ebe6f383c2a0613f390f0f86948268ce06c537d325034ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Parlamentar Euro-mediterrânica
-- Financiamento
-- Definição de Competências
-- União Europeia
-- Grupo de Trabalho
 - Assembleia da República
+- Assembleia Parlamentar Euro-mediterrânica
+- Definição de Competências
+- Financiamento
+- Grupo de Trabalho
 - Parlamento Europeu
 - Regimento
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:72909747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483918:por
+  label: "Dada nova redação aos arts. 1º e 2º pela RES.154/2013.23.12.2013.AR, DR.IS [248] de 23.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/154-2013-483918
+  date: '2013-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/5/2003/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/5/2003/01/22/p/dre
+- type: cites
+  target: pt:dre:172945:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:72909747:por
+  label: Revogada, na redação da Res 154/2013 de 23-dez, da AR, pelo(a) Resolução da Assembleia da República n.º 142/2015
+    - Diário da República n.º 246/2015, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/142-2015-72909747
+  date: '2015-12-17'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:58Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +151,7 @@ A delegação terá apoio administrativo da Secretaria-Geral da Assembleia da Re
 
 Aprovada em 8 de Julho de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 REGIMENTO DA ASSEMBLEIA PARLAMENTAR EURO-MEDITERRÂNICA
 

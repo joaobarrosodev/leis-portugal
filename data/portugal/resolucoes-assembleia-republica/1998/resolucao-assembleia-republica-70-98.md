@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/70/1998/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/70-1998-187518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d82f209fbd3ffed6173b058d93ca08af5d4a4f6ac594812c6973bbb0d4f774c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ba1e61be13e91e7dbe8410330a63d915d83eb7d18f6262906aeec750a68eeb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Armas e Munições
-- Proteção Civil
-- Convenção
-- Portugal
 - Armamento
-- ONU
+- Armas e Munições
+- Convenção
 - Doença
+- ONU
+- Portugal
+- Proteção Civil
 - Vítima de Guerra
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:187513:por
+  label: "Ratificado o Protocolo II aprovado para ratificação pelo presente diploma e anexo à Convenção Sobre Proibição ou\
+    \ Limitação do Uso de Certas Armas Convencionais pelo DEC.62/98.1998.12.29.PR DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/62-1998-187513
+  date: '1998-12-29'
 article_structure:
-  article_count: 16
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:54Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 23 de Outubro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOL ON PROHIBITIONS OR RESTRICTIONS ON THE USE OF MINES, BOOBY-TRAPS AND OTHER DEVICES AS AMENDED ON 3 MAY 1996 (PROTOCOL II AS AMENDED ON 3 MAY 1996) ANNEXED TO THE CONVENTION ON PROHIBITIONS OR RESTRICTIONS ON THE USE OF CERTAIN CONVENTIONAL WEAPONS WHICH MAY BE DEEMED TO BE EXCESSIVELY INJURIOUS OR TO HAVE INDISCRIMINATE EFFECTS.
 
@@ -532,7 +538,7 @@ e) Spacing: signs should be placed around the minefield or mined area at a dista
 
 ATTACHMENT
 
-[(ver sinal no documento original)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)
+[[(ver sinal no documento original)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)
 
 ARTICLE 2
 
@@ -970,7 +976,7 @@ e) Espacement: les signaux devraient être placés autour du champ de mines ou d
 
 Appendice
 
-[(ver sinal no documento original)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)
+[[(ver sinal no documento original)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)](https://files.diariodarepublica.pt/1s/1998/12/299a00/71977230.pdf)
 
 Article 2
 
@@ -988,7 +994,9 @@ O Protocolo sobre a Proibição ou Limitação da Utilização de Minas, Armadil
 
 «Protocolo sobre a Proibição ou Limitação da Utilização de Minas, Armadilhas e Outros Dispositivos, conforme foi modificado em 3 de Maio de 1996 (Protocolo II, conforme foi modificado em 3 de Maio de 1996).
 
-###### Artigo 1.º — Campo de aplicação
+Artigo 1.º
+
+Campo de aplicação
 
 1 - O presente Protocolo refere-se à utilização em terra de minas, armadilhas e outros dispositivos adiante definidos, incluindo as minas colocadas para interditar o acesso a praias, a travessia de vias navegáveis ou de cursos de água, mas não se aplica às minas antinavio utilizadas no mar ou nas vias de navegação interiores.
 
@@ -1002,7 +1010,9 @@ O Protocolo sobre a Proibição ou Limitação da Utilização de Minas, Armadil
 
 6 - A aplicação das disposições do presente Protocolo às partes num conflito em que não sejam Altas Partes Contratantes mas que tenham aceite o presente Protocolo não modificará, explicita ou implicitamente, o seu estatuto jurídico nem a condição jurídica de um território disputado.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente Protocolo:
 
@@ -1036,7 +1046,9 @@ Para efeitos do presente Protocolo:
 
 15) Por 'transferência' entende-se, para além da deslocação física de minas para o interior ou exterior do território nacional, a transferência do direito de propriedade e de controlo dessas minas, mas não envolve a transferência de um território no qual tenham sido colocadas minas.
 
-###### Artigo 3.º — Restrições gerais à utilização de minas, armadilhas e outros dispositivos
+Artigo 3.º
+
+Restrições gerais à utilização de minas, armadilhas e outros dispositivos
 
 1 - O presente artigo aplica-se a:
 
@@ -1080,11 +1092,15 @@ d) As exigências militares de um campo de minas a curto e a longo prazos.
 
 11 - Deverá ser feito um pré-aviso efectivo de qualquer colocação de minas, de armadilhas e de outros dispositivos num determinado local que possam afectar a população civil, salvo se as circunstâncias o não permitirem.
 
-###### Artigo 4.º — Restrições à utilização de minas antipessoais
+Artigo 4.º
+
+Restrições à utilização de minas antipessoais
 
 É proibido utilizar minas antipessoais que não sejam detectáveis, conforme o especificado no parágrafo 2 do anexo técnico.
 
-###### Artigo 5.º — Restrições à utilização de minas antipessoais para além das minas colocadas à distância
+Artigo 5.º
+
+Restrições à utilização de minas antipessoais para além das minas colocadas à distância
 
 1 - O presente artigo aplica-se a outras minas antipessoais para além das minas colocadas à distância.
 
@@ -1106,7 +1122,9 @@ a) Estas estiverem localizadas nas proximidades da unidade militar que as tenha 
 
 b) A zona estiver vigiada por pessoal militar que interdite a entrada a civis.
 
-###### Artigo 6.º — Restrições à utilização de minas colocadas à distância
+Artigo 6.º
+
+Restrições à utilização de minas colocadas à distância
 
 1 - É proibido utilizar minas colocadas à distância, salvo se estas estiverem registadas em conformidade com as disposições da alínea b) do parágrafo 1 do anexo técnico.
 
@@ -1116,7 +1134,9 @@ b) A zona estiver vigiada por pessoal militar que interdite a entrada a civis.
 
 4 - Deverá ser feito um pré-aviso efectivo de qualquer lançamento ou colocação de minas à distância que possa afectar a população civil, salvo se as circunstâncias o não permitirem.
 
-###### Artigo 7.º — Proibições à utilização de armadilhas e de outros dispositivos
+Artigo 7.º
+
+Proibições à utilização de armadilhas e de outros dispositivos
 
 1 - Sem prejuízo das regras do direito internacional aplicáveis aos conflitos armados relativos à traição e à perfídia, é proibido em todas as circunstâncias utilizar armadilhas e outros dispositivos que estejam de algum modo associados ou relacionados com:
 
@@ -1148,7 +1168,9 @@ a) Essas armas estejam colocadas num objectivo militar ou na sua proximidade; ou
 
 b) Que sejam tomadas medidas para proteger a população civil contra os seus efeitos, por exemplo através da afixação e difusão de avisos, da colocação de sentinelas ou da instalação de cercas.
 
-###### Artigo 8.º — Transferências
+Artigo 8.º
+
+Transferências
 
 1 - A fim de promover os objectivos do presente Protocolo, cada Alta Parte Contratante:
 
@@ -1164,7 +1186,9 @@ d) Compromete-se a garantir que, ao realizar qualquer transferência em conformi
 
 3 - Até à entrada em vigor do presente Protocolo, todas as Altas Partes Contratantes abster-se-ão de todo o tipo de acções que sejam incompatíveis com a alínea a) do parágrafo 1 do presente artigo.
 
-###### Artigo 9.º — Registo e utilização de informação relativa aos campos de minas, zonas minadas, minas, armadilhas e outros dispositivos
+Artigo 9.º
+
+Registo e utilização de informação relativa aos campos de minas, zonas minadas, minas, armadilhas e outros dispositivos
 
 1 - Toda a informação relativa aos campos de minas, zonas minadas, minas, armadilhas e outros dispositivos deve ser registada em conformidade com as disposições do anexo técnico.
 
@@ -1174,7 +1198,9 @@ Ao mesmo tempo, facilitarão também à outra parte ou às outras partes no conf
 
 3 - O presente artigo aplica-se sem prejuízo das disposições dos artigos 10.º e 12.º do presente Protocolo.
 
-###### Artigo 10.º — Remoção de campos de minas, zonas minadas, minas, armadilhas e outros dispositivos e cooperação internacional
+Artigo 10.º
+
+Remoção de campos de minas, zonas minadas, minas, armadilhas e outros dispositivos e cooperação internacional
 
 1 - Após o fim das hostilidades activas, todos os campos de minas, zonas minadas, minas, armadilhas e outros dispositivos devem ser retirados, destruídos ou conservados de acordo com o artigo 3.º e com o parágrafo 2 do artigo 5.º do presente Protocolo.
 
@@ -1184,7 +1210,9 @@ Ao mesmo tempo, facilitarão também à outra parte ou às outras partes no conf
 
 4 - Sempre que necessário, as partes esforçar-se-ão por chegar a um acordo entre si, e, quando oportuno, com outros Estados e organizações internacionais, sobre a concessão de uma assistência técnica e material, incluindo, se as circunstâncias o permitirem, a organização de operações conjuntas para cumprir essa responsabilidade.
 
-###### Artigo 11.º — Cooperação e assistência técnica
+Artigo 11.º
+
+Cooperação e assistência técnica
 
 1 - Cada Alta Parte Contratante compromete-se a facilitar o intercâmbio, mais completo possível, de equipamento, material e informação científica e técnica relacionados com a aplicação do presente Protocolo e os meios para a desminagem, e terá o direito de participar nesse intercâmbio. Em particular, as Altas Partes Contratantes não imporão restrições indevidas ao fornecimento, para fins militares, de equipamento para a desminagem e de informação técnica correspondente.
 
@@ -1200,7 +1228,9 @@ Ao mesmo tempo, facilitarão também à outra parte ou às outras partes no conf
 
 7 - Cada Alta Parte Contratante tem o direito de pedir e receber assistência técnica, quando adequado, de outra Alta Parte Contratante no que diz respeito a tecnologia específica pertinente, que não seja tecnologia de armamento, com vista a reduzir qualquer período de deferimento previsto nas disposições do anexo técnico.
 
-###### Artigo 12.º — Protecção contra os efeitos dos campos de minas, zonas minadas, minas, armadilhas e outros dispositivos
+Artigo 12.º
+
+Protecção contra os efeitos dos campos de minas, zonas minadas, minas, armadilhas e outros dispositivos
 
 1 - Aplicação:
 
@@ -1274,7 +1304,9 @@ a) Respeitar as leis e regulamentos do Estado anfitrião; e
 
 b) Abster-se de qualquer medida ou actividade que seja incompatível com o carácter imparcial e internacional das suas funções.
 
-###### Artigo 13.º — Consultas entre as Altas Partes Contratantes
+Artigo 13.º
+
+Consultas entre as Altas Partes Contratantes
 
 1 - As Altas Partes Contratantes comprometem-se a efectuar consultas e a cooperar entre si com respeito a todas as questões relacionadas com a aplicação deste Protocolo. Com esse fim serão realizadas anualmente conferências das Altas Partes Contratantes.
 
@@ -1306,7 +1338,9 @@ f) Outros assuntos pertinentes.
 
 5 - As despesas da conferência das Altas Partes Contratantes serão assumidas pelas Altas Partes Contratantes e pelos Estados não partes que participem nos trabalhos da conferência, em conformidade com a escala de quotas das Nações Unidas convenientemente ajustada.
 
-###### Artigo 14.º — Cumprimento
+Artigo 14.º
+
+Cumprimento
 
 1 - Cada Alta Parte Contratante adoptará todas as medidas pertinentes, incluindo medidas legislativas e de outra índole, para evitar e impedir as violações do presente Protocolo cometidas por indivíduos ou em territórios sujeitos à sua jurisdição ou controlo.
 
@@ -1316,7 +1350,7 @@ f) Outros assuntos pertinentes.
 
 4 - As Altas Partes Contratantes comprometem-se a efectuar consultas e cooperar entre si, bilateralmente, por intermédio do Secretário-Geral das Nações Unidas ou através de outro procedimento internacional pertinente, para resolver qualquer problema que possa surgir com relação à interpretação e aplicação das disposições do presente Protocolo.
 
-## ANEXO TÉCNICO
+ANEXO TÉCNICO
 
 1 - Registo
 

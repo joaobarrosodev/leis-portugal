@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/1991/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-1991-508859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c95a59b68bec572ab30fbc818c3346c4d5ffbb87b0fef80cc8d2f6dd1c019a87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86b3826baeba8ba8a4854f6d5fc2ce2ed85db6fc5530e06819d0c945585a5d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Coimbra
 - Curso de Estudos Superiores Especializados em Engenharia Civil Municipal
 - Diploma
 - Ensino Superior Politécnico
 - Instituto Politécnico
 - Instituto Superior de Engenharia
-- Coimbra
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:566663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651688:por
+  label: ALTERADOS OS NUM 19 E 20 E O PLANO DE ESTUDOS PELA PORT 954/93 DE 29-SET DR.IS-B [229]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-1993-651688
+  date: '1993-09-29'
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:50Z'
   warnings: []
   errors: []
 ---
@@ -434,8 +455,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministério da Educação.
 
-**Assinada em 31 de Dezembro de 1990.**
+Assinada em 31 de Dezembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/026b00/05070511.pdf))](https://files.diariodarepublica.pt/1s/1991/01/026b00/05070511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/026b00/05070511.pdf)

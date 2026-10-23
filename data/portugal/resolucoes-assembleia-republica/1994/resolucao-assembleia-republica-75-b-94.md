@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 298/1994, 5º Suplemento, Série I-A de 1994-12-27
   number: '298'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 7380-(756) a 7380-(1227)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/75-b/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-b-1994-233971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dff9bc61c0f3ff25e29202970c3031a07d5fcfcbd41bb303798bea13eaeed28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e45bf7840a2eb2375b33e863b13036b08599224d6109d9ca7fde7077d60f818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Comércio Internacional
 - Convenção
-- Portugal
 - GATT
 - Marraquexe
-- ACTO Constitutivo
 - Organização Mundial do Comércio
 - Pauta Aduaneira
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:256467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532655:por
+  label: "Alterada a Lista de Compromissos Específicos anexa ao Acordo Geral sobre o Comércio de Serviços pelo DEC.4/97.1997.01.15.MNE\
+    \ DR.IS-A [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-1997-532655
+  date: '1997-01-15'
+- type: amended_by
+  target: pt:dre:219146:por
+  label: "Alterada a Lista de Compromissos Específicos anexa ao Acordo Geral Sobre o Comércio de Serviços aprovado para ratificação\
+    \ pelo presente diploma, pelo DEC.8/98.1998.03.07.MNE, DR.IS-A [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/8-1998-219146
+  date: '1998-03-07'
+- type: amended_by
+  target: pt:dre:256467:por
+  label: "Aprovadas, para ratificação, as alterações à lista de compromissos específicos das Comunidades Europeias e seus\
+    \ Estados membros em matéria de serviços, anexa ao Acordo Geral sobre o Comércio de Serviços, resultante das Cartas Conjuntas\
+    \ das Comunidades Europeias e dos seus Estados membros, por um lado, e a Argentina, a Austrália, o Brasil, o Canadá, a\
+    \ China, o Território Aduaneiro Distinto de Taiwan, Penghu, Kinmen e Matsu, a Colômbia, Cuba, o Equador, Hong-Kong (China),\
+    \ a Índia, o Japão, a Coreia, a Nova Zelândia, as Filipinas, a Suíça e os Estados Unidos da América, por outro, bem como\
+    \ dos relatórios sobre o resultado das negociações conduzidas de acordo com a alínea a) do n.º 2 do artigo XXI do referido\
+    \ Acordo Geral sobre o Comércio de Serviços, pela RES.1/2013.17.01.2013.AR, DR.IS [12] de 17.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/1-2013-256467
+  date: '2013-01-17'
 article_structure:
-  article_count: 266
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 328
+  section_count: 63
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:29Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +124,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 15 de Dezembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 THE RESULTS OF THE URUGUAY ROUND OF MULTILATERAL TRADE NEGOTIATIONS
 
@@ -2473,11 +2496,11 @@ For such products, the provisions of Article XIX of GATT 1994, as interpreted by
 
 Products within Section XI (Textiles and textile articles) of the Harmonized Commodity Description and Coding System (HS) Nomenclature.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 Textile and clothing products in Chapters 30-49, 64-96
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 AGREEMENT ON TECHNICAL BARRIERS TO TRADE
 
@@ -3997,7 +4020,7 @@ Note to article 5
 
 2 - As an example of this, goods are sold from a price list which grants favourable unit prices for purchases made in larger quantities.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 The greatest number of units sold at a price is 80; therefore, the unit price in the greatest aggregate quantity is 90.
 
@@ -4007,11 +4030,11 @@ The greatest number of units sold at a price is 80; therefore, the unit price in
 
 a) Sales:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 b) Totals:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 In this example, the greatest number of units sold at a particular price is 65; therefore, the unit price in the greatest aggregate quantity is 90.
 
@@ -6195,7 +6218,7 @@ ANNEX
 
 Exception referred to in paragraph 2 of article 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ANNEX 1B
 
@@ -7187,7 +7210,7 @@ Modes of supply:
 
 4) Presence of natural persons.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ATTACHMENT A
 
@@ -7267,7 +7290,7 @@ European Communities and their Member States
 
 European Communities and their Member States - Final list of article II (MFN) exemptions
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ANNEX 1C
 
@@ -8623,7 +8646,7 @@ APPENDIX 2
 
 SPECIAL OR ADDITIONAL RULES AND PROCEDURES CONTAINED IN THE COVERED AGREEMENTS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 The list of rules and procedures in this Appendix includes provisions where only a part of the provision may be relevant in this context.
 
@@ -10601,7 +10624,7 @@ PERCENTAGE SHARES OF TOTAL EXTERNAL TRADE TO BE USED FOR THE PURPOSE OF MAKING T
 
 If, prior to the accession of the Government of Japan to the General Agreement, the present Agreement has been accepted by contracting parties the external trade of which under column I accounts for the percentage of such trade specified in paragraph 6 of Article XXVI, column I shall be applicable for the purposes of that paragraph. If the present Agreement has not been so accepted prior to the accession of the Government of Japan, column II shall be applicable for the purposes of that paragraph.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 Note: - These percentages have been computed taking into account the trade of all territories in respect of which the General Agreement on Tariffs and Trade is applied.
 
@@ -11073,15 +11096,11 @@ Determinados a preservar os princípios fundamentais e a promover a realização
 
 acordam no seguinte:
 
-Artigo I
-
-Criação da Organização
+###### Artigo I — Criação da Organização
 
 É criada a Organização Mundial do Comércio (a seguir designada «a OMC»).
 
-Artigo II
-
-Âmbito da OMC
+###### Artigo II — Âmbito da OMC
 
 1 - A OMC constituirá o enquadramento institucional comum para a condução das relações comerciais entre os seus Membros em questões relativas aos acordos e aos instrumentos jurídicos conexos que figuram nos Anexos do presente Acordo.
 
@@ -11091,9 +11110,7 @@ Artigo II
 
 4 - O Acordo Geral sobre Pautas Aduaneiras e Comércio de 1994, tal como figura no Anexo 1A (a seguir designado «GATT de 1994»), é juridicamente distinto do Acordo Geral sobre Pautas Aduaneiras e Comércio, de 30 de Outubro de 1947, que acompanha o Acto Final adoptado aquando da conclusão da segunda sessão do Comité Preparatório da Conferência das Nações Unidas sobre Comércio e Emprego, tal como posteriormente rectificado ou alterado (a seguir designado «GATT de 1947»).
 
-Artigo III
-
-Funções da OMC
+###### Artigo III — Funções da OMC
 
 1 - A OMC facilitará a aplicação, gestão e funcionamento do presente Acordo e dos acordos comerciais multilaterais e promoverá a realização dos seus objectivos, constituindo igualmente o enquadramento para a aplicação, gestão e funcionamento dos acordos comerciais plurilaterais.
 
@@ -11105,9 +11122,7 @@ Funções da OMC
 
 5 - A fim de conferir uma maior coerência à elaboração das políticas económicas mundiais, a OMC cooperará, conforme adequado, com o Fundo Monetário Internacional e com o Banco Internacional para a Reconstrução e o Desenvolvimento e respectivas agências.
 
-ARTIGO IV
-
-Estrutura da OMC
+###### ARTIGO IV — Estrutura da OMC
 
 1 - Será instituída uma Conferência Ministerial composta por representantes de todos os Membros, que se reunirá, pelo menos, uma vez de dois em dois anos. A Conferência Ministerial exercerá as funções da OMC e tomará as medidas necessárias para o efeito. A Conferência Ministerial será competente para decidir de todas as questões abrangidas por qualquer dos acordos comerciais multilaterais, se nesse sentido for solicitada por um membro, em conformidade com os requisitos específicos em matéria de tomada de decisões previstos no presente Acordo e no acordo comercial multilateral pertinente.
 
@@ -11125,17 +11140,13 @@ Estrutura da OMC
 
 8 - Os órgãos previstos nos acordos comerciais plurilaterais exercerão as funções que lhes incumbem por força dos referidos acordos e funcionarão no quadro institucional da OMC. Estes órgãos informarão periodicamente o Conselho Geral das suas actividades.
 
-Artigo V
-
-Relações com outras organizações
+###### Artigo V — Relações com outras organizações
 
 1 - O Conselho Geral tomará as medidas adequadas para assegurar uma cooperação eficaz com outras organizações intergovernamentais cujas competências estejam relacionadas com as da OMC.
 
 2 - O Conselho Geral poderá tomar as medidas adequadas tendo em vista a consulta e a cooperação com organizações não governamentais que se ocupem de questões relacionadas com as da OMC.
 
-Artigo VI
-
-Secretariado
+###### Artigo VI — Secretariado
 
 1 - É criado um Secretariado da OMC (a seguir designado «o Secretariado»), dirigido por um Director-Geral.
 
@@ -11145,9 +11156,7 @@ Secretariado
 
 4 - As funções do Director-Geral e do pessoal do Secretariado terão um carácter exclusivamente internacional. No cumprimento dos seus deveres, o Director-Geral e o pessoal do Secretariado não solicitarão nem aceitarão instruções de qualquer Governo ou autoridade estranha à OMC. O Director-Geral e o pessoal do Secretariado abster-se-ão de qualquer acção que seja incompatível com o seu estatuto de funcionários internacionais. Os Membros da OMC respeitarão o carácter internacional das funções do Director-Geral e do pessoal do Secretariado e não os procurarão influenciar no cumprimento dos seus deveres.
 
-Artigo VII
-
-Orçamento e contribuições
+###### Artigo VII — Orçamento e contribuições
 
 1 - O Director-Geral apresentará ao Comité do Orçamento, Finanças e Administração as previsões orçamentais e as demonstrações financeiras anuais da OMC. O Comité do Orçamento, Finanças e Administração examinará as previsões orçamentais e as demonstrações financeiras anuais apresentadas pelo Director-Geral e formulará as recomendações pertinentes ao Conselho Geral. As previsões orçamentais anuais serão submetidas à aprovação do Conselho Geral.
 
@@ -11163,9 +11172,7 @@ A regulamentação financeira basear-se-á, na medida do possível, nas regras e
 
 4 - Os Membros pagarão prontamente à OMC a respectiva contribuição correspondente à sua parte nas despesas da OMC, em conformidade com a regulamentação financeira adoptada pelo Conselho Geral.
 
-Artigo VIII
-
-Estatuto da OMC
+###### Artigo VIII — Estatuto da OMC
 
 1 - A OMC será doptada de personalidade jurídica, sendo-lhe concedida pelos seus Membros a capacidade jurídica que se afigure necessária para o exercício das suas funções.
 
@@ -11177,9 +11184,7 @@ Estatuto da OMC
 
 5 - A OMC poderá concluir um acordo de sede.
 
-Artigo IX
-
-Tomada de decisões
+###### Artigo IX — Tomada de decisões
 
 1 - A OMC manterá a prática da tomada de decisões por consenso seguida por força do GATT de 1947 (ver nota 1). Salvo disposição em contrário, nos casos em que não for possível chegar a uma decisão por consenso, a questão em causa será decidida por votação. Nas reuniões da Conferência Ministerial e do Conselho Geral, cada Membro da OMC disporá de um voto. Nos casos em que as Comunidades Europeias exerçam o seu direito de voto, disporão de um número de votos igual ao número dos seus Estados membros(ver nota 2) que sejam Membros da OMC. As decisões da Conferência Ministerial e do Conselho Geral serão adoptadas por maioria dos votos expressos, salvo disposição em contrário prevista no presente Acordo ou no acordo comercial multilateral pertinente (ver nota 3).
 
@@ -11203,9 +11208,7 @@ b) Qualquer pedido de derrogação respeitante aos acordos comerciais multilater
 
 (nota 4) Qualquer decisão de concessão de uma derrogação respeitante a uma obrigação sujeita a um período de transição ou a um prazo para aplicação por etapas que o Membro requerente não tenha cumprido no final do período ou do prazo em questão será unicamente tomada por consenso.
 
-Artigo X
-
-Alterações
+###### Artigo X — Alterações
 
 1 - Qualquer Membro da OMC pode introduzir uma proposta de alteração das disposições do presente Acordo ou dos acordos comerciais multilaterais que figuram no Anexo 1, apresentando a referida proposta à Conferência Ministerial. Os Conselhos enumerados no n.º 5 do artigo IV podem igualmente apresentar à Conferência Ministerial propostas de alteração das disposições dos correspondentes acordos comerciais multilaterais que figuram no Anexo 1, cujo funcionamento supervisionem. Durante um prazo de 90 dias a contar da apresentação formal da proposta à Conferência Ministerial, a menos que esta decida um prazo mais longo, qualquer decisão de Conferência Ministerial no sentido de apresentar aos Membros, para aceitação, a alteração proposta, será tomada por consenso. A menos que seja aplicável o disposto nos n.os 2, 5 ou 6, esta decisão precisará se é aplicável o disposto nos n.os 3 ou 4. Se se chegar a consenso, a Conferência Ministerial apresentará imediatamente a alteração proposta aos Membros, para aceitação. Caso, dentro do prazo estabelecido, não seja possível chegar a consenso numa reunião da Conferência Ministerial, esta última decidirá, por maioria de dois terços dos Membros, da apresentação, ou não, da alteração proposta aos Membros, para aceitação. Sob reserva do disposto nos n.os 2, 5 e 6, à alteração proposta é aplicável o disposto no n.º 3, a menos que a Conferência Ministerial decida, por maioria de três quartos dos Membros, que é aplicável o disposto no n.º 4.
 
@@ -11217,7 +11220,7 @@ Artigos I e II do GATT de 1994;
 
 N.º 1 do artigo II do GATS;
 
-###### Artigo 4.º do Acordo TRIPS.
+Artigo 4.º do Acordo TRIPS.
 
 3 - As alterações das disposições do presente Acordo, ou dos acordos comerciais multilaterais que figuram nos Anexos 1A e 1C, que não as enumeradas nos n.os 2 e 6, susceptíveis de alterar os direitos e obrigações dos Membros, produzirão efeitos, no que respeita aos Membros que as tenham aceitado, a partir do momento em que tenham sido aceites por dois terços dos Membros e, posteriormente, no respeita a qualquer outro Membro, a partir do momento em que este as tenha aceitado. A Conferência Ministerial poderá decidir, por maioria de três quartos dos Membros, que uma alteração adoptada ao abrigo do disposto no presente número é de tal natureza que qualquer Membro que não a tenha aceitado, num prazo que a Conferência Ministerial fixará para cada caso, poderá retirar-se do Acordo OMC ou continuar a ser Membro com o consentimento da Conferência Ministerial.
 
@@ -11235,17 +11238,13 @@ N.º 1 do artigo II do GATS;
 
 10 - As alterações introduzidas num acordo comercial plurilateral serão regidas pelas disposições desse mesmo acordo.
 
-Artigo XI
-
-Membros originais
+###### Artigo XI — Membros originais
 
 1 - As Partes Contratantes no GATT de 1947 à data da entrada em vigor do presente Acordo e as Comunidades Europeias, que aceitem o presente Acordo e os acordos comerciais multilaterais e para as quais são anexadas listas de concessões e de compromissos ao GATT de 1994, bem como listas de compromissos específicos ao GATS, tornam-se Membros originais da OMC.
 
 2 - Os países menos desenvolvidos reconhecidos como tal pelas Nações Unidas serão unicamente obrigados a assumir compromissos e a fazer concessões na medida em que tal seja compatível com as respectivas necessidades financeiras, comerciais e de desenvolvimento ou com as respectivas capacidades administrativas e institucionais.
 
-Artigo XII
-
-Adesão
+###### Artigo XII — Adesão
 
 1 - Qualquer Estado ou território aduaneiro distinto que possua plena autonomia na condução das suas relações comerciais externas e em relação a outras questões previstas no presente Acordo e nos acordos comerciais multilaterais pode aderir ao presente Acordo, em condições a acordar entre ele e a OMC. Tal adesão é aplicável relativamente ao presente Acordo e aos acordos comerciais multilaterais que o acompanham.
 
@@ -11253,9 +11252,7 @@ Adesão
 
 3 - A adesão a um acordo comercial plurilateral será regida pelas disposições desse mesmo acordo.
 
-Artigo XIII
-
-Não aplicação dos acordos comerciais multilaterais entre determinados Membros
+###### Artigo XIII — Não aplicação dos acordos comerciais multilaterais entre determinados Membros
 
 1 - O presente Acordo e os acordos comerciais multilaterais que figuram nos Anexos 1 e 2 não são aplicáveis entre um Membro e qualquer outro Membro se, quando um deles se tornar Membro, não aceitar tal aplicação.
 
@@ -11267,9 +11264,7 @@ Não aplicação dos acordos comerciais multilaterais entre determinados Membros
 
 5 - A não aplicação de um acordo comercial plurilateral entre partes nesse acordo será regida pelas disposições desse mesmo acordo.
 
-Artigo XIV
-
-Aceitação, entrada em vigor e depósito
+###### Artigo XIV — Aceitação, entrada em vigor e depósito
 
 1 - O presente Acordo ficará aberto à aceitação, através de assinatura ou de qualquer outro modo, das Partes Contratantes no GATT de 1947 e das Comunidades Europeias, que são elegíveis para se tornarem Membros originais da OMC em conformidade com o disposto no artigo XI do presente Acordo. Tal aceitação é aplicável ao presente Acordo e aos acordos comerciais multilaterais que o acompanham. O presente Acordo e os acordos comerciais multilaterais que o acompanham entrarão em vigor na data fixada pelos Ministros, em conformidade com o n.º 3 do Acto Final que consagra os resultados das negociações comerciais multilaterais do Uruguay Round e ficará aberto à aceitação por um período de dois anos a contar dessa data, salvo decisão em contrário dos Ministros. Uma aceitação que ocorra após a entrada em vigor do presente Acordo entrará em vigor 30 dias após a referida aceitação.
 
@@ -11279,17 +11274,13 @@ Aceitação, entrada em vigor e depósito
 
 4 - A aceitação e a entrada em vigor de um acordo comercial plurilateral serão regidas pelas disposições desse mesmo acordo. Tais acordos serão depositados junto do Director-Geral das Partes Contratantes no GATT de 1947. Na data da entrada em vigor do presente Acordo, tais acordos serão depositados junto do Director-Geral da OMC.
 
-Artigo XV
-
-Recesso
+###### Artigo XV — Recesso
 
 1 - Qualquer Membro pode retirar-se do presente Acordo. Tal recesso é simultaneamente aplicável ao presente Acordo e aos acordos comerciais multilaterais e produz efeitos no termo de um prazo de seis meses a contar da data em que o Director-Geral da OMC tiver recebido a notificação escrita do recesso.
 
 2 - O recesso de um acordo comercial plurilateral será regido pelas disposições desse mesmo acordo.
 
-Artigo XVI
-
-Disposições diversas
+###### Artigo XVI — Disposições diversas
 
 1 - Salvo disposição em contrário do presente Acordo ou dos acordos comerciais multilaterais, a OMC será regida pelas decisões, procedimentos e práticas habituais seguidas pelas Partes Contratantes no GATT de 1947 e pelos órgãos criados no âmbito do GATT de 1947.
 
@@ -11311,7 +11302,9 @@ Os termos «país» ou «países», tal como utilizados no presente Acordo e nos
 
 No caso de um território aduaneiro distinto Membro da OMC, sempre que uma expressão utilizada no presente Acordo e nos acordos comerciais multilaterais seja acompanhada do termo «nacional», tal expressão será interpretada, salvo indicação em contrário, como respeitando a esse território aduaneiro.
 
-## ANEXO 1 — ANEXO 1A
+## ANEXO 1
+
+## ANEXO 1A
 
 ACORDOS MULTILATERAIS SOBRE O COMÉRCIO DE MERCADORIAS
 
@@ -11617,7 +11610,9 @@ Notando que os compromissos a título do programa de reforma devem ser assumidos
 
 acordam no seguinte:
 
-# PARTE I — Artigo 1.º
+## PARTE I
+
+###### Artigo 1.º
 
 Definições
 
@@ -11657,7 +11652,9 @@ i) No que respeita aos compromissos específicos de um Membro, o «ano» referid
 
 O presente Acordo é aplicável aos produtos enumerados no seu Anexo 1, a seguir denominados «produtos agrícolas».
 
-# PARTE II — Artigo 3.º
+## PARTE II
+
+###### Artigo 3.º
 
 Incorporação das concessões e dos compromissos
 
@@ -11667,7 +11664,9 @@ Incorporação das concessões e dos compromissos
 
 3 - Sob reserva das disposições dos n.os 2, alínea b), e 4 do artigo 9.º, os Membros não concederão os subsídios à exportação previstos no n.º 1 do artigo 9.º para os produtos agrícolas ou grupos de produtos especificados na secção II da parte IV das suas listas que excedam os níveis de compromisso em matéria de despesas orçamentais e de quantidades aí especificados, nem concederão esses subsídios para os produtos agrícolas não especificados na mesma secção das suas listas.
 
-# PARTE III — Artigo 4.º
+## PARTE III
+
+###### Artigo 4.º
 
 Acesso aos mercados
 
@@ -11723,7 +11722,9 @@ e) Se a diferença for superior a 75% do preço de desencadeamento, o direito ad
 
 9 - As disposições do presente artigo permanecerão em vigor durante o processo de reforma referido no artigo 20.º
 
-# PARTE IV — Artigo 6.º
+## PARTE IV
+
+###### Artigo 6.º
 
 Compromissos em matéria de apoio interno
 
@@ -11759,7 +11760,9 @@ b) A isenção dos pagamentos directos que satisfaçam os critérios supra-refer
 
 b) No caso de não existirem compromissos em matéria de MGA total na parte IV da lista de um Membro, este não concederá aos produtores agrícolas um apoio que exceda o nível de minimis aplicável indicado no n.º 4 do artigo 6.º
 
-# PARTE V — Artigo 8.º
+## PARTE V
+
+###### Artigo 8.º
 
 Compromissos em matéria de concorrência na exportação
 
@@ -11821,7 +11824,9 @@ c) Essa ajuda seja fornecida, na medida do possível, integralmente a título de
 
 O subsídio unitário pago para um produto primário agrícola incorporado não pode, em caso algum, exceder o subsídio unitário que seria pagável para as exportações do próprio produto primário.
 
-# PARTE VI — Artigo 12.º
+## PARTE VI
+
+###### Artigo 12.º
 
 Disciplinas relativas às proibições e restrições à exportação
 
@@ -11833,7 +11838,9 @@ b) Antes de instituir uma proibição ou restrição à exportação, um Membro 
 
 2 - As disposições do presente artigo não serão aplicáveis a um país em desenvolvimento Membro, a não ser que a medida seja tomada por um país em desenvolvimento Membro que seja exportador líquido do produto alimentar em causa.
 
-# PARTE VII — Artigo 13.º
+## PARTE VII
+
+###### Artigo 13.º
 
 Moderação
 
@@ -11863,13 +11870,17 @@ i) Sujeitos a direitos compensatórios unicamente após ter sido estabelecida, e
 
 ii) Isentos das acções baseadas no artigo XVI do GATT de 1994 ou nos artigos 3.º, 5.º e 6.º do Acordo sobre as Subvenções.
 
-# PARTE VIII — Artigo 14.º
+## PARTE VIII
+
+###### Artigo 14.º
 
 Medidas sanitárias e fitossanitárias
 
 Os Membros acordam em aplicar o Acordo sobre a Aplicação de Medidas Sanitárias e Fitossanitárias.
 
-# PARTE IX — Artigo 15.º
+## PARTE IX
+
+###### Artigo 15.º
 
 Tratamento especial e diferenciado
 
@@ -11877,7 +11888,9 @@ Tratamento especial e diferenciado
 
 2 - Os países em desenvolvimento Membros terão a possibilidade de executar os compromissos de redução durante o período de, no máximo, 10 anos. Os países menos desenvolvidos Membros não serão obrigados a assumir compromissos de redução.
 
-# PARTE X — Artigo 16.º
+## PARTE X
+
+###### Artigo 16.º
 
 Países menos desenvolvidos e países em desenvolvimento importadores líquidos de produtos alimentares
 
@@ -11885,7 +11898,9 @@ Países menos desenvolvidos e países em desenvolvimento importadores líquidos 
 
 2 - O Comité da Agricultura acompanhará, de modo adequado, o seguimento dado a essa decisão.
 
-# PARTE XI — Artigo 17.º
+## PARTE XI
+
+###### Artigo 17.º
 
 Comité da Agricultura
 
@@ -11911,7 +11926,9 @@ Comité da Agricultura
 
 As disposições dos artigos XXII e XXIII do GATT de 1994, tal como precisadas e aplicadas pelo Memorando de Entendimento sobre a Resolução de Litígios, serão aplicáveis às consultas e à resolução de litígios no âmbito do presente Acordo.
 
-# PARTE XII — Artigo 20.º
+## PARTE XII
+
+###### Artigo 20.º
 
 Continuação do processo de reforma
 
@@ -11925,7 +11942,9 @@ c) As razões que não de ordem comercial, o tratamento especial e diferenciado 
 
 d) Quaisquer outros compromissos que sejam necessários para atingir o objectivo a longo prazo acima referido.
 
-# PARTE XIII — Artigo 21.º
+## PARTE XIII
+
+###### Artigo 21.º
 
 Disposições finais
 
@@ -12173,7 +12192,7 @@ b) Foram previstas possibilidades de acesso ao mercado adequadas para outros pro
 
 10 - No caso de o tratamento especial enunciado no ponto 7 não ser mantido para além do décimo ano seguinte ao início do período de execução, os produtos considerados ficarão sujeitos a direitos aduaneiros propriamente ditos, estabelecidos com base num equivalente pautal calculado em conformidade com as directrizes enunciadas num apêndice do presente anexo, que serão consolidados na lista do Membro em causa. Além disso, serão aplicáveis as disposições do ponto 6, tal como alteradas pelo tratamento especial e diferenciado aplicável concedido aos países em desenvolvimento Membros em virtude do presente Acordo.
 
-## APÊNDICE DO ANEXO 5
+APÊNDICE DO ANEXO 5
 
 Directrizes para o cálculo dos equivalente pautais para os fins específicos indicados nos pontos 6 e 10 do presente anexo.
 
@@ -12733,11 +12752,11 @@ Em relação a tais produtos serão aplicáveis as disposições do artigo XIX d
 
 Produtos da Secção XI (Matérias têxteis e suas obras) da Nomenclatura do Sistema Harmonizado de Designação e Codificação de Mercadorias (SH).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 Produtos têxteis e do vestuário dos capítulos 30-49, 64-96
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ACORDO SOBRE OS OBSTÁCULOS TÉCNICOS AO COMÉRCIO
 
@@ -13257,7 +13276,9 @@ ACORDO SOBRE A APLICAÇÃO DO ARTIGO VI DO ACORDO GERAL SOBRE PAUTAS ADUANEIRAS 
 
 Os Membros acordam no seguinte:
 
-# PARTE I — Artigo 1.º
+## PARTE I
+
+###### Artigo 1.º
 
 Princípios
 
@@ -13611,7 +13632,9 @@ Cada Membro cuja legislação nacional contenha disposições relativas às medi
 
 Os países desenvolvidos Membros devem conceder uma atenção especial à situação dos países em desenvolvimento Membros quando estiver em causa a aplicação de medidas antidumping no âmbito do presente Acordo. Antes da aplicação de direitos antidumping serão exploradas as possibilidades de soluções construtivas previstas no presente Acordo, sempre que estiverem em causa interesses essenciais dos países em desenvolvimento Membros.
 
-# PARTE II — Artigo 16.º
+## PARTE II
+
+###### Artigo 16.º
 
 Comité das Práticas Antidumping
 
@@ -13649,7 +13672,9 @@ ii) O painel interpretará as disposições pertinentes do Acordo à luz das reg
 
 17.7 - As informações confidenciais comunicadas ao painel não serão divulgadas sem a autorização formal da pessoa, do organismo ou da autoridade que as tenha fornecido. Sempre que estas informações são pedidas ao painel mas cuja divulgação não está autorizada, será apresentado um resumo não confidencial das informações, autorizado pela pessoa, organismo ou autoridade que as forneceu.
 
-# PARTE III — Artigo 18.º
+## PARTE III
+
+###### Artigo 18.º
 
 Disposições finais
 
@@ -13737,7 +13762,7 @@ Reconhecendo que os processos de determinação do valor não devem ser utilizad
 
 acordaram no seguinte:
 
-# PARTE I — Regras de determinação do valor aduaneiro
+## PARTE I — Regras de determinação do valor aduaneiro
 
 ###### Artigo 1.º
 
@@ -13965,7 +13990,7 @@ Mediante pedido apresentado por escrito, o importador terá o direito de receber
 
 Nenhuma das disposições do presente Acordo poderá ser interpretada como restringindo ou contestando o direito de uma administração aduaneira de se assegurar da veracidade ou da exactidão de qualquer afirmação, documento ou declaração apresentados para efeitos de determinação do valor aduaneiro.
 
-# PARTE II — Administração do Acordo, consultas e resolução de litígios
+## PARTE II — Administração do Acordo, consultas e resolução de litígios
 
 ###### Artigo 18.º — Instituições
 
@@ -13985,7 +14010,7 @@ Nenhuma das disposições do presente Acordo poderá ser interpretada como restr
 
 5 - As informações confidenciais comunicadas aos painéis não serão divulgadas sem autorização formal, da pessoa, organismo ou autoridade que as tiver fornecido. Quando essas informações forem pedidas a um painel e este não esteja autorizado a divulgá-las, será apresentado um resumo não confidencial das informações em causa autorizado pela pessoa, organismo ou autoridade que as tiver fornecido.
 
-# PARTE III — Tratamento especial e diferenciado
+## PARTE III — Tratamento especial e diferenciado
 
 ###### Artigo 20.º
 
@@ -13995,7 +14020,7 @@ Nenhuma das disposições do presente Acordo poderá ser interpretada como restr
 
 3 - Os países desenvolvidos Membros fornecerão, em condições estabelecidas de comum acordo, assistência técnica aos países em desenvolvimento Membros que o solicitarem. A partir desta base, os países desenvolvidos Membros elaborarão programas de assistência técnica, que podem incluir, designadamente, formação de pessoal, assistência à preparação de medidas de aplicação, acesso às fontes de informação respeitantes à metodologia em matéria de determinação do valor aduaneiro e assessoria quanto à aplicação das disposições do presente Acordo.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 21.º — Reservas
 
@@ -14137,7 +14162,7 @@ Nota relativa ao artigo 5.º
 
 2 - Por exemplo: são vendidas mercadorias com base numa lista de preços que estabelece preços unitários vantajosos para compras em maiores quantidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 O maior número de unidades vendidas a um determinado preço é 80; por consequência, o preço unitário correspondente à venda totalizando a quantidade mais elevada é 90.
 
@@ -14147,11 +14172,11 @@ O maior número de unidades vendidas a um determinado preço é 80; por consequ�
 
 a) Vendas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 b) Totais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 Neste exemplo, o maior número de unidades vendidas a um determinado preço é 65; por consequência, o preço unitário correspondente à venda totalizando a quantidade mais elevada é 90.
 
@@ -14617,7 +14642,7 @@ Desejosos de harmonizar e clarificar as regras de origem;
 
 acordaram o seguinte:
 
-# PARTE I — Definições e âmbito de aplicação
+## PARTE I — Definições e âmbito de aplicação
 
 ###### Artigo 1.º — Regras de origem
 
@@ -14627,7 +14652,7 @@ acordaram o seguinte:
 
 (nota 1) Fica entendido que esta disposição não prejudica as decisões em matéria de definição de expressões como «ramo de produção nacional», «produtos similares de um ramo de produção nacional» ou expressões equivalentes, em todos os contextos em que estas se apliquem.
 
-# PARTE II — Disciplinas para a aplicação das regras de origem
+## PARTE II — Disciplinas para a aplicação das regras de origem
 
 ###### Artigo 2.º — Disciplinas aplicáveis durante o período de transição
 
@@ -14687,7 +14712,7 @@ h) Qualquer decisão administrativa que tomem, em matéria de determinação da 
 
 i) Qualquer informação de natureza confidencial ou fornecida a título confidencial para efeitos de aplicação das regras de origem seja tratada como estritamente confidencial pelas autoridades em causa, que não a divulgação sem a autorização expressa da pessoa ou do Estado que a comunicou, excepto na medida em que tal possa ser exigido, no contexto de processos judiciais.
 
-# PARTE III — Disposições relativas aos procedimentos de notificação, exame, consulta e resolução de litígios
+## PARTE III — Disposições relativas aos procedimentos de notificação, exame, consulta e resolução de litígios
 
 ###### Artigo 4.º — Instituições
 
@@ -14719,7 +14744,7 @@ Resolução de litígios
 
 São aplicáveis ao presente Acordo as disposições do artigo XXIII do GATT de 1994, tal como previstas e aplicadas pelo Memorando de Entendimento sobre a, Resolução de Litígios.
 
-# PARTE IV — Harmonização das regras de origem
+## PARTE IV — Harmonização das regras de origem
 
 ###### Artigo 9.º — Objectivos e princípios
 
@@ -15045,7 +15070,7 @@ ACORDO SOBRE AS SUBVENÇÕES E AS MEDIDAS DE COMPENSAÇÃO
 
 Os Membros acordam no seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Definição de subvenção
 
@@ -15089,7 +15114,7 @@ c) No caso de, não obstante se afigurar que não existe especificidade resultan
 
 (nota 3) Neste contexto, serão especialmente tidas em conta as informações relativas à frequência com que os pedidos de subvenção foram recusados ou aprovados, bem como os motivos destas decisões.
 
-# PARTE II — Subvenções proibidas
+## PARTE II — Subvenções proibidas
 
 ###### Artigo 3.º — Proibição
 
@@ -15141,7 +15166,7 @@ b) Subvenções subordinadas, quer exclusivamente, quer entre diversas outras co
 
 (nota 10) Esta expressão não deve ser interpretada como autorizando contramedidas desproporcionadas pelo facto de as subvenções abrangidas pelas presentes disposições serem proibidas.
 
-# PARTE III — Subvenções passíveis de recurso
+## PARTE III — Subvenções passíveis de recurso
 
 ###### Artigo 5.º — Efeitos desfavoráveis
 
@@ -15249,7 +15274,7 @@ f) Desrespeito das normas e de outras disposições regulamentares do país impo
 
 (nota 22) Caso não esteja prevista uma reunião do ORL durante este período, será realizada uma reunião para este efeito.
 
-# PARTE IV — Subvenções não passíveis de recurso
+## PARTE IV — Subvenções não passíveis de recurso
 
 ###### Artigo 8.º — Identificação das subvenções não passíveis de recurso
 
@@ -15339,7 +15364,7 @@ v) Seja acessível a todas as empresas que possam adoptar o novo equipamento e/o
 
 9.4 - Sempre que uma questão lhe seja submetida, o Comité examinará imediatamente os factos em causa e os elementos de prova relativos aos efeitos referidos no n.º 1. Se determinar a existência de tais efeitos, o Comité poderá recomendar ao Membro que concede a subvenção que altere esse programa de modo a suprimir tais efeitos. O Comité apresentará as suas conclusões no prazo de 120 dias a contar da data em que lhe foi submetida a questão, em conformidade com o disposto no n.º 3. Caso não seja dado seguimento à recomendação no prazo de 6 meses, o Comité autorizará o Membro requerente a tomar contramedidas apropriadas, proporcionais à natureza e o grau dos efeitos cuja existência tenha sido determinada.
 
-# PARTE V — Medidas de compensação
+## PARTE V — Medidas de compensação
 
 ###### Artigo 10.º — Aplicação do artigo VI do GATT de 1994 (ver nota 35)
 
@@ -15635,7 +15660,7 @@ v) As principais razões que conduziram à determinação.
 
 Cada Membro cuja legislação nacional inclua disposições relativas às medidas de compensação deverá dispor de tribunais ou instâncias judiciais, administrativos ou de arbitragem, tendo em vista, nomeadamente, rever o mais rapidamente possível as medidas administrativas relacionadas com as determinações finais e os reexames dessas determinações, na acepção do artigo 21.º Tais tribunais ou instâncias serão independentes das autoridades responsáveis pela determinação ou reexame em questão, permitindo o acesso ao reexame a todas as partes interessadas que participaram no procedimento administrativo e que sejam directa e individualmente afectadas pelas medidas administrativas.
 
-# PARTE VI — Instituições
+## PARTE VI — Instituições
 
 ###### Artigo 24.º — Comité das Subvenções e Medidas de Compensação e outros órgãos auxiliares
 
@@ -15649,7 +15674,7 @@ Cada Membro cuja legislação nacional inclua disposições relativas às medida
 
 24.5 - No desempenho das suas funções, o Comité e os órgãos auxiliares poderão consultar qualquer fonte que julguem apropriada e solicitar-lhe informações. Todavia, antes de solicitar informações a uma fonte sob a jurisdição de um Membro, o Comité ou o órgão auxiliar informará desse facto o Membro em causa.
 
-# PARTE VII — Notificação e vigilância
+## PARTE VII — Notificação e vigilância
 
 ###### Artigo 25.º — Notificações
 
@@ -15695,7 +15720,7 @@ v) Dados estatísticos que permitam avaliar os efeitos da subvenção sobre o co
 
 26.2 - O Comité examinará, aquando de cada reunião ordinária, os relatórios apresentados nos termos do n.º 11 do artigo 25.º
 
-# PARTE VIII — Países em desenvolvimento Membros
+## PARTE VIII — Países em desenvolvimento Membros
 
 ###### Artigo 27.º — Tratamento especial e diferenciado em favor dos países em desenvolvimento Membros
 
@@ -15739,7 +15764,7 @@ b) Que o volume das importações subvencionadas representa menos de 4% das impo
 
 (nota 55) Relativamente aos países em desenvolvimento Membros que na data de entrada em vigor do Acordo OMC não concedam subvenções às exportações, a presente disposição aplicar-se-á com base no nível das subvenções às exportações concedidas em 1986.
 
-# PARTE IX — Disposições transitórias
+## PARTE IX — Disposições transitórias
 
 ###### Artigo 28.º — Programas existentes
 
@@ -15765,13 +15790,13 @@ b) No que se refere às outras subvenções passível de recurso, serão aplicá
 
 29.4 - Em circunstâncias excepcionais, os Membros referidos no n.º 1 poderão ser autorizados pelo Comité a não respeitarem os programas e medidas notificados e os calendários fixados, se tal for considerado necessário para o processo de transformação.
 
-# PARTE X — Resolução de litígios
+## PARTE X — Resolução de litígios
 
 ###### Artigo 30.º
 
 As disposições dos artigos XXII e XXIII do GATT de 1994, tal como interpretadas e aplicadas em conformidade com o Memorando de Entendimento sobre a Resolução de Litígios, aplicar-se-ão às consultas e à resolução de litígios nos termos do presente Acordo, salvo disposição em contrário deste último.
 
-# PARTE XI — Disposições finais
+## PARTE XI — Disposições finais
 
 ###### Artigo 31.º — Aplicação provisória
 
@@ -16143,7 +16168,7 @@ As disposições dos artigos XXII e XXIII do GATT de 1994, tal como precisadas e
 
 ## ANEXO — Excepção referida ao n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ## ANEXO 1B — ACORDO GERAL SOBRE O COMÉRCIO DE SERVIÇOS
 
@@ -16163,11 +16188,9 @@ Tendo especialmente em conta as sérias dificuldades sentidas pelos países meno
 
 acordam no seguinte:
 
-# PARTE I — Âmbito e definições
+## PARTE I — Âmbito e definições
 
-Artigo I
-
-Âmbito e definições
+###### Artigo I — Âmbito e definições
 
 1 - O presente Acordo é aplicável às medidas tomadas pelos Membros que afectem o comércio de serviços.
 
@@ -16195,11 +16218,9 @@ b) O termo «serviços» abrange serviços em todos os sectores, com excepção 
 
 c) Entende-se por «serviço prestado no exercício da autoridade do Estado» qualquer serviço que não seja prestado nem numa base comercial, nem em concorrência com um ou mais prestadores de serviços.
 
-# PARTE II — Obrigações e disciplinas gerais
+## PARTE II — Obrigações e disciplinas gerais
 
-Artigo II
-
-Tratamento da nação mais favorecida
+###### Artigo II — Tratamento da nação mais favorecida
 
 1 - Relativamente a todas as medidas abrangidas pelo presente Acordo, cada Membro concederá imediata e incondicionalmente aos serviços e prestadores de serviços de qualquer outro Membro um tratamento não menos favorável do que o concedido aos serviços e prestadores de serviços equivalentes de qualquer outro país.
 
@@ -16207,9 +16228,7 @@ Tratamento da nação mais favorecida
 
 3 - As disposições do presente Acordo não poderão ser interpretadas no sentido de impedir que um Membro confira ou conceda vantagens a países limítrofes a fim de facilitar o comércio, limitado a zonas fronteiriças contíguas, de serviços produzidos e consumidos localmente.
 
-Artigo III
-
-Transparência
+###### Artigo III — Transparência
 
 1 - Cada Membro publicará prontamente e, salvo em situações de emergência, o mais tardar no momento da sua entrada em vigor, todas as medidas de aplicação geral relevantes que digam respeito ou afectem a aplicação do presente Acordo. Os acordos internacionais que digam respeito ou que afectem o comércio de serviços de que um Membro seja signatário serão igualmente publicados.
 
@@ -16221,15 +16240,11 @@ Transparência
 
 5 - Qualquer Membro poderá notificar o Conselho do Comércio de Serviços de qualquer medida tomada por qualquer outro Membro que considere afectar a aplicação do presente Acordo.
 
-Artigo III-A
-
-Divulgação de informações confidenciais
+###### Artigo III-A — Divulgação de informações confidenciais
 
 Nenhuma disposição do presente Acordo obrigará qualquer Membro a prestar informações confidenciais cuja divulgação possa entravar a aplicação da lei ou de qualquer outro modo ser contrária ao interesse público, ou que possa prejudicar os legítimos interesses comerciais de determinadas empresas, públicas ou privadas.
 
-Artigo IV
-
-Participação crescente dos países em desenvolvimento
+###### Artigo IV — Participação crescente dos países em desenvolvimento
 
 1 - A crescente participação dos países em desenvolvimento Membros no comércio mundial será facilitada pelos compromissos específicos negociados assumidos pelos diferentes Membros nos termos do disposto nas partes III e IV do presente Acordo, relativos:
 
@@ -16249,9 +16264,7 @@ c) À disponibilidade de tecnologia de serviços.
 
 3 - Para implementação do disposto nos n.os 1 e 2, será atribuída uma prioridade especial aos países menos desenvolvidos Membros. Ter-se-á em especial atenção as sérias dificuldades dos países menos desenvolvidos em aceitar compromissos específicos negociados, atendendo à sua situação económica especial e às suas necessidades, quer em termos de desenvolvimento, quer comerciais e financeiras.
 
-Artigo V
-
-Integração económica
+###### Artigo V — Integração económica
 
 1 - O presente Acordo não impedirá que qualquer dos seus Membros seja parte ou subscreva um acordo de liberalização do comércio de serviços entre as partes nesse acordo, desde que o acordo em questão:
 
@@ -16287,9 +16300,7 @@ c) Com base nos relatórios dos grupos de trabalho referidos nas alíneas a) e b
 
 (nota 1) Esta condição é entendida em termos de números de sectores, volume de comércio afectado e modos de prestação. Para satisfazer esta condição, os acordos não devem prever a exclusão a priori de qualquer modo de prestação.
 
-Artigo V-A
-
-Acordo de integração dos mercados de trabalho
+###### Artigo V-A — Acordo de integração dos mercados de trabalho
 
 O presente Acordo não impedirá qualquer dos seus Membros de serem partes num acordo que estabeleça a integração plena (ver nota 2) dos mercados de trabalho entre as partes, desde que o acordo em questão:
 
@@ -16299,9 +16310,7 @@ b) Seja notificado ao Conselho do Comércio de Serviços.
 
 (nota 2) Normalmente, essa integração proporciona aos cidadãos das partes envolvidas um direito de livre admissão nos mercados de trabalho das partes e inclui medidas relativas às condições de remuneração, outras condições de trabalho e benefícios sociais.
 
-Artigo VI
-
-Regulamentação interna
+###### Artigo VI — Regulamentação interna
 
 1 - Nos sectores em que sejam assumidos compromissos específicos, cada Membro valerá por que todas as medidas de aplicação geral que afectem o comércio de serviços sejam administradas de um modo razoável, objectivo e imparcial.
 
@@ -16331,9 +16340,7 @@ b) Para determinar se um Membro satisfaz a obrigação prevista na alínea a) do
 
 (nota 3) Entende-se por «organizações internacionais competentes» os organismos internacionais a que possam aderir os organismos competentes de pelo menos todos os Membros da OMC.
 
-Artigo VII
-
-Reconhecimento
+###### Artigo VII — Reconhecimento
 
 1 - Para efeitos do cumprimento, na totalidade ou em parte, das suas normas ou critérios de autorização, licenciamento ou certificação de prestadores de serviços, e sob reserva dos requisitos previstos no n.º 3, um Membro poderá reconhecer a formação ou experiência obtida, os requisitos preenchidos, ou as licenças ou certificados concedidos num determinado país. Esse reconhecimento, que poderá processar-se através de harmonização ou por outra forma, poderá basear-se num acordo ou convénio com o país em causa ou ser concedido de forma autónoma.
 
@@ -16351,9 +16358,7 @@ c) Informar prontamente o Conselho do Comércio de Serviços sempre que adopte n
 
 5 - Sempre que possível, o reconhecimento deverá basear-se em critérios acordados multilateralmente. Nos casos em que tal se justifique, os Membros trabalharão em colaboração com organizações intergovernamentais e não governamentais competentes com vista ao estabelecimento e adopção de normas e critérios internacionais comuns em matéria de reconhecimento e de normas internacionais comuns aplicáveis ao exercício de actividades de serviços, incluindo as profissões liberais.
 
-Artigo VIII
-
-Monopólios e prestadores de serviços em regime de exclusividade
+###### Artigo VIII — Monopólios e prestadores de serviços em regime de exclusividade
 
 1 - Cada Membro velará por que qualquer prestador de serviços que opere em regime de monopólio no seu território não actue, no exercício dessa actividade no mercado relevante, de um modo incompatível com as obrigações do Membro em causa ao abrigo do disposto no artigo II e com os compromissos específicos desse Membro.
 
@@ -16365,17 +16370,13 @@ Monopólios e prestadores de serviços em regime de exclusividade
 
 5 - As disposições do presente artigo serão igualmente aplicáveis em relação aos prestadores de serviços em regime de exclusividade nos casos em que um Membro, formalmente ou na prática: a) seja responsável pela autorização ou estabelecimento de um número reduzido de prestadores de serviços, e b) impeça de forma substancial a concorrência entre esses prestadores de serviços no seu território.
 
-Artigo IX
-
-Práticas comerciais
+###### Artigo IX — Práticas comerciais
 
 1 - Os Membros reconhecem que certas práticas comerciais dos prestadores de serviços, para além das abrangidas pelo artigo VIII, podem restringir a concorrência e desse modo limitar o comércio de serviços.
 
 2 - Cada Membro, a pedido de qualquer outro Membro, iniciará consultas com vista à eliminação das práticas referidas no n.º 1. O Membro requerido mostrará toda a receptividade em relação a esse pedido e cooperará através de fornecimento de informações não confidenciais à disposição do público que sejam relevantes para o assunto em questão. O Membro requerido fornecerá igualmente outras informações disponíveis ao Membro requerente, dentro do respeito da sua legislação interna e sob reserva da conclusão de um acordo satisfatório relativamente à salvaguarda da sua confidencialidade por parte do Membro requerente.
 
-Artigo X
-
-Medidas de salvaguarda em situação de emergência
+###### Artigo X — Medidas de salvaguarda em situação de emergência
 
 1 - Serão organizadas negociações multilaterais sobre a questão das medidas de salvaguarda em situações de emergência, com base no princípio da não discriminação. Os resultados dessas negociações produzirão efeitos o mais tardar três anos a contar da data da entrada em vigor do Acordo OMC.
 
@@ -16383,17 +16384,13 @@ Medidas de salvaguarda em situação de emergência
 
 3 - As disposições do n.º 2 deixarão de ser aplicáveis três anos após a data de entrada em vigor do Acordo OMC.
 
-Artigo XI
-
-Pagamentos e transferências
+###### Artigo XI — Pagamentos e transferências
 
 1 - Excepto nas circunstâncias previstas no artigo XII, um Membro não aplicará restrições às transferências e pagamentos internacionais relativos a transacções correntes relacionadas com os seus compromissos específicos.
 
 2 - Nenhuma disposição do presente Acordo afectará os direitos e obrigações dos membros do Fundo Monetário Internacional nos termos dos respectivos estatutos, incluindo a utilização de medidas cambiais em conformidade com os estatutos, desde que um Membro não imponha restrições às transacções de capitais de modo incompatível com os seus compromissos específicos relativos a essas transacções, excepto ao abrigo do disposto no artigo XII ou a pedido do Fundo.
 
-Artigo XII
-
-Restrições para salvaguarda da situação da balança de pagamentos
+###### Artigo XII — Restrições para salvaguarda da situação da balança de pagamentos
 
 1 - No caso de se verificarem sérias dificuldades a nível da balança de pagamentos e da situação financeira externa ou de existir uma ameaça de dificuldades desse tipo, um Membro poderá adoptar ou manter restrições ao comércio de serviços em relação aos quais tenha assumido compromissos específicos, incluindo as restrições aos pagamentos ou transferências relativos a transacções relacionadas com esses compromissos. Reconhece-se que determinadas pressões sobre a balança de pagamentos de um Membro em processo de desenvolvimento económico ou de transição económica poderão exigir o recurso a restrições para assegurar, inter alia, a manutenção de um nível de reservas financeiras adequado para a implementação do seu programa de desenvolvimento económico ou de transição económica.
 
@@ -16433,17 +16430,13 @@ e) No decurso dessas consultas, todos os dados de natureza estatística ou outra
 
 (nota 4) Os procedimentos nos termos do n.º 5 serão idênticos aos previstos no âmbito do GATT de 1994.
 
-Artigo XIII
-
-Contratos públicos
+###### Artigo XIII — Contratos públicos
 
 1 - Os artigos II, XVI e XVII não serão aplicáveis às disposições legislativas e regulamentares nem aos requisitos que regem os contratos públicos celebrados por organismos públicos e referentes a serviços adquiridos para dar resposta a necessidades dos poderes públicos, e não com vista à revenda numa perspectiva comercial ou com vista à sua utilização no âmbito da prestação de serviços para venda numa perspectiva comercial.
 
 2 - No prazo de dois anos a contar da data de entrada em vigor do Acordo OMC, serão organizadas negociações multilaterais sobre contratos públicos de serviços abrangidos pelo presente Acordo.
 
-Artigo XIV
-
-Excepções gerais
+###### Artigo XIV — Excepções gerais
 
 Na condição de essas medidas não serem aplicadas de um modo que constitua um meio de discriminação arbitrária ou injustificável entre países em que existem condições idênticas, ou uma restrição dissimulada ao comércio de serviços, nenhuma disposição do presente Acordo poderá ser interpretada no sentido de impedir a adopção ou a aplicação por qualquer Membro de medidas:
 
@@ -16481,9 +16474,7 @@ vi) Determinem, atribuam ou repartam rendimentos, lucros, ganhos, perdas, débit
 
 Os termos ou conceitos fiscais constantes da alínea d) do artigo XIV e da presente nota de pé-de-página são determinados de acordo com as definições e conceitos fiscais, ou com definições e conceitos equivalentes ou semelhantes, ao abrigo da legislação interna do Membro que toma a medida.
 
-Artigo XIV-A
-
-Excepções por razões de segurança
+###### Artigo XIV-A — Excepções por razões de segurança
 
 1 - Nenhuma disposição do presente Acordo poderá ser interpretada no sentido de:
 
@@ -16501,9 +16492,7 @@ c) Impedir qualquer Membro de tomar medidas em cumprimento das suas obrigações
 
 2 - O Conselho do Comércio de Serviços será informado, tanto quanto possível, das medidas tomadas nos termos das alíneas b) e c) do n.º 1, bem como do termo da sua aplicação.
 
-Artigo XV
-
-Subvenções
+###### Artigo XV — Subvenções
 
 1 - Os Membros reconhecem que, em determinadas circunstâncias, as subvenções poderão ter efeitos de distorção do comércio de serviços. Os Membros encetarão negociações com vista a desenvolver as necessárias disciplinas multilaterais para evitar esses efeitos de distorção do comércio (ver nota 7). As negociações incidirão igualmente sobre a adequação dos procedimentos de compensação. Essas negociações reconhecerão o papel das subvenções para os programas de desenvolvimento dos países em desenvolvimento e terão em conta as necessidades dos Membros, nomeadamente os países em desenvolvimento Membros, em termos de flexibilidade neste domínio. Para efeitos dessas negociações, os Membros trocarão informações sobre todas as subvenções relacionadas com o comércio de serviços que concedam aos prestadores de serviços nacionais.
 
@@ -16511,11 +16500,9 @@ Subvenções
 
 (nota 7) Um futuro programa de trabalho determinará o modo como serão conduzidas as negociações sobre essas disciplinas multilaterais, bem como o respectivo calendário.
 
-# PARTE III — Compromissos específicos
+## PARTE III — Compromissos específicos
 
-Artigo XVI
-
-Acesso ao mercado
+###### Artigo XVI — Acesso ao mercado
 
 1 - No que diz respeito ao acesso ao mercado através dos modos de prestação definidos no artigo I, cada Membro concederá aos serviços e aos prestadores de serviços de qualquer outro Membro um tratamento não menos favorável do que o concedido de acordo com as condições e limitações acordadas e especificadas na sua lista (ver nota 8).
 
@@ -16537,9 +16524,7 @@ f) Limitações à participação de capital estrangeiro através da fixação d
 
 (nota 9) A alínea c) do n.º 2 não abrange as medidas de um Membro que limitem os factores utilizados na prestação de serviços.
 
-Artigo XVII
-
-Tratamento nacional
+###### Artigo XVII — Tratamento nacional
 
 1 - Nos termos inscritos na sua lista, e tendo em conta as condições e qualificações aí estabelecidas, cada Membro concederá aos serviços e aos prestadores de serviços de qualquer outro Membro, relativamente a todas as medidas que afectem a prestação de serviços, um tratamento não menos favorável do que o que concede aos serviços e prestadores de serviços nacionais comparáveis (ver nota 10).
 
@@ -16549,17 +16534,13 @@ Tratamento nacional
 
 (nota 10) Os compromissos específicos assumidos ao abrigo do presente artigo não poderão ser interpretados no sentido de exigir que qualquer Membro ofereça uma compensação por quaisquer desvantagens concorrenciais inerentes que resultem do facto de os serviços ou prestadores de serviços em questão serem estrangeiros.
 
-Artigo XVIII
-
-Compromissos adicionais
+###### Artigo XVIII — Compromissos adicionais
 
 Os Membros poderão negociar compromissos relativamente a medidas que afectem o comércio de serviços não sujeitas a inscrição nas listas nos termos do disposto nos artigos XVI ou XVII, nomeadamente as referentes a qualificações, normas ou questões de licenciamento. Esses compromissos serão inscritos na lista do Membro.
 
-# PARTE IV — Liberalização progressiva
+## PARTE IV — Liberalização progressiva
 
-Artigo XIX
-
-Negociação de compromissos específicos
+###### Artigo XIX — Negociação de compromissos específicos
 
 1 - Para prossecução dos objectivos do presente Acordo, os Membros iniciarão rondas de negociações sucessivas, com início o mais tardar cinco anos a contar da data de entrada em vigor do Acordo OMC e depois periodicamente, com vista a alcançar um nível progressivamente superior de liberalização. Essas negociações terão por objecto reduzir ou eliminar os efeitos adversos de certas medidas sobre o comércio de serviços, de modo a proporcionar um acesso efectivo ao mercado. Este processo desenrolar-se-á com vista a promover os interesses de todos os participantes numa base mutuamente vantajosa e a assegurar um equilíbrio global dos direitos e obrigações.
 
@@ -16569,9 +16550,7 @@ Negociação de compromissos específicos
 
 4 - O processo de liberalização progressiva será desenvolvido em cada uma dessas rondas através de negociações bilaterais, plurilaterais ou multilaterais destinadas a aumentar o nível geral de compromissos específicos assumidos pelos Membros ao abrigo do presente Acordo.
 
-Artigo XX
-
-Listas de compromissos específicos
+###### Artigo XX — Listas de compromissos específicos
 
 1 - Cada Membro estabelecerá uma lista incluindo os compromissos específicos que assume ao abrigo da parte III do presente Acordo. No que diz respeito aos sectores em que esses compromissos são assumidos, cada lista deverá especificar:
 
@@ -16589,9 +16568,7 @@ e) A data de entrada em vigor desses compromissos.
 
 3 - As listas de compromissos específicos serão anexas ao presente Acordo, constituindo uma parte integrante do mesmo.
 
-Artigo XXI
-
-Alteração das listas
+###### Artigo XXI — Alteração das listas
 
 1 - a) Um Membro (designado por «Membro que introduz uma alteração» no presente artigo) poderá alterar ou retirar qualquer compromisso constante da sua lista a qualquer momento após decorridos três anos a contar da data em que esse compromisso entrou em vigor, de acordo com o disposto no presente artigo.
 
@@ -16611,11 +16588,9 @@ b) Caso o Membro que introduz uma alteração implemente a alteração ou retira
 
 5 - O Conselho do Comércio de Serviços estabelecerá procedimentos para a rectificação ou alteração das listas. Qualquer Membro que tenha alterado ou retirado compromissos inscritos nas listas ao abrigo do disposto no presente artigo procederá à alteração da sua lista de acordo com esses procedimentos.
 
-# PARTE V — Disposições institucionais
+## PARTE V — Disposições institucionais
 
-Artigo XXII
-
-Consultas
+###### Artigo XXII — Consultas
 
 1 - Cada Membro mostrará boa receptividade e facultará a possibilidade de consultas relativamente aos factos que possam ser apresentados por qualquer outro Membro sobre qualquer questão que afecte a aplicação do presente Acordo. O Memorando de Entendimento sobre a Resolução de Litígios (MERL) será aplicável a essas consultas.
 
@@ -16625,9 +16600,7 @@ Consultas
 
 (nota 11) No que diz respeito aos acordos destinados a evitar a dupla tributação existentes na data da entrada em vigor do Acordo OMC, essa questão só poderá ser submetida ao Conselho do Comércio de Serviços com o consentimento de ambas as partes num acordo desse tipo.
 
-Artigo XXIII
-
-Resolução de litígios e execução
+###### Artigo XXIII — Resolução de litígios e execução
 
 1 - Caso um Membro considere que qualquer outro Membro não cumpre as suas obrigações ou compromissos específicos ao abrigo do presente Acordo, esse Membro poderá recorrer ao MERL com vista a obter uma resolução mutuamente satisfatória da questão.
 
@@ -16635,9 +16608,7 @@ Resolução de litígios e execução
 
 3 - Caso um Membro considere que qualquer vantagem de que razoavelmente deveria beneficiar nos termos de um compromisso específico de outro Membro ao abrigo do disposto na parte III do presente Acordo é anulada ou comprometida na sequência da aplicação de qualquer medida que não infringe o disposto no presente Acordo, esse Membro poderá recorrer ao MERL. Se o ORL considerar que a medida anulou ou comprometeu essa vantagem, o Membro afectado terá direito a uma compensação mutuamente satisfatória com base no disposto no n.º 2 do artigo XXI, que poderá incluir a alteração ou retirada da medida. Caso os Membros em questão não consigam chegar a acordo, será aplicável o disposto no artigo 22.º do MERL.
 
-Artigo XXIV
-
-Conselho do Comércio de Serviços
+###### Artigo XXIV — Conselho do Comércio de Serviços
 
 1 - O Conselho do Comércio de Serviços desempenhará as funções que lhe sejam atribuídas com vista a facilitar a aplicação do presente Acordo e a promover os seus objectivos. O Conselho poderá instituir os órgãos auxiliares que considere adequados para o correcto desempenho das suas funções.
 
@@ -16645,25 +16616,19 @@ Conselho do Comércio de Serviços
 
 3 - O Presidente do Conselho será eleito pelos Membros.
 
-Artigo XXV
-
-Cooperação técnica
+###### Artigo XXV — Cooperação técnica
 
 1 - Os prestadores de serviços dos Membros que necessitem de uma assistência desse tipo terão acesso aos serviços dos pontos de contacto referidos no n.º 2 do artigo VI.
 
 2 - A assistência técnica aos países em desenvolvimento será prestada a nível multilateral pelo Secretariado, sendo decidida pelo Conselho do Comércio de Serviços.
 
-Artigo XXVI
-
-Relações com outras organizações internacionais
+###### Artigo XXVI — Relações com outras organizações internacionais
 
 O Conselho Geral tomará as providências adequadas com vista à consulta e cooperação com as Nações Unidas e os seus organismos especializados, bem como com outras organizações intergovernamentais que intervenham na área dos serviços.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
-Artigo XXVII
-
-Recusa da concessão de benefícios
+###### Artigo XXVII — Recusa da concessão de benefícios
 
 Um Membro poderá recusar a concessão dos benefícios decorrentes do presente Acordo:
 
@@ -16677,9 +16642,7 @@ ii) Por uma pessoa de um não Membro, ou de um Membro em relação ao qual o Mem
 
 c) A um prestador de serviços que seja uma pessoa colectiva, caso determine que não se trata de um prestador de serviços de outro Membro ou que se trata de um prestador de serviços de um Membro em relação ao qual o Membro que impõe a recusa não aplica o Acordo OMC.
 
-Artigo XXVIII
-
-Definições
+###### Artigo XXVIII — Definições
 
 Para efeitos do disposto no presente Acordo:
 
@@ -16757,13 +16720,11 @@ o) Os «impostos directos» abrangem todos os impostos sobre o rendimento global
 
 (nota 12) Sempre que o serviço não seja prestado directamente por uma pessoa colectiva, mas através de outras formas de presença comercial, tais como uma sucursal ou uma representação, o prestador de serviços (ou seja, a pessoa colectiva) beneficiará, no entanto, em virtude dessa presença, do tratamento previsto para os prestadores de serviços ao abrigo do presente Acordo. Esse tratamento será concedido à presença através da qual o serviço é prestado, não devendo necessariamente ser alargado a quaisquer outras unidades do prestador situadas fora do território em que o serviço é prestado.
 
-Artigo XXIX
-
-Anexos
+###### Artigo XXIX — Anexos
 
 Os anexos do presente Acordo constituem uma parte integrante do mesmo.
 
-## ANEXO RELATIVO ÀS ISENÇÕES DAS OBRIGAÇÕES PREVISTAS NO ARTIGO II
+ANEXO RELATIVO ÀS ISENÇÕES DAS OBRIGAÇÕES PREVISTAS NO ARTIGO II
 
 Âmbito de aplicação
 
@@ -16793,7 +16754,7 @@ Listas de isenções das obrigações previstas no artigo II
 
 [As listas de isenções das obrigações previstas no n.º 2 do artigo II acordadas serão incluídas neste Anexo no exemplar de tratado do Acordo OMC.]
 
-## ANEXO RELATIVO À CIRCULAÇÃO DE PESSOAS SINGULARES QUE PRESTAM SERVIÇOS AO ABRIGO DO ACORDO
+ANEXO RELATIVO À CIRCULAÇÃO DE PESSOAS SINGULARES QUE PRESTAM SERVIÇOS AO ABRIGO DO ACORDO
 
 1 - O presente Anexo é aplicável às medidas que afectem as pessoas singulares que sejam prestadores de serviços de um Membro e as pessoas singulares de um Membro que sejam contratadas por um prestador de serviços de um Membro, no que diz respeito à prestação de um serviço.
 
@@ -16805,7 +16766,7 @@ Listas de isenções das obrigações previstas no artigo II
 
 (nota 1) O simples facto de exigir um visto a pessoas singulares de certos Membros e não às de outros não será considerado como uma medida que anula ou compromete os benefícios ao abrigo de um compromisso específico.
 
-## ANEXO RELATIVO AOS SERVIÇOS DE TRANSPORTE AÉREO
+ANEXO RELATIVO AOS SERVIÇOS DE TRANSPORTE AÉREO
 
 1 - O presente Anexo é aplicável às medidas que afectem o comércio de serviços de transporte aéreo, regulares ou não, e de serviços acessórios. Confirma-se que nenhum compromisso específico ou obrigação assumidos nos termos do presente Acordo reduzirá ou afectará as obrigações de um Membro ao abrigo de acordos bilaterais ou multilaterais em vigor na data de entrada em vigor do Acordo OMC.
 
@@ -16837,7 +16798,7 @@ c) Entende-se por «serviços de sistemas informatizados de reserva (SIR)» os s
 
 d) Entende-se por «direitos de tráfego» o direito de operar serviços regulares e não regulares, abrangendo o transporte de passageiros, carga e correio contra remuneração ou mediante locação, a partir de, em direcção a, no interior de ou sobre o território de um Membro, incluindo os pontos a servir, as rotas a operar, os tipos de tráfego a efectuar, a capacidade a fornecer, as tarifas a aplicar e respectivas condições e os critérios de designação das companhias aéreas, incluindo critérios como o número, a propriedade e o controlo.
 
-## ANEXO RELATIVO AOS SERVIÇOS FINANCEIROS
+ANEXO RELATIVO AOS SERVIÇOS FINANCEIROS
 
 1 - Âmbito de aplicação e definição
 
@@ -16947,7 +16908,7 @@ SEGUNDO ANEXO RELATIVO AOS SERVIÇOS FINANCEIROS
 
 3 - O Conselho do Comércio de Serviços estabelecerá os procedimentos necessários para aplicação dos n.os 1 e 2.
 
-## ANEXO RELATIVO ÀS NEGOCIAÇÕES SOBRE SERVIÇOS DE TRANSPORTE MARÍTIMO
+ANEXO RELATIVO ÀS NEGOCIAÇÕES SOBRE SERVIÇOS DE TRANSPORTE MARÍTIMO
 
 1 - O artigo II e o Anexo relativo às isenções das obrigações previstos no artigo II, incluindo a exigência de inscrever no Anexo qualquer medida incompatível com o princípio do tratamento da nação mais favorecida que um Membro pretenda manter, só entrarão em vigor, no que diz respeito ao transporte marítimo internacional, aos serviços acessórios e ao acesso e utilização de instalações portuárias:
 
@@ -16959,7 +16920,7 @@ b) Caso as negociações não sejam bem sucedidas, na data do relatório final d
 
 3 - A partir da conclusão das negociações referidas no n.º 1 e antes da data de implementação, um Membro poderá melhorar, alterar ou retirar a totalidade ou parte dos seus compromissos específicos neste sector sem proceder a qualquer compensação, não obstante o disposto no artigo XXI.
 
-## ANEXO RELATIVO ÀS TELECOMUNICAÇÕES
+ANEXO RELATIVO ÀS TELECOMUNICAÇÕES
 
 1 - Objectivos
 
@@ -17057,7 +17018,7 @@ b) Os Membros reconhecem o papel desempenhado pelas organizações e acordos int
 
 (nota 2) A expressão «não discriminatórias» refere-se ao tratamento na nação mais favorecida e ao tratamento nacional conforme definidos no Acordo, reflectindo igualmente a utilização desse termo específica no sector, no sentido de «condições não menos favoráveis do que as concedidas a qualquer outro utilizador de redes ou serviços públicos de transporte de telecomunicações idênticos nas mesmas circunstâncias».
 
-## ANEXO RELATIVO ÀS NEGOCIAÇÕES SOBRE TELECOMUNICAÇÕES DE BASE
+ANEXO RELATIVO ÀS NEGOCIAÇÕES SOBRE TELECOMUNICAÇÕES DE BASE
 
 1 - O artigo II e o Anexo relativo às isenções das obrigações previstas no artigo II, incluindo a exigência de enumerar no Anexo qualquer medida incompatível com o princípio do tratamento da nação mais favorecida que um Membro pretenda manter, apenas entrarão em vigor, no que se refere às telecomunicações de base:
 
@@ -17435,7 +17396,7 @@ Modos de prestação:
 
 4) Presença de pessoas singulares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ## ANEXO — Glossário
 
@@ -17513,7 +17474,7 @@ Comunidades Europeias e seus Estados Membros
 
 Comunidades Europeias e seus Estados membros - Lista final das isenções das obrigações previstas no artigo II (NMF)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 ## ANEXO 1C
 
@@ -17549,7 +17510,7 @@ Desejosos de estabelecer uma relação de mútuo apoio entre a OMC e a Organiza�
 
 acordam no seguinte:
 
-# PARTE I — Disposições gerais e princípios básicos
+## PARTE I — Disposições gerais e princípios básicos
 
 ###### Artigo 1.º — Natureza e âmbito das obrigações
 
@@ -17607,7 +17568,7 @@ A protecção e a aplicação efectiva dos direitos de propriedade intelectual d
 
 2 - Poderá ser necessário adoptar medidas adequadas, desde que compatíveis com o disposto no presente Acordo, a fim de impedir a utilização abusiva de direitos de propriedade intelectual por parte dos titulares de direitos ou o recurso a práticas que restrijam de forma não razoável o comércio ou que prejudiquem a transferência internacional de tecnologia.
 
-# PARTE II — Normas relativas à existência, âmbito e exercício dos direitos de propriedade intelectual
+## PARTE II — Normas relativas à existência, âmbito e exercício dos direitos de propriedade intelectual
 
 #### SECÇÃO 1 — Direito de autor e direitos conexos
 
@@ -17915,7 +17876,7 @@ c) Tenham sido objecto de diligências consideráveis, atendendo às circunstân
 
 4 - Um Membro cujos nacionais ou pessoas domiciliadas no seu território sejam objecto de processos noutro Membro relativamente a uma alegada violação das disposições legislativas e regulamentares desse outro Membro relativas ao objecto da presente secção verá ser-lhe facultada por parte do outro Membro, mediante pedido, a possibilidade de proceder a consultas em condições idênticas às previstas no n.º 3.
 
-# PARTE III — Aplicação efectiva dos direitos de propriedade intelectual
+## PARTE III — Aplicação efectiva dos direitos de propriedade intelectual
 
 #### SECÇÃO 1 — Obrigações gerais
 
@@ -18067,7 +18028,7 @@ Os Membros podem excluir da aplicação das disposições precedentes as mercado
 
 Os Membros preverão processos penais e penas aplicáveis pelo menos em casos de contrafacção deliberada de uma marca ou de pirataria em relação ao direito de autor numa escala comercial. As sanções possíveis incluirão a prisão e/ou sanções pecuniárias suficientes para constituir um factor dissuasivo, em conformidade com o nível de penas aplicadas a delitos de gravidade correspondente. Nos casos apropriados, as sanções possíveis incluirão igualmente a apreensão, arresto e destruição das mercadorias em infracção e de quaisquer materiais e instrumentos que tenham sido utilizados predominantemente na prática do delito. Os Membros podem prever a aplicação de processos penais e penas correspondentes noutros casos de infracção dos direitos de propriedade intelectual, especialmente quando essas infracções sejam cometidas deliberadamente e numa escala comercial.
 
-# PARTE IV
+## PARTE IV
 
 Aquisição e manutenção dos direitos de propriedade intelectual e correspondentes processos inter partes.
 
@@ -18083,7 +18044,7 @@ Aquisição e manutenção dos direitos de propriedade intelectual e corresponde
 
 5 - As decisões administrativas finais em qualquer dos processos referidos no n.º 4 serão susceptíveis de revisão por uma autoridade judicial ou quase judicial. No entanto, não existirá qualquer obrigação de facultar essa possibilidade de revisão das decisões nos casos de oposição rejeitada ou de revogação administrativa, desde que os motivos na base desses processos possam ser objecto de processos de anulação.
 
-# PARTE V — Prevenção e resolução de litígios
+## PARTE V — Prevenção e resolução de litígios
 
 ###### Artigo 63.º — Transparência
 
@@ -18103,7 +18064,7 @@ Aquisição e manutenção dos direitos de propriedade intelectual e corresponde
 
 3 - Durante o período referido no n.º 2, o Conselho TRIPS examinará o âmbito e modalidades das queixas do tipo previsto nas alíneas b) e c) do n.º 1 do artigo XXIII do GATT de 1994 formuladas em conformidade com o presente Acordo e apresentará as suas recomendações à Conferência Ministerial para aprovação. Qualquer decisão da Conferência Ministerial de aprovar essas recomendações ou de prolongar o período referido no n.º 2 só poderá ser tomada por consenso e as recomendações aprovadas produzirão efeitos para todos os Membros sem qualquer outro processo formal de aceitação.
 
-# PARTE VI — Disposições transitórias
+## PARTE VI — Disposições transitórias
 
 ###### Artigo 65.º — Disposições transitórias
 
@@ -18127,7 +18088,7 @@ Aquisição e manutenção dos direitos de propriedade intelectual e corresponde
 
 A fim de facilitar a implementação do presente Acordo, os países desenvolvidos Membros criarão condições para uma cooperação técnica e financeira a favor dos países em desenvolvimento e menos desenvolvidos Membros, mediante pedido e em condições acordadas mutuamente. Essa cooperação incluirá a assistência a nível da elaboração das disposições legislativas e regulamentares em matéria de protecção e aplicação efectiva dos direitos de propriedade intelectual e de prevenção do seu abuso, bem como o apoio relativamente ao estabelecimento ou reforço de gabinetes e agências nacionais competentes nesta matéria, incluindo a formação de pessoal.
 
-# PARTE VII — Disposições institucionais; disposições finais
+## PARTE VII — Disposições institucionais; disposições finais
 
 ###### Artigo 68.º — Conselho dos Aspectos dos Direitos de Propriedade Intelectual Relacionados com o Comércio
 
@@ -18613,7 +18574,7 @@ b) Nos casos que envolvam questões abrangidas pelo presente número, se um pain
 
 3 - O Secretariado organizará cursos de formação especiais para os Membros interessados em matéria de procedimentos e práticas de resolução de litígios, a fim de permitir que os peritos dos Membros estejam melhor informados a este respeito.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 ACORDOS ABRANGIDOS PELO PRESENTE MEMORANDO
 
@@ -18621,13 +18582,13 @@ A) Acordo que institui a Organização Mundial do Comércio.
 
 B) Acordos comerciais multilaterais:
 
-## Anexo 1A: Acordos Multilaterais sobre o Comércio de Mercadorias;
+Anexo 1A: Acordos Multilaterais sobre o Comércio de Mercadorias;
 
-## Anexo 1B: Acordo Geral sobre o Comércio de Serviços;
+Anexo 1B: Acordo Geral sobre o Comércio de Serviços;
 
-## Anexo 1C: Acordo sobre os Aspectos do Direito de Propriedade Intelectual Relacionados com o Comércio;
+Anexo 1C: Acordo sobre os Aspectos do Direito de Propriedade Intelectual Relacionados com o Comércio;
 
-## Anexo 2: Memorando de Entendimento sobre as Regras e Processos Que Regem a Resolução de Litígios.
+Anexo 2: Memorando de Entendimento sobre as Regras e Processos Que Regem a Resolução de Litígios.
 
 C) Acordos comerciais plurilaterais:
 
@@ -18643,17 +18604,17 @@ Acordo Internacional sobre a Carne de Bovino.
 
 A aplicabilidade do presente Memorando aos acordos comerciais plurilaterais fica sujeita à adopção de uma decisão pelas partes em cada um dos acordos definindo os termos da aplicação do Memorando ao acordo individual, incluindo quaisquer normas ou procedimentos especiais ou complementares a incluir no Apêndice 2, tal como notificado ao ORL.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 REGRAS E PROCEDIMENTOS ESPECIAIS OU COMPLEMENTARES PREVISTOS NOS ACORDOS ABRANGIDOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf))](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298a05/07561227.pdf)
 
 A lista das normas e procedimentos previstos no presente Apêndice inclui disposições em que apenas uma parte das mesmas é relevante neste contexto.
 
 Quaisquer normas ou procedimentos especiais ou complementares previstos nos acordos comerciais plurilaterais tal como definidos pelos órgãos competentes de cada acordo e tal como notificados ao ORL.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 REGULAMENTO INTERNO
 
@@ -18709,7 +18670,7 @@ k) Apresentação do relatório final aos Membros: 3 semanas.
 
 O calendário apresentado supra pode ser alterado devido a quaisquer imprevistos. Se necessário, realizar-se-ão reuniões adicionais com as partes.
 
-## APÊNDICE 4
+APÊNDICE 4
 
 GRUPOS DE PERITOS
 

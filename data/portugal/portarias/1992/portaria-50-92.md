@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/1992/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-1992-150910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c6b1052725bf240e65cb73b5aeaf9c4acbee58d55d81e40b071f966a97af3fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d383c3b66bb92ec08aeb955c7370fdc4da1db207c915d3f7f29ecea5d78e0958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - Código do IRS
 - Impresso
 - IRS
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:41Z'
   warnings: []
   errors: []
 ---
@@ -123,8 +127,8 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 8.º do [Decr
 
 Ministério das Finanças.
 
-**Assinada em 29 de Novembro de 1991.**
+Assinada em 29 de Novembro de 1991.
 
-**O Ministro das Finanças, Jorge Braga de Macedo.**
+O Ministro das Finanças, Jorge Braga de Macedo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/025b00/06420658.pdf))](https://files.diariodarepublica.pt/1s/1992/01/025b00/06420658.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/025b00/06420658.pdf)

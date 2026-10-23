@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/45/2004/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-2004-276779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf03d5980bc0ce3149be5b1399f529fdad6a90883a7df974e70efc4225695836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74baf28df4fccc28ff3e9070d24aefb0190243c9cde9403809eee5678107ea05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,24 @@ reuse:
 subjects:
 - Agente Aduaneiro
 - Assistência Mútua
+- Bruxelas
 - CE Países
 - Circulação de Capitais
+- Circulação de Mercadorias
+- Comércio
 - Comunidade Europeia
+- Confidencialidade
 - Convenção
 - Cooperação Aduaneira
 - Cooperação Transfronteira
-- Portugal
-- Circulação de Mercadorias
-- Confidencialidade
 - Dados Pessoais
-- Comércio
-- Bruxelas
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:276783:por
+  label: "Ratificada a Convenção aprovada para ratificação, pelo DEC.29/2004.25.06.2004.PR, DR.IS-A [148] de 25.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-2004-276783
+  date: '2004-06-25'
 - type: cites
   target: celex:31992R2913
   label: null
@@ -97,13 +102,13 @@ relationships:
 article_structure:
   article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:37Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +141,7 @@ b) Para o efeito, segundo as regras previstas na alínea b) do n.º 5 do artigo 
 
 Aprovada em 6 de Maio de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 CONVENÇÃO, ESTABELECIDA COM BASE NO ARTIGO K.3 DO TRATADO DA UNIÃO EUROPEIA, RELATIVA À ASSISTÊNCIA MÚTUA E À COOPERAÇÃO ENTRE AS ADMINISTRAÇÕES ADUANEIRAS.
 
@@ -700,4 +705,4 @@ Declaração
 
 A República Federal da Alemanha, a República Italiana e a República da Áustria reservam-se o direito de dispor na sua legislação nacional que, sempre que uma questão relativa à interpretação da Convenção relativa à Assistência Mútua e à Cooperação entre as Administrações Aduaneiras seja suscitada em processo pendente perante um órgão jurisdicional nacional cujas decisões não sejam susceptíveis de recurso judicial previsto no direito interno, esse órgão é obrigado a submeter a questão ao Tribunal de Justiça das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/06/148a00/39133926.pdf))](https://files.diariodarepublica.pt/1s/2004/06/148a00/39133926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/06/148a00/39133926.pdf)

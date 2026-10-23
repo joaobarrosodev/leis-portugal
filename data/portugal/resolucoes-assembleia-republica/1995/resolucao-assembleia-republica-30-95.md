@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/1995/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-1995-519641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90e473d1ca9aaf9ae79b87298abb8b6128af504224669048e6ae370a58ac1034
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27ebecc8912304ccd7e310c9388960de566bdaea7bfcbdf18ae59283ce07fbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - Comunicação por Satélite
+- Convenção
 - Inmarsat
 - Londres
+- Portugal
 - Privilegios e Imunidades
 relationships: []
 article_structure:
-  article_count: 27
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:07Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +93,19 @@ Aprova para ratificação, o Protocolo Relativo aos Privilégios, Isenções e I
 
 A Assembleia da República resolve, nos termos dos artigos 164.°, alínea j), e 169.°, n.º 5, da Constituição, o seguinte:
 
-###### Artigo único. - 1 - Aprovar, para ratificação, o Protocolo Relativo aos Privilégios, Isenções e Imunidades da Organização Internacional de Satélites Marítimos (INMARSAT), cujo texto original em inglês e a respectiva tradução para português seguem em anexo à presente resolução.
+Artigo único. - 1 - Aprovar, para ratificação, o Protocolo Relativo aos Privilégios, Isenções e Imunidades da Organização Internacional de Satélites Marítimos (INMARSAT), cujo texto original em inglês e a respectiva tradução para português seguem em anexo à presente resolução.
 
 2 - A aprovação é feita sem prejuízo das seguintes reservas:
 
-###### Artigo 4.°, n.º 1 - a isenção constante desta disposição aplica-se à INMARSAT, no quadro das suas actividades oficiais, relativamente aos seus rendimentos e bens, incluindo o sector espacial da INMARSAT, no respeitante aos impostos sobre o rendimento e aos impostos sobre o património, cabendo a Portugal a respectiva classificação;
+Artigo 4.°, n.º 1 - a isenção constante desta disposição aplica-se à INMARSAT, no quadro das suas actividades oficiais, relativamente aos seus rendimentos e bens, incluindo o sector espacial da INMARSAT, no respeitante aos impostos sobre o rendimento e aos impostos sobre o património, cabendo a Portugal a respectiva classificação;
 
-###### Artigo 7.°, n.º 2 - a isenção estabelecida nesta disposição não abrange quaisquer prestações ou benefícios similares às pensões ou rendas nela referidos nem os nacionais portugueses e os residentes permanentes em Portugal;
+Artigo 7.°, n.º 2 - a isenção estabelecida nesta disposição não abrange quaisquer prestações ou benefícios similares às pensões ou rendas nela referidos nem os nacionais portugueses e os residentes permanentes em Portugal;
 
-###### Artigo 7.°, n.º 3 - o regime de isenção contributiva previsto nesta disposição deverá ser objecto de acordo a celebrar nos termos do artigo 18.°
+Artigo 7.°, n.º 3 - o regime de isenção contributiva previsto nesta disposição deverá ser objecto de acordo a celebrar nos termos do artigo 18.°
 
 Aprovada em 16 de Fevereiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE -INTERNATIONAL MARITIME SATELLITE ORGANIZATION (INMARSAT).
 

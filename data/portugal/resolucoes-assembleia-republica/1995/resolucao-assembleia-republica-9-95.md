@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/9/1995/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1995-205627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62c9319e28a386838bddeb53de41faa6e3fc3ffa8ace0d079525b5c6dcb20995
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7c791570eaa9c15954933a40ba0f1c13b2ead908dd8e1f6d1ab837c9c7b5bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- UEO
-- Roma
 - Bruxelas
+- Convenção
 - Grécia
+- Portugal
+- Roma
+- UEO
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:39Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 27 de Outubro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOL OF ACCESSION OF THE HELLENIC REPUBLIC TO WESTERN EUROPEAN UNION TOGETHER WITH AN ANNEX.
 
@@ -212,15 +212,15 @@ Considerando que o alargamento da União da Europa Ocidental à República Helé
 
 acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Pelo presente Protocolo, a República Helénica adere ao Tratado.
 
-Artigo II
+###### Artigo II
 
 Por força da sua adesão ao Tratado, a República Helénica torna-se parte nos Acordos concluídos entre os Estados membros, cujos textos se encontram enumerados em anexo ao presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 Cada um dos Estados signatários notificará o Governo Belga da aceitação, aprovação ou ratificação do presente Protocolo, o qual entrará em vigor no dia da recepção da última dessas notificações. O Governo Belga informará os Estados signatários dessas notificações e da entrada em vigor do presente Protocolo.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 188/2005, 1º Suplemento, Série I-A de 2005-09-29
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5874-(2) a 5874-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/188a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52-a/2005/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-a-2005-301577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:16:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b2bde3bcb5ff60c53156c24bf8fc8f721d757dd4ab0b4965ff59af4cf248e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b261b07f840871b0cac51bd2e79fe79b95dd081aeb89ed158542629a047845a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:16:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Aborto
 - Referendo
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:481287:por
+  label: "Considerado insconstitucional e ilegal o presente diploma, pela AC.578/2005.28.10.2005.TCS, DR.IS-A [220] de 16.11.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/578-2005-481287
+  date: '2005-10-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:16:47Z'
   warnings: []
   errors: []
 ---
@@ -93,4 +99,4 @@ A Assembleia da República resolve, nos termos e para os efeitos do artigo 115.�
 
 Aprovada em 28 de Setembro de 2005.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.

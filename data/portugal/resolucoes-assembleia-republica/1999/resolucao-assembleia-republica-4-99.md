@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/1999/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1999-180471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eaea13d5867f667fb8f1ecafd7ee8e119d31fb3e9f46c38526ecdcf75e4175b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8136f4b276edd22dd9fcdc89a34807dd4cbae031b15148a50e34d740fad7971
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Hungria
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Hungria
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
 - Tributação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:180469:por
+  label: "Ratificada a convenção aprovada para ratificação pelo presente diploma, pelo DEC.63/99.1999.01.28.PR, DR.IS-A [23]\
+    \ de 28/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-1999-180469
+  date: '1999-01-28'
 article_structure:
   article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:40Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 10 de Abril de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA HUNGRIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -509,7 +515,7 @@ Feita em Lisboa, aos 16 dias do mês de Maio de 1995, em dois originais, nas lí
 
 Pela República Portuguesa:
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)
 
 [(ver texto em língua húngara no documento original)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)
 
@@ -993,4 +999,4 @@ Done at Lisbon, on 16th May, in two originals, each in the Portuguese, Hungarian
 
 For the Portuguese Republic:
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)](https://files.diariodarepublica.pt/1s/1999/01/023a00/04870512.pdf)

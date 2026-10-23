@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/63/2000/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/63-2000-300778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc65b425bc911d65271c2385dc7769f47bdfd2e0129075eb13a0dcbfe1e1e8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5b2dfcc1728d87ef9380dd18a32b5d2de267f8a35a75a1a9fd2dda9a11cf202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cabo Verde
 - Cidade da Praia
 - Convenção
-- Portugal
-- Imposto sobre o Rendimento
-- Cabo Verde
 - Dupla Tributação
 - Evasão Fiscal
-relationships: []
+- Imposto sobre o Rendimento
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:300777:por
+  label: "Ratificada a presente Convenção pelo DEC.33/2000.2000.07.12.PR,DR.IS-A [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/33-2000-300777
+  date: '2000-07-12'
 article_structure:
   article_count: 31
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:08:00Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Abril de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA DE CABO VERDE E A REPÚBLICA PORTUGUESA PARA EVITAR A DUPLA TRIBUTAÇÃO EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E PREVENIR A EVASÃO FISCAL.
 
@@ -533,11 +538,11 @@ Feito na Praia, em 22 de Março de 1999, em dois exemplares em língua portugues
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
 
 Pelo Governo da República de Cabo Verde:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
 
 PROTOCOLO
 
@@ -555,8 +560,8 @@ Feito em duplicado, na Praia, em 22 de Março de 1999, em língua portuguesa, se
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
 
 Pelo Governo da República de Cabo Verde:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)](https://files.diariodarepublica.pt/1s/2000/07/159a00/31153124.pdf)

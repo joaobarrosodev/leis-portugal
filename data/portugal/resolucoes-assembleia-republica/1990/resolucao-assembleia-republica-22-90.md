@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1990-554996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 943590f19115142a70eea5d550dc05663ceb4157a34657d98e70344bbf03b3c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a4883b37dd36f164414ddaadfe216be535ce0c4d3a0e562ac3e77c14a98ea2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Europa
+- Convenção
+- Direitos do Homem
+- Direitos e Liberdades
+- Estrasburgo
+- Expulsão de Estrangeiros
+- Liberdades Fundamentais
+- Portugal
+- Roma
 relationships:
 - type: amended_by
   target: pt:dre:381301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554986:por
+  label: "Ratificado o Protocolo n.º 7 à Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais, pelo\
+    \ DEC.51/90.27.09.1990.PR, DR.IS [224] de 27.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-1990-554986
+  date: '1990-09-27'
+- type: amended_by
+  target: pt:dre:381301:por
+  label: "Alterado o Protocolo aprovado para ratificação pelo presente diploma pelo Protocolo nº 11, aprovado para ratificação\
+    \ pela Res 21/97.1997.04.04.AR, DR.IS-A [102] de 03/Mai/1997 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/21-1997-381301
+  date: '1997-04-04'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:42Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +124,7 @@ b) Declarar o reconhecimento da jurisdição obrigatória, de pleno direito e se
 
 Aprovada em 13 de Julho de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 PROTOCOLE N.º 7 À LA CONVENTION DE SAUVEGARDE DES DROITS DE L'HOMME ET DES LIBERTÉS FONDAMENTALES
 
@@ -263,7 +284,7 @@ O presente Protocolo fica aberto à assinatura dos Estados membros do Conselho d
 
 ###### Artigo 10.º
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho da Europa:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho da Europa:
 
 a) Qualquer assinatura;
 

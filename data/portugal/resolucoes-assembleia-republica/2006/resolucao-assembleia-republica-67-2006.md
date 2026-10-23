@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/67/2006/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/67-2006-545583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c65b8388b84f87706b5955ab8395e1e4951277e8b7d937c42d295d111b3d724c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65ac5873876c7862b75853f44f5877b222b350711e7e50cbf85b131b8396186a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Chipre
 - Contrato
 - Convenção
-- Portugal
-- Eslovénia
-- Hungria
-- Obrigações
-- Polónia
-- República Checa
-- Letónia
-- Roma
-- Chipre
 - Eslováquia
+- Eslovénia
 - Estónia
+- Hungria
+- Letónia
+- Lituânia
 - Luxemburgo
 - Malta
-- Lituânia
-relationships: []
+- Obrigações
+- Polónia
+- Portugal
+- República Checa
+- Roma
+relationships:
+- type: amended_by
+  target: pt:dre:545579:por
+  label: "Ratificada a Convenção sobre a Adesão de vários países à Convenção sobre a Lei Aplicável às Obrigações Contratuais,\
+    \ bem como ao Primeiro e Segundo Protocolos Relativos à Sua Interpretação pelo Tribunal de Justiça das Comunidades Europeias,\
+    \ aprovada para ratificação pelo presente diploma, pelo DEC.123/2006.11.12.2006.PR, DR.IS [236] de 11.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/123-2006-545579
+  date: '2006-12-11'
 article_structure:
   article_count: 7
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:34Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +115,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENÇÃO SOBRE A ADESÃO DA REPÚBLICA CHECA, DA REPÚBLICA DA ESTÓNIA, DA REPÚBLICA DE CHIPRE, DA REPÚBLICA DA LETÓNIA, DA REPÚBLICA DA LITUÂNIA, DA REPÚBLICA DA HUNGRIA, DA REPÚBLICA DE MALTA, DA REPÚBLICA DA POLÓNIA, DA REPÚBLICA DA ESLOVÉNIA E DA REPÚBLICA ESLOVACA À CONVENÇÃO SOBRE A LEI APLICÁVEL ÀS OBRIGAÇÕES CONTRATUAIS, ABERTA À ASSINATURA EM ROMA EM 19 DE JUNHO DE 1980, BEM COMO AO PRIMEIRO E SEGUNDO PROTOCOLOS RELATIVOS À SUA INTERPRETAÇÃO PELO TRIBUNAL DE JUSTIÇA DAS COMUNIDADES EUROPEIAS.
 
@@ -148,7 +155,7 @@ a) Entre o primeiro e o segundo travessões:
 
 «- Na República Checa:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
 
 b) Entre o terceiro e o quarto travessões:
 
@@ -160,21 +167,21 @@ c) Entre o oitavo e o nono travessões:
 
 «- Em Chipre:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
 
 - Na Letónia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
 
 - Na Lituânia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
 
 d) Entre o nono e o décimo travessões:
 
 «- Na Hungria:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
 
 - Em Malta:
 
@@ -184,17 +191,17 @@ e) Entre o décimo primeiro e o décimo segundo travessões:
 
 «- Na Polónia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
 
 f) Entre o décimo segundo e o décimo terceiro travessões:
 
 «- Na Eslovénia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)
 
 - Na Eslováquia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
+[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)](https://files.diariodarepublica.pt/1s/2006/12/23600/82988301.pdf)»
 
 ## TÍTULO III — Disposições finais
 
@@ -216,7 +223,7 @@ A presente Convenção deve ser ratificada pelos Estados signatários. Os instru
 
 ###### Artigo 6.º
 
-**O Secretário-Geral do Conselho da União Europeia notifica os Estados signatários:**
+O Secretário-Geral do Conselho da União Europeia notifica os Estados signatários:
 
 a) Do depósito de cada instrumento de ratificação;
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31/1997/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-1997-396751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43f242f362c90f98ba0f879017e6fabb83b8cefc4799dce33d7706e85986107c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a603418eeb47026137a3517e1d56ef2ef4aafb5426345f90b9f3169fe27b91ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
+- Áustria
 - Bélgica
 - CE Países
 - Convenção
-- Portugal
-- RFA
+- França
 - Fronteiras
-- Áustria
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
+- Luxemburgo
 - Países Baixos
+- Portugal
+- RFA
 - Schengen
 - Sistema de Informação Schengen
-- França
-- Luxemburgo
 relationships: []
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:13Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +105,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 27 de Fevereiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLO DE ADESÃO DO GOVERNO DA REPÚBLICA DA ÁUSTRIA AO ACORDO ENTRE OS GOVERNOS DOS ESTADOS DA UNIÃO ECONÓMICA BENELUX, DA REPÚBLICA FEDERAL DA ALEMANHA E DA REPÚBLICA FRANCESA RELATIVO À SUPRESSÃO GRADUAL DOS CONTROLOS NAS FRONTEIRAS COMUNS, ASSINADO EM SCHENGEN A 14 DE JUNHO DE 1985, TAL COMO ALTERADO PELOS PROTOCOLOS RELATIVOS À ADESÃO DOS GOVERNOS DA REPÚBLICA ITALIANA, DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA E DA REPÚBLICA HELÉNICA, ASSINADOS, RESPECTIVAMENTE, A 27 DE NOVEMBRO DE 1990, A 25 DE JUNHO DE 1991 E A 6 DE NOVEMBRO DE 1992.
 
@@ -147,4 +147,4 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, apuser
 
 Feito em Bruxelas, a 28 de Abril de 1995, nas línguas alemã, espanhola, francesa, grega, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos sete textos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/113a00/24182419.pdf))](https://files.diariodarepublica.pt/1s/1997/05/113a00/24182419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/113a00/24182419.pdf)

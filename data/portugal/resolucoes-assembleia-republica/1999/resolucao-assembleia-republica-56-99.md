@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56/1999/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-1999-375455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3cda2df0834223b66c4097379f9a940a560dde76142586ff49d90c30f048c6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99822ad8b16c6c840e0009215b15890f9c1c1ae7fdbc1a8066ef09c563a1577e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,28 @@ reuse:
 subjects:
 - Bucareste
 - Convenção
-- Portugal
-- Imposto de Capitais
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
-relationships: []
+- Imposto de Capitais
+- Imposto sobre o Rendimento
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:375449:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.164/99.1999.07.10.PR DR.IS-A [159]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/164-1999-375449
+  date: '1999-07-10'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:03Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 12 de Março de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A ROMÉNIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO E O CAPITAL.
 
@@ -519,11 +525,11 @@ Feito em duplicado, em Bucareste, aos 16 dias do mês de Setembro de 1997, nas l
 
 Pela República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Alberto Rebelo dos Reis Lamego.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Alberto Rebelo dos Reis Lamego.
 
 Pela Roménia:
 
-**O Secretário de Estado, Ministério dos Negócios Estrangeiros, Lazar Comanescu.**
+O Secretário de Estado, Ministério dos Negócios Estrangeiros, Lazar Comanescu.
 
 PROTOCOLO
 
@@ -551,11 +557,11 @@ Feito em duplicado, em Bucareste, aos 16 dias do mês de Setembro de 1997, nas l
 
 Pela República Portuguesa:
 
-**O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Alberto Rebelo dos Reis Lamego.**
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Alberto Rebelo dos Reis Lamego.
 
 Pela Roménia:
 
-**O Secretário de Estado, Ministério dos Negócios Estrangeiros, Lazar Comanescu.**
+O Secretário de Estado, Ministério dos Negócios Estrangeiros, Lazar Comanescu.
 
 [(ver texto em romeno no documento original)](https://files.diariodarepublica.pt/1s/1999/07/159a00/43094336.pdf)
 

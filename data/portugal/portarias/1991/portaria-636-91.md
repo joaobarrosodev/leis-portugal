@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/636/1991/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-1991-673178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4e6d4b02593acac00c9e493f1002f52cf8aa6938dd08cb1f9546979c4c28035
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16b0b53cc08191ceac11a5ccdd529ffe1b4241314805e0a0dd6b9176778f3db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,72 @@ relationships:
   target: pt:dre:602978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486928:por
+  label: "Anexado o prédio rústico denominado \"Herdade da Chaminé\" à zona de caça turística criada pelo presente diploma,\
+    \ pela PORT.387/98.1998.07.03.MECO, DR.IS-B [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1998-486928
+  date: '1998-07-03'
+- type: amended_by
+  target: pt:dre:652971:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, alterada pela Port 387/98, de 03-Jul, pela PORT.712/2003.2003.08.04.MECO,\
+    \ DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/712-2003-652971
+  date: '2003-08-04'
+- type: amended_by
+  target: pt:dre:628333:por
+  label: "Desanexado um prédio rústico, da zona de caça concessionada pelo presente diploma, alterada pela Port 387/98, de\
+    \ 03-Jul e pela Port 712/2003, de 04-Ago, pela PORT.1489/2007.20.11.2007.MADRP, DR.IS [223] de 20.11.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1489-2007-628333
+  date: '2007-11-20'
+- type: amended_by
+  target: pt:dre:248020:por
+  label: "Desanexados vários prédios rústicos, da zona de caça concessionada pelo presente diploma, alterada pela Port 387/98,\
+    \ de 03-Jul, pela Port 712/2003, de 04-Ago e pela Port 1489/2007, de 20-Nov, pela PORT.136/2008.14.02.2008.MADRP, DR.IS\
+    \ [32] de 14.02.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-2008-248020
+  date: '2008-02-14'
+- type: amended_by
+  target: pt:dre:602978:por
+  label: "Desanexado o prédio rústico denominado Herdade da Chaminé da zona de caça turística concessionada pelo presente\
+    \ diploma, alterada pela Port 387/98, de 03-Jul, pela Port 712/2003, de 04-Ago, pela Port 1489/2007, de 20-Nov e pela\
+    \ Port 136/2008, de 14-Fev, pela PORT.89/2009.23.01.2009.MADRP, DR.IS [16] de 23.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-2009-602978
+  date: '2009-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:24Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +172,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Junho de 1991.**
+Assinada em 25 de Junho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/158b00/35473548.pdf))](https://files.diariodarepublica.pt/1s/1991/07/158b00/35473548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/158b00/35473548.pdf)

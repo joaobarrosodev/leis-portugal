@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/64/1998/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/64-1998-211200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ce03775db5cc9fae5b1c9772697e82254b127f16ae02cf6e6b621cb782823c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eafdd7806f0548266068f459b0ecae1609aecf0916971b4d00cdb221ebf15499
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amianto
-- Higiene do Trabalho
 - Convenção
+- Higiene do Trabalho
+- OIT
 - Portugal
 - Segurança no Trabalho
-- OIT
 relationships: []
 article_structure:
   article_count: 30
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:44Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 9 de Outubro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENTION Nº 162
 
@@ -383,7 +383,7 @@ Após ter decidido que essas propostas tomariam a forma de uma convenção inter
 
 adopta, neste dia 24 de Junho de 1986, a seguinte Convenção, que será denominada Convenção sobre o amianto, 1986.
 
-# PARTE I — Âmbito e definições
+## PARTE I — Âmbito e definições
 
 ###### Artigo 1.º
 
@@ -411,7 +411,7 @@ f) A expressão «os trabalhadores» é extensível aos membros das cooperativas
 
 g) A expressão «representantes dos trabalhadores» significa os representantes dos trabalhadores reconhecidos como tais pela legislação ou pela prática nacionais, em conformidade com a Convenção sobre os representantes dos trabalhadores, 1971.
 
-# PARTE II — Princípios gerais
+## PARTE II — Princípios gerais
 
 ###### Artigo 3.º
 
@@ -449,7 +449,7 @@ Os trabalhadores devem, dentro dos limites da sua responsabilidade, respeitar as
 
 Os empregadores e os trabalhadores ou os seus representantes devem colaborar tão estreitamente quanto possível, a todos os níveis da empresa, para aplicar as medidas estabelecidas de acordo com a presente Convenção.
 
-# PARTE III — Medidas de protecção e de prevenção
+## PARTE III — Medidas de protecção e de prevenção
 
 ###### Artigo 9.º
 
@@ -533,7 +533,7 @@ c) Tomar providências para a eliminação dos resíduos que contenham amianto, 
 
 2 - A autoridade competente e os empregadores devem tomar medidas adequadas para prevenir a poluição do ambiente em geral pelas poeiras de amianto emitidas a partir dos locais de trabalho.
 
-# PARTE IV — Vigilância do ambiente de trabalho e da saúde dos trabalhadores
+## PARTE IV — Vigilância do ambiente de trabalho e da saúde dos trabalhadores
 
 ###### Artigo 20.º
 
@@ -557,7 +557,7 @@ c) Tomar providências para a eliminação dos resíduos que contenham amianto, 
 
 5 - A autoridade competente deve elaborar um sistema de notificação das doenças profissionais causadas pelo amianto.
 
-# PARTE V — Informação e educação
+## PARTE V — Informação e educação
 
 ###### Artigo 22.º
 
@@ -567,7 +567,7 @@ c) Tomar providências para a eliminação dos resíduos que contenham amianto, 
 
 3 - O empregador deve assegurar que todos os trabalhadores expostos ou susceptíveis de exposição ao amianto sejam informados sobre os riscos que o seu trabalho comporta para a saúde e instruídos sobre as medidas de prevenção, assim como sobre os métodos correctos de trabalho, e que recebam uma formação contínua nesses domínios.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 23.º
 

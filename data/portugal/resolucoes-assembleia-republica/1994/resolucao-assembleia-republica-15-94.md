@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/15/1994/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1994-282276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d13fafe5c775a7860004760eafa0bde06f763a69985fe8d128679147f4a02b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ae2d697888b572072e5e5d723e5fb61f85452227ea83b8c290272e753e3b54d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Convenção
-- Portugal
 - Expulsão de Estrangeiros
 - França
-- Admissão de Estrangeiros
+- Portugal
 relationships: []
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:57Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +94,17 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 16 de Dezembro de 1993. do em Paris a 8 de Março de 1993, cuja versão
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-**Assinada em 25 de Fevereiro de 1994.**
+Assinada em 25 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendada em 1 de Março de 1994.**
+Referendada em 1 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FRANCESA RELATIVO À READMISSÃO DE PESSOAS EM SITUAÇÃO IRREGULAR.
 
@@ -258,11 +258,11 @@ Feito em Paris, em 8 de Março de 1993, em dois exemplares, em português e fran
 
 Pela República Portuguesa:
 
-**O Ministro da Administração Interna de Portugal, Manuel Joaquim Dias Loureiro.**
+O Ministro da Administração Interna de Portugal, Manuel Joaquim Dias Loureiro.
 
 Pela República Francesa:
 
-**O Ministro do Interior e da Segurança Pública de França, Paul Quiles.**
+O Ministro do Interior e da Segurança Pública de França, Paul Quiles.
 
 ACCORD ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE FRANÇAISE SUR LA RÉADMISSION DE PERSONNES EN SITUATION IRRÉGULIÀERE.
 

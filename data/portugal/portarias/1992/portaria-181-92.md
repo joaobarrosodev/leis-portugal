@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/181/1992/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-1992-178522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2db6e88b0b18554e3eea34566ab4529c39a33a67ba34a692be5e2d197d74dd97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4a9bb6a89d3098fb2d2ddbd2af8e94b3306eb56e672944d0ad0df397a5ecd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Comunidades Europeias
+- Ministério dos Negócios Estrangeiros
 - Pessoal de BAD
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/344/1991/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/344/1991/09/17/p/dre
+- type: cites
+  target: pt:dre:301457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:39Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +113,10 @@ Manda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, ao 
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 20 de Dezembro de 1991.**
+Assinada em 20 de Dezembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, Vítor Ângelo Mendes da Costa Martins, Secretário de Estado da Integração Europeia.
 
 Mapa anexo à Portaria n.º 181/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/063b00/13301330.pdf))](https://files.diariodarepublica.pt/1s/1992/03/063b00/13301330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/063b00/13301330.pdf)

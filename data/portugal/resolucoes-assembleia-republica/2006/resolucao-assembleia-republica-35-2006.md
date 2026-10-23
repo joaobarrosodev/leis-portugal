@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/2006/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2006-661919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f07e44769951d9973cdbe5fc5d2dfd33f43389240ca611694c073460f00d6d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e42bed757471fc9e1a221265fee580694acd6c4e10c6528596c92c006b3312d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,18 @@ reuse:
 subjects:
 - Aruba
 - Convenção
-- Portugal
 - IRS
 - Juros
+- Portugal
 - Poupança
 - Rendimento
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:661923:por
+  label: "Ratificado o Acordo pelo DEC.48/2006.28.04.2006.PR, DR.IS-A [83] de 28.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/48-2006-661923
+  date: '2006-04-28'
 - type: cites
   target: celex:31976L0308
   label: null
@@ -89,15 +94,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2003/48/oj
 article_structure:
-  article_count: 8
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:48Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +115,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de Janeiro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO SOB FORMA DE TROCA DE CARTAS RELATIVO À TRIBUTAÇÃO DOS RENDIMENTOS DA POUPANÇA E À RESPECTIVA APLICAÇÃO PROVISÓRIA.
 
@@ -158,11 +163,11 @@ Queira aceitar, Exmo. Senhor, os protestos da nossa mais elevada consideração.
 
 Por Aruba:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
 Feito na Haia, em 9 de Novembro de 2004, em três cópias.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 CONVENÇÃO ENTRE O REINO DOS PAÍSES BAIXOS, RELATIVAMENTE A ARUBA, E A REPÚBLICA PORTUGUESA, SOBRE A TROCA AUTOMÁTICA DE INFORMAÇÃO EM MATÉRIA DE RENDIMENTOS DA POUPANÇA SOB A FORMA DE JUROS.
 
@@ -220,7 +225,9 @@ Cada Estado Contratante deve adoptar e garantir a aplicação, no seu territóri
 
 Os Estados Contratantes aprovarão e publicarão, antes de 1 de Janeiro de 2005, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente Convenção.
 
-###### Artigo 6.º — Anexo
+###### Artigo 6.º
+
+## Anexo
 
 Os textos da directiva e do artigo 7.º da Directiva n.º [77/799/CEE](http://data.europa.eu/eli/dir/1977/799/oj?locale=pt), do Conselho da União Europeia, de 19 de Dezembro, relativa à assistência mútua das autoridades competentes dos Estados membros no domínio dos impostos directos e indirectos, aplicáveis na data da assinatura da presente Convenção, estão apensos enquanto anexo à Convenção, da qual fazem parte integrante. O texto do artigo 7.º da Directiva n.º [77/799/CEE](http://data.europa.eu/eli/dir/1977/799/oj?locale=pt) nesse anexo será substituído pelo texto do mesmo artigo na Directiva n.º [77/799/CEE](http://data.europa.eu/eli/dir/1977/799/oj?locale=pt) revista, caso esta última entre em vigor antes da data a partir da qual entrarão em vigor as disposições da presente Convenção.
 
@@ -236,13 +243,15 @@ Feito nas línguas portuguesa, inglesa e neerlandesa, fazendo igualmente fé qua
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
 Pelo Reino dos Países Baixos, relativamente a Aruba:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
-## ANEXO — Artigo 7.º
+## ANEXO
+
+###### Artigo 7.º
 
 Disposições relativas ao sigilo
 
@@ -308,7 +317,7 @@ Please accept, Sir, the assurance of my highest consideration.
 
 For Aruba:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
 Done at The Hague, on 9th November 2004, in the English language, in three copies.
 
@@ -402,11 +411,11 @@ Done in the Portuguese, English and Dutch languages all texts being equally auth
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
 For the Kingdom of the Netherlands in respect of Aruba:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf))](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/083a00/30723081.pdf)
 
 ANNEX
 

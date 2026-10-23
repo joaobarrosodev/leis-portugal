@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/54/1994/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-1994-219486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23271121e506bb6d471acbb8694f157fc1cbaa1ac300a773fd80f3c5efc5d02c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e9de60c9bb40f1fbefe9de431a1fbbd2cef1c1b1d1b4eb1d513a5e664c4d9b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Tempo de Serviço
 - Assistência Médica
+- Brasil
 - Brasília
 - Convenção
-- Portugal
-- Brasil
+- Doença Profissional
+- Incapacidade Física
 - Pensão de Invalidez
 - Pensão de Velhice
-- Doença Profissional
+- Portugal
 - Prestações da Segurança Social
 - Prestações Familiares
-- Incapacidade Física
 - Regime Especial de Previdência
 - Regime Geral da Segurança Social
 - Remuneração
@@ -86,21 +85,32 @@ subjects:
 - Subsídio de Doença
 - Subsídio de Maternidade
 - Subsídio por Morte
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:604600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604600:por
+  label: "Aprovado o Acordo que altera o Acordo aprovado pelo presente diploma. pela RES.6/2009.26.02.2009.AR, DR.IS [40]\
+    \ de 26.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/6-2009-604600
+  date: '2009-02-26'
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
 article_structure:
   article_count: 50
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:49Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +123,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 5 de Maio de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO DE SEGURANÇA SOCIAL OU SEGURIDADE SOCIAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL.
 

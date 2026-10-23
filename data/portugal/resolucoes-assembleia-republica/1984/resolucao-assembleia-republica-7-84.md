@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/7-1984-661137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48191f84975ef5fdb733b94d175a82ac73392126677a9c3e393634737a74a480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2fe3419d779fd638475208ba09dd621c5022c7959a38c3ef73edc18920c1539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Florença
+- Importação
+- Isenção Fiscal
+- Material Científico
+- Material de Ensino
+- Portugal
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:632041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632041:por
+  label: "Estendida ao território de Macau a convenção aprovada pelo presente diploma, pelo DEC.226/99.1999.12.09.PR DR.IS-A\
+    \ [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/226-1999-632041
+  date: '1999-12-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:24Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +107,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 Accord pour l'Importation d'Objets de Caractère Éducatif, Scientifique ou Culturel
 
@@ -787,7 +801,7 @@ Qualquer Estado contratante poderá, no momento da assinatura ou do depósito do
 
 ###### ARTIGO 15.º
 
-**O Secretário-Geral da Organização das Nações Unidas informará os Estados visados no n.º 1 do artigo 9.º, bem como a Organização das Nações Unidas para a educação, ciência e cultura e a Organização Internacional do Comércio (provisoriamente a sua comissão interina), do depósito de todos os instrumentos de ratificação ou de adesão mencionados nos artigos 9.º e 10.º, do mesmo modo que das notificações e denúncia respectivamente previstas nos artigos 13.º e 14.º**
+O Secretário-Geral da Organização das Nações Unidas informará os Estados visados no n.º 1 do artigo 9.º, bem como a Organização das Nações Unidas para a educação, ciência e cultura e a Organização Internacional do Comércio (provisoriamente a sua comissão interina), do depósito de todos os instrumentos de ratificação ou de adesão mencionados nos artigos 9.º e 10.º, do mesmo modo que das notificações e denúncia respectivamente previstas nos artigos 13.º e 14.º
 
 ###### ARTIGO 16.º
 
@@ -1209,4 +1223,4 @@ i) Materiais utilizados na produção de livros, publicações e documentos (pas
 
 ii) Máquinas para tratamento da pasta de papel e do papel, máquinas para impressão e encadernação, desde que não sejam actualmente fabricadas no país de importação máquinas de valor técnico equivalente.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

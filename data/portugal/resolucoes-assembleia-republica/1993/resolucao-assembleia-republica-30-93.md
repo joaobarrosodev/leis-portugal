@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 231/1993, 1º Suplemento, Série I-A de 1993-10-01
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5556-(2) a 5556-(158)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-1993-275842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b121b8a7a13b76b5b055a64a8000ab6cda91190672d496a30d0cb29b9c75cd0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 745d5f53d750d90409956e3f0dbd5fd7b050822112d398ca4f9d445966b17e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
+- ACTO Constitutivo
 - Congresso Postal Universal
 - Convenção
-- Portugal
 - Hamburgo
-- ACTO Constitutivo
+- Portugal
 - Regulamento
-relationships: []
+- Serviço Postal
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RATIFICADOS PELO DECRETO 51/93, DO PR, DE 1 DE OUTUBRO, PUBLICADO NO DR.IS-A, 235, SUPL, DE 931001.\031001.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:253048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 247
-  section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 16 de Outubro de 1990.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ## ANEXO — TROISIÈME PROTOCOLE ADDITIONNEL À LA CONSTITUTION DE L'UNION POSTALE UNIVERSELLE (ver nota 1)
 
@@ -904,7 +912,7 @@ Taxes d'affranchissement et limites de poids et de dimensions. Conditions géné
 
 1 - Les taxes d'affranchissement pour le transport des envois de la poste aux lettres dans toute l'étendue de l'Union ainsi que les limites de poids et de dimensions sont fixées conformément aux indications des colonnes 1, 2, 3, 6 et 7 du tableau ci-après. Les taxes de base (col. 3) peuvent être majorées de 100 pour cent (col. 4) ou réduites de 70 pour cent (col. 5) au maximum. Elles comprennent, sauf l'exception prévue à l'article 25, paragraphe 6, la remise des envois au domicile des destinataires pour autant que ce service de distribution soit organisé dans les pays de destination pour les envois dont il s'agit.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - A titre exceptionnel, les Pays-membres peuvent modifier la structure d'échelons de poids indiqués au paragraphe 1, sous réserve des conditions suivantes:
 
@@ -938,7 +946,7 @@ Article 20
 
 Envois normalisés
 
-1 - Dans le cadre des dispositions de l'article 19, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieur à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)(valeur approchée: 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
+1 - Dans le cadre des dispositions de l'article 19, paragraphe 1, sont considérés comme normalisés les envois de forme rectangulaire dont la longueur n'est pas inférieur à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)(valeur approchée: 1,4) et qui répondent, selon leur présentation, aux conditions suivantes:
 
 a) Envois sous enveloppe:
 
@@ -1052,7 +1060,7 @@ Taxes spéciales
 
 1 - Les taxes prévues dans la Convention et qui sont perçues en plus des taxes d'affranchissement mentionnées à l'article 19 sont dénommés «taxes spéciales». Leur montant est fixé conformément aux indications du tableau ci-dessous:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - Les Pays-membres qui appliquent dans leur service intérieur des taxes supérieures à celles qui sont indiquées au paragraphe 1 sont autorisés à appliquer ces mêmes taxes dans le service international.
 
@@ -1650,7 +1658,7 @@ Barèmes des frais de transit
 
 1 - Les frais de transit prévus à l'article 62, paragraphe 1, sont calculés d'après les barèmes indiqués dans le tableau ci-après:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - Les distances servant à déterminer les frais de transit d'après le tableau du paragraphe 1 sont empruntées:
 
@@ -1762,7 +1770,7 @@ a) Dimensions minimales: identiques à celles prescrites pour les lettres;
 
 b) Dimensions maximales: 110 mm x 220 mm;
 
-et telles que la longueur soit égale ou supérieure à la largeur multipliée par [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf) (valeur approchée: 1,4).
+et telles que la longueur soit égale ou supérieure à la largeur multipliée par [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf) (valeur approchée: 1,4).
 
 3 - Le recto de l'aérogramme est réservé à l'adresse, à l'affranchissement et aux mentions ou étiquettes de service. Il porte obligatoirement la mention imprimée «Aérogramme» et, facultativement, une mention équivalente dans la langue du pays d'origine. L'aérogramme ne doit contenir aucun objet. Il peut être expédié sous recommandation si la réglementation du pays d'origine le permet.
 
@@ -2622,7 +2630,7 @@ f) Les abeilles vivantes, les sangsues et les parasites doivent être enfermés 
 
 3 - Les envois contenant des médicaments urgents doivent être munis, du côté qui porte l'adresse du destinataire, d'une étiquette de couleur vert clair portant la mention et le symbole suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 4 - Il n'est pas exigé d'emballage pour les objets d'une seule pièce, tels que pièces de bois, pièces métalliques, etc., qu'il n'est pas dans les usages du commerce d'emballer. Dans ce cas, l'adresse du destinataire doit être indiquée sur l'objet lui-même.
 
@@ -2650,7 +2658,7 @@ b) Lorsqu'il s'agit de substances réfrigérées ou congelées pendant le transp
 
 4 - La boîte externe ainsi que l'emballage extérieur, s'il y a lieu, doivent être munis, du côte qui porte les adresses du laboratoire expéditeur et du laboratoire de destination dûment autorisés, d'une étiquette normalisée en forme de losange de 10 cm x 10 cm ou de 5 cm x 5 cm, avec lettres noires sur fond blanc. La moitié supérieure porte le symbole approuvé pour les substances infectieuses et la moitié inférieure, les mots «Substance infectieuse. En cas de dommage ou de fuite, avertir immédiatemente les autorités de santé publique». Cette étiquette se présent comme suit:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 Article 120
 
@@ -2658,7 +2666,7 @@ Conditionnement. Matières biologiques périssables non infectieuses
 
 Les lettres contenant des matières biologiques périssables non infectieuses sont soumises aux règles spéciales de conditionnement ci-après: les matières biologiques périssables qui ne contiennent ni micro-organismes pathogènes vivants ni virus pathogènes vivants doivent être emballées à l'intérieur d'un récipient imperméable interne, d'un récipient protecteur externe, d'une substance absorbante placée soit dans le récipient interne, soit entre les récipents interne et externe; cette substance doit être en quantité suffisante pour absorber en cas de bris tout le liquide contenu ou susceptible de se former dans le récipient interne. Par ailleurs, le contenu des récipents tant interne qu'externe doit être emballé de façon à éviter tout déplacement. Des dispositions particulières, telles que dessiccation sous congélation et emballage de glace, doivent être prises pour assurer la conservation des matières sensibles aux températures élevées. Le transport par la voie aérienne, qui comporte des changements de pression atmosphérique, exige, si le matériel est conditionné en ampoules scellées ou en bouteilles bien bouchées, que ces récipients soient assez solides pour résister aux variations de pression. Le récipient externe ainsi que l'emballage extérieur de l'envoi doivent être munis, du côte qui porte les adresses du laboratoire expéditeur et du laboratoire de destination, d'une étiquette de couleur violette portant la mention et le symbole suivants:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 Article 121
 
@@ -3558,7 +3566,7 @@ Dépêches échangées avec des unités militaires mises à la disposition de l'
 
 2 - La suscription de ces dépêches est rédigée comme suit:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 3 - Les dépêches dont il s'agit sont acheminées par la voie la plus rapide (aérienne ou de surface) selon l'indication portée sur l'adresse et dans les mêmes conditions que les dépêches échangées entre bureaux de poste.
 
@@ -4458,9 +4466,13 @@ REGULAMENTO GERAL DA UNIÃO POSTAL UNIVERSAL
 
 Os abaixo assinados, plenipotenciários dos governos dos Países membros da União, em virtude do artigo 22, parágrafo 2, da Constituição da União Postal Universal, celebrada em Viena em 10 de Julho de 1964, estabeleceram no presente Regulamento Geral, de comum acordo e sob reserva do artigo 25, parágrafo 3, da referida Constituição, as disposições seguintes, que asseguram a aplicação da Constituição e o funcionamento da União:
 
-### Capítulo I — Funcionamento dos órgãos da União
+Capítulo I
 
-###### Artigo 101 — Organização e reunião dos congressos e congressos extraordinários
+Funcionamento dos órgãos da União
+
+Artigo 101
+
+Organização e reunião dos congressos e congressos extraordinários
 
 1 - Os representantes dos Países membros reúnem-se em congresso o mais tardar cinco anos depois da data de entrada em vigor dos actos do congresso anterior.
 
@@ -4478,7 +4490,9 @@ Os abaixo assinados, plenipotenciários dos governos dos Países membros da Uni�
 
 8 - Os parágrafos 2 a 6 são aplicáveis, por analogia, aos congressos extraordinários.
 
-###### Artigo 102 — Composição, funcionamento e reuniões do Conselho Executivo
+Artigo 102
+
+Composição, funcionamento e reuniões do Conselho Executivo
 
 1 - O Conselho Executivo compõe-se de um presidente e de 39 membros, que exercem as suas funções durante o período que medeia entre dois congressos sucessivos.
 
@@ -4560,7 +4574,9 @@ x) Decidir se se devem ou não substituir por relatórios as actas das sessões 
 
 14 - O Conselho Executivo pode convidar para as suas reuniões, sem direito a voto, qualquer organismo internacional ou outra pessoa qualificada que o referido Conselho deseje associar aos seus trabalhos. Pode também convidar, nas mesmas condições, uma ou mais administrações postais dos Países membros interessados em questões previstas na sua ordem do dia.
 
-###### Artigo 103 — Documentação das actividades do Conselho Executivo
+Artigo 103
+
+Documentação das actividades do Conselho Executivo
 
 1 - O Conselho Executivo envia às administrações postais dos Países membros da União e às uniões restritas, a título informativo, no final de cada reunião:
 
@@ -4570,7 +4586,9 @@ b) Os «Documentos do Conselho Executivo», contendo os relatórios, as delibera
 
 2 - O Conselho Executivo apresenta ao Congresso um relatório sobre o conjunto da sua actividade, transmitindo-o às administrações postais pelo menos dois meses antes da abertura do Congresso.
 
-###### Artigo 104 — Composição, funcionamento e reuniões do Conselho Consultivo dos Estudos Postais
+Artigo 104
+
+Composição, funcionamento e reuniões do Conselho Consultivo dos Estudos Postais
 
 1 - O Conselho Consultivo dos Estudos Postais compõe-se de 35 membros, que exercem as suas funções durante o período que medeia entre dois congressos sucessivos.
 
@@ -4616,7 +4634,9 @@ a) Qualquer organismo internacional ou qualquer outra pessoa qualificada que des
 
 b) As administrações postais dos Países membros que não façam parte do Conselho Consultivo.
 
-###### Artigo 105 — Documentação das actividades do Conselho Consultivo dos Estudos Postais
+Artigo 105
+
+Documentação das actividades do Conselho Consultivo dos Estudos Postais
 
 1 - O Conselho Consultivo dos Estudos Postais dirige às administrações postais dos Países membros e às uniões restritas, para informação, depois de cada sessão:
 
@@ -4628,13 +4648,17 @@ b) Os «Documentos do Conselho Consultivo dos Estudos Postais», contendo os rel
 
 3 - O Conselho Consultivo elabora, para apreciação do Congresso, um relatório sobre o conjunto da sua actividade e transmite-o às administrações postais dos Países membros pelo menos dois meses antes da abertura do Congresso.
 
-###### Artigo 106 — Regulamento interno dos congressos
+Artigo 106
+
+Regulamento interno dos congressos
 
 1 - Para a organização dos seus trabalhos e orientação das suas deliberações, o Congresso aplica o regulamento interno dos congressos, que constitui anexo a este Regulamento Geral.
 
 2 - Cada congresso pode modificar este Regulamento, nas condições fixadas no próprio regulamento interno.
 
-###### Artigo 107 — Línguas utilizadas para a publicação de documentos, deliberações e correspondência de serviço
+Artigo 107
+
+Línguas utilizadas para a publicação de documentos, deliberações e correspondência de serviço
 
 1 - Nos documentos da União utilizam-se as línguas francesa, inglesa, árabe e espanhola. São também utilizadas as línguas alemã, chinesa, portuguesa e russa, com a condição de que a reprodução nestas últimas línguas se limite aos documentos de base mais importantes. Outras línguas são igualmente utilizadas desde que daí não resulte um aumento dos encargos a suportar pela União, conforme o parágrafo 6.
 
@@ -4662,9 +4686,13 @@ b) Os «Documentos do Conselho Consultivo dos Estudos Postais», contendo os rel
 
 13 - As administrações postais podem estabelecer acordo a respeito da língua a usar na correspondência de serviço nas suas relações recíprocas. Na falta de tal acordo, a língua a usar é o francês.
 
-### Capítulo II — Secretaria Internacional
+Capítulo II
 
-###### Artigo 108 — Eleição do director-geral e do vice-director-geral da Secretaria Internacional
+Secretaria Internacional
+
+Artigo 108
+
+Eleição do director-geral e do vice-director-geral da Secretaria Internacional
 
 1 - O director-geral e o vice-director-geral da Secretaria Internacional são eleitos pelo Congresso pelo período que medeia entre dois congressos sucessivos, sendo a duração mínima do seu mandato de cinco anos. O seu mandato é renovável por uma vez. Salvo decisão em contrário do Congresso, a data da sua entrada em funções é fixada em 1 de Janeiro do ano posterior ao Congresso.
 
@@ -4676,7 +4704,9 @@ b) Os «Documentos do Conselho Consultivo dos Estudos Postais», contendo os rel
 
 5 - No caso de vacatura do cargo de vice-director-geral, o Conselho Executivo, sob proposta do director-geral, encarrega um dos subdirectores-gerais da Secretaria Internacional de assumir até ao próximo congresso as funções de vice-director-geral.
 
-###### Artigo 109 — Funções de director-geral
+Artigo 109
+
+Funções de director-geral
 
 1 - O director-geral organiza, administra e dirige a Secretaria Internacional, da qual é o representante legal. Tem competência para classificar os postos de trabalho dos níveis G1 a D1 e para nomear e promover os funcionários respectivos. Para as nomeações nos níveis P1 a D1, verifica os títulos de competência profissional dos candidatos recomendados pelas administrações postais dos Países membros dos países de onde são naturais, tendo em conta uma justa distribuição geográfica continental e linguística, assim como quaisquer outras considerações relativas, mas sempre respeitando o regime interno das promoções da Secretaria. Tem igualmente em consideração que, em princípio, as pessoas que ocupem os cargos dos níveis D2, D1 e P5 devem ser naturais de Países membros diferentes. Uma vez por ano, no relatório sobre as actividades da União, dá conhecimento ao Conselho Executivo das nomeações e das promoções aos níveis P4 a D1.
 
@@ -4702,21 +4732,29 @@ Pelo funcionamento do secretariado durante as reuniões dos órgãos da União;
 
 d) Assistir às sessões dos órgãos da União e tomar parte nos debates, sem direito a voto, tendo a possibilidade de se fazer representar.
 
-###### Artigo 110 — Funções de vice-director-geral
+Artigo 110
+
+Funções de vice-director-geral
 
 1 - O vice-director-geral coadjuva o director-geral e é responsável perante ele.
 
 2 - Em caso de ausência ou impedimento do director-geral, o vice-director-geral exerce os poderes daquele. O mesmo se verifica no caso de vacatura do cargo de director-geral previsto no artigo 108, parágrafo 3.
 
-###### Artigo 111 — Secretariado dos órgãos da União
+Artigo 111
+
+Secretariado dos órgãos da União
 
 O secretariado dos órgãos da União é assegurado pela Secretaria Internacional, sob a responsabilidade do director-geral. Endereça todos os documentos publicados por ocasião de cada sessão às administrações postais dos membros do órgão, às administrações postais dos países que, sem serem membros do órgão, colaboram nos estudos empreendidos e às uniões restritas, bem como às outras administrações postais dos Países membros que o solicitarem.
 
-###### Artigo 112 — Lista dos Países membros
+Artigo 112
+
+Lista dos Países membros
 
 A Secretaria Internacional elabora e actualiza a lista dos Países membros da União, indicando a sua classe de contribuição, o seu grupo geográfico e a sua situação em relação aos actos da União.
 
-###### Artigo 113 — Informações. Pareceres. Pedidos de interpretação e de modificação dos actos. Inquéritos. Intervenção na liquidação das contas
+Artigo 113
+
+Informações. Pareceres. Pedidos de interpretação e de modificação dos actos. Inquéritos. Intervenção na liquidação das contas
 
 1 - A Secretaria Internacional deve estar sempre à disposição do Conselho Executivo, do Conselho Consultivo dos Estudos Postais e das administrações postais para lhes facultar informações úteis sobre questões relativas ao serviço.
 
@@ -4728,31 +4766,45 @@ A Secretaria Internacional elabora e actualiza a lista dos Países membros da Un
 
 5 - Intervém, como câmara de compensação, na liquidação de contas de qualquer natureza relativas ao serviço postal internacional entre as administrações postais que reclamem esta intervenção.
 
-###### Artigo 114 — Cooperação técnica
+Artigo 114
+
+Cooperação técnica
 
 A Secretaria Internacional é encarregada, no quadro da cooperação técnica internacional, de desenvolver a assistência técnico-postal sob todas as suas formas.
 
-###### Artigo 115 — Fórmulas fornecidas pela Secretaria Internacional
+Artigo 115
+
+Fórmulas fornecidas pela Secretaria Internacional
 
 A Secretaria Internacional fica encarregada de mandar fazer os bilhetes de identidade postais, os cupões-resposta internacionais, as ordens postais de viagem e as capas das cadernetas das ordens e de abastecer, ao preço de custo, as administrações postais que os pedirem.
 
-###### Artigo 116 — Actos das uniões restritas e acordos especiais
+Artigo 116
+
+Actos das uniões restritas e acordos especiais
 
 1 - As secretarias das uniões restritas ou, se as não houver, uma das Partes Contratantes devem enviar à Secretaria Internacional dois exemplares dos actos destas uniões e dos acordos especiais celebrados de harmonia com o artigo 8 da Constituição.
 
 2 - A Secretaria Internacional é encarregada de zelar para que os actos das uniões restritas e os acordos especiais não prevejam condições menos favoráveis para o público do que as previstas nos actos da União e de informar as administrações postais da existência das uniões e dos referidos acordos. Leva ao conhecimento do Conselho Executivo qualquer irregularidade verificada em virtude da presente disposição.
 
-###### Artigo 117 — Revista da União
+Artigo 117
+
+Revista da União
 
 A Secretaria Internacional redige, com o auxílio de documentos postos à sua disposição, uma revista nas línguas alemã, inglesa, árabe, chinesa, espanhola, francesa e russa.
 
-###### Artigo 118 — Relatório anual das actividades da União
+Artigo 118
+
+Relatório anual das actividades da União
 
 A Secretaria Internacional elabora um relatório anual sobre as actividades da União, o qual é transmitido, depois de aprovado pelo Conselho Executivo, às administrações postais, às uniões restritas e à Organização das Nações Unidas.
 
-### CAPÍTULO III — Formalidades de apresentação e exame de propostas
+CAPÍTULO III
 
-###### Artigo 119 — Formalidades de apresentação de propostas ao Congresso
+Formalidades de apresentação e exame de propostas
+
+Artigo 119
+
+Formalidades de apresentação de propostas ao Congresso
 
 1 - Sob reserva das excepções previstas nos parágrafos 2 e 5, a apresentação de propostas de qualquer natureza ao Congresso pelas administrações postais dos Países membros fica sujeita às seguintes formalidades:
 
@@ -4774,31 +4826,43 @@ e) As declarações de apoio devem chegar à Secretaria Internacional dentro do 
 
 5 - O procedimento determinado nos parágrafos 1 e 4 não se aplicam às propostas respeitantes ao regulamento interno dos congressos nem às emendas das propostas já feitas.
 
-###### Artigo 120 — Formalidades de apresentação das propostas entre dois congressos
+Artigo 120
+
+Formalidades de apresentação das propostas entre dois congressos
 
 1 - Para ser tomada em consideração, qualquer proposta respeitante à Convenção ou aos acordos, apresentada por uma administração postal entre dois congressos, deve ser apoiada pelo menos por duas outras administrações. A essas propostas não será dado qualquer andamento desde que a Secretaria Internacional não receba, na mesma ocasião, o número necessário de declarações de apoio.
 
 2 - Estas propostas são dirigidas às outras administrações postais por intermédio da Secretaria Internacional.
 
-###### Artigo 121 — Exame das propostas entre dois congressos
+Artigo 121
+
+Exame das propostas entre dois congressos
 
 1 - Qualquer proposta fica sujeita ao seguinte tratamento: às administrações postais dos Países membros é concedido um prazo de dois meses para examinarem qualquer proposta notificada por circular da Secretaria Internacional e para, quando for julgado necessário, comunicarem as suas observações à referida Secretaria. Não são admitidas emendas. A Secretaria Internacional reúne as respostas e comunica-as às administrações, convidando-as a pronunciar-se a favor ou contra a proposta. As administrações que não tenham notificado o seu voto no prazo de dois meses são consideradas como tendo-se abstido. Os prazos acima citados são contados a partir da data das circulares da Secretaria Internacional.
 
 2 - Se a proposta disser respeito a qualquer acordo, ao seu regulamento ou aos respectivos protocolos finais, só as administrações postais dos Países membros que sejam partes neste acordo podem intervir nas formalidades indicadas no parágrafo 1.
 
-###### Artigo 122 — Notificação das decisões adoptadas entre dois congressos
+Artigo 122
+
+Notificação das decisões adoptadas entre dois congressos
 
 1 - As modificações introduzidas na Convenção, nos acordos ou nos protocolos finais destes actos são sancionadas por declaração diplomática, que o Governo da Confederação Suíça se encarrega de formular e de transmitir aos governos dos Países membros, a pedido da Secretaria Internacional.
 
 2 - As modificações introduzidas nos regulamentos e nos seus protocolos finais são verificadas pela Secretaria Internacional e por esta notificadas às administrações postais. O mesmo sucede com as interpretações a que se refere o artigo 91, parágrafo 2, alínea c), n.º 2.º, da Convenção e com as disposições correspondentes dos acordos.
 
-###### Artigo 123 — Execução das decisões adoptadas entre dois congressos
+Artigo 123
+
+Execução das decisões adoptadas entre dois congressos
 
 Qualquer decisão adoptada só se torna executória três meses, pelo menos, depois da sua notificação.
 
-### CAPÍTULO IV — Finanças
+CAPÍTULO IV
 
-###### Artigo 124 — Fixação e liquidação das despesas da União
+Finanças
+
+Artigo 124
+
+Fixação e liquidação das despesas da União
 
 1 - Sob reserva dos parágrafos 2 a 6, as despesas anuais relativas às actividades dos órgãos da União não devem exceder as quantias abaixo indicadas para os anos de 1986 e seguintes:
 
@@ -4832,7 +4896,9 @@ No caso de adiamento do Congresso previsto para 1989, o limite estabelecido para
 
 10 - No que respeita à insuficiência temporária de tesouraria, o Governo da Confederação Suíça efectua, a curto prazo, os adiantamentos necessários, nas condições a fixar de comum acordo. Este Governo fiscaliza, sem encargos, a elaboração das contas financeiras, assim como a contabilidade da Secretaria Internacional, dentro dos limites dos créditos fixados pelo Congresso.
 
-###### Artigo 125 — Classes de contribuição
+Artigo 125
+
+Classes de contribuição
 
 1 - Os Países membros contribuem para a cobertura das despesas da União conforme a classe de contribuição à qual pertencem. Estas classes são as seguintes:
 
@@ -4870,13 +4936,19 @@ Classe de 0, 5 unidades, reservadas aos países menos desenvolvidos, segundo a e
 
 7 - Em derrogação dos parágrafos 4 e 5, as passagens à classe superior não estão sujeitas a qualquer restrição.
 
-###### Artigo 126 — Pagamento dos fornecimentos da Secretaria Internacional
+Artigo 126
+
+Pagamento dos fornecimentos da Secretaria Internacional
 
 Os fornecimentos efectuados às administrações postais a título oneroso pela Secretaria Internacional devem ser pagos o mais rapidamente possível e o mais tardar dentro de seis meses a partir do primeiro dia do mês seguinte ao da remessa da conta pela dita Secretaria. Findo este prazo, as quantias devidas vencem juros a favor da União, à taxa de 5% ao ano, a contar do dia em que termina o referido prazo.
 
-### CAPÍTULO V — Arbitragens
+CAPÍTULO V
 
-###### Artigo 127 — Formalidades de arbitragens
+Arbitragens
+
+Artigo 127
+
+Formalidades de arbitragens
 
 1 - Em caso de litígio a decidir por julgamento arbitral, cada uma das administrações postais escolhe uma administração postal de um País membro que não esteja directamente envolvida no litígio. Se várias administrações constituírem causa comum, serão consideradas, para aplicação desta disposição, como uma só administração.
 
@@ -4890,17 +4962,25 @@ Os fornecimentos efectuados às administrações postais a título oneroso pela 
 
 6 - Se a divergência disser respeito a um dos acordos, os árbitros não podem ser escolhidos fora das administrações que executem o respectivo acordo.
 
-### CAPÍTULO VI — Disposições finais
+CAPÍTULO VI
 
-###### Artigo 128 — Condições de aprovação das propostas respeitantes ao Regulamento Geral
+Disposições finais
+
+Artigo 128
+
+Condições de aprovação das propostas respeitantes ao Regulamento Geral
 
 Para se tornarem executórias, as propostas apresentadas ao Congresso e relativas ao presente Regulamento Geral devem ser aprovadas pela maioria dos Países membros representados no Congresso. Dois terços, pelo menos, dos Países membros da União devem estar presentes no momento da votação.
 
-###### Artigo 129 — Propostas respeitantes aos acordos com a Organização das Nações Unidas
+Artigo 129
+
+Propostas respeitantes aos acordos com a Organização das Nações Unidas
 
 Às propostas de modificação dos acordos celebrados entre a União Postal Universal e a Organização das nações Unidas aplicam-se igualmente as condições de aprovação a que se refere o artigo 128 e sempre que estes acordos não prevejam as condições de modificação das disposições que neles figuram.
 
-###### Artigo 130 — Entrada em vigor e duração do Regulamento Geral
+Artigo 130
+
+Entrada em vigor e duração do Regulamento Geral
 
 O presente Regulamento Geral será posto em execução no dia 1 de Janeiro de 1986 e vigorará até que sejam postos em execução os actos do próximo Congresso.
 
@@ -4916,9 +4996,13 @@ I PARTE
 
 Regras comuns aplicáveis ao serviço postal internacional
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1 — Liberdade de trânsito
+Disposições gerais
+
+Artigo 1
+
+Liberdade de trânsito
 
 1 - A liberdade de trânsito, cujo princípio é enunciado no artigo 1 da Constituição, envolve a obrigação para cada administração postal de encaminhar sempre pelas vias mais rápidas que utiliza para as suas próprias malas as malas fechadas e as correspondências postais a descoberto que lhe forem entregues por outra administração. Essa obrigação aplica-se igualmente às correspondências por avião, quer as administrações postais intermediárias tomem ou não parte no seu reencaminhamento.
 
@@ -4932,15 +5016,21 @@ Regras comuns aplicáveis ao serviço postal internacional
 
 6 - Os Países membros que participem no Acordo Relativo às Encomendas Postais, mas que não executem o serviço de encomendas postais com valor declarado ou se não responsabilizem por estes valores durante o transporte efectuado pelos seus serviços marítimos ou aéreos, são, no entanto, obrigados a encaminhar pelas vias mais rápidas as malas fechadas que lhes sejam entregues pelas outras administrações; a sua responsabilidade, porém, fica limitada à que está prevista para as encomendas de igual peso sem valor declarado.
 
-###### Artigo 2 — Inobservância da liberdade de trânsito
+Artigo 2
+
+Inobservância da liberdade de trânsito
 
 Quando qualquer País membro não respeitar as disposições do artigo 1 da Constituição e do artigo 1 da Convenção relativas à liberdade de trânsito, as administrações postais dos outros Países membros têm o direito de suprimir o serviço postal com esse país, avisando, previamente e por telegrama, as administrações interessadas e comunicando-o à Secretaria Internacional.
 
-###### Artigo 3 — Trânsito territorial sem a participação dos serviços do país atravessado
+Artigo 3
+
+Trânsito territorial sem a participação dos serviços do país atravessado
 
 O transporte de correio através de um país sem participação dos serviços desse país fica subordinado à autorização prévia do país atravessado. Esta forma de trânsito não envolve a responsabilidade deste último país.
 
-###### Artigo 4 — Suspensão temporária e reatamento dos serviços
+Artigo 4
+
+Suspensão temporária e reatamento dos serviços
 
 1 - Quando, em consequência de circunstâncias extraordinárias, alguma administração postal for obrigada a suspender temporariamente, de maneira geral ou parcial, a execução de quaisquer serviços, deve avisar imediatamente, por telégrafo ou por telex, se for necessário, a administração ou as administrações interessadas, indicando, se possível, a duração provável da suspensão dos serviços. Cabe-lhes a mesma obrigação quando do restabelecimento dos serviços suspensos.
 
@@ -4948,21 +5038,29 @@ O transporte de correio através de um país sem participação dos serviços de
 
 3 - A administração de origem tem a faculdade de reembolsar o remetente das taxas de franquia (artigo 19), das taxas especiais (artigo 24) e das sobretaxas aéreas (artigo 74) se, por motivo de suspensão dos serviços, qualquer transporte relativo à sua correspondência tenha sido apenas parcialmente prestado ou não.
 
-###### Artigo 5 — Propriedade dos objectos postais
+Artigo 5
+
+Propriedade dos objectos postais
 
 Todo e qualquer objecto postal é pertença do remetente enquanto não for entregue a quem de direito, salvo se essa correspondência tiver sido apreendida por aplicação da legislação do país de destino.
 
-###### Artigo 6 — Criação de um novo serviço
+Artigo 6
+
+Criação de um novo serviço
 
 As administrações podem, de comum acordo, criar um novo serviço que não esteja expressamente previsto na Convenção. As taxas relativas ao novo serviço são fixadas pela administração interessada, tendo em conta os encargos de exploração do serviço.
 
-###### Artigo 7 — Taxas
+Artigo 7
+
+Taxas
 
 1 - As taxas relativas aos diversos serviços postais internacionais são fixadas na Convenção e nos acordos.
 
 2 - É proibido cobrar taxas postais, seja qual for a sua natureza, diferentes das previstas na Convenção e nos acordos.
 
-###### Artigo 8 — Moeda tipo. Equivalentes
+Artigo 8
+
+Moeda tipo. Equivalentes
 
 1 - A unidade monetária utilizada na Convenção, nos acordos e nos respectivos regulamentos de execução é o franco-ouro estabelecido no artigo 7 da Constituição e convertível na unidade de conta do Fundo Monetário Internacional (FMI), que é actualmente o direito especial de saque (DTS).
 
@@ -4976,13 +5074,17 @@ As administrações podem, de comum acordo, criar um novo serviço que não este
 
 6 - As administrações postais não são obrigadas a modificar os equivalentes das taxas previstas na Convenção e nos acordos ou o preço de venda dos cupões-resposta internacionais quando, em consequência de flutuações da equivalência utilizada para determinação das taxas nos termos deste artigo, os limites autorizados pela Convenção não sejam excedidos em mais de 15%.
 
-###### Artigo 9 — Selos postais
+Artigo 9
+
+Selos postais
 
 1 - Só as administrações postais emitem os selos para franquia.
 
 2 - Os temas e os motivos dos selos postais devem estar em conformidade com o espírito do preâmbulo da Constituição da União Postal Universal e com as decisões tomadas pelos órgãos da União.
 
-###### Artigo 10 — Impressos de serviço
+Artigo 10
+
+Impressos de serviço
 
 1 - Os textos, as cores e as dimensões dos impressos de serviço são os prescritos nos regulamentos da Convenção e dos acordos.
 
@@ -4992,7 +5094,9 @@ As administrações podem, de comum acordo, criar um novo serviço que não este
 
 4 - Os impressos para uso do público devem conter a tradução interlinear em francês, quando os respectivos dizeres não forem redigidos nesta língua.
 
-###### Artigo 11 — Bilhetes de identidade postais
+Artigo 11
+
+Bilhetes de identidade postais
 
 1 - Cada administração postal pode fornecer às pessoas que formularem o respectivo pedido bilhetes de identidade postais, válidos como documento comprovativo para a realização de qualquer operação postal nos Países membros que não tenham notificado a sua recusa em admiti-los.
 
@@ -5008,11 +5112,15 @@ b) Se avaria de tal forma que a verificação de um dado determinado respeitante
 
 c) Apresentar indícios de falsificação.
 
-###### Artigo 12 — Liquidação das contas
+Artigo 12
+
+Liquidação das contas
 
 As liquidações entre as administrações postais das contas internacionais relativas ao tráfego postal podem considerar-se como transacções correntes e efectuadas conforme as obrigações internacionais correntes dos Países membros interessados, quando existem acordos a este respeito. Na ausência de tais acordos, aquelas liquidações efectuam-se conforme as disposições do Regulamento.
 
-###### Artigo 13 — Compromissos relativos às sanções penais
+Artigo 13
+
+Compromissos relativos às sanções penais
 
 Os governos dos Países membros comprometem-se a tomar, ou a propor aos poderes legislativos dos respectivos países, as providências necessárias para:
 
@@ -5032,13 +5140,19 @@ d) Proibir e reprimir quaisquer operações fraudulentas de fabrico e de lançam
 
 e) Impedir e, eventualmente, punir a inclusão de estupefacientes e de substâncias psicotrópicas, bem como de matérias explosivas, inflamáveis ou outras matérias perigosas, nos objectos postais, desde que essa inclusão não esteja expressamente autorizada pela Convenção e pelos acordos.
 
-### CAPÍTULO II — Isenções de franquia
+CAPÍTULO II
 
-###### Artigo 14 — Isenção de franquia
+Isenções de franquia
+
+Artigo 14
+
+Isenção de franquia
 
 Os casos de isenção de franquia são expressamente previstos na Convenção e nos acordos.
 
-###### Artigo 15 — Isenção de franquia dos objectos de correspondência relativos ao serviço postal
+Artigo 15
+
+Isenção de franquia dos objectos de correspondência relativos ao serviço postal
 
 Sob reserva do previsto no artigo 73, parágrafo 4, ficam isentos de todas as taxas postais os objectos de correspondência relativos ao serviço postal quando:
 
@@ -5046,7 +5160,9 @@ a) Expedidos pelas administrações postais ou pelas suas estações;
 
 b) Permutadas entre os órgãos da União Postal Universal e os órgãos das uniões restritas, entre os órgãos dessas uniões, ou enviados pelos ditos órgãos às administrações postais ou às suas estações.
 
-###### Artigo 16 — Isenção de franquia dos objectos relativos a prisioneiros de guerra e internados civis
+Artigo 16
+
+Isenção de franquia dos objectos relativos a prisioneiros de guerra e internados civis
 
 1 - Sob reserva do previsto no artigo 73, parágrafo 2, ficam isentos de todas as taxas postais os objectos de correspondência, encomendas postais e operações financeiras postais destinados aos prisioneiros de guerra ou por eles expedidos, quer directamente, quer por intermédio das repartições de informações, previstas no artigo 122 da Convenção de Genebra Relativa ao Tratamento dos Prisioneiros de Guerra, de 12 de Agosto de 1949, e da Agência Central de Informações sobre Prisioneiros de Guerra, prevista no artigo 123 da mesma Convenção. Os beligerantes recolhidos e internados num país neutro são equiparados aos prisioneiros de guerra propriamente ditos no que diz respeito à aplicação das disposições anteriores.
 
@@ -5056,7 +5172,9 @@ b) Permutadas entre os órgãos da União Postal Universal e os órgãos das uni
 
 4 - As encomendas são admitidas com isenção de franquia postal até ao peso de 5 kg. O limite de peso é elevado para 10 kg se o conteúdo das encomendas for indivisível ou se estas forem dirigidas a um campo ou aos seus homens de confiança para serem distribuídas pelos prisioneiros.
 
-###### Artigo 17 — Isenção de franquia dos cecogramas
+Artigo 17
+
+Isenção de franquia dos cecogramas
 
 Sob reserva do previsto no artigo 73, parágrafo 2, os cecogramas ficam isentos da taxa de franquia, das taxas especiais enumeradas no artigo 24, parágrafo 1, e da taxa de reembolso.
 
@@ -5064,17 +5182,23 @@ II PARTE
 
 Disposições relativas à correspondência postal
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 18 — Objectos de correspondência postal
+Disposições gerais
+
+Artigo 18
+
+Objectos de correspondência postal
 
 Os objectos de correspondência postal abrangem as cartas, os bilhetes-postais, os impressos, os cecogramas e os pacotes postais.
 
-###### Artigo 19 — Taxas de franquia e limites de peso e de dimensões. Condições gerais
+Artigo 19
+
+Taxas de franquia e limites de peso e de dimensões. Condições gerais
 
 1 - As taxas de franquia para o transporte dos objectos de correspondência postal em toda a área da União e os limites de peso e de dimensões fixam-se conforme as indicações das cols. 1, 2, 3, 6 e 7 do quadro seguinte. As taxas base (col. 3) podem ser aumentadas até 100% (col. 4) ou reduzidas até 10% (col. 5), no máximo. Salvo a excepção prevista no artigo 25, parágrafo 6, estas taxas incluem a entrega dos objectos no domicílio dos destinatários, desde que o país de destino tenha montado este serviço de distribuição para os objectos em causa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - A título excepcional, os Países membros podem modificar a estrutura dos escalões de peso indicados no parágrafo 1, sob reserva das seguintes condições:
 
@@ -5104,9 +5228,11 @@ c) Para cada categoria, as taxas correspondentes aos escalões de peso adoptados
 
 12 - As administrações podem aplicar aos objectos de correspondência depositados no seu país o limite de peso máximo prescrito para os objectos da mesma natureza no seu serviço interno, desde que os objectos não excedam o limite de peso mencionado no parágrafo 1.
 
-###### Artigo 20 — Objectos normalizados
+Artigo 20
 
-1 - No quadro das disposições do artigo 19, parágrafo 1, são considerados como normalizados os objectos de forma rectangular cujo comprimento não seja inferior à largura multiplicada pela [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)(valor aproximado, 1,4) e que, segundo a sua apresentação, satisfaçam as condições seguintes:
+Objectos normalizados
+
+1 - No quadro das disposições do artigo 19, parágrafo 1, são considerados como normalizados os objectos de forma rectangular cujo comprimento não seja inferior à largura multiplicada pela [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)(valor aproximado, 1,4) e que, segundo a sua apresentação, satisfaçam as condições seguintes:
 
 a) Objectos com sobrescrito:
 
@@ -5184,13 +5310,17 @@ Os objectos cujo conteúdo forme saliências;
 
 As cartas dobradas expedidas a descoberto (sem sobrescrito) que não apresentem todos os lados fechados e que não tenham consistência suficiente para suportar um tratamento mecânico.
 
-###### Artigo 21 — Matérias biológicas deterioráveis. Matérias radioactivas
+Artigo 21
+
+Matérias biológicas deterioráveis. Matérias radioactivas
 
 1 - As matérias biológicas deterioráveis e as matérias radioactivas, acondicionadas e embaladas nas respectivas condições do Regulamento, ficam sujeitas à tarifa das cartas e à obrigação de registo. A sua aceitação fica limitada às relações entre os Países membros cujas administrações postais declararam a sua concordância em aceitar tais correspondências, quer nas suas relações recíprocas quer num só sentido. Estas matérias são encaminadas pela via mais rápida, normalmente pela via aérea, sob reserva de pagamento das sobretaxas aéreas correspondentes.
 
 2 - Além disso, as matérias biológicas deterioráveis só podem ser permutadas entre laboratórios qualificados oficialmente reconhecidos enquanto que as matérias radioactivas só podem ser expedidas por remetentes devidamente autorizados.
 
-###### Artigo 22 — Correspondências indevidamente aceites
+Artigo 22
+
+Correspondências indevidamente aceites
 
 1 - Salvo as excepções previstas na Convenção e no Regulamento, não podem ser expedidos os objectos que não satisfaçam as condições dos artigos 19 e 21 do Regulamento. Os objectos que tenham sido indevidamente aceites devem ser devolvidos à administração de origem. Todavia, a administração de destino fica autorizada a entregá-los aos destinatários. Neste caso, aplicar-lhes-á, eventualmente, as taxas previstas para a categoria de correspondência na qual devem ser incluídos pelo seu modo de fecho, conteúdo, peso ou dimensões. Se, além disso, as correspondências ultrapassarem os limites máximos fixados no artigo 19, parágrafo 1, a administração de destino pode franqueá-las segundo o seu peso real, aplicando-lhes uma taxa complementar igual à franquia de um objecto do serviço internacional da mesma categoria e de peso correspondente ao excedente verificado.
 
@@ -5198,7 +5328,9 @@ As cartas dobradas expedidas a descoberto (sem sobrescrito) que não apresentem 
 
 3 - As correspondências que contenham outros objectos proibidos nos termos do artigo 36 e que tenham sido indevidamente aceites serão tratadas de acordo com as disposições do citado artigo.
 
-###### Artigo 23 — Correspondência postal depositada em países estrangeiros
+Artigo 23
+
+Correspondência postal depositada em países estrangeiros
 
 1 - Nenhum País membro fica obrigado a encaminhar ou a distribuir aos destinatários a correspondência que quaisquer remetentes domiciliados no seu território depositem ou mandem depositar num país estrangeiro com o fim de beneficiar de taxas mais baixas ali estabelecidas. O mesmo sucede quanto à correspondência nas mesmas condições depositada em grande quantidade, quer esse depósito tenha ou não sido feito com o fim de beneficiar de taxas mais baixas.
 
@@ -5208,17 +5340,19 @@ As cartas dobradas expedidas a descoberto (sem sobrescrito) que não apresentem 
 
 4 - Nenhum País membro fica obrigado a aceitar, a encaminhar ou a distribuir aos destinatários a correspondência que quaisquer remetentes tenham depositado ou mandado depositar em grande quantidade num país diferente daquele onde têm o seu domicílio. As administrações interessadas têm o direito de devolver essas correspondências à origem ou de as devolver aos remetentes sem restituição de taxas.
 
-###### Artigo 24 — Taxas especiais
+Artigo 24
+
+Taxas especiais
 
 1 - As taxas previstas na Convenção e que são cobradas além das taxas de franquia mencionadas no artigo 19 denominam-se «taxas especiais».
 
 O seu quantitativo é fixado de acordo com as indicações do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - Os Países membros que apliquem no seu serviço interno taxas superiores às indicadas no parágrafo 1 ficam autorizados a aplicar estas mesmas taxas no serviço internacional.
 
-###### Artigo 25
+Artigo 25
 
 Taxa de última hora. Taxa de depósito fora das horas normais de abertura dos postigos. Taxa de recolha no domicílio do remetente. Taxa de levantamento fora das horas normais de abertura dos postigos. Taxa de posta-restante. Taxa de entrega dos pacotes postais.
 
@@ -5234,11 +5368,15 @@ Taxa de última hora. Taxa de depósito fora das horas normais de abertura dos p
 
 6 - As administrações dos países de destino ficam autorizadas a cobrar por cada pacote postal, cujo peso exceda 500 g, entregue ao destinatário a taxa especial prevista no artigo 24, parágrafo 1, alínea f).
 
-###### Artigo 26 — Taxa de armazenagem
+Artigo 26
+
+Taxa de armazenagem
 
 A administração de destino fica autorizada a cobrar, de harmonia com a sua legislação, uma taxa de armazenagem por qualquer objecto de correspondência de peso superior a 500 g cujo destinatário não o tenha levantado dentro do prazo durante o qual o objecto se encontra à sua disposição livre de encargos. Esta taxa não se aplica aos cecogramas.
 
-###### Artigo 27 — Franquia
+Artigo 27
+
+Franquia
 
 1 - Em regra, toda a correspondência designada no artigo 18, com excepção da indicada nos artigos 15 a 17, deve ser integralmente franqueada pelo remetente.
 
@@ -5250,7 +5388,9 @@ A administração de destino fica autorizada a cobrar, de harmonia com a sua leg
 
 5 - Consideram-se como devidamente franqueados os objectos de correspondência regularmente franqueados para o primeiro percurso e cujo complemento de taxa tenha sido pago antes da sua reexpedição.
 
-###### Artigo 28 — Modalidades de franquia
+Artigo 28
+
+Modalidades de franquia
 
 1 - A franquia tem lugar por aplicação de qualquer das modalidades seguintes:
 
@@ -5266,13 +5406,17 @@ e) Menção «Abonnement-poste» e franquia de acordo com uma das modalidades pr
 
 2 - A franquia dos impressos endereçados ao mesmo destinatário e para o mesmo destino incluídos em saco especial é levada a efeito por um dos meios previstos no parágrafo 1 e representada pela importância total sobre o rótulo-endereço do saco.
 
-###### Artigo 29 — Franquia das correspondências postais a bordo dos navios
+Artigo 29
+
+Franquia das correspondências postais a bordo dos navios
 
 1 - As correspondências depositadas a bordo de um navio durante o estacionamento num dos dois pontos terminais do percurso em qualquer escala intermediária devem ser franqueadas com selos postais do país em cujas águas se encontra o navio e de harmonia com as suas tarifas.
 
 2 - Se o depósito tiver lugar no alto mar, as correspondências podem ser franqueadas, salvo acordo especial entre as administrações interessadas, com selos postais do país a que pertencer ou de que depender o referido navio e de harmonia com as suas tarifas. Os objectos franqueados nestas condições devem ser entregues na estação de correio da escala logo que possível após a chegada do navio.
 
-###### Artigo 30 — Taxa no caso de falta ou insuficiência de franquia
+Artigo 30
+
+Taxa no caso de falta ou insuficiência de franquia
 
 1 - No caso de falta total ou insuficiência de franquia, a administração de origem que tomar a seu cargo franquear as correspondências com falta total de franquia ou de a completar, quando as correspondências apresentarem insuficiência de franquia, e de cobrar do remetente a importância em falta, fica autorizada a cobrar também do remetente a taxa de tratamento prevista no artigo 24, parágrafo 1, alínea h).
 
@@ -5280,7 +5424,9 @@ e) Menção «Abonnement-poste» e franquia de acordo com uma das modalidades pr
 
 3 - Os objectos registados e as cartas com valor declarado consideram-se à chegada como devidamente franqueados.
 
-###### Artigo 31 — Cupões-resposta internacionais
+Artigo 31
+
+Cupões-resposta internacionais
 
 1 - As administrações postais têm a faculdade de vender os cupões-resposta internacionais emitidos pela Secretaria Internacional e de limitar a sua venda em conformidade com a sua legislação interna.
 
@@ -5290,7 +5436,9 @@ e) Menção «Abonnement-poste» e franquia de acordo com uma das modalidades pr
 
 4 - À administração de cada País membro fica reservada a faculdade de exigir a apresentação simultânea dos cupões-resposta e dos objectos de correspondência a franquear em troca desses cupões-resposta.
 
-###### Artigo 32 — Correspondência a entregar por próprio
+Artigo 32
+
+Correspondência a entregar por próprio
 
 1 - Nos países cujas administrações se encarreguem deste serviço, os objectos de correspondência são distribuídos, a pedido dos remetentes, por portador especial, tanto quanto possível logo após a sua chegada à estação de distribuição. Todavia, no que diz respeito às cartas com valor declarado, a administração de destino, se a sua regulamentação o impuser, tem a faculdade de mandar entregar por próprio o aviso de chegada do objecto e não o próprio objecto.
 
@@ -5304,7 +5452,9 @@ e) Menção «Abonnement-poste» e franquia de acordo com uma das modalidades pr
 
 6 - Se a regulamentação da administração de destino o permitir, os destinatários podem pedir à estação distribuidora que os objectos que lhes forem destinados sejam distribuídos por próprio logo que cheguem. Neste caso, a administração de destino fica autorizada a cobrar, no acto de distribuição, a taxa aplicável no seu serviço interno.
 
-###### Artigo 33 — Restituição. Modificação ou correcção de endereço a pedido do remetente
+Artigo 33
+
+Restituição. Modificação ou correcção de endereço a pedido do remetente
 
 1 - O remetente de um objecto de correspondência pode pedir a sua restituição ou a modificação do endereço, desde que esse objecto:
 
@@ -5328,7 +5478,9 @@ Se o objecto se encontrar ainda no país de origem, o pedido de restituição, d
 
 7 - A devolução à origem de um objecto em consequência de um pedido de restituição ou de modificação de endereço efectua-se por via aérea, se o remetente se obrigar a pagar a sobretaxa aérea correspondente. Quando um objecto é reexpedido por via aérea em consequência de um pedido de modificação de endereço, a sobretaxa aérea correspondente ao novo percurso é cobrada do destinatário e reverte para a administração distribuidora.
 
-###### Artigo 34 — Reexpedição
+Artigo 34
+
+Reexpedição
 
 1 - No caso de mudança de endereço do destinatário, os objectos de correspondência são-lhe reexpedidos imediatamente, nas condições prescritas no serviço interno, a não ser que o remetente tenha proibido a sua reexpedição por meio de uma anotação aposta no lado do endereço numa língua conhecida no país de destino. Contudo, a reexpedição de um país para outro só se efectua se os objectos estiverem nas condições exigidas para o novo transporte. No que se refere à reexpedição por via aérea, aplicam-se os artigos 80, parágrafos 2 a 5, da Convenção e 200 do Regulamento.
 
@@ -5342,7 +5494,9 @@ Se o objecto se encontrar ainda no país de origem, o pedido de restituição, d
 
 6 - No caso de reexpedição para outro país, são anuladas as taxas de posta-restante, de apresentação à alfândega, de armazenagem e de comissão e a taxa complementar de entrega por próprio e a de entrega dos pacotes postais aos destinatários.
 
-###### Artigo 35 — Objectos insusceptíveis de distribuição. Devolução ao país de origem ou ao remetente
+Artigo 35
+
+Objectos insusceptíveis de distribuição. Devolução ao país de origem ou ao remetente
 
 1 - Os objectos que por qualquer motivo não puderem ser entregues ao destinatários consideram-se insusceptíveis de distribuição.
 
@@ -5360,7 +5514,9 @@ Se o objecto se encontrar ainda no país de origem, o pedido de restituição, d
 
 8 - Os objectos de correspondência insusceptíveis de distribuição devolvidos ao país de origem são entregues aos remetentes nas condições fixadas no artigo 34, parágrafo 5. Estes objectos não motivam a cobrança de qualquer suplemento de taxa, salvo as excepções previstas no Regulamento. Todavia, as administrações que cobram uma taxa de devolução no seu serviço interno ficam autorizadas a cobrar essa mesma taxa relativamente às correspondências de regime internacional que lhes são devolvidas.
 
-###### Artigo 36 — Proibições
+Artigo 36
+
+Proibições
 
 1 - Não se admitem os objectos de correspondência que, pelo seu acondicionamento, possam oferecer perigo para os empregados ou sujar ou deteriorar os outros objectos ou o equipamento postal. Os agrafos metálicos que servem para fechar os objectos não devem ser cortantes; não devem entravar a execução do serviço postal.
 
@@ -5404,19 +5560,27 @@ Esta informação deve indicar de maneira precisa o tipo de proibição que inci
 
 9 - Todavia, todos os países têm o direito de, no seu território, não dar trânsito a descoberto aos objectos de correspondência postal que não sejam cartas e bilhetes-postais quando os mesmos não satisfaçam as disposições legais que regulam as condições da sua publicação ou circulação nesses países. Os referidos objectos devem ser devolvidos à administração de origem.
 
-###### Artigo 37 — Verificação aduaneira
+Artigo 37
+
+Verificação aduaneira
 
 A administração postal do país de origem e a do país de destino ficam autorizadas a submeter a verificação aduaneira, de acordo com a sua legislação, as correspondências postais e abri-las para esse fim, se tal for necessário.
 
-###### Artigo 38 — Taxa de apresentação à alfândega
+Artigo 38
+
+Taxa de apresentação à alfândega
 
 Aos objectos submetidos a verificação aduaneira no país de origem ou de destino, conforme o caso, pode ser aplicada, a título postal, quer para a entrega na alfândega e desalfandegação, quer para a entrega na alfândega somente, a taxa especial prevista no artigo 24, parágrafo 1, alínea m).
 
-###### Artigo 39 — Direitos aduaneiros e outros direitos
+Artigo 39
+
+Direitos aduaneiros e outros direitos
 
 As administrações postais ficam autorizadas a cobrar quer dos remetentes quer dos destinatários das correspondências, conforme o caso, os direitos aduaneiros e quaisquer outros direitos eventuais.
 
-###### Artigo 40 — Correspondências livres de encargos
+Artigo 40
+
+Correspondências livres de encargos
 
 1 - Nas relações entre os Países membros cujas administrações postais declararam a sua concordância a este respeito, podem os remetentes, mediante prévia declaração prestada na estação de origem, tomar a seu cargo o pagamento de todas as taxas e direitos que oneram as correspondências no momento da sua entrega. Posteriormente ao depósito, e enquanto a correspondência não tiver sido entregue ao destinatário, pode o remetente pedir que a correspondência seja entregue livre de encargos.
 
@@ -5430,11 +5594,15 @@ As administrações postais ficam autorizadas a cobrar quer dos remetentes quer 
 
 6 - Qualquer administração tem direito a limitar aos objectos registados e às cartas com valor declarado o serviço de entrega de correspondências livres de encargos.
 
-###### Artigo 41 — Anulação de direitos aduaneiros e outros direitos
+Artigo 41
+
+Anulação de direitos aduaneiros e outros direitos
 
 As administrações postais comprometem-se a intervir junto dos serviços competentes dos seus países no sentido de serem anulados os direitos aduaneiros e outros direitos das correspondências a devolver à origem, destruídas por motivo de avaria completa do seu conteúdo ou reexpedidas para um terceiro país.
 
-###### Artigo 42 — Reclamações
+Artigo 42
+
+Reclamações
 
 1 - Podem aceitar-se reclamações dos utentes dentro do prazo de um ano a contar do dia imediato ao do depósito da correspondência.
 
@@ -5448,9 +5616,13 @@ As administrações postais comprometem-se a intervir junto dos serviços compet
 
 6 - Se a reclamação tiver sido motivada por erro de serviço, a taxa especial prevista no parágrafo 4 é restituída pela administração que a cobrou. Esta taxa, porém, não pode, em caso algum, ser exigida da administração a quem cabe o pagamento da indemnização.
 
-### CAPÍTULO II — Objectos registados e cartas com valor declarado
+CAPÍTULO II
 
-###### Artigo 43 — Aceitação dos objectos registados
+Objectos registados e cartas com valor declarado
+
+Artigo 43
+
+Aceitação dos objectos registados
 
 1 - Os objectos de correspondência designados no artigo 18 podem ser expedidos sob registo.
 
@@ -5458,7 +5630,9 @@ As administrações postais comprometem-se a intervir junto dos serviços compet
 
 3 - Se a legislação interna dos países de origem e de destino o permitir, as cartas registadas com invólucro fechado podem conter moedas, notas de banco, cédulas fiduciárias ou quaisquer valores ao portador, cheques de viagem, platina, ouro ou prata, manufacturados ou não, pedras, jóias e outros objectos preciosos.
 
-###### Artigo 44 — Taxas dos objectos registados
+Artigo 44
+
+Taxas dos objectos registados
 
 1 - A taxa dos objectos registados deve ser paga adiantadamente. Compõe-se:
 
@@ -5470,7 +5644,9 @@ b) Da taxa fixa do registo prevista no artigo 24, parágrafo 1, alínea p).
 
 3 - As administrações postais que desejem assumir a responsabilidade pelos riscos que possam advir de casos de força maior ficam autorizadas a cobrar a taxa especial prevista no artigo 24, parágrafo 1, alínea r).
 
-###### Artigo 45 — Aceitação de cartas com valor declarado
+Artigo 45
+
+Aceitação de cartas com valor declarado
 
 1 - Podem permutar-se cartas incluindo valores-papel, documentos e objectos de valor, denominadas «cartas com valor declarado», segurando-se o conteúdo pelo valor declarado pelo remetente. Esta permuta fica limitada às relações entre Países membros cujas administrações postais deram o seu acordo para a aceitação destes objectos tanto nas suas relações recíprocas com num só sentido.
 
@@ -5478,7 +5654,9 @@ b) Da taxa fixa do registo prevista no artigo 24, parágrafo 1, alínea p).
 
 3 - As administrações devem tomar as medidas necessárias para, tanto quando possível, assegurar o serviço de cartas com valor declarado em todas as estações do seu país.
 
-###### Artigo 46 — Cartas com valor declarado. Declaração de valor
+Artigo 46
+
+Cartas com valor declarado. Declaração de valor
 
 1 - Em princípio, o montante da declaração de valor é ilimitado.
 
@@ -5490,7 +5668,9 @@ A declaração de valor não pode exceder o valor real do conteúdo do objecto, 
 
 5 - Qualquer declaração fraudulenta de valor superior ao valor real do conteúdo do objecto fica sujeita ao procedimento judicial estabelecido pela legislação do país de origem.
 
-###### Artigo 47 — Taxas das cartas com valor declarado
+Artigo 47
+
+Taxas das cartas com valor declarado
 
 1 - A franquia das cartas com valor declarado é cobrada adiantadamente e compõe-se de:
 
@@ -5502,21 +5682,29 @@ c) Taxa de seguro prevista no artigo 24, parágrafo 1, alínea q).
 
 2 - No caso de serem necessárias medidas excepcionais de segurança, as administrações podem cobrar as taxas especiais previstas no artigo 24, parágrafo 1, alínea p), col. 3, n.º 2.
 
-###### Artigo 48 — Aviso de recepção
+Artigo 48
+
+Aviso de recepção
 
 1 - O remetente de qualquer objecto registado ou de uma carta com valor declarado pode pedir um aviso de recepção no momento do depósito, pagando a taxa fixa prevista no artigo 24, parágrafo 1, alínea s). O aviso de recepção é devolvido ao remetente pela via mais rápida (aérea ou de superfície).
 
 2 - Quando o remetente reclamar um aviso de recepção que lhe não tenha sido devolvido dentro dos prazos normais, não se cobra uma segunda taxa nem a taxa prevista no artigo 42 para as reclamações.
 
-###### Artigo 49 — Entrega em mão própria
+Artigo 49
+
+Entrega em mão própria
 
 1 - Nas relações entre as administrações que deram o seu consentimento, os objectos registados e as cartas com valor declarado são, a pedido do remetente, entregues ao destinatário em mão própria. As administrações podem acordar que esta faculdade só seja admitida quando os objectos registados e as cartas com valor declarado forem acompanhados de aviso de recepção. Nestes dois casos, o remetente paga a taxa especial prevista no artigo 24, parágrafo 1, alínea t).
 
 2 - As administrações só devem fazer uma segunda tentativa de entrega destes objectos desde que admitam que ela dará resultado e se a regulamentação interna o permitir.
 
-### CAPÍTULO III — Responsabilidade
+CAPÍTULO III
 
-###### Artigo 50 — Princípio e âmbito da responsabilidade das administrações locais. Correspondências registadas
+Responsabilidade
+
+Artigo 50
+
+Princípio e âmbito da responsabilidade das administrações locais. Correspondências registadas
 
 1 - As administrações postais são responsáveis somente pela perda dos objectos registados. A sua responsabilidade abrange tanto os objectos transportados a descoberto como os que são encaminhados em malas fechadas.
 
@@ -5536,7 +5724,9 @@ c) Taxa de seguro prevista no artigo 24, parágrafo 1, alínea q).
 
 2.º Quando o remetente desistir dos seus direitos a favor do destinatário.
 
-###### Artigo 51 — Princípio e âmbito da responsabilidade das administrações postais. Cartas com valor declarado
+Artigo 51
+
+Princípio e âmbito da responsabilidade das administrações postais. Cartas com valor declarado
 
 1 - Salvo os casos previstos no artigo 53, as administrações postais ficam responsáveis pela perda, espoliação ou avaria das cartas com valor declarado. A sua responsabilidade abrange tanto as cartas transportadas a descoberto como as que são encaminhadas em malas fechadas.
 
@@ -5552,7 +5742,7 @@ c) Taxa de seguro prevista no artigo 24, parágrafo 1, alínea q).
 
 7 - O remetente tem a faculdade de desistir dos direitos previstos no parágrafo 3 a favor do destinatário. Inversamente, o destinatário tem a faculdade de desistir dos seus direitos, previstos no parágrafo 4, a favor do remetente. O remetente ou o destinatário podem autorizar um terceiro a receber a indemnização, se a legislação interna o permitir.
 
-###### Artigo 52
+Artigo 52
 
 Isenção de responsabilidade das administrações postais.
 
@@ -5578,7 +5768,7 @@ c) Quando o remetente não tenha apresentado qualquer reclamação no prazo prev
 
 3 - As administrações postais não assumem qualquer responsabilidade derivada das declarações para a alfândega, seja qual for a forma por que estas tenham sido feitas, ou das decisões tomadas pelos serviços aduaneiros quando da verificação da correspondência postal sujeita à verificação aduaneira, nos termos do artigo 36, parágrafo 4, alínea f).
 
-###### Artigo 53
+Artigo 53
 
 Isenção de responsabilidade das administrações postais.
 
@@ -5612,7 +5802,9 @@ f) Quando o remetente não tenha apresentado qualquer reclamação no prazo de u
 
 3 - As administrações postais não assumem qualquer responsabilidade derivada das declarações para a alfândega, seja qual for a forma por que sejam feitas, e das decisões tomadas pelos serviços aduaneiros quando da verificação dos objectos sujeitos à verificação aduaneira.
 
-###### Artigo 54 — Responsabilidade do remetente
+Artigo 54
+
+Responsabilidade do remetente
 
 1 - O remetente de uma correspondência postal é responsável, nos mesmos limites que as próprias administrações, por todos os prejuízos causados a outras correspondências e derivados da expedição de objectos não admitidos ao transporte ou do desrespeito das condições de aceitação, desde que não haja culpa ou negligência das administrações ou dos transportadores.
 
@@ -5620,7 +5812,9 @@ f) Quando o remetente não tenha apresentado qualquer reclamação no prazo de u
 
 3 - A administração que verificar um prejuízo devido à culpa do remetente informa do facto a administração de origem, à qual incumbe, quando for caso disso, intentar a acção contra o remetente.
 
-###### Artigo 55 — Determinação da responsabilidade entre as administrações postais. Correspondências registadas
+Artigo 55
+
+Determinação da responsabilidade entre as administrações postais. Correspondências registadas
 
 1 - Até prova em contrário, a responsabilidade pela perda de qualquer objecto registado cabe à administração postal que, tendo recebido o objecto sem ter feito qualquer observação e dispondo de todos os meios regulamentares de investigação, não puder provar a entrega da correspondência ao destinatário nem, eventualmente, a transmissão regular a outra administração.
 
@@ -5642,7 +5836,9 @@ c) Quando, no caso de inscrição individual dos objectos registados, a transmis
 
 7 - A administração que efectuar o pagamento da indemnização fica sub-rogada, nos direitos da pessoa que a recebeu, até à importância desta indemnização, para efeitos de qualquer acção eventual contra o destinatário, contra o remetente ou contra terceiros.
 
-###### Artigo 56 — Determinação de responsabilidade entre as administrações postais. Cartas com valor declarado
+Artigo 56
+
+Determinação de responsabilidade entre as administrações postais. Cartas com valor declarado
 
 1 - Até prova em contrário, a responsabilidade cabe à administração postal que, tendo recebido o objecto sem ter feito qualquer observação e dispondo de todos os meios regulamentares de investigação, não puder provar a entrega ao destinatário nem, eventualmente, a transmissão regular a outra administração.
 
@@ -5674,11 +5870,15 @@ Quando essa prova tenha sido feita pela administração de destino ou pela de or
 
 10 - A administração que efectuou o pagamento da indemnização fica sub-rogada, nos direitos da pessoa que a recebeu, até à importância desta indemnização, para efeito de qualquer acção eventual contra o destinatário, contra o remetente ou contra terceiros.
 
-###### Artigo 57 — Determinação da responsabilidade entre as administrações postais e as empresas de transporte aéreo. Cartas com valor declarado
+Artigo 57
+
+Determinação da responsabilidade entre as administrações postais e as empresas de transporte aéreo. Cartas com valor declarado
 
 Quando a perda, espoliação ou avaria tenha tido lugar no serviço de uma empresa de transporte aéreo, a administração do país que cobra os encargos de transporte nos termos do artigo 86, parágrafo 1, é obrigada, ressalvado os artigos 1, parágrafo 3, e 56, parágrafo 5, a reembolsar à administração de origem a indemnização paga ao remetente. Compete-lhe recuperar aquela importância da empresa de transporte aéreo responsável. Se, nos termos do artigo 86, parágrafo 2, a administração de origem liquidar as despesas de transporte directamente à companhia aérea, deve pedir o reembolso da indemnização a essa companhia.
 
-###### Artigo 58 — Pagamento da indemnização
+Artigo 58
+
+Pagamento da indemnização
 
 1 - Sem prejuízo do seu direito de regresso contra a administração responsável, a obrigação de pagar a indemnização compete à administração de origem, ou à administração de destino, nos casos previstos nos artigos 50, parágrafo 5, e 51, parágrafo 7.
 
@@ -5692,7 +5892,9 @@ Sem dar solução definitiva ao assunto;
 
 Sem ter dado conhecimento à administração de origem ou de destino, conforme o caso, de que a perda parecia derivar de um caso de força maior ou que o objecto tenha sido retido, apreendido ou destruído pela autoridade competente por motivo do seu conteúdo ou apreendido em consequência da legislação do país de destino.
 
-###### Artigo 59 — Reembolso da indemnização à administração que efectuou o pagamento
+Artigo 59
+
+Reembolso da indemnização à administração que efectuou o pagamento
 
 1 - A administração responsável ou por conta da qual se efectuar o pagamento, nos termos do artigo 58, fica obrigada a reembolsar a administração que efectuou o pagamento e que se denomina administração pagadora da importância da indemnização efectivamente paga a quem de direito dentro dos limites do artigo 50, parágrafo 4; esse pagamento deve ter lugar dentro do prazo de quatro meses a contar da data da notificação do pagamento.
 
@@ -5710,7 +5912,9 @@ Sem ter dado conhecimento à administração de origem ou de destino, conforme o
 
 8 - As administrações podem acordar na liquidação periódica das indemnizações que tenham pago a quem de direito e que reconheçam como justificadas.
 
-###### Artigo 60 — Recuperação eventual da indemnização do remetente ou do destinatário
+Artigo 60
+
+Recuperação eventual da indemnização do remetente ou do destinatário
 
 1 - Se, após o pagamento da indemnização, um objecto registado, uma carta com valor declarado, uma parte desta carta ou daquele objecto anteriormente considerado perdido for encontrado, o remetente, ou, nos termos dos artigos 50, parágrafos 5 e 6, e 51, parágrafo 7, o destinatário, é avisado de que o objecto está à sua disposição durante um período de três meses, mediante a restituição do montante da indemnização paga. Pergunta-se-lhe ao mesmo tempo a quem deve ser entregue o objecto. No caso de recusa ou de falta de resposta no prazo concedido, adopta-se o mesmo procedimento junto do destinatário ou do remetente, conforme o caso.
 
@@ -5722,13 +5926,19 @@ Sem ter dado conhecimento à administração de origem ou de destino, conforme o
 
 5 - No caso de aparecimento posterior de uma carta com valor declarado cujo conteúdo seja considerado de valor inferior ao montante da indemnização paga, o remetente deve restituir este montante contra a entrega do objecto, sem prejuízo das consequências resultantes da declaração fraudulenta de valor prevista no artigo 46, parágrafo 5.
 
-### CAPÍTULO IV — Atribuição das taxas - Direitos de trânsito e encargos terminais
+CAPÍTULO IV
 
-###### Artigo 61 — Atribuição das taxas
+Atribuição das taxas - Direitos de trânsito e encargos terminais
+
+Artigo 61
+
+Atribuição das taxas
 
 Salvo os casos previstos pela Convenção e acordos, as administrações postais arrecadam as taxas por elas cobradas.
 
-###### Artigo 62 — Direitos de trânsito
+Artigo 62
+
+Direitos de trânsito
 
 1 - Sem prejuízo do artigo 65, as malas fechadas permutadas entre duas administrações ou entre duas estações de um mesmo país por intermédio dos serviços de uma ou de várias outras administrações (serviços de terceiros) ficam sujeitas ao pagamento dos direitos de trânsito a título de retribuição pelas prestações de serviço referentes ao trânsito territorial e ao trânsito marítimo.
 
@@ -5738,11 +5948,13 @@ Salvo os casos previstos pela Convenção e acordos, as administrações postais
 
 4 - O trânsito marítimo começa no momento em que as malas são postas no cais marítimo que serve o navio no porto de partida e acaba quando forem desembarcadas no cais marítimo do porto de destino.
 
-###### Artigo 63 — Tabelas dos direitos de trânsito
+Artigo 63
+
+Tabelas dos direitos de trânsito
 
 1 - Os direitos de trânsito previstos no artigo 62, parágrafo 1, são calculados a partir das tabelas indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 2 - As distâncias que servem para determinar os direitos de trânsito de acordo com o quadro do parágrafo 1 são obtidas:
 
@@ -5750,7 +5962,9 @@ Da «Liste des distances quilométriques afférantes aux parcours territoriaux d
 
 Da «Liste des lignes des paquebots», prevista no artigo 111, parágrafo 2, alínea d), do Regulamento, no que respeita aos percursos marítimos.
 
-###### Artigo 64 — Encargos terminais
+Artigo 64
+
+Encargos terminais
 
 1 - Sob reserva do artigo 65, qualquer administração que receber, nas suas permutas com outra administração, pelas vias aérea e de superfície, uma quantidade maior de objectos de correspondência do que a que expede, tem direito de cobrar da administração expedidora a título de compensação, uma remuneração pelos encargos resultantes do correio internacional recebido em excesso.
 
@@ -5762,15 +5976,21 @@ b) 2 francos-ouro (0,653 DTS) para os impressos expedidos em sacos especiais pre
 
 3 - Qualquer administração pode renunciar total ou parcialmente à remuneração prevista no parágrafo 1.
 
-###### Artigo 65 — Isenção dos direitos de trânsito e dos encargos terminais
+Artigo 65
+
+Isenção dos direitos de trânsito e dos encargos terminais
 
 Ficam isentos dos direitos de trânsito terrestre ou marítimo e dos encargos terminais do correio de superfície os objectos de correspondência não distribuídos devolvidos à origem, assim como as remessas de sacos postais vazios. Estes últimos estão também isentos dos encargos terminais do correio aéreo.
 
-###### Artigo 66 — Serviços extraordinários
+Artigo 66
+
+Serviços extraordinários
 
 Os direitos de trânsito especificados no artigo 63 não se aplicam ao transporte por intermédio de serviços extraordinários especialmente criados ou mantidos por uma administração postal a pedido de uma ou de várias outras administrações. As condições desta categoria de transporte são reguladas, conforme os casos, entre as administrações interessadas.
 
-###### Artigo 67 — Contas dos direitos de trânsito e dos encargos terminais
+Artigo 67
+
+Contas dos direitos de trânsito e dos encargos terminais
 
 1 - A conta geral dos direitos de trânsito e dos encargos terminais do correio de superfície (incluindo o correio de superfície transportado por via aérea) é feita por cada administração segundo os pesos anuais de cada uma das duas categorias LC/AO e sacos M. Estes pesos são calculados de acordo, por um lado, com o número real anual das malas LC/AO e sacos M e, por outro lado, com o peso médio das malas e sacos dessas duas categorias, determinado durante um período estatístico, segundo o seu peso real. O Regulamento de Execução estabelece as modalidades dessa estatística.
 
@@ -5788,7 +6008,9 @@ Os direitos de trânsito especificados no artigo 63 não se aplicam ao transport
 
 6 - Os árbitros têm o direito de fixar, como lhes parecer justo, a importância dos direitos de trânsito ou dos encargos terminais a pagar.
 
-###### Artigo 68 — Pagamento dos direitos de trânsito
+Artigo 68
+
+Pagamento dos direitos de trânsito
 
 1 - Os direitos de trânsito estão a cargo da administração de origem das expedições e são pagáveis, salvo o disposto no parágrafo 3, às administrações dos países atravessados, ou cujos serviços participem no transporte terrestre ou marítimo das expedições.
 
@@ -5796,11 +6018,13 @@ Os direitos de trânsito especificados no artigo 63 não se aplicam ao transport
 
 3 - Os encargos do transporte marítimo das expedições em trânsito podem ser liquidados directamente entre as administrações postais de origem das expedições e as companhias de navegação marítima ou seus agentes, mediante acordo prévio da administração postal do porto de embarque respectivo.
 
-###### Artigo 69 — Direitos de trânsito de expedições com alteração de percurso ou mal encaminhadas
+Artigo 69
+
+Direitos de trânsito de expedições com alteração de percurso ou mal encaminhadas
 
 As expedições com alteração de percurso ou mal encaminhadas são consideradas, no que respeita ao pagamento dos direitos de trânsito, como se tivessem seguido a sua via normal; as administrações que participam no transporte das referidas expedições não têm nenhum direito de cobrar, por isso, remunerações das administrações expedidoras, mas estas últimas ficam devedoras dos direitos de trânsito correspondentes às administrações postais que servem regularmente de intermediárias.
 
-###### Artigo 70
+Artigo 70
 
 Permuta de malas fechadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra.
 
@@ -5816,15 +6040,23 @@ III PARTE
 
 Transporte aéreo das correspondências postais
 
-## TÍTULO I — Correspondências-avião
+TÍTULO I
 
-### CAPÍTULO I — Disposições gerais
+Correspondências-avião
 
-###### Artigo 71 — Correspondências-avião
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 71
+
+Correspondências-avião
 
 Os objectos postais transportados por via aérea com prioridade denominam-se «Correspondências-avião».
 
-###### Artigo 72 — Aerogramas
+Artigo 72
+
+Aerogramas
 
 1 - Qualquer administração tem a faculdade de admitir os aerogramas que são cartas-avião.
 
@@ -5834,7 +6066,7 @@ a) Dimensões mínimas - idênticas às das cartas;
 
 b) Dimensões máximas - 110 mm x 220 mm;
 
-e tais que o comprimento seja igual ou superior à largura multiplicada pela [([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf) (valor aproximado, 1,4).
+e tais que o comprimento seja igual ou superior à largura multiplicada pela [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf) (valor aproximado, 1,4).
 
 3 - A parte da frente do aerograma é reservada para o endereço, para as franquias e para as menções ou etiquetas de serviço. Deve apresentar, obrigatoriamente, a menção impressa «Aerograma» e, facultativamente, uma menção análoga na língua do país de origem. O aerograma não deve conter objecto algum. Pode ser expedido sob registo, se os regulamentos do país de origem o permitirem.
 
@@ -5842,7 +6074,9 @@ e tais que o comprimento seja igual ou superior à largura multiplicada pela [([
 
 5 - As correspondências-avião depositadas como aerogramas que não satisfaçam as condições acima referidas são tratadas de harmonia com o artigo 77. Porém, as administrações têm a faculdade de as transmitir, em todos os casos, por via de superfície.
 
-###### Artigo 73 — Correspondências-avião sobretaxadas e sem sobretaxa
+Artigo 73
+
+Correspondências-avião sobretaxadas e sem sobretaxa
 
 1 - As correspondências-avião dividem-se, no que se refere às taxas, em correspondências-avião sobretaxadas e correspondências-avião sem sobretaxa.
 
@@ -5854,7 +6088,9 @@ e tais que o comprimento seja igual ou superior à largura multiplicada pela [([
 
 5 - Os aerogramas, tal como se acham referidos no artigo 72, pagam uma taxa, pelo menos, igual à que se aplica, no país de origem, a uma carta sem sobretaxa do primeiro escalão de peso de serviço internacional.
 
-###### Artigo 74 — Sobretaxa aérea
+Artigo 74
+
+Sobretaxa aérea
 
 1 - As administrações fixam as sobretaxas aéreas a cobrar pelo encaminhamento. Têm a faculdade de admitir, para a fixação das sobretaxas, escalões de peso inferiores aos previstos no artigo 19.
 
@@ -5868,7 +6104,9 @@ e tais que o comprimento seja igual ou superior à largura multiplicada pela [([
 
 6 - As administrações ficam autorizadas a tomar em conta o peso dos impressos para uso do público, eventualmente apensados às correspondências-avião, no cálculo da sobretaxa. O peso do aviso de recepção é sempre tido em consideração.
 
-###### Artigo 75 — Taxas combinadas
+Artigo 75
+
+Taxas combinadas
 
 1 - Derrogando o artigo 74, as administrações podem fixar taxas combinadas para a franquia das correspondências-avião, tendo em conta:
 
@@ -5880,11 +6118,15 @@ As administrações têm a faculdade de considerar como custo previsto na alíne
 
 2 - Com excepção dos artigos 77 e 80, as disposições referentes às sobretaxas aéreas aplicam-se por analogia às taxas combinadas.
 
-###### Artigo 76 — Modalidades de franquia
+Artigo 76
+
+Modalidades de franquia
 
 Além das modalidades previstas no artigo 28, a franquia das correspondências-avião sobretaxadas pode ser representada por uma menção indicando que o total da franquia foi pago, por exemplo: «Taxe perçue». Esta menção deve ser inscrita na parte superior direita do lado do endereço e autenticada com a marca do dia da estação de origem.
 
-###### Artigo 77 — Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia
+Artigo 77
+
+Correspondências-avião sobretaxadas com falta total ou insuficiência de franquia
 
 1 - As correspondências-avião sobretaxadas com falta total ou insuficiência de franquia que não é possível fazer regularizar pelos remetentes são tratadas como segue:
 
@@ -5894,7 +6136,9 @@ b) Em caso de insuficiência de franquia, as correspondências-avião sobretaxad
 
 2 - Se os elementos necessários para o cálculo do quantitativo da taxa a cobrar não forem indicados pela administração de origem, as correspondências-avião são consideradas devidamente franqueadas e tratadas como tal.
 
-###### Artigo 78 — Encaminhamento das correspondências-avião e das malas-avião em trânsito
+Artigo 78
+
+Encaminhamento das correspondências-avião e das malas-avião em trânsito
 
 1 - As administrações devem encaminhar pelas comunicações aéreas que utilizarem para o transporte das suas correspondências-avião as correspondências-avião que receberem de outras administrações.
 
@@ -5904,7 +6148,9 @@ b) Em caso de insuficiência de franquia, as correspondências-avião sobretaxad
 
 4 - Quando a administração do país de origem o pretender, as malas no aeroporto de trânsito são transbordadas directamente entre duas companhias aéreas diferentes, desde que as companhias aéreas interessadas aceitem assegurar o transbordo e que a administração do país de trânsito tenha sido disso previamente informada.
 
-###### Artigo 79 — Prioridade do tratamento das correspondências-avião
+Artigo 79
+
+Prioridade do tratamento das correspondências-avião
 
 As administrações tomam todas as providências necessárias para:
 
@@ -5916,7 +6162,9 @@ c) Acelerar as operações inerentes a verificação aduaneira das correspondên
 
 d) Reduzir rigorosamente ao mínimo o tempo necessário para encaminhar ao país de destino as correspondências depositadas no seu país e para distribuir aos destinatários as correspondências recebidas de países estrangeiros.
 
-###### Artigo 80 — Reexpedição das correspondências-avião
+Artigo 80
+
+Reexpedição das correspondências-avião
 
 1 - As cartas-avião e os bilhetes-postais-avião endereçados a um destinatário que tenha mudado de endereço são reexpedidos para o seu novo destino pela via mais rápida (aérea ou de superfície). As outras correspondências-avião são reexpedidas pelos meios de transporte normalmente utilizados para a correspondência não sobretaxada, salvo nos casos previstos nos parágrafos 2, 3 e 4. Para este efeito são aplicáveis, por analogia, os parágrafos 1 a 3 do artigo 34.
 
@@ -5928,7 +6176,9 @@ d) Reduzir rigorosamente ao mínimo o tempo necessário para encaminhar ao país
 
 5 - Os sobrescritos especiais C6 e os sacos, utilizados para a reexpedição colectiva das cartas-avião e bilhetes-postais-avião, incluídos os mencionados no parágrafo 4, são encaminhados para o seu destino pela via mais rápida (aérea ou de superfície). Aqueles que contenham outros tipos de correspondência são encaminhados pelos meios de transporte normalmente utilizados para a correspondência não sobretaxada, a não ser que as sobretaxas, as taxas combinadas ou as taxas especiais previstas no parágrafo 3 tenham sido pagas antecipadamente na estação reexpedidora ou que o destinatário se responsabilize pelas sobretaxas correspondentes ao novo percurso aéreo, de harmonia com as disposições do parágrafo 2.
 
-###### Artigo 81 — Devolução à origem das correspondências-avião
+Artigo 81
+
+Devolução à origem das correspondências-avião
 
 1 - As cartas-avião e os bilhetes-postais-avião não susceptíveis de distribuição e que devem ser devolvidos à origem sê-lo-ão pela via mais rápida (aérea ou de superfície).
 
@@ -5936,9 +6186,13 @@ d) Reduzir rigorosamente ao mínimo o tempo necessário para encaminhar ao país
 
 3 - Para a devolução das correspondências à origem por via aérea, a pedido do remetente, o artigo 80, parágrafos 2 a 4, é aplicável por analogia.
 
-### CAPÍTULO II — Encargos de transporte aéreo
+CAPÍTULO II
 
-###### Artigo 82 — Princípios gerais
+Encargos de transporte aéreo
+
+Artigo 82
+
+Princípios gerais
 
 1 - Os encargos de transporte em todo o percurso aéreo ficam:
 
@@ -5958,7 +6212,9 @@ a) O transbordo das malas-avião entre dois aeroportos que sirvam a mesma cidade
 
 b) O transporte destas malas entre o aeroporto que sirva uma cidade e um entreposto situado na mesma cidade e o regresso das malas referidas, a fim de serem reexpedidas.
 
-###### Artigo 83 — Taxas básicas e cálculo dos encargos de transporte aéreo relativos às malas fechadas
+Artigo 83
+
+Taxas básicas e cálculo dos encargos de transporte aéreo relativos às malas fechadas
 
 1 - A taxa básica a aplicar à liquidação das contas entre as administrações, por motivo dos transportes aéreos, é fixada, no máximo, em 1,74 milésimos do franco-ouro (0,568 milésimos do DTS) por quilograma de peso bruto e por quilómetro; esta taxa aplica-se proporcionalmente às fracções de quilograma.
 
@@ -5972,7 +6228,9 @@ b) O transporte destas malas entre o aeroporto que sirva uma cidade e um entrepo
 
 6 - O preço do transporte aéreo internacional e interno que resulta do produto da taxa básica efectiva pela distância e servem para o cálculo dos encargos a que aludem os parágrafos 2, 3 e 4 arredondam-se para o décimo superior quando a quantidade formada pelo algarismo dos centésimos e pelo dos milésimos for igual ou superior a 50; são arredondados para o décimo inferior em caso contrário.
 
-###### Artigo 84 — Cálculo e conta geral dos encargos do transporte aéreo das correspondências-avião em trânsito a descoberto
+Artigo 84
+
+Cálculo e conta geral dos encargos do transporte aéreo das correspondências-avião em trânsito a descoberto
 
 1 - Os encargos de transporte aéreo relativos às correspondências-avião, em trânsito, a descoberto são calculados, em princípio, como se indica no artigo 83, parágrafo 2, mas em função do peso líquido dessas correspondências. São calculados com base num certo número das taxas médias, que não pode exceder 10, e cada uma destas taxas, respeitante a um grupo de países de destino, é fixada em função da tonelagem do correio desembarcado nos vários destinos incluídos nesse grupo. A importância total destes encargos, que não pode exceder os que devem ser pagos pelo transporte, é aumentada de 5%.
 
@@ -5980,7 +6238,9 @@ b) O transporte destas malas entre o aeroporto que sirva uma cidade e um entrepo
 
 3 - A conta geral efectua-se na base do peso real, quando se tratar de correspondência mal encaminhada, depositada a bordo de navios ou transmitida com frequências irregulares ou em quantidades muito variáveis. Porém, esta conta só se elabora se a administração intermediária pedir para ser remunerada pelo transporte destas correspondências.
 
-###### Artigo 85 — Modificações das taxas de encargos de transporte aéreo no interior do país de destino e das correspondências-avião em trânsito a descoberto
+Artigo 85
+
+Modificações das taxas de encargos de transporte aéreo no interior do país de destino e das correspondências-avião em trânsito a descoberto
 
 As modificações introduzidas nas taxas de encargos de transporte aéreo previstas nos artigos 83, parágrafo 3, e 84 devem:
 
@@ -5988,7 +6248,9 @@ a) Entrar em vigor exclusivamente em 1 de Janeiro;
 
 b) Ser notificadas com, pelo menos, três meses de antecedência, à Secretaria Internacional, que as comunicará a todas as administrações pelo menos dois meses antes da data fixada na alínea a).
 
-###### Artigo 86 — Pagamento dos encargos de transporte aéreo
+Artigo 86
+
+Pagamento dos encargos de transporte aéreo
 
 1 - Os encargos de transporte aéreo relativos às malas-avião são pagos, salvo as excepções previstas nos parágrafos 2 e 4, à administração do país de que depende o serviço aéreo utilizado.
 
@@ -6002,7 +6264,9 @@ b) A administração que entrega as malas-avião a uma empresa de transporte aé
 
 4 - A menos que outras disposições tenham sido tomadas, os encargos de transporte das correspondências-avião transbordadas directamente entre duas companhias aéreas diferentes, em conformidade com o artigo 78, parágrafo 4, são liquidados pela administração de origem, ou directamente ao primeiro transportador, que é então encarregado de remunerar o transportador seguinte, ou directamente a cada transportador que interveio no transbordo.
 
-###### Artigo 87 — Encargos do transporte aéreo das malas ou sacos com alteração de percurso ou mal encaminhados
+Artigo 87
+
+Encargos do transporte aéreo das malas ou sacos com alteração de percurso ou mal encaminhados
 
 1 - A administração de origem de uma mala desviada no decurso do transporte deve pagar os encargos do transporte desta expedição relativos aos percursos realmente feitos.
 
@@ -6024,13 +6288,19 @@ b) Pela administração que recebeu os encargos de transporte pagos à companhia
 
 5 - A administração de origem de uma expedição ou de um saco mal encaminhado em consequência de um erro de rotulagem deve pagar os encargos de transporte relativos a todo o percurso aéreo de acordo com o artigo 82, parágrafo 1, alínea a).
 
-###### Artigo 88 — Encargos de transporte aéreo de correio perdido ou destruído
+Artigo 88
+
+Encargos de transporte aéreo de correio perdido ou destruído
 
 No caso de perda ou destruição do correio em consequência de acidente sofrido pelo avião ou por qualquer outro motivo da responsabilidade da empresa de transporte aéreo, a administração de origem fica isenta de qualquer pagamento relativo ao transporte aéreo de correio perdido ou destruído, qualquer que tenha sido a parte do percurso utilizada da linha aérea.
 
-## TÍTULO II — Correio de superfície transportado por via aérea (SAL)
+TÍTULO II
 
-###### Artigo 89 — Permuta das expedições de superfície por via aérea
+Correio de superfície transportado por via aérea (SAL)
+
+Artigo 89
+
+Permuta das expedições de superfície por via aérea
 
 1 - As administrações têm a faculdade de expedir por avião, com prioridade reduzida, as expedições de correio de superfície, salvo acordo das administrações que receberam estas expedições nos aeroportos dos seus países.
 
@@ -6038,7 +6308,9 @@ No caso de perda ou destruição do correio em consequência de acidente sofrido
 
 3 - As expedições de superfície transportadas por via aérea podem ser transbordadas directamente entre duas companhias aéreas diferentes nas condições previstas no artigo 78, parágrafo 4.
 
-###### Artigo 90 — Sobretaxas aéreas reduzidas
+Artigo 90
+
+Sobretaxas aéreas reduzidas
 
 As administrações têm a faculdade de cobrar, para o correio SAL, sobretaxas aéreas inferiores às que são cobradas para as correspondências-avião, em consequência da aplicação do artigo 73.
 
@@ -6046,7 +6318,9 @@ QUARTE PARTE
 
 Disposições finais
 
-###### Artigo 91 — Condições de aprovação das propostas respeitantes à Convenção e ao Regulamento de execução
+Artigo 91
+
+Condições de aprovação das propostas respeitantes à Convenção e ao Regulamento de execução
 
 1 - Para se tornarem executórias, as propostas apresentadas ao Congresso e relativas à presente Convenção e ao seu Regulamento devem ser aprovadas pela maioria dos países membros presentes e que votem. A metade dos países membros representados no Congresso deve estar presente no momento do voto.
 
@@ -6062,7 +6336,9 @@ c) Maioria de votos, no caso de se tratar de:
 
 2.º Interpretação das disposições da Convenção, do seu Protocolo final e do seu Regulamento, excepto o caso de litígio, a submeter à arbitragem prevista no artigo 32 da Constituição.
 
-###### Artigo 92 — Entrada em vigor e duração da Convenção
+Artigo 92
+
+Entrada em vigor e duração da Convenção
 
 A presente Convenção será posta em execução no dia 1 de Janeiro de 1986 e vigorará até à entrada em execução dos actos do próximo congresso.
 
@@ -6286,9 +6562,13 @@ PRIMEIRA PARTE
 
 Disposições gerais
 
-### CAPÍTULO I — Regras comuns aplicáveis ao serviço postal internacional
+CAPÍTULO I
 
-###### Artigo 101 — Organização e liquidação de contas
+Regras comuns aplicáveis ao serviço postal internacional
+
+Artigo 101
+
+Organização e liquidação de contas
 
 1 - Cada administração organiza as suas contas e submete-as às suas correspondentes, em duplicado. Um dos exemplares aceites, eventualmente modificado ou acompanhado da relação das diferenças, é devolvido à administração credora. Esta conta se for necessário, serve de base para a organização da conta final entre as duas administrações.
 
@@ -6298,7 +6578,9 @@ Disposições gerais
 
 As contas dos serviços de telecomunicações podem ser também incluídas nestas contas especiais.
 
-###### Artigo 102 — Pagamento dos créditos expressos em DTS. Disposições gerais
+Artigo 102
+
+Pagamento dos créditos expressos em DTS. Disposições gerais
 
 1 - Sem prejuízo do artigo 12 da Convenção, as regras de pagamento adiante prescritas são aplicáveis a todos os créditos expressos em DTS e provenientes do tráfego postal, quer resultem de contas gerais ou relações elaboradas pela Secretaria Internacional, quer de contas ou mapas organizados sem a sua intervenção; as mesmas regras regulam igualmente o pagamento das diferenças, dos juros, ou, eventualmente, de pagamentos por conta.
 
@@ -6308,7 +6590,9 @@ As contas dos serviços de telecomunicações podem ser também incluídas nesta
 
 4 - A inclusão de uma conta de correio aéreo numa conta geral compreendendo diferentes débitos não deve originar atraso no pagamento dos encargos de transporte aéreo devido à companhia aérea interessada.
 
-###### Artigo 103 — Regras de pagamento
+Artigo 103
+
+Regras de pagamento
 
 1 - Os créditos são pagos na moeda escolhida pela administração credora, após a consulta da administração devedora, se houver desacordo, a escolha da administração credora deve prevalecer em qualquer caso. Se a administração credora não especificar uma determinada moeda, a escolha cabe à administração devedora.
 
@@ -6334,7 +6618,9 @@ No caso de outras moedas de pagamento - em primeiro lugar, efectuar a conversão
 
 10 - Quando o pagamento se efectuar, o cheque, a letra ou a ordem de pagamento são acompanhados das indicações respeitantes ao titular, ao período e à importância em DTS, à taxa de conversão utilizada e à data de aplicação dessa taxa para cada conta incluída na quantia total paga. Se não for possível que o título de pagamento seja acompanhado dos elementos necessários, deve ser expedida, pela via aérea, uma carta explicativa no dia em que o pagamento tenha lugar. Estes elementos devem ser redigidos em francês ou outra língua conhecida da administração onde o pagamento for efectuado.
 
-###### Artigo 104 — Fixação dos equivalentes
+Artigo 104
+
+Fixação dos equivalentes
 
 1 - As administrações fixam os equivalentes das taxas postais previstas pela Convenção, acordos e seus protocolos finais, assim como o preço de venda dos cupões-resposta internacionais. São comunicados à Secretaria Internacional para efeito da sua notificação às administrações postais. Para tal, cada administração deve comunicar à Secretaria Internacional o valor médio do DTS na moeda do seu país, segundo as disposições enunciadas no parágrafo 2.
 
@@ -6354,13 +6640,17 @@ d) Como variante das soluções das alíneas b) e c) para qualquer moeda cujo va
 
 5 - Cada administração comunica directamente à Secretaria Internacional o equivalente por ela fixado para as indemnizações previstas no artigo 50, parágrafo 4, da Convenção.
 
-###### Artigo 105 — Selos. Notificação das emissões e permuta entre administrações
+Artigo 105
+
+Selos. Notificação das emissões e permuta entre administrações
 
 1 - Cada nova emissão de selos é notificada pela administração em causa a todas as outras administrações por intermédio da Secretaria Internacional, com as indicações necessárias.
 
 2 - As administrações permutam, por intermédio da Secretaria Internacional, três exemplares de cada nova emissão de selos postais.
 
-###### Artigo 106 — Bilhetes de identidade
+Artigo 106
+
+Bilhetes de identidade
 
 1 - Cada administração designa as estações ou serviços autorizados a passar bilhetes de identidade postais.
 
@@ -6376,13 +6666,17 @@ d) Como variante das soluções das alíneas b) e c) para qualquer moeda cujo va
 
 7 - Os bilhetes de identidade postais podem, depois de emitidos, ser estratificados em qualquer matéria plástica, ao critério de cada administração.
 
-###### Artigo 107 — Prazos de conservação dos documentos
+Artigo 107
+
+Prazos de conservação dos documentos
 
 1 - Os documentos de serviço internacional devem ser conservados durante o prazo mínimo de 18 meses a contar do dia imediato à data a que se referem. No entanto, se esses documentos forem reproduzidos em microfilme, em microficha ou num suporte análogo, podem ser destruídos, desde que se verifique que a reprodução é satisfatória.
 
 2 - Os documentos relativos a qualquer litígio ou reclamação devem ser conservados até a questão estar solucionada. Se a administração reclamante, regularmente informada das conclusões do inquérito, deixar passar seis meses a contar da data de comunicação sem formular objecções, a questão considera-se liquidada.
 
-###### Artigo 108 — Endereços telegráficos
+Artigo 108
+
+Endereços telegráficos
 
 1 - Para as comunicações telegráficas que trocam entre si, as administrações usam os endereços telegráficos seguintes:
 
@@ -6398,13 +6692,15 @@ c) «Postex», para os telegramas destinados às estações de permuta.
 
 4 - Os endereços telegráficos indicados nos parágrafos 1 e 3 e completados, conforme o caso, por indicação da estação expedidora servem igualmente para a assinatura das comunicações telegráficas.
 
-### CAPÍTULO II
+CAPÍTULO II
 
 Secretaria Internacional.
 
 Esclarecimento que se lhe deve enviar. Publicações
 
-###### Artigo 109 — Comunicações e esclarecimento que se deve enviar à Secretaria Internacional
+Artigo 109
+
+Comunicações e esclarecimento que se deve enviar à Secretaria Internacional
 
 1 - As administrações devem comunicar à Secretaria Internacional:
 
@@ -6440,11 +6736,15 @@ n) As suas taxas postais internas.
 
 3 - As administrações devem fornecer à Secretaria Internacional dois exemplares dos documentos que publicarem, quer relativos ao serviço interno, quer ao serviço internacional. Fornecem igualmente, tanto quanto possível, as outras obras publicadas no seu país respeitantes ao serviço postal.
 
-###### Artigo 110 — Esclarecimentos mútuos entre administrações
+Artigo 110
+
+Esclarecimentos mútuos entre administrações
 
 As administrações dos países contratantes que mantiveram permutas directas trocam entre si as informações relativas à permuta de cartas com valor declarado por meio de quadros, conforme o modelo anexo VD 1.
 
-###### Artigo 111 — Publicações
+Artigo 111
+
+Publicações
 
 1 - A Secretaria Internacional publica, de acordo com as informações prestadas em virtude do artigo 109, um compêndio oficial das informações de interesse geral respeitantes à execução dos acordos e dos seus regulamentos de harmonia com as informações prestadas pelas administrações interessadas, em virtude das disposições correspondentes do regulamento de execução de cada um dos acordos.
 
@@ -6490,7 +6790,9 @@ O vocabulário poliglota de serviço postal internacional.
 
 4 - As modificações introduzidas nos diferentes documentos enumerados nos parágrafos 1 a 3 são notificados por circular, boletim, suplemento ou por qualquer meio conveniente.
 
-###### Artigo 112 — Distribuição de publicações
+Artigo 112
+
+Distribuição de publicações
 
 1 - Os documentos publicados pela Secretaria Internacional são distribuídos às administrações segundo as regras seguintes:
 
@@ -6506,11 +6808,17 @@ II PARTE
 
 Disposições relativas aos objectos de correspondência
 
-## TÍTULO I — Condições de aceitação dos objectos de correspondência postal
+TÍTULO I
 
-### CAPÍTULO I — Disposições aplicáveis a todas as categorias de correspondência
+Condições de aceitação dos objectos de correspondência postal
 
-###### Artigo 113 — Endereço. Acondicionamento
+CAPÍTULO I
+
+Disposições aplicáveis a todas as categorias de correspondência
+
+Artigo 113
+
+Endereço. Acondicionamento
 
 1 - As administrações devem recomendar aos utentes:
 
@@ -6546,11 +6854,15 @@ i) Que indiquem igualmente o endereço do destinatário em cada pacote de impres
 
 7 - Os sobrescritos cujos bordos são providos de orlas de cor são reservados para a correspondência por avião.
 
-###### Artigo 114 — Correspondência posta-restante
+Artigo 114
+
+Correspondência posta-restante
 
 O endereço da correspondência dirigida para a posta-restante deve indicar o nome do destinatário. O uso de iniciais, algarismos, simples nomes próprios, nomes supostos ou quaisquer sinais convencionais não é admissível nesta correspondência.
 
-###### Artigo 115 — Correspondência expedida com isenção de franquia
+Artigo 115
+
+Correspondência expedida com isenção de franquia
 
 1 - A correspondência que beneficie de isenção de franquia deve apresentar, no ângulo superior direito do lado do endereço, as indicações seguintes, que podem ser seguidas de uma tradução:
 
@@ -6560,7 +6872,9 @@ b) «Service des prisonniers de guerre», ou «service des internés», quanto a
 
 c) «Cecogrammes», quanto aos objectos referidos no artigo 17 da Convenção.
 
-###### Artigo 116 — Correspondência sujeita a verificação aduaneira
+Artigo 116
+
+Correspondência sujeita a verificação aduaneira
 
 1 - A correspondência sujeita a verificação aduaneira deve ter aposta, na frente, uma etiqueta verde gomada conforme o modelo anexo C 1, ou ser provida de um rótulo volante do mesmo modelo. A etiqueta gomada C 1 afixa-se no lado do endereço, tanto quanto possível no ângulo superior esquerdo, eventualmente sob o nome e endereço do remetente. Mediante autorização da administração de origem, os utentes podem utilizar sobrescritos ou invólucros que apresentem previamente impresso, no lugar previsto para a colocação da etiqueta C 1, um fac-símile desta, cujas dimensões e cor devem ser idênticas à etiqueta C 1. No caso de o valor do conteúdo declarado pelo remetente exceder 918,30 francos-ouro (300 DTS), ou se o remetente o preferir, a correspondência deve ser, além disso, acompanhada de declarações para a alfândega, conforme o modelo anexo C 2/CP 3 e na quantidade prescrita; neste caso apenas se apõe sobre a correspondência a parte superior da etiqueta C 1.
 
@@ -6576,7 +6890,9 @@ c) «Cecogrammes», quanto aos objectos referidos no artigo 17 da Convenção.
 
 7 - As administrações fazem o possível para informar os remetentes da forma correcta de preencher etiquetas C 1 ou as declarações para a alfândega, sem que, porém, assumam qualquer responsabilidade por essas declarações.
 
-###### Artigo 117 — Correspondência livre de encargos
+Artigo 117
+
+Correspondência livre de encargos
 
 1 - A correspondência a entregar aos destinatários, livre de quaisquer encargos, deve apresentar na parte superior da frente, em caracteres bem visíveis, a indicação «Franc de taxes et de droits» ou outra menção análoga na língua do país de origem. Nesta correspondência deve ser aposta uma etiqueta de cor amarela, a qual deve também conter, em caracteres bem visíveis, a indicação «Franc de taxes et de droits». A indicação e a etiqueta devem figurar no lado do endereço, tanto quanto possível no ângulo superior esquerdo, eventualmente sob o nome e endereço do remetente.
 
@@ -6588,9 +6904,13 @@ a) Se o pedido tiver de ser transmitido por via postal, a estação de origem in
 
 b) Se o pedido tiver de ser transmitido por via telegráfica, a estação de origem informa deste facto, por via telegráfica, a estação destinatária, comunicando-lhe ao mesmo tempo as indicações relativas à aceitação da correspondência. A estação destinatária deve preencher o boletim de franquia.
 
-### CAPÍTULO II — Regras relativas à embalagem da correspondência
+CAPÍTULO II
 
-###### Artigo 118 — Acondicionamento. Embalagem
+Regras relativas à embalagem da correspondência
+
+Artigo 118
+
+Acondicionamento. Embalagem
 
 1 - As correspondências devem ser acondicionadas solidamente e de forma que outras correspondências não corram o risco de nelas se extraviarem. A embalagem deve ser adaptada à forma e à natureza do conteúdo e às condições de transporte. Todas as correspondências devem ser acondicionadas de forma a não prejudicar a saúde dos agentes, bem como a evitar qualquer perigo se elas contiverem objectos que possam ferir os agentes encarregados de os manipular, ou sujar ou deteriorar outros objectos ou o equipamento postal.
 
@@ -6610,11 +6930,13 @@ f) As abelhas vivas, as sanguessugas e os parasitas devem ser encerrados em caix
 
 3 - Os objectos contendo medicamentos urgentes devem estar munidos, do lado do endereço do destinatário, de uma etiqueta, de cor verde-clara, com a menção e símbolos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 4 - Não são exigidos invólucros para os objectos constituídos por uma só peça, tais como as peças de madeira, peças metálicas, etc., que no comércio não seja costume revestir de qualquer acondicionamento. Neste caso o endereço do destinatário deve ser indicado no próprio objecto.
 
-###### Artigo 119 — Acondicionamento. Matérias biológicas deterioráveis infecciosas
+Artigo 119
+
+Acondicionamento. Matérias biológicas deterioráveis infecciosas
 
 1 - As matérias biológicas deterioráveis que sejam infecciosas, ou que com fundamento se possa suspeitar de o serem, para o homem ou para os animais, devem ser consideradas «Substances infectieuses». As cartas que contenham estas substâncias ficam sujeitas às regras especiais de acondicionamento indicadas nos parágrafos seguintes.
 
@@ -6636,15 +6958,19 @@ b) Quando se tratar de substâncias refrigeradas ou congeladas durante o transpo
 
 4 - Tanto a caixa exterior como o invólucro exterior, se o houver, devem estar providos, do lado que representa os endereços do laboratório de destino devidamente autorizados, uma etiqueta normalizada em forma de losango de 10 cm x 10 cm ou de 5 cm x 5 cm, com letras pretas sobre fundo branco. Na metade superior figura o símbolo aprovado para as substâncias infecciosas e na metade inferior os dizeres «Substância infecciosa. Em caso de dano ou ruptura, avisar imediatamente as autoridades de saúde pública». O modelo desta etiqueta é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
-###### Artigo 120 — Acondicionamento. Matérias biológicas deterioráveis não infecciosas
+Artigo 120
+
+Acondicionamento. Matérias biológicas deterioráveis não infecciosas
 
 As cartas que contenham matérias biológicas deterioráveis não infecciosas ficam sujeitas às seguintes regras de acondicionamento: as matérias biológicas deterioráveis que não contenham microrganismos patogénicos vivos nem vírus patogénicos vivos devem ser embaladas dentro de um recipiente protector externo, de uma substância absorvente colocada quer no recipiente interno, quer entre os recipientes interno e externo; esta substância deve ser em quantidade suficiente para absorver todo o líquido contido ou susceptível de se formar no recipiente interno, no caso de este se quebrar. Por outro lado, o conteúdo dos recipientes, tanto interno como externo, deve ser acondicionado de modo a evitar qualquer deslocação. Devem ser tomadas disposições especiais, tais como dessecação por congelação e invólucro de gelo, para assegurar a conservação das matérias sensíveis a temperaturas elevadas. O transporte por via aérea, sujeito a mudanças de pressão atmosférica, exige, se o material for acondicionado em ampolas hermeticamente fechadas ou em garrafas bem rolhadas, que estes recipientes sejam bastante sólidos para resistir às variações de pressão. O recipiente externo, assim como o invólucro externo do objecto, deve apresentar, no lado onde constam os endereços do laboratório remetente e do laboratório de destino, uma etiqueta de cor violeta em que figurem a menção e o símbolo seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
-###### Artigo 121 — Acondicionamento. Matérias radioactivas
+Artigo 121
+
+Acondicionamento. Matérias radioactivas
 
 1 - As remessas de matérias radioactivas cujo conteúdo e acondicionamento forem conforme as recomendações da Agência Internacional de Energia Atómica, que prevêem isenções especiais para determinadas categorias de remessas, são admitidas no transporte pelo correio, mediante prévia autorização dos organismos competentes do país de origem.
 
@@ -6654,7 +6980,9 @@ As cartas que contenham matérias biológicas deterioráveis não infecciosas fi
 
 4 - As administrações podem designar estações de correio especialmente destinadas à aceitação de correspondências que contenham matérias radioactivas.
 
-###### Artigo 122 — Acondicionamento. Verificação do conteúdo
+Artigo 122
+
+Acondicionamento. Verificação do conteúdo
 
 1 - Os impressos e os cecogramas devem ser acondicionados de forma a proteger suficientemente o seu conteúdo, sem prejuízo da sua pronta e fácil verificação. Devem ser expedidos em cintas, em rolos, entre cartões, em sacos, caixas, sobrescritos ou estojos não selados, mas fechados de forma a poderem ser facilmente abertos e fechados de novo, que não ofereçam perigo, ou ainda atados com cordel fácil de desatar. A administração de origem determina se o fecho desses objectos permite uma verificação rápida e fácil do conteúdo. Os impressos constituídos por livros e brochuras podem ser aceites com embalagens de origem fechadas e transparentes. Nenhuma condição especial de fecho é exigida para os impressos contendo livros; esses objectos podem ser abertos para verificação do conteúdo. As administrações interessadas podem exigir que o remetente ou o destinatário facilitem a verificação do conteúdo, quer pela abertura de alguns dos objectos escolhidos por essas administrações, quer de outra maneira que satisfaça o fim em vista.
 
@@ -6664,7 +6992,9 @@ As cartas que contenham matérias biológicas deterioráveis não infecciosas fi
 
 4 - Nenhuma condição especial de fecho é exigida para os pacotes postais; as correspondências como tal designadas podem ser abertas para a verificação do conteúdo. Porém, por analogia com as condições previstas no parágrafo 2 para os impressos, as administrações de origem podem limitar a permissão de fechar os pacotes postais aos objectos entregues em quantidade. Os artigos susceptíveis de sofrerem deteriorações, quando acondicionados de harmonia com as regras gerais, assim como as remessas de mercadorias colocadas em invólucros transparentes, que permitam a verificação do conteúdo, são aceites com invólucros hermeticamente fechados. Procede-se do mesmo modo com os produtos industriais e vegetais, depositados no correio em invólucros fechados pela fábrica, ou selados por uma autoridade verificadora do país de origem. Nestes casos, as administrações interessadas podem exigir que o remetente ou o destinatário facilite a verificação do conteúdo, quer abrindo alguns dos objectos por elas designados quer usando de qualquer outro meio que satisfaça.
 
-###### Artigo 123 — Correspondência em sobrescrito com espaço transparente
+Artigo 123
+
+Correspondência em sobrescrito com espaço transparente
 
 1 - A correspondência em sobrescrito com espaço transparente é aceite nas condições seguintes:
 
@@ -6688,13 +7018,19 @@ g) O conteúdo da correspondência deve ser dobrado de forma tal que, mesmo no c
 
 4 - As administrações de origem têm a faculdade de admitir sobrescritos com duas ou mais janelas transparentes. A janela reservada ao endereço do destinatário deve preencher as condições previstas no parágrafo 1. Para as outras janelas, as condições previstas no parágrafo 1, alíneas b), d), f) e g) são aplicáveis por analogia.
 
-### CAPÍTULO III — Disposições especiais aplicáveis a cada categoria de correspondência
+CAPÍTULO III
 
-###### Artigo 124 — Cartas
+Disposições especiais aplicáveis a cada categoria de correspondência
+
+Artigo 124
+
+Cartas
 
 Sob reserva das disposições relativas às correspondências normalizadas e à embalagem dos objectos, nenhuma condição de forma ou de fecho é exigível para as cartas. Porém, as cartas incluídas em sobrescritos devem ser rectangulares, a fim de não provocarem dificuldades no decurso do seu tratamento. As cartas que apresentem a consistência de bilhete-postal sem terem a sua forma devem igualmente ser incluídas em sobrescrito rectangular. O espaço necessário, na frente, para o endereço, franquia e indicações ou etiquetas de serviço deve ficar inteiramente livre.
 
-###### Artigo 125 — Bilhetes-postais
+Artigo 125
+
+Bilhetes-postais
 
 1 - Os bilhetes-postais devem ser rectangulares e feitos de cartão ou de papel, bastante consistentes, para não estorvar o tratamento do correio. Não devem comportar partes salientes ou em relevo.
 
@@ -6708,7 +7044,9 @@ Sob reserva das disposições relativas às correspondências normalizadas e à 
 
 6 - Os bilhetes-postais que não estejam nas condições prescritas para esta categoria de correspondência são tratados como cartas, com excepção, todavia, daqueles cuja irregularidade apenas consista na aplicação da franquia no verso. Derrogando o artigo 113, parágrafo 5, estes últimos são considerados em todos os casos como não franquiados e tratados em conformidade.
 
-###### Artigo 126 — Impressos
+Artigo 126
+
+Impressos
 
 1 - Podem ser expedidas como impressos as reproduções obtidas sobre papel, sobre cartão ou quaisquer outros materiais de uso habitual em tipografia, em vários exemplares idênticos, por meio de um processo mecânico ou fotográfico que compreenda a utilização de uma matriz, de um molde ou de um objecto negativo. A administração de origem decide se o objecto em causa foi reproduzido sobre um material e por um processo autorizado; ela não é obrigada a admitir à tarifa dos impressos as correspondências que não sejam admitidas como impressos no seu regime interno.
 
@@ -6748,7 +7086,9 @@ f) As fitas de papel perfuradas, bem como os cartões do sistema mecanográfico 
 
 7 - Os bilhetes com o título «Carte postale» ou o equivalente desse título em qualquer língua são admitidos à tarifa dos impressos, desde que respeitem as condições gerais aplicáveis aos impressos. Os que não preencherem essas condições são tratados como bilhetes-postais ou eventualmente como cartas, por aplicação do artigo 125, parágrafo 6.
 
-###### Artigo 127 — Impressos. Anotações e anexos autorizados
+Artigo 127
+
+Impressos. Anotações e anexos autorizados
 
 1 - Podem ser indicados nos impressos, por qualquer processo:
 
@@ -6790,7 +7130,9 @@ b) Às produções literárias ou artísticas impressas: a factura correspondent
 
 c) Aos jornais de modas: moldes recortados que, segundo as indicações neles expressas, formem um todo com o exemplar dentro do qual são expedidos.
 
-###### Artigo 128 — Impressos sob a forma de bilhetes
+Artigo 128
+
+Impressos sob a forma de bilhetes
 
 1 - Os impressos que apresentem a forma, a consistência e as dimensões de um bilhete-postal podem ser expedidos a descoberto.
 
@@ -6798,13 +7140,17 @@ c) Aos jornais de modas: moldes recortados que, segundo as indicações neles ex
 
 3 - Os impressos expedidos sob a forma de bilhete que não respeitem as condições prescritas nos parágrafos 1 e 2 são tratados como cartas, com excepção, todavia, daqueles cuja irregularidade resulte somente de aplicação de franquia no verso e que, derrogando o artigo 113, parágrafo 5, são considerados em todos os casos como não franquiados e como tal tratados.
 
-###### Artigo 129 — Cecogramas
+Artigo 129
+
+Cecogramas
 
 1 - Podem ser expedidas como cecogramas as cartas cecográficas depositadas abertas e os clichés com caracteres de cecografia. O mesmo sucede com os registos sonoros e o papel especial, destinados unicamente ao uso dos cegos, na condição de serem expedidos por instituto de cegos oficialmente reconhecido ou a ele endereçados.
 
 2 - As administrações de origem têm a faculdade de admitir como cecogramas os registos sonoros expedidos por um cego ou endereçados a um cego, caso esta possibilidade exista no seu serviço interno.
 
-###### Artigo 130 — Pacotes postais
+Artigo 130
+
+Pacotes postais
 
 1 - Os pacotes postais devem apresentar, em caracteres bem visíveis, no lado do endereço, o mais possível no ângulo superior esquerdo, eventualmente sob o nome e morada do remetente, cuja indicação é obrigatória no exterior do objecto, a indicação «Petit paquet» ou a equivalente numa língua conhecida no país de destino.
 
@@ -6812,11 +7158,17 @@ c) Aos jornais de modas: moldes recortados que, segundo as indicações neles ex
 
 3 - Se não for usada a derrogação prevista pelo artigo 36, parágrafo 3, da Convenção, é também permitido incluir neles qualquer outro documento que não tenha a natureza de correspondência actual e pessoal, desde que ele não seja endereçado a um destinatário ou proveniente de um remetente diferente dos do pacote postal. A administração de origem decide se o ou os documentos incluídos respeitam essas condições. Procede-se identicamente quanto à inclusão nos pacotes postais dos discos fonográficos, das fitas, dos fios sujeitos ou não a um registo sonoro ou visual, dos cartões mecanográficos, das fitas magnéticas ou outros meios semelhantes bem como os bilhetes QSL.
 
-## TÍTULO II — Correspondências registadas e cartas com valor declarado
+TÍTULO II
 
-### CAPÍTULO I — Correspondências registadas
+Correspondências registadas e cartas com valor declarado
 
-###### Artigo 131 — Correspondências registadas
+CAPÍTULO I
+
+Correspondências registadas
+
+Artigo 131
+
+Correspondências registadas
 
 1 - As correspondências registadas devem apresentar, de forma clara, na parte superior da frente, em caracteres bem visíveis, a indicação «Recommandé», acompanhada, quando for o caso, de uma menção análoga na língua do país de origem.
 
@@ -6840,9 +7192,13 @@ c) Aos jornais de modas: moldes recortados que, segundo as indicações neles ex
 
 11 - As fitas adesivas eventualmente utilizadas para o fecho das correspondências registadas devem apresentar o nome, a marca, a chancela ou a assinatura do remetente. No caso de fecho de correspondências registadas com fita adesiva sem marca individual, a administração de origem pode prever um carimbo ou marca do dia sobreposta simultaneamente na fita e na embalagem.
 
-### CAPÍTULO II — Cartas com valor declarado
+CAPÍTULO II
 
-###### Artigo 132 — Acondicionamento das cartas com valor declarado
+Cartas com valor declarado
+
+Artigo 132
+
+Acondicionamento das cartas com valor declarado
 
 1 - As cartas com valor declarado, para que possam ser aceites e expedidas, devem satisfazer as seguintes condições:
 
@@ -6870,7 +7226,9 @@ a) A franquia pode ser apresentada por uma menção indicando que a totalidade d
 
 b) Não se aceitam os objectos cujo endereço se compuser de iniciais ou for escrito a lápis, assim com os que apresentem rasuras ou emendas no endereço; os objectos com valor declarado que tiverem sido indevidamente aceites são obrigatoriamente devolvidos à estação de origem.
 
-###### Artigo 133 — Cartas com valor declarado. Declaração de valor
+Artigo 133
+
+Cartas com valor declarado. Declaração de valor
 
 1 - O valor declarado deve ser expresso na moeda do país de origem e inscrito pelo remetente ou pelo seu mandatário, por cima do endereço, em caracteres latinos, por extenso e em algarismos árabes, sem rasuras nem emendas, embora ressalvadas; a indicação da importância da declaração do valor não pode ser feita nem a lápis nem a lápis-tinta.
 
@@ -6880,7 +7238,9 @@ b) Não se aceitam os objectos cujo endereço se compuser de iniciais ou for esc
 
 Se a carta não tiver sido ainda entregue ao destinatário, a administração de origem tem a possibilidade de solicitar que a mesma lhe seja devolvida.
 
-###### Artigo 134 — Cartas com valor declarado. Atribuições da estação de origem
+Artigo 134
+
+Cartas com valor declarado. Atribuições da estação de origem
 
 1 - Desde que a estação de origem reconheça que uma carta com valor declarado pode ser aceite, procede às seguintes operações:
 
@@ -6890,9 +7250,13 @@ b) Apõe-lhe do lado do endereço um carimbo que indique a estação e a data da
 
 2 - As administrações intermediárias não devem inscrever qualquer número de ordem na frente das cartas com valor declarado.
 
-### CAPÍTULO III — Aviso de recepção e entrega em mão própria
+CAPÍTULO III
 
-###### Artigo 135 — Aviso de recepção
+Aviso de recepção e entrega em mão própria
+
+Artigo 135
+
+Aviso de recepção
 
 1 - As correspondências para as quais o remetente pedir um aviso de recepção devem apresentar, na parte da frente, em caracteres bem visíveis, a indicação «Avis de réception» ou a marca do carimbo «AR». O remetente deve indicar no exterior do objecto o seu nome e morada, em caracteres latinos. Esta indicação, quando constar do lado do endereço, deve ser colocada no ângulo superior esquerdo. Esta zona deve igualmente, sempre que possível, ser reservada para indicação de «Avis de réception» ou para o carimbo «AR», que eventualmente podem ser colocados sob o nome e morada do remetente.
 
@@ -6906,13 +7270,19 @@ b) Apõe-lhe do lado do endereço um carimbo que indique a estação e a data da
 
 6 - A pedido do remetente, um aviso de recepção que não for devolvido nos prazos normais é reclamado gratuitamente por meio do impresso C 9. Um duplicado do aviso de recepção, contendo na frente, em caracteres muito visíveis, a menção «Duplicata», é junto à reclamação C 9. Esta última é tratada conforme o artigo 147. O impresso C 5 continua ligado à reclamação C 9, a não ser que a correspondência tenha sido regularmente distribuída, caso em que a estação de destino retira esse impresso, completa-o com a assinatura do destinatário, se possível, devolvendo-o conforme o parágrafo 5.
 
-###### Artigo 136 — Entrega em mão própria
+Artigo 136
+
+Entrega em mão própria
 
 A correspondência registada e as cartas com valor declarado a entregar em mão própria devem apresentar, na parte da frente, em caracteres bem visíveis, a indicação «À remettre en main, propre», ou equivalente, numa língua conhecida no país de destino. Esta indicação deve constar no lado do endereço e, tanto quanto possível, no ângulo superior esquerdo, eventualmente sob o nome e morada do remetente. Quando o remetente pedir um aviso de recepção e uma entrega em mão própria ao destinatário, o impresso C 5 deve ser assinado por este último ou, em caso de impossibilidade, pelo seu mandatário devidamente autorizado.
 
-## TÍTULO III — Operações na expedição e na recepção
+TÍTULO III
 
-### CAPÍTULO ÚNICO — Artigo 137
+Operações na expedição e na recepção
+
+CAPÍTULO ÚNICO
+
+Artigo 137
 
 Aplicação da marca do dia
 
@@ -6942,11 +7312,15 @@ b) Inutilizados por essa mesma estação, utilizando o bordo da marca do dia, de
 
 7 - A estação de destino aplica no verso de todas as cartas com valor declarado a sua marca do dia, indicando a data da recepção.
 
-###### Artigo 138 — Correspondência a entregar pelo próprio
+Artigo 138
+
+Correspondência a entregar pelo próprio
 
 Na correspondência a entregar pelo próprio deve ser aposta uma etiqueta especial, impressa de cor vermelho-clara, ou um carimbo da mesma cor, com a palavra «Exprès» em caracteres bem visíveis. Na falta de etiqueta ou do carimbo, a palavra «Exprès» deve ser inscrita de forma bem visível, em caracteres maiúsculos, com tinta vermelha ou com lápis de cor vermelha. A etiqueta, o carimbo ou a menção «Exprès» devem ser colocados no lado do endereço, tanto quanto possível no ângulo superior esquerdo, eventualmente sob o nome e morada do remetente.
 
-###### Artigo 139 — Correspondência com falta total ou insuficiência de franquia
+Artigo 139
+
+Correspondência com falta total ou insuficiência de franquia
 
 1 - Quando a administração do país de origem se encarrega de franquear oficiosamente as correspondências não franqueadas ou de completar oficiosamente a franquia das correspondências insuficientemente franqueadas para cobrar ulteriormente o valor em falta da parte remetente, a franquia ou o complemento da franquia podem ser representados:
 
@@ -6968,7 +7342,7 @@ Esta menção deve constar na parte superior direita do lado do endereço e ser 
 
 7 - Os selos postais e as impressões de franquia que não sejam válidas não devem ser tomadas em consideração para efeitos de franquia. Neste caso, deve inscrever-se o algarismo 0 ao lado destes selos postais ou destas impressões, que devem ser enquadrados a lápis.
 
-###### Artigo 140
+Artigo 140
 
 Devolução de boletins de franquia (parte A).
 
@@ -6988,7 +7362,9 @@ Cobrança das taxas e dos direitos
 
 7 - Ao receber a parte A de um boletim de franquia com indicação das quantias desembolsadas pelos serviços de destino, a administração de origem converte o total destas quantias na moeda do seu país, a um câmbio que não deve ser superior ao fixado para a emissão dos vales do correio destinados ao país correspondente. O resultado da conversão deve ser indicado no corpo do impresso e no talão lateral. Depois de recebidas as quantias devidas, a estação designada para o efeito envia ao remetente o talão do boletim e os documentos justificativos, se os houver.
 
-###### Artigo 141 — Correspondência reexpedida
+Artigo 141
+
+Correspondência reexpedida
 
 1 - A correspondência dirigida a destinatários que tenham mudado de endereço considera-se como endereçada directamente do lugar de origem para o lugar do novo destino.
 
@@ -7010,7 +7386,9 @@ Cobrança das taxas e dos direitos
 
 10 - Se a tentativa de entrega de um objecto ao domicílio por portador especial não tiver dado resultado, a estação reexpedidora deve riscar a etiqueta ou a indicação «Exprès» com dois traços grossos transversais.
 
-###### Artigo 142 — Reexpedição colectiva de correspondência postal
+Artigo 142
+
+Reexpedição colectiva de correspondência postal
 
 1 - Os objectivos ordinários a reexpedir para a mesma pessoa que tenha mudado de endereço, podem ser incluídos em sobrescritos especiais, conforme o modelo anexo C 6, fornecidos pelas administrações, e nos quais se deve escrever unicamente o nome e a nova morada do destinatário. Além disso, quando a entidade de correspondência a reexpedir colectivamente o justificar, pode ser utilizado um saco. Nestes casos os pormenores necessários devem ser inscritos sobre um rótulo especial, fornecido pela administração, e impresso, de um modo geral, segundo o mesmo modelo que o sobrescrito C 6.
 
@@ -7022,7 +7400,9 @@ Cobrança das taxas e dos direitos
 
 5 - Os objectos ordinários endereçados, quer aos tripulantes e passageiros embarcados num mesmo navio, quer a pessoas que viagem em comum, também podem ser tratados de harmonia com os parágrafos 1 a 4. Neste caso, os sobrescritos ou os rótulos do saco devem indicar o endereço do navio (da agência de navegação ou de viagem, etc.) para onde devem ser enviados os sobrescritos ou os sacos.
 
-###### Artigo 143 — Correspondência insusceptível de distribuição
+Artigo 143
+
+Correspondência insusceptível de distribuição
 
 1 - Antes de devolver à administração de origem a correspondência que, por qualquer motivo, não tenha sido distribuída, a estação de destino deve indicar, de modo claro e conciso, em língua francesa e, sempre que possível na frente desses objectos, o motivo porque não foram entregues, sob a forma seguinte: «Inconnu», «Refusé», «En voyage», «Parti», «Non réclamé», «Décédé», etc. Pelo que diz respeito aos bilhetes-postais e aos impressos em forma de bilhetes, a causa da falta da entrega deve ser indicada na metade do lado direito da frente.
 
@@ -7038,7 +7418,9 @@ Cobrança das taxas e dos direitos
 
 7 - As cartas com valor declarado que não forem entregues devem ser devolvidas logo que seja possível e o mais tardar nos prazos fixados pelo artigo 35 da Convenção; estes objectos são inscritos na guia VD 3 e incluídos no maço, sobrescrito ou saco rotulado «Valeurs déclarées».
 
-###### Artigo 144 — Restituição. Modificação de endereço
+Artigo 144
+
+Restituição. Modificação de endereço
 
 1 - Para pedir a restituição de correspondência ou modificação de endereço, o remetente deve preencher um impresso conforme o modelo anexo C 7; podem ser inscritos num único impresso vários objectos de correspondência, quando entregues simultaneamente na mesma estação pelo mesmo remetente e endereçados ao mesmo destinatário. No acto da entrega deste pedido na estação do correio, o remetente deve aprovar a sua identidade e, eventualmente, apresentar o recibo de registo. Provada a identidade, pela qual é responsável a administração do país de origem, proceder-se-á do seguinte modo:
 
@@ -7068,7 +7450,9 @@ Se o remetente de um pedido por via telegráfica pretender ser informado por tel
 
 7 - As administrações que usem da faculdade estabelecida no parágrafo 5 assumem as responsabilidades dos encargos resultantes da transmissão no seu serviço interno, por via postal ou telegráfica, das comunicações a permutar com a estação de destino. Deve utilizar-se obrigatoriamente a via telegráfica sempre que o remetente a use e quando a estação de destino não possa ser prevenida a tempo pela via postal.
 
-###### Artigo 145 — Restituição. Modificação de endereço. Correspondência depositada num país diferente daquele que recebe o pedido
+Artigo 145
+
+Restituição. Modificação de endereço. Correspondência depositada num país diferente daquele que recebe o pedido
 
 1 - Qualquer estação que receber um pedido de restituição ou de modificação de endereço apresentado de acordo com o artigo 33, parágrafo 3, da Convenção verifica a identidade do remetente da correspondência. A mesma estação verifica, nomeadamente, se o endereço do remetente figura devidamente no lugar previsto para o efeito no impresso C 7, para poder, na devida altura, comunicar a esse remetente o andamento dado ao seu pedido ou, conforme o caso, lhe restituir a correspondência que lhe deu lugar.
 
@@ -7080,7 +7464,9 @@ Se o remetente de um pedido por via telegráfica pretender ser informado por tel
 
 5 - O artigo 144 é aplicável, por analogia, à estação que recebe o pedido e à sua administração.
 
-###### Artigo 146 — Reclamações. Correspondência ordinária
+Artigo 146
+
+Reclamações. Correspondência ordinária
 
 1 - Qualquer reclamação relativa a uma correspondência ordinária implica o preenchimento de um impresso conforme o modelo anexo C 8, que deve ser acompanhado, sempre que seja possível, de um fac-símile do endereço da correspondência, redigido numa pequena folha de papel fino. O impresso deve ser preenchido com todos os pormenores que comporta o seu contexto e de forma muito legível, de preferência com caracteres maiúsculos latinos e com algarismos árabes. Tanto quanto possível, este impresso deve ser preenchido com a máquina de escrever.
 
@@ -7096,7 +7482,9 @@ Se o remetente de um pedido por via telegráfica pretender ser informado por tel
 
 7 - Se a transmissão telegráfica de uma reclamação tiver sido pedida, dirige-se um telegrama, em vez do impresso C 8, directamente à estação de destino ou, eventualmente, quer à administração central do país de destino, quer a uma estação especialmente indicada. Se o remetente pedir para ser avisado por via telegráfica, a resposta é transmitida por essa via ao servio onde tiver sido apresentada a reclamação telegráfica; de contrário, a resposta pode ser dada por via postal.
 
-###### Artigo 147 — Reclamações. Correspondência registada e cartas com valor declarado
+Artigo 147
+
+Reclamações. Correspondência registada e cartas com valor declarado
 
 1 - Qualquer reclamação relativa a uma correspondência registada ou a uma carta com valor declarado implica o preenchimento de um impresso, conforme o modelo anexo C 9, o qual deve ser acompanhado, sempre que possível, de um fac-símile do endereço da correspondência, redigida numa pequena folha de papel fino. O impresso deve ser preenchido com todos os pormenores que comporta o seu contexto e de forma muito legível, de preferência com caracteres maiúsculos latinos e algarismos árabes. Tanto quanto possível, este impresso deve ser preenchido com máquina de escrever. Para busca das correspondências registadas permutadas de acordo com o sistema de inscrição global, o número e a data da expedição da mala devem constar do impresso de reclamação C 9.
 
@@ -7126,13 +7514,17 @@ Se o remetente de um pedido por via telegráfica pretender ser informado por tel
 
 14 - Se se tiver pedido a transmissão telegráfica de uma reclamação, dirige-se um telegrama, em vez de um impresso C 9, directamente à estação de destino ou, eventualmente, quer à administração central do país de destino, quer à estação especialmente designada. Se o remetente tiver pedido para ser avisado pela via telegráfica, a resposta é transmitida por essa via para o serviço onde tiver sido apresentada a reclamação telegráfica; de contrário, a resposta deve ser dada pela via postal. Se a reclamação telegráfica não permitir determinar o destino do objecto de que se trata, a reclamação deve ser retomada por via postal, utilizando o impresso C 9, antes do direito à indemnização ser apreciado.
 
-###### Artigo 148 — Reclamações relativas à correspondência depositada noutro país
+Artigo 148
+
+Reclamações relativas à correspondência depositada noutro país
 
 1 - Nos casos previstos no artigo 42, parágrafo 3, da Convenção, os impressos C 8 e C 9, relativos a reclamações, devem ser enviados à estação de origem da correspondência, a não ser que a administração interessada tenha pedido que esses impressos sejam enviados à sua administração central ou a uma estação especialmente indicada. O recibo de registo deve ser apresentado, mas não se junta ao impresso C 9; este deve ser provido da indicação: «Vu récépissé de dépôt nº... délivré le ... par le bureau de ...»
 
 2 - O impresso deve chegar à administração de origem no prazo previsto no artigo 107, parágrafo 1.
 
-###### Artigo 149 — Entrega de uma carta com valor declarado espoliada ou avariada
+Artigo 149
+
+Entrega de uma carta com valor declarado espoliada ou avariada
 
 1 - Nos casos previstos no artigo 53, parágrafo 1, alíneas a) e b), da Convenção, a estação que efectua a entrega elabora um auto VD 4 de verificação contraditória, no qual obtém, tanto quanto possível, a assinatura do destinatário. Uma cópia do auto é entregue ao destinatário ou, em caso de recusa ou reexpedição do objecto anexado a este; uma cópia fica em poder da Administração que elabora o auto.
 
@@ -7140,15 +7532,21 @@ Se o remetente de um pedido por via telegráfica pretender ser informado por tel
 
 3 - Quando o regulamento interno o exige, um objecto tratado de acordo com o parágrafo 1 é devolvido ao remetente se o destinatário recusar a assinatura do auto VD 4.
 
-## TÍTULO IV — Permuta de correspondência. Malas
+TÍTULO IV
 
-### CAPÍTULO ÚNICO — Artigo 150
+Permuta de correspondência. Malas
+
+CAPÍTULO ÚNICO
+
+Artigo 150
 
 Permuta de correspondência
 
 As administrações podem permutar entre si, por intermédio de uma delas ou de várias, tanto malas fechadas como correspondência a descoberto, consoante as necessidades e as conveniências do serviço.
 
-###### Artigo 151 — Permuta em malas fechadas
+Artigo 151
+
+Permuta em malas fechadas
 
 1 - A formação de malas fechadas é obrigatória sempre que uma das administrações intermediárias o solicitar, fundamentando-se no facto de a quantidade ou o peso de correspondência a descoberto dificultar as suas operações. As expedições de correspondência a descoberto, cujo peso médio exceda 5 kg por expedição ou por dia (quando são efectuadas várias expedições por dia), podem ser consideradas como sendo de natureza a dificultar as operações no que respeita ao peso.
 
@@ -7158,11 +7556,15 @@ As administrações podem permutar entre si, por intermédio de uma delas ou de 
 
 4 - Quando uma quantidade excepcionalmente grande de objectos ordinários ou registados tenha de ser expedida com destino a países para os quais a expedição é normalmente encaminhada em trânsito a descoberto, a administração de origem está autorizada a formar malas fechadas para as estações de permuta do país de destino, devendo informar os países de trânsito e de destino por meio de um boletim de verificação C 16, previsto no artigo 176. Se for caso disso, esse impresso poderá servir de base para a liquidação de contas dessas malas.
 
-###### Artigo 152 — Trânsito territorial sem participação dos serviços do país atravessado
+Artigo 152
+
+Trânsito territorial sem participação dos serviços do país atravessado
 
 Quando uma administração deseja utilizar um serviço de transporte que efectua um encaminhamento em trânsito através de outro país sem participação dos serviços desse país, nos termos do artigo 3 da Convenção, ela dirige um pedido para o efeito à administração postal do país atravessado; além disso, fica obrigada a prestar a essa administração, se esta o pedir, toda a informação útil respeitante ao correio por essa forma encaminhado.
 
-###### Artigo 153 — Vias e formas de transmissão de cartas com valor declarado
+Artigo 153
+
+Vias e formas de transmissão de cartas com valor declarado
 
 1 - À vista dos mapas VD 1 recebidos das administrações correspondentes, cada administração determina as vias a empregar para a transmissão das duas cartas com valor declarado.
 
@@ -7174,7 +7576,9 @@ Quando uma administração deseja utilizar um serviço de transporte que efectua
 
 5 - Fica reservada às administrações de origem e de destino a faculdade de se entenderem entre si, para permutarem cartas com valor declarado em malas fechadas, por meio dos serviços de um ou mais países intermediários que participem ou não no serviço de cartas com valor declarado. Devem avisar-se as administrações intermediárias pelo menos um mês antes do início do serviço.
 
-###### Artigo 154 — Trânsito a descoberto
+Artigo 154
+
+Trânsito a descoberto
 
 1 - A transmissão de correspondência a descoberto para uma administração intermediária deve limitar-se estritamente aos casos em que não se justifique a expedição em malas fechadas para o país de destino, nos termos do artigo 151, parágrafo 1. A administração expedidora deve consultar as administrações intermediárias para se certificar se é favorável a via que pretende utilizar para expedir as suas correspondências.
 
@@ -7182,7 +7586,9 @@ Quando uma administração deseja utilizar um serviço de transporte que efectua
 
 3 - Quando a quantidade e o acondicionamento o permitirem, e no caso em que o peso médio ultrapasse 1 kg por expedição ou por dia (quando são feitas várias expedições por dia), os objectos transmitidos a descoberto a uma administração devem ser separados por país de destino e reunidos em maços, munidos de um rótulo contendo em caracteres latinos o nome de cada país. Quando o peso total dos maços com rótulo, expedidos para uma administração intermediária, ultrapassar 5 kg, os maços são colocados numa ou várias malas, cujos rótulos devem ter claramente indicada a palavra «Transit». Quando o peso total desses maços for inferior a 5 kg, estes são colocados na mala que contêm a carta de aviso.
 
-###### Artigo 155 — Organização das malas
+Artigo 155
+
+Organização das malas
 
 1 - As correspondências ordinárias susceptíveis de serem emaçadas classificam-se segundo os seus formatos (correspondências normalizadas e outras correspondências) e emaçam-se de harmonia com as suas categorias, agrupando-se as cartas e os bilhetes-postais no mesmo maço e formando os jornais e as publicações periódicas mencionadas no artigo 162, parágrafo 1, alínea b), n.º 3.º, maços separados dos das outras correspondências AO. Aos maços devem ser aplicados rótulos conforme o modelo anexo C 30, que devem ter a indicação, em caracteres latinos, da estação de destino ou reexpedidora das correspondências neles contidas. As correspondências franqueadas devem ser separadas dos objectos com falta ou insuficiência de franquia e os rótulos dos maços dos objectos com falta ou insuficiência de franquia devem ser marcados com o carimbo «T». Os maços de correspondência com falta ou insuficiência de franquia devem ser incluídos no saco que contém a carta de aviso. A espessura dos maços de objectos normalizados é limitada a 150 mm, depois de emaçados. O peso dos maços de correspondência não normalizados não pode exceder 5 kg.
 
@@ -7210,7 +7616,9 @@ b) Para as outras publicações periódicas mencionadas no artigo 162, parágraf
 
 11 - Para o seu transporte, as malas podem ser incluídas em contentores, desde que haja acordo especial entre as administrações interessadas acerca das modalidades da sua utilização.
 
-###### Artigo 156 — Cartas de aviso
+Artigo 156
+
+Cartas de aviso
 
 1 - Uma carta de aviso, conforme o modelo C 12 anexo, acompanha cada mala. Ela é colocada num sobrescrito de cor rosa, se a mala contiver cartas com valor declarado, de cor azul, se as não contiver, com a indicação, em caracteres bem visíveis, da menção «Feuille d'avis». Este sobrescrito é ligado exteriormente ao maço ou ao saco das correspondências registadas; se não houver correspondências registadas, o sobrescrito é, na medida do possível, ligado a um maço de correspondências ordinárias. Nas relações entre países cujas administrações se entenderam a este respeito a estação de permuta de malas transmite por avião um exemplar do impresso C 12 à estação de permuta de destino. As administrações podem, mediante acordos especiais, combinar que as malas que contenham exclusivamente sacos vazios não sejam acompanhadas da carta de aviso.
 
@@ -7234,7 +7642,9 @@ g) Quadro VI: destina-se este quadro a mencionar objectos registados, quando nã
 
 4 - Quando uma estação de permuta não tenha qualquer objecto de correspondência a expedir para uma estação correspondente, limita-se a enviar, na mala seguinte, uma carta de aviso negativa, se nas relações entre as administrações interessadas as cartas de aviso não forem numeradas, de harmonia com o disposto no parágrafo 2, alínea a). No caso das expedições terem remuneração anual, a carta de aviso negativa não é enviada.
 
-###### Artigo 157 — Transmissão de correspondências registadas
+Artigo 157
+
+Transmissão de correspondências registadas
 
 1 - Excepto quando se aplica o parágrafo 2, as correspondências registadas são inscritas individualmente no quadro VI da carta de aviso. Podem ser utilizadas uma ou mais listas especiais, conforme o modelo anexo C 13, quer para substituir o preenchimento do quadro VI, quer para servir de suplemento à carta de aviso. A utilização de listas especiais é obrigatória quando a administração de destino o solicite. Estas listas devem indicar o mesmo número de ordem que for atribuído à carta de aviso da mala correspondente. Quando forem utilizadas várias listas especiais, devem estas ser numeradas numa série distinta para cada mala. O número de objectos registados a inscrever em cada lista especial ou no quadro VI da carta de aviso fica limitado ao que o contexto do impresso comportar.
 
@@ -7252,7 +7662,9 @@ g) Quadro VI: destina-se este quadro a mencionar objectos registados, quando nã
 
 8 - Se houver mais de um maço ou saco de objectos registados, cada um dos maços ou sacos suplementares deve ser munido de um rótulo vermelho que indique a natureza do conteúdo.
 
-###### Artigo 158 — Transmissão de cartas com valor declarado
+Artigo 158
+
+Transmissão de cartas com valor declarado
 
 1 - A estação de permuta expedidora inscreve as cartas com valor declarado em guias de remessa especiais, conforme o modelo anexo VD 3, com todos os pormenores que estes impressos requerem.
 
@@ -7268,13 +7680,17 @@ g) Quadro VI: destina-se este quadro a mencionar objectos registados, quando nã
 
 7 - O saco exterior que contém as cartas com valor declarado deve estar em perfeito estado e provido, se possível, no seu bordo superior, de um dispositivo que impeça a abertura ilícita sem que esta deixe vestígios evidentes.
 
-###### Artigo 159 — Transmissão de vales do correio
+Artigo 159
+
+Transmissão de vales do correio
 
 Os vales do correio expedidos a descoberto são reunidos num maço separado, o qual, por sua vez, deve ser incluído num dos maços ou sacos de objecto registados, ou, eventualmente, no maço ou saco dos valores declarados. Procede-se identicamente quanto aos objectos contra reembolso não registados, permutados, nos termos do artigo 2, parágrafo 1, do Acordo respeitante às correspondências contra-reembolso.
 
 Se a mala não contiver registos nem valores declarados, os vales e, eventualmente, os objectos contra reembolso não registados devem ser incluídos no sobrescrito que contiver a carta de aviso ou emaçados com ela.
 
-###### Artigo 160 — Transmissão de correspondência a entregar por próprio e correspondência-avião incluídas em malas de superfície
+Artigo 160
+
+Transmissão de correspondência a entregar por próprio e correspondência-avião incluídas em malas de superfície
 
 1 - A presença de correspondências ordinárias a entregar por próprio ou correspondência-avião é assinalada por uma cruz (x) na quadrícula correspondente do quadro I da carta de aviso [artigo 156, parágrafo 2, alínea b)].
 
@@ -7284,13 +7700,17 @@ Se a mala não contiver registos nem valores declarados, os vales e, eventualmen
 
 4 - Os objectos registados a entregar pelo próprio e as correspondências-avião registadas são dispostas, pela sua ordem, entre outros objectos registados e a menção «Exprès» ou «Par avion» deve ser inscrita na coluna «Observations» do quadro VI da carta de aviso ou das listas especiais C 13, em seguida à inscrição respectiva. No caso de a inscrição ser global, a existência de objectos registados deve ser assinalada apenas por uma cruz no local correspondente do quadro VI da carta de aviso, pela palavra «Exprès» ou «Par avion». As mesmas indicações são inscritas na coluna «Observations» das guias de remessa VD 3, em seguida à inscrição das cartas com valor declarado a entregar pelo próprio ou a expedir pela via aérea.
 
-###### Artigo 161 — Transmissão de impressos endereçados ao mesmo destinatário
+Artigo 161
+
+Transmissão de impressos endereçados ao mesmo destinatário
 
 Todos os sacos especiais que contenham impressos dirigidos ao mesmo destinatário e com o mesmo endereço, além dos rótulos C 28 ou AV 8, que neste caso deve ter inscrita a letra «M», em maiúsculas, no ângulo superior direito, devem ser providos de um rótulo-endereço rectangular fornecido pelo remetente e que contenha todos os elementos que identifiquem o destinatário.
 
 Os rótulos-endereços devem ser de tela bastante rígida, cartão forte, material plástico, pergaminho ou de papel colado numa pequena tábua provida de um ilhó. As suas dimensões não devem ser inferiores a 140 mm x 90 mm, com uma tolerância de 2 mm. A administração de origem tem a faculdade de expedir esses sacos sob registo. Neste caso são inscritos no quadro VI da carta de aviso C 12 ou numa lista especial C 13 como um único objecto registado, devendo figurar a letra «M» na coluna «Observatório».
 
-###### Artigo 162 — Rotulagem das malas
+Artigo 162
+
+Rotulagem das malas
 
 1 - Os rótulos dos sacos devem ser feitos de tela bastante rígida, material plástico, cartão forte, pergaminho ou papel colado numa pequena tábua e munidos de um ilhó. Os seus dizeres e a disposição destes devem ser de harmonia com o modelo anexo C 28. Nas relações entre estações limítrofes podem utilizar-se rótulos de papel forte; contudo, estes devem ter a consistência suficiente para resistir às várias manipulações sofridas pelas malas durante o percurso. Os rótulos devem ser feitos nas seguintes cores:
 
@@ -7322,7 +7742,9 @@ d) Em verde, para os sacos que apenas contiverem sacos vazios devolvidos à orig
 
 8 - Quando as malas fechadas devam ser encaminhadas por navios dependentes da administração intermediária, mas que esta não utilize regularmente para os seus próprios transportes, o peso das cartas e de outras correspondências deve ser indicado no rótulo dessas malas, quando a administração encarregada de assegurar o embarque o pedir.
 
-###### Artigo 163 — Encaminhamento das malas e elaboração dos boletins de experiência
+Artigo 163
+
+Encaminhamento das malas e elaboração dos boletins de experiência
 
 1 - Quando uma expedição se compuser de vários sacos, devem estes ser mantidos, tanto quanto possível, agrupados e expedidos pelo mesmo correio.
 
@@ -7336,7 +7758,9 @@ d) Em verde, para os sacos que apenas contiverem sacos vazios devolvidos à orig
 
 6 - No caso de se tratar de uma modificação na via de encaminhamento das malas, a nova via a seguir deve ser indicada às administrações que efectuavam anteriormente o trânsito e ser comunicada a antiga via, a título de esclarecimento, às administrações que, de futuro, assegurarem esse trânsito.
 
-###### Artigo 164 — Entrega de malas
+Artigo 164
+
+Entrega de malas
 
 1 - Salvo acordo especial entre as administrações interessadas, a entrega das malas entre duas estações correspondentes faz-se por meio de uma guia de entrega, conforme o mdelo anexo C 18. Esta guia é preenchida em duplicado. O original é destinado à estação de recepção, o duplicado à estação expedidora.
 
@@ -7360,7 +7784,9 @@ b) Quando a transmissão das malas tiver lugar, por intermédio de um meio de tr
 
 8 - No caso de falta da guia de entrega C 18, a estação de recepção deve elaborar outra, em três exemplares, de acordo com a remessa recebida. Dois exemplares, acompanhados de um boletim de verificação C 14, são transmitidos à estação que expediu a mala, que devolve um desses exemplares depois de visto e assinado.
 
-###### Artigo 165 — Verificação das malas e utilização do boletim de verificação
+Artigo 165
+
+Verificação das malas e utilização do boletim de verificação
 
 1 - Qualquer estação que recebe uma mala deve verificar não somente a origem e o destino dos sacos que compõem a mala e inscritos na guia de entrega, mas também o fecho e o acondicionamento dos sacos providos de rótulos vermelhos.
 
@@ -7402,11 +7828,15 @@ c) Em qualquer destes casos, o peso da carta com valor declarado à chegada e o 
 
 17 - As estações que receberem os boletins de verificação devolvem-nos imediatamente depois de os visar e, se for caso disso, de inscrever as suas observações. Se estes boletins não forem devolvidos à administração de origem no prazo de dois meses a contar da data da sua expedição, são, até prova em contrário, considerados como devidamente aceites pelas estações a que forem endereçadas.
 
-###### Artigo 166 — Correspondências mal encaminhadas
+Artigo 166
+
+Correspondências mal encaminhadas
 
 As correspondências de qualquer espécie mal encaminhadas são, sem demora, recaminhadas para o destino pela via mais rápida.
 
-###### Artigo 167 — Providências a tomar no caso de acidente ocorrido nos meios de transporte de superfície
+Artigo 167
+
+Providências a tomar no caso de acidente ocorrido nos meios de transporte de superfície
 
 1 - Quando, em consequência de algum acidente verificado durante o transporte de superfície, um navio, um comboio ou outro meio de transporte não pode prosseguir a sua viagem nem entregar o correio nas escalas ou estações previstas, deve o pessoal remeter as malas à estação mais próxima do lugar do acidente ou mais qualificada para a reexpedição do correio. Em caso de impedimento do pessoal, esta estação, uma vez conhecedora do acidente, intervém para, sem demora, tomar conta do correio e reencaminhá-lo ao destino pelas vias mais rápidas, depois de ter sido verificado o seu estado e de terem sido reconstituídas, eventualmente, as correspondências que estiverem danificadas.
 
@@ -7416,7 +7846,9 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 4 - A estação qualificada comunica seguidamente, em pormenor, às administrações de destino das malas afectadas, por meio do boletim de verificação C 14, as circunstâncias do acidente e o resultado das conferências efectuadas; uma cópia de cada boletim é enviada às estações de origem daquelas malas e à administração de que depende a companhia de transporte. Estes documentos são expedidos pela via mais rápida (aérea ou de superfície).
 
-###### Artigo 168 — Devolução de sacos vazios
+Artigo 168
+
+Devolução de sacos vazios
 
 1 - Salvo acordo especial entre as administrações interessadas, os sacos devem ser devolvidos vazios, pelo primeiro correio, em mala directa para o país ao qual pertencem, e quanto possível pela via normal seguida à ida. A quantidade de sacos devolvidos em cada mala deve ser mencionada no quadro V da carta de aviso [artigo 156, parágrafo 2, alínea f), excepto quando se aplicar o artigo 156, parágrafo 2, alínea c)].
 
@@ -7434,13 +7866,15 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 8 - O prazo da conservação dos documentos relativos aos sacos vazios está previsto no artigo 107, parágrafo 1.
 
-###### Artigo 169 — Malas permutadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra
+Artigo 169
+
+Malas permutadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra
 
 1 - O estabelecimento de permuta de malas fechadas entre uma administração postal e divisões navais ou navios de guerra de igual nacionalidade, ou entre uma divisão naval de um navio de guerra e outra divisão naval ou outro navio de guerra de igual nacionalidade, deve ser comunicado, tanto quanto possível, com antecipação, às administrações intermediárias.
 
 2 - O endereço destas malas deve ser redigido da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf))](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/231a01/00020158.pdf)
 
 3 - As malas de que se trata são encaminhadas pela via mais rápida (aérea ou de superfície), segundo a indicação constante do endereço, e nas mesmas condições que as malas permutadas entre estações de correio.
 
@@ -7454,11 +7888,17 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 8 - Mediante acordo entre as administrações interessadas, o tratamento supracitado pode eventualmente ser também aplicado às malas permutadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com aviões de guerra.
 
-## TÍTULO V — Disposições relativas aos direitos de trânsito e encargos terminais
+TÍTULO V
 
-### CAPÍTULO I — Operações relativas à elaboração da quantidade anual de malas de superfície e de pesos anuais de malas-avião
+Disposições relativas aos direitos de trânsito e encargos terminais
 
-###### Artigo 170 — Mapa de sacos das expedições de superfície
+CAPÍTULO I
+
+Operações relativas à elaboração da quantidade anual de malas de superfície e de pesos anuais de malas-avião
+
+Artigo 170
+
+Mapa de sacos das expedições de superfície
 
 1 - Após a recepção da última expedição de cada mês, a estação de permuta de destino elabora, por intermédio da estação de permuta expedidora, de acordo com dados das cartas de aviso C 12, um mapa de sacos das expedições recebidas, conforme o modelo C 12 bis em anexo. Transmite em seguida esses mapas à sua administração central.
 
@@ -7468,7 +7908,9 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 4 - A administração de trânsito pode solicitar à administração de origem das expedições uma cópia devidamente aceite dos mapas trimestrais C 12 ter que lhe diga respeito.
 
-###### Artigo 171 — Mapa de pesos das malas-avião
+Artigo 171
+
+Mapa de pesos das malas-avião
 
 1 - Cada estação de destino elabora, por estação de permuta expedidora, mensalmente e de acordo com os dados das guias AV 7, um mapa do peso das malas-avião recebidas, conforme modelo AV 3 bis em anexo. Transmite em seguida esses mapas à sua administração central.
 
@@ -7476,7 +7918,9 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 3 - Os mapas Av 3 bis só são fornecidos como prova dos mapas de peso AV 5 bis, a pedido da administração de origem das malas.
 
-###### Artigo 172 — Transmissão e aceitação dos mapas de sacos das expedições de superfície e mapas de peso das malas-avião
+Artigo 172
+
+Transmissão e aceitação dos mapas de sacos das expedições de superfície e mapas de peso das malas-avião
 
 1 - Os mapas de sacos C 12 ter, assim como os mapas de peso AV 5 bis, são transmitidos em duplicado às administrações de origem das expedições, dentro do prazo máximo de seis meses após o fim do trimestre a que se referem.
 
@@ -7484,9 +7928,13 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 3 - As administrações podem acordar em que estes mapas C 12 bis, C 12 ter, assim como os mapas AV 3 bis e Av 5 bis, sejam elaborados pela administração de origem das expedições. Nesse caso, o procedimento de aceitação previsto nos parágrafos 1 e 2 é adaptado consequentemente.
 
-### CAPÍTULO II — Operações de estatística para a determinação dos direitos de trânsito e dos encargos terminais
+CAPÍTULO II
 
-###### Artigo 173 — Período de estatística para o cálculo dos direitos de trânsito e dos encargos terminais. Correio de superfície
+Operações de estatística para a determinação dos direitos de trânsito e dos encargos terminais
+
+Artigo 173
+
+Período de estatística para o cálculo dos direitos de trânsito e dos encargos terminais. Correio de superfície
 
 1 - Em cada ano, e alternadamente, durante o mês de Maio e de Outubro, elabora-se uma estatística das malas de superfície, a fim de determinar o peso médio das malas de cada categoria LC/AO e malas M para o cálculo dos direitos de trânsito e encargos terminais.
 
@@ -7498,23 +7946,31 @@ As correspondências de qualquer espécie mal encaminhadas são, sem demora, rec
 
 5 - A administração de origem é obrigada a informar as administrações de trânsito e destino da data da primeira expedição que estabeleça uma relação pela primeira vez entre duas administrações.
 
-###### Artigo 174 — Rotulagem das malas durante o período estatístico
+Artigo 174
+
+Rotulagem das malas durante o período estatístico
 
 1 - Durante o período estatístico todas as malas das expedições de superfície devem ser providas, além dos rótulos normais, de uma etiqueta especial C 28 bis, conforme o modelo junto. Além disso, as expedições devem ser organizadas nas condições habituais previstas no artigo 155, parágrafo 3.
 
 2 - Para as malas M, a etiqueta C 28 bis é marcada com uma cruz no local «Sac M».
 
-###### Artigo 175 — Guia de malas do período estatístico
+Artigo 175
+
+Guia de malas do período estatístico
 
 1 - No que se refere às expedições de superfície elaboradas durante o período estatístico, a estação de permuta expedidora junta uma guia C 15 à carta de aviso C 12. Inscreve nessa guia a quantidade de malas e o peso respectivo, por categorias (LC/AO e malas M). A primeira e a última expedição são assinaladas por uma cruz no local próprio dessas guias.
 
 2 - Quando a estação expedidora não tiver possibilidade de assinalar a última expedição durante o período estatístico conforme dispõe o parágrafo 1, especialmente em consequência da instabilidade de ligações, envia à estação de destino, pela via mais rápida, aérea ou de superfície, uma cópia da respectiva carta de aviso.
 
-###### Artigo 176 — Verificação das malas no período estatístico
+Artigo 176
+
+Verificação das malas no período estatístico
 
 As indicações inscritas nas guias C 15, no período estatístico, são verificadas pela estação de permuta de destino. Se essa estação verificar um erro na quantidade e no peso das malas inscritas, rectifica a guia e informa imediatamente do erro a estação de permuta expedidora, por meio de um boletim de verificação conforme o modelo C 16 anexo. Entretanto, no que se refere ao peso de uma mala, a indicação da estação de permuta expedidora é considerada válida, a não ser que o peso rectificado ultrapasse em mais de 250 g o peso indicado no rótulo C 28 bis. No caso em que se verifique uma indicação errada do peso de uma mala no rótulo especial C 28 bis, a estação de permuta intermediária avisa as estações de permuta de origem e de destino por meio do boletim de verificação C 16.
 
-###### Artigo 177 — Elaboração de mapas estatísticos dos pesos das malas recebidas por via de superfície
+Artigo 177
+
+Elaboração de mapas estatísticos dos pesos das malas recebidas por via de superfície
 
 1 - Logo que possível, após a recepção da última expedição de superfície formada no período estatístico, as estações de destino elaboram mapas estatísticos das malas recebidas conforme modelo C 15 bis em anexo, para cada estação de permuta de origem, com base nos dados das guias C 15, e transmitem-nos à sua administração central.
 
@@ -7524,19 +7980,25 @@ As indicações inscritas nas guias C 15, no período estatístico, são verific
 
 4 - Após a aceitação dos mapas C 15 ter, a administração de origem das expedições devolve-os à administração que os elaborou. Se a administração de destino das expedições não receber nenhuma nota rectificativa no prazo de três meses a contar do dia da remessa, considera os mapas admitidos de pleno direito.
 
-###### Artigo 178 — Malas-avião em trânsito por via de superfície
+Artigo 178
+
+Malas-avião em trânsito por via de superfície
 
 1 - Salvo acordo especial entre as administrações interessadas, as malas aéreas transportadas frequentemente por via de superfície, numa parte do seu percurso num terceiro país, são submetidas ao pagamento dos direitos de trânsito.
 
 2 - No caso previsto no parágrafo 1, os direitos de trânsito são estabelecidos de acordo com os pesos brutos reais indicados nas guias AV 7.
 
-###### Artigo 179 — Malas fechadas permutadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra
+Artigo 179
+
+Malas fechadas permutadas com unidades militares colocadas à disposição da Organização das Nações Unidas e com navios ou aviões de guerra
 
 1 - Compete às administrações postais dos países a que pertencerem as unidades militares, os navios ou aviões de guerra acertar directamente com as administrações respectivas os direitos de trânsito e os encargos terminais decorrentes das expedições enviadas por essas unidades militares, esses navios ou esses aviões.
 
 2 - Se estas malas forem reexpedidas, a administração reexpedidora informa do facto a administração do país ao qual a unidade militar, o navio ou o avião pertencer.
 
-###### Artigo 180 — Boletim de trânsito para as expedições de superfície
+Artigo 180
+
+Boletim de trânsito para as expedições de superfície
 
 1 - Com o objectivo de obter todas as informações necessárias ao preenchimento dos mapas C 17, a estação de permuta expedidora, durante o período estatístico, pode juntar a cada mala um boletim de trânsito de cor verde, conforme modelo C 19 em anexo, quando não estiver apta a indicar, com toda a certeza, os dados de encaminhamento na carta de aviso C 12.
 
@@ -7554,7 +8016,9 @@ c) Na coluna «Observations» da guia de entrega C 18.
 
 5 - Sempre que faltar algum boletim de trânsito cuja expedição tenha sido assinalada na guia de entrega C 18, ou no rótulo «C 28 bis», deve a estação de permuta intermediária ou a estação de permuta de destino que verificar a falta reclamá-lo sem demora à estação de permuta precedente; porém, sem demora, a estação de permuta intermediária elabora um novo boletim provido da indicação «Établi d'office par le bureau de ...» e transmite-o com a mala. Quando o boletim C 19 preenchido pela estação de permuta de origem chegar à estação que o reclamar, esta transmite-o directamente em sobrescrito fechado à administração de destino, depois de anotado em conformidade.
 
-###### Artigo 181 — Elaboração do mapa anual de pesos das malas em trânsito
+Artigo 181
+
+Elaboração do mapa anual de pesos das malas em trânsito
 
 1 - Logo após a recepção da última expedição de superfície do ano, a administração de destino elabora um mapa anual de peso das expedições recebidas em trânsito, conforme modelo C 17 em anexo. Esse mapa é elaborado para cada via de encaminhamento e para cada administração de origem das expedições conforme as indições mencionadas nos mapas C 12 ter e C 15 ter.
 
@@ -7568,11 +8032,13 @@ c) Na coluna «Observations» da guia de entrega C 18.
 
 6 - Se, seis meses após o fim do ano, as administrações intermediárias não tiverem recebido das administrações de origem os mapas C 17, elaboram-nos oficiosamente, com base nos seus próprios elementos. Para isso elas podem solicitar à administração de origem das malas uma cópia devidamente aceite dos mapas C 12 ter e C 15 ter que lhes digam respeito. Os mapas C 17, contendo a menção «Établi d'office», são anexados à conta parcial C 20.
 
-### CAPÍTULO III
+CAPÍTULO III
 
 Organização, liquidação, aprovação e revisão das contas dos direitos de trânsito e dos encargos terminais do correio de superfície.
 
-###### Artigo 182 — Organização, transmissão e aprovação das contas dos direitos de trânsito e dos encargos terminais do correio de superfície
+Artigo 182
+
+Organização, transmissão e aprovação das contas dos direitos de trânsito e dos encargos terminais do correio de superfície
 
 1 - O encargo de organizar as contas compete à administração credora, que as envia à administração devedora. Todavia, o envio das contas não terá lugar desde que o saldo respectivo seja inferior ao mínimo previsto no artigo 67, parágrafo 4, da Convenção.
 
@@ -7590,17 +8056,23 @@ b) Direitos de trânsito: em impressos conforme o modelo C 20, em anexo, e com b
 
 6 - Se a administração que enviou a conta parcial não tiver recebido nenhuma nota rectificativa no prazo de três meses a contar da data do envio, essa conta é considerada como admitida de pleno direito.
 
-###### Artigo 183 — Regularização das diferenças de peso aceites após a elaboração das contas parciais
+Artigo 183
+
+Regularização das diferenças de peso aceites após a elaboração das contas parciais
 
 1 - No caso de diferenças de peso assinaladas e aceites após a elaboração da conta parcial de encargos terminais, estas são regularizadas na altura da elaboração da conta parcial C 20 bis do ano seguinte.
 
 2 - A administração de destino, tendo verificado diferenças, informa desse facto as administrações intermediárias, no que se refere à liquidação da conta parcial de direitos de trânsito, processando-se a sua regularização aquando da elaboração da conta parcial C 20 do ano seguinte.
 
-###### Artigo 184 — Pagamentos provisórios dos direitos de trânsito e dos encargos terminais do correio de superfície
+Artigo 184
+
+Pagamentos provisórios dos direitos de trânsito e dos encargos terminais do correio de superfície
 
 As administrações credoras podem exigir pagamentos provisórios referentes a direitos de trânsito e encargos terminais do correio de superfície. Os pagamentos provisórios referentes a um ano são calculados de acordo com os pesos do correio que serviu de base às liquidações definitivas do ano anterior. Os pagamentos provisórios referentes a um ano deverão ser efectuados, no máximo, até ao fim de Janeiro do ano seguinte. Em seguida procede-se à regularização dos pagamentos provisórios, logo que as contas definitivas do ano sejam aceites ou admitidas de pleno direito.
 
-###### Artigo 185 — Organização, transmissão e aprovação das contas anuais de encargos terminais do correio aéreo
+Artigo 185
+
+Organização, transmissão e aprovação das contas anuais de encargos terminais do correio aéreo
 
 1 - O encargo de organizar as contas anuais dos encargos terminais do correio aéreo compete à administração credora, que as envia à administração devedora.
 
@@ -7610,11 +8082,15 @@ As administrações credoras podem exigir pagamentos provisórios referentes a d
 
 4 - A administração devedora não é obrigada a aceitar as contas que não lhe tenham sido enviadas no prazo de 18 meses seguintes ao ano a que as mesmas se referem.
 
-###### Artigo 186 — Endereço especial para envio de impressos
+Artigo 186
+
+Endereço especial para envio de impressos
 
 Cada administração tem a faculdade de notificar as outras administrações, por intermédio da Secretaria Internacional, para que os impressos relativos ao período estatístico, dos direitos de trânsito e encargos terminais, sejam enviados para endereço especial da sua administração central.
 
-###### Artigo 187 — Conta geral. Intervenção da Secretaria Internacional
+Artigo 187
+
+Conta geral. Intervenção da Secretaria Internacional
 
 1 - Logo que as contas parciais C 20 e C 20 bis entre as administrações sejam aprovadas ou consideradas como aceites, para todos os efeitos (artigo 182, parágrafo 6), a administração credora elabora em duplicado um mapa para os direitos de trânsito e outro para os encargos terminais, de acordo com os modelos anexos C 21 e C 21 bis, respectivamente.
 
@@ -7646,17 +8122,23 @@ d) As quantias a receber pelas administrações credoras.
 
 11 - A Secretaria Internacional procede à compensação de contas, de forma a reduzir ao mínimo o número de pagamentos a efectuar.
 
-###### Artigo 188 — Pagamento dos direitos de trânsito e dos encargos terminais do correio de superfície
+Artigo 188
+
+Pagamento dos direitos de trânsito e dos encargos terminais do correio de superfície
 
 1 - Se o pagamento dos saldos dos direitos de trânsito ou dos encargos terminais do correio de superfície resultante da conta geral da Secretaria Internacional não se efectuar dentro dos quatro meses seguintes à expiração do prazo regulamentar (artigo 103, parágrafo 9), a Secretaria Internacional inclui-as na conta geral seguinte, no crédito da administração credora. Neste caso, aplicam-se juros compostos, isto é, o juro adiciona-se ao capital no fim de cada ano, até se efectuar o pagamento integral.
 
 2 - No caso de aplicação do parágrafo 1, a conta geral de que se trata e as dos quatro anos seguintes não devem, tanto quanto possível, conter, nos saldos resultantes do quadro de compensação, quantias a pagar pela administração faltosa à administração credora interessada.
 
-###### Artigo 189 — Pagamento dos encargos terminais do correio aéreo
+Artigo 189
+
+Pagamento dos encargos terminais do correio aéreo
 
 Salvo acordo especial entre as administrações interessadas, os pagamentos relativos aos encargos terminais do correio aéreo são liquidados directamente entre si na base das contas parciais AV 12 (artigo 185, parágrafo 2).
 
-###### Artigo 190 — Revisão das contas de direitos de trânsito e dos encargos terminais do correio de superfície
+Artigo 190
+
+Revisão das contas de direitos de trânsito e dos encargos terminais do correio de superfície
 
 1 - Quando uma administração verificar que o tráfego difere muito sensivelmente daquele que resulta da estatística dos direitos de trânsito, pode pedir que os resultados desta estatística sejam revistos.
 
@@ -7676,15 +8158,21 @@ b) Verificação, após o fim do ano, de uma diferença de mais de 20% entre a q
 
 7 - Como excepção aos parágrafos 3, 5 e 6, e no caso de desvio completo e permanente de malas de um país intermédio para um outro país, os direitos de trânsito devidos pela administração de origem ao país que efectuou o trânsito anteriormente devem ser pagos, salvo acordo especial, pela administração interessada ao novo país de trânsito, a partir da data em que se verificou o citado desvio.
 
-## TÍTULO VI — Disposições diversas
+TÍTULO VI
 
-### CAPÍTULO ÚNICO — Artigo 191
+Disposições diversas
+
+CAPÍTULO ÚNICO
+
+Artigo 191
 
 Correspondência corrente entre administrações
 
 As administrações têm a faculdade de utilizar, para permuta da sua correspondência corrente, um impresso conforme o modelo anexo C 29.
 
-###### Artigo 192 — Características dos selos postais
+Artigo 192
+
+Características dos selos postais
 
 1 - Os selos postais devem conter, em caracteres latinos, a indicação do país de origem e, em algarismos árabes, o respectivo valor de franquia. Os selos postais podem conter a indicação «Postes» em caracteres latinos ou outros.
 
@@ -7694,7 +8182,9 @@ As administrações têm a faculdade de utilizar, para permuta da sua correspond
 
 4 - Os selos postais comemorativos ou filantrópicos devem conter, em numeração árabe, a indicação do milésimo do ano de emissão. Podem apresentar, em qualquer língua, uma menção indicando as circunstâncias em que foram emitidos. Quando houver lugar a pagamento de uma sobretaxa, além do respectivo valor de franquia, os selos devem ser executados de forma a evitar quaisquer dúvidas quanto ao seu valor.
 
-###### Artigo 193 — Características das impressões de máquinas de franquiar
+Artigo 193
+
+Características das impressões de máquinas de franquiar
 
 1 - As administrações postais podem utilizar ou autorizar o emprego de máquinas de franquiar que reproduzem nas correspondências as menções do país de origem, o valor da franquia, o lugar de origem e a data de depósito. Todavia, estas duas últimas menções não são obrigatórias. A indicação do valor de franquia efectuada pelas máquinas de franquiar utilizadas pela própria administração pode ser substituída por uma menção indicativa de que a franquia foi paga, como, por exemplo: «Taxe perçue».
 
@@ -7702,11 +8192,15 @@ As administrações têm a faculdade de utilizar, para permuta da sua correspond
 
 3 - As indicações do país e lugar de origem devem figurar em caracteres latinos, completados eventualmente pelas mesmas indicações em caracteres diferentes. O valor da franquia deve ser indicado em algarismos árabes.
 
-###### Artigo 194 — Características das impressões de franquia (máquinas de imprimir, etc.)
+Artigo 194
+
+Características das impressões de franquia (máquinas de imprimir, etc.)
 
 As impressões de franquia obtidas por máquina de imprimir ou por qualquer outro processo de impressão ou de carimbagem nas condições previstas no artigo 28 da Convenção devem conter, em caracteres latinos, a indicação do país de origem ou da estação expedidora, completada eventualmente pela mesma indicação em caracteres diferentes, e uma menção de que a franquia foi paga, como, por exemplo: «Taxe perçue». Em qualquer caso, a menção adoptada deve figurar, em letras bem legíveis, num quadro, rectangular se possível, traçado com nitidez, cuja superfície não deve ser inferior a 300 mm2. A marca do dia, no caso de ser afixada, não deve figurar neste quadro.
 
-###### Artigo 195 — Utilização reputada fraudulenta de selos postais ou de impressões de franquia
+Artigo 195
+
+Utilização reputada fraudulenta de selos postais ou de impressões de franquia
 
 1 - Para averiguações do uso fraudulento de selos postais, bem como de impressões de máquinas de franquiar ou de imprimir, independentemente das disposições expressamente estabelecidas na legislação de cada país, observa-se o seguinte procedimento:
 
@@ -7720,7 +8214,9 @@ Desta convocação se lavra um auto conforme o modelo anexo C 11, o qual é assi
 
 3 - As administrações cuja legislação não autorizar o procedimento determinado no parágrafo 1, alíneas a) e b), devem informar do facto a Secretaria Internacional, para dele ser dado conhecimento às outras administrações.
 
-###### Artigo 196 — Cupões-resposta internacionais
+Artigo 196
+
+Cupões-resposta internacionais
 
 1 - Os cupões-resposta internacionais devem ser idênticos ao modelo anexo C 22. A Secretaria Internacional manda-os imprimir em papel que apresente, em letras de água de grandes dimensões, as iniciais UPU, e cede-os às administrações, junto a uma guia de entrega conforme o modelo anexo C 24, elaborado em duplicado. Depois de verificado, a administração de destino devolve à Secretaria Internacional um exemplar devidamente assinado.
 
@@ -7756,7 +8252,9 @@ c) As quantias a pagar e a receber pelas administrações.
 
 10 - As disposições previstas nos artigos 187, parágrafo 11, e 188 são aplicáveis.
 
-###### Artigo 197 — Conta da liquidação dos direitos aduaneiros, etc., com a administração postal de origem da correspondência livre de encargos
+Artigo 197
+
+Conta da liquidação dos direitos aduaneiros, etc., com a administração postal de origem da correspondência livre de encargos
 
 1 - A conta de liquidação dos direitos aduaneiros, etc., desembolsados por qualquer administração por conta de outra, faz-se por meio de contas especiais mensais, conforme o modelo anexo C 26, as quais a administração credora elabora na moeda do seu país. As partes B dos boletins de franquia que ela conservou devem ser inscritas pela ordem alfabética das estações que abonarem as despesas e segundo a ordem numérica que lhes foi dada.
 
@@ -7768,7 +8266,9 @@ c) As quantias a pagar e a receber pelas administrações.
 
 5 - As contas são objecto de liquidação especial. Cada administração pode, contudo, pedir que elas sejam liquidadas com as contas dos vales de correio, das encomendas postais CP 16 ou, finalmente, com as contas R 5 dos reembolsos, sem que nelas sejam incluídas.
 
-###### Artigo 198 — Contas das importâncias devidas pelo pagamento de indemnizações de correspondências postais
+Artigo 198
+
+Contas das importâncias devidas pelo pagamento de indemnizações de correspondências postais
 
 1 - Quando, nos termos do artigo 59, parágrafo 8, da Convenção, se imputar o pagamento às administrações responsáveis, a administração credora organiza contas, mensais ou trimestrais, conforme o modelo anexo C 31.
 
@@ -7778,7 +8278,9 @@ c) As quantias a pagar e a receber pelas administrações.
 
 4 - Em princípio, estas contas são liquidadas à parte. Todavia, as administrações podem acordar entre si que as mesmas sejam liquidadas por meio das contas parciais AV 5 ou das contas gerais AV 11 ou, eventualmente, das contas gerais CP 18 de encomendas postais.
 
-###### Artigo 199 — Impressos para uso do público
+Artigo 199
+
+Impressos para uso do público
 
 Para efeitos de aplicação do artigo 10, parágrafo 3, da Convenção, são considerados como impressos para uso do público os modelos:
 
@@ -7806,15 +8308,21 @@ TERCEIRA PARTE
 
 Disposições relativas ao transporte aéreo
 
-## TÍTULO I — Correspondências-avião
+TÍTULO I
 
-### CAPÍTULO I — Regras da expedição e do encaminhamento
+Correspondências-avião
 
-###### Artigo 200 — Assinalamento das correspondências-avião sobretaxadas
+CAPÍTULO I
+
+Regras da expedição e do encaminhamento
+
+Artigo 200
+
+Assinalamento das correspondências-avião sobretaxadas
 
 As correspondências-avião sobretaxadas devem estar, no acto da expedição, providas, quer de uma etiqueta especial de cor azul ou de um carimbo da mesma cor, com as palavras «Par avion», quer, ao menos, dessas duas palavras em grandes caracteres escritos à mão ou à máquina e sua tradução facultativa na língua do país de origem. Esta etiqueta, carimbo ou menção «Par avion» devem ser apostos no lado do endereço, tanto quanto possível no ângulo superior esquerdo, eventualmente sob o nome e morada do remetente.
 
-###### Artigo 201
+Artigo 201
 
 Supressão das indicações «Par avion» e «Aérogramme»
 
@@ -7822,7 +8330,9 @@ Supressão das indicações «Par avion» e «Aérogramme»
 
 2 - No caso de transmissão pela via aérea de uma correspondência-avião, depositada como aerograma, mas que não preencha as condições prescritas no artigo 72, parágrafos 1 a 4, da Convenção, a indicação «Aérogramme» deve ser riscada com dois traços grossos transversais. No caso de transmissão de uma correspondência nestas condições pela via de superfície, de harmonia com o artigo 72, parágrafo 5, da Convenção, a indicação «Aérogramme» e, por analogia com o parágrafo 1, a indicação «Par avion» e qualquer outra anotação relativa ao transporte aéreo, devem ser riscadas do mesmo modo. O motivo da supressão deve ser indicado de forma sucinta.
 
-###### Artigo 202 — Organização das malas-avião
+Artigo 202
+
+Organização das malas-avião
 
 1 - As malas-avião compõem-se de correspondências-avião classificadas e emaçadas por categorias (LC/AO), sendo os maços designados pelos rótulos conforme o modelo anexo AV 10 correspondentes. Essas malas devem ser constituídas por sacos, quer inteiramente azuis, quer providos de largas listas azuis, e apresentando as indicações previstas no artigo 155, parágrafo 4. Quando as correspondências-avião forem em pequena quantidade, podem ser utilizados sobrescritos conforme o modelo anexo AV 9, de papel forte de cor azul, ou de material plástico ou outro e provido de rótulo azul.
 
@@ -7834,7 +8344,9 @@ Supressão das indicações «Par avion» e «Aérogramme»
 
 5 - As correspondências-avião entregues em pequena quantidade à última hora nas estações do correio instaladas nos aeroportos são expedidas, pelos aviões prestes a partir, em sobrescritos AV 9, endereçados às estações de permuta de destino.
 
-###### Artigo 203 — Conferência e verificação do peso das malas-avião
+Artigo 203
+
+Conferência e verificação do peso das malas-avião
 
 1 - O número da mala e o peso bruto de cada saco, sobrescrito ou maço que dela fazem parte devem ser indicados no rótulo AV 8 ou no endereço exterior. No caso de utilização de um saco colector, o peso deste saco não é considerado.
 
@@ -7842,13 +8354,17 @@ Supressão das indicações «Par avion» e «Aérogramme»
 
 3 - Se uma estação intermediária ou de destino verificar que o peso real de um dos sacos que compõe uma mala difere em mais de 100 g do peso indicado, rectifica o rótulo AV 8 e a guia de entrega AV 7 e participa imediatamente o erro à estação de permuta expedidora e, eventualmente, à última estação de permuta intermediária, por meio do boletim de verificação C 14. Se as diferenças verificadas não excederem os limites acima referidos, consideram-se válidas as indicações da estação expedidora.
 
-###### Artigo 204 — Sacos colectores
+Artigo 204
+
+Sacos colectores
 
 1 - Quando o número de sacos leves, de sobrescritos ou de maços a transportar num percurso aéreo o justificar, as estações do correio encarregadas da entrega das malas-avião à companhia aérea transportadora organizam, sempre que seja possível, sacos colectores.
 
 2 - Os rótulos dos sacos colectores devem levar, em caracteres bem visíveis, a menção «Sac collecteur»; as administrações interessadas estabelecem acordo sobre o endereço a mencionar nestes rótulos.
 
-###### Artigo 205 — Guia de entrega AV 7
+Artigo 205
+
+Guia de entrega AV 7
 
 1 - As malas a entregar no aeroporto são acompanhadas de cinco exemplares, por escala aérea, de uma guia de entrega, de cor branca, conforme o modelo anexo AV 7.
 
@@ -7870,7 +8386,9 @@ O segundo acompanha as malas até à estação de correio para onde é endereça
 
 4 - Quando as malas-avião são transmitidas por via de superfície a uma administração intermediária para serem reencaminhadas pela via aérea, são acompanhadas de uma guia de entrega AV 7, para ser entregue à estação intermediária. Uma guia de entrega AV 7 é igualmente elaborada para ser entregue no país de destino, para as malas-avião reencaminhadas por via de superfície.
 
-###### Artigo 206 — Organização e verificação das guias AV 7
+Artigo 206
+
+Organização e verificação das guias AV 7
 
 1 - O número, a origem e o destino da expedição, a quantidade e peso total dos sacos inscritos globalmente, assim como todas as outras indicações úteis que constam da etiqueta AV 8 ou no endereço exterior, deverão ser mencionados na guia AV 7. As administrações expedidoras podem, no caso de quererem, optar pela inscrição individual dos sacos. A quantidade e o peso dos sacos com rótulos vermelhos devem ser indicados separadamente da quantidade e peso dos outros sacos, inscrevendo-se a letra «R» na coluna «Observations» da guia AV 7, para indicar que se trata de sacos providos de rótulos vermelhos. A quantidade e o peso das malas M transportadas por via aérea, segundo as disposições do artigo 161, devem ser inscritos nas colunas próprias da guia AV 7.
 
@@ -7886,7 +8404,9 @@ b) Os sobrescritos AV 9 preparados segundo as disposições do artigo 202, pará
 
 5 - Quando as malas são expedidas em contentores selados pelo serviço postal, o número de ordem e o número do selo de cada contentor são inscritos na coluna «Observations» da guia de entrega AV 7.
 
-###### Artigo 207 — Falta da guia de entrega AV 7
+Artigo 207
+
+Falta da guia de entrega AV 7
 
 1 - Quando uma mala chegar ao aeroporto de destino - ou a um aeroporto intermediário que deva assegurar o reencaminhamento por intermédio de outra empresa de transporte - sem ser acompanhada de uma guia de entrega AV 7, a administração da qual depende esse aeroporto elabora este documento oficiosamente, devidamente visado pelo agente de transporte que entregou a mala, e assinala este facto por boletim de verificação C 14, com dois exemplares da guia AV 7 elaborada deste modo, à estação responsável pelo carregamento dessa mala e pede-lhe para lhe ser devolvida uma cópia devidamente autenticada.
 
@@ -7894,7 +8414,9 @@ b) Os sobrescritos AV 9 preparados segundo as disposições do artigo 202, pará
 
 3 - Se a escala de carregamento não puder ser determinada, o boletim de verificação é dirigido directamente à estação expedidora da mala, a qual toma a seu cargo fazê-lo seguir para a estação pela qual ela transitou.
 
-###### Artigo 208 — Transbordo das malas-avião
+Artigo 208
+
+Transbordo das malas-avião
 
 1 - Em princípio, o transbordo das malas efectuado durante o percurso, num mesmo aeroporto, faz-se por intermédio da administração do país onde o transbordo se efectuar.
 
@@ -7904,7 +8426,9 @@ a) Aparelhos de duas linhas sucessivas da mesma companhia aéreas, ou
 
 b) Aparelhos de duas companhais aéreas diferentes, nos termos do artigo 78, parágrafo 4, da Convenção.
 
-###### Artigo 209 — Providências a tomar quando um transbordo directo de malas-avião não puder ser efectuado conforme estava previsto
+Artigo 209
+
+Providências a tomar quando um transbordo directo de malas-avião não puder ser efectuado conforme estava previsto
 
 1 - Quando, no aeroporto de transbordo, as malas assinaladas nos documentos como devendo ser transbordadas directamente não tenham podido ser reexpedidas pelo voo previsto, a companhia aérea entrega imediatamente estas malas aos agentes postais do aeroporto de transbordo, para efeitos do seu reencaminhamento pelas vias mais rápidas (aéreas ou de superfície).
 
@@ -7916,7 +8440,9 @@ b) Na falta das disposições previstas na alínea a), a companhia aérea que te
 
 3 - No caso previsto no parágrafo 1, a estação que assegurou a reexpedição fica obrigada a informar a estação de origem de cada mala por meio de boletim de verificação C 14, indicando no mesmo o serviço aéreo que a entregou e os serviços utilizados (via aérea ou de superfície) para o reencaminhamento até ao destino.
 
-###### Artigo 210 — Providências a tomar em caso de interrupção de voo, de desvio ou de mau encaminhamento do correio
+Artigo 210
+
+Providências a tomar em caso de interrupção de voo, de desvio ou de mau encaminhamento do correio
 
 1 - Quando um avião interrompe a sua viagem por um período susceptível de atrasar o correio ou quando, por qualquer motivo, o correio é desembarcado num aeroporto diferente daquele que está indicado na guia AV 7, a companhia aérea entrega imediatamente este correio aos agentes da administração do país onde se situa a escala que o reexpede pelas vias mais rápidas (aéreas ou de superfície).
 
@@ -7924,7 +8450,9 @@ b) Na falta das disposições previstas na alínea a), a companhia aérea que te
 
 3 - Em qualquer caso, a estação que assegurou o reencaminhamento tem obrigação de informar a estação de origem de cada mala ou saco, por meio de boletim de verificação C 14, indicando nomeadamente o serviço aéreo que o entregou e os serviços utilizados (via área ou de superfície) para o reencaminhamento até ao destino.
 
-###### Artigo 211 — Providências a tomar em caso de acidente
+Artigo 211
+
+Providências a tomar em caso de acidente
 
 1 - Quando, em consequência de algum acidente verificado durante o transporte, um avião não pode prosseguir a sua viagem nem entregar o correio nas escalas previstas, deve o pessoal de bordo remeter as malas à estação do correio mais próxima do lugar do acidente ou mais qualificada para a reexpedição do correio. Em caso de impedimento do pessoal de bordo, esta estação, uma vez conhecedora do acidente, intervém para, sem demora, tomar conta do correio e reencaminhá-lo ao destino pelas vias mais rápidas, depois de ter sido verificado o estado e de terem sido reconstituídas, eventualmente, as correspondências que estiverem danificadas.
 
@@ -7934,17 +8462,23 @@ b) Na falta das disposições previstas na alínea a), a companhia aérea que te
 
 4 - A estação qualificada comunica seguidamente, em pormenor, às administrações de destino das malas afectadas, por meio de boletim de verificação, as circunstâncias do acidente e o resultado das conferências efectuadas; uma cópia de cada boletim é enviada às estações de origem daquelas malas e à administração de que depende a companhia aérea. Estes documentos são expedidos pela via mais rápida (aérea ou de superfície).
 
-###### Artigo 212 — Correspondências-avião transmitidas em malas-superfície
+Artigo 212
+
+Correspondências-avião transmitidas em malas-superfície
 
 O artigo 160 aplica-se às correspondências-avião transmitidas em malas-superfície.
 
-###### Artigo 213 — Correspondências-avião em trânsito a descoberto
+Artigo 213
+
+Correspondências-avião em trânsito a descoberto
 
 1 - Regra geral, as correspondências-avião em trânsito a descoberto são transmitidas a uma administração que organiza malas directas para a administração de destino. Se não for possível, as correspondências podem ser enviadas a qualquer outra administração, desde que esta seja previamente informada do facto.
 
 2 - A administração que envia a outra administração, numa mala-avião ou numa mala de superfície, as correspondências-avião em trânsito a descoberto, com vista ao seu reencaminhamento por via área, separa-as por países de destino e reúne-as em maços rotulados com o nome de cada país, com base na lista AV 1, conforme o artigo 154, parágrafo 3. Quando o peso das correspondências-avião em trânsito a descoberto não justifique a confecção de maços rotulados com o nome de cada país de destino, a administração expedidora reúne-as, classificadas por categorias, em maços identificados pelos rótulos AV 10 respectivos, por grupos de países de destino, de acordo com as informações que constam da lista AV 1.
 
-###### Artigo 214 — Preparação e verificação das guias AV 2
+Artigo 214
+
+Preparação e verificação das guias AV 2
 
 1 - Quando, nas condições previstas nos artigos 215 e 216, as correspondências-avião a descoberto são acompanhadas de guias conforme o modelo anexo AV 2, o seu peso indica-se separadamente para cada grupo de países de destino. As guias AV 2 são objecto de uma numeração especial em duas séries contínuas, uma para os objectos não registados e outra para os objectos registados. O número de guias AV 2 menciona-se na rubrica correspondente do quadro III da carta de aviso C 12. As administrações de trânsito têm a faculdade de pedir a utilização de guias especiais AV 2 que mencionem, sempre pela mesma ordem, os grupos de países mais importantes. Todas as guias AV 2 são incluídas no saco que contém a carta de aviso C 12.
 
@@ -7954,7 +8488,7 @@ O artigo 160 aplica-se às correspondências-avião transmitidas em malas-superf
 
 4 - No caso de falta de guia AV 2, as correspondências-avião a descoberto devem ser reespedidas por via aérea, salvo se a via de superfície for mais rápida; se for necessário, é organizada oficiosamente uma guia AV 2 e notifica-se a irregularidade, num boletim C 14, à estação de origem.
 
-###### Artigo 215
+Artigo 215
 
 Correspondências-avião em trânsito a descoberto.
 
@@ -7966,13 +8500,17 @@ Operações de estatística
 
 3 - Qualquer administração que expede correspondências-avião em trânsito a descoberto deve informar as administrações intermediárias de qualquer alteração que surja no decorrer de um período de conta, de acordo com as disposições tomadas para a permuta desse correio.
 
-###### Artigo 216 — Correspondências-avião em trânsito a descoberto excluídas das operações de estatística
+Artigo 216
+
+Correspondências-avião em trânsito a descoberto excluídas das operações de estatística
 
 1 - As correspondências-avião em trânsito a descoberto excluídas das operações de estatística, de acordo com o artigo 84, parágrafo 3, da Convenção, e para as quais as contas são organizadas na base do peso real, devem ser acompanhadas de guias AV 2 elaboradas e verificadas como se prescreve no artigo 214. Se o peso das correspondências mal encaminhadas, originárias da mesma estação de permuta e contidas numa mala desta estação, não exceder 50 g, não se elabora oficiosamente a guia AV 2, nos termos do artigo 214, parágrafo 4.
 
 2 - As correspondências-avião depositadas a bordo de um navio, no alto mar, franquiadas mediante a aplicação de selos postais do país a que pertence ou de que depende o navio, devem ser acompanhadas de uma guia AV 2, na ocasião da sua entrega a descoberto, à administração de um porto de escala intermediário, ou, se o navio não possuir estação de correio, de uma relação de pesos, que deve servir de base à administração intermediária para reclamar os encargos de transporte aéreo. A guia AV 2 ou a relação de pesos deve indicar o peso da correspondência para cada país de destino, a data, o nome e a nacionalidade do navio e é numerada numa série anual contínua para cada navio; estas indicações são conferidas pela estação à qual o navio entrega a correspondência.
 
-###### Artigo 217 — Devolução dos sacos-avião vazios
+Artigo 217
+
+Devolução dos sacos-avião vazios
 
 1 - Os sacos-avião vazios devem ser devolvidos à administração de origem de harmonia com as regras do artigo 168. Contudo, é obrigatória a formação de malas especiais, desde que o número destes sacos atinja 10.
 
@@ -7982,19 +8520,27 @@ Operações de estatística
 
 4 - O prazo de conservação dos documentos relativos aos sacos vazios é o previsto no artigo 107, parágrafo 1.
 
-### CAPÍTULO II — Contabilidade. Liquidação de contas
+CAPÍTULO II
 
-###### Artigo 218 — Formas de organizar as contas dos encargos de transporte aéreo
+Contabilidade. Liquidação de contas
+
+Artigo 218
+
+Formas de organizar as contas dos encargos de transporte aéreo
 
 1 - As contas dos encargos de transporte aéreo são organizadas de acordo com os artigos 83 e 84 da Convenção.
 
 2 - Derrogando o parágrafo 1, as administrações podem, de comum acordo, decidir que as liquidações de contas para as malas-avião se baseiam em mapas estatísticos, neste caso, fixam elas próprias as modalidades de elaboração das estatísticas e da organização das contas.
 
-###### Artigo 219 — Formas de organizar as contas dos direitos de trânsito de superfície relativas às malas-avião
+Artigo 219
+
+Formas de organizar as contas dos direitos de trânsito de superfície relativas às malas-avião
 
 Se as malas-avião transportadas pela via de superfície não foram incluídas nas estatísticas previstas no artigo 173, os direitos de trânsito terrestre ou marítimo relativos a estas malas-avião organizam-se segundo o seu peso bruto real indicado nas guias AV 7.
 
-###### Artigo 220 — Elaboração dos mapas de pesos AV 3 e AV 4
+Artigo 220
+
+Elaboração dos mapas de pesos AV 3 e AV 4
 
 1 - Cada administração credora elabora mensal ou trimestralmente à sua escolha e, segundo as indicações respeitantes às malas-avião constantes das guias AV 7, um mapa conforme o modelo anexo AV 3. As malas transportadas num mesmo percurso aéreo são inscritas nesse mapa por estações de origem, depois por países e estações de destino e, para cada estação de destino, pela ordem cronológica das malas. Quando os duplicados dos mapas AV 3 bis são utilizados para a liquidação das despesas de transporte aéreo no interior do país de destino, nos termos do artigo 82, parágrafo 4, da Convenção, devem conter a indicação «Service intérieuer».
 
@@ -8004,7 +8550,9 @@ Se as malas-avião transportadas pela via de superfície não foram incluídas n
 
 4 - Quando a administração devedora o pedir, são organizados mapas AV 3, AV 3 bis e AV 4, separados por cada estação de permuta expedidora de malas-avião ou de correspondências-avião em trânsito a descoberto.
 
-###### Artigo 221 — Organização das contas especiais AV 5 e das contas gerais AV 11
+Artigo 221
+
+Organização das contas especiais AV 5 e das contas gerais AV 11
 
 1 - A administração credora organiza, num impresso conforme o modelo anexo AV 5, as contas especiais indicando as quantias que lhe cabem conforme os mapas de pesos AV 3, AV 3 bis e AV 4. Elaboram-se contas especiais separadas para as malas-avião fechadas e para as correspondências-avião a descoberto, conforme a periodicidade prevista no artigo 220, parágrafos 1 e 2, respectivamente.
 
@@ -8018,7 +8566,9 @@ b) Para as correspondências a descoberto, segundo os pesos líquidos que figura
 
 4 - As contas especiais AV 5 podem ser resumidas numa conta geral trimestral, conforme o modelo anexo AV 11, organizada pelas administrações credoras que adoptaram o sistema de liquidação por compensação das contas; esta conta, porém, pode ser organizada semestralmente, mediante acordo entre as administrações interessadas.
 
-###### Artigo 222 — Remessa e aceitação dos mapas de pesos AV 3, AV 3 bis e AV 4, das contas especiais AV 5 e das contas gerais AV 11
+Artigo 222
+
+Remessa e aceitação dos mapas de pesos AV 3, AV 3 bis e AV 4, das contas especiais AV 5 e das contas gerais AV 11
 
 1 - Logo que for possível, e no prazo máximo de seis meses após o fim do período a que se referem, a administração credora organiza e envia conjuntamente, e em duplicado, à administração devedora os mapas AV 3, os duplicados dos mapas AV 3 bis e os mapas AV 4, quando o pagamento é efectuado na base do peso real das correspondências-avião a descoberto, e as contas especiais AV 5 correspondentes; a administração devedora pode recusar a aceitação das contas que não lhe tenham sido enviadas nesse prazo.
 
@@ -8040,9 +8590,13 @@ b) Para as correspondências a descoberto, segundo os pesos líquidos que figura
 
 10 - Os mapas AV 3, AV 3 bis e AV 4 e as contas AV 5 e AV 11 correspondentes são sempre enviados pela via mais rápida (aérea ou de superfície).
 
-## TÍTULO II — Correio de superfície transportado por via aérea (SAL)
+TÍTULO II
 
-###### Artigo 223 — Elaboração das expedições de superfície transportadas por via aérea
+Correio de superfície transportado por via aérea (SAL)
+
+Artigo 223
+
+Elaboração das expedições de superfície transportadas por via aérea
 
 1 - Para elaboração das expedições de superfície, transportadas por via aérea, são utilizadas malas de superfície ou malas da mesma cor.
 
@@ -8050,13 +8604,15 @@ b) Para as correspondências a descoberto, segundo os pesos líquidos que figura
 
 3 - Os rótulos AV 8 e AV 8 bis ou as fichas facultativas visadas no artigo 162, parágrafo 3, devem ter as cores previstas no artigo 162, parágrafo 1, alíneas a) a d).
 
-###### Artigo 224 — Guia de entrega C 18 bis
+Artigo 224
+
+Guia de entrega C 18 bis
 
 1 - As malas de superfície a enviar ao aeroporto são acompanhadas de cinco exemplares, por escala aérea, da guia de entrega C 18 bis.
 
 2 - Os cinco exemplares da guia de entrega C 18 bis são distribuídos de acordo com o previsto no artigo 205, parágrafos 2 e 3, para os exemplares da guia de entrega AV 7.
 
-###### Artigo 225
+Artigo 225
 
 Medidas a tomar no caso de interrupção de voo, de desvio de errado encaminhamento do correio de superfície transportado por via aérea.
 
@@ -8068,11 +8624,17 @@ b) Se não puder ser assegurado o envio rápido por via de superfície para o pa
 
 c) A administração do país de trânsito elabora uma nova guia de entrega (C 18, C 18 bis ou AV 7, consoante o caso) e reexpede o correio de acordo com as instruções recebidas da administração de origem.
 
-## TÍTULO III — Informações que as administrações e a Secretaria Internacional devem prestar
+TÍTULO III
 
-### CAPÍTULO ÚNICO — Informações que as administrações e a Secretaria Internacional devem prestar
+Informações que as administrações e a Secretaria Internacional devem prestar
 
-###### Artigo 226 — Informações que as administrações devem prestar
+CAPÍTULO ÚNICO
+
+Informações que as administrações e a Secretaria Internacional devem prestar
+
+Artigo 226
+
+Informações que as administrações devem prestar
 
 1 - Cada administração deve comunicar à Secretaria Internacional, em impressos que esta lhe fornecerá, os esclarecimentos úteis referentes à execução do serviço postal aéreo. Tais informações compreendem, nomeadamente, as indicações seguintes:
 
@@ -8100,7 +8662,9 @@ a) Quanto ao serviço interno:
 
 3 - As administrações podem entender-se para comunicarem directamente entre si as informações relativas aos serviços aéreos que lhes interessam, nomeadamente os horários e as horas limites da chegada das correspondências-avião originárias do estrangeiro para que possam ser incluídas nas diferentes distribuições.
 
-###### Artigo 227 — Documentação que a Secretaria Internacional deve fornecer
+Artigo 227
+
+Documentação que a Secretaria Internacional deve fornecer
 
 1 - A Secretaria Internacional fica encarregada de elaborar e distribuir às administrações os seguintes documentos:
 
@@ -8118,7 +8682,9 @@ QUARTA PARTE
 
 Disposições finais
 
-###### Artigo 228 — Entrada em execução e duração do Regulamento
+Artigo 228
+
+Entrada em execução e duração do Regulamento
 
 1 - O presente Regulamento tornar-se-á executório a partir do dia em que entrar em vigor a Convenção Postal Universal.
 

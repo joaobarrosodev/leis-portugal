@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 248/1993, 1º Suplemento, Série I-A de 1993-10-22
   number: '248'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6026-(106) a 6026-(249)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/34/1993/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-1993-293690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34b0b95f464a1a92b801ff2b56415aca9cedea8eb3ec02e932f65cb3ff54ec51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be28c922b5f6e658dc469c690b63ab5de8501f366a21483419acebfb4304b257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Portugal
-- Euratom
-- Hungria
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Bruxelas
+- Euratom
+- Hungria
+- Portugal
 relationships:
 - type: cites
   target: celex:31966R0136
@@ -140,13 +140,13 @@ relationships:
 article_structure:
   article_count: 211
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:32Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +159,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 24 de Junho de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DA HUNGRIA, POR OUTRO.
 
@@ -353,7 +353,7 @@ A partir da data da entrada em vigor do Acordo, a Comunidade abolirá, nas suas 
 
 A Hungria abolirá, nas suas importações originárias da Comunidade, todos os encargos de efeito equivalente aos direitos aduaneiros de importação, de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ###### Artigo 13.º
 
@@ -1589,7 +1589,7 @@ Se, enquanto se aguarda o cumprimento dos procedimentos necessários para a entr
 
 - 1 de Janeiro de 1992 no que respeita às obrigações que produzem efeitos após a data da entrada em vigor que fazem referência à data da entrada em vigor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 PROTOCOLO N.º 1
 
@@ -1859,25 +1859,25 @@ As reduções dos elementos variáveis referidas no n.º 3 do artigo 4.º só s�
 
 Contingentes aplicáveis à importação na Comunidade de mercadorias originárias da Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 QUADRO N.º 2
 
 Contingentes pautais à importação na Hungria de mercadorias originárias da Comunidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO 2 — QUADRO N.º 1
 
 Direitos aplicáveis na importação para a Comunidade de mercadorias originárias da Hungria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 QUADRO N.º 2
 
 Direitos aplicáveis na importação na Hungria das mercadorias originárias da Comunidade referidas no artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 PROTOCOLO N.º 4
 
@@ -2085,7 +2085,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 fica subordinada
 
 5 - Na casa n.º 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 6 - Não é necessário indicar na casa n.º 8 e na casa n.º 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (kg) ou outra medida (l, m3, etc.). A casa n.º 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -2125,7 +2125,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2135,7 +2135,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -2155,7 +2155,7 @@ b) Conter a marca aposta pelo exportador autorizado de um carimbo especial aprov
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7 «Observações» do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 5 - A casa n.º 11 «Visto da alfândega» do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -2553,7 +2553,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal como uma b
 
 Lista das operações de complemento de fabrico ou de transformação que devem ser efectuadas em relação às matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO III — Certificados de circulação EUR.1
 
@@ -2563,7 +2563,7 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Hungria reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipogrfia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -2573,15 +2573,15 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da Hungria reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no artigo 34.º temporariamente excluídos do âmbito do presente protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 PROTOCOLO N.º 5
 
@@ -2703,7 +2703,7 @@ b) Até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anex
 
 Do ANEXO A ao ANEXO D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 PROTOCOLO N.º 6
 
@@ -2865,39 +2865,39 @@ No que se refere aos anexos III e VIII, os produtos relativamente aos quais tenh
 
 ## ANEXO I — Lista dos produtos referidos nos artigos 8.º e 18.º do Acordo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO IIa — Lista dos produtos referidos no n.º 2, primeiro parágrafo, do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO IIb — Lista dos produtos referidos no n.º 2, segundo parágrafo, do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO III (ver nota 5) — Lista dos produtos referidos no n.º 3 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 (nota 5) Os direitos aduaneiros aplicáveis às importações que ultrapassem os contingentes e limites máximos pautais enumerados no presente anexo serão reduzidos progressivamente até: 90% do direito de base na data de entrada em vigor do Acordo, 80% após um ano, 70% após um ano, 60% após um ano, 50% após um ano. No final do 5.º ano, os direitos aduaneiros restantes serão suprimidos.
 
-## Apêndice ao anexo III
+Apêndice ao anexo III
 
 Designações dos extractos de posições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO IV — Lista de produtos para abolição progressiva a que se refere no n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO V — Lista de produtos referidos no n.º 3 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO VIa — Lista de produtos objecto de licenças de importação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO VIb
 
@@ -2925,35 +2925,35 @@ Designações dos extractos de posições
 
 (nota 2) Após discussões de ordem técnica com a Comunidade, a Hungria poderá proceder à ordem de subcontingentes
 
-## Apêndice ao anexo VIb
+Apêndice ao anexo VIb
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO VII — Mercadorias referidas no artigo 17.º
 
 1 - Mercadorias relativamente às quais a Comunidade mantém um elemento agrícola na imposição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 2 - Mercadorias relativamente às quais a Hungria pode introduzir um elemento agrícola na imposição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO VIIIa — Lista dos produtos referidos no n.º 2 do artigo 20.º (ver nota 1)
 
 Os produtos do presente anexo serão sujeitos a uma redução de 50% do direito nivelador.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
 ## ANEXO VIIIb — Lista dos produtos referidos no n.º 2 do artigo 20.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
-## Apêndice ao anexo VIIIb
+Apêndice ao anexo VIIIb
 
 Acordo relativo aos preços mínimos de importação aplicáveis a determinados frutos destinados a transformação
 
@@ -2989,11 +2989,11 @@ Os preços mínimos de importação são fixados pela Comunidade, em concertaç�
 
 ## ANEXO IXa — Produtos agrícolas que beneficiam de liberalização (dispensa de licença de importação, inexistência de restrições quantitativas) caso tenham origem comunitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO IXb — Produtos originários da Comunidade relativamente aos quais a Hungria deverá emitir automaticamente licenças de importação até ao limite das quantidades indicadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO Xa — Acordos relativos à importação na Comunidade de animais vivos da espécie bovina
 
@@ -3021,13 +3021,13 @@ Neste contexto, as importações de animais vivos da espécie bovina não abrang
 
 As quantidades importadas do código NC referido no presente anexo, à excepção dos códigos 0104 e 0204, ficarão sujeitas a uma redução de 20% dos direitos e direitos niveladores no 1.º ano, de 40% no 2.º ano e de 60% nos anos seguintes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
 ## ANEXO Xc — Lista de produtos referidos no n.º 4 do artigo 20.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 (nota 1) Sem prejuízo das normas de interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos códigos NC correspondentes. Nos casos em que são indicados «ex» códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
@@ -3035,21 +3035,21 @@ As quantidades importadas do código NC referido no presente anexo, à excepçã
 
 As quantidades importadas das categorias da Pauta Aduaneira húngara referidas no presente anexo estarão sujeitas a uma redução do direito aplicável de 10% no 1.º ano, de 20% no 2.º ano e de 30% nos anos subsequentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO XIb
 
 As quantidades importadas das categorias da Pauta Aduaneira húngara referidas no presente anexo estarão sujeitas a uma redução do direito aplicável de 15% no 1.º ano, de 30% no 2.º ano e de 45% nos anos subsequentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO XIc — Direitos reduzidos aplicados pela Hungria aos produtos originários da Comunidade, até aos limites indicados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO XId — Contingente global de importações de bens de consumo aplicado pela Hungria aos produtos do anexo XIc
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 ## ANEXO XIIa — Relativo aos artigos 44.º e 49.º
 
@@ -3385,7 +3385,7 @@ No decurso das negociações do Acordo Europeu entre a Comunidade e os seus Esta
 
 2 - a) Em especial, no contexto de uma solução global para os problemas de trânsito através da Hungria para os Estados membros da Comunidade mais directamente em questão, a Hungria concederá em 1992, para além do actual contingente concedido no âmbito dos acordos bilaterais para 1991, licenças do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 Todas as licenças isentas e tributáveis respeitam a viagens de ida e volta. Para 1993 e 1994, o número total de licenças isentas e tributáveis será aumentado, anualmente, em 5%, de modo que o número de licenças adicionais ascenda, em 1993, a 300 licenças isentas e a 6160 tributáveis e, em 1994, a 615 licenças isentas e a 7168 licenças tributáveis. O número de licenças adicionais de país terceiro mantém-se em 100, tanto para 1993 como para 1994.
 
@@ -3411,7 +3411,7 @@ No decurso das negociações do Acordo Europeu entre a Comunidade e os seus Esta
 
 2 - a) Em especial, no contexto de uma solução global para os problemas de trânsito através da Hungria para os Estados membros da Comunidade mais directamente em questão, a Hungria concederá em 1992, para além do actual contingente concedido no âmbito dos acordos bilaterais para 1991, licenças do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
 
 Todas as licenças isentas e tributáveis respeitam a viagens de ida e volta. Para 1993 e 1994, o número total de licenças isentas e tributáveis será aumentado, anualmente, em 5%, de modo que o número de licenças adicionais ascenda, em 1993, a 300 licenças isentas e a 6160 tributáveis e, em 1994, a 615 licenças isentas e a 7168 licenças tributáveis. O número de licenças adicionais de país terceiro mantém-se em 100, tanto para 1993 como para 1994.
 
@@ -3501,4 +3501,4 @@ Relativa aos anexos IXa e XIc do Acordo
 
 A Hungria confirma a sua intenção de aumentar periodicamente, durante o período de transição de cinco anos, após consulta da Comunidade Europeia, o número de produtos incluídos na lista que consta do anexo IXa, de modo que, no final deste período, um número considerável de produtos actualmente incluídos no anexo XIc deixe de estar sujeito a quaisquer restrições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf))](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/248a01/01060249.pdf)

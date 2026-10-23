@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/1991/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-1991-508576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d316740b08630d9fa162fa60ebb906d5a78880f7b8b4637ee300916a24239f27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dc2c62a6d79bf5b7d487f12f51609a402065cf9cd9da1bf7a91ec94312a1265
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Curso de Piloto Pescador
 - Escola Portuguesa de Pesca
+- Formação Profissional
 - Pesca
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:38Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +114,6 @@ Nestes termos, ao abrigo do n.º 1 do artigo 16.º do anexo à [Portaria n.º 10
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 26 de Dezembro de 1990.**
+Assinada em 26 de Dezembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, João Casimiro Marçal Alves, Secretário de Estado das Pescas.

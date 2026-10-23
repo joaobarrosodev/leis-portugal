@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33/2001/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-2001-165237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8a62c74144b128777bf40e03fda348367f0179df437cff6f73844eb4b598040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993b4693ee6778b5be8de9791f298eb62180a2d8fdaa612048ff2ad2950ba9a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Brasil
 - Brasília
 - Convenção
-- Portugal
+- Dupla Tributação
+- Empresa
+- Evasão Fiscal
 - Imposto sobre o Rendimento
 - Juros
-- Brasil
+- Portugal
 - Zona Tributária Privilegiada
-- Dupla Tributação
-- Evasão Fiscal
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:165234:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pela DEC.27/2001.2001.04.27.PR DR.IS-A [98]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/27-2001-165234
+  date: '2001-04-27'
 article_structure:
   article_count: 29
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:11Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +106,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 1 de Março de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTAÇÃO E A PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -536,11 +542,11 @@ Feito em Brasília, aos 16 dias do mês de Maio de 2000, em duplicado, na língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
 
 Pelo Governo da República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
 
 Protocolo
 
@@ -598,8 +604,8 @@ Feito em Brasília, aos 16 dias do mês de Maio de 2000, em duplicado, na língu
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
 
 Pelo Governo da República Federativa do Brasil:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)](https://files.diariodarepublica.pt/1s/2001/04/098a00/24042413.pdf)

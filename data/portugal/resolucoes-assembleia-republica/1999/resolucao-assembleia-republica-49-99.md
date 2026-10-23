@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/49/1999/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-1999-371440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 093e59c8b789ccdba272d2b4793553b16c225bfbfe5dc8d3301383d98ddc62fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a70968ddcaa625ecb62aed375ee5f8288abce278b753b69c76c5bdf9b43d8113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Lisboa
-- Veículo
+- Portugal
 - Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
-relationships: []
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:371435:por
+  label: "Ratificado o Protocolo de Emenda à Convenção aprovada para ratificação pela presente Res., pelo DEC.151/99.1999.06.30.PR,\
+    \ DR.IS-A [150] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/151-1999-371435
+  date: '1999-06-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:53Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 16 de Abril de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOLO DE EMENDA AO ACORDO DE 28 DE JUNHO DE 1973 ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O CONSELHO FEDERAL SUÍÇO RELATIVO AOS TRANSPORTES INTERNACIONAIS DE PESSOAS E DE MERCADORIAS POR ESTRADA.
 
@@ -132,7 +138,7 @@ Os artigos 6.º e 7.º são suprimidos.
 
 Feito em Lisboa, em 18 de Setembro de 1998, em dois originais em português e francês, fazendo os dois textos igualmente fé.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)
 
 PROTOCOLE D'AMENDEMENT DE L'ACCORD DU 28 JUIN 1973 ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE CONSEIL FÉDÉRAL SUISSE RELATIF AUX TRANSPORTS INTERNATIONAUX DE PERSONNES ET DE MARCHANDISES PAR ROUTE.
 
@@ -168,4 +174,4 @@ Article 3
 
 Fait à Lisbonne, le 18 septembre 1998, en deux originaux en langues portugaise et française, les deux textes faisant également foi.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)](https://files.diariodarepublica.pt/1s/1999/06/150a00/40194020.pdf)

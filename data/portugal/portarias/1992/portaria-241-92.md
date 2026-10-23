@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/1992/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1992-188355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T11:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0425dae9cc8c85a9efd419878bb8d7b72136d1758b2124d55e95ed8a1243f78d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fda4c9d8c52b4fa1398bad8aee1219605b13a9b0426a38df7d1e6dd16b5567e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Operador de Electricidade
 - Curso de Técnico de Construção Civil-desenho
 - Curso Técnico de Construção Civil-medições e Orçamentos
 - Curso Técnico de Construção Civil-topografia
 - Ensino Profissional
 - Escola Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:147625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147625:por
+  label: "Extintos os cursos profissionais de Técnico de Construção civil/Desenho, Técnico de Construção Civil/Medições e\
+    \ Orçamentos e Técnico de Construção Civil/Topografia, criados pelo presente diploma e revogada parcialmente no que àqueles\
+    \ cursos se refere, pela PORT.888/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no nº 9º \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-2005-147625
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:15:04Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +133,8 @@ cujos planos de estudos se anexam.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 25 de Fevereiro de 1992.**
+Assinada em 25 de Fevereiro de 1992.
 
-**O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/071b00/14431444.pdf))](https://files.diariodarepublica.pt/1s/1992/03/071b00/14431444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14431444.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/47/1999/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/47-1999-389821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07ceee34fc3118ab883e99d10b210279d0a021d0ca0dfa2586b25be443873331
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c991023248d02684ca97424ff2e052524169ff879018b2496f26dce25305ac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Bruxelas
 - CE Países
 - CECA
 - CEE
-- Turismo
-- Direitos do Homem
+- Combate à Droga
+- Comércio
 - Comunidade Europeia
 - Convenção
 - Cooperação Aduaneira
 - Cooperação Comercial
-- Cooperação Financeira
-- Portugal
-- Direito de Concorrência
-- Direitos Aduaneiros
-- Combate à Droga
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
-- Política Aduaneira
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Produto Industrial
-- Agricultura
-- Taxa
-- Comércio
+- Direito de Concorrência
+- Direito de Estabelecimento
+- Direitos Aduaneiros
+- Direitos do Homem
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Política Aduaneira
+- Portugal
 - Produto Agrícola
+- Produto Industrial
+- Taxa
 - Transporte
-- Bruxelas
+- Turismo
 relationships:
 - type: cites
   target: celex:31962R0026
@@ -107,13 +107,13 @@ relationships:
 article_structure:
   article_count: 160
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:50Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +126,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 12 de Março de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E O REINO HACHEMITA DA JORDÂNIA, POR OUTRO.
 
@@ -1228,27 +1228,27 @@ O presente Acordo entra em vigor no 1.º dia do 2.º mês seguinte à data em qu
 
 2 - A partir da sua entrada em vigor, o presente Acordo substitui o Acordo de Cooperação entre a Comunidade Europeia e o Reino Hachemita da Jordânia, bem como o Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e o Reino Hachemita da Jordânia, assinados em Bruxelas, em 18 de Janeiro de 1997.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO I — Lista dos produtos industriais originários da Jordânia relativamente aos quais a Comunidade pode manter um elemento agrícola referido no n.º 1 do artigo 10.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO II
 
 Lista dos produtos industriais originários da Comunidade relativamente aos quais a Jordânia pode manter um elemento agrícola referido no n.º 2 do artigo 10.º e no n.º 2 do artigo 11.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO III
 
 Lista dos produtos industriais originários da Comunidade a que é aplicável, na importação na Jordânia, o calendário para o desmantelamento pautal referido nos n.os 3 e 4 do artigo 11.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO IV — Lista dos produtos industriais originários da Comunidade referidos no n.º 5 do artigo 11.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO V — Reservas da Comunidade referidas no n.º 1, alínea b), do artigo 30.º
 
@@ -1346,7 +1346,7 @@ b) Relativamente a determinados produtos, para os quais a Pauta Aduaneira Comum 
 
 5 - Relativamente a determinados produtos, indicados na coluna D, a Comunidade poderá fixar uma quantidade de referência na acepção do n.º 4 se, tendo em conta o balanço anual das transacções por si estabelecido, verificar que o volume das importações pode criar dificuldades no mercado comunitário. Se as importações de um produto excederem as quantidades de referência, a Comunidade poderá sujeitar o produto em causa a um contingente pautal, cujo volume deve ser idêntico a essa quantidade de referência. Relativamente às quantidades importadas que excedam esses contingentes, os direitos aduaneiros serão, consoante os produtos, aplicados na sua totalidade ou reduzidos nas proporções indicadas na coluna C.
 
-## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+## ANEXO — [[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL NA JORDÂNIA À IMPORTAÇÃO DE PRODUTOS AGRÍCOLAS ORIGINÁRIOS DA COMUNIDADE.
 
@@ -1354,7 +1354,7 @@ PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL NA JORDÂNIA À IMPORTAÇÃO DE 
 
 2 - Os direitos de importação e encargos de efeito equivalente não podem superar os limites indicados na coluna A.
 
-## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+## ANEXO — [[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 PROTOCOLO N.º 3, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -1630,7 +1630,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 3 - As autoridades aduaneiras só podem emitir um certificado de circulação EUR.1 a posteriori depois de terem verificado a coerência dos elementos do pedido do exportador com os documentos do processo correspondente.
 
-4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções: [[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1638,7 +1638,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 1 - Em caso de furto ou roubo, extravio ou destruição de um certificado de circulação EUR.1, o exportador pode pedir às autoridades aduaneiras que o emitiram uma segunda via que tenha por base os documentos de exportação em posse dessas autoridades.
 
-2 - A segunda via assim emitida deve conter uma das seguintes menções: [(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+2 - A segunda via assim emitida deve conter uma das seguintes menções: [[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -2056,7 +2056,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 (Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do Acordo.)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 ## ANEXO III — Certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
@@ -2080,7 +2080,7 @@ O exportador dos produtos cobertos pelo presente documento (autorização aduane
 
 (nota 2) Deve ser indicada a origem dos produtos. Quando a declaração na factura se relaciona, no todo ou em parte, com produtos originários de Ceuta e Medilha, na acepção do artigo 36.º do Protocolo, o exportador deve indicá-los claramente no documento em que é feita a declaração através da menção «CM».
 
-[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[[(ver texto em línguas estrangeiras no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
 
 PROTOCOLO N.º 4, RELATIVO À ASSISTÊNCIA MÚTUA EM MATÉRIA ADUANEIRA ENTRE AUTORIDADES ADMINISTRATIVAS
 
@@ -2408,4 +2408,4 @@ Queira aceitar, Exmo. Senhor, os protestos da minha mais elevada consideração.
 
 Pelo Governo do Reino Hachemita da Jordânia.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)](https://files.diariodarepublica.pt/1s/1999/06/144a00/36003722.pdf)

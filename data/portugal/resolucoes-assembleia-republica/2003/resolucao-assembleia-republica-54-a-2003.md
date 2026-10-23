@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 149/2003, 1º Suplemento, Série I-A de 2003-07-01
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3790-(2) a 3790-(134)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/54-a/2003/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-a-2003-682800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c04c257373b4fad81e5ae9557848f6066d2afb5802a0a632692f4c3613079597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef0cd0c3b57d381ebc058c07a94f1639daede55874dd67811a15ac76c4be036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,33 @@ subjects:
 - CE Países
 - Comunidades Europeias
 - Convenção
+- Cooperação Agrícola
+- Cooperação Cultural
+- Cooperação Económica
 - Cooperação Financeira
+- Cooperação Industrial
+- Cooperação Judiciária
+- Cooperação Política
 - Cooperação Técnica
-- Portugal
-- União Europeia
 - Direito de Estabelecimento
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
 - Livre Circulação de Trabalhadores
-- Cooperação Agrícola
-- Cooperação Cultural
-- Cooperação Económica
-- Cooperação Industrial
-- Cooperação Judiciária
-- Cooperação Política
+- Luxemburgo
 - Política de Investigação e Desenvolvimento
 - Política do Ambiente
 - Política Social
+- Portugal
 - Prestação de Serviços
 - Proteção do Consumidor
-- Luxemburgo
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:682798:por
+  label: "Ratificado o Acordo pelo DEC.43-A/2003.2003.07.01.PR DR.IS-A [149]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/43-a-2003-682798
+  date: '2003-07-01'
 - type: cites
   target: celex:32000R2007
   label: null
@@ -103,13 +108,13 @@ relationships:
 article_structure:
   article_count: 199
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:53Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +127,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 24 de Abril de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A ANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA, POR OUTRO.
 
@@ -1416,7 +1421,7 @@ O presente Acordo é aplicável, por um lado, nos territórios em que são aplic
 
 ###### Artigo 125.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 126.º
 
@@ -1440,7 +1445,7 @@ Se, enquanto se aguarda o cumprimento das formalidades necessárias para a sua e
 
 (a que se refere o n.º 2 do artigo 18.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO II — Importações na Antiga República Jugoslava da Macedónia de produtos industriais sensíveis originários da Comunidade
 
@@ -1462,7 +1467,7 @@ Os direitos aduaneiros aplicáveis às importações na Antiga República Jugosl
 
 - Em 1 de Janeiro do 10.º ano seguinte ao da entrada em vigor do Acordo serão eliminados os direitos remanescentes.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO III — Definição comunitária de produtos da categoria Baby Beef
 
@@ -1470,37 +1475,37 @@ Os direitos aduaneiros aplicáveis às importações na Antiga República Jugosl
 
 Sem prejuízo das regras para a interpretação da Nomenclatura Combinada, o descritivo dos produtos tem carácter meramente indicativo, sendo o regime preferencial determinado, no âmbito do presente anexo, pela aplicação dos códigos NC. Nos casos em que são indicados os códigos «ex» da NC, o regime preferencial será determinado pela aplicação conjunta do código NC e do descritivo correspondente.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO IV (a) — Importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo)
 
 [a que se refere o n.º 3, alínea a), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO IV (b) — Importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo no âmbito de contingentes pautais)
 
 [a que se refere o n.º 3, da alínea b), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO IV (c) — Importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (concessões no âmbito de contingentes pautais)
 
 [a que se refere o n.º 3, alínea c), do artigo 27.º]
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO V (a) — Importações na Comunidade de peixe e produtos da pesca originários da Antiga República Jugoslava da Macedónia
 
 (a que se refere o n.º 1 do artigo 28.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO V (b) — Importações na Antiga República Jugoslava da Macedónia de peixe e produtos da pesca originários da Comunidade
 
 (a que se refere o n.º 2 do artigo 28.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO VI — Estabelecimento: serviços financeiros
 
@@ -1652,7 +1657,7 @@ Os direitos aduaneiros aplicáveis às importações na Antiga República Jugosl
 
 Lista de produtos cujos direitos serão reduzidos
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AOS PRODUTOS SIDERÚRGICOS
 
@@ -1758,7 +1763,7 @@ As comunicações a efectuar nos termos da presente decisão devem ser enviadas:
 
 - No que respeita à Antiga República Jugoslava da Macedónia, à sua Missão junto das Comunidades Europeias, aos Ministérios dos Negócios Estrangeiros e da Economia.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Lista dos produtos sujeitos a duplo controlo
 
@@ -1808,11 +1813,11 @@ A Comunidade e a Antiga República Jugoslava da Macedónia informar-se-ão mutua
 
 As importações na Comunidade de produtos agrícolas transformados originários da Antiga República Jugoslava da Macedónia a seguir enumerados estão sujeitas a direitos aduaneiros nulos.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO II — Direitos aplicáveis às importações na Antiga República Jugoslava da Macedónia de mercadorias originárias da Comunidade
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 PROTOCOLO N.º 4, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -2112,9 +2117,9 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «Rilasciato a posteriori», «Afgegeven a posteriori»;
 
-«Iissued retrospectively», «[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)»,
+«Iissued retrospectively», «[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)»,
 
-«[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)», «Expedido a posteriori»;
+«[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)», «Expedido a posteriori»;
 
 «Emitido a posteriori», «Annettu jälkikäteen»;
 
@@ -2130,7 +2135,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 «DUPLIKAT», «DUPLICATA», «DUPLICATO», «DUPLICAAT»; «DUPLICATE»;
 
-«[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)», «DUPLICADO», «SEGUNDA VIA», «KAKSOISKAPPALE», «DUPLIKAT».
+«[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)», «DUPLICADO», «SEGUNDA VIA», «KAKSOISKAPPALE», «DUPLIKAT».
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -2536,7 +2541,7 @@ o) Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o 
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)](https://files.diariodarepublica.pt/1s/2003/07/149a01/00020134.pdf)
 
 ## ANEXO III — Certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
@@ -2780,25 +2785,25 @@ Os plenipotenciários do Reino da Bélgica, do Reino da Dinamarca, da República
 
 O Acordo, bem como os respectivos anexos I a VII, nomeadamente:
 
-## Anexo I, importações na Antiga República Jugoslava da Macedónia de produtos industriais menos sensíveis originários da Comunidade;
+Anexo I, importações na Antiga República Jugoslava da Macedónia de produtos industriais menos sensíveis originários da Comunidade;
 
-## Anexo II, importações na Antiga República Jugoslava da Macedónia de produtos industriais sensíveis originários da Comunidade;
+Anexo II, importações na Antiga República Jugoslava da Macedónia de produtos industriais sensíveis originários da Comunidade;
 
-## Anexo III, definição comunitária de produtos da categoria «Baby beef»;
+Anexo III, definição comunitária de produtos da categoria «Baby beef»;
 
-## Anexo IV (a), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo);
+Anexo IV (a), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo);
 
-## Anexo IV (b), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo no âmbito de contingentes pautais);
+Anexo IV (b), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (direito aduaneiro nulo no âmbito de contingentes pautais);
 
-## Anexo IV (c), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (concessões no âmbito de contingentes pautais);
+Anexo IV (c), importações na Antiga República Jugoslava da Macedónia de produtos agrícolas originários da Comunidade (concessões no âmbito de contingentes pautais);
 
-## Anexo V (a), importações na Comunidade de peixe e produtos da pesca originários da Antiga República Jugoslava da Macedónia;
+Anexo V (a), importações na Comunidade de peixe e produtos da pesca originários da Antiga República Jugoslava da Macedónia;
 
-## Anexo V (b), importações na Antiga República Jugoslava da Macedónia de peixe e produtos da pesca originários da Comunidade;
+Anexo V (b), importações na Antiga República Jugoslava da Macedónia de peixe e produtos da pesca originários da Comunidade;
 
-## Anexo VI, estabelecimento: «Serviços financeiros»;
+Anexo VI, estabelecimento: «Serviços financeiros»;
 
-## Anexo VII, direitos de propriedade intelectual, industrial e comercial;
+Anexo VII, direitos de propriedade intelectual, industrial e comercial;
 
 e os seguintes protocolos:
 

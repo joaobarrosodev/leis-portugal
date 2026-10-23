@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 291/1992, 3º Suplemento, Série I-A de 1992-12-18
   number: '291'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5838-(2) a 5838-(349)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/1992/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-1992-408913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6857bcc46ce3cc2ca4deebcb926596bd03579d79fd56f46ae22b5194ffac94df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13478cbfed4f7c5d25aab7d3934d4c828b363e537f081ddf023177ccb7007e90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Áustria
 - CE Países
 - CECA
 - CEE
-- Convenção
-- Portugal
+- Comércio
 - Concorrência
+- Convenção
+- Cooperação Económica
 - EEE
 - EFTA
 - Finlândia
-- Áustria
-- Noruega
-- Livre Prestação de Serviços
+- Islândia
+- Liechtenstein
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Cooperação Económica
+- Livre Prestação de Serviços
+- Noruega
 - Política Económica
-- Islândia
-- Comércio
-- Liechtenstein
+- Portugal
 - Região Económica
 relationships:
 - type: amended_by
   target: pt:dre:491414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408915:por
+  label: "Ratificado o Acordo sobre o Espaço Económico Europeu e os respectivos anexos, protocolos e declarações, bem como\
+    \ o Acto Final com os seus anexos, aprovado para ratificação pela presente resolução, pelo DEC.59/92.18.12.1992.PR, DR.IS-A\
+    \ [291-3ºSupl] de 18.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/59-1992-408915
+  date: '1992-12-18'
+- type: amended_by
+  target: pt:dre:491414:por
+  label: "Adaptado e alterado o texto principal e respectivos protocolos do Acordo Sobre o Espaço Económico Europeu (EEE),\
+    \ aprovado pela presente resolução, pela RES.93/2009.07.10.2009.AR, DR.IS [194] de 07.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/93-2009-491414
+  date: '2009-10-07'
 - type: cites
   target: celex:31968R1612
   label: null
@@ -149,15 +162,15 @@ relationships:
   label: null
   source: http://data.europa
 article_structure:
-  article_count: 353
-  section_count: 47
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 346
+  section_count: 53
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:39Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +183,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 10 de Novembro de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO SOBRE O ESPAÇO ECONÓMICO EUROPEU
 
@@ -210,7 +223,7 @@ Considerando que o presente Acordo não restringe a autonomia de tomada de decis
 
 decidiram concluir o seguinte Acordo:
 
-# PARTE I — Os objectivos e princípios
+## PARTE I — Os objectivos e princípios
 
 ###### Artigo 1.º
 
@@ -268,7 +281,7 @@ a) Os actos correspondentes a regulamentos CEE integram, enquanto tal, a ordem j
 
 b) Os actos correspondentes a directivas CEE deixarão às autoridades das Partes Contratantes a competência quanto à forma e aos meios de execução.
 
-# PARTE II — A livre circulação de mercadorias
+## PARTE II — A livre circulação de mercadorias
 
 ### CAPÍTULO I — Os princípios gerais
 
@@ -402,7 +415,7 @@ Salvo disposição em contrário do presente Acordo, não são aplicáveis, nas 
 
 As modalidades e disposições relativas aos produtos do carvão e do aço constam dos Protocolos n.os 14 e 25.
 
-# PARTE III — A livre circulação de pessoas, de serviços e de capitais
+## PARTE III — A livre circulação de pessoas, de serviços e de capitais
 
 ### CAPÍTULO I — Os trabalhadores assalariados e não assalariados
 
@@ -584,7 +597,7 @@ O órgão competente tomará as decisões necessárias no âmbito da sua regulam
 
 Os encargos ou taxas que, para além dos preços de transporte, forem cobrados por um transportador na passagem das fronteiras não devem ultrapassar um nível razoável, tendo em conta os custos reais efectivamente ocasionados por essa passagem. As Partes Contratantes esforçar-se-ão por reduzir progressivamente esses custos.
 
-# PARTE IV — As regras de concorrência e outras regras comuns
+## PARTE IV — As regras de concorrência e outras regras comuns
 
 ### CAPÍTULO I — As regras aplicáveis às empresas
 
@@ -744,7 +757,7 @@ Se, no prazo de três meses, o Comité Misto do EEE não tiver chegado a uma sol
 
 2 - O Protocolo n.º 28 e o anexo XVII contêm as modalidades e disposições específicas relativas à propriedade intelectual, industrial e comercial que, salvo disposição em contrário, são aplicáveis a todos os produtos e serviços.
 
-# PARTE V — Disposições horizontais relativas às quatro liberdades
+## PARTE V — Disposições horizontais relativas às quatro liberdades
 
 ### CAPÍTULO I — A política social
 
@@ -830,7 +843,7 @@ As medidas de protecção referidas no artigo 74.º não obstam a que qualquer P
 
 As disposições específicas relativas ao direito das sociedades constam do anexo XXII.
 
-# PARTE VI — A cooperação em domínios não abrangidos pelas quatro liberdades
+## PARTE VI — A cooperação em domínios não abrangidos pelas quatro liberdades
 
 ###### Artigo 78.º
 
@@ -948,7 +961,7 @@ As Partes Contratantes tomarão as medidas necessárias para desenvolver, refor�
 
 Sem prejuízo do disposto noutras partes do presente Acordo, as disposições da presente parte não prejudicam a possibilidade de qualquer das Partes Contratantes preparar, adoptar e aplicar medidas de forma independente.
 
-# PARTE VII — Disposições institucionais
+## PARTE VII — Disposições institucionais
 
 ### CAPÍTULO I — A estrutura da associação
 
@@ -1212,7 +1225,7 @@ Cada Parte Contratante pode, em qualquer momento, solicitar que o Comité Misto 
 
 2 - É aplicável o procedimento previsto no artigo 113.º
 
-# PARTE VIII — O mecanismo financeiro
+## PARTE VIII — O mecanismo financeiro
 
 ###### Artigo 115.º
 
@@ -1226,7 +1239,7 @@ A fim de contribuir para os objectivos estabelecidos no artigo 115.º, será cri
 
 As disposições que regulam o mecanismo financeiro encontram-se estabelecidas no Protocolo n.º 38.
 
-# PARTE IX — Disposições gerais e finais
+## PARTE IX — Disposições gerais e finais
 
 ###### Artigo 118.º
 
@@ -1324,13 +1337,13 @@ Til bekaefltelse heraf har undertegned belfuldmaegtigede underskrevet denne afta
 
 Zu urkund dessen haben die unterzeichneten Bevollmächtigten ihre Unterschriften unter dieses Abkommen gesetzt.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 In witness whereof the undersigned Plenipotentiaries have signed this Agreement.
 
 En foi de quoi, les plénipotentiaires soussignés ont apposé leurs signatures au bas du présent accord.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 In fede di che, i plenipotenziari sottoscritti hanno apposto le loro firme in calce al present accordo.
 
@@ -1350,7 +1363,7 @@ Udfa erdiget i Porto, den anden maj nitten hundrede og tooghalvfems.
 
 Geschehen zu Porto am zweiten Mai neunzehnhundertzweiundneunzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Done at Oporto on second day of May in the year one thousand nine hundred and ninety-two.
 
@@ -1376,7 +1389,7 @@ For Radet og Kommissionen for de Europaeiske Faellesskaber:
 
 Für den Rat und die Kommission der Europäischen Gemeinschaften:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 For the Council and the Commission of the European Communities:
 
@@ -1388,7 +1401,7 @@ Voor de Raad en de Comissie van de Europese Gemeenschappen:
 
 Pelo Conselho e pela Comissão das Comunidades Europeias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 1
 
@@ -1462,7 +1475,7 @@ Relativo aos produtos excluídos do âmbito do Acordo em conformidade com o n.º
 
 São excluídos do âmbito do Acordo os seguintes produtos abrangidos pelos capítulos 25 a 97 do SH:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 3
 
@@ -1560,13 +1573,13 @@ Os artigos 4.º a 6.º do apêndice n.º 1 prevêem acordos específicos relativ
 
 As Partes Contratantes devem rever bienalmente o desenvolvimento do seu comércio de produtos agrícolas transformados. Será efectuada uma primeira revisão antes do final de 1993. Com base nestas revisões, as Partes Contratantes decidirão de um eventual aumento do número de produtos abrangidos pelo Protocolo, bem como de uma possível abolição dos direitos aduaneiros ainda em vigor e de outros encargos referidos nos artigos 1.º e 2.º do apêndice n.º 1.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 ###### Artigo 1.º
 
 1 - As Partes Contratantes podem aplicar, além das componentes variáveis de compensação de preços, direitos aduaneiros ou outros montantes fixos que não excedam 10% dos seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 2 - As Partes Contratantes abolirão progressivamente, de acordo com o calendário seguinte, os direitos aduaneiros e outros montantes fixos sobre os produtos indicados infra:
 
@@ -1574,7 +1587,7 @@ a) Em 1 de Janeiro de 1993, cada direito será reduzido para cinco sextos do dir
 
 b) Proceder-se-á a cinco novas reduções, de um sexto cada uma, em 1 de Janeiro de 1994, 1 de Janeiro de 1995, 1 de Janeiro de 1996, 1 de Janeiro de 1997 e 1 de Janeiro de 1998.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 3 - As Partes Contratantes reduzirão progressivamente, de acordo com o calendário seguinte, os direitos aduaneiros e outros montantes fixos, no que se refere aos produtos indicados infra:
 
@@ -1582,7 +1595,7 @@ a) Em 1 de Janeiro de 1993, cada direito será reduzido para 90% do direito de b
 
 b) Proceder-se-á a quatro novas reduções, de 10% cada uma, em 1 de Janeiro de 1994, 1 de Janeiro de 1995, 1 de Janeiro de 1996 e 1 de Janeiro de 1997.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 ###### Artigo 2.º
 
@@ -1592,7 +1605,7 @@ a) Em 1 de Janeiro de 1993, cada direito será reduzido para cinco sextos do dir
 
 b) Proceder-se-á a cinco novas reduções, de um sexto cada uma, em 1 de Janeiro de 1994, 1 de Janeiro de 1995, 1 de Janeiro de 1996, 1 de Janeiro de 1997 e 1 de Janeiro de 1998.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 2 - As As Partes Contratantes reduzirão progressivamente, de acordo com o calendário seguinte, os direitos aduaneiros sobre as importações e outros montantes fixos, no que se refere aos produtos indicados infra:
 
@@ -1600,7 +1613,7 @@ a) Em 1 de Janeiro de 1993, cada direito será reduzido para 90% do direito de b
 
 b) Proceder-se-á a quatro novas reduções, de 10% cada uma, em 1 de Janeiro de 1994, 1 de Janeiro de 1995, 1 de Janeiro de 1996 e 1 de Janeiro de 1997.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 ###### Artigo 3.º
 
@@ -1618,7 +1631,7 @@ b) Proceder-se-á a quatro novas reduções, de 10% cada uma, em 1 de Janeiro de
 
 1 - No que se refere à Islândia, as disposições do Protocolo não são aplicáveis aos seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Este acordo temporário será revisto pelas Partes Contratantes antes do final de 1998.
 
@@ -1644,47 +1657,47 @@ Os direitos reduzidos serão aplicados por arredondamento à primeira casa decim
 
 Sem prejuízo do referido supra, e tendo em conta as concessões pautais feitas à Comunidade Económica Europeia no acordo comercial relativo a certos produtos agrícolas originários da Comunidade, a Áustria abolirá a partir de 1 de Janeiro de 1993 os direitos de importação sobre os seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 2 - No que se refere aos outros direitos e impostos cobrados sobre as bebidas espirituosas da posição SH 2208, a Áustria respeitará as disposições do artigo 14.º do Acordo.
 
 3 - a) A Áustria aplicará as disposições do Acordo aos seguintes produtos o mais tardar até 1 de Janeiro de 1997:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 b) Enquanto a Áustria não aplicar as disposições do Acordo aos produtos referidos supra, continuarão a ser aplicáveis as disposições do Acordo de Comércio Livre entre a CEE e a Áustria relativas ao comércio bilateral neste sector, incluindo as regras de origem do Protocolo n.º 3 e todas as outras disposições pertinentes. De igual modo, no que se refere ao comércio dos produtos referidos supra entre a Áustria e os outros Estados da EFTA, continuarão a ser aplicáveis o artigo 21.º da Convenção EFTA e o anexo B à mesma Convenção, bem como todas as outras disposições pertinentes.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Lista de matérias-primas sujeitas à compensação de preços a que se refere o n.º 3 do artigo 3.º
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Procedimento relativo à alteração da lista de matérias-primas sujeitas à compensação de preços a que se refere o n.º 3 do artigo 3.º e o apêndice n.º 2.
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Normas relativas às declarações a utilizar e aos procedimentos a respeitar para a sua apresentação, referidas no n.º 2 do artigo 4.º
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Pormenores do procedimento de conferência das declarações referido no n.º 2 do artigo 5.º
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Pormenores dos preços de referência a utilizar, do sistema de notificação e dos procedimentos a respeitar para a confirmação dos preços de referência, referidos no n.º 3 do artigo 6.º
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Lista dos coeficientes a aplicar a que se refere o n.º 2 do artigo 7.º
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 4
 
@@ -1960,9 +1973,9 @@ b) Seja provado, a contento das autoridades aduaneiras, que o certificado de cir
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-«EXPEDIDO A POSTERIORI», «UDSTEDT EFTERFOLGENDE», «NACHTRÄGLICH AUSGESTELLT», [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), «ISSUED RETROSPECTIVELY», «DÉLIVRÉ A POSTERIORI», «RILASCIATO A POSTERIORI», «AFGEGEVEN A POSTERIORI», EMITIDO A POSTERIORI», «ÚTGEFID EFTIR Á», «UTSTEDT SENERE», «ANNETTU JÄLKIKÄTEEN», «UTFÄRDAT I ENTERHAND».
+«EXPEDIDO A POSTERIORI», «UDSTEDT EFTERFOLGENDE», «NACHTRÄGLICH AUSGESTELLT», [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), «ISSUED RETROSPECTIVELY», «DÉLIVRÉ A POSTERIORI», «RILASCIATO A POSTERIORI», «AFGEGEVEN A POSTERIORI», EMITIDO A POSTERIORI», «ÚTGEFID EFTIR Á», «UTSTEDT SENERE», «ANNETTU JÄLKIKÄTEEN», «UTFÄRDAT I ENTERHAND».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1972,9 +1985,9 @@ b) Seja provado, a contento das autoridades aduaneiras, que o certificado de cir
 
 2 - A segunda via emitida nesses termos deve conter uma das menções seguintes:
 
-«DUPLIDADO», «DUPLIKAT», «DUPLIKAT», [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), «DUPLICATE», «DUPLICATA», «DUPLICATO» «DUPLICAAT», «SEGUNDA VIA», «EFTIRRIT», «DULIKAT», «KAKSOISKAPPALE», «DUPLIKAT».
+«DUPLIDADO», «DUPLIKAT», «DUPLIKAT», [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), «DUPLICATE», «DUPLICATA», «DUPLICATO» «DUPLICAAT», «SEGUNDA VIA», «EFTIRRIT», «DULIKAT», «KAKSOISKAPPALE», «DUPLIKAT».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 3 - A menção referida no n.º 2 deve ser inscrita na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -2186,7 +2199,7 @@ No caso de uma declaração na factura, será inscrita no documento em que a dec
 
 5 - O artigo 15.º não se aplica às trocas comerciais entre Ceuta e Melilha, por um lado, e os Estados da EFTA, por outro.
 
-## APÊNDICE I
+APÊNDICE I
 
 Notas introdutórias à lista do apêndice II
 
@@ -2312,13 +2325,13 @@ Se uma regra da lista exigir que, para determinado artigo de matéria têxtil, c
 
 6.3 - Quando se aplica uma regra de percentagem, o valor das matérias que não estão classificadas nos capítulos 50 a 63 deverá ser tido em conta para o cálculo do valor das matérias não originárias incorporadas.
 
-## APÊNDICE II
+APÊNDICE II
 
 Lista das operações de complemento de fabrico ou das transformações a efectuar nas matérias não originárias para que o produto transformado possa adquirir qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Certificado de circulação EUR.1 e pedido de certificado de circulação EUR.1
 
@@ -2328,9 +2341,9 @@ Instruções para a impressão
 
 2 - As autoridades dos países do EEE podem reservar-se o direito de proceder à impressão dos certificados EUR.1 ou confiá-la a tipografias por eles autorizadas. Neste último caso, cada certificado EUR.1 deve incluir um referência a essa autorização. Além disso, o certificado EUR deve conter o nome e o endereço da tipografia ou um sinal que permite a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Declaração na factura
 
@@ -2356,7 +2369,7 @@ L'exportateur des produits couverts par le présent document [autorisation douan
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Versão inglesa
 
@@ -2372,7 +2385,7 @@ De exporteur van de goederen waarop dit document van toepassing is [douanevergun
 
 Versão islandesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Versão norueguesa
 
@@ -2398,7 +2411,7 @@ Exportören av de varor som omfattas av detta dokument [tullmyndighetens tillsta
 
 (nota 4) V. n.º 5 do artigo 21.º do anexo. Nos casos em que o exportador não é obrigado a assinar, a isenção de assinatura implica igualmente a isenção de indicação do nome do signatário.
 
-## APÊNDICE V
+APÊNDICE V
 
 Declaração do fornecedor
 
@@ -2408,9 +2421,9 @@ DECLARAÇÃO DO FORNECEDOR
 
 Relativa aos produtos objecto de operações de complemento de fabrico ou de transformação no EEE que não obtiveram o estatuto originário preferencial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE VI
+APÊNDICE VI
 
 Declaração a longo prazo do fornecedor
 
@@ -2420,19 +2433,19 @@ DECLARAÇÃO A LONGO PRAZO DO FORNECEDOR
 
 Relativa às mercadorias objecto de operações de complemento de fabrico ou de transformação no EEE que não obtiveram o estatuto originário preferencial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE VII
+APÊNDICE VII
 
 Lista dos produtos referidos no n.º 3 do artigo 2.º temporariamente excluídos do âmbito do presente protocolo, excepto no que se refere às disposições dos títulos IV a VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE VIII
+APÊNDICE VIII
 
 Lista dos produtos referidos no n.º 2 do artigo 2.º relativamente aos quais o território da República da Áustria está excluído do território do EEE para efeitos de determinação da origem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 5
 
@@ -2446,7 +2459,7 @@ Relativo aos direitos aduaneiros de natureza fiscal (Listenstaina e Suíça)
 
 QUADRO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 6
 
@@ -2462,7 +2475,7 @@ Relativo às restrições quantitativas que podem ser mantidas pela Islândia
 
 Sem prejuízo do disposto no artigo 11.º do Acordo, a Islândia pode manter restrições quantitativas relativamente aos produtos a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 PROTOCOLO N.º 8
 
@@ -2532,53 +2545,53 @@ Caso as necessárias adaptações legislativas não tenham sido efectuadas a con
 
 As disposições dos acordos enumerados no apêndice n.º 3 prevalecerão sobre as disposições do presente Protocolo caso concedam aos Estados da EFTA em causa regimes comerciais mais favoráveis do que o presente Protocolo.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 ###### Artigo 1.º
 
 A Finlândia pode manter temporariamente o seu regime relativamente aos produtos a seguir indicados. O mais tardar em 31 de Dezembro de 1992, a Finlândia apresentará um calendário fixo para a eliminação destas derrogações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 ###### Artigo 2.º
 
 1 - O Listenstaina e a Suíça podem manter direitos aduaneiros sobre as importações dos seguintes produtos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Este regime deverá ser revisto antes de 1 de Janeiro de 1993.
 
 2 - Sem prejuízo de uma eventual tarifação resultante das negociações comerciais multilaterais do Uruguay Round, o Listenstaina e a Suíça podem manter direitos niveladores variáveis no âmbito da sua política agrícola no que respeita aos seguintes produtos da pesca e outros produtos do mar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 ###### Artigo 3.º
 
 1 - Até 31 de Dezembro de 1993, a Suécia pode aplicar restrições quantitativas à importação dos produtos a seguir indicados, na medida em que sejam necessárias para impedir perturbações graves no mercado sueco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 2 - Enquanto a Finlândia mantiver temporariamente o seu actual regime no que respeita ao arenque-do-báltico, a Suécia pode aplicar restrições quantitativas à importação desse produto quando for originário da Finlândia.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 QUADRO III
 
 No que se refere às posições a seguir indicadas, as concessões atribuídas pela Comunidade não incluirão quaisquer produtos constantes do quadro II ou do anexo ao quadro III:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## Anexo ao quadro III — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+## Anexo ao quadro III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Acordos entre a Comunidade e Estados da EFTA, tal como referido no artigo 7.º:
 
@@ -4148,7 +4161,7 @@ O Banco Europeu de Investimento pode participar, na qualidade de observador, nas
 
 O Comité Misto do EEE pode tomar decisões relativas a outras disposições para a aplicação do Mecanismo Financeiro, sempre que tal se revelar necessário.
 
-## APÊNDICE
+APÊNDICE
 
 Lista das regiões de Espanha susceptíveis de beneficiarem da assistência financeira
 
@@ -4250,7 +4263,7 @@ Excepto para efeitos de trocas comerciais com a Comunidade, os Estados da EFTA p
 
 O disposto no Protocolo n.º 1, relativo às adaptações horizontais, é aplicável aos actos referidos no apêndice do presente Protocolo. O Comité Permanente dos Estados da EFTA desempenhará as funções referidas na alínea d) do ponto 4 e no ponto 5 do Protocolo n.º 1.
 
-## APÊNDICE
+APÊNDICE
 
 1 - 373 R 2805: Regulamento n.º [2805/73](http://data.europa.eu/eli/reg/1973/2805/oj?locale=pt), da Comissão, de 12 de Outubro de 1973, que estabelece a lista de vinhos brancos de qualidade produzidos em regiões determinadas e dos vinhos brancos de qualidade importados com um teor em anidrido sulfuroso especial e que contêm certas disposições transitórias que dizem respeito ao teor em anidrido sulfuroso dos vinhos produzidos antes de 1 de Outubro de 1973 (JO, n.º L 289, de 16 de Outubro de 1973, p. 21), com as alterações que lhe foram introduzidas por:
 
@@ -4612,7 +4625,9 @@ Ao serem importados para Ceuta ou Melilha, os produtos abrangidos pelo Acordo e 
 
 Os Estados da EFTA concederão às importações de produtos abrangidos pelo Acordo e originários de Ceuta e Melilha o mesmo regime aduaneiro que o concedido aos produtos importados e originários do EEE.
 
-## ANEXO I — Questões veterinárias e fitossanitárias
+ANEXO I
+
+Questões veterinárias e fitossanitárias
 
 (lista prevista no artigo 17.º)
 
@@ -5776,7 +5791,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 No anexo II, é inserido o seguinte no que respeita aos laboratórios nacionais de referência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 67 - 380 L 0879: Directiva n.º [80/879/CEE](http://data.europa.eu/eli/dir/1980/879/oj?locale=pt), da Comissão, de 3 de Setembro de 1980, relativa à marcação de salubridade das grandes embalagens de carnes frescas de aves de capoeira (JO, n.º L 251, de 24 de Setembro de 1980, p. 10).
 
@@ -6602,7 +6617,9 @@ Sem prejuízo do disposto na directiva:
 
 87 - 391 D 0037: Decisão n.º [91/37/CEE](http://data.europa.eu/eli/dec/1991/37/oj?locale=pt), da Comissão, de 20 de Dezembro de 1990, que autoriza a República Federal da Alemanha e a República Helénica a aplicar restrições à comercialização de sementes de determinadas variedades de espécies de plantas agrícolas e que altera certas decisões que autorizam a República Federal da Alemanha a aplicar restrições à comercialização de sementes de determinadas variedades de espécies de plantas agrícolas (JO, n.º L 18, de 24 de Janeiro de 1991, p. 19).
 
-## ANEXO II — Regulamentação técnica, normas, ensaios a certificação
+ANEXO II
+
+Regulamentação técnica, normas, ensaios a certificação
 
 (lista prevista no artigo 23.º)
 
@@ -6660,7 +6677,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 - «tyyppihyväksyntä»/«typgodkännande» na legislação finlandesa;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - «Typengenehmigung» na legislação Listenstania;
 
@@ -7176,7 +7193,7 @@ a) Ao artigo 2.º são aditados os seguintes travessões:
 
 - «tyyppihyäksyntä»/«tygodkännande» na legislação finlandesa;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - «Typengenehmigung» na legislação do Listenstaina;
 
@@ -7216,7 +7233,7 @@ Ao artigo 8.º é aditado o seguinte:
 
 - «tyyppihyäksyntä»/«tygodkännande» na legislação finlandesa;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - «Typengenehmigung» na legislação do Listenstaina;
 
@@ -7290,7 +7307,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 - «tyyppihyäksyntä»/«tygodkännande» na legislação finlandesa;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - «Typengenehmigung» na legislação do Listenstaina;
 
@@ -7554,7 +7571,7 @@ a) No anexo I, ao ponto 3.1.1 é aditado o seguinte:
 
 «sähköuuni», em finlandês (FI);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «elektrisk stekeovn», em norueguês;
 
@@ -7564,7 +7581,7 @@ b) No anexo I, ao ponto 3.1.2 é aditado o seguinte:
 
 «Kayttötilavuus», em filandês (FI);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «nyttevolum», em norueguês (N);
 
@@ -7574,7 +7591,7 @@ c) No anexo I, ao ponto 3.1.5.1 é aditado o seguinte:
 
 «esilämmitykulutus 200ºC:een», em finlandês (FI);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «energiforbruk ved oppvarming til 200ºC», em norueguês (N);
 
@@ -7582,7 +7599,7 @@ c) No anexo I, ao ponto 3.1.5.1 é aditado o seguinte:
 
 «vakiokulutus (yhden tunnin aikana 200:ssa», em filandês (FI)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «energiforbruk for a oppretthode en bestemt temperatur (en time pa 200ºC», em norueguês;
 
@@ -7590,7 +7607,7 @@ c) No anexo I, ao ponto 3.1.5.1 é aditado o seguinte:
 
 «Kokonaiskulutus», em finlandês (FI);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «Totalt» em noruegês (N);
 
@@ -7600,7 +7617,7 @@ d) No anexo I, ao ponto 3.1.5.3 é aditado o seguinte:
 
 «puhdistusvaiheen kulutus», em finlandês (FI);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «energyforbruk for en rengjoringsperiod», em norueguês (N);
 
@@ -7608,17 +7625,19 @@ d) No anexo I, ao ponto 3.1.5.3 é aditado o seguinte:
 
 e) São aditados os seguintes anexos:
 
-## ANEXO II h) — (Desenhos com as adaptações em finlandês.)
+ANEXO II h)
 
-## ANEXO II i)
+(Desenhos com as adaptações em finlandês.)
+
+ANEXO II i)
 
 (Desenhos com as adaptações em islandês).
 
-## ANEXO II j)
+ANEXO II j)
 
 (Desenhos com as adaptações em norueguês).
 
-## ANEXO II k)
+ANEXO II k)
 
 (Desenhos com as adaptações em sueco).
 
@@ -7798,7 +7817,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 «EY hehtolitrapaino», em finlandês;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 «EB hektolitervekt», em norueguês;
 
@@ -7820,7 +7839,7 @@ No capítulo IV do anexo, no final do ponto 4.8.1 é aditado o seguinte:
 
 10 penniã/10 penni (Finlândia);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 1 rappen (Listenstaina);
 
@@ -7884,7 +7903,7 @@ A partir de 1 de Janeiro de 1993, os Estados da EFTA garantirão a livre circula
 
 b) No anexo III, a coluna da esquerda é substituída pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 13 - 375 L 0107: Directiva n.º [75/107/CEE](http://data.europa.eu/eli/dir/1975/107/oj?locale=pt), do Conselho, de 19 de Dezembro de 1974, relativa à aproximação das legislações dos Estados membros respeitantes às garrafas utilizadas como recipientes de medida (JO, n.º L 42, de 15 de Fevereiro de 1975, p. 14).
 
@@ -8350,7 +8369,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 O n.º 2, alínea c), do artigo 3.º passa a ter a seguinte redacção:
 
-c) «Flodepulver» na Dinamarca, «Rahmpulver» e «Sahnepulver», na Alemanha e na Âustria, «gräddpulver», na Suécia, «niöurseydd nymjólk», na Islândia, [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), na Finlândia, e «flotepulver», na Noruega, para designar o produto definido no ponto 2, alínea d), do anexo.
+c) «Flodepulver» na Dinamarca, «Rahmpulver» e «Sahnepulver», na Alemanha e na Âustria, «gräddpulver», na Suécia, «niöurseydd nymjólk», na Islândia, [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf), na Finlândia, e «flotepulver», na Noruega, para designar o produto definido no ponto 2, alínea d), do anexo.
 
 12 - 376 L 0621: Directiva n.º [76/621/CEE](http://data.europa.eu/eli/dir/1976/621/oj?locale=pt), do Conselho, de 20 de Julho de 1976, relativa à fixação do teor máximo de ácido erúcico nos óleos e gorduras destinados directamente à alimentação humana, bem como nos géneros alimentícios adicionados de óleos ou gorduras (JO, n.º L 202, de 28 de Julho de 1976, p. 35), com as alterações que lhe foram introduzidas por:
 
@@ -8374,9 +8393,11 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 O anexo I é substituído pelo seguinte:
 
-## ANEXO I — Lista dos produtos referidos no artigo 1.º
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+Lista dos produtos referidos no artigo 1.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 14 - 377 L 0436: Directiva n.º [77/436/CEE](http://data.europa.eu/eli/dir/1977/436/oj?locale=pt), do Conselho, de 27 de Junho de 1977, relativa à aproximação das legislações dos Estados membros respeitantes aos extractos de café e aos extractos de chicória (JO, n.º L 172, de 12 de Julho de 1977, p. 20), com as alterações que lhe foram introduzidas por:
 
@@ -8530,7 +8551,9 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 O anexo I é substituído pelo seguinte:
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+ANEXO I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 39 - 386 L 0363: Directiva n.º [86/363/CEE](http://data.europa.eu/eli/dir/1986/363/oj?locale=pt), do Conselho, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos géneros alimentícios de origem animal (JO, n.º L 221, de 7 de Agosto de 1986, p. 43).
 
@@ -8538,7 +8561,9 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 O anexo I é substituído pelo seguinte:
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+ANEXO I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 40 - 386 L 0424: Primeira Directiva n.º [86/424/CEE](http://data.europa.eu/eli/dir/1986/424/oj?locale=pt), da Comissão, de 15 de Julho de 1986, que fixa métodos de colheita de amostras de caseínas e casinatos alimentares com vista à análise química (JO, n.º L 243, de 28 de Agosto de 1986, p. 29).
 
@@ -9042,7 +9067,7 @@ SFS (Finlândia), Suomen Standardidoi-misliitto SFS r.y., PL 205, SF - 00121 Hel
 
 SFS (Finlândia), Suomen Sähköteknillinen Standardisoimisydistys Sesko r.y., Särkiniementie 3, SF - 00210 Helsínquia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 SNV (Listenstaina), Schweizerische Normen-Vereinigung, Kircheenweg 4, Postfach, CH - 8032 Zurique.
 
@@ -9382,7 +9407,9 @@ b) No título e no texto do n.º 3, alínea f), do artigo 2.º, após o termo «
 
 c) Não são aplicáveis os n.os 7 e 8 do artigo 8.º, o n.º 2 do artigo 9.º e os artigos 10.º e 11.º
 
-## ANEXO III — Responsabilidade pelos produtos
+ANEXO III
+
+Responsabilidade pelos produtos
 
 [lista constante da alínea c) do artigo 23.º]
 
@@ -9424,7 +9451,9 @@ A directiva não se aplica aos danos resultantes de acidentes nucleares e que s�
 
 A directiva não é aplicável à Suíça e ao Listenstaina, caso as respectivas legislações nacionais prevejam uma protecção equivalente à concedida por acordos internacionais, na acepção do parágrafo anterior.
 
-## ANEXO IV — Energia
+ANEXO IV
+
+Energia
 
 (Lista prevista no artigo 24.º)
 
@@ -9498,19 +9527,21 @@ iii) Cada uma das entidades interessadas poderá solicitar que, relativamente ao
 
 b) O apêndice n.º 2 contém a lista das entidades e redes para efeitos da aplicação da presente directiva aos Estados da EFTA.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Lista das entidades e das grandes redes abrangidas pela Directiva n.º [90/547/CEE](http://data.europa.eu/eli/dir/1990/547/oj?locale=pt), do Conselho de 29 de Outubro de 1990, relativa ao trânsito de electricidade nas grandes redes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Lista das entidades e das redes de gasodutos de alta pressão abrangidos pela Directiva n.º [91/296/CEE](http://data.europa.eu/eli/dir/1991/296/oj?locale=pt), do Conselho, de 31 de Maio de 1990, relativa ao trânsito de gás natural nas grandes redes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
-## ANEXO V — Livre circulação dos trabalhadores
+ANEXO V
+
+Livre circulação dos trabalhadores
 
 (lista prevista no artigo 28.º)
 
@@ -9592,7 +9623,9 @@ O artigo 9.º não é aplicável.
 
 6 - 377 L 0486: Directiva n.º [77/486/CEE](http://data.europa.eu/eli/dir/1977/486/oj?locale=pt), do Conselho, de 25 de Julho de 1977, que tem por objectivo a escolarização dos filhos dos trabalhadores migrantes (JO, n.º L 199, de 6 de Agosto de 1977, p. 32).
 
-## ANEXO VI — Disposições gerais
+ANEXO VI
+
+Disposições gerais
 
 (lista prevista no artigo 29.º)
 
@@ -10892,7 +10925,7 @@ Sosiaali- já terveysministeriö-Social-och hälsovardsministeriet (Ministério 
 
 O) Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 P) Listenstaina:
 
@@ -11022,7 +11055,7 @@ O) Islândia:
 
 1) Para todas as eventualidades, com excepção das prestações de desemprego e das prestações familiares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 P) Listenstaina:
 
@@ -11294,7 +11327,7 @@ b) Subsídio por educação de filhos:
 
 O) Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 P) Listenstaina:
 
@@ -11420,7 +11453,7 @@ Sosiaali-já terveyministeriö/Social-och-hälsovardsministeriet (Ministério do
 
 O) Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 P) Listenstaina:
 
@@ -11544,7 +11577,7 @@ Postipankki Oy, Helsínki/Postbanken Ab, Helsingbors (Postipankki, Lda., Helsín
 
 O) Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 P) Listenstaina:
 
@@ -11730,7 +11763,7 @@ O) Islândia:
 
 Para todas as eventualidades, com excepção do artigo 17.º do regulamento e do n.º 2 do artigo 102.º do regulamento de execução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 P) Listenstaina:
 
@@ -11996,7 +12029,7 @@ Eläketurvakeskus/Pensionsskyddscent (Instituto Central de Seguro de Pensões), 
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -12030,7 +12063,7 @@ Eläketurvakeskus/Pensionsskyddscent (Instituto Central de Seguro de Pensões), 
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -12180,7 +12213,9 @@ Forma de participação dos Estados da EFTA na Comissão Administrativa para a S
 
 A Áustria, a Finlândia, a Islândia o Listenstaina, a Noruega, a Suécia e a Suíça poderão cada um enviar um representante, presente com capacidade consultiva (observador), às reuniões da Comissão Administrativa para a Segurança Social dos Trabalhadores Migrantes instituída junto da Comissão das Comunidades Europeias e às reuniões do Comité Consultivo instituído junto da referida Comissão Administrativa.
 
-## ANEXO VII — Reconhecimento mútuo de habilitações profissionais
+ANEXO VII
+
+Reconhecimento mútuo de habilitações profissionais
 
 (lista prevista no artigo 30.º)
 
@@ -12228,7 +12263,7 @@ Ao n.º 2 do artigo 1.º é aditado o seguinte:
 
 Finlândia: Asianajaja/Advokat;
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 Listenstaina: Rechtsanwalt;
 
@@ -12272,7 +12307,7 @@ n) Na Finlândia:
 
 o) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 p) No Listenstaina:
 
@@ -12302,7 +12337,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 No Listenstaina:
 
@@ -12328,7 +12363,7 @@ c) Ao n.º 3 do artigo 5.º são aditados, nos respectivos travessões, os segui
 
 Finlândia: anestesiologia/anestesiologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Anästhesiologie.
 
@@ -12344,7 +12379,7 @@ Suíça: Anästhesiologie/anesthésiologie/anestesiologia.
 
 Finlândia:kirurgia/kirurgi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Chirurgie.
 
@@ -12360,7 +12395,7 @@ Suíça: Chirurgie/chirurgie/chirurgia.
 
 Finlândia: neurokirurgia/neurokirurgi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Neurochirurgie.
 
@@ -12376,7 +12411,7 @@ Suíça: Neurochirurgie/neurochirurgie/neurochirurgia.
 
 Finlândia: naistentaudit ja synnytykset/kvinnosjukdomar och förlossningar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Gynäkologie und Geburtshilfe.
 
@@ -12392,7 +12427,7 @@ Suíça: Gynäkologie und Geburt-shilfe/gynécologie et obstétrique/ginecologia
 
 Finlândia: sisätaudit/inremedicin.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listentaina: Imnnere Medizin.
 
@@ -12408,7 +12443,7 @@ Suíça: Innere Medizin/médecine interne/medicina interna.
 
 Finlândia: silmätaudit/ögonsjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Augenheilkunde.
 
@@ -12424,7 +12459,7 @@ Suíça: Ophtalmologie/ophtalmologie/oftalmologia.
 
 Finlândia: korva-, nenä- ja kurkkutaudit/öron-, näsoch strupsjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Hals-, Nasen- und Ohrenkrankheiten.
 
@@ -12440,7 +12475,7 @@ Suiça: Oto-Rhino-Laryngologie/otorhino-laryngologieotorinolaringoiatria.
 
 Finlândia: lastentaudit/barnsjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Kinderheilkunde.
 
@@ -12456,7 +12491,7 @@ Suíça: Pädiatrie/pédiatrie/pediatria.
 
 Finlândia: keuhkosairaudet/lungsjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Lungenkrankheiten.
 
@@ -12472,7 +12507,7 @@ Suíça: Lungenkrakheiten/maladies des poumons/malattie polmonari.
 
 Finlândia: urologia/urologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Urologie.
 
@@ -12488,7 +12523,7 @@ Suíça: Urologie/urologie/urologia.
 
 Finlândia: ortopedia ja traumatologia/ortopedi och traumatologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Orthopädische Chirurgie.
 
@@ -12504,7 +12539,7 @@ Suíça: Orthopädische Chirurgie/chirurgie orthopédique/chirurgia ortopedica.
 
 Finlândia: patologia/patologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Pathologie.
 
@@ -12520,7 +12555,7 @@ Suíça: Pathologie/pathologie/patologia.
 
 Finlândia: neurologia/neurologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Neurologie.
 
@@ -12536,7 +12571,7 @@ Suíça: Neurologie/neurologie/neurologia.
 
 Finlândia: psykiatria/psykiatri.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Psychiatrie und Psychotherapie.
 
@@ -12562,7 +12597,7 @@ Finlândia: hematologiset laboratoriotutkimukset/hematologiska laboratorieunders
 
 Finlãndia: kliinin mikrobiologia/klinisk mikrobiologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: medisinsk mikrobiologi.
 
@@ -12584,7 +12619,7 @@ Suécia: klinisk kemi.
 
 Finlândia: immunologia/immunologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: immunologi og transfusjonsmedisin.
 
@@ -12596,7 +12631,7 @@ Suécia: klinisk immunologi.
 
 Finlândia: plastiikkakirurgia/plastikkirurgi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: plastikkirurgi.
 
@@ -12608,7 +12643,7 @@ Suíça: Plastische und Wiederherstellungschirurgie/chirurgie plastique et recon
 
 Finlândia: thorax- ja verisuonikirurgia/thorax- och kärlkirurgi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: thoraxkirurgi.
 
@@ -12618,7 +12653,7 @@ Suécia: thoraxkirurgi.
 
 Finlândia: lastenkrirurgia/barnkirurgi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: barnekirurgi.
 
@@ -12636,7 +12671,7 @@ Noruega: karkirurgi.
 
 Finlândia: kardiologia/kardiologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: hjertesykdommer.
 
@@ -12646,7 +12681,7 @@ Suécia: hjärtsjukdomar.
 
 Finlândia: gastroenterologia/gastroenterologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: fordoyelsessykdommer.
 
@@ -12656,7 +12691,7 @@ Suécia: matsmältiningsorganens medicinska sjukdomar (medicinsk gastroenterolog
 
 Finlãndia: reumatologia/reumatologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Rheumatologie.
 
@@ -12668,7 +12703,7 @@ Suécia: reumatiska sjukdomar.
 
 Finlândia: kliininen hematologia/klinisk hematologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: blodsykdommer.
 
@@ -12678,7 +12713,7 @@ Suécia: hematologi.
 
 Finlândia: endokrinologia/endokrinologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: endokrinologi.
 
@@ -12690,7 +12725,7 @@ Suécia: endokrina sjukdomar.
 
 Finlândia: fysiatria/fysiatri.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Physikalische Medizin und Rehabilitation.
 
@@ -12706,7 +12741,7 @@ Suíça: Physikalische Medizin und Rehabilitation/médecine physique et réhabil
 
 Finlândia: iho- ja sukupuolitaudit/hudoch könssjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Dermatologie und Venereologie.
 
@@ -12720,7 +12755,7 @@ Suíça: Dermatologie und Venereologie/dermatologie et vénéréologie/dermatolo
 
 Áustria: Radiologie.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: radiologi.
 
@@ -12756,7 +12791,7 @@ Suíça: Tropenkrankheiten/maladies tropicales/malattie tropicali.
 
 Finlândia: lasten psykiatria/barnspsykiatri.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Kinder- und Jugend-psychiatrie und -psychotherapie.
 
@@ -12770,7 +12805,7 @@ Suíça: Kinder- und Jugendpsy-chiatrie und -psychotherapie/psy-chiatrie et psyc
 
 Finlândia: geriatria/geriatri.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Geriatrie.
 
@@ -12782,7 +12817,7 @@ Suécia: langvardsmedicin.
 
 Finlândia: nefrologia/nefrologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: nyresykdommer.
 
@@ -12792,7 +12827,7 @@ Suécia: medicinska njursjukdomar (nefrologi).
 
 Finlândia: infektiosairaudet/infektionssjukdomar.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: infeksjonssykdommer.
 
@@ -12804,7 +12839,7 @@ Suécia: infektionssjukdomar.
 
 Finlândia: terveydenhuolto/hälsovard.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Listenstaina: Prävention und Gesundheitswesen.
 
@@ -12816,7 +12851,7 @@ Suíça: Prävention und Gesundheitswesen/prévention et santé publique/prevenz
 
 Finlândia: kliininen farmakologia/klinisk farmakologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Noruega: klinisk farmakologi.
 
@@ -12838,7 +12873,7 @@ Suécia: yrkesmedicin.
 
 Finlândia: allergologia/allergologi.
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf).
 
 Suécia: internmedicinsk allergologi.
 
@@ -12912,7 +12947,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 No Listenstaina:
 
@@ -12992,7 +13027,7 @@ Hammaslääkäri/tandläkare;
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 No Listenstaina:
 
@@ -13020,7 +13055,7 @@ n) na Finlândia:
 
 o) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 p) No Listestaina:
 
@@ -13074,7 +13109,7 @@ c) Ao artigo 5.º são aditados os seguintes itens:
 
 d) É aditado o seguinte:
 
-###### Artigo 19.º-B
+Artigo 19.º-B
 
 A partir do momento em que a Áustria tome as medidas necessárias para dar cumprimento à presente directiva, os Estados em que esta é aplicável reconhecerão, para efeitos do exercício das actividades referidas no artigo 1.º da presente directiva, com as adaptações para efeitos do EEE, os diplomas, certificados e outros títulos de Medicina conferidos na Áustria a pessoas que tenham iniciado a sua formação universitária antes da entrada em vigor do Acordo EEE, acompanhados de um atestado emitido pelas autoridades competentes austríacas, comprovativo de que estas pessoas se consagraram, na Áustria, efectiva e licitamente e a título principal, às actividades referidas no artigo 5.º da Directiva n.º [78/687/CEE](http://data.europa.eu/eli/dir/1978/687/oj?locale=pt) durante, pelo menos, três anos consecutivos, nos cinco anos que precederam a emissão do atestado, e de que estas pessoas estão autorizadas a exercer as referidas actividades nas mesmas condições que as possuidoras do diploma, certificado ou outro título referido na alínea m) do artigo 3.º
 
@@ -13170,7 +13205,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 No Listenstaina:
 
@@ -13200,7 +13235,7 @@ n) Na Finlândia:
 
 o) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 p) No Listenstaina:
 
@@ -13248,7 +13283,7 @@ Todistus proviisorin tutkinnosta/bevis om provisorexamen (mestrado em Farmácia)
 
 o) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf);
 
 p) No Listenstaina:
 
@@ -13360,7 +13395,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 Ao artigo 3.º é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Actividades não assalariadas do comércio a retalho
 
@@ -13548,7 +13583,7 @@ Bilmäklare;
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -13702,7 +13737,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 No Listenstaina:
 
@@ -13868,7 +13903,9 @@ Indústria e artesanato
 
 74 - 369 X 0174: Recomendação n.º [69/174/CEE](http://data.europa.eu/eli/reco/1969/174/oj?locale=pt), da Comissão, de 24 de Maio de 1969, aos Estados membros relativa aos atestados respeitantes ao exercício da profissão no país de proveniência, previstos no n.º 2 do artigo 5.º da Directiva n.º [68/366/CEE](http://data.europa.eu/eli/dir/1968/366/oj?locale=pt), do Conselho (JO, n.º L 146, de 18 de Junho de 1969, p. 4).
 
-## ANEXO VIII — Direito de estabelecimento
+ANEXO VIII
+
+Direito de estabelecimento
 
 (lista prevista no artigo 31.º)
 
@@ -13954,7 +13991,9 @@ No n.º 1, segundo parágrafo, do artigo 2.º, a expressão «cartão de residê
 
 10 - Sem prejuízo do disposto nos artigos 31.º a 35.º do Acordo e no presente anexo, a Noruega poderá continuar a aplicar as restrições existentes à data da assinatura do Acordo em matéria de estabelecimento de não nacionais em actividades pesqueiras ou empresas que possuam ou explorem embarcações de pesca.
 
-## ANEXO IX — Serviços financeiros
+ANEXO IX
+
+Serviços financeiros
 
 (lista prevista no n.º 2 do artigo 36.º)
 
@@ -14010,7 +14049,7 @@ a) Ao artigo 4.º é aditado o seguinte:
 
 f) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 g) Na Suíça:
 
@@ -14064,7 +14103,7 @@ b) Ao artigo 8.º é aditado o seguinte:
 
 - no que diz respeito à Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no que diz respeito ao Listenstaina:
 
@@ -14174,7 +14213,7 @@ b) Ao n.º 1, alínea a) do artigo 8.º é aditado o seguinte:
 
 - no que diz respeito à Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no que diz respeito ao Listenstaina:
 
@@ -14228,7 +14267,7 @@ f) No n.º 3 do artigo 13.º, a expressão «no momento da notificação da pres
 
 Para efeitos do presente Acordo, as disposições da directiva são adaptadas da seguinte forma:
 
-###### Artigo 9.º: ver adaptação da Directiva n.º [79/267/CEE](http://data.europa.eu/eli/dir/1979/267/oj?locale=pt), do Conselho, constante da alínea e) supra.
+Artigo 9.º: ver adaptação da Directiva n.º [79/267/CEE](http://data.europa.eu/eli/dir/1979/267/oj?locale=pt), do Conselho, constante da alínea e) supra.
 
 iv) Diversos
 
@@ -14250,7 +14289,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 No Listenstaina:
 
@@ -14286,7 +14325,7 @@ Na Finlândia:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 No Listenstaina:
 
@@ -14330,7 +14369,7 @@ c) Ao n.º 2, alínea c), do artigo 2.º é aditado o seguinte:
 
 Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Na Noruega:
 
@@ -14362,7 +14401,7 @@ b) Ao n.º 2 do artigo 2.º é aditado o seguinte:
 
 - Na Áustria, empresas reconhecidas como associações de construção de interesse público;
 
-- Na Islândia [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+- Na Islândia [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - No Listenstaina, o «Liechtensteinische Landesbank»;
 
@@ -14510,7 +14549,9 @@ As Partes Contratantes tomam nota do conteúdo dos seguinte actos:
 
 36 - 390 X 0109: Recomendação n.º [90/109/CEE](http://data.europa.eu/eli/reco/1990/109/oj?locale=pt), da Comissão, de 14 de Fevereiro de 1990, relativa à transparência das condições bancárias em matéria de transacções financeiras transfronteiras na CEE (JO, n.º L 67, de 15 de Março de 1990, p. 39).
 
-## ANEXO X — Serviços áudio-visuais
+ANEXO X
+
+Serviços áudio-visuais
 
 (lista prevista no n.º 2 do artigo 36.º)
 
@@ -14544,7 +14585,9 @@ b) Ao artigo 15.º da directiva é aditado o seguinte:
 
 Os Estados, da EFTA podem obrigar as empresas de televisão por cabo que operem nos seus territórios a provocar interferências no sinal ou a perturbar de outro modo a recepção dos spots publicitários de bebidas alcoólicas. Esta excepção não deverá ter como consequência a restrição da retransmissão de partes de programas televisivos que não os spots publicitários de bebidas alcoólicas. As Partes Contratantes examinarão conjuntamente esta excepção em 1995.
 
-## ANEXO XI — Serviços de telecomunicações
+ANEXO XI
+
+Serviços de telecomunicações
 
 (lista prevista no n.º 2 do artigo 36.º)
 
@@ -14608,7 +14651,9 @@ As Partes Contratantes tomam nota do conteúdo dos seguintes actos:
 
 16 - 391 X 0288: Recomendação n.º [91/288/CEE](http://data.europa.eu/eli/reco/1991/288/oj?locale=pt), do Conselho, de 3 de Junho de 1991, relativa à introdução coordenada de telecomunicações digitais europeias sem fios (DECT) na Comunidade (JO, n.º L 144, de 8 de Junho de 1991, p. 47).
 
-## ANEXO XII — Liberdade dos movimentos de capitais
+ANEXO XII
+
+Liberdade dos movimentos de capitais
 
 (lista prevista no artigo 40.º)
 
@@ -14666,7 +14711,9 @@ h) Sem prejuízo do artigo 40.º do Acordo e das disposições do presente anexo
 
 Estas restrições não obstam aos investimentos de não nacionais em instalações de transformação do pescado ou em empresas apenas indirectamente associadas ao sector da pesca. As autoridades nacionais podem obrigar as empresas adquiridas total ou parcialmente por não nacionais a liquidarem quaisquer investimentos efectuados em embarcações de pesca.
 
-## ANEXO XIII — Transportes
+ANEXO XIII
+
+Transportes
 
 (lista prevista no artigo 47.º)
 
@@ -14972,7 +15019,7 @@ Finlândia:
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -15454,7 +15501,9 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 À lista constante do anexo I é aditado o seguinte:
 
-### CAPÍTULO I — Zona 2
+CAPÍTULO I
+
+Zona 2
 
 Suécia:
 
@@ -15470,7 +15519,9 @@ Falsterbo kanal;
 
 Sotenkanalen.
 
-### CAPÍTULO II — Zona 3
+CAPÍTULO II
+
+Zona 3
 
 Áustria:
 
@@ -15486,7 +15537,9 @@ Suíça:
 
 Reno desde Rheinfelden até à fronteira entre a Suíça e a Alemanha.
 
-### CAPÍTULO III — Zona 4
+CAPÍTULO III
+
+Zona 4
 
 Suécia:
 
@@ -15594,7 +15647,7 @@ Para efeitos do presente Acordo, as disposições do regulamento são adaptadas 
 
 Finlândia: Helsínquia;
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Noruega: Oslo-Fornebu/Gardemoen;
 
@@ -15644,7 +15697,9 @@ As Partes Contratantes tomam nota do conteúdo dos seguintes actos:
 
 75 - 371 Y 0119(01): resolução do Conselho de 7 de Dezembro de 1970 relativa à cooperação entre as empresas de caminhos de ferro (JO, n.º C 5, de 19 de Janeiro de 1971, p. 1).
 
-## ANEXO XIV — Concorrência
+ANEXO XIV
+
+Concorrência
 
 (lista prevista no artigo 60.º)
 
@@ -15678,15 +15733,15 @@ IV) A expressão «a Comissão e as autoridades dos Estados membros» é substit
 
 V) As referências aos artigos do Tratado que institui a Comunidade Económica Europeia (CEE) ou do Tratado que institui a Comunidade Europeia do Carvão e do Aço (CECA) devem considerar-se como referências ao Acordo EEE (EEE), da seguinte forma:
 
-###### Artigo 85.º (CEE) - artigo 53.º (EEE);
+Artigo 85.º (CEE) - artigo 53.º (EEE);
 
-###### Artigo 86.º (CEE) - artigo 54.º (EEE);
+Artigo 86.º (CEE) - artigo 54.º (EEE);
 
-###### Artigo 90.º (CEE) - artigo 59.º (EEE);
+Artigo 90.º (CEE) - artigo 59.º (EEE);
 
-###### Artigo 66.º (CECA) - artigo 2.º do Protocolo n.º 25 do Acordo EEE;
+Artigo 66.º (CECA) - artigo 2.º do Protocolo n.º 25 do Acordo EEE;
 
-###### Artigo 80.º (CECA) - artigo 3.º do Protocolo n.º 25 do Acordo EEE.
+Artigo 80.º (CECA) - artigo 3.º do Protocolo n.º 25 do Acordo EEE.
 
 VI) A expressão «o presente regulamento» é substituída por «o presente acto»;
 
@@ -16156,7 +16211,9 @@ Outros
 
 25 - C/233/91/p. 2: Orientações relativas à aplicação das regras comunitárias da concorrência no sector das telecomunicações (JO, n.º C 233, de 6 de Setembro de 1991, p. 2).
 
-## ANEXO XV — Auxílios estatais
+ANEXO XV
+
+Auxílios estatais
 
 (lista prevista no artigo 63.º)
 
@@ -16302,7 +16359,9 @@ Controlo dos auxílios à indústria siderúrgica
 
 37 - C/320/88/p.3: Enquadramento de certos sectores siderúrgicos não CECA (JO, n.º C 320, de 13 de Dezembro de 1988, p. 3).
 
-## ANEXO XVI — Contratos públicos
+ANEXO XVI
+
+Contratos públicos
 
 (lista prevista no n.º 1 do artigo 65.º)
 
@@ -16386,7 +16445,7 @@ e) Ao artigo 24.º é aditado o seguinte:
 
 - na Finlândia, o «Kaupparekisteri», «Handelsregistret»;
 
-- na Islândia, [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+- na Islândia, [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no Listenstaina, o «Gewerberegister»;
 
@@ -16442,7 +16501,7 @@ h) Ao artigo 21.º é aditado o seguinte:
 
 - na Finlândia, o «Kaupparekisteri», «Handelsregistret»;
 
-- na Islândia, [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+- na Islândia, [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no Listenstaina, o «Gewerberegister»;
 
@@ -16552,7 +16611,7 @@ Na aplicação do disposto no presente anexo, as Partes Contratantes têm em con
 
 8 - Comunicação da Comissão [COM(89)400, de 22 de Setembro de 1989] relativa a aspectos regionais e sociais das aquisições públicas (JO, n.º C 311, de 12 de Dezembro de 1989, p. 7).
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Listas de organismos e de categorias de organismos de direito público
 
@@ -16568,7 +16627,7 @@ III) Na Islândia:
 
 Categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 IV) No Listenstaina:
 
@@ -16614,7 +16673,7 @@ VII) Na Suíça:
 
 Die öffentlich-rechtlichen Verwaltungseinrichtungen auf Landes-, kantonaler, Bezirks- und Gemeindeebene (autoridades, estabelecimentos e fundações de direito público instituídos a nível federal, cantonal, distrital e municipal).
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Áustria
 
@@ -16738,7 +16797,7 @@ Lista das entidades compradoras centrais
 
 Islândia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina
 
@@ -16902,7 +16961,7 @@ Lista das entidades compradoras centrais
 
 21 - Postbetriebe/Entreprise des postes/Azienda delle poste (Empresa dos Correios).
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Listas de organismos e de categorias de organismos de direito público
 
@@ -16918,7 +16977,7 @@ III) Na Islândia:
 
 Categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 IV) No Listenstaina:
 
@@ -16964,7 +17023,7 @@ VII) Na Suíça:
 
 Die öffentlich-rechtlichen Verwaltungseinrichtungen auf Landes-, kantonaler, Bezirks- und Gemeindeebene (autoridades, estabelecimentos e fundações de direito público instituídos a nível federal, cantonal, distrital e municipal).
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Produção, transporte ou distribuição de água potável
 
@@ -16978,7 +17037,7 @@ Entidades que produzem, transportam ou distribuem água potável ao abrigo do ar
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17000,7 +17059,7 @@ Organismos e empresas de administração territorial que produzem, transportam o
 
 As actividades destes organismos e empresas de administração territorial são regidas pela legislação local ou cantonal ou por acordos particulares baseados nessa legislação.
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Produção, transporte ou distribuição de electricidade
 
@@ -17014,7 +17073,7 @@ Entidades que produzem, transportam ou distribuem electricidade com base numa co
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17034,7 +17093,7 @@ Organismos administrativos territoriais e empresas de transporte e distribuiçã
 
 Organismos administrativos territoriais e empresas que produzem e fornecem electricidade aos organismos e empresas de administração territorial mencionados no parágrafo anterior, ao abrigo da Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte and the Bundesgesetz vom 23. Dezember 1959 über die friedliche Verwendung der Atomenergie und den Strahlenschutz.
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Transportes ou distribuição de gás ou aquecimento
 
@@ -17050,7 +17109,7 @@ Centrais municipais de energia (kunnalliset energialaitokset) ou respectivas ass
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17068,7 +17127,7 @@ Suíça:
 
 Organismos administrativos territoriais e empresas que gerem uma rede de abastecimento ao abrigo da Bundesgesetz vom 4. Oktober 1963 über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- und Treibstoffe.
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Exploração e extracção de petróleo ou gás
 
@@ -17082,7 +17141,7 @@ Entidades que exercem a sua actividade com base num direito exclusivo de explora
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17100,7 +17159,7 @@ Suíça:
 
 Organismos administrativos territoriais e empresas que exploram ou extraem petróleo ou gás ao abrigo de disposições cantonais relativas à exploração do subsolo estabelecidas na Verfassugen der Kantone ou na Erdölkonkordat vom 24. September 1955 zwischen den Kantonen Zürich, Schwyz, Zug, Schaffhausen, Appenzell Innerrhoden, Appenzell, Ausserhoden, St. Gallen, Argau und Thurgau ou nas Einführungsgesetzen zum Zivilgesetzbuch der Kantone ou na Spezialgesetzgebungen der Kantone.
 
-## APÊNDICE N.º 8
+APÊNDICE N.º 8
 
 Exploração e extracção de carvão ou outros combustíveis sólidos
 
@@ -17114,7 +17173,7 @@ Finlândia:
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17132,7 +17191,7 @@ Suíça:
 
 -
 
-## APÊNDICE N.º 9
+APÊNDICE N.º 9
 
 Entidades adjudicantes na área dos serviços ferroviários
 
@@ -17170,7 +17229,7 @@ Scheweizerische Bundesbahnen (SBB)/Chemins de Fer Fédéraux (CFF);
 
 Todas as outras empresas abrangidas pelo n.º 2 do artigo 1.º e pelo n.º 1 do artigo 2.º da Eisenbahngesetz vom 20. Dezember 1957.
 
-## APÊNDICE N.º 10
+APÊNDICE N.º 10
 
 Entidades adjudicantes na área dos serviços urbanos de comboios, carros eléctricos, tróleis ou autocarros
 
@@ -17212,7 +17271,7 @@ Organismos administrativos territoriais e empresas de transportes públicos que 
 
 Organismos administrativos territoriais e empresas que efectuam o transporte regular e comercial de passageiros ao abrigo do n.º 1, alínea a), do artigo 1.º e do n.º 1 do artigo 3.º da Postverkehrsgesetz vom 2. Oktober 1924.
 
-## APÊNDICE N.º 11
+APÊNDICE N.º 11
 
 Entidades adjudicantes na área da exploração dos aeroportos
 
@@ -17248,7 +17307,7 @@ Aéroport de Bâle-Mulhouse estabelecido de acordo com a Convention Franco-Suiss
 
 Aeroportos cuja actividade está sujeita a uma licença emitida ao abrigo do artigo 37.º da Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt.
 
-## APÊNDICE N.º 12
+APÊNDICE N.º 12
 
 Entidades adjudicantes na área da administração dos portos marítimos ou fluviais ou outros terminais
 
@@ -17264,7 +17323,7 @@ Canal de Saimaa (Saimaan kanavan hoitokunta).
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17284,7 +17343,7 @@ Suíça:
 
 Rhenhäfen beider Basel: para a Kanton Basel-Stadt estabelecida de acordo com a Gesetz vom 13. November 1919 betreffend Verwaltung der baselstädtischen Rheinhafenanlagen, para o Kanton Basel-Land estabelecido de acordo com a Gesetz vom 26. Oktober 1936 über die Errichtung von Hafen-, Geleise- und Strassenanlagen auf dem «Sternenfeld», Birsfelden, und in der «Au», Muttenz.
 
-## APÊNDICE N.º 13
+APÊNDICE N.º 13
 
 Exploração das redes de telecomunicações ou prestação de serviços de telecomunicações
 
@@ -17298,7 +17357,7 @@ Entidades que exercem a sua actividade com base num direito exclusivo por força
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Listenstaina:
 
@@ -17316,7 +17375,9 @@ Suíça:
 
 Schweizerische Post-, Telefon- und Telegrafenbetriebe (PTT).
 
-## ANEXO XVII — Propriedade intelectual
+ANEXO XVII
+
+Propriedade intelectual
 
 (lista prevista no n.º 2 do artigo 65.º)
 
@@ -17390,7 +17451,7 @@ A alínea c) do artigo 4.º passa a ter a seguinte redacção:
 
 Qualquer forma de distribuição ao público, incluindo a locação do original ou de cópias de um programa de computador. A primeira. comercialização numa Parte Contratante de uma cópia de um programa efectuada pelo titular dos direitos ou realizada com o seu consentimento extinguirá o direito de distribuição nos territórios das Partes Contratantes dessa mesma cópia, com excepção do direito de controlar a locação ulterior do programa ou de uma sua cópia.
 
-## ANEXO XVIII
+ANEXO XVIII
 
 Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos.
 
@@ -17754,7 +17815,9 @@ F) Suíça:
 
 Pessoas seguradas que recebam prestações do seguro de velhice.
 
-## ANEXO XIX — Defesa dos consumidores
+ANEXO XIX
+
+Defesa dos consumidores
 
 (lista prevista no artigo 72.º)
 
@@ -17814,7 +17877,9 @@ As Partes Contratantes tomam nota do conteúdo dos seguintes actos:
 
 9 - 388 Y 0611(01): Resolução n.º 88/C 153/01, do Conselho, de 7 de Junho de 1988, relativa à protecção dos consumidores em matéria de indicação dos preços dos géneros alimentícios e dos produtos não alimentares (JO, n.º C 153, de 11 de Junho de 1988, p. 1).
 
-## ANEXO XX — Ambiente
+ANEXO XX
+
+Ambiente
 
 (lista prevista no artigo 74.º)
 
@@ -17972,11 +18037,11 @@ b) Essa Parte Contratante deve informar imediatamente as outras Partes Contratan
 
 b) No anexo I, à tabela dos limites máximos e objectivos de redução das emissões é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 c) No anexo II, à tabela de limites máximos e objectivos de redução das emissões é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 d) À data de entrada em vigor do Acordo, a Islândia, o Listenstaina e a Noruega não possuem quaisquer grandes instalações de combustão, tal como definidas no artigo 1.º Estes Estados darão cumprimento à directiva se e quando adquirirem essas centrais.
 
@@ -18070,7 +18135,7 @@ Para efeitos do presente Acordo, as disposições da directiva são adaptadas da
 
 a) À casa 36 do anexo I é aditado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 b) À última frase da disposição n.º 6 do anexo III é aditado o seguinte: «AU Áustria, SF para a Finlândia, IS para a Islândia, LI para o Listenstaina, NO para a Noruega, SE para a Suécia e CH para a Suíça.»;
 
@@ -18094,7 +18159,9 @@ As Partes Contratantes terão em conta o disposto nos seguintes actos:
 
 38 - SEC (89)934 final: Comunicação da Comissão ao Conselho e ao Parlamento de 18 de Setembro de 1989. - Estratégia comunitária para a gestão dos resíduos.
 
-## ANEXO XXI — Estatísticas
+ANEXO XXI
+
+Estatísticas
 
 (lista prevista no artigo 76.º)
 
@@ -18244,7 +18311,7 @@ Suomi/Finland.
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Noruega:
 
@@ -18368,7 +18435,7 @@ Suomi/Finland.
 
 Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Noruega:
 
@@ -18626,7 +18693,7 @@ a) Ao artigo 1.º é aditado o seguinte:
 
 Finlândia: Vientietumenettely/Exportförmansförfarandet;
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Noruega: Foredling innenlansk (aktiv);
 
@@ -18640,7 +18707,7 @@ b) Ao artigo 2.º é aditado o seguinte:
 
 Finlândia: Tullinalennusmenettely/Tullnedsat-tningsförfarandet;
 
-Islândia: [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+Islândia: [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Noruega: Foredling utenlandsk (passiv);
 
@@ -18916,7 +18983,7 @@ Para efeitos do presente Acordo, as disposições do regulamento são adaptadas 
 
 a) No anexo III, a disposição do quadro é alertada da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 b) Os Estados da EFTA deverão fornecer os dados exigidos no regulamento a partir de 1985, o mais tardar. O relatório mencionado no n.º 1 do artigo 5.º e o pedido, em caso de necessidade, de exclusão dos pequenos portos mencionados no n.º 6 do artigo 5.º deverão ser apresentados no decurso do ano de 1995.
 
@@ -18936,7 +19003,9 @@ c) A Islândia e o Listenstaina ficam dispensados do fornecimento das informaç�
 
 d) A Áustria, a Finlândia, a Noruega, a Suécia e a Suíça deverão fornecer as informações exigidas nesta directiva a partir de 1995, o mais tardar. Estes países deverão indicar ao SECE, até 1 de Janeiro de 1993, as zonas e regiões que servirão para os levantamentos de preços, nos termos do ponto 11 do anexo I e dos pontos 2 e 13 do anexo II.
 
-## ANEXO XXII — Direito das sociedades
+ANEXO XXII
+
+Direito das sociedades
 
 (lista prevista no artigo 77.º)
 
@@ -18992,7 +19061,7 @@ osakeyhtiö, aktiebolag;
 
 - para a Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - para o Listenstaina:
 
@@ -19036,7 +19105,7 @@ osakeyhtiö, aktiebolag;
 
 - para a Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - para o Listenstaina:
 
@@ -19078,7 +19147,7 @@ osakeyhtiö, aktiebolag;
 
 - para a Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - para o Listenstaina:
 
@@ -19128,7 +19197,7 @@ osakeyhtiö, aktiebolag;
 
 - na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no Listenstaina:
 
@@ -19172,7 +19241,7 @@ kommantitbolag;
 
 - na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no Listenstaina:
 
@@ -19220,7 +19289,7 @@ osakeyhtiö, aktiebolag;
 
 o) Na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 p) No Listenstaina:
 
@@ -19266,7 +19335,7 @@ osakeyhtiö, aktiebolag;
 
 - na Islândia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 - no Listenstaina:
 
@@ -19396,49 +19465,49 @@ Protocolo n.º 49, relativo a Ceuta e Melilha;
 
 B):
 
-## Anexo I - Questões veterinárias e fitossanitárias;
+Anexo I - Questões veterinárias e fitossanitárias;
 
-## Anexo II - Regulamentação técnica, normas, ensaios e certificação;
+Anexo II - Regulamentação técnica, normas, ensaios e certificação;
 
-## Anexo III - Responsabilidade pelos produtos;
+Anexo III - Responsabilidade pelos produtos;
 
-## Anexo IV - Energia;
+Anexo IV - Energia;
 
-## Anexo V - Livre circulação dos trabalhadores;
+Anexo V - Livre circulação dos trabalhadores;
 
-## Anexo VI - Segurança social;
+Anexo VI - Segurança social;
 
-## Anexo VII - Reconhecimento mútuo de habilitações profissionais;
+Anexo VII - Reconhecimento mútuo de habilitações profissionais;
 
-## Anexo VIII - Direito de estabelecimento;
+Anexo VIII - Direito de estabelecimento;
 
-## Anexo IX - Serviços financeiros;
+Anexo IX - Serviços financeiros;
 
-## Anexo X - Serviços audiovisuais;
+Anexo X - Serviços audiovisuais;
 
-## Anexo XI - Serviços de telecomunicações;
+Anexo XI - Serviços de telecomunicações;
 
-## Anexo XII - Liberdade dos movimentos de capitais;
+Anexo XII - Liberdade dos movimentos de capitais;
 
-## Anexo XIII - Transportes;
+Anexo XIII - Transportes;
 
-## Anexo XIV - Concorrência;
+Anexo XIV - Concorrência;
 
-## Anexo XV - Auxílios estatais;
+Anexo XV - Auxílios estatais;
 
-## Anexo XVI - Contratos públicos;
+Anexo XVI - Contratos públicos;
 
-## Anexo XVII - Propriedade intelectual;
+Anexo XVII - Propriedade intelectual;
 
-## Anexo XVIII - Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos;
+Anexo XVIII - Saúde e segurança no local de trabalho, legislação laboral e igualdade de tratamento entre trabalhadores masculinos e femininos;
 
-## Anexo XIX - Defesa dos consumidores;
+Anexo XIX - Defesa dos consumidores;
 
-## Anexo XX - Ambiente;
+Anexo XX - Ambiente;
 
-## Anexo XXI - Estatísticas;
+Anexo XXI - Estatísticas;
 
-## Anexo XXII - Direito das sociedades.
+Anexo XXII - Direito das sociedades.
 
 Os plenipotenciários dos Estados membros das Comunidades Europeias e da Comunidade e os plenipotenciários dos Estados da EFTA aprovaram as declarações comuns a seguir enumeradas e anexas à presente Acta Final:
 
@@ -20398,7 +20467,7 @@ Udfaerdiget i Porto, den anden maj nitten hundrede og tooghalvfems.
 
 Geschehen zu Porto am zweiten Mai neunzehnhundertzweiundneunzig.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 Done at Oporto on second day of May in the year one thousand nine hundred and ninety-two.
 
@@ -20424,7 +20493,7 @@ For Radet og Kommissionen for de Europaeiske Faellesskaber:
 
 Für den Rat und die Kommission der Europäischen Gemeinschaften:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
 
 For the Council and the Commission of the European Communities:
 
@@ -20436,4 +20505,4 @@ Voor de Raad en de Comissie van de Europese Gemeenschappen:
 
 Pelo Conselho e pela Comissão das Comunidades Europeias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf))](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/291a03/00020349.pdf)

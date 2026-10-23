@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/30/2000/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-2000-506409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd807450c74b85149e9ff7baeea6a4502687c5a8c35e072b4c9b06ee1157de71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f567bf4cf4fff187c5909d803eae299d33e5eb2c3edeedc5366fc6fe423149c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Segurança Internacional
-- Paris
 - Cooperação Militar
 - França
-relationships: []
+- Paris
+- Portugal
+- Segurança Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:506407:por
+  label: "Ratiticada a Convenção pelo DEC.17/2000.2000.03.10.PR DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/17-2000-506407
+  date: '2000-03-10'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:10Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 TRATADO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FRANCESA RELATIVO À COOPERAÇÃO NO DOMÍNIO DA DEFESA
 
@@ -227,15 +232,15 @@ Os diferendos resultantes da interpretação e da aplicação do presente Tratad
 
 O presente Tratado entrará em vigor na data da última notificação do cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada Estado.
 
-**Assinado em Paris em 30 de Julho de 1999, em dois exemplares, nas línguas portuguesa e francesa, fazendo os dois textos igualmente fé.**
+Assinado em Paris em 30 de Julho de 1999, em dois exemplares, nas línguas portuguesa e francesa, fazendo os dois textos igualmente fé.
 
 Pela República Portuguesa, o Ministro da Defesa Nacional:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
 
 Pela República Francesa, o Ministro da Defesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
 
 TRAITÉ ENTRE LA RÉPUBLIQUE PORTUGAISE ET LA RÉPUBLIQUE FRANÇAISE RELATIF À LA COOPÉRATION DANS LE DOMAINE DE LA DÉFENSE.
 
@@ -371,8 +376,8 @@ Fait à Paris, le 30 juillet 1999, en double exemplaire, en langues portugaise e
 
 Pour la République portugaise, le ministre de la Défense Nationale:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
 
 Pour la République française, le ministre de la Défense:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)
+[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)](https://files.diariodarepublica.pt/1s/2000/03/076a00/13821385.pdf)

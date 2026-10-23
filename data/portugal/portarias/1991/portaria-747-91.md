@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/747/1991/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1991-687204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87dcb037ea7220524a181cfd692ecb2d35663296ed6f46c561c84024c4fee044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f46d0ec1f517c06abed6261de40fa2b94a15941a695373b57e9a11a999f2859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Radiocomunicações
-- Telecomunicações Complementares
 - Serviços de Radiocomunicações
 - Taxa
+- Telecomunicações Complementares
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/35/1991/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/35/1991/01/15/p/dre
+- type: cites
+  target: pt:dre:495902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:12Z'
   warnings: []
   errors: []
 ---
@@ -105,12 +117,12 @@ V - Serviço de chamada de pessoas de uso público
 
 Coberturas regional/nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/176b00/37963796.pdf))](https://files.diariodarepublica.pt/1s/1991/08/176b00/37963796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/176b00/37963796.pdf)
 
 2.º Determinar que esta portaria entre imediatamente em vigor.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 18 de Julho de 1991.**
+Assinada em 18 de Julho de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação.

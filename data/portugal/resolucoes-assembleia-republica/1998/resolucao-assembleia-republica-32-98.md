@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/32/1998/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/32-1998-474476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42e800319d02de639a69c2745021e9ba2431f1e39e529254a3c28b54ddb64ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ed5bf89386a37d39656c1f38c6e938a71337821554c4b382439348ae63056f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Ilícito
-- Navegação Aérea
-- Convenção
-- Portugal
 - Aviação Civil Internacional
+- Convenção
 - Montreal
+- Navegação Aérea
 - Pirataria
+- Portugal
 - Segurança Aérea
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:57Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 19 de Março de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 PROTOCOL FOR THE SUPPRESSION OF UNLAWFUL ACTS OF VIOLENCE AT AIRPORTS SERVING INTERNATIONAL CIVIL AVIATION, SUPPLEMENTARY TO THE CONVENTION FOR THE SUPPRESSION OF UNLAWFUL ACTS AGAINST THE SAFETY OF CIVIL AVIATION, DONE AT MONTREAL ON 23 SEPTEMBER 1971.
 
@@ -284,11 +284,11 @@ Considerando que é necessário adoptar disposições complementares às da Conv
 
 chegaram a acordo quanto às seguintes disposições:
 
-Artigo I
+###### Artigo I
 
 O presente Protocolo complementa a Convenção para a Repressão de Actos Ilícitos contra a Segurança da Aviação Civil, feita em Montreal em 23 de Setembro de 1971 (daqui em diante designada «a Convenção»), e, entre as partes no presente Protocolo, a Convenção e o Protocolo serão considerados e interpretados como um único e mesmo instrumento.
 
-Artigo II
+###### Artigo II
 
 1 - Ao artigo 1.º da Convenção é acrescentado o seguinte n.º 1-bis:
 
@@ -302,17 +302,17 @@ se esse acto comprometer ou puder comprometer a segurança desse aeroporto.»
 
 2 - Na alínea a) do n.º 2 do artigo 1.º da Convenção, a seguir às palavras «no n.º 1» são inseridas as palavras: «ou no n.º 1-bis.»
 
-Artigo III
+###### Artigo III
 
 Ao artigo 5.º da Convenção é acrescentado o seguinte n.º 2-bis:
 
 «2-bis. Cada Estado Contratante tomará igualmente as medidas necessárias para determinar a sua jurisdição sobre as infracções penais previstas no n.º 1-bis do artigo 1.º, bem como no n.º 2 do mesmo artigo, na medida em que este último número diz respeito a tais infracções, caso o presumível infractor se encontre no seu território e o dito Estado não proceda, em conformidade com o artigo 58.º, à sua extradição para o Estado a que se refere a alínea a) do n.º 1 do presente artigo.»
 
-Artigo IV
+###### Artigo IV
 
 O presente Protocolo estará aberto, em 24 de Fevereiro de 1988, em Montreal, à assinatura dos Estados participantes na Conferência Internacional de Direito Aéreo, realizada em Montreal de 9 a 24 de Fevereiro de 1988. Depois de 1 de Março de 1988, o Protocolo estará aberto à assinatura de todos os Estados em Londres, Moscovo, Washington e Montreal, até à sua entrada em vigor em conformidade com o artigo VI.
 
-Artigo V
+###### Artigo V
 
 1 - O presente Protocolo estará sujeito à ratificação pelos Estados signatários.
 
@@ -320,13 +320,13 @@ Artigo V
 
 3 - Os instrumentos de ratificação serão depositados junto dos Governos da União das Repúblicas Socialistas Soviéticas, do Reino Unido da Grã-Bretanha e Irlanda do Norte, dos Estados Unidos da América ou junto da Organização da Aviação Civil Internacional, que são por este meio designados «Depositários».
 
-Artigo VI
+###### Artigo VI
 
 1 - Quando o presente Protocolo tiver reunido as ratificações de 10 Estados signatários, entrará em vigor entre esses Estados no 30.º dia após o depósito do 10.º instrumento de ratificação. Para cada Estado que o ratificar após essa data, entrará em vigor no 30.º dia após o depósito do seu instrumento de ratificação.
 
 2 - Logo que o presente Protocolo entre em vigor, será registado pelos Depositários em conformidade com o artigo 102.º da Carta das Nações Unidas e com o artigo 83.º da Convenção sobre Aviação Civil Internacional (Chicago, 1944).
 
-Artigo VII
+###### Artigo VII
 
 1 - Após a sua entrada em vigor, o presente Protocolo estará aberto à adesão dos Estados não signatários.
 
@@ -334,7 +334,7 @@ Artigo VII
 
 3 - Os instrumentos de adesão serão depositados junto dos Depositários e a adesão produzirá efeitos no 30.º dia a contar da data do depósito.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - Qualquer das Partes no presente Protocolo poderá denunciá-lo por notificação escrita dirigida aos Depositários.
 
@@ -344,7 +344,7 @@ Artigo VIII
 
 4 - A denúncia da Convenção por um Estado Contratante da Convenção complementada pelo presente Protocolo implicará a denúncia do presente Protocolo.
 
-Artigo IX
+###### Artigo IX
 
 1 - Os Depositários notificarão sem demora todos os Estados signatários e aderentes do presente Protocolo, bem como todos os Estados signatários e aderentes da Convenção:
 

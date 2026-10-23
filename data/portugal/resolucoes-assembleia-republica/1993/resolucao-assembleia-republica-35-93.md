@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/35/1993/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-1993-682379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95efbd769b8e9c98992c0c1e28162d84fde3bef18459ae1cef0481b1c25c313a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5b0520c2d481efd20914fb9f7b82f66082f0d7d262fb5e8923261bcc1526a88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Direito de Residência
+- Admissão de Estrangeiros
+- Armamento
 - Asilo Político
 - BONA
 - CE Países
 - Cidadão Estrangeiro
 - Convenção
-- Cooperação Transfronteira
-- Segurança Interna
-- Portugal
-- Armamento
-- Extradição
+- Cooperação Judiciária
 - Cooperação Policial
+- Cooperação Transfronteira
+- Direito de Residência
+- Direito Penal
+- Droga
+- Execução de Sentença
+- Extradição
 - Fronteiras
-- Segurança da Informação
-- Livre Prestação de Serviços
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
-- Execução de Sentença
-- Droga
-- Segurança Internacional
+- Livre Prestação de Serviços
 - Paris
-- Cooperação Judiciária
-- Sistema de Informação
+- Portugal
 - Principio NE BIS IN IDEM
-- Direito Penal
 - Schengen
+- Segurança da Informação
+- Segurança Interna
+- Segurança Internacional
+- Sistema de Informação
 - Sistema de Informação Schengen
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:108028570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:270794:por
+  label: "Determinada uma medida de excepção ao regime previsto no n.º 1 do art. 2.º da Convenção de Aplicação do Acordo de\
+    \ Schengen, cujo Acordo de Adesão foi aprovado, por parte de Portugal, pelo presente diploma, pela RES.65/2004.12.05.2004.PCM,\
+    \ DR.IS-B [119] de 21.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/65-2004-270794
+  date: '2004-05-12'
+- type: amended_by
+  target: pt:dre:70300344:por
+  label: Substituído, nas relações entre Portugal e os outros Estados membros da União Europeia, a partir de 16.12.2015, o
+    disposto no instrumento jurídico constante do Tít. III, cap 5, da Convenção de Aplicação do Acordo de Schengen de 14 de
+    junho de 1985, relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinada em 19 de junho de 1990, aprovada
+    pela presente resolução, pelo(a) Lei n.º 158/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/158-2015-70300344
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:108028570:por
+  label: Substituídas, a partir de 22.08.2017, as disposições correspondentes da Convenção de Aplicação do Acordo de Schengen,
+    cujo Acordo de Adesão foi aprovado, por parte de Portugal, pela presente Resolução, pelo(a) Lei n.º 88/2017 - Diário da
+    República n.º 160/2017, Série I de 2017-08-21 nos termos do seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-2017-108028570
+  date: '2017-08-21'
 - type: cites
   target: celex:31969R0543
   label: null
@@ -111,14 +133,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/1981/1468/oj
 article_structure:
   article_count: 221
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:32Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +153,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 2 de Abril de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLE D'ADHESION DU GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE À L'ACCORD ENTRE LES GOUVERNEMENTS DES ÉTATS DE L'UNION ÉCONOMIQUE BENELUX, DE LA RÉPUBLIQUE FÉDÉRALE D'ALLEMAGNE ET DE LA RÉPUBLIQUE FRANÇAISE RELATIF À LA SUPPRESSION GRADUELLE DES CONTRÔLES AUX FRONTIÈRES COMMUNES SIGNÉ À SCHENGEN LE 14 JUIN 1985 TEL QU'AMENDÉ PAR LE PROTOCOLE D'ADHÉSION DU GOUVERNEMENT DE LA RÉPUBLIQUE ITALIENNE SIGNÉ À PARIS LE 27 NOVEMBRE 1990.
 
@@ -2991,7 +3013,7 @@ Quercus.
 
 6) Végétaux vivants mentionnés ci-après et figurant sous le code NC énuméré ci-après de la nomenclature douanière publiée au Journal officiel des Communautés européennes, du 7 septembre 1987.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf))](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf)
 
 5 - Déclaration commune concernant les politiques nationales en matière d'asile:
 
@@ -3265,7 +3287,7 @@ Controlo fronteiriço - o controlo nas fronteiras que, independentemente de qual
 
 Transportador - qualquer pessoa singular ou colectiva que assegura, a título profissional, o transporte de pessoas por via aérea, marítima ou terrestre;
 
-## Título de residência - as autorizações, qualquer que seja a sua natureza, emitidas por uma Parte Contratante que concedem o direito de residência no seu território. Esta definição não abrange a admissão temporária para efeitos de permanência no território de uma Parte Contratante, tendo em vista o tratamento de um pedido de asilo ou de um pedido de título de residência;
+Título de residência - as autorizações, qualquer que seja a sua natureza, emitidas por uma Parte Contratante que concedem o direito de residência no seu território. Esta definição não abrange a admissão temporária para efeitos de permanência no território de uma Parte Contratante, tendo em vista o tratamento de um pedido de asilo ou de um pedido de título de residência;
 
 Pedido de asilo - qualquer pedido apresentado por escrito, oralmente ou de qualquer outro modo, por um estrangeiro na fronteira externa ou no território de uma Parte Contratante, com vista a obter o reconhecimento da sua qualidade de refugiado, ao abrigo da Convenção de Genebra de 28 de Julho de 1951 relativa ao estatuto dos refugiados, tal como alterada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967, bem como a beneficiar nesta qualidade de um direito de residência;
 
@@ -4951,7 +4973,7 @@ Quercus.
 
 6) Vegetais a seguir referidos e abrangidos pelo código NC a seguir enunciado da nomenclatura pautal publicada no Jornal Oficial das Comunidades Europeias, de 7 de Setembro de 1987.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf))](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/276a00/65386628.pdf)
 
 5 - Declaração comum relativa às políticas nacionais em matéria de asilo:
 

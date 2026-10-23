@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/1994/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-1994-290666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8315ca9ccf19823ddb5b943f748ba3af78e90bdf2d23d8b9de7ea90e67c5400
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e06009e89043e049f7d38b52439027f5ae30537994282edcb772de1d495c33d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
 subjects:
 - Arbitragem
 - Convenção
-- Portugal
+- Direito Internacional
 - Execução de Sentença
 - Nova Iorque
+- Portugal
 - Sentença Estrangeira
-- Direito Internacional
 - Tribunal Arbitral
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:27Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +94,13 @@ Aprova, para ratificação, a Convenção sobre o Reconhecimento e a Execução 
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada, para ratificação, a Convenção sobre o Reconhecimento e a Execução de Sentenças Arbitrais Estrangeiras, celebrada em Nova Iorque, a 10 de Junho de 1958, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo à presente resolução.
+Artigo 1.º É aprovada, para ratificação, a Convenção sobre o Reconhecimento e a Execução de Sentenças Arbitrais Estrangeiras, celebrada em Nova Iorque, a 10 de Junho de 1958, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo à presente resolução.
 
-###### Art. 2.º Nos termos do n.º 3 do artigo 1.º da Convenção, Portugal formula a seguinte reserva: no âmbito do princípio da reciprocidade, Portugal só aplicará a Convenção no caso de as sentenças arbitrais terem sido proferidas no território de Estados a ela vinculados.
+Art. 2.º Nos termos do n.º 3 do artigo 1.º da Convenção, Portugal formula a seguinte reserva: no âmbito do princípio da reciprocidade, Portugal só aplicará a Convenção no caso de as sentenças arbitrais terem sido proferidas no território de Estados a ela vinculados.
 
 Aprovada em 10 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION POUR LA RECONNAISSANCE ET L'EXÉCUTION DES SENTENCES ARBITRALES ÉTRANGÈRES, FAITE À NEW-YORK, LE 10 JUIN 1958 (ver nota *).
 
@@ -242,7 +242,7 @@ Article XVI
 
 CONVENÇÃO SOBRE O RECONHECIMENTO E A EXECUÇÃO DE SENTENÇAS ARBITRAIS ESTRANGEIRAS, CELEBRADA EM NOVA IORQUE AOS 10 DE JUNHO DE 1958 (ver nota *).
 
-Artigo I
+###### Artigo I
 
 1 - A presente Convenção aplica-se ao reconhecimento e à execução das sentenças arbitrais proferidas no território de um Estado que não aquele em que são pedidos o reconhecimento e a execução das sentenças e resultantes de litígios entre pessoas singulares ou colectivas. Aplica--se também às sentenças arbitrais que não forem consideradas sentenças nacionais no Estado em que são pedidos o seu reconhecimento e execução.
 
@@ -258,7 +258,7 @@ Marrocos - 12 de Fevereiro de 1959 (a);
 
 República Árabe Unida - 9 de Março de 1959 (a).
 
-Artigo II
+###### Artigo II
 
 1 - Cada Estado Contratante reconhece a convenção escrita pela qual as Partes se comprometem a submeter a uma arbitragem todos os litígios ou alguns deles que surjam ou possam surgir entre elas relativamente a uma determinada relação de direito, contratual ou não contratual, respeitante a uma questão susceptível de ser resolvida por via arbitral.
 
@@ -266,11 +266,11 @@ Artigo II
 
 3 - O tribunal de um Estado Contratante solicitado a resolver um litígio sobre uma questão relativamente à qual as Partes celebraram uma convenção ao abrigo do presente artigo remeterá as Partes para a arbitragem, a pedido de uma delas, salvo se constatar a caducidade da referida convenção, a sua inexequibilidade ou insusceptibilidade de aplicação.
 
-Artigo III
+###### Artigo III
 
 Cada um dos Estados Contratantes reconhecerá a autoridade de uma sentença arbitral e concederá a execução da mesma nos termos das regras de processo adoptadas no território em que a sentença for invocada, nas condições estabelecidas nos artigos seguintes. Para o reconhecimento ou execução das sentenças arbitrais às quais se aplica a presente Convenção, não serão aplicadas quaisquer condições sensivelmente mais rigorosas, nem custas sensivelmente mais elevadas, do que aquelas que são aplicadas para o reconhecimento ou a execução das sentenças arbitrais nacionais.
 
-Artigo IV
+###### Artigo IV
 
 1 - Para obter o reconhecimento e a execução referidos no artigo anterior, a Parte que requerer o reconhecimento e a execução deverá juntar ao seu pedido:
 
@@ -280,7 +280,7 @@ b) O original da convenção referida no artigo II, ou uma cópia da mesma, veri
 
 2 - No caso de a referida sentença ou convenção não estar redigida numa língua oficial do país em que for invocada a sentença, a Parte que requerer o reconhecimento e a execução da mesma terá de apresentar uma tradução dos referidos documentos nesta língua. A tradução deverá estar autenticada por um tradutor oficial ou por um agente diplomático ou consular.
 
-Artigo V
+###### Artigo V
 
 1 - O reconhecimento e a execução da sentença só serão recusados, a pedido da Parte contra a qual for invocada, se esta Parte fornecer à autoridade competente do país em que o reconhecimento e a execução forem pedidos a prova:
 
@@ -300,29 +300,29 @@ a) Que, de acordo com a lei desse país, o objecto de litígio não é susceptí
 
 b) Que o reconhecimento ou a execução da sentença são contrários à ordem pública desse país.
 
-Artigo VI
+###### Artigo VI
 
 Se a anulação ou a suspensão da sentença for requerida à autoridade competente prevista no artigo V, n.º 1, alínea e), a autoridade perante a qual a sentença for invocada poderá, se o considerar adequado, diferir o momento da sua decisão relativa à execução da sentença; poderá igualmente, a requerimento da parte que solicitar a execução da sentença, exigir da outra Parte a prestação das garantias adequadas.
 
-Artigo VII
+###### Artigo VII
 
 1 - As disposições da presente Convenção não prejudicam a validade dos acordos multilaterais ou bilaterais celebrados pelos Estados Contratantes em matéria de reconhecimento e de execução de sentenças arbitrais, nem prejudicam o direito de invocar a sentença arbitral que qualquer das Partes interessadas possa ter nos termos da lei ou dos tratados do país em que for invocada.
 
 2 - O Protocolo de Genebra de 1923 Relativo às Cláusulas de Arbitragem e a Convenção de Genebra de 1927 Relativa à Execução das Sentenças Arbitrais Estrangeiras deixarão de produzir efeitos entre os Estados Contratantes a partir do momento, e na medida, em que aqueles se encontrem obrigados pela presente Convenção.
 
-Artigo VIII
+###### Artigo VIII
 
 1 - A presente Convenção pode ser assinada até 31 de Dezembro de 1958 por qualquer Estado membro das Nações Unidas, ou por qualquer outro Estado que seja, ou venha a ser posteriormente, membro de uma ou várias agências especializadas das Nações Unidas ou parte do Estatuto do Tribunal Internacional de Justiça, ou que seja convidado pela Assembleia Geral das Nações Unidas.
 
 2 - A presente Convenção deve ser ratificada e os instrumentos de ratificação depositados junto do Secretário-Geral da Organização das Nações Unidas.
 
-Artigo IX
+###### Artigo IX
 
 1 - Todos os Estados referidos no artigo VIII podem aderir à presente Convenção.
 
 2 - A adesão efectuar-se-á através do depósito de um instrumento de adesão junto do Secretário-Geral da Organização das Nações Unidas.
 
-Artigo X
+###### Artigo X
 
 1 - Qualquer Estado poderá, no acto da assinatura, da ratificação ou da adesão, declarar que a presente Convenção será extensível ao conjunto, ou apenas a um ou vários, dos territórios que representa a nível internacional. Esta declaração produzirá os seus efeitos a partir do momento da entrada em vigor da presente Convenção naquele Estado.
 
@@ -330,7 +330,7 @@ Artigo X
 
 3 - No que respeita aos territórios aos quais não se aplica a presente Convenção na data da assinatura, da ratificação ou da adesão, cada Estado interessado examinará a possibilidade de tomar as medidas que desejar para estender a Convenção a esses territórios, sob reserva, se for caso disso, do acordo dos governos desses territórios quando exigido por razões constitucionais.
 
-Artigo XI
+###### Artigo XI
 
 As disposições seguintes aplicar-se-ão aos Estados federativos ou não unitários:
 
@@ -340,13 +340,13 @@ b) No que respeita aos artigos da presente Convenção que relevem da competênc
 
 c) Um Estado federativo Parte na presente Convenção comunicará, a pedido de qualquer outro Estado contratante, transmitido por intermédio do Secretário-Geral da Organização das Nações Unidas, uma exposição da legislação e das práticas em vigor na federação e nas suas unidades constituintes, no que respeita a qualquer disposição da Convenção, indicando qual o efeito dado a essa disposição através de uma acção legislativa ou outra.
 
-Artigo XII
+###### Artigo XII
 
 1 - A presente Convenção entrará em vigor no 90.º dia seguinte à data do depósito do terceiro instrumento de ratificação ou de adesão.
 
 2 - Para cada Estado que ratificar a Convenção ou a ela aderir após o depósito do terceiro instrumento de ratificação ou de adesão, a Convenção entrará em vigor a partir do 90.º dia seguinte à data do depósito por esse Estado do seu instrumento de ratificação ou de adesão.
 
-Artigo XIII
+###### Artigo XIII
 
 1 - Qualquer Estado contratante poderá denunciar a presente Convenção através de notificação escrita dirigida ao Secretário-Geral da Organização das Nações Unidas. A denúncia produzirá efeitos um ano após a data do recebimento da notificação pelo Secretário-Geral da Organização das Nações Unidas.
 
@@ -354,13 +354,13 @@ Artigo XIII
 
 3 - A presente Convenção continuará a ser aplicável às sentenças arbitrais relativamente às quais tiver sido iniciado um processo de reconhecimento ou de execução antes da entrada em vigor da denúncia.
 
-Artigo XIV
+###### Artigo XIV
 
 Um Estado Contratante só se poderá prevalecer das disposições da presente Convenção contra outros Estados Contratantes na medida em que ele próprio esteja obrigado a aplicá-la.
 
-Artigo XV
+###### Artigo XV
 
-**O Secretário-Geral da Organização das Nações Unidas notificará a todos os Estados referidos no artigo VIII:**
+O Secretário-Geral da Organização das Nações Unidas notificará a todos os Estados referidos no artigo VIII:
 
 a) As assinaturas e ratificações referidas no artigo VIII;
 
@@ -372,7 +372,7 @@ d) A data de entrada em vigor da presente Convenção, nos termos do artigo XII;
 
 e) As denúncias e notificações referidas no artigo XIII.
 
-Artigo XVI
+###### Artigo XVI
 
 1 - A presente Convenção, cujas versões em inglês, chinês, espanhol, francês e russo são igualmente autênticas, será depositada nos arquivos da Organização das Nações Unidas.
 

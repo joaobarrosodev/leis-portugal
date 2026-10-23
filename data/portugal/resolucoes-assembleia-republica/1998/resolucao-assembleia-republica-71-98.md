@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/71/1998/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/71-1998-187520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84b92cf1206d24f787589d07b62d01f42d86bd33f000791b0f7cf9e3f8f53ccc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eec0a7f425bed8ed0bfa9ce5f0da5c59b5c94e5b61f3f1b1179f793d6b4b359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Convenção
-- Portugal
-- Política de Defesa
-- Tratado do Atlântico Norte
 - Cooperação Internacional
 - Cooperação Militar
-relationships: []
+- NATO
+- Política de Defesa
+- Portugal
+- Tratado do Atlântico Norte
+relationships:
+- type: amended_by
+  target: pt:dre:187519:por
+  label: "Ratificada a Convenção e o Protocolo Adicional aprovado para ratificação pelo presente diploma, pelo DEC.63/98.1998.12.29.PR\
+    \ DR.IS-A [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-1998-187519
+  date: '1998-12-29'
 article_structure:
-  article_count: 0
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:54Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +103,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 23 de Outubro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 AGREEMENT AMONG THE STATES PARTIES TO THE NORTH ATLANTIC TREATY AND THE OTHER STATES PARTICIPATING IN THE PARTNERSHIP FOR PEACE REGARDING THE STATUS OF THEIR FORCES.
 
@@ -271,25 +277,25 @@ Invocando a Convenção entre os Estados Partes do Tratado do Atlântico Norte s
 
 acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Salvo as disposições em contrário da presente Convenção e dos protocolos adicionais quanto às respectivas Partes, todos os Estados Partes da presente Convenção devem aplicar as disposições da Convenção entre as Partes do Tratado do Atlântico Norte sobre o Estatuto das Suas Forças, assinada em Londres em 19 de Junho de 1951, e de aqui em diante referida por SOFA da OTAN, como se todos os Estados Partes da presente Convenção fossem Partes do SOFA da OTAN.
 
-Artigo II
+###### Artigo II
 
 1 - Além do território em que se aplica o SOFA da OTAN, a presente Convenção aplicar-se-á ao território de todos os Estados Partes da presente Convenção que não são Partes do SOFA da OTAN.
 
 2 - Para os efeitos da presente Convenção, toda a referência do SOFA da OTAN à área do Tratado do Atlântico Norte deve ser interpretada como abrangendo igualmente os territórios indicados no n.º 1 do presente artigo e toda a referência ao Tratado do Atlântico Norte deve ser considerada como incluindo a Parceria para a Paz.
 
-Artigo III
+###### Artigo III
 
 Para efeitos da aplicação da presente Convenção às Partes que não são Parte do SOFA da OTAN, as disposições do SOFA da OTAN que prevêem que as petições sejam dirigidas ou que os litígios sejam submetidos ao Conselho do Atlântico Norte, ao Presidente do Conselho de Suplentes do Atlântico Norte ou a um árbitro são interpretadas no sentido de estipular que as Partes em questão devem negociar entre elas, sem recurso a uma jurisdição exterior.
 
-Artigo IV
+###### Artigo IV
 
 A presente Convenção pode ser completada ou inclusivamente modificada nos termos do direito internacional.
 
-Artigo V
+###### Artigo V
 
 1 - A presente Convenção será submetida à assinatura de todos os Estados que sejam Partes Contratantes do SOFA da OTAN ou que tenham aceite o convite para participar na Parceria para a Paz e tenham assinado o documento quadro da Parceria para a Paz.
 
@@ -297,7 +303,7 @@ Artigo V
 
 3 - 30 dias depois de três Estados signatários, desde que, pelo menos, um seja Parte do SOFA da OTAN e outro seja um Estado que tenha aceite o convite para participar na Parceria para a Paz e tenha assinado o documento quadro da Parceria para a Paz, tenham depositado os respectivos instrumentos de ratificação, aceitação ou aprovação, a presente Convenção entrará em vigor para esses Estados. Ela entrará em vigor para cada um dos outros Estados signatários 30 dias após a data do depósito do respectivo instrumento de ratificação, aceitação ou aprovação.
 
-Artigo VI
+###### Artigo VI
 
 A presente Convenção pode ser denunciada por qualquer Parte por meio de notificação escrita dirigida ao Governo dos Estados Unidos da América, que informará todos os outros Estados signatários da notificação. A denúncia produzirá efeitos um ano após a recepção da notificação pelo Governo dos Estados Unidos da América. Decorrido esse prazo de um ano, a presente Convenção deixará de estar em vigor para a Parte que a tenha denunciado, salvo para a resolução dos litígios anteriores à data em que a denúncia produziu efeitos, mas continuará em vigor para as outras Partes.
 
@@ -309,11 +315,11 @@ PROTOCOLO ADICIONAL DA CONVENÇÃO ENTRE OS ESTADOS PARTES DO TRATADO DO ATLÂNT
 
 Os Estados Partes do presente Protocolo Adicional da Convenção entre os Estados Partes do Tratado do Atlântico Norte e os Outros Estados Que Participam na Parceria para a Paz sobre o Estatuto das Suas Forças, de que aqui em diante referido por Convenção, considerando que a legislação nacional de certas Partes da Convenção não prevêem a pena de morte, acordaram no seguinte:
 
-Artigo I
+###### Artigo I
 
 Sempre que lhe seja reconhecida jurisdição pelas disposições da Convenção, os Estados Partes do presente Protocolo Adicional abster-se-ão de aplicar a pena de morte a um membro e à família de um membro de uma força e do elemento civil de uma força de um outro Estado Parte do presente Protocolo Adicional.
 
-Artigo II
+###### Artigo II
 
 1 - O presente Protocolo será submetido à assinatura de todos os signatários da Convenção.
 

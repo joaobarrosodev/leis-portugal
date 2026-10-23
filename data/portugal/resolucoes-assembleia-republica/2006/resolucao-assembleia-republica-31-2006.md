@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31/2006/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-2006-673019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00e3b486a2f5af626f9b38dd4fc38170193895fcc4c1ca7653022a005db796d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d07513e7bf663bc5d1eca279393fef13f5ced6b2b4180effa999e4301d1bb1e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Juros
+- Portugal
 - Poupança
 - Rendimento
 - Tributação
 relationships:
+- type: amended_by
+  target: pt:dre:673015:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.41/2006.06.04.2006.PR, DR.IS-A [69]\
+    \ de 06.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/41-2006-673015
+  date: '2006-04-06'
 - type: cites
   target: celex:31980L0390
   label: null
@@ -93,13 +99,13 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:43Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +118,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 26 de Janeiro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO SOB FORMA DE TROCA DE CARTAS RELATIVO À TRIBUTAÇÃO DOS RENDIMENTOS DA POUPANÇA
 
@@ -524,11 +530,11 @@ Instituto Valenciano de Finanzas (Instituto Valenciano de Finanças).
 
 Grécia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Organismo das Telecomunicações da Grécia);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Organismo das Telecomunicações da Grécia);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Organismo dos Caminhos de Ferro da Grécia);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Organismo dos Caminhos de Ferro da Grécia);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Empresa Pública de Electricidade);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Empresa Pública de Electricidade);
 
 França:
 
@@ -558,7 +564,7 @@ Cassa Depositi e Prestiti (Caixa de Depósitos e Empréstimos).
 
 Letónia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (governos locais);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (governos locais);
 
 Polónia:
 
@@ -578,7 +584,7 @@ Miasto stoleczne Warszawa (capital de Varsóvia);
 
 Agencja Restrukturyzacji i Modernizacji Rolnictwa (Agência para a Reestruturação e Modernização da Agricultura);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Agência de Propriedade Agrícola).
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Agência de Propriedade Agrícola).
 
 Portugal:
 
@@ -592,13 +598,13 @@ Eslováquia:
 
 Mestá a obce (municípios);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Companhia dos Caminhos de Ferro da Eslováquia);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Companhia dos Caminhos de Ferro da Eslováquia);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Fundo Estatal de Gestão Viária);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Fundo Estatal de Gestão Viária);
 
 Slovenské elektrárne (Companhias Eléctricas da Eslováquia);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Water Economy Building Company).
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Water Economy Building Company).
 
 Entidades internacionais:
 
@@ -1086,11 +1092,11 @@ Instituto Valenciano de Finanzas (Finance Institution of Valencia).
 
 Greece:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (National Telecommunications Organisation);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (National Telecommunications Organisation);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (National Railways Organisation)
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (National Railways Organisation)
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Public Electricity Company).
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Public Electricity Company).
 
 France:
 
@@ -1120,7 +1126,7 @@ Cassa Depositi e Prestiti (Deposits and Loans Fund);
 
 Latvia:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (local governments);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (local governments);
 
 Poland:
 
@@ -1154,13 +1160,13 @@ Slovakia:
 
 Mestá a obce (municipalities);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Slovak Railway Company);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Slovak Railway Company);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (State Road Management Fund);
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (State Road Management Fund);
 
 Slovenské elektrárne (Slovak Power Plants);
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Water Economy Building Company).
+[[[[[[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf)](https://files.diariodarepublica.pt/1s/2006/04/069a00/26212638.pdf) (Water Economy Building Company).
 
 International entities:
 

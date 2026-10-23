@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/751/1991/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1991-687470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e35e7cb8cc4c1386a863ae5ada3af5221b05b030e0e28c829eb575dc344722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec44244f8f988d5c450d0e12d5f435f45803aea588865b28eff6f3cf5b33c5a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/337/1991/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/337/1991/04/13/p/dre
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:17Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +122,6 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, ao abrigo do d
 
 Ministério das Finanças.
 
-**Assinada em 27 de Junho de 1991.**
+Assinada em 27 de Junho de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.

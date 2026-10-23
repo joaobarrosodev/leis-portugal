@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/20/2000/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/20-2000-408528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eb469ee5e2c746a004f467d5c61af273ba23439a6a747e2f258fb8ffc221a07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90238bfe9521c802535087a4b91b8659be5ffa11fd35016cc7581987cbba9ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
 - Índia
+- Lisboa
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:115392182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:408530:por
+  label: "Ratificada a Convenção e o Protocolo aprovados, para ratificação, pelo presente diploma, pelo DEC.8/2000.2000.03.06.PR\
+    \ DR.IS-A [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-2000-408530
+  date: '2000-03-06'
+- type: amended_by
+  target: pt:dre:222584:por
+  label: "Tornado público a rectificação à Convenção entre o Governo da República Portuguesa e o Governo da República da Índia\
+    \ para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Imposto sobre o Rendimento, aprovada para ratificação\
+    \ pelo presente diploma, pelo AV.231/2005.15.03.2005.MNE, DR.IS-A [102] de 27.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/231-2005-222584
+  date: '2005-03-15'
+- type: amended_by
+  target: pt:dre:115392182:por
+  label: Aprovado o Protocolo que altera a Convenção entre o Governo da República Portuguesa e o Governo da República da Índia
+    para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento aprovada pela presente
+    resolução, pelo(a) Resolução da Assembleia da República n.º 133/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/133-2018-115392182
+  date: '2018-05-25'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:58Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 25 de Novembro de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA ÍNDIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -585,11 +605,11 @@ Feita em duplicado, em Lisboa, aos 11 dias do mês de Setembro de 1998, nas lín
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 Pelo Governo da República da Índia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 PROTOCOLO
 
@@ -637,11 +657,11 @@ Feita em duplicado, em Lisboa, aos 11 dias do mês de Setembro de 1998, nas lín
 
 Pelo Governo da República Portuguesa:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 Pelo Governo da República da Índia:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 [(ver convenção em língua hindi no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
@@ -1195,11 +1215,11 @@ Done in duplicate, at Lisboa this 11 day of September 1998, in Portuguese, Hindi
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 For the Government of Republic of India:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 PROTOCOL
 
@@ -1247,8 +1267,8 @@ Done in duplicate, at Lisbon this 11 day of September 1998, in Portuguese, Hindi
 
 For the Government of the Portuguese Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
 
 For the Government of the Republic of India:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)
+[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)](https://files.diariodarepublica.pt/1s/2000/03/055a00/08160843.pdf)

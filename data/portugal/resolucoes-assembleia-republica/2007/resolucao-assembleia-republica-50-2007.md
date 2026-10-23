@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/50/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/50-2007-641438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a1a1706eee0060a507bb68eefb3dd2707721aecc9cfffc27fa0b1770df42557
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bd0df87b48548160cf80ba58f3d432554aabe6b27e9f85b189ec7905fed085e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Fundo Multilateral de Investimentos
 - Japão
 - Okinawa
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:641440:por
+  label: "Ratificados o Convénio Constitutivo e o Convénio de Administração pelo DEC.110/2007.15.10.2007.PR, DR.IS [198] de\
+    \ 15.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/110-2007-641440
+  date: '2007-10-15'
 article_structure:
-  article_count: 0
+  article_count: 18
   section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:48Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVÉNIO CONSTITUTIVO DO FUNDO MULTILATERAL DE INVESTIMENTOS II
 
@@ -108,9 +114,7 @@ Considerando que os contribuintes em potencial tencionam que o Fumin II continue
 
 Portanto, os contribuintes em potencial acordam o seguinte:
 
-Artigo I
-
-Objecto geral e funções
+###### Artigo I — Objecto geral e funções
 
 #### Secção 1 — Objecto geral
 
@@ -140,9 +144,7 @@ i) Estimular a implementação de reformas do marco regulatório e legal que sej
 
 j) Promover, em toda a gama das suas operações, o desenvolvimento económico sustentável e as boas práticas ambientais, bem como a igualdade dos sexos.
 
-Artigo II
-
-Contribuições ao Fundo
+###### Artigo II — Contribuições ao Fundo
 
 #### Secção 1 — Instrumentos de adesão e contribuição
 
@@ -166,9 +168,7 @@ b) Esses pagamentos serão depositados numa conta ou contas especialmente estabe
 
 c) Para determinar os montantes devidos por cada contribuinte que efectue um pagamento em moeda de livre conversão diversa do dólar dos Estados Unidos, o montante em dólares dos Estados Unidos que constar ao lado do seu nome no anexo A será convertido na moeda de pagamento, de acordo com a taxa de câmbio representativa estabelecida pelo Fundo Monetário Internacional para tal moeda, mediante o cálculo da média das taxas diárias durante o semestre encerrado em 31 de Dezembro de 2004.
 
-Artigo III
-
-Operações do Fundo
+###### Artigo III — Operações do Fundo
 
 #### Secção 1 — Considerações gerais
 
@@ -214,9 +214,7 @@ iii) Divulgação pública dos resultados.
 
 i) As operações do Fundo devem ser elaboradas e executadas de modo a maximizar a eficiência e o impacte desenvolvimentista, com ênfase particular na avaliação ex ante de riscos e fortalecimento dos órgãos executores. A comissão de contribuintes pode aprovar parcerias com entidades locais para a preparação e execução de projectos.
 
-Artigo IV
-
-A comissão de contribuintes
+###### Artigo IV — A comissão de contribuintes
 
 #### Secção 1 — Composição
 
@@ -240,9 +238,7 @@ b) O poder total de voto de cada contribuinte resultará da soma dos seus votos 
 
 Depois de aprovados pela comissão de contribuintes, os relatórios anuais submetidos nos termos do artigo v, secção 2, alínea a), do Convénio de Administração do Fumin II serão encaminhados à directoria executiva do Banco. Após o primeiro aniversário da data de vigência do Fumin II e posteriormente, pelo menos a cada cinco anos, a comissão de contribuintes solicitará uma avaliação independente pelo escritório de avaliação e supervisão do Banco, a ser custeada com recursos do Fundo, para examinar os resultados do Fundo à luz do objectivo e funções do Convénio do Fumin II; esta avaliação deve continuar a incluir uma aferição dos resultados de grupos de projectos, com base em referências e indicadores, nos aspectos de relevância, eficácia, eficiência, inovação, sustentabilidade e adicionalidade e o progresso na implementação das recomendações aprovadas pela comissão de contribuintes. Os contribuintes devem-se reunir para examinar cada avaliação independente o mais tardar na próxima reunião anual da assembleia de governadores do Banco.
 
-Artigo V
-
-Vigência do Convénio do FUMIN II
+###### Artigo V — Vigência do Convénio do FUMIN II
 
 #### Secção 1 — Entrada em vigor
 
@@ -260,9 +256,7 @@ O Convénio do Fumin II considerar-se-á encerrado caso o Banco venha a suspende
 
 Encerrado o Convénio do Fumin II, a comissão de contribuintes instruirá o Banco para que proceda a uma distribuição dos activos entre os contribuintes após terem sido quitadas ou atendidas todas as obrigações do Fundo. Qualquer distribuição de activos remanescentes deve ser feita pro rata aos votos proporcionais de cada contribuinte nos termos do artigo iv, secção 4. Os saldos restantes em notas promissórias ou títulos similares serão cancelados, na medida em que o pagamento não seja exigido para cumprir obrigações do Fundo.
 
-Artigo VI
-
-Disposições gerais
+###### Artigo VI — Disposições gerais
 
 #### Secção 1 — Adesão ao Convénio do Fumin II
 
@@ -294,11 +288,11 @@ Não obstante qualquer disposição em contrário no Convénio do Fumin II, todo
 
 Em testemunho do que, cada um dos contribuintes em potencial, actuando por intermédio de seu representante devidamente autorizado, apõe a sua assinatura ao Convénio do Fumin II.
 
-**Assinado em Okinawa, Japão, no dia 9 de Abril de 2005, num só original, cujos textos em inglês, francês, português e espanhol, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia devidamente certificada dos mesmos a cada um dos contribuintes em potencial indicados no anexo A do Convénio do Fumin II.**
+Assinado em Okinawa, Japão, no dia 9 de Abril de 2005, num só original, cujos textos em inglês, francês, português e espanhol, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia devidamente certificada dos mesmos a cada um dos contribuintes em potencial indicados no anexo A do Convénio do Fumin II.
 
 ## ANEXO A — Contribuições dos contribuintes em potencial ao Fundo Multilateral de Investimentos II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0738907401.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0738907401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0738907401.pdf)
 
 (1) No caso de um compromisso feito numa moeda que não seja o dólar dos EUA, este será convertido à taxa de câmbio representativa do FMI estabelecida mediante o cálculo da média diária dessa taxa durante o semestre encerrado em 31 de Dezembro de 2004.
 
@@ -472,15 +466,11 @@ Considerando que o Banco, para cumprir os seus propósitos e atingir os seus obj
 
 Portanto, o Banco e os contribuintes em potencial acordam o seguinte:
 
-Artigo I
-
-Administração do Fundo
+###### Artigo I — Administração do Fundo
 
 O Banco continuará a ser o administrador do Fundo. O Banco administrará o Fundo e executará as suas operações de acordo com o Convénio do Fumin II e prestará, entre outros, serviços de entidade depositária. O Banco manterá o escritório do Fundo Multilateral de Investimentos como o escritório encarregado, dentro da organização do Banco, de administrar e executar as operações e programas do Fundo contemplados no Convénio de Administração do Fumin II.
 
-Artigo II
-
-Operações do Fundo
+###### Artigo II — Operações do Fundo
 
 #### Secção 1 — Operações
 
@@ -510,9 +500,7 @@ c) O presidente do Banco actuará como presidente ex officio da comissão de con
 
 O Banco limitará os compromissos na medida em que um contribuinte determine nos termos do artigo ii, secção 1, alínea d), do Convénio do Fumin II.
 
-Artigo III
-
-Funções de depositário
+###### Artigo III — Funções de depositário
 
 #### Secção 1 — Depositário de acordos e documentos
 
@@ -522,9 +510,7 @@ O Banco será o depositário do Convénio de Administração do Fumin II, do Con
 
 O Banco, na qualidade de administrador do Fundo, abrirá uma ou mais contas para receber pagamentos dos contribuintes nos termos do artigo ii, secção 2, do Convénio do Fumin II. O Banco administrará essas contas de acordo com o Convénio de Administração do Fumin II.
 
-Artigo IV
-
-Capacidade do Banco e assuntos diversos
+###### Artigo IV — Capacidade do Banco e assuntos diversos
 
 #### Secção 1 — Capacidade básica
 
@@ -552,9 +538,7 @@ Na administração do Fundo, o Banco poderá consultar e colaborar com organiza�
 
 Além das avaliações solicitadas pela comissão de contribuintes, o Banco avaliará as operações realizadas nos termos do Convénio de Administração do Fumin II e informará à comissão de contribuintes, conforme estipulado no artigo iv, secção 5, do Convénio do Fumin II.
 
-Artigo V
-
-Contabilidade e relatórios
+###### Artigo V — Contabilidade e relatórios
 
 #### Secção 1 — Separação de contas
 
@@ -578,9 +562,7 @@ d) A comissão de contribuintes também poderá solicitar ao Banco, ou à firma 
 
 e) A contabilidade do FIPE será mantida em separado dos demais recursos do Fundo.
 
-Artigo VI
-
-Vigência do Convénio de Administração do FUMIN II
+###### Artigo VI — Vigência do Convénio de Administração do FUMIN II
 
 #### Secção 1 — Início da vigência
 
@@ -600,9 +582,7 @@ O Banco dará por terminado o Convénio de Administração do Fumin II caso venh
 
 Terminado o Convénio do Fumin II ou o FIPE o Banco encerrará todas as operações previstas no Convénio de Administração do Fumin II ou do FIPE, excepto as operações que resultem da ordenada realização, conservação e preservação dos activos e cumprimento das obrigações pendentes. Satisfeitas ou atendidas todas as obrigações do Fundo ou do FIPE, o Banco procederá à alocação ou distribuição dos activos restantes conforme indicado pela comissão de contribuintes nos termos do artigo v, secção 4, do Convénio do Fumin II.
 
-Artigo VII
-
-Disposições gerais
+###### Artigo VII — Disposições gerais
 
 #### Secção 1 — Contratos e documentos do Banco em nome do Fundo
 
@@ -634,31 +614,23 @@ Na data em que a notificação de retirada se tornar efectiva nos termos do arti
 
 Em testemunho do que, o Banco e cada contribuinte em potencial, actuando por intermédio do respectivo representante autorizado, assinam o presente Convénio de Administração do Fumin II.
 
-**Assinado em Okinawa, Japão, em 9 de Abril de 2005, num só original, cujos textos em inglês, francês, português e espanhol, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia devidamente certificada dos mesmos a cada um dos contribuintes em potencial indicados no anexo A do Convénio do Fumin II.**
+Assinado em Okinawa, Japão, em 9 de Abril de 2005, num só original, cujos textos em inglês, francês, português e espanhol, igualmente autênticos, serão depositados nos arquivos do Banco, o qual enviará cópia devidamente certificada dos mesmos a cada um dos contribuintes em potencial indicados no anexo A do Convénio do Fumin II.
 
 ## ANEXO A — Procedimento de arbitragem
 
-Artigo I
-
-Composição do tribunal
+###### Artigo I — Composição do tribunal
 
 O tribunal arbitral para resolver controvérsias nos termos do artigo vii, secção 5, do Convénio de Administração do Fundo Multilateral de Investimentos II (doravante denominado Convénio de Administração do Fumin II) será constituído por três membros, nomeados da seguinte forma: um pelo Banco, outro pela comissão de contribuintes e um terceiro, doravante denominado desempatador, por acordo directo entre as partes ou por intermédio dos respectivos árbitros. Se as partes ou os árbitros não chegarem a acordo sobre a nomeação do desempatador, ou se uma das partes não designar um árbitro, o desempatador será designado, a pedido de qualquer das partes, pelo Secretário-Geral da Organização dos Estados Americanos. Se qualquer das partes não nomear árbitro, este será designado pelo desempatador. Se qualquer dos árbitros nomeados, ou o desempatador, não desejar ou não puder actuar, ou prosseguir actuando, proceder-se-á à sua substituição pela forma estabelecida para a sua designação original. O substituto terá as mesmas funções e atribuições do substituído.
 
-Artigo II
-
-Início do processo
+###### Artigo II — Início do processo
 
 Para submeter a controvérsia ao processo de arbitragem, a parte reclamante dirigirá à outra uma comunicação, por escrito, expondo a natureza da reclamação, a satisfação ou reparação pretendida e o nome do árbitro que designa. A parte que receber a comunicação deverá, dentro do prazo de 45 dias, notificar à parte contrária o nome da pessoa que nomeia como árbitro. Se, dentro do prazo de 30 dias após a entrega da referida comunicação à parte reclamante, as partes não houverem chegado a um acordo sobre a indicação do desempatador, qualquer delas poderá solicitar ao Secretário-Geral da Organização dos Estados Americanos que proceda à designação.
 
-Artigo III
-
-Constituição do tribunal
+###### Artigo III — Constituição do tribunal
 
 O tribunal arbitral será constituído em Washington, distrito de Columbia, Estados Unidos da América, na data indicada pelo desempatador, e, uma vez constituído, reunirá nas datas fixadas pelo próprio tribunal.
 
-Artigo IV
-
-Procedimento
+###### Artigo IV — Procedimento
 
 a) O tribunal terá competência para conhecer e decidir tão-somente sobre a matéria da controvérsia. O tribunal adoptará suas próprias normas de procedimento (que poderão ser os procedimentos de uma associação de arbitragem renomada) e poderá, por iniciativa própria, designar os peritos que considerar necessários. Em qualquer caso, dará sempre às partes a oportunidade de apresentar razões em audiência.
 
@@ -666,9 +638,7 @@ b) O tribunal julgará ex aequo et bono, fundamentando sua decisão nos termos d
 
 c) A sentença será exarada por escrito, deverá ser adoptada pelo voto concorrente de pelo menos dois membros do tribunal e deverá ser proferida no prazo aproximado de 60 dias contados da data da nomeação do desempatador, a não ser que o Tribunal decida prorrogar esse prazo em virtude de circunstâncias especiais e imprevistas. A sentença será notificada às partes por meio de comunicação subscrita por, pelo menos, dois membros do Tribunal.
 
-Artigo V
-
-Custos
+###### Artigo V — Custos
 
 Os honorários de cada árbitro serão custeados pela parte que o houver designado e os honorários do desempatador serão custeados em parcelas iguais entre as partes. Antes da constituição do Tribunal, as partes entrarão em acordo quanto aos honorários das demais pessoas cuja intervenção no processo arbitral julgarem necessária. Se as partes, na oportunidade, não chegarem a um acordo, o próprio tribunal fixará a remuneração que considere razoável para as pessoas referidas, segundo as circunstâncias. Fica entendido que cada parte responderá por suas próprias despesas no processo de arbitragem, mas as despesas do tribunal serão custeadas, em parcelas iguais, pelas partes. Qualquer dúvida relacionada com a divisão das despesas ou quanto à forma de pagamento será resolvida pelo próprio tribunal, mediante decisão irrecorrível. Qualquer honorário ou gasto a ser custeado pela comissão de contribuintes nos termos deste artigo será custeado pelo Fundo administrado nos termos do Convénio de Administração do Fumin II.
 

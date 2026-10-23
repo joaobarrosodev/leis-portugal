@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/906/1991/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-1991-305052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0341d316f95952dfe675c43af8e1d2669bdee4262a511f274fbede073ac2378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20b9b4bf4fb14b5e576db8c4995ffb838fe6aa340f88f702b9162acdb9d6784c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Pessoal Operário
 - Hospital Distrital
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Superior
-- Vila Real
-- Pessoal Docente
 - Quadro de Pessoal
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621685:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE VILA REAL, PELA PORT 1214/92 DE 26-DEZ DR.IS-B [297] NA
+    PARTE RELATIVA AS CARREIRAS DE TECNICO SUPERIOR DE SAUDE E DE TECNICO SUPERIOR DE SERVICO SOCIALE
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1214-1992-621685
+  date: '1991-12-26'
+- type: amended_by
+  target: pt:dre:168796:por
+  label: "Alterado o quadro de pessoal do Hospital de São Pedro - Vila Real pela PORT.676/96.1996.11.19.PCM, DR.IS-B [268]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/676-1996-168796
+  date: '1996-11-19'
+- type: amended_by
+  target: pt:dre:521835:por
+  label: "Alterado o quadro de pessoal do Hospital de São Pedro (Vila Real), aprovado pelo presente diploma, pela PORT.300/98.1998.05.18.PCM\
+    \ DR.IS-B [114]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-1998-521835
+  date: '1998-05-18'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/392/1991/05/09/p/dre
   label: null
@@ -90,16 +115,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/1991/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/1991/05/16/p/dre
+- type: cites
+  target: pt:dre:178098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:59Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +217,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro do Hosp
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 1 de Agosto de 1991.**
+Assinada em 1 de Agosto de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
 
 ## ANEXO — Quadro de pessoal do Hospital Distrital de Vila Real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/203b00/46654669.pdf))](https://files.diariodarepublica.pt/1s/1991/09/203b00/46654669.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/203b00/46654669.pdf)

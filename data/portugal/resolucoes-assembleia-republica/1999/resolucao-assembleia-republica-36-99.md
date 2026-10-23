@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-1999-331073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa8339fac360a5287d605d0d64417a933f3f644bf909a26967f9494f80610ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe25ffbda52fcf5afe4cea31d8661b9582b2557ff0f41ebb81209338522a51d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - Comissão Nacional de Protecção de Dados
-- Segurança da Informação
+- Eleição
 - Nomeação
 - Presidente
+- Segurança da Informação
 - Vogal
 relationships:
+- type: amended_by
+  target: pt:dre:361966:por
+  label: "Alterada, por renúncia ao mandato de presidente do Dr. João Alfredo Massano Labescat da Silva, pela DECL.6/2001.2001.06.20.AR,\
+    \ DR.IS-B [146] de 26.06.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/6-2001-361966
+  date: '2001-06-20'
+- type: amended_by
+  target: pt:dre:394329:por
+  label: "Alterada, por renúncia ao mandato de vogal do Dr. João Paulo Leal Dias Simões de Almeida, pela DECL.7/2001.04.07.2001.AR,\
+    \ DR.IS-B [164] de 17.07.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/7-2001-394329
+  date: '2001-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:35Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +120,4 @@ Vogal - João Paulo Leal Dias Simões de Almeida.
 
 Aprovada em 22 de Abril de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1016/1992/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1016-1992-219948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 993d8091853b53995f7d6f6b47695ad7e8daecf9e501dd77afb51c43649c7339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a463fea6640c6650c48a539fb04021dbc88c40002b7ffe32c617ee7690a85a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/379/1992/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/379/1992/05/04/p/dre
+- type: cites
+  target: pt:dre:356351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497441:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:40Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +118,6 @@ Manda o Governo, pelos Ministros das Finanças e do Comércio e Turismo, o segui
 
 Ministérios das Finanças e do Comércio e Turismo.
 
-**Assinada em 6 de Julho de 1992.**
+Assinada em 6 de Julho de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

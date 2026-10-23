@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/53/1998/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/53-1998-222980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecee09cfc4d8587d93c879b5eaba8467ad8b19591cdd4d91bfbba0128864f351
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f23d63a48ef8a8d8873b6f7c360f0988187d975c187b2bbd1c3dff9a53722c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,35 +69,41 @@ subjects:
 - Assistência Mútua
 - Azerbeijão
 - CE Países
+- Comércio
 - Comunidade Europeia
 - Convenção
+- Cooperação Económica
 - Cooperação Financeira
+- Cooperação Internacional
+- Cooperação Política
 - Cooperação Transfronteira
-- Portugal
+- Dados Pessoais
+- Exportação
 - Importação
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
-- Cooperação Económica
-- Cooperação Internacional
-- Cooperação Política
-- Exportação
+- Luxemburgo
+- Portugal
 - Prestação de Serviços
 - Proteção do Consumidor
-- Dados Pessoais
-- Comércio
-- Luxemburgo
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:222982:por
+  label: "Ratificado o Acordo aprovado para ratificação pelo presente diploma, pelo DEC.46/98.1998.11.04.PR, DR.IS-A [255]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/46-1998-222982
+  date: '1998-11-04'
 article_structure:
   article_count: 119
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:27Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +116,7 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 18 de Setembro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE PARCERIA E COOPERAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DO AZERBAIJÃO, POR OUTRO.
 
@@ -1216,7 +1222,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 102.º
 
-**O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo.
 
 ###### Artigo 103.º
 
@@ -1234,7 +1240,7 @@ A partir da sua entrada em vigor, o presente Acordo substitui, nas relações en
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entrada em vigor do presente Acordo, as disposições de certas partes do presente Acordo entrarem em vigor através de um Acordo Provisório entre a Comunidade e a República do Azerbaijão, as Partes acordam em que, nessas circunstâncias, se entende por «data de entrada em vigor do Acordo» a data de entrada em vigor do Acordo Provisório.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)
 
 ## ANEXO I — Lista indicativa das vantagens concedidas pela República do Azerbaijão aos Estados independentes nos termos do n.º 3 do artigo 9.º
 
@@ -1686,4 +1692,4 @@ Queira aceitar, Exmo. Senhor, os protestos da minha mais elevada consideração.
 
 Pela Comunidade Europeia.
 
-[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)
+[[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58045831.pdf)

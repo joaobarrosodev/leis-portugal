@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/47/1992/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1992-150882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebb5355fca089b365e7f3950994e3e512a84a6e7b3cd5d75b51249c4a0d2f454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 802ffa37900e5041c63ed2f6789d421b02a50f3c2cfebd475c660f30a8c827e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,50 @@ relationships:
   target: pt:dre:366182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO O QUADRO DE PESSOAL PELA PORT 458/93, DE 30-ABR DR.IS-B [101].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/358/1991/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/358/1991/09/20/p/dre
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:213420:por
+  label: RECTIFICADA PELA DECL-RECT 73/92 DR.IS-B [125]2SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-1992-213420
+  date: '1992-03-30'
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:58Z'
   warnings: []
   errors: []
 ---
@@ -113,34 +143,34 @@ a) Repartição de Administração Geral:
 
 #### Secção de Pessoal;
 
-#### Secção de Vencimentos e Assiduidade;
+Secção de Vencimentos e Assiduidade;
 
 #### Secção de Expediente e Arquivo;
 
 b) Repartição de Atendimento de Doentes:
 
-#### Secção de Informação e Admissão de Doentes;
+Secção de Informação e Admissão de Doentes;
 
 #### Secção de Arquivo Clínico;
 
 c) Repartição de Serviços Financeiros:
 
-#### Secção de Contabilidade Orçamental e Tesouraria;
+Secção de Contabilidade Orçamental e Tesouraria;
 
-#### Secção de Contabilidade Analítica e Previsional;
+Secção de Contabilidade Analítica e Previsional;
 
 d) Repartição dos Serviços de Aprovisionamento:
 
 #### Secção de Compras e Armazém;
 
-#### Secção de Inventário e Gestão de Stocks.
+Secção de Inventário e Gestão de Stocks.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Dezembro de 1991.**
+Assinada em 30 de Dezembro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Faro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/024b00/06260631.pdf))](https://files.diariodarepublica.pt/1s/1992/01/024b00/06260631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/024b00/06260631.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/17/2004/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/17-2004-592341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8458ea845eb27e6edc443695a8bec02e1080e0b4ac40ec00fa113b12c45b3c20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7261f1c4798f8e187fc1681f54c60a23eb541f4597b7e3a9433c7eeb5f47b2d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - CECA
 - CEE
 - Convenção
-- Portugal
 - Decisão CE
-- Parlamentar Europeu
 - Direito Comunitário
+- Eleição
 - Euratom
+- Parlamentar Europeu
 - Parlamento Europeu
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:592340:por
+  label: "Ratificada a Decisão do Conselho de 25 de Junho e de 23 de Setembro de 2002, que altera o acto relativo à eleição\
+    \ dos representantes ao Parlamento Europeu por sufrágio universal directo, anexo à Decisão n.º 76/787/CECA, CEE, EURATOM,\
+    \ do Conselho, de 20 de Setembro de 1976, aprovada, para ratificação, pelo presente diploma, pelo DEC.13/2004.04.02.2004.PR,\
+    \ DR.IS-A [29] de 04.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/13-2004-592340
+  date: '2004-02-04'
 - type: cites
   target: celex:31976D0787
   label: null
   source: http://data.europa.eu/eli/dec/1976/787/oj
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:52Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +112,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de Dezembro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 DECISÃO DO CONSELHO DE 25 DE JUNHO E DE 23 DE SETEMBRO DE 2002, QUE ALTERA O ACTO RELATIVO À ELEIÇÃO DOS REPRESENTANTES AO PARLAMENTO EUROPEU POR SUFRÁGIO UNIVERSAL DIRECTO, ANEXO À DECISÃO N.º [76/787/CECA](https://data.europa.eu/eli/dec/1976/787/oj?locale=pt), CEE, EURATOM, DO CONSELHO, DE 20 DE SETEMBRO DE 1976.
 
@@ -148,11 +156,11 @@ O acto relativo à eleição dos representantes ao Parlamento Europeu por sufrá
 
 Cada Estado membro pode, em função das suas especificidades nacionais, constituir círculos eleitorais para as eleições para o Parlamento Europeu, ou definir outras formas de subdivisão do seu espaço eleitoral, sem prejuízo global do carácter proporcional do sistema de escrutínio.
 
-###### Artigo 2.º-A
+Artigo 2.º-A
 
 Os Estados membros podem prever um limite mínimo para a atribuição de mandatos. Este limite não deve ser, a nível nacional, superior a 5% dos votos expressos.
 
-###### Artigo 2.º-B
+Artigo 2.º-B
 
 Cada Estado membro pode fixar um limite máximo para as despesas de campanha eleitoral dos candidatos.»
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/511/1991/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-1991-633553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b3240bc7c18c09be784d4675f2919d5cdd3da9b81a4f23cabd0a8bebf9a8eba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8365fa91948b44b7dff00afb6761bbc8f9a4cc3c2de671ec661e4440c373f524
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,35 @@ subjects:
 - Instituto Politécnico
 - Instituto Superior de Contabilidade e Administração
 - Pessoal Docente
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:531674:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:24Z'
   warnings: []
   errors: []
 ---
@@ -122,8 +134,8 @@ Disposição revogatória
 
 Ministério da Educação.
 
-**Assinada em 7 de Maio de 1991.**
+Assinada em 7 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/129b00/30683069.pdf))](https://files.diariodarepublica.pt/1s/1991/06/129b00/30683069.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30683069.pdf)

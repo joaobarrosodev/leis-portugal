@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 259/1992, 3º Suplemento, Série I-B de 1992-11-09
   number: '259'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 5176-(16) a 5176-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/259b03/00160016.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1047-a/1992/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1047-a-1992-391824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d30e2aa6f2a854d277726897214666ba16ed01758b71b417623858788c57d7c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 025eb2b2b4f46b5e96cf7864d3ad0f981487e9da01b6e612b553dbc054187eaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto de Compensação
-- Contribuições e Impostos
-- Prorrogação de Prazo
-- Equipamento Agrícola
 - Benefícios Fiscais
+- Contribuições e Impostos
+- Equipamento Agrícola
+- Imposto de Compensação
+- Prorrogação de Prazo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/987/1992/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/987/1992/10/20/p/dre
+- type: cites
+  target: pt:dre:220734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416073:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:07:24Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +123,6 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, que o n.º 6.º
 
 Ministérios das Finanças e da Agricultura.
 
-**Assinada em 5 de Novembro de 1992.**
+Assinada em 5 de Novembro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

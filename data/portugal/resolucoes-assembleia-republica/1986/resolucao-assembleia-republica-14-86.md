@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-1986-229094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe71b2d2445d717ed9c01eca1e525bf2db43c232b8e4b2d3a02b2024cae04c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42ff57830d13ba2fb769d7fa5949137dd806d1b6b3b4175a325e50ee55b1c0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Empresa Pública de Parques Industriais
+- Extinção de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:573134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573134:por
+  label: "Renovado, com efeitos reportados a 05.03.1986, salvaguardando o disposto na segunda parte do art. 2º do Dec Lei\
+    \ 251/90, o acto de extinção da EPPI - Empresa Pública do Parques Industriais, E. P., que foi objecto do Dec Lei 39/86\
+    \ de 04-Mar, com as alterações constantes deste diploma, pelo DEC LEI.251/90.04.08.1990.MPLAT, DR.IS [179] de 04.08.1990\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1990-573134
+  date: '1990-08-04'
+- type: cites
+  target: pt:dre:193621:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:52:11Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +118,4 @@ d) O artigo 6.º
 
 Aprovada em 22 de Maio de 1986.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.

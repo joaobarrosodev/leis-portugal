@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/40/1993/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-1993-168674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e311ad32fda2e16b0136386e02c5ed1a7568dd50ad6d51e5e33b5e387eae27a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87e07beebd366adc9a8427ea742039c2b6df4e867563a93e4627728a43fccccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - BEI
+- Bruxelas
 - Convenção
-- Portugal
 - Estatuto
 - Fundo Europeu de Investimento
-- Bruxelas
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:42Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 11 de Novembro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACTO QUE ALTERA O PROTOCOLO RELATIVO AOS ESTATUTOS DO BANCO EUROPEU DE INVESTIMENTO E AUTORIZA O CONSELHO DE GOVERNADORES A INSTITUIR UM FUNDO EUROPEU DE INVESTIMENTO.
 
@@ -117,11 +117,11 @@ Sua Majestade a Rainha da Dinamarca:
 
 Gunnar Riberholdt, embaixador, representante permanente;
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Jochen Grünhage, representante permanente-adjunto;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Leonidas Evangelidis, embaixador, representante permanente;
 
@@ -129,15 +129,15 @@ Sua Majestade o Rei de Espanha:
 
 Camilo Barcia García-Villamil, embaixador, representante permanente;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 François Scheer, embaixador, representante permanente;
 
-**O Presidente da Irlanda:**
+O Presidente da Irlanda:
 
 Pádraic Mac Kernan, embaixador, representante permanente;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Frederico Di Roberto, embaixador, representante permanente;
 
@@ -149,7 +149,7 @@ Sua Majestade a Rainha dos Países Baixos:
 
 B. R. Bot, embaixador, representante permanente;
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José César Paulouro das Neves, embaixador, representante permanente;
 
@@ -159,7 +159,7 @@ Sir John Kerr, embaixador, representante permanente;
 
 os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e devida forma, acordaram nas disposições seguintes:
 
-Artigo A
+###### Artigo A
 
 O Protocolo Relativo aos Estatutos do Banco Europeu de Investimento, anexo ao Tratado que institui a Comunidade Económica Europeia, é alterado pela adição do seguinte artigo:
 
@@ -181,14 +181,14 @@ Os dividendos, mais-valias ou outras formas de rendimento provenientes do Fundo 
 
 6 - Nos limites adiante estabelecidos, o Tribunal de Justiça é competente para conhecer dos litígios decorrentes de medidas adoptadas pelos órgãos do Fundo. Pode ser interposto recurso de tais medidas por qualquer membro do Fundo, agindo nessa qualidade, ou pelos Estados membros, nas condições constantes do artigo 173.º do Tratado.
 
-Artigo B
+###### Artigo B
 
 1 - O presente Acto será ratificado pelas Altas Partes Contratantes, de acordo com as respectivas normas constitucionais. Os instrumentos de ratificação serão depositados junto do Governo da República Italiana.
 
 2 - O presente Acto entrará em vigor no primeiro dia do mês seguinte ao do depósito do instrumento de ratificação do Estado signatário que proceder a esta formalidade em último lugar.
 
-Artigo C
+###### Artigo C
 
 O presente Acto, redigido num único exemplar, nas línguas alemã, dinamarquesa, espanhola, francesa, grega, inglesa, irlandesa, italiana, neerlandesa e portuguesa, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos Governos dos Estados membros signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/301a00/71787180.pdf))](https://files.diariodarepublica.pt/1s/1993/12/301a00/71787180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/301a00/71787180.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/45/2008/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-2008-454006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0b99a6d2f1cf813962649ddfa2c75ba5c6e76733faa2fc1a1df86a87f6270a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec1b63915d7e99578197a623abdd5a942bf76dd0937bf7f479d1eaedaf6289e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,82 +66,87 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
-- Crime
-- Reino Unido
+- Admissão de Estrangeiros
+- Agricultura
+- Áustria
 - Bélgica
+- Branqueamento de Capitais
 - Bulgária
 - CE Países
-- Turismo
+- Chipre
 - Combate ao Terrorismo
-- Vinho
-- Política Fiscal
+- Comércio
 - Comunidade Europeia
+- Condições de Higiene e Segurança no Trabalho
 - Convenção
-- Educação
-- Irlanda
-- Portugal
-- Crime Tributário
-- Trafico de Armas
-- Mudança Tecnológica
-- Dinamarca
-- Direitos Aduaneiros
-- Migração
-- Empresa Pública
-- Eslovénia
-- Espaço de Aviação Comum Europeu
-- União Europeia
-- Espanha
-- Finlândia
-- RFA
-- Fiscalização
-- Pesca
-- Branqueamento de Capitais
-- Pagamento
-- Áustria
-- Hungria
-- Informação
-- Justiça
-- Propriedade Industrial
-- Livre Circulação de Mercadorias
-- Proteção do Ambiente
-- Peixe
 - Cooperação Económica
 - Cooperação Europeia
 - Cooperação Industrial
 - Cooperação Política
-- Polónia
+- Crime
+- Crime Tributário
+- Dinamarca
+- Direitos Aduaneiros
+- Educação
+- Empresa Pública
 - Energia
-- Exportação
-- Prestação de Serviços
-- Produto Industrial
-- Propriedade Intelectual
-- Proteção do Consumidor
-- Pequenas e Médias Empresas
-- Condições de Higiene e Segurança no Trabalho
-- Agricultura
-- República Checa
-- Letónia
-- Roménia
-- Países Baixos
-- Montenegro
-- Suécia
-- Comércio
-- Produto Agrícola
-- Trabalhador
-- Transporte
-- Chipre
 - Eslováquia
+- Eslovénia
+- Espaço de Aviação Comum Europeu
+- Espanha
 - Estónia
+- Exportação
+- Finlândia
+- Fiscalização
 - França
 - Grécia
+- Hungria
+- Imigração
+- Informação
+- Irlanda
 - Itália
+- Justiça
+- Letónia
+- Lituânia
+- Livre Circulação de Mercadorias
 - Luxemburgo
 - Malta
-- Lituânia
+- Migração
+- Montenegro
+- Mudança Tecnológica
+- Pagamento
+- Países Baixos
+- Peixe
+- Pequenas e Médias Empresas
+- Pesca
+- Política Fiscal
+- Polónia
+- Portugal
+- Prestação de Serviços
+- Produto Agrícola
+- Produto Industrial
 - Produto Vitivinícola
-- Admissão de Estrangeiros
+- Propriedade Industrial
+- Propriedade Intelectual
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Reino Unido
+- República Checa
+- RFA
+- Roménia
+- Suécia
+- Trabalhador
+- Trafico de Armas
+- Transporte
+- Turismo
+- União Europeia
+- Vinho
 relationships:
+- type: amended_by
+  target: pt:dre:454005:por
+  label: "Ratificado o Acordo pelo DEC.63/2008.10.09.2008.PR, DR.IS [175] de 10.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/63-2008-454005
+  date: '2008-09-10'
 - type: cites
   target: celex:31987R2658
   label: null
@@ -195,15 +200,15 @@ relationships:
   label: null
   source: http://data.europa.e
 article_structure:
-  article_count: 259
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 202
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:59Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +221,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Maio de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE ESTABILIZAÇÃO E DE ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DO MONTENEGRO, POR OUTRO.
 
@@ -1498,7 +1503,7 @@ O presente Acordo é aplicável, por um lado, aos territórios em que são aplic
 
 ###### Artigo 136.º
 
-**O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.**
+O Secretário-Geral do Conselho da União Europeia é o depositário do presente Acordo.
 
 ###### Artigo 137.º
 
@@ -1514,7 +1519,7 @@ O presente Acordo entra em vigor no primeiro dia do segundo mês seguinte à dat
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entrada em vigor do presente Acordo, às disposições de determinadas partes do Acordo, nomeadamente as respeitantes à livre circulação de mercadorias, assim como as disposições pertinentes em matéria de transportes, for dada aplicação através da celebração de acordos provisórios entre a Comunidade e o Montenegro, as Partes acordam em que, nessas circunstâncias, para efeitos do título iv, dos artigos 73.º, 74.º e 75º do presente Acordo, dos seus Protocolos n.os 1, 2, 3, 5, 6 e 7, bem como das disposições pertinentes do Protocolo n.º 4, se entende pela expressão «data de entrada em vigor do presente Acordo» a data de entrada em vigor do acordo provisório aplicável no que respeita às obrigações previstas nas referidas disposições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 (1) Regulamento (CEE) n.º [2658/87](https://data.europa.eu/eli/reg/1987/2658/oj?locale=pt) do Conselho (JO L 256 de 7.9.1987, p. 1).
 
@@ -1526,7 +1531,9 @@ Se, enquanto se aguarda o cumprimento das formalidades necessárias para a entra
 
 (5) Comité Europeu de Normalização, Comité Europeu de Normalização Electrotécnica, Instituto Europeu de Normas de Telecomunicações, Cooperação Europeia para a Acreditação, Cooperação Europeia em Metrologia Legal, Organização Europeia para a Metrologia Fundamental.
 
-## ANEXO I — ANEXO I.A
+## ANEXO I
+
+## ANEXO I.A
 
 Concessões pautais do Montenegro para produtos industriais comunitários
 
@@ -1542,7 +1549,7 @@ c) Em 1 de Janeiro do segundo ano seguinte à data de entrada em vigor do presen
 
 d) Em 1 de Janeiro do terceiro ano seguinte à data de entrada em vigor do presente acordo, serão abolidos os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO I.B — Concessões pautais montenegrinas para produtos industriais comunitários
 
@@ -1562,7 +1569,7 @@ e) Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do present
 
 f) Em 1 de Janeiro do quinto ano seguinte à data de entrada em vigor do presente acordo, serão abolidos os direitos remanescentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO II
 
@@ -1572,7 +1579,7 @@ Definição dos produtos «baby beef»
 
 Sem prejuízo das normas para a interpretação da Nomenclatura Combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Nos casos em que são indicados códigos «ex» NC, o regime preferencial será determinado pela aplicação conjunta do código NC e do descritivo correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO III(a) — Concessões pautais do Montenegro para produtos agrícolas primários originários da comunidade
 
@@ -1580,7 +1587,7 @@ Sem prejuízo das normas para a interpretação da Nomenclatura Combinada, consi
 
 Isenção de direitos, sem limites quantitativos, na data de entrada em vigor do presente Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO III(b) — Concessões pautais do Montenegro para produtos agrícolas primários originários da comunidade
 
@@ -1598,7 +1605,7 @@ Em 1 de Janeiro do terceiro ano seguinte à data de entrada em vigor do presente
 
 Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do presente acordo, serão reduzidos para 0% do direito de base.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO III(c) — Concessões pautais do Montenegro para produtos agrícolas primários originários da comunidade
 
@@ -1616,27 +1623,27 @@ Em 1 de Janeiro do terceiro ano seguinte à data de entrada em vigor do presente
 
 Em 1 de Janeiro do quarto ano seguinte à data de entrada em vigor do presente acordo, serão reduzidos para 50 % do direito de base.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO IV — Concessões da comunidade relativas a produtos da pesca montenegrinos referidos no n.º 2 do artigo 29.º do presente acordo
 
 Os produtos a seguir indicados, originários da Montenegro, e importados para a Comunidade, são objecto das seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 A taxa do direito aplicável a todos os produtos de posição 1604 do SH, excepto sardinhas e anchovas preparadas ou em conserva, será reduzida de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO V — Concessões do montenegro relativas a produtos da pesca da comunidade referidos no n.º 2 do artigo 30.º do presente acordo
 
 Os produtos a seguir apresentados, originários da Comunidade e importados para o Montenegro, são objecto das seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 A taxa do direito aplicável a todos os produtos da posição 1604 do SH, excepto sardinhas e anchovas preparadas ou em conserva, será reduzida de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO VI — Estabelecimento: Serviços Financeiros
 
@@ -1792,13 +1799,13 @@ A Comunidade e o Montenegro informar-se-ão mutuamente sobre as disposições ad
 
 As importações para a Comunidade de produtos agrícolas transformados originários do Montenegro a seguir enumerados estão sujeitos a direitos aduaneiros nulos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO II — DIreitos aplicáveis à importação para o Montenegro de mercadorias originárias da comunidade
 
 (imediata ou gradualmente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 PROTOCOLO N.º 2 - RELATIVO ÀS CONCESSÕES PREFERENCIAIS RECÍPROCAS NO QUE RESPEITA A CERTOS VINHOS E AO RECONHECIMENTO, À PROTECÇÃO E AO CONTROLO RECÍPROCOS DAS DENOMINAÇÕES DOS VINHOS, DAS BEBIDAS ESPIRITUOSAS E DOS VINHOS AROMATIZADOS.
 
@@ -1836,13 +1843,13 @@ b) Originários do Montenegro e produzidos de acordo com a legislação do Monte
 
 1 - As importações para a Comunidade dos vinhos que se seguem, referidos no artigo 2.º do presente protocolo, serão objecto das concessões a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - A Comunidade concederá direitos preferenciais nulos no âmbito dos contingentes pautais estabelecidos no ponto 1, desde que não sejam pagas subvenções à exportação em relação à exportação pelo Montenegro destas quantidades.
 
 3 - As importações para o Montenegro dos vinhos que se seguem, referidos no artigo 2.º do presente protocolo, serão objecto das concessões a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 4 - O Montenegro concederá direitos preferenciais nulos no âmbito dos contingentes pautais estabelecidos no ponto 3, desde que não sejam pagas subvenções à exportação em relação à exportação pela Comunidade destas quantidades.
 
@@ -2102,13 +2109,13 @@ A derrogação referida no n.º 1 não pode ser cumulada com qualquer das derrog
 
 2 - Excepto caso sejam adoptadas pelas Partes disposições em contrário, os vinhos, bebidas espirituosas ou vinhos aromatizados produzidos, elaborados, designados e apresentados em conformidade com o presente acordo, mas cuja produção, elaboração, designação e apresentação deixem de o cumprir devido a uma alteração, pode continuar a ser comercializados até ao esgotamento das existências.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Lista de denominações protegidas
 
 (referidas nos artigos 4.º e 6.º do anexo ii do Protocolo n.º 2)
 
-# Parte A: na comunidade
+Parte A: na comunidade
 
 a) Vinhos originários da comunidade:
 
@@ -2198,31 +2205,31 @@ Bulgária
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Chipre
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 República Checa
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 França
 
@@ -3190,27 +3197,27 @@ Alemanha
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Grécia
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Hungria
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Itália
 
@@ -4196,43 +4203,43 @@ Luxemburgo
 
 Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Malta
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Portugal
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Roménia
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Eslováquia
 
 Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Eslovénia
 
@@ -4240,7 +4247,7 @@ Eslovénia
 
 Regiões determinadas (seguidas ou não pela denominação de uma circunscrição vinícola e ou pela denominação de uma exploração vitícola):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
@@ -4254,7 +4261,7 @@ Espanha
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 2 - Vinhos de mesa com indicação geográfica:
 
@@ -4560,7 +4567,7 @@ Aguardente do Alentejo
 
 Aguardente do Algarve
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Vinars Târnave
 
@@ -4580,11 +4587,11 @@ Brandy del Penedés
 
 Brandy italiano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) /Brandy of Attica
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) /Brandy of Attica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Brandy of the Peloponnese
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Brandy of the Peloponnese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Brandy of Central Greece
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Brandy of Central Greece
 
 Deutscher Weinbrand
 
@@ -4592,7 +4599,7 @@ Wachauer Weinbrand
 
 Weinbrand Dürnstein
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 6 - Aguardente de bagaço de uvas:
 
@@ -4664,17 +4671,17 @@ Grappa veneta/Grappa del Veneto
 
 Südtiroler Grappa / Grappa dell'Alto Adige
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsikoudia of Crete
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsikoudia of Crete
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Macedonia
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Macedonia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Thessaly
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Thessaly
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Tyrnavos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)/Tsipouro of Tyrnavos
 
 Eau-de-vie de marc de marque nationale luxembourgeoise
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Zivania
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Zivania
 
 Pálinka
 
@@ -4766,7 +4773,7 @@ Eau-de-vie de prunelles de marque nationale luxembourgeoise
 
 Wachauer Marillenbrand
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Szatmári Szilvapálinka
 
@@ -4780,23 +4787,23 @@ Slivovice
 
 Pálinka
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Troyanska slivova rakiya
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Troyanska slivova rakiya
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Slivova rakiya from Troyan
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Slivova rakiya from Troyan
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Silistrenska kayssieva rakiya
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Silistrenska kayssieva rakiya
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Kayssieva rakiya from Silistra
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Kayssieva rakiya from Silistra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Tervelska kayssieva rakiya
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Tervelska kayssieva rakiya
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Kayssieva rakiya from Tervel
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Kayssieva rakiya from Tervel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Loveshka slivova rakiya
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Loveshka slivova rakiya
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Slivova rakiya from Lovech
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Slivova rakiya from Lovech
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 8 - Aguardente de sidra e aguardente de perada:
 
@@ -4850,7 +4857,7 @@ Plymouth Gin
 
 Gin de Mahón
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 12 - Bebidas espirituosas com alcaravia:
 
@@ -4872,7 +4879,7 @@ Ojén
 
 Rute
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Ouzo
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Ouzo
 
 14 - Licor:
 
@@ -4926,11 +4933,11 @@ Wachauer Marillenlikör
 
 Jägertee / Jagertee / Jagatee
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Polish Cherry
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 15 - Bebidas espirituosas:
 
@@ -4954,19 +4961,19 @@ Polska Wódka/Polish Vodka
 
 Laugarício Vodka
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Vodka à base de ervas da planície da Podláquia do Norte aromatizado com um extracto de «erva de bisonte»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Vodka à base de ervas da planície da Podláquia do Norte aromatizado com um extracto de «erva de bisonte»
 
 Latvijas Dzidrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 LB Vodka
 
 17 - Bebidas espirituosas amargas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Riga Black Balsam
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf) / Riga Black Balsam
 
 Demänovka bylinná horká
 
@@ -4984,23 +4991,23 @@ Vermouth de Chambéry
 
 Vermouth di Torino
 
-# Parte B: In Montenegro
+Parte B: In Montenegro
 
 a) Wines originating in Montenegro:
 
 1 - Vinhos de qualidade produzidos em regiões determinadas (v. q. p. r. d.):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Lista de menções e termos de qualidade tradicionais relativos ao vinho da comunidade
 
 (referidos nos artigos 4.º e 7.º do anexo ii do Protocolo n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Lista de contactos
 
@@ -5844,7 +5851,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO III — Modelo do certificado de circulação EUR. 1 e respectivo pedido
 
@@ -5854,7 +5861,7 @@ Instruções para a impressão
 
 2 - As autoridades governamentais das Partes Contratantes podem reservar-se o direito de proceder à impressão dos certificados EUR. 1 ou confiá-la a tipografias por eles autorizadas. Neste último caso, cada certificado EUR.1 deve incluir uma referência a essa autorização. Além disso, o certificado EUR.1 deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 ## ANEXO IV — Texto da declaração na factura
 
@@ -5862,7 +5869,7 @@ A declaração na factura, cujo texto é a seguir apresentado, deve ser prestada
 
 Versão búlgara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão espanhola
 
@@ -5870,11 +5877,11 @@ El exportador de los productos incluidos en el presente documento (autorización
 
 Versão checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão dinamarquesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão alemã
 
@@ -5886,7 +5893,7 @@ Käesoleva dokumendiga hõlmatud toodete eksportija (tolli kinnitus nr ... (1)) 
 
 Versão grega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão inglesa
 
@@ -5902,19 +5909,19 @@ L'esportatore delle merci contemplate nel presente documento (autorizzazione dog
 
 Versão letã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão lituana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão húngara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão maltesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão neerlandesa
 
@@ -5922,7 +5929,7 @@ De exporteur van de goederen waarop dit document van toepassing is (douanevergun
 
 Versão polaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão portuguesa
 
@@ -5930,15 +5937,15 @@ O abaixo-assinado, exportador dos produtos abrangidos pelo presente documento (a
 
 Versão em língua romena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão eslovaca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão eslovena
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Versão finlandesa
 
@@ -5950,7 +5957,7 @@ Exportören av de varor som omfattas av detta dokument (tullmyndighetens tillst�
 
 Versão do Montenegro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 (1) Quando a declaração na factura é efectuada por um exportador autorizado, o número de autorização desse exportador autorizado deve ser indicado neste espaço. Quando a declaração na factura não é efectuada por um exportador autorizado, as palavras entre parênteses podem ser omitidas ou o espaço deixado em branco.
 
@@ -5964,7 +5971,7 @@ Versão do Montenegro
 
 Prevista no artigo 3.º e no artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Declaração Comum
 
@@ -6020,15 +6027,21 @@ c) «Transporte combinado»: o transporte de mercadorias em que o camião, o reb
 
 Infra-estruturas
 
-###### Artigo 4.º — Disposições gerais
+Artigo 4.º
+
+Disposições gerais
 
 As Partes Contratantes aceitam adoptar mutuamente medidas coordenadas para o desenvolvimento de uma rede multimodal de infra-estrutura de transportes como meio vital para resolver os problemas que afectam o transporte de mercadorias através do Montenegro, em particular nos itinerários rodoviários 1, 2b, 4 e 6 que ligam, respectivamente, a fronteira com a Croácia a Bar, a fronteira com a Bósnia e Herzegovina à fronteira com a Albânia, a fronteira com a Sérvia a Misici e Ribaravina a Bac na fronteira com a Sérvia; os itinerários ferroviários 2 e 4 que ligam Podgorica à fronteira com a Albânia e a fronteira com a Sérvia a Bar; o porto de Bar e o aeroporto Podgorica, que fazem parte da rede nuclear de transportes regionais, tal como definida no Memorando de Entendimento referido no artigo 5.º
 
-###### Artigo 5.º — Planeamento
+Artigo 5.º
+
+Planeamento
 
 O desenvolvimento de uma rede regional multimodal de transportes no território do Montenegro para servir o Montenegro e a região do Sudeste da Europa, que cubra os itinerários rodoviários e ferroviários, as vias navegáveis interiores, os portos interiores, os portos, aeroportos principais e outros modos relevantes da rede, interessa especialmente à Comunidade e ao Montenegro. Esta rede foi definida no Memorando de Entendimento com vista ao desenvolvimento de uma rede nuclear de infra-estruturas de transportes para o Sudeste da Europa, que foi assinado pelos ministros da região e pela Comissão Europeia em Junho de 2004. O desenvolvimento da rede e a definição de prioridades estão a ser elaborados por um Comité Director composto por representantes de cada um dos signatários.
 
-###### Artigo 6.º — Aspectos financeiros
+Artigo 6.º
+
+Aspectos financeiros
 
 1 - A Comunidade poderá contribuir financeiramente, a título do artigo 116.º do Acordo, para obras tendo em vista o desenvolvimento das infra-estruturas necessárias referidas no artigo 5.º Esta contribuição financeira comunitária pode assumir a forma de créditos do Banco Europeu do Investimento, bem como qualquer outra forma de financiamento que proporcione recursos adicionais.
 
@@ -6036,15 +6049,21 @@ O desenvolvimento de uma rede regional multimodal de transportes no território 
 
 Transporte ferroviário e transporte combinado
 
-###### Artigo 7.º — Disposições gerais
+Artigo 7.º
+
+Disposições gerais
 
 As Partes adoptam mutuamente as medidas coordenadas necessárias para o desenvolvimento e promoção do transporte ferroviário e combinado como meio para garantir futuramente que uma parte importante dos seus transportes bilaterais e em trânsito através do Montenegro será executada em condições mais respeitadoras do ambiente.
 
-###### Artigo 8.º — Aspectos específicos em matéria de infra-estruturas
+Artigo 8.º
+
+Aspectos específicos em matéria de infra-estruturas
 
 No âmbito da modernização dos caminhos de ferro do Montenegro, serão adoptadas as medidas necessárias para adaptar o sistema ao transporte combinado, com especial ênfase no desenvolvimento ou construção de terminais e na dimensão e capacidade dos túneis, que requerem um investimento substancial.
 
-###### Artigo 9.º — Medidas de acompanhamento
+Artigo 9.º
+
+Medidas de acompanhamento
 
 As Partes tomarão todas as medidas necessárias para favorecer o desenvolvimento do transporte combinado.
 
@@ -6068,7 +6087,9 @@ Essas medidas terão por objectivo:
 
 - Tomar, de uma forma geral, quaisquer outras medidas adequadas.
 
-###### Artigo 10.º — Papel das administrações ferroviárias
+Artigo 10.º
+
+Papel das administrações ferroviárias
 
 No âmbito das competências respectivas dos Estados e dos caminhos-de-ferro, as Partes recomendarão às suas administrações ferroviárias que, no que respeita ao transporte de passageiros e ao transporte de mercadorias:
 
@@ -6080,7 +6101,9 @@ No âmbito das competências respectivas dos Estados e dos caminhos-de-ferro, as
 
 Transportes rodoviários
 
-###### Artigo 11.º — Disposições gerais
+Artigo 11.º
+
+Disposições gerais
 
 1 - No que respeita ao acesso mútuo aos mercados dos transportes, as Partes, sem prejuízo do n.º 2, concordam em manter inicialmente o regime resultante de acordos bilaterais ou outros instrumentos bilaterais internacionais existentes celebrados entre cada Estado membro da Comunidade e o Montenegro ou, caso não haja tais acordos ou instrumentos, decorrente da situação de facto em 1991.
 
@@ -6094,7 +6117,9 @@ Contudo, embora aguardando a celebração de acordos entre a Comunidade e o Mont
 
 5 - As Partes abster-se-ão de adoptar quaisquer medidas unilaterais susceptíveis de provocar uma discriminação entre os transportadores ou os veículos da Comunidade e os do Montenegro. As Partes Contratantes tomarão todas as medidas necessárias para facilitar o transporte rodoviário com destino ao território da outra Parte ou através desse território.
 
-###### Artigo 12.º — Acesso ao mercado
+Artigo 12.º
+
+Acesso ao mercado
 
 As Partes comprometem-se, a título prioritário, a procurar encontrar, em conjunto, e nos termos das respectivas regras internas:
 
@@ -6102,7 +6127,9 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 - Um regime definitivo que regule o futuro acesso ao mercado dos transportes rodoviários entre as Partes, numa base recíproca.
 
-###### Artigo 13.º — Impostos, portagens e outros encargos
+Artigo 13.º
+
+Impostos, portagens e outros encargos
 
 1 - As Partes reconhecem que os impostos, as portagens e outros encargos aplicados aos respectivos veículos rodoviários não devem ser discriminatórios.
 
@@ -6112,13 +6139,17 @@ As Partes comprometem-se, a título prioritário, a procurar encontrar, em conju
 
 4 - Enquanto se aguarda a celebração dos acordos referidos no n.º 2 e no artigo 12.º, qualquer alteração em matéria de impostos, portagens ou outros encargos, incluindo os sistemas de cobrança aplicáveis ao tráfego comunitário em trânsito pelo Montenegro, proposta após a entrada em vigor do Acordo, será sujeita a um procedimento de consultas prévias.
 
-###### Artigo 14.º — Pesos e dimensões
+Artigo 14.º
+
+Pesos e dimensões
 
 1 - O Montenegro aceita que os veículos rodoviários que satisfaçam as normas comunitárias em matéria de peso e de dimensões circulem livremente sem quaisquer restrições pelas rotas referidas no artigo 5.º Durante seis meses após a data de entrada em vigor do Acordo, os veículos rodoviários que não satisfaçam as normas existentes do Montenegro podem ser sujeitos a um encargo especial não discriminatório que cubra os prejuízos causados pela carga adicional por eixo.
 
 2 - O Montenegro procurará harmonizar a sua regulamentação e as suas normas actuais em matéria de construção de estradas com a legislação em vigor na Comunidade no fim do quinto ano a contar da data de entrada em vigor do Acordo, e envidará esforços para adaptar o estado das vias referidas no artigo 5.º às novas regulamentações e normas dentro do prazo previsto, de acordo com as suas possibilidades financeiras.
 
-###### Artigo 15.º — Ambiente
+Artigo 15.º
+
+Ambiente
 
 1 - A fim de proteger o ambiente, as Partes Contratantes procurarão introduzir normas sobre as emissões de gás e de partículas e sobre os níveis de ruído dos veículos pesados de mercadorias, que assegurem um elevado nível de protecção.
 
@@ -6128,7 +6159,9 @@ Os veículos que satisfazem as normas estabelecidas pelos acordos internacionais
 
 3 - Para efeitos da introdução de novas normas, as Partes deverão colaborar entre si, a fim de cumprir os objectivos acima referidos.
 
-###### Artigo 16.º — Aspectos sociais
+Artigo 16.º
+
+Aspectos sociais
 
 1 - O Montenegro harmonizará a sua legislação sobre a formação de pessoal dos transportes rodoviários, em especial a relativa ao transporte de mercadorias perigosas, com as normas da CE.
 
@@ -6138,7 +6171,9 @@ Os veículos que satisfazem as normas estabelecidas pelos acordos internacionais
 
 4 - As Partes assegurarão a equivalência das respectivas disposições em matéria de acesso à profissão de transportador rodoviário tendo em vista o seu reconhecimento mútuo.
 
-###### Artigo 17.º — Disposições em matéria de tráfego
+Artigo 17.º
+
+Disposições em matéria de tráfego
 
 1 - As Partes partilharão as suas experiências e esforçar-se-ão por harmonizar as respectivas legislações de modo assegurar uma maior fluidez do tráfego durante os períodos de tráfego intenso (fins-de-semana, feriados públicos, estações turísticas).
 
@@ -6148,7 +6183,9 @@ Os veículos que satisfazem as normas estabelecidas pelos acordos internacionais
 
 4 - As Partes procurarão igualmente harmonizar a assistência técnica aos condutores, a difusão de informações essenciais sobre o tráfego e outras informações úteis para os turistas, bem como os serviços de socorro, incluindo os serviços de ambulâncias.
 
-###### Artigo 18.º — Segurança rodoviária
+Artigo 18.º
+
+Segurança rodoviária
 
 1 - O Montenegro harmonizará a sua legislação sobre a segurança rodoviária, particularmente no que se refere ao transporte de mercadorias perigosas, com a legislação da Comunidade até ao final do segundo ano após a entrada em vigor do presente acordo.
 
@@ -6158,7 +6195,9 @@ Os veículos que satisfazem as normas estabelecidas pelos acordos internacionais
 
 Simplificação das formalidades
 
-###### Artigo 19.º — Simplificação das formalidades
+Artigo 19.º
+
+Simplificação das formalidades
 
 1 - As Partes Contratantes acordam em simplificar o fluxo ferroviário e rodoviário de mercadorias, quer bilateral quer em trânsito.
 
@@ -6168,11 +6207,15 @@ Simplificação das formalidades
 
 Disposições finais
 
-###### Artigo 20.º — Alargamento do âmbito de aplicação
+Artigo 20.º
+
+Alargamento do âmbito de aplicação
 
 Se uma das Partes Contratantes concluir, com base na experiência adquirida com a aplicação do presente Protocolo, que outras medidas não abrangidas pelo âmbito de aplicação do presente protocolo são de interesse para uma política europeia coordenada de transportes podendo, designadamente, contribuir resolver o problema do tráfego de trânsito, apresentará à outra Parte sugestões sobre essa matéria.
 
-###### Artigo 21.º — Execução
+Artigo 21.º
+
+Execução
 
 1 - A cooperação entre as Partes Contratantes efectuar-se-á no âmbito de um subcomité especial que será instituído em conformidade com o artigo 123.º do presente Acordo.
 
@@ -6192,11 +6235,11 @@ Declaração Comum
 
 Valores-limite medidos pelo teste do Ciclo Europeu de Estado Estacionário (ESC) e do Ensaio Europeu de Reacção a uma Carga (ELR):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Valores-limite medidos pelo teste do Ciclo Transiente Europeu (ETC):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 (a) Apenas para os motores que funcionam a gás natural.
 
@@ -6244,7 +6287,9 @@ Se o acompanhamento indicar que, após a data de assinatura do presente acordo, 
 
 PROTOCOLO N.º 6 - PROTOCOLO RELATIVO À ASSISTÊNCIA ADMINISTRATIVA MÚTUA EM MATÉRIA ADUANEIRA MONTENEGRO
 
-###### Artigo 1.º — Definições
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente protocolo, entende-se por:
 
@@ -6258,7 +6303,9 @@ d) «Dados pessoais», todas as informações respeitantes a uma pessoa singular
 
 e) «Operações contrárias à legislação aduaneira», todas as violações ou tentativas de violação da legislação aduaneira.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - As Partes Contratantes prestar-se-ão assistência mútua, no âmbito das suas competências, segundo as modalidades e as condições previstas no presente protocolo, tendo em vista assegurar a correcta aplicação da legislação aduaneira, nomeadamente através da prevenção, da investigação e da repressão de operações contrárias a essa legislação.
 
@@ -6266,7 +6313,9 @@ e) «Operações contrárias à legislação aduaneira», todas as violações o
 
 3 - A assistência em matéria de cobrança de direitos e imposições ou sanções pecuniárias não está abrangida pelo presente protocolo.
 
-###### Artigo 3.º — Assistência mediante pedido
+Artigo 3.º
+
+Assistência mediante pedido
 
 1 - A pedido da autoridade requerente, a autoridade requerida prestar-lhe-á todas as informações úteis que permitam assegurar a correcta aplicação da legislação aduaneira, designadamente as informações relativas a actividades conhecidas ou previstas que constituam ou possam constituir uma operação contrária a essa legislação.
 
@@ -6286,7 +6335,9 @@ c) Mercadorias que são ou podem ser transportadas em condições tais que haja 
 
 d) Meios de transporte que são ou podem ser utilizados em condições tais que haja motivos razoáveis para supor que se destinam a ser utilizados em operações contrárias à legislação aduaneira.
 
-###### Artigo 4.º — Assistência espontânea
+Artigo 4.º
+
+Assistência espontânea
 
 As Partes Contratantes prestar-se-ão assistência mútua, por sua própria iniciativa e em conformidade com as respectivas disposições legislativas ou regulamentares, se considerarem que tal é necessário para a correcta aplicação da legislação aduaneira, designadamente fornecendo as informações obtidas relativamente a:
 
@@ -6300,7 +6351,9 @@ d) As pessoas singulares ou colectivas relativamente às quais haja motivos razo
 
 e) Meios de transporte em relação aos quais haja motivos razoáveis para supor que foram, são ou podem ser utilizados para efectuar operações contrárias à legislação aduaneira.
 
-###### Artigo 5.º — Entrega e notificação
+Artigo 5.º
+
+Entrega e notificação
 
 A pedido da autoridade requerente, a autoridade requerida tomará, em conformidade com as suas disposições legislativas e regulamentares, todas as medidas necessárias para:
 
@@ -6312,7 +6365,9 @@ emanantes da autoridade requerente e abrangidos pelo âmbito do presente protoco
 
 Os pedidos de entrega de documentos ou de notificação de decisões devem ser feitos por escrito numa língua oficial da autoridade requerida ou numa língua aceite por essa autoridade.
 
-###### Artigo 6.º — Forma e conteúdo dos pedidos de assistência
+Artigo 6.º
+
+Forma e conteúdo dos pedidos de assistência
 
 1 - Os pedidos apresentados nos termos do presente protocolo devem ser feitos por escrito. Devem ser apensos aos pedidos todos os documentos necessários para a respectiva execução. Sempre que o carácter urgente da situação o exija, podem ser aceites pedidos orais, que devem, no entanto, ser imediatamente confirmados por escrito.
 
@@ -6334,7 +6389,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - No caso de um pedido não satisfazer os requisitos formais acima estabelecidos, pode solicitar-se que seja corrigido ou completado, podendo, entretanto, ser tomadas medidas cautelares.
 
-###### Artigo 7.º — Execução dos pedidos
+Artigo 7.º
+
+Execução dos pedidos
 
 1 - A fim de dar seguimento a um pedido de assistência, a autoridade requerida agirá, no âmbito das suas competências e em função dos recursos disponíveis, como se o fizesse por sua própria iniciativa ou a pedido de outras autoridades dessa Parte Contratante, prestando as informações de que disponha e efectuando ou mandando efectuar os inquéritos adequados. O disposto no presente número aplica-se igualmente a qualquer outra autoridade à qual a autoridade requerida tenha dirigido o pedido, quando esta última não pode agir por si só.
 
@@ -6344,7 +6401,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 4 - Os funcionários devidamente autorizados de uma Parte Contratante podem, com o acordo da outra Parte Contratante em causa e nas condições por ela previstas, estar presentes quando da realização de inquéritos no território desta última.
 
-###### Artigo 8.º — Forma de comunicação das informações
+Artigo 8.º
+
+Forma de comunicação das informações
 
 1 - A autoridade requerida comunicará por escrito os resultados dos inquéritos à autoridade requerente, juntamente com os documentos, as cópias autenticadas ou outros instrumentos pertinentes.
 
@@ -6352,7 +6411,9 @@ f) Um resumo dos factos pertinentes e dos inquéritos já realizados.
 
 3 - Os originais dos documentos só serão transmitidos mediante pedido expresso nos casos em que as cópias autenticadas não sejam suficientes. Os originais devem ser devolvidos com a maior brevidade possível.
 
-###### Artigo 9.º — Excepções à obrigação de prestar assistência
+Artigo 9.º
+
+Excepções à obrigação de prestar assistência
 
 1 - A assistência pode ser recusada ou sujeita ao cumprimento de determinadas condições ou requisitos nos casos em que, no âmbito do presente protocolo, uma das partes considerar que a assistência:
 
@@ -6368,7 +6429,9 @@ c) Viole um segredo industrial, comercial ou profissional.
 
 4 - Nos casos referidos nos n.os 1 e 2, a decisão da autoridade requerida e as razões que a justificam devem ser comunicadas sem demora à autoridade requerente.
 
-###### Artigo 10.º — Intercâmbio de informações e confidencialidade
+Artigo 10.º
+
+Intercâmbio de informações e confidencialidade
 
 1 - As informações comunicadas, sob qualquer forma, nos termos do presente protocolo têm carácter confidencial ou reservado, de acordo com as regras aplicadas pelas Partes Contratantes. As informações estão sujeitas à obrigação do segredo oficial e beneficiam da protecção prevista na legislação aplicável na matéria na Parte que as recebeu, bem como nas disposições correspondentes aplicáveis às autoridades comunitárias.
 
@@ -6378,21 +6441,29 @@ c) Viole um segredo industrial, comercial ou profissional.
 
 4 - As informações obtidas serão utilizadas exclusivamente para fins do presente protocolo. Se uma das Partes Contratantes pretender utilizar essas informações para outros fins, deve obter a autorização prévia, por escrito, da autoridade que as forneceu. Nesse caso, as informações ficarão sujeitas às restrições impostas por essa autoridade.
 
-###### Artigo 11.º — Peritos e testemunhas
+Artigo 11.º
+
+Peritos e testemunhas
 
 Um funcionário da autoridade requerida pode ser autorizado a comparecer, nos limites estabelecidos na autorização que lhe foi concedida, como perito ou testemunha em acções judiciais ou administrativas relativas a questões abrangidas pelo presente protocolo, perante os tribunais da outra parte, e a apresentar os objectos, documentos ou respectivas cópias autenticadas eventualmente necessários para esse efeito. O pedido de comparência deve indicar especificamente a autoridade judicial ou administrativa perante a qual esse funcionário deve comparecer e sobre que assunto, a que título ou em que qualidade será interrogado.
 
-###### Artigo 12.º — Despesas de assistência
+Artigo 12.º
+
+Despesas de assistência
 
 As Partes Contratantes renunciam a exigir o reembolso de despesas incorridas no âmbito do presente protocolo, excepto no que se refere às despesas com peritos e testemunhas, se for caso disso, bem como com intérpretes e tradutores que não sejam funcionários da Administração Pública.
 
-###### Artigo 13.º — Execução
+Artigo 13.º
+
+Execução
 
 1 - A aplicação do presente protocolo será confiada, por um lado, às autoridades aduaneiras do Montenegro e, por outro, aos serviços competentes da Comissão das Comunidades Europeias e, se for caso disso, às autoridades aduaneiras dos Estados membros. Estas autoridades decidirão de todas as medidas e disposições práticas necessárias para a sua aplicação, tendo em conta as normas em vigor, designadamente em matéria de protecção de dados. Podem recomendar às instâncias competentes as alterações do presente protocolo que considerem necessárias.
 
 2 - As Partes Contratantes consultar-se-ão e manter-se-ão mutuamente informadas sobre as normas de execução adoptadas em conformidade com as disposições do presente protocolo.
 
-###### Artigo 14.º — Outros acordos
+Artigo 14.º
+
+Outros acordos
 
 1 - Tendo em conta as competências respectivas da Comunidade Europeia e dos Estados membros, as disposições do presente protocolo:
 
@@ -6408,13 +6479,19 @@ c) Não afectarão as disposições comunitárias relativas à comunicação, en
 
 PROTOCOLO N.º 7 - RESOLUÇÃO DE LITÍGIOS
 
-### CAPÍTULO I — Objectivo e âmbito
+CAPÍTULO I
 
-###### Artigo 1.º — Objectivo
+Objectivo e âmbito
+
+Artigo 1.º
+
+Objectivo
 
 O objectivo do presente protocolo consiste em prevenir e resolver os litígios entre as Partes a fim de alcançar, sempre que possível, soluções mutuamente aceitáveis.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 As disposições do presente protocolo aplicam-se apenas a divergências em relação à interpretação e aplicação das disposições que se seguem, mesmo que uma Parte considere que uma medida adoptada pela outra Parte, ou a falta de resposta da outra Parte, constituem uma infracção das suas obrigações referentes a tais disposições:
 
@@ -6434,17 +6511,25 @@ c) Título vi (Aproximação das legislações, aplicação da lei e regras da c
 
 - N.º 2 do artigo 75.º (Propriedade intelectual, industrial e comercial) n.os 1, 2 e 3 a 6 (Concursos públicos).
 
-### CAPÍTULO II — Processo de resolução de litígios
+CAPÍTULO II
 
-#### SECÇÃO I — Procedimento arbitral
+Processo de resolução de litígios
 
-###### Artigo 3.º — Desencadeamento do procedimento de arbitragem
+SECÇÃO I
+
+Procedimento arbitral
+
+Artigo 3.º
+
+Desencadeamento do procedimento de arbitragem
 
 1 - Se as Partes não tiverem resolvido o litígio, a Parte requerente pode, nas condições previstas no artigo 130.º do Acordo de Estabilização e de Associação, apresentar um pedido escrito de instituição de um painel de arbitragem à Parte requerida assim como ao Comité de Estabilização e de Associação.
 
 2 - A Parte requerente deve indicar no seu pedido o objecto do litígio e, se for caso disso, as medidas adoptadas pela outra Parte, ou a sua falta de resposta, que considera uma infracção ao disposto no artigo 2.º
 
-###### Artigo 4.º — Composição do painel de arbitragem
+Artigo 4.º
+
+Composição do painel de arbitragem
 
 1 - O painel de arbitragem é composto por três árbitros.
 
@@ -6464,7 +6549,9 @@ Se uma Parte considera que o presidente do painel de arbitragem não obedece ao 
 
 7 - Se um árbitro não puder participar no procedimento, se retirar dele ou for substituído em conformidade com o disposto no n.º 6, será seleccionado um substituto no prazo de cinco dias, em conformidade com os procedimentos de selecção adoptados para seleccionar o árbitro original. As actas do painel serão suspensas durante o período em que decorrer este procedimento.
 
-###### Artigo 5.º — Decisão do painel de arbitragem
+Artigo 5.º
+
+Decisão do painel de arbitragem
 
 1 - No prazo de 90 dias a contar da data de criação do painel de arbitragem, o painel de arbitragem notificará a sua decisão às Partes e ao Comité de Estabilização e de Associação. Se considerar que este prazo não pode ser cumprido, o presidente do painel deve notificar por escrito as Partes e o Comité de Estabilização e de Associação, expondo as razões de tal atraso. A decisão do painel não pode em caso algum ser proferida mais de 120 dias após a data da sua constituição.
 
@@ -6476,13 +6563,19 @@ Se uma Parte considera que o presidente do painel de arbitragem não obedece ao 
 
 5 - O painel de arbitragem pode, a pedido das duas Partes, suspender os seus trabalhos a qualquer momento por um período não superior a 12 meses. Uma vez terminado o período de 12 meses, o poder para a constituição do painel caducará, sem prejuízo do direito de posteriormente a Parte requerente poder solicitar a constituição de um novo painel de arbitragem para analisar a mesma questão.
 
-#### SECÇÃO II — Cumprimento
+SECÇÃO II
 
-###### Artigo 6.º — Cumprimento da decisão do painel de arbitragem
+Cumprimento
+
+Artigo 6.º
+
+Cumprimento da decisão do painel de arbitragem
 
 As Partes adoptarão as medidas necessárias para darem cumprimento à decisão do painel de arbitragem e esforçar-se-ão por chegar a acordo quanto ao prazo necessário para o fazer.
 
-###### Artigo 7.º — Prazo razoável para o cumprimento
+Artigo 7.º
+
+Prazo razoável para o cumprimento
 
 1 - O mais tardar 30 dias após a comunicação da decisão às Partes pelo painel de arbitragem, a Parte requerida notificará a Parte requerente do prazo (a seguir designado «prazo razoável») de que necessitará para o cumprimento da decisão. As duas Partes deverão procurar chegar a acordo quanto ao prazo razoável.
 
@@ -6490,7 +6583,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º do presente protocolo. O prazo para a comunicação da decisão continua a ser de 20 dias a contar da data da constituição do painel.
 
-###### Artigo 8.º — Análise das medidas adoptadas para dar cumprimento à decisão do painel de arbitragem
+Artigo 8.º
+
+Análise das medidas adoptadas para dar cumprimento à decisão do painel de arbitragem
 
 1 - Antes do final prazo razoável, a Parte requerida notificará à outra Parte e ao Comité de Estabilização e de Associação as medidas que adoptou para cumprir a decisão do painel de arbitragem.
 
@@ -6498,7 +6593,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º O prazo para a comunicação da decisão continua a ser de 45 dias a contar da data da constituição do painel.
 
-###### Artigo 9.º — Medidas correctivas temporárias em caso de não cumprimento
+Artigo 9.º
+
+Medidas correctivas temporárias em caso de não cumprimento
 
 1 - Se a Parte requerida não notificar quaisquer medidas adoptadas para dar cumprimento à decisão do painel de arbitragem antes do final do prazo razoável, ou se o painel de arbitragem decidir que a medida notificada nos termos do n.º 1 do artigo 8.º não está em conformidade com as obrigações dessa Parte nos termos do presente acordo, a Parte requerida, caso tal seja solicitado pela Parte requerente, deve apresentar uma proposta de medida correctiva temporária.
 
@@ -6508,7 +6605,9 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 4 - A suspensão de vantagens será temporária e aplicada apenas até que as medidas que se considere que violam o acordo sejam retiradas ou alteradas para que estejam em conformidade com o acordo, ou até que as partes acordem no encerramento do litígio.
 
-###### Artigo 10.º — Análise das medidas adoptadas para assegurar o cumprimento após a suspensão das vantagens
+Artigo 10.º
+
+Análise das medidas adoptadas para assegurar o cumprimento após a suspensão das vantagens
 
 1 - A Parte requerida notificará à outra Parte e ao Comité de Estabilização e de Associação as medidas que tomou para dar cumprimento à decisão do painel de arbitragem e o seu pedido de fim da suspensão das vantagens concedidas pela Parte requerente.
 
@@ -6516,35 +6615,51 @@ As Partes adoptarão as medidas necessárias para darem cumprimento à decisão 
 
 3 - Caso não seja possível reunir o painel de arbitragem inicial, ou alguns dos seus membros, serão aplicáveis os procedimentos previstos no artigo 4.º. Neste caso, o prazo de comunicação da decisão continua a ser de 45 dias a contar da data da constituição do painel.
 
-#### SECÇÃO III — Disposições comuns
+SECÇÃO III
 
-###### Artigo 11.º — Audições públicas
+Disposições comuns
+
+Artigo 11.º
+
+Audições públicas
 
 As reuniões do painel de arbitragem estarão abertas ao público nas condições estabelecidas no regulamento interno referido no artigo 18.º, a menos que o painel de arbitragem decida de outra forma por iniciativa própria ou a pedido das Partes.
 
-###### Artigo 12.º — Informações e assessoria técnica
+Artigo 12.º
+
+Informações e assessoria técnica
 
 A pedido de uma Parte ou por sua própria iniciativa, o painel pode obter informações de qualquer fonte que considere adequada para os seus trabalhos. O painel pode igualmente solicitar o parecer de peritos se o considerar necessário. Quaisquer informações assim obtidas devem ser divulgadas a ambas as Partes e ser sujeitas a comentários. As partes interessadas são autorizadas a fazer exposições amicus curiae ao painel de arbitragem nas condições estabelecidas no regulamento interno referido no artigo 18.º
 
-###### Artigo 13.º — Princípios de interpretação
+Artigo 13.º
+
+Princípios de interpretação
 
 O painel de arbitragem interpretará as disposições do presente acordo em conformidade com as regras habituais em matéria de interpretação do direito internacional público, incluindo a Convenção de Viena sobre o Direito dos Tratados. Não deverá interpretar o acervo comunitário. O facto de uma disposição ser substancialmente idêntica a uma disposição do Tratado que institui as Comunidades Europeias não é decisivo na interpretação dessa disposição.
 
-###### Artigo 14.º — Decisões formais e informais do painel de arbitragem
+Artigo 14.º
+
+Decisões formais e informais do painel de arbitragem
 
 1 - Todas as decisões do painel de arbitragem, nomeadamente a aprovação das decisões formais, devem ser adoptadas por maioria de votos.
 
 2 - Todas as decisões formais do painel de arbitragem são vinculativas para as Partes. Devem igualmente ser notificadas às Partes e ao Comité de Estabilização e de Associação, que as disponibilizarão publicamente, a menos que o painel decida por consenso em sentido contrário.
 
-### CAPÍTULO III — Disposições gerais
+CAPÍTULO III
 
-###### Artigo 15.º — Lista de árbitros
+Disposições gerais
+
+Artigo 15.º
+
+Lista de árbitros
 
 1 - O mais tardar seis meses a contar da data de entrada em vigor do presente protocolo, o Comité de Estabilização e de Associação elaborará uma lista de 15 pessoas dispostas e aptas a desempenhar a função de árbitros. Cada Parte pode seleccionar cinco pessoas para exercer as funções de árbitro. As Partes chegarão igualmente a acordo sobre cinco pessoas que desempenharão as funções de presidentes dos painéis de arbitragem. O Comité de Estabilização e de Associação assegurará que a lista se mantenha permanentemente a este nível.
 
 2 - Os árbitros devem dispor de conhecimentos especializados e de experiência nos domínios do direito, do direito internacional, do direito comunitário e ou do comércio internacional. Devem ser independentes, agir a título pessoal, não estar ligados nem aceitar instruções de nenhuma organização ou governo e respeitar o código de conduta referido no artigo 18.º
 
-###### Artigo 16.º — Relação com obrigações no âmbito da OMC
+Artigo 16.º
+
+Relação com obrigações no âmbito da OMC
 
 Aquando da eventual adesão do Montenegro à Organização Mundial do Comércio (OMC), aplicar-se-á o seguinte:
 
@@ -6554,7 +6669,9 @@ b) O direito de qualquer das Partes recorrer às disposições de resolução de
 
 c) O disposto no presente protocolo não impede de forma alguma que uma Parte aplique a suspensão de obrigações autorizada pelo Órgão de Resolução de Litígios da OMC.
 
-###### Artigo 17.º — Prazos
+Artigo 17.º
+
+Prazos
 
 1 - Os prazos estabelecidos no presente protocolo correspondem ao número de dias de calendário a contar da data do acto ou facto a que se referem.
 
@@ -6562,7 +6679,9 @@ c) O disposto no presente protocolo não impede de forma alguma que uma Parte ap
 
 3 - Qualquer prazo referido no presente protocolo pode igualmente ser alargado pelo presidente do painel de arbitragem, mediante pedido fundamentado de qualquer das Partes ou por sua própria iniciativa.
 
-###### Artigo 18.º — Regulamento interno, código de conduta e alteração do protocolo
+Artigo 18.º
+
+Regulamento interno, código de conduta e alteração do protocolo
 
 1 - O mais tardar seis meses após a entrada em vigor do presente protocolo, o Conselho de Estabilização e de Associação deve estabelecer o regulamento interno relativo à condução dos trabalhos do painel de arbitragem.
 
@@ -6572,7 +6691,7 @@ c) O disposto no presente protocolo não impede de forma alguma que uma Parte ap
 
 PROTOCOLO N.º 8 - RELATIVOS AOS PRINCÍPIOS GERAIS PARA A PARTICIPAÇÃO DO MONTENEGRO EM PROGRAMAS COMUNITÁRIOS
 
-###### Artigo 1.º
+Artigo 1.º
 
 O Montenegro fica autorizado a participar nos seguintes programas comunitários:
 
@@ -6580,31 +6699,31 @@ a) Programas constantes do anexo ao Acordo-quadro entre a Comunidade Europeia e 
 
 b) Programas estabelecidos ou renovados após 27 de Julho de 2005 que incluam uma cláusula de abertura que preveja a participação do Montenegro.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A contribuição financeira do Montenegro para o Orçamento Geral da União Europeia será proporcional aos programas específicos em que participar.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os representantes do Montenegro serão autorizados a participar, na qualidade de observadores e em relação aos pontos que se referem ao Montenegro, nos Comités de Gestão responsáveis pelo controlo dos programas para que o Montenegro contribui financeiramente.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os projectos e iniciativas apresentados por participantes do Montenegro estarão, tanto quanto possível, sujeitos às mesmas condições, regras e procedimentos dos programas em causa que são aplicados aos Estados membros.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Os termos e condições específicos em relação à participação do Montenegro em cada programa, designadamente a contribuição financeira específica a desembolsar, serão determinados por acordo, sob a forma de um Memorando de Entendimento, entre a Comissão, em nome da Comunidade, e o Montenegro.
 
 Se o Montenegro solicitar a assistência comunitária externa com base no Regulamento (CE) n.º [1085/2006](https://data.europa.eu/eli/reg/2006/1085/oj?locale=pt), do Conselho, de 17 de Julho de 2006, que institui um Instrumento de Assistência de Pré-Adesão (IPA)(2) ou nos termos de qualquer regulamento análogo que preveja a assistência comunitária externa ao Montenegro que venha a ser futuramente adoptado, as condições que regem a utilização pelo Montenegro da assistência comunitária serão definidas numa convenção de financiamento.
 
-###### Artigo 6.º
+Artigo 6.º
 
 O Memorando de Entendimento determinará, em conformidade com o Regulamento Financeiro da Comunidade, que o controlo financeiro ou as auditorias serão realizados pela Comissão Europeia, pelo OLAF e pelo Tribunal de Contas das Comunidades Europeias ou sob a sua autoridade.
 
 Serão elaboradas disposições pormenorizadas em matéria de controlo financeiro e de auditoria, de medidas administrativas, de sanções e de cobrança que permitam atribuir à Comissão Europeia, ao OLAF e ao Tribunal de Contas poderes equivalentes aos respectivos poderes em relação aos beneficiários ou contratantes estabelecidos na Comunidade.
 
-###### Artigo 7.º
+Artigo 7.º
 
 O mais tardar três anos após a data de entrada em vigor do Acordo de Estabilização e de Associação e, em seguida, todos os três anos, o Conselho de Estabilização e de Associação poderá examinar a execução do presente protocolo com base na participação efectiva do Montenegro em um ou mais programas da Comunidade.
 
@@ -6684,19 +6803,19 @@ reunidos em no Luxemburgo em 15 de Outubro de 2007 para a assinatura do Acordo d
 
 o presente Acordo, bem como os respectivos anexos i a vii, nomeadamente:
 
-## Anexo I (artigo 21.º) - Concessões pautais do Montenegro para produtos industriais comunitários
+Anexo I (artigo 21.º) - Concessões pautais do Montenegro para produtos industriais comunitários
 
-## Anexo II (artigo 26.º) - Definição dos produtos «baby beef»
+Anexo II (artigo 26.º) - Definição dos produtos «baby beef»
 
-## Anexo III (artigo 27.º) - Concessões pautais do Montenegro para produtos agrícolas comunitários
+Anexo III (artigo 27.º) - Concessões pautais do Montenegro para produtos agrícolas comunitários
 
-## Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca do Montenegro
+Anexo IV (artigo 29.º) - Concessões pautais comunitárias para produtos da pesca do Montenegro
 
-## Anexo V (artigo 30.º) - Concessões pautais do Montenegro para produtos da pesca comunitários
+Anexo V (artigo 30.º) - Concessões pautais do Montenegro para produtos da pesca comunitários
 
-## Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros
+Anexo VI (artigo 52.º) - Estabelecimento: serviços financeiros
 
-## Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial
+Anexo VII (artigo 75.º) - Direitos de propriedade intelectual, industrial e comercial
 
 e os seguintes Protocolos:
 
@@ -6724,7 +6843,7 @@ Os plenipotenciários do Montenegro tomaram nota da seguinte Declaração anexa 
 
 Declaração da Comunidade e dos seus Estados membros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 Declarações Comuns
 
@@ -6744,7 +6863,7 @@ Em conformidade com o disposto no artigo 35.º do presente acordo, as medidas co
 
 No que respeita aos produtos classificados nos capítulos 7 e 8 da Nomenclatura Combinada, relativamente aos quais a pauta aduaneira comum preveja a aplicação de direitos aduaneiros ad valorem e de um direito aduaneiro específico, a redução será igualmente aplicável a esse direito aduaneiro específico, em derrogação do disposto no n.º 2 do artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17500/0628106518.pdf)
 
 (1) JO L 157 de 30.4.2004, p. 45. Versão rectificada no JO L 195 de 2.6.2004, p. 16.
 

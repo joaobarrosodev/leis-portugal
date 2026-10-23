@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/1991/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1991-668275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1c6d1d5533603d34f3c93a520d70bb48c99a52c27e3bbca6285a333dc691293
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39d602d45eeed55417df5c88ef0da48183b18eb3603775bb71ee7929f374c94f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Cerâmica Industrial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
 - Instituto Politécnico
+- Plano de Estudos
 - Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:321939:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682616:por
+  label: "Alterado o plano de estudos e a designação do curso de Cerâmica Industrial para Engenharia Cerâmica, e revogado\
+    \ o n.º 1.º, a alínea a) do n.º 2 do n.º 2.º, o n.º 3.º e o n.º 2 do n.º 5.º, pela PORT.1316/95.07.11.1995.ME, DR.IS-B\
+    \ [257] de 07.11.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1316-1995-682616
+  date: '1995-11-07'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321939:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.326/99.1999.05.12.ME, DR.IS-B [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-1999-321939
+  date: '1999-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:38Z'
   warnings: []
   errors: []
 ---
@@ -196,8 +217,8 @@ O curso entrará em funcionamento, progressivamente, um ano curricular em cada a
 
 Ministério da Educação.
 
-**Assinada em 28 de Maio de 1991.**
+Assinada em 28 de Maio de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correio Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/151b00/34513453.pdf))](https://files.diariodarepublica.pt/1s/1991/07/151b00/34513453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/151b00/34513453.pdf)

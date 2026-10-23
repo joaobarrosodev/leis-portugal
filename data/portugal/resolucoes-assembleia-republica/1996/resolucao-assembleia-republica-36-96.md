@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/36/1996/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-1996-168640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12d079f7b9c2da54b1954d34b948fa5411292fc685277021146084a0cbd57642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a28ca415f778e1915f59b40797af83e3db51534c1432742e4ed4f0efc6518ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,28 @@ reuse:
 subjects:
 - Carta Europeia da Energia
 - Convenção
-- Portugal
 - Energia
+- Portugal
 - Recursos Energéticos
 - Tratado da Carta da Energia
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:168639:por
+  label: "Ratificado o Tratado da Carta da Energia, incluindo anexos, decisões e Acta Final, e o Protocolo da Carta da Energia\
+    \ Relativo à Eficiência Energética e aos Aspectos Ambientais Associados, aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.29/96.15.11.1996.PR, DR.IS-A [265] de 15.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/29-1996-168639
+  date: '1996-11-15'
 article_structure:
   article_count: 72
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:19Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +100,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Maio de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ANNEX I
 
@@ -1873,7 +1880,7 @@ Uzbekistan.
 
 List of provisions subject to transitional arrangements
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf))](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
 
 Article 6, 2)
 
@@ -2431,7 +2438,7 @@ Description - in order to deplete uranium ore reserves that are stocked by Admin
 
 Phase-out - 1 July 2001.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf))](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
 
 ANNEX 2
 
@@ -2873,7 +2880,7 @@ Joint ventures;
 
 Co-financing.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf))](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
 
 FINAL ACT OF THE EUROPEAN ENERGY CHARTER CONFERENCE
 
@@ -3071,7 +3078,7 @@ IX - The records of negotiations of the European Energy Charter Conference will 
 
 Done at Lisbon on the seventeenth day of December in the year one thousand nine hundred and ninety-four.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf))](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
 
 ## ANEXO N.º 1 — TRATADO DA CARTA DA ENERGIA
 
@@ -3111,7 +3118,7 @@ Reconhecendo a necessidade cada vez mais urgente de medidas para protecção do 
 
 acordaram no seguinte:
 
-# PARTE I — Definições e objectivo
+## PARTE I — Definições e objectivo
 
 ###### Artigo 1.º — Definições
 
@@ -3197,7 +3204,7 @@ b) «Declaração da Carta da Energia» ou «Declaração», um instrumento não
 
 O presente Tratado institui um enquadramento jurídico para a promoção da cooperação a longo prazo no domínio energético, com base em complementaridades e benefícios mútuos, em conformidade com os objectivos e princípios da Carta.
 
-# PARTE II — Comércio
+## PARTE II — Comércio
 
 ###### Artigo 3.º — Mercados internacionais
 
@@ -3329,7 +3336,7 @@ i) Por motivos prudenciais, incluindo a protecção de investidores, consumidore
 
 ii) Para garantir a integridade e a estabilidade do seu sistema financeiro e mercados financeiros.
 
-# PARTE III — Promoção e protecção de investimentos
+## PARTE III — Promoção e protecção de investimentos
 
 ###### Artigo 10.º — Promoção, protecção e tratamento de investimentos
 
@@ -3485,7 +3492,7 @@ i) Proíbem transacções com investidores desse Estado; ou
 
 ii) Seriam violadas ou iludidas se os benefícios da presente parte fossem atribuídos a investidores desse Estado ou aos seus investimentos.
 
-# PARTE IV — Disposições diversas
+## PARTE IV — Disposições diversas
 
 ###### Artigo 18.º — Soberania sobre recursos energéticos
 
@@ -3665,7 +3672,7 @@ b) Concedido por um acordo bilateral ou multilateral relativo à cooperação ec
 
 3 - Este artigo não afecta a aplicação do GATT e instrumentos conexos, nos termos do artigo 29.º
 
-# PARTE V — Resolução de diferendos
+## PARTE V — Resolução de diferendos
 
 ###### Artigo 26.º — Resolução de diferendos entre um investidor e uma Parte Contratante
 
@@ -3755,7 +3762,7 @@ l) Uma cópia da sentença será depositada junto do Secretariado para consulta 
 
 Um diferendo entre Partes Contratantes relativamente à aplicação ou interpretação dos artigos 5.º ou 29.º não será resolvido nos termos do artigo 27.º, a não ser que ambas as Partes Contratantes partes no diferendo assim o acordem.
 
-# PARTE VI — Disposições transitórias
+## PARTE VI — Disposições transitórias
 
 ###### Artigo 29.º — Disposições provisórias sobre matérias relacionadas com o comércio
 
@@ -3839,7 +3846,7 @@ c) Enviar a todas as Partes Contratantes, no termo de cada período de seis mese
 
 6 - A Conferência da Carta deve rever anualmente os progressos feitos pelas Partes Contratantes no sentido da execução das disposições do presente artigo e do encontro entre necessidades e ofertas de ajuda técnica referidas no n.º 2 e na alínea c) do n.º 4. Durante a referida revisão, pode decidir tomar medidas adequadas.
 
-# PARTE VII — Estrutura e instituições
+## PARTE VII — Estrutura e instituições
 
 ###### Artigo 33.º — Protocolos e declarações da Carta da Energia
 
@@ -3963,7 +3970,7 @@ As Partes Contratantes envidarão todos os esforços para chegar a acordo por co
 
 5 - Além disso, a Conferência da Carta pode aceitar contribuições voluntárias de uma ou mais Partes Contratantes ou de outras fontes. As despesas realizadas através dessas contribuições não são consideradas despesas do Secretariado para efeitos do n.º 3.
 
-# PARTE VIII — Disposições finais
+## PARTE VIII — Disposições finais
 
 ###### Artigo 38.º — Assinatura
 
@@ -4289,13 +4296,13 @@ PROCESSO ESPECÍFICO EM MATÉRIA DE DIFERENDO A NÍVEL INFERIOR AO NACIONAL
 
 [nos termos da alínea 4 do n.º 3 do artigo 27.º]
 
-# Parte 1
+## Parte 1
 
 1 - Canadá.
 
 2 - Austrália.
 
-# Parte II
+## Parte II
 
 1 - Quando, ao proferir uma sentença, o tribunal considerar que uma medida de um governo ou autoridade regional ou local de uma Parte Contratante (a seguir denominada «parte responsável») não está em conformidade com uma disposição do presente Tratado, a parte responsável tomará as medidas razoáveis que estejam ao seu alcance para garantir que a medida seja compatível com o Tratado.
 
@@ -4365,9 +4372,9 @@ XXXVII - Compromissos;
 
 XXXVIII - Acção colectiva;
 
-## Anexo H - Relativo ao artigo XXVI;
+Anexo H - Relativo ao artigo XXVI;
 
-## Anexo I - Notas e disposições adicionais (relativas aos artigos do GATT acima referidos);
+Anexo I - Notas e disposições adicionais (relativas aos artigos do GATT acima referidos);
 
 Acção de salvaguarda para Fins de desenvolvimento;
 
@@ -4395,9 +4402,9 @@ Preâmbulo (parágrafos 1, 8 e 9);
 
 15 - Disposições finais (outras que não 15.5 e 15.13);
 
-## Anexo 2 - Grupos de peritos técnicos;
+Anexo 2 - Grupos de peritos técnicos;
 
-## Anexo 3 - Grupos especiais;
+Anexo 3 - Grupos especiais;
 
 ii) Acordo Relativo às Aquisições Públicas;
 
@@ -4471,9 +4478,9 @@ iv) Acordo Relativo à Aplicação do Artigo VII (Determinação do Valor Aduane
 
 31 - Registo;
 
-## Anexo II - Comité Técnico do Valor Aduaneiro;
+Anexo II - Comité Técnico do Valor Aduaneiro;
 
-## Anexo III - Grupos especiais ad hoc;
+Anexo III - Grupos especiais ad hoc;
 
 Protocolo do Acordo sobre a Aplicação do Artigo VII (excepto 1.7 e 1.8; com linguagem introdutória necessária em conformidade);
 
@@ -4719,7 +4726,7 @@ Usbequistão
 
 Lista das disposições sujeitas a convénios transitórios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf))](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/265a00/40584149.pdf)
 
 N.º 2 do artigo 6.º
 
@@ -5339,7 +5346,7 @@ Desejosas de empreender actividades de cooperação e actividades coordenadas no
 
 acordaram no seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Âmbito de aplicação e objectivos do Protocolo
 
@@ -5371,7 +5378,7 @@ Para efeitos do presente Protocolo, entende-se por:
 
 7) «Impacte ambiental», qualquer efeito causado por uma determinada actividade no ambiente, incluindo a saúde e a segurança das pessoas, flora, fauna, solo, ar, água, clima, paisagem e monumentos históricos ou outras estruturas físicas ou as interacções entre estes factores; inclui igualmente os efeitos no património cultural ou nas condições sócio-económicas resultantes das alterações destes factores.
 
-# PARTE II — Princípios da política
+## PARTE II — Princípios da política
 
 ###### Artigo 3.º — Princípios de base
 
@@ -5455,13 +5462,13 @@ j) Estabelecimento de organismos especializados no domínio da eficiência energ
 
 3 - Na aplicação dos seus programas de eficiência energética, as Partes Contratantes garantirão a existência das adequadas infra-estruturas institucionais e jurídicas.
 
-# PARTE III — Cooperação internacional
+## PARTE III — Cooperação internacional
 
 ###### Artigo 9.º — Domínios de cooperação
 
 A cooperação entre as Partes Contratantes poderá assumir qualquer forma considerada adequada. Do anexo constam os domínios de possível cooperação.
 
-# PARTE IV — Disposições administrativas e jurídicas
+## PARTE IV — Disposições administrativas e jurídicas
 
 ###### Artigo 10.º — Papel da conferência da Carta
 
@@ -5503,7 +5510,7 @@ As decisões sobre assuntos orçamentais serão tomadas por maioria qualificada 
 
 2 - O n.º 1 do artigo 10.º e os n.os 1 e 3 do artigo 12.º não são aplicáveis às votações na Conferência da Carta relativas a alterações ao presente Protocolo que atribuem funções ou tarefas à Conferência da Carta ou ao Secretariado, cujo estabelecimento está previsto no Tratado da Carta da Energia.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 14.º — Assinatura
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/879/1991/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/879-1991-403277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 954f6c4a8580921aee26d839712873350cd4fbde8a99a64ef462fe9965022beb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af9aa3cc6f7c3e2b9bb6a1667e33ab5b8df3f89f5e19c19cfe26828d206441e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso Superior de Gestão Internacional e Exportação
 - Instituto de Estudos Superiores Financeiros e Fiscais
+- Plano de Estudos
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:291884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197515:por
+  label: "Alterado o plano de estudos do Curso de Bacharelato em Gestão Internacional e Exportação (ministrado no Porto) pela\
+    \ PORT.174/98.1998.03.17.ME, DR.IS-B [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/174-1998-197515
+  date: '1998-03-17'
+- type: amended_by
+  target: pt:dre:197476:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Gestão Internacional e Exportação (ministrado em Lisboa),\
+    \ na redacção dada pela Port 31/93 de 08-Jan, pela PORT.181/98.1998.03.18.ME,DR.IS-B [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-1998-197476
+  date: '1998-03-18'
+- type: amended_by
+  target: pt:dre:291884:por
+  label: "Caducada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, a autorização de funcionamento do curso de bacharelato em Gestão Internacional e Exportação pela PORT.1114/99.1999.12.28.ME,DR.IS-B\
+    \ [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1114-1999-291884
+  date: '1999-12-28'
+- type: cites
+  target: pt:dre:564578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:14Z'
   warnings: []
   errors: []
 ---
@@ -110,12 +137,12 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 27 de Julho de 1991.**
+Assinada em 27 de Julho de 1991.
 
-**O Secretário de Estado do Ensino Superior, Alberto José Nunes Correia Ralha.**
+O Secretário de Estado do Ensino Superior, Alberto José Nunes Correia Ralha.
 
 ## ANEXO — Instituto de Estudos Superiores Financeiros e Fiscais - IESF
 
 Curso superior de Gestão Internacional e Exportação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/194b00/44134414.pdf))](https://files.diariodarepublica.pt/1s/1991/08/194b00/44134414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/194b00/44134414.pdf)

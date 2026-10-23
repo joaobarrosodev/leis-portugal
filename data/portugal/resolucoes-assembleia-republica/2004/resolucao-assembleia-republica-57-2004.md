@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/184a00/51145117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/2004/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2004-515264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 118c4ca36ea17133dc161fc0b993b6e041865a9406416bb46504274ee4354e4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1837106e2bddeaf3710c07aa6c034799e7ae8e4abd7de5afe3d88dd048a4e944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,78 @@ reuse:
 subjects:
 - Agência de Turismo
 - Ajudas de Custo
-- Parlamentar
+- Assembleia da República
 - Deslocação em Serviço
 - Despesas de Deslocação
-- Assembleia da República
+- Parlamentar
 - Veículo do Estado
 relationships:
 - type: amended_by
   target: pt:dre:123407852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518578:por
+  label: "Alterado o art. 17º pela RES.12/2007.08.03.2007.AR, DR.IS [56] de 20.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/12-2007-518578
+  date: '2007-03-08'
+- type: amended_by
+  target: pt:dre:482606:por
+  label: "Alterado o art. 7º, aditado um art. 15º-A e revogada a al. d) do nº 3 e nºs 4 e 5 do art. 7º, a partir de 01.12.2009,\
+    \ pela RES.101/2009.26.11.2009.AR, DR.IS [230] de 26.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/101-2009-482606
+  date: '2009-11-26'
+- type: amended_by
+  target: pt:dre:335199:por
+  label: "Alterados os art.s 1º, 3º e 15º-A ( o último na redacção da Res 101/2009, de 26-Nov, da AR) e aditados os art.s\
+    \ 15º-B e 15.º-C, a partir de 11.07.2010, pela RES.60/2010.06.07.2010.AR, DR.IS [129] de 06.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/60-2010-335199
+  date: '2010-07-06'
+- type: amended_by
+  target: pt:dre:145191:por
+  label: "Dada nova redacção, a partir de 01.01.2012, ao nº 4 do art. 15º-B (aditado pela Res 60/2010 de 06-Jul) do presente\
+    \ diploma, pela RES.164/2011.29.12.2011.AR, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/164-2011-145191
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:190272:por
+  label: "Alterado, a partir de 01.01.2013, o art. 17º do presente diploma, na redação da Res 12/2007, de 20-mar, pela RES.148/2012.27.12.2012.AR,\
+    \ DR.IS [250] de 27.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/148-2012-190272
+  date: '2012-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/4/2004/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/4/2004/01/09/p/dre
+- type: cites
+  target: pt:dre:241188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546431:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123407852:por
+  label: Revogada, no 1.º dia da XIV Legislatura (25.10.2019), a presente Resolução, na redação das Res 12/2007 de 20-mar
+    AR, 101/2009 de 26-nov AR, 60/2010 de 06-jul AR, 164/2011 de 29-dez AR e 148/2012 de 27-dez AR, pelo(a) Resolução da Assembleia
+    da República n.º 113/2019 - Diário da República n.º 139/2019, Série I de 2019-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/113-2019-123407852
+  date: '2019-07-23'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:58Z'
   warnings: []
   errors: []
 ---
@@ -279,4 +327,4 @@ Os casos omissos são decididos por despacho do Presidente da Assembleia da Rep�
 
 Aprovada em 8 de Julho de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.

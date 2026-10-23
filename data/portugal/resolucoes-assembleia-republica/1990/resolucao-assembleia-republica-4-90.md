@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1990-335410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:55:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c764d4e598deb0ca9c09bcf6abd7bfbdb5ba57a8a63023f6a58229e8b0427c6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44c6a969de722f508a93d912eb767f162b6b76d828b71c84a577e9ba514553f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adopção
+- Convenção
+- Criança
+- Estrasburgo
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:332905:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332905:por
+  label: "Ratificada pelo DEC.7/90.1990.02.20.PR, DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/7-1990-332905
+  date: '1990-02-20'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:55:04Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +112,7 @@ b) Portugal não se considera vinculado pelo disposto no n.º 5 do artigo 10.º
 
 Aprovada em 20 de Dezembro de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 Préambule
 
@@ -456,7 +466,7 @@ Considerando que a aceitação de princípios e práticas comuns referentes à a
 
 acordaram no seguinte:
 
-# PARTE I — Compromissos e campo de aplicação
+## PARTE I — Compromissos e campo de aplicação
 
 ###### ARTIGO 1.º
 
@@ -470,7 +480,7 @@ Cada Parte Contratante compromete-se a tomar em consideração as disposições 
 
 A presente Convenção só é aplicável à adopção de um menor que, no momento do pedido de adopção, não tenha atingido a idade de 18 anos, não seja ou não tenha sido casado e não seja considerado maior.
 
-# PARTE II — Disposições essenciais
+## PARTE II — Disposições essenciais
 
 ###### ARTIGO 4.º
 
@@ -610,7 +620,7 @@ Serão tomadas medidas no sentido de proibir todo e qualquer lucro injustificado
 
 Cada uma das Partes Contratantes conserva a faculdade de adoptar disposições mais favoráveis para o menor adoptado.
 
-# PARTE III — Disposições suplementares
+## PARTE III — Disposições suplementares
 
 ###### ARTIGO 17.º
 
@@ -634,7 +644,7 @@ Os aspectos sociais e jurídicos da adopção devem constar dos programas de for
 
 4 - Os registos públicos devem ser conservados, ou pelo menos os seus conteúdos reproduzidos, de forma a que as pessoas que não têm um interesse legítimo não possam tomar conhecimento do facto de uma pessoa ter sido adoptada ou, se esse facto for conhecido, da identidade dos seus pais naturais.
 
-# PARTE IV — Cláusulas finais
+## PARTE IV — Cláusulas finais
 
 ###### ARTIGO 21.º
 
@@ -690,7 +700,7 @@ As Partes Contratantes devem comunicar ao secretário-geral do Conselho da Europ
 
 ###### ARTIGO 28.º
 
-**O secretário-geral do Conselho da Europa notificará aos Estados membros do Conselho e a todos os Estados que tiverem aderido à presente Convenção:**
+O secretário-geral do Conselho da Europa notificará aos Estados membros do Conselho e a todos os Estados que tiverem aderido à presente Convenção:
 
 a) Qualquer assinatura;
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/49/1994/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-1994-225577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 605b58f6eef9dc53ef3eaaa271f336bb766080cd6ac13424ab2ca822be7e383e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47673bb65664a96d4b0965bb344614d7b9e4ca9777beb861301bba49c1d2fc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,40 @@ reuse:
 subjects:
 - Ajuda Judicial
 - Convenção
-- Cooperação Jurídica
-- Portugal
-- Estrasburgo
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Direito Penal
+- Estrasburgo
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:108028570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225581:por
+  label: "Ratificado o Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aprovada para\
+    \ ratificação pela Res 39/94 de 14-Jul, tendo sido o citado Protocolo aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.64/94.12.08.1994.PR, DR.IS-A [[186]] de 12.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/64-1994-225581
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:108028570:por
+  label: Substituídas, a partir de 22.08.2017, as disposições correspondentes da Convenção Europeia de Auxílio Judiciário
+    Mútuo em Matéria Penal aprovada pela Res 39/94 de 14-jul AR, e do seu Protocolo Adicional aprovado pela presente Resolução,
+    pelo(a) Lei n.º 88/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21 nos termos do seu art. 48.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/88-2017-108028570
+  date: '2017-08-21'
 article_structure:
-  article_count: 8
+  article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:43Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +113,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 17 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLE ADDITIONNEL À LA CONVENTION EUROPÉENNE D'ENTRAIDE JUDICIAIRE EN MATIÈRE PÉNALE.
 
@@ -277,7 +291,9 @@ Considerando igualmente desejável tornar a Convenção extensiva a outros domí
 
 acordaram no seguinte:
 
-## TÍTULO I — Artigo 1.º
+## TÍTULO I
+
+###### Artigo 1.º
 
 As Partes Contratantes não exercem o direito, previsto no artigo 2.º, alínea a), da Convenção, de recusar o auxílio judiciário com fundamento apenas em que o pedido diz respeito a uma infracção que a Parte requerida considera como infracção fiscal.
 
@@ -287,7 +303,9 @@ As Partes Contratantes não exercem o direito, previsto no artigo 2.º, alínea 
 
 2 - O pedido não pode ser recusado pelo facto de a legislação da Parte requerida não impor o mesmo tipo de taxas ou impostos, ou não conter o mesmo tipo de regulamentação em matéria de taxas e impostos, de alfândega e de câmbios, que a legislação da Parte requerente.
 
-## TÍTULO II — Artigo 3.º
+## TÍTULO II
+
+###### Artigo 3.º
 
 A Convenção aplica-se igualmente:
 
@@ -295,13 +313,17 @@ a) À notificação de actos relativos à execução de uma pena, cobrança de u
 
 b) Às medidas relativas à suspensão da imposição de uma pena ou da sua execução, à liberdade condicional, ao diferimento do início da execução da pena ou à interrupção da sua execução.
 
-## TÍTULO III — Artigo 4.º
+## TÍTULO III
+
+###### Artigo 4.º
 
 O artigo 22.º da Convenção é completado pelo texto seguinte, passando o texto original do artigo 22.º a constituir o n.º 1 e as disposições seguintes o n.º 2:
 
 2 - Por outro lado, qualquer Parte Contratante que tenha prestado as informações acima mencionadas comunica à Parte interessada, a pedido desta e em casos particulares, cópia das sentenças e medidas em questão, bem como qualquer outra informação relevante para o efeito, a fim de lhe permitir considerar se as mesmas requerem medidas a nível interno. Esta comunicação efectua-se entre os Ministérios da Justiça interessados.
 
-## TÍTULO IV — Artigo 5.º
+## TÍTULO IV
+
+###### Artigo 5.º
 
 1 - O presente Protocolo está aberto à assinatura dos Estados membros do Conselho da Europa que tenham assinado a Convenção. É submetido a ratificação, aceitação ou aprovação. Os instrumentos de ratificação, aceitação ou aprovação são depositados junto do Secretário-Geral do Conselho da Europa.
 
@@ -361,7 +383,7 @@ O Comité Europeu para os Problemas Criminais do Conselho da Europa é informado
 
 ###### Artigo 12.º
 
-**O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:**
+O Secretário-Geral do Conselho da Europa notifica os Estados membros do Conselho e qualquer Estado que tenha aderido à Convenção de:
 
 a) Qualquer assinatura do presente Protocolo;
 

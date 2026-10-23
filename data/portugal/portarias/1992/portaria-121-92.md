@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/048b00/10991106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/121/1992/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-1992-165057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443d5748233ce910e7d829fe151bc128ef53e0c35236cfff043ec78bb1abe3c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a858b5bf4523c6b39f127d78c60a6381f4b2037eb149f3bbef66b9a7ad336ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
+- Abate de Animais
 - Circulação de GADO
 - Controlo Sanitário
-- Abate de Animais
-- Regulamento
+- Doença Animal
 - Pecuária
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:433825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantida em vigor pelo DEC LEI.245/96.1996.12.20.MADRP DR.IS-A [294], até à data da entrada em vigor da portaria\
+    \ correspondente, prevista no art 26º. do mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/67/1991/02/08/p/dre
   label: null
@@ -96,16 +102,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/427/1991/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/427/1991/05/24/p/dre
+- type: cites
+  target: pt:dre:288645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644360:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647961:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 28/92, PUBLICADA NO DR.IS-A, 76, 2 SUPL, DE 920331.\020331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-1992-647961
+- type: repealed_by
+  target: pt:dre:433825:por
+  label: "Revogada pelo DEC LEI.338/99.1999.08.24.MADRP DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1999-433825
+  date: '1999-08-24'
 article_structure:
   article_count: 19
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:11:27Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +181,11 @@ Manda o Governo, pelos Ministros da Justiça e da Agricultura, ao abrigo das al�
 
 Ministérios da Justiça e da Agricultura.
 
-**Assinada em 30 de Janeiro de 1992.**
+Assinada em 30 de Janeiro de 1992.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 121/92
+Anexo a que se refere o n.º 1.º da Portaria n.º 121/92
 
 Regulamento de Identificação Animal e Medidas Sanitárias e Profiláticas
 
@@ -340,4 +391,4 @@ Os animais destinados a abate sanitário ou compulsivo são obrigatoriamente mar
 
 Em condições excepcionais, nomeadamente em caso de surto de qualquer epizootia, a autoridade sanitária nacional (Direcção-Geral da Pecuária) pode determinar outras medidas de condicionamento e de polícia sanitária, adequadas a impedir a dispersão da doença, das quais deve ser dado, pelos meios habituais, conhecimento aos criadores da área afectada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/048b00/10991106.pdf))](https://files.diariodarepublica.pt/1s/1992/02/048b00/10991106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/048b00/10991106.pdf)

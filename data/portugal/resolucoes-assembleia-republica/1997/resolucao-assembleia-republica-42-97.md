@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/42/1997/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/42-1997-164631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a514c7da9e060f652f037149adfef0e979647e1abfb95b3bb37f1b7dbeef966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d006dcd1e98a4ffeea0230dc7097fd5d62ba87d0646614723d2df779ab93bd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
 - Convenção
-- Portugal
-- Lisboa
+- Croácia
 - Investimento
 - Investimento Estrangeiro
 - Investimento no Estrangeiro
-- Croácia
+- Lisboa
+- Portugal
+- Protecção do Investimento
 relationships: []
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:28Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +97,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 20 de Março de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA CROÁCIA SOBRE A PROMOÇÃO E A PROTECÇÃO RECÍPROCA DE INVESTIMENTOS.
 
@@ -255,11 +255,11 @@ Feito no dia 10 do mês de Maio do ano de 1995, em dois originais, português, c
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 PROTOCOLO
 
@@ -279,11 +279,11 @@ Feito em Lisboa no dia 10 do mês de Maio do ano de 1995, em dois originais, por
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 Pela República da Croácia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
@@ -469,11 +469,11 @@ Done in Lisbon this 10 day of May 1995 in two originals in Portuguese, Croatian 
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 PROTOCOL
 
@@ -493,8 +493,8 @@ Done in Lisbon this 10 day of May 1995 in two originals in the Portuguese, Croat
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
 
 For the Republic of Croatia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf))](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/140a00/30263036.pdf)

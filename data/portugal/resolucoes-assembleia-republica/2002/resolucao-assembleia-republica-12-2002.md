@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/12/2002/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2002-279838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02ed2ceef3e140ae2d82125980828d8e122f08a9f04a83944bd0967ee47fe3ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c28a04b1d32660eadbd7fddead989d7c102c9b5ffa602a207b7cc785808d3f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
+- Banco Interamericano de Desenvolvimento
 - Convenção
 - Corporação Interamericana de Investimentos
-- Banco Interamericano de Desenvolvimento
 - Portugal
-- ACTO Constitutivo
 - Washington
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:279836:por
+  label: "Ratificado o Convénio pelo DEC.11/2002.2002.02.25.PR DR.IS-A [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2002-279836
+  date: '2002-02-25'
 article_structure:
   article_count: 0
   section_count: 54
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:26Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +99,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 AGREEMENT ESTABLISHING THE INTER-AMERICAN INVESTMENT CORPORATION
 
@@ -762,15 +767,13 @@ Subscriptions of the shares in the Corporation's authorized capital stock
 
 (shares of US$10,000 each)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)
 
 CONVÉNIO CONSTITUTIVO DA CORPORAÇÃO INTERAMERICANA DE INVESTIMENTOS
 
 Os países em cuja representação é assinado o presente Convénio acordam em criar a Corporação Interamericana de Investimentos, que se regerá pelas disposições seguintes:
 
-ARTIGO I
-
-Objecto e funções
+###### ARTIGO I — Objecto e funções
 
 #### Secção 1 — Objecto
 
@@ -796,9 +799,7 @@ e) Prestar cooperação técnica para a preparação, o financiamento e a execu�
 
 Nas actividades da Corporação serão observadas as políticas operacionais, financeiras e de investimento detalhadas no regulamento aprovado pela directoria executiva da Corporação, o qual poderá ser pela mesma modificado.
 
-ARTIGO II
-
-Membros e capital
+###### ARTIGO II — Membros e capital
 
 #### Secção 1 — Membros
 
@@ -860,9 +861,7 @@ Nos casos de aumento de capital consoante as alíneas c) e d) da secção 2 do p
 
 A responsabilidade dos membros em relação às acções respectivamente subscritas ficará limitada à parcela não realizada do seu preço de emissão. A condição de membro não implicará, por si só, qualquer responsabilidade para com as obrigações da Corporação.
 
-ARTIGO III
-
-Operações
+###### ARTIGO III — Operações
 
 #### Secção 1 — Modalidades operacionais
 
@@ -956,9 +955,7 @@ f) Exercer todas as demais funções inerentes aos propósitos da instituição 
 
 Será vedada à Corporação e aos seus funcionários a intervenção nos assuntos políticos de qualquer membro, e a índole política do membro ou membros não exercerá influência sobre as suas decisões. Na tomada das suas decisões, a Corporação levará em conta tão-somente considerações de ordem economómica, as quais serão ponderadas imparcialmente para os fins de obtenção dos objectivos estabelecidos no presente Convénio.
 
-ARTIGO IV
-
-Organização e administração
+###### ARTIGO IV — Organização e administração
 
 #### Secção 1 — Estrutura da Corporação
 
@@ -1108,9 +1105,7 @@ b) Os dividendos serão distribuídos proporcionalmente ao capital realizado de 
 
 c) Os dividendos serão pagos na forma e na moeda ou moedas que a Corporação vier a determinar.
 
-ARTIGO V
-
-Retirada e suspensão de membros
+###### ARTIGO V — Retirada e suspensão de membros
 
 #### Secção 1 — Direito de retirada
 
@@ -1136,9 +1131,7 @@ c) O pagamento das acções será efectuado mediante a entrega dos correspondent
 
 d) Antes de haver decorrido um mês desde a data em que o país tenha deixado de pertencer à instituição não poderá ser pago qualquer montante que, nos termos da presente secção, seja devido a esse ex-membro pela aquisição das suas acções. Se, dentro desse período, a Corporação terminar as suas operações, os direitos desse membro serão regulados pelas disposições do artigo VI e o membro continuará a ser considerado como tal para os efeitos do citado artigo, embora sem direito de voto.
 
-ARTIGO VI
-
-Suspensão e término de operações
+###### ARTIGO VI — Suspensão e término de operações
 
 #### Secção 1 — Suspensão de operações
 
@@ -1164,9 +1157,7 @@ b) Qualquer distribuição do activo entre os membros será efectuada em propor�
 
 c) Qualquer membro que receba activos distribuídos de acordo com o presente artigo gozará, em relação aos mesmos, dos direitos que correspondiam à Corporação sobre tais activos antes de ser efectuada a distribuição.
 
-ARTIGO VII
-
-Personalidade jurídica, imunidades, isenções e privilégios
+###### ARTIGO VII — Personalidade jurídica, imunidades, isenções e privilégios
 
 #### Secção 1 — Alcance
 
@@ -1240,9 +1231,7 @@ Os países membros adoptarão as medidas necessárias, de acordo com o seu regim
 
 À sua discrição, poderá a Corporação renunciar a quaisquer privilégios ou imunidades conferidas nos termos do presente artigo, na medida e sob as condições que vier a determinar.
 
-ARTIGO VIII
-
-Modificações
+###### ARTIGO VIII — Modificações
 
 #### Secção 1 — Modificações
 
@@ -1258,9 +1247,7 @@ iii) A limitação de responsabilidades prevista no artigo II, secção 6.
 
 c) Qualquer proposta de emenda a este Convénio, apresentada por um país membro ou pela directoria executiva, será comunicada ao presidente da assembleia de governadores, o qual a submeterá à consideração da assembleia. Quando uma emenda for aprovada, será a mesma levada oficialmente pela Corporação ao conhecimento de todos os países membros. Salvo se a assembleia de governadores decidir fixar prazo diferente, as emendas entrarão em vigor, para todos os membros, três meses depois da data de comunicação oficial.
 
-ARTIGO IX
-
-Interpretação e arbitragem
+###### ARTIGO IX — Interpretação e arbitragem
 
 #### Secção 1 — Interpretação
 
@@ -1272,9 +1259,7 @@ b) Qualquer membro poderá exigir que as divergências sobre que decida a direct
 
 Surgindo alguma divergência entre a Corporação e um membro que tenha deixado de o ser, ou entre a Corporação e um membro depois que se tenha decidido terminar as operações da instituição, tal controvérsia será submetida à arbitragem de um tribunal composto de três árbitros. Um dos árbitros será designado pela Corporação, outro pelo membro interessado e o terceiro, salvo acordo em contrário entre as partes, pelo presidente do Tribunal Internacional de Justiça. Caso fracassem todos os esforços para se obter um acordo unânime, as decisões do Tribunal serão tomadas por maioria. O terceiro árbitro poderá decidir todas as questões de procedimento nos casos em que os árbitros não estejam em acordo sobre a matéria.
 
-ARTIGO X
-
-Disposições gerais
+###### ARTIGO X — Disposições gerais
 
 #### Secção 1 — Sede da Corporação
 
@@ -1288,9 +1273,7 @@ Poderá a Corporação celebrar acordos com outras organizações para fins comp
 
 Cada membro designará uma entidade oficial para manter ligação com a Corporação sobre matérias relacionadas com o presente Convénio.
 
-ARTIGO XI
-
-Disposições finais
+###### ARTIGO XI — Disposições finais
 
 #### Secção 1 — Assinatura e aceitação
 
@@ -1312,10 +1295,10 @@ b) Os países que tenham depositado os seus instrumentos de aceitação ou ratif
 
 #### Secção 3 — Início das operações
 
-**O presidente convocará a primeira reunião da assembleia de governadores logo que este Convénio entre em vigor, em conformidade com a secção 2 deste artigo. A Corporação iniciará as suas operações na data em que essa reunião for celebrada.**
+O presidente convocará a primeira reunião da assembleia de governadores logo que este Convénio entre em vigor, em conformidade com a secção 2 deste artigo. A Corporação iniciará as suas operações na data em que essa reunião for celebrada.
 
 Feito na cidade de Washington, distrito de Columbia, Estados Unidos da América, num só original, datado de 19 de Novembro de 1984, cujos textos em português, inglês, francês e espanhol são igualmente autênticos e deverão permanecer depositados nos arquivos do Banco Interamericano de Desenvolvimento, o qual, com a assinatura que consta abaixo, indicou concordar em servir como depositário do Convénio e em notificar a data em que o mesmo entre em vigor, consoante a secção 2 do artigo XI, a todos os Governos dos países cujos nomes aparecerem no anexo A.
 
 ## ANEXO A — Subscrições de acções do capital autorizado da Corporação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)](https://files.diariodarepublica.pt/1s/2002/02/047a00/15961617.pdf)

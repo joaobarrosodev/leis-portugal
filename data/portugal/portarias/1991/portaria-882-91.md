@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/882/1991/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/882-1991-403917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07fa4f5c19d8fb55b7058f3f8b024e2f75edc4e7f8fe44b450f371e018c7de8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc8f843f78898adf3bf0f4e28c09053d42a01f9a2ba69d8ba8ace224ac87ff03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Alimentação Humana
 - Aditivo Alimentar
+- Alimentação Humana
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:376417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376417:por
+  label: Revogada pela PORT.646/93.06.07.1993.MA, DR.IS-B [156] de 06.07.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1993-376417
+  date: '1993-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:03:22Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +122,10 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação, da Saú
 
 Ministérios da Agricultura, Pescas e Alimentação, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 13 de Agosto de 1991.**
+Assinada em 13 de Agosto de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf))](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf))](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/197b00/44514453.pdf)

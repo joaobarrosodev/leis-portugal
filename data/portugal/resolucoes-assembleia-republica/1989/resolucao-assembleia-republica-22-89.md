@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-1989-618746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cbc3ddd0741b6d8955b82c5c01eacd49a6642d8b3441aa10c229f7c93335322
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8333b468c65c85350708b6e5692cdf685477cefc3ab455cdaab6a724afaa0ae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Europa
+- Florença
+- Instituto Universitário Europeu
+- Património Cultural
+- Portugal
+- Privilegios e Imunidades
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RENOVADA A CONCESSAO DA ZONA DE CAÇA ATRIBUIDA PELO PRESENTE DIPLOMA, PELA PORT 254-GQ/96 DE 15-JUL DR.IS-B [162]5SUPL\0\
+    .IS-B [162]5SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-15'
 article_structure:
-  article_count: 61
+  article_count: 59
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:11Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +105,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 9 de Maio de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 CONVENÇÃO RELATIVA À CRIAÇÃO DE UM INSTITUTO UNIVERSITÁRIO EUROPEU
 
@@ -112,15 +125,15 @@ Sua Majestade o Rei dos Belgas:
 
 Sr. Léon Hurez, Ministro da Educação Nacional (F);
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Sr. Rolf Lahr, embaixador da República Federal da Alemanha em Roma;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Sr. Jacques Duhamel, Ministro dos Assuntos Culturais;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Sr. Aldo Moro, Ministro dos Negócios Estrangeiros;
 
@@ -460,7 +473,7 @@ A revisão efectua-se sobre documentos e, se necessário, in loco; tem por fim a
 
 Os revisores submetem anualmente ao conselho superior um relatório sobre os resultados do seu exame.
 
-**O presidente fornece todas as informações e toda a assistência de que os revisores possam ter necessidade no exercício das suas funções.**
+O presidente fornece todas as informações e toda a assistência de que os revisores possam ter necessidade no exercício das suas funções.
 
 2 - As disposições regulamentares financeiras determinam as condições em que o presidente é desobrigado da responsabilidade da execução do orçamento.
 
@@ -702,7 +715,7 @@ As instituições das Comunidades Europeias, no que diz respeito ao representant
 
 O conselho superior do Instituto, no que diz respeito ao presidente e ao secretário-geral;
 
-**O presidente do Instituto, no que diz respeito aos membros do corpo docente e ao pessoal do Instituto.**
+O presidente do Instituto, no que diz respeito aos membros do corpo docente e ao pessoal do Instituto.
 
 ###### Artigo 15.º
 
@@ -948,7 +961,7 @@ N.º 1 do artigo 27.º:
 
 As línguas oficiais do Instituto são o dinamarquês, o alemão, o inglês, o francês, o italiano e o neerlandês.
 
-###### Artigo 35.º - Fazer preceder do algarismo 1 o primeiro parágrafo. Acrescentar os n.os 2 e 3 seguintes:
+Artigo 35.º - Fazer preceder do algarismo 1 o primeiro parágrafo. Acrescentar os n.os 2 e 3 seguintes:
 
 2 - Por derrogação ao n.º 1 do presente artigo e no que diz respeito ao Reino Unido da Grã-Bretanha e da Irlanda do Norte, a presente Convenção não se aplica às bases do Reino Unido da Grã-Bretanha e da Irlanda do Norte em Chipre; também não se aplica às ilhas anglo-normandas e à ilha de Man, salvo se o Governo do Reino Unido declarar, no acto de adesão à presente Convenção ou numa data posterior, que a presente Convenção se aplica também a um ou a vários desses territórios.
 
@@ -960,7 +973,7 @@ As línguas oficiais do Instituto são o dinamarquês, o alemão, o inglês, o f
 
 (nota 3) Texto idêntico ao do n.º 3 do artigo 26.º do acto de adesão; este texto assegura, portanto, o paralelismo entre os procedimentos previstos pelos dois instrumentos jurídicos.
 
-###### Artigo 38.º - Acrescentar o texto seguinte:
+Artigo 38.º - Acrescentar o texto seguinte:
 
 Os textos da Convenção redigidos nas línguas inglesa, dinamarquesa e irlandesa, tal como figuram em anexo à decisão do conselho superior determinando as modificações julgadas necessárias à adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte, farão igual fé, segundo as condições determinadas pelos textos originais da Convenção acima mencionada. O Governo Italiano remeterá uma cópia autenticada deste texto a cada um dos outros Estados Contratantes.
 
@@ -976,7 +989,7 @@ A presente decisão é redigida em língua dinamarquesa, em língua alemã, em l
 
 ###### ARTIGO 4.º
 
-**O presidente do conselho superior notifica a presente decisão a cada um dos governos dos Estados Contratantes e dos Estados que depositaram um instrumento de adesão de acordo com o artigo 32.º**
+O presidente do conselho superior notifica a presente decisão a cada um dos governos dos Estados Contratantes e dos Estados que depositaram um instrumento de adesão de acordo com o artigo 32.º
 
 Feito em Florença em 20 de Março de 1975.
 
@@ -1074,7 +1087,7 @@ A presente decisão é redigida nas línguas alemã, inglesa, dinamarquesa, fran
 
 ###### ARTIGO 4.º
 
-**O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.**
+O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.
 
 Feito em Florença em 21 de Novembro de 1986.
 
@@ -1180,7 +1193,7 @@ A presente decisão é redigida nas línguas alemã, inglesa, dinamarquesa, espa
 
 ###### ARTIGO 4.º
 
-**O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.**
+O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.
 
 Feito em Florença em 5 de Junho de 1987.
 
@@ -1214,7 +1227,7 @@ A presente decisão é redigida nas línguas alemã, inglesa, dinamarquesa, espa
 
 ###### ARTIGO 3.º
 
-**O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.**
+O presidente do conselho superior notifica a presente decisão ao governo de cada um dos Estados Contratantes.
 
 Feito em Florença em 3 de Dezembro de 1987.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/38/1995/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/38-1995-663527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf9386a011f1dd0142d010c22d7cd61f6c69abbf1a1c2a4508fcd78a582e897c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5332660558dfb1161a16da0549676c2a3dd9887b620c6d6270bd6232e3df9414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Base das Lajes
-- EUA
 - Cidadão Nacional
 - Convenção
+- Cooperação Militar
 - Cooperação Técnica
+- Emprego
+- EUA
+- Lisboa
 - Portugal
 - Regime Laboral
-- Lisboa
-- Emprego
-- Açores
-- Cooperação Militar
 relationships:
 - type: amended_by
   target: pt:dre:335446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621486:por
+  label: "As referências ao comandante da Base Aérea 4, Lajes, passam a ser entendidas como feitas ao comandante da Zona Aérea\
+    \ dos Açores, pelo AV.1/96.02.01.1996.MNE, DR.IS-A [1] de 02.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1-1996-621486
+  date: '1996-01-02'
+- type: amended_by
+  target: pt:dre:335446:por
+  label: "Aprovado o Acordo Que Modifica o Acordo Laboral Integrado no Acordo de Cooperação e Defesa entre a República Portuguesa\
+    \ e os Estados Unidos da América, [alterando a redacção dos n.ºs 1 e 2 do art. 4.º] do Acordo Laboral, aprovado pelo presente\
+    \ diploma, pela RES.54/2010.09.06.2010.AR, DR.IS [111] de 09.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/54-2010-335446
+  date: '2010-06-09'
 article_structure:
-  article_count: 18
+  article_count: 105
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:17Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +117,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 21 de Junho de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO DE COOPERAÇÃO E DEFESA ENTRE PORTUGAL E OS ESTADOS UNIDOS DA AMÉRICA
 
@@ -128,23 +141,17 @@ Convictos de que a sua cooperação deverá ser tão diversificada quanto possí
 
 acordam no seguinte:
 
-Artigo I
-
-Âmbito
+###### Artigo I — Âmbito
 
 Portugal e os Estados Unidos da América (a seguir designados por as Partes) decidem, no espírito de amizade que os une e no respeito pela soberania dos dois Estados, aprofundar o diálogo e a cooperação bilaterais, guiados pelos princípios e a fim de alcançar os objectivos consagrados no preâmbulo do presente Acordo.
 
-Artigo II
-
-Consultas políticas e político-militares
+###### Artigo II — Consultas políticas e político-militares
 
 1 - As Partes concordam em efectuar conversações anuais a alto nível, incluindo, sempre que acordado pelas Partes, ao nível do Ministro dos Negócios Estrangeiros e do Secretário de Estado, sobre as relações bilaterais e temas da actualidade internacional de interesse mútuo.
 
 2 - As Partes manterão igualmente consultas anuais a nível de altos funcionários dos departamentos governamentais envolvidos em questões de índole político-militar.
 
-Artigo III
-
-Comissão bilateral permanente
+###### Artigo III — Comissão bilateral permanente
 
 1 - As Partes decidem criar uma comissão bilateral permanente (adiante designada por Comissão), com vista à promoção da execução do presente Acordo e da cooperação entre os seus dois países, de acordo com as disposições legais aplicáveis das duas Partes.
 
@@ -160,17 +167,13 @@ Comissão bilateral permanente
 
 7 - A Comissão poderá estabelecer órgãos subsidiários sempre que o entender apropriado. O chefe de cada delegação designará o representante de cada Parte no subgrupo; estes representantes não serão necessariamente membros da Comissão.
 
-Artigo IV
-
-Instalações em território português
+###### Artigo IV — Instalações em território português
 
 1 - Sem prejuízo da plena soberania sobre o seu território, mar territorial e espaço aéreo, Portugal concede aos Estados Unidos da América, nos termos do Acordo Técnico das Lajes, que é parte integrante do presente Acordo, a autorização para a utilização e manutenção das instalações necessárias à condução de operações militares, bem como para o trânsito de aviões militares dos Estados Unidos da América pela Base das Lajes.
 
 2 - Os termos da contratação de cidadãos portugueses pelas Forças dos Estados Unidos da América estacionadas na Região Autónoma dos Açores são regulados pelo Acordo Laboral, que é parte integrante do presente Acordo.
 
-Artigo V
-
-Cooperação militar
+###### Artigo V — Cooperação militar
 
 1 - As Partes reconhecem que uma forte cooperação militar contribuirá para o reforço das suas capacidades colectivas e individuais, para a segurança e integridade dos respectivos territórios e para a paz e estabilidade internacionais.
 
@@ -180,9 +183,7 @@ Cooperação militar
 
 4 - O apoio referido no parágrafo anterior concretizar-se-á através da transferência de equipamento militar, através do estabelecimento de programas de instrução e treino conjunto, bem como através de outras modalidades a serem definidas no quadro da Comissão.
 
-Artigo VI
-
-Cooperação com a Região Autónoma dos Açores
+###### Artigo VI — Cooperação com a Região Autónoma dos Açores
 
 1 - As Partes reconhecem que o reforço do seu desenvolvimento económico e social, com especial relevo para o da Região Autónoma dos Açores, contribui para melhor alcançar os objectivos deste Acordo.
 
@@ -190,9 +191,7 @@ Cooperação com a Região Autónoma dos Açores
 
 3 - Estes programas e actividades poderão abranger, entre outras, as áreas técnica, científica, educacional, cultural e comercial e utilizarão formas de intercâmbio variadas, com vista à promoção dos respectivos objectivos.
 
-Artigo VII
-
-Outras áreas de cooperação
+###### Artigo VII — Outras áreas de cooperação
 
 1 - A Comissão poderá desenvolver outros programas de cooperação para o reforço das relações entre as Partes. Sem prejuízo de outras áreas de incidência, tais programas cobrirão:
 
@@ -204,29 +203,21 @@ O incremento das relações económicas e comerciais bilaterais.
 
 2 - Todos os programas de cooperação desenvolvidos pela Comissão terão em conta outros programas relevantes.
 
-Artigo VIII
-
-Interpretação do Acordo
+###### Artigo VIII — Interpretação do Acordo
 
 Qualquer das Partes poderá submeter à apreciação da Comissão quaisquer questões relativas à execução e interpretação do presente Acordo. A Comissão apreciará tais questões e procurará resolvê-las à luz dos princípios da cooperação e boa fé.
 
-Artigo IX
-
-Revisão
+###### Artigo IX — Revisão
 
 Qualquer das Partes poderá propor a revisão do presente Acordo. Quaisquer revisões acordadas pelas Partes entrarão em vigor após a notificação por ambas as Partes da conclusão dos respectivos procedimentos constitucionalmente exigidos.
 
-Artigo X
-
-Entrada em vigor e prazo de vigência
+###### Artigo X — Entrada em vigor e prazo de vigência
 
 1 - O Acordo entrará em vigor após a notificação por ambas as Partes da conclusão dos respectivos procedimentos constitucionalmente exigidos e permanecerá em vigor por um prazo de cinco anos, após o qual continuará a vigorar por prazos sucessivos de um ano, a menos que uma das Partes notifique a outra por escrito, 12 meses antes da data em que o Acordo expira, da sua intenção de o dar por findo.
 
 2 - O Governo dos Estados Unidos da América disporá de um prazo de 12 meses após o termo da vigência deste Acordo para proceder à retirada do seu pessoal, equipamento e materiais que se encontrem em território português em virtude do presente Acordo. Os termos e as condições deste Acordo aplicar-se-ão durante o período da retirada.
 
-Artigo XI
-
-Norma revogatória
+###### Artigo XI — Norma revogatória
 
 À data da sua entrada em vigor, o presente Acordo revogará:
 
@@ -482,9 +473,7 @@ Warren Christopher, Secretário de Estado.
 
 Acordo Técnico
 
-Artigo I
-
-Instalações em território português
+###### Artigo I — Instalações em território português
 
 1 - Sem prejuízo da plena soberania e do controlo sobre o seu território, mar territorial e espaço aéreo, Portugal concede ao Estados Unidos da América a autorização para:
 
@@ -506,17 +495,13 @@ b) O trânsito de aviões militares dos Estados Unidos da América pela Base Aé
 
 8 - Os Estados Unidos da América podem armazenar e manter munições e explosivos convencionais nas instalações especificamente indicadas para esse efeito. Os critérios de segurança a adoptar serão pelo menos tão rigorosos como os das Forças Armadas Portuguesas. O comandante das Forças dos Estados Unidos da América nos Açores (daqui em diante designadas por Forças dos Estados Unidos) manterá o comandante da Base Aérea n.º 4 (Lajes) informado do tipo e quantidade de munições e explosivos em depósito.
 
-Artigo II
-
-Símbolos de soberania
+###### Artigo II — Símbolos de soberania
 
 1 - As Forças dos Estados Unidos estão autorizadas, a título de cortesia, a hastear a bandeira dos Estados Unidos da América ao lado da bandeira de Portugal, em frente do edifício do seu comando.
 
 2 - As honras militares que tenham lugar ao ar livre são prestadas pelas Forças Armadas Portuguesas. Podem, no entanto, ser prestadas por forças conjuntas ou, em casos especiais, por forças dos Estados Unidos, quando ambos os comandantes o considerem adequado.
 
-Artigo III
-
-Comando e relações funcionais
+###### Artigo III — Comando e relações funcionais
 
 1 - A Base Aérea n.º 4 (Lajes) e as suas instalações de apoio são de comando das Forças Armadas Portuguesas, o qual será exercido pelo comandante da Base Aérea n.º 4 ou por um seu subordinado especificamente nomeado.
 
@@ -540,17 +525,13 @@ Comando e relações funcionais
 
 11 - As relações entre o comando das Forças dos Estados Unidos e as autoridades portuguesas serão estabelecidas através do comando da Base Aérea n.º 4 (Lajes), com excepção do disposto no anexo H. Os comandantes podem ainda adoptar procedimentos para o tratamento de questões locais específicas.
 
-Artigo IV
-
-Estatuto das Forças
+###### Artigo IV — Estatuto das Forças
 
 1 - O Estatuto das Forças dos Estados Unidos, assim como o dos membros dessas Forças, dos membros do elemento civil e das pessoas a cargo, é regulado por este Acordo e seus anexos, nomeadamente H, I e J, e, a título excepcional, pelo disposto na Convenção entre os Estados Partes no Tratado do Atlântico Norte Relativa ao Estatuto das Suas Forças, de 19 de Junho de 1951, daqui em diante referido como NATO SOFA.
 
 2 - Estas Forças, os seus membros, os membros do elemento civil e as pessoas a cargo respeitarão a lei portuguesa e abster-se-ão de qualquer actividade contrária ao espírito das disposições constantes deste Acordo. É dever dos Estados Unidos da América tomar as medidas necessárias para esse efeito.
 
-Artigo V
-
-Responsabilidade pela construção, manutenção, respectivos custos e processo
+###### Artigo V — Responsabilidade pela construção, manutenção, respectivos custos e processo
 
 1 - Os Estados Unidos da América são responsáveis pela construção, equipamento e manutenção das instalações de uso exclusivo das Forças dos Estados Unidos.
 
@@ -590,9 +571,7 @@ b) Os custos relacionados com os n.os 2, 3, 4 e 5 serão compartilhados por mút
 
 17 - Os Estados Unidos da América exigirão que os contratantes e subcontratantes ao serviço das Forças dos Estados Unidos façam um seguro válido em Portugal e numa companhia de seguros com representação em Portugal para cobrir danos pessoais ou materiais que possam ocorrer em território português como resultado de acto ou omissão cometido em serviço pelos seus empregados.
 
-Artigo VI
-
-Direitos de propriedade
+###### Artigo VI — Direitos de propriedade
 
 1 - Todas as edificações, estruturas e montagens ligadas ao solo, incluindo as respectivas redes eléctricas e telefónicas, canalizações de qualquer natureza e sistemas sanitários e de aquecimento, são propriedade de Portugal, desde o completamento da sua construção, ainda que sejam utilizados inteiramente pelas Forças dos Estados Unidos durante a vigência das disposições deste Acordo e segundo os seus termos. Ao terminar a vigência deste Acordo, estes bens serão deixados no seu lugar em condições de utilização, desde que isso não implique despesas adicionais para os Estados Unidos da América. Não será devida qualquer indemnização por Portugal.
 
@@ -604,23 +583,17 @@ Direitos de propriedade
 
 5 - Não será devida qualquer renda pela utilização das instalações concedidas.
 
-Artigo VII
-
-Instrumentos de execução
+###### Artigo VII — Instrumentos de execução
 
 O comandante da Base Aérea n.º 4 (Lajes) e o comandante das Forças dos Estados Unidos estabelecerão entre si, dentro do espírito de cooperação expresso neste Acordo, quaisquer disposições adicionais ou regulamentos internos necessários à execução deste Acordo e seus anexos. Tais disposições e regulamentos devem respeitar os termos do Acordo e ser estabelecidos por escrito.
 
-Artigo VIII
-
-Aquisições no mercado local
+###### Artigo VIII — Aquisições no mercado local
 
 1 - Na aquisição de bens e serviços, os Estados Unidos da América concordam em, obedecendo às suas leis e regulamentos, utilizar o mercado português, sempre que praticável, desde que esses bens ou serviços satisfaçam as normas e especificações dos Estados Unidos da América, estejam disponíveis no local e prazo desejados e sejam de custo igual ou inferior aos provenientes de outras origens, contando-se para efeitos de determinação do preço os custos relativos ao transporte dessas origens. Para esse efeito os Estados Unidos da América concordam em fornecer até Outubro de cada ano a lista de bens e serviços que se estimam sejam adquiridos, normas e especificações exigidas, quantidades previstas, prazos de entrega e respectivos preços correntes noutras origens, incluindo as suas variações previsíveis, bem como outros elementos necessários para as aquisições.
 
 2 - A pedido das Forças dos Estados Unidos, a Secretaria Regional da Economia do Governo Regional dos Açores fornecerá o apoio administrativo para a preparação e execução das aquisições em Portugal.
 
-Artigo IX
-
-Comissão técnica
+###### Artigo IX — Comissão técnica
 
 1 - Para facilitar a implementação deste Acordo será criada uma comissão técnica, cujo funcionamento será acordado entre as duas Partes.
 
@@ -632,15 +605,11 @@ Comissão técnica
 
 5 - As Partes estabelecerão procedimentos no que respeita à composição e funcionamento da comissão técnica no prazo de três meses após a data da assinatura deste Acordo.
 
-Artigo X
-
-Evacuação
+###### Artigo X — Evacuação
 
 Após o termo deste Acordo, os Estados Unidos da América disporão de um período de 12 meses para a completa evacuação do pessoal, equipamento e materiais existentes nas instalações concedidas em virtude deste Acordo. Os termos e condições deste Acordo aplicam-se durante o período da evacuação.
 
-Artigo XI
-
-Textos autênticos e entrada em vigor
+###### Artigo XI — Textos autênticos e entrada em vigor
 
 Este Acordo e os seus anexos A a J entrarão e permanecerão em vigor nos termos do artigo X do Acordo de Cooperação e Defesa.
 
@@ -656,9 +625,7 @@ Warren Chistopher, Secretário de Estado.
 
 ## ANEXO A — Instalações
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 1 - As instalações previstas neste Acordo são:
 
@@ -674,17 +641,13 @@ b) Instalações de uso comum - as instalações afectas à utilização conjunt
 
 3 - As instalações afectas à utilização das Forças dos Estados Unidos designam-se por instalações concedidas.
 
-Artigo II
-
-Registo das instalações
+###### Artigo II — Registo das instalações
 
 1 - Foi aprovado, à data da assinatura deste Acordo, um registo e mapa pormenorizados com todas as instalações concedidas, dentro e fora da Base Aérea n.º 4 (Lajes), incluindo todos os elementos necessários para a sua perfeita caracterização e localização.
 
 2 - É da responsabilidade dos comandos das duas Forças a elaboração e permanente actualização do registo e do mapa referidos no n.º 1.
 
-Artigo III
-
-Acesso às instalações concedidas
+###### Artigo III — Acesso às instalações concedidas
 
 1 - O acesso às instalações concedidas situadas fora do limite da Base Aérea n.º 4 (Lajes), por parte das Forças dos Estados Unidos, para quaisquer acções de apoio às mesmas carece de autorização escrita por parte dos proprietários e dos arrendatários, quando os haja, dos prédios por onde esse acesso se deva efectuar. As Forças dos Estados Unidos poderão, no entanto, aceder às instalações concedidas quando for essencial para a defesa comum e segurança interna e não haja tempo para obter a autorização referida. Nestes casos, os proprietários serão informados tão depressa quanto possível.
 
@@ -704,25 +667,19 @@ e) Indicação do prazo previsto para a reposição dos prédios no seu estado o
 
 4 - Portugal empregará os seus melhores esforços para celebrar acordos de longo prazo ou anuais com os proprietários e arrendatários dos prédios circundantes das instalações concedidas, de modo que as Forças dos Estados Unidos tenham acesso a essas instalações em qualquer altura e sem necessidade de obter autorização caso a caso.
 
-Artigo IV
-
-Atribuição de custos
+###### Artigo IV — Atribuição de custos
 
 1 - Os custos resultantes da obtenção dos direitos de acesso previstos no n.º 4 do artigo anterior serão integralmente suportados por Portugal.
 
 2 - As Forças dos Estados Unidos são responsáveis por todos os prejuízos causados por actos ou omissões dos seus membros ou agentes relacionados com o exercício do direito de acesso aos terrenos ocupados por instalações de comunicação rádio e acessórios, incluindo as de Cinco Picos e Vila Nova.
 
-Artigo V
-
-Áreas de servidão
+###### Artigo V — Áreas de servidão
 
 Portugal providenciará para que as áreas circundantes das instalações concedidas fiquem protegidas pela lei portuguesa de servidão militar.
 
 ## Anexo B — Pessoal dos Estados Unidos da América nos Açores
 
-Artigo I
-
-Categorias de pessoal
+###### Artigo I — Categorias de pessoal
 
 Para efeito do disposto no artigo I deste Acordo, os Estados Unidos da América podem guarnecer as instalações concedidas com as seguintes categorias de pessoal:
 
@@ -730,9 +687,7 @@ a) Pessoal estacionado, que compreende os membros da Força e do elemento civil 
 
 b) Pessoal rotativo, que compreende os membros da Força e do elemento civil nos Açores, destinado ao treino rotativo e apoio temporário das missões referidas nos n.os 1 e 2 do artigo I deste Acordo.
 
-Artigo II
-
-Período de permanência
+###### Artigo II — Período de permanência
 
 1 - O pessoal estacionado poderá, em princípio, permanecer nos Açores por um período máximo de três anos.
 
@@ -742,9 +697,7 @@ Período de permanência
 
 4 - O comandante da Base Aérea n.º 4 (Lajes) pode pedir a saída da Base Aérea n.º 4 (Lajes) e suas instalações de apoio de um membro da Força ou do elemento civil ou de uma pessoa a cargo. Caso as autoridades americanas recorram dessa decisão para os superiores hierárquicos do comandante da Base Aérea n.º 4 (Lajes), se a decisão portuguesa não for favorável, as autoridades americanas são responsáveis pela implementação do pedido de saída, no prazo de 30 dias. As autoridades portuguesas prestarão assistência às autoridades americanas, se necessário, na implementação do pedido de saída, que será realizado da forma mais expedita possível.
 
-Artigo III
-
-Efectivos autorizados
+###### Artigo III — Efectivos autorizados
 
 1 - O número máximo de pessoal estacionado e rotativo, em tempo de paz, que pode guarnecer as instalações concedidas é de 6500, sendo 3000 pessoal estacionado e 3500 pessoal rotativo. Os números de pessoal estacionado e rotativo podem variar até 25%.
 
@@ -754,17 +707,13 @@ Efectivos autorizados
 
 ## Anexo C — Operações de voo
 
-Artigo I
-
-Entradas e saídas da Base Aérea n.º 4 (Lajes)
+###### Artigo I — Entradas e saídas da Base Aérea n.º 4 (Lajes)
 
 1 - As aeronaves autorizadas a utilizar a Base Aérea n.º 4 (Lajes) ao abrigo dos n.os 1, alínea b), 3 e 4 do artigo I do presente Acordo podem entrar e sair dessa Base mediante um plano de voo processado pelo serviço de controlo de tráfego aéreo competente e observarão as normas de entrada e saída publicadas pelo serviço de controlo de tráfego aéreo português.
 
 2 - As aeronaves operacionalmente atribuídas à Base Aérea n.º 4 (Lajes), com estatuto permanente ou temporário, ao abrigo deste Acordo, poderão demandar e partir daquele aeródromo com base em planos de voo de tráfego aéreo geral ou planos de voo operacionais, conforme apropriado.
 
-Artigo II
-
-Aeroporto de Santa Maria
+###### Artigo II — Aeroporto de Santa Maria
 
 1 - O Aeroporto de Santa Maria é o alternante primário da Base Aérea n.º 4 (Lajes).
 
@@ -772,35 +721,25 @@ Aeroporto de Santa Maria
 
 3 - A aterragem no Aeroporto de Santa Maria para outros fins que não os especificados no n.º 1 carece de autorização prévia do Comando da Base Aérea n.º 4 (Lajes), que tomará as medidas convenientes.
 
-Artigo III
-
-Aeroporto de Ponta Delgada
+###### Artigo III — Aeroporto de Ponta Delgada
 
 As aeronaves dos Estados Unidos da América operacionalmente atribuídas à Base Aérea n.º 4 (Lajes) podem, ocasionalmente, aterrar no Aeroporto de Ponta Delgada para treino, transporte de correio, apoio logístico e em pessoal às actividades dos Estados Unidos da América, incluindo os navios dos Estados Unidos da América que demandem o porto de São Miguel, mediante coordenação prévia com o Comando da Base Aérea n.º 4 e aprovação de um plano de voo pelo serviço de controlo de tráfego aéreo competente.
 
-Artigo IV
-
-Aeroportos do Faial, São Jorge e Graciosa
+###### Artigo IV — Aeroportos do Faial, São Jorge e Graciosa
 
 As aeronaves dos Estados Unidos da América operacionalmente atribuídas à Base Aérea n.º 4 (Lajes) podem, ocasionalmente, efectuar aproximações e aterragens em «tocar e andar» ou com paragem e rolagem para retorno ao início da pista a fim de descolar de seguida nos Aeroportos do Faial, São Jorge e Graciosa, de modo a manter as suas tripulações familiarizadas com as condições de voo locais, mediante autorização prévia do Comando da Base Aérea n.º 4 e aprovação de um plano de voo pelo serviço de controlo de tráfego aéreo competente.
 
-Artigo V
-
-Coordenação da actividade operacional
+###### Artigo V — Coordenação da actividade operacional
 
 O comandante das Forças dos Estados Unidos fornecerá ao comandante da Base Aérea n.º 4 (Lajes) as informações necessárias com vista à coordenação geral da actividade operacional de voo e com vista também a assegurar a este comandante o conhecimento da natureza das missões que são efectuadas.
 
-Artigo VI
-
-Busca e salvamento
+###### Artigo VI — Busca e salvamento
 
 1 - O Centro Coordenador de Busca (CCB) da Base Aérea n.º 4 (Lajes) é o órgão responsável pelas operações de busca e salvamento na Região de Informação de Voo de Santa Maria.
 
 2 - As Forças dos Estados Unidos, quando solicitadas, colaborarão e fornecerão todo o apoio possível às operações de busca e salvamento.
 
-Artigo VII
-
-Segurança de voo
+###### Artigo VII — Segurança de voo
 
 1 - O Comando da Base Aérea n.º 4 (Lajes) é responsável pela segurança das operações em terra e em voo na Base Aérea n.º 4 (Lajes) e nas áreas de controlo do aeroporto e de aproximação. O Comando da Base Aérea n.º 4 e as Forças dos Estados Unidos são responsáveis conjuntamente pela segurança de voo.
 
@@ -808,31 +747,23 @@ Segurança de voo
 
 3 - Em caso de acidente que envolva aeronaves dos Estados Unidos da América, a guarda no exterior da aeronave acidentada será da responsabilidade das autoridades portuguesas, que garantirão o acesso do pessoal dos Estados Unidos da América ao local do acidente. Contudo, as Forças dos Estados Unidos, se forem as primeiras a chegar ao local do acidente, podem estabelecer uma guarda provisória no exterior da aeronave até à chegada das Forças Portuguesas. A remoção da aeronave em questão será da responsabilidade dos Estados Unidos da América.
 
-Artigo VIII
-
-Condições de trânsito
+###### Artigo VIII — Condições de trânsito
 
 O trânsito de aviões militares dos Estados Unidos da América pela Base Aérea n.º 4 (Lajes) e espaço aéreo dos Açores, nos termos do n.º 1, alínea b), do artigo I deste Acordo, efectua-se mediante notificação prévia a Portugal, com uma antecedência mínima de setenta e duas horas ou, em caso de urgência, com a máxima antecedência possível.
 
 ## ANEXO D — Serviços de tráfego aéreo e da Base Aérea
 
-Artigo I
-
-Serviços de tráfego aéreo
+###### Artigo I — Serviços de tráfego aéreo
 
 1 - As autoridades portuguesas são responsáveis pela prestação de serviços de tráfego aéreo na Região de Informação de Voo de Santa Maria (FIR/UIR).
 
 2 - O Comando da Base Aérea n.º 4 (Lajes) tem autoridade global sobre os serviços de controlo de tráfego aéreo na Base Aérea n.º 4 e é responsável pela coordenação com o Centro de Controlo de Tráfego Aéreo de Santa Maria. As instalações para o controlo de tráfego aéreo serão operadas conjuntamente pelas Forças Portuguesas e dos Estados Unidos.
 
-Artigo II
-
-Serviços de aeródromo
+###### Artigo II — Serviços de aeródromo
 
 Os dois Comandos operarão conjuntamente os serviços de movimento e despacho, meteorológicos e de placa. Sempre que tal não for possível ou aconselhável, as Forças Portuguesas e dos Estados Unidos prestarão estes serviços às suas próprias aeronaves. Quando não se verificar a operação daqueles serviços em conjunto, as autoridades portuguesas prestarão tais serviços a todas as aeronaves civis, excepto no caso de essas aeronaves serem públicas ou afretadas pelas Forças dos Estados Unidos, e às aeronaves militares de terceiros países, excepto quando diferentemente acordado.
 
-Artigo III
-
-Equipamento de apoio
+###### Artigo III — Equipamento de apoio
 
 1 - As Forças dos Estados Unidos são responsáveis pela operação das ajudas rádio à navegação, aproximação, aterragem e descolagem da Base Aérea n.º 4 (Lajes), instaladas ou a instalar, primariamente para utilização das aeronaves dos Estados Unidos da América.
 
@@ -840,9 +771,7 @@ Equipamento de apoio
 
 ## Anexo E — Defesa, segurança e policiamento
 
-Artigo I
-
-Princípios gerais
+###### Artigo I — Princípios gerais
 
 1 - O comandante da Base Aérea n.º 4 (Lajes) é responsável pela elaboração e execução dos planos e directivas de defesa imediata e de segurança interna e manutenção da ordem na Base Aérea n.º 4 e suas instalações de apoio, incluindo medidas contra espionagem, sabotagem e subversão.
 
@@ -854,9 +783,7 @@ Princípios gerais
 
 5 - Com vista à satisfação das responsabilidades referidas neste anexo, ou para fazer face a situações imprevistas, qualquer dos comandantes poderá solicitar apoio ao outro comandante.
 
-Artigo II
-
-Elaboração dos planos
+###### Artigo II — Elaboração dos planos
 
 1 - O comandante da Base Aérea n.º 4 (Lajes) será responsável pela elaboração e implementação de planos de defesa imediata, segurança e manutenção da ordem da Base Aérea n.º 4 e suas instalações de apoio.
 
@@ -868,17 +795,13 @@ Elaboração dos planos
 
 5 - Os dois comandantes avaliarão anualmente o sistema de segurança e manutenção da ordem da Base Aérea n.º 4 (Lajes) e suas instalações de apoio, para assegurar que as medidas em vigor são adequadas, podendo os seus resultados, bem como eventuais propostas de alteração, ser submetidos às entidades superiores pelos canais militares apropriados.
 
-Artigo III
-
-Centro de coordenação de defesa e segurança
+###### Artigo III — Centro de coordenação de defesa e segurança
 
 1 - A execução dos planos e directivas de defesa imediata, segurança interna e manutenção da ordem a que se refere este anexo será conduzida pelo comandante da Base Aérea n.º 4 (Lajes) através de um centro de coordenação de defesa e segurança, guarnecido por pessoal de ambas as Forças e chefiado por um oficial da Base Aérea n.º 4.
 
 2 - O centro de coordenação de defesa e segurança actuará de acordo com um conceito de operações acordado entre ambos os comandantes e que deverá estar elaborado até 180 dias depois da entrada em vigor deste Acordo.
 
-Artigo IV
-
-Patrulhas de Polícia Militar
+###### Artigo IV — Patrulhas de Polícia Militar
 
 1 - Patrulhas de Polícia Militar constituídas por pessoal militar dos Estados Unidos da América e de Portugal patrulharão a Base Aérea n.º 4 (Lajes) e suas instalações de apoio. As patrulhas, directamente dependentes do centro de coordenação de defesa e segurança, operarão de acordo com um conceito de operações mutuamente aprovado e utilizarão veículos de segurança identificados por dísticos bilingues.
 
@@ -886,9 +809,7 @@ Patrulhas de Polícia Militar
 
 3 - As patrulhas a que se refere o número anterior podem dar resposta a incidentes envolvendo pessoal ou propriedade dos Estados Unidos da América fora da Base Aérea n.º 4 (Lajes) ou suas instalações de apoio quando tal lhes for solicitado pelas autoridades locais e sob orientação do centro de coordenação de defesa e segurança.
 
-Artigo V
-
-Uso e porte de armamento
+###### Artigo V — Uso e porte de armamento
 
 1 - O comandante das Forças dos Estados Unidos elaborará, em colaboração com o comandante da Base Aérea n.º 4 (Lajes), um plano incluindo o tipo e quantidade de armamento e as patrulhas e missões de serviço em que será utilizado. O porte de armas por parte de pessoal das Forças dos Estados Unidos na Base Aérea n.º 4 (Lajes) entre a Base e as suas instalações de apoio e nestas terá lugar apenas em missões de serviço e em conformidade com o plano referido. Este plano carece sempre de aprovação do comandante da Base Aérea n.º 4 (Lajes).
 
@@ -898,15 +819,11 @@ Uso e porte de armamento
 
 4 - O transporte de armamento entre a Base Aérea a as instalações de apoio será sempre feito em viaturas de caixa fechada.
 
-Artigo VI
-
-Comunicações
+###### Artigo VI — Comunicações
 
 É responsabilidade de ambos os Comandos assegurar que os equipamentos de comunicação das polícias militares sejam interoperáveis, funcionando de acordo com procedimentos estabelecidos em comum.
 
-Artigo VII
-
-Controlo de entradas, saídas e circulação
+###### Artigo VII — Controlo de entradas, saídas e circulação
 
 1 - O comandante da Base Aérea n.º 4 (Lajes) será responsável pela regulamentação e controlo de entradas e saídas de pessoal e veículos da Base Aérea n.º 4 e suas instalações de apoio, de acordo com planos desenvolvidos e coordenados pelos dois Comandos.
 
@@ -916,9 +833,7 @@ Controlo de entradas, saídas e circulação
 
 4 - A revista de cidadãos portugueses ou de nacionais de terceiros países ou de embrulhos, volumes e outros artigos por eles transportados à entrada ou à saída das instalações de uso exclusivo das Forças dos Estados só poderá ser efectuada pelas autoridades portuguesas. O comandante da Base Aérea n.º 4 (Lajes) fornecerá o pessoal qualificado necessário para facilitar a identificação de cidadãos portugueses e de cidadãos de terceiros países e efectuar as necessárias revistas.
 
-Artigo VIII
-
-Preparação de pessoal
+###### Artigo VIII — Preparação de pessoal
 
 1 - O treino e a instrução especializada do pessoal, particularmente no que se refere a comunicações, minas e armadilhas, controlo de narcóticos e sabotagem, são da responsabilidade de cada uma das Forças. Para o efeito, os dois comandantes colaborarão entre si na extensão possível.
 
@@ -926,17 +841,13 @@ Preparação de pessoal
 
 3 - A instrução e treino que deva ocorrer fora da Base Aérea n.º 4 (Lajes) ou das instalações de apoio carece de autorização prévia do comandante da Base Aérea n.º 4.
 
-Artigo IX
-
-Centro de controlo de danos
+###### Artigo IX — Centro de controlo de danos
 
 Será criado um centro conjunto de controlo de danos, destinado a dirigir as actividades de controlo de danos segundo disposições a serem acordadas pelos dois comandantes.
 
 ## Anexo F — Instalação no porto da Praia da Vitória
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 1 - A instalação concedida no porto da Praia da Vitória está descrita no registo referido no artigo II do anexo A deste Acordo e será adiante designada por porto militar.
 
@@ -944,9 +855,7 @@ Definições
 
 3 - Sem prejuízo da prioridade dada ao movimento das cargas referidas no n.º 2, esta instalação pode ser utilizada por outros navios e embarcações.
 
-Artigo II
-
-Operações no porto militar
+###### Artigo II — Operações no porto militar
 
 1 - As autoridades portuguesas são responsáveis pelas operações portuárias, com a colaboração das Forças dos Estados Unidos, conforme for necessário e mutuamente acordado.
 
@@ -964,87 +873,63 @@ Operações no porto militar
 
 8 - A prestação de serviços pelas Forças dos Estados Unidos a navios que não transportem carga para aquelas Forças e os serviços portuários prestados pelas autoridades portuguesas às Forças dos Estados Unidos serão regulados por mútuo acordo. A utilização do porto militar pelos navios referidos no n.º 3 do artigo I deste anexo efectuar-se-á de acordo com normas mutuamente acordadas.
 
-Artigo III
-
-Equipamento do porto
+###### Artigo III — Equipamento do porto
 
 1 - O material flutuante pertencente às Forças dos Estados Unidos necessário à operacionalidade do porto militar poderá estacionar na doca das pequenas embarcações.
 
 2 - As Forças dos Estados Unidos não poderão aumentar a quantidade ou alterar significativamente as dimensões do material flutuante sem prévio acordo das autoridades portuguesas.
 
-Artigo IV
-
-Responsabilidade pela construção, manutenção e respectivos custos
+###### Artigo IV — Responsabilidade pela construção, manutenção e respectivos custos
 
 A construção, manutenção, reparação e alteração dos edifícios ou instalações no porto militar serão efectuadas de harmonia com o artigo V deste Acordo.
 
-Artigo V
-
-Segurança
+###### Artigo V — Segurança
 
 As disposições relativas à segurança desta instalação, a executar segundo os termos do anexo E, terão também em conta as suas características especiais.
 
 ## Anexo G — Comunicações de serviço móvel marítimo nos Açores
 
-Artigo I
-
-Responsabilidade
+###### Artigo I — Responsabilidade
 
 A execução de todas as modalidades de comunicações de serviço móvel marítimo nos Açores, incluindo as de natureza militar, é da responsabilidade das autoridades portuguesas.
 
-Artigo II
-
-Delegações
+###### Artigo II — Delegações
 
 Sempre que acordado entre as autoridades portuguesas e as Forças dos Estados Unidos, estas Forças poderão executar, no todo ou em parte, as comunicações de serviço móvel marítimo relacionado com a utilização das instalações concedidas. Esta função é exercida sem prejuízo do controlo operacional na área dos Açores e terminará após aviso, com a devida antecedência, quando for julgado conveniente por qualquer das Partes.
 
-Artigo III
-
-Regulamentação aplicável
+###### Artigo III — Regulamentação aplicável
 
 Na execução das comunicações de serviço móvel marítimo, nos termos do artigo II, as Forças dos Estados Unidos observarão as normas e regulamentos portugueses e internacionais.
 
-Artigo IV
-
-Características
+###### Artigo IV — Características
 
 O Comando das Forças dos Estados Unidos submeterá à aprovação das autoridades portuguesas as características básicas das comunicações de serviço móvel marítimo a executar de acordo com o artigo II. Uma vez aprovadas, estas características não podem ser alteradas sem autorização das autoridades portuguesas.
 
 ## Anexo H — Estatuto do pessoal
 
-Artigo I
-
-Definições
+###### Artigo I — Definições
 
 1 - Para efeitos do presente Acordo, a expressão «elemento civil», definida no artigo I, n.º 1, alínea b), da Convenção entre os Estados Partes no NATO SOFA, compreende os empregados de organizações não comerciais que, devidamente identificados pelas autoridades americanas, acompanhem as Forças dos Estados Unidos com o único objectivo de contribuir para o bem-estar, moral e educação dos membros da Força ou do elemento civil, bem como das pessoas a cargo e que não sejam cidadãos portugueses nem residam habitualmente em Portugal.
 
 2 - Para efeitos do presente Acordo, a expressão «pessoas a cargo», definida no artigo I, n.º 1, alínea c), do NATO SOFA, compreende as pessoas de família de um membro da Força ou do elemento civil, bem como do respectivo cônjuge, que se encontrem nos Açores e estejam a seu cargo por razões económicas, legais ou de saúde.
 
-Artigo II
-
-Entrada e saída do território português
+###### Artigo II — Entrada e saída do território português
 
 1 - Para efeitos de entrada, saída ou deslocação em território português, os membros do elemento civil e as pessoas a cargo devem ser portadores de passaporte válido com anotação que comprove a sua qualidade, ficando, porém, dispensados de visto e das formalidades da lei portuguesa sobre registo e controlo de estrangeiros.
 
 2 - Após a entrada em território português, será concedida gratuitamente às pessoas referidas no número anterior uma autorização de residência válida pelo tempo da correspondente missão de serviço.
 
-Artigo III
-
-Actividades profissionais
+###### Artigo III — Actividades profissionais
 
 1 - Os membros da Força ou do elemento civil que, fora das respectivas missões de serviço, pretendam exercer, ainda que a título eventual, uma actividade profissional fora da área das instalações concedidas ficarão sujeitos à lei que regula o trabalho de estrangeiros em território português e demais legislação aplicável.
 
 2 - As pessoas a cargo que pretendam exercer uma actividade profissional fora da área das instalações concedidas, ficarão sujeitas às leis reguladoras do trabalho de estrangeiros em território português. As categorias das posições de trabalhadores portugueses e americanos serão revistas no contexto do Acordo Laboral.
 
-Artigo IV
-
-Ausência ilegal
+###### Artigo IV — Ausência ilegal
 
 Sem prejuízo do disposto na segunda parte do n.º 4 do artigo III do NATO SOFA, as Forças dos Estados Unidos farão todos os esforços para informar, o mais cedo possível, o Comando da Base Aérea n.º 4 (Lajes) da ausência ilegal superior a três dias úteis de um membro da Força ou do elemento civil.
 
-Artigo V
-
-Licença de condução e circulação automóvel
+###### Artigo V — Licença de condução e circulação automóvel
 
 1 - As licenças de condução passadas em inglês e português pelas Forças dos Estados Unidos a membros da Força ou do elemento civil, bem como a pessoas a cargo, serão consideradas válidas em território português. Para tanto, a autoridade portuguesa competente validará gratuitamente as licenças emitidas pelas Forças dos Estados Unidos.
 
@@ -1054,21 +939,15 @@ Licença de condução e circulação automóvel
 
 4 - As Forças dos Estados Unidos notificarão com brevidade o Comando da Base Aérea n.º 4 (Lajes) sempre que o proprietário de um veículo registado de harmonia com o disposto neste artigo perder o seu estatuto nos termos do presente Acordo e do NATO SOFA.
 
-Artigo VI
-
-Uso de uniforme
+###### Artigo VI — Uso de uniforme
 
 Os membros da Força apenas usarão uniforme na Base Aérea n.º 4 (Lajes) e nas instalações de apoio e, fora dessas áreas, quando em serviço ou nos percursos entre as respectivas residências e os locais de trabalho.
 
-Artigo VII
-
-Detenção, uso e porte de armas
+###### Artigo VII — Detenção, uso e porte de armas
 
 A detenção, uso e porte de armas pelos membros da Força ou do elemento civil fora dos actos de serviço, bem como pelas pessoas a cargo, ficam sujeitos à lei portuguesa.
 
-Artigo VIII
-
-Jurisdição criminal
+###### Artigo VIII — Jurisdição criminal
 
 1 - Reconhecendo a responsabilidade das autoridades militares dos Estados Unidos da América na manutenção da ordem e disciplina das suas Forças, Portugal, a pedido das referidas autoridades, renunciará, de harmonia com o arti-go VII, n.º 3, alínea c), do NATO SOFA, à prioridade do exercício da sua jurisdição criminal sobre os membros da Força, salvo em casos de particular importância para Portugal.
 
@@ -1090,9 +969,7 @@ Jurisdição criminal
 
 10 - Quando seja exercida a jurisdição criminal portuguesa sobre um membro da Força ou do elemento civil, bem como sobre uma pessoa a cargo, o respectivo processo será objecto de tramitação prioritária, de modo a obter-se a decisão final com a maior brevidade possível.
 
-Artigo IX
-
-Jurisdição civil
+###### Artigo IX — Jurisdição civil
 
 1 - Os membros da Força ou do elemento civil não podem ser demandados nos tribunais portugueses para satisfação de pedidos de indemnização de natureza cível resultantes de acto ou omissão em serviço. Estes pedidos serão satisfeitos judicial ou extrajudicialmente por Portugal, que será reembolsado pelos Estados Unidos da América nos termos do artigo VIII, n.º 5, do NATO SOFA.
 
@@ -1106,9 +983,7 @@ Jurisdição civil
 
 6 - As responsabilidades emergentes de um contrato com as Forças dos Estados Unidos serão determinadas conforme as cláusulas para solução de litígios previstas no contrato.
 
-Artigo X
-
-Procedimentos
+###### Artigo X — Procedimentos
 
 1 - Os pedidos de indemnização contra um membro da Força ou elemento civil por danos resultantes de actos ou omissões lesivos (tortious) que ocorram fora do serviço podem ser apresentados ao Comando das Forças dos Estados Unidos, que, com brevidade, os instruirá, satisfazendo os que tiverem justo fundamento, ex-gratia, de harmonia com as leis e os regulamentos dos Estados Unidos da América.
 
@@ -1124,23 +999,17 @@ Procedimentos
 
 ## Anexo I — Regime aduaneiro e fiscal
 
-Artigo I
-
-Importações pelas Forças dos Estados Unidos
+###### Artigo I — Importações pelas Forças dos Estados Unidos
 
 1 - As Forças dos Estados Unidos podem importar com isenção de direitos, impostos especiais e encargos conexos o equipamento para a Força e quantidades razoáveis de abastecimentos, materiais e outras mercadorias destinados ao uso da Força, do elemento civil e das pessoas a cargo, nos termos do artigo XI, n.º 4, do NATO SOFA.
 
 2 - O comandante da Base Aérea n.º 4 (Lajes) e o comandante das Forças dos Estados Unidos colaborarão, conforme for necessário, para assegurar que sejam razoáveis as quantidades importadas de abastecimentos, materiais e outras mercadorias.
 
-Artigo II
-
-Importação pelos contratantes
+###### Artigo II — Importação pelos contratantes
 
 A isenção de direitos referida no artigo I aplicar-se-á também ao equipamento, materiais e outras mercadorias importados em Portugal por contratantes agindo em nome e por conta das Forças Armadas dos Estados Unidos para a construção, melhoramento, manutenção e operação das instalações concedidas, os quais devem ser utilizados exclusivamente para execução dos contratos com aquelas Forças. A referida isenção de direitos aplicar-se-á ainda no caso de projectos financiados conjuntamente por Portugal e pelos Estados Unidos. A isenção prevista neste artigo aplicar-se-á durante a execução dos contratos. A subsequente exportação das referidas mercadorias beneficiará também da isenção de direitos. As Forças Armadas dos Estados Unidos exigirão dos seus contratantes o compromisso de que as mercadorias importadas nos termos deste artigo sejam utilizadas exclusivamente para execução dos contratos com as Forças dos Estados Unidos.
 
-Artigo III
-
-Processamento das importações
+###### Artigo III — Processamento das importações
 
 As importações referidas nos artigos I e II processam-se do seguinte modo:
 
@@ -1148,43 +1017,31 @@ a) O equipamento, abastecimentos, materiais e outras mercadorias importados nos 
 
 b) O formulário será entregue no momento e local da descarga à autoridade aduaneira competente, que verificará o número de volumes e respectivos elementos de identificação, após o que as mercadorias serão entregues à autoridade militar dos Estados Unidos a que se destinam.
 
-Artigo IV
-
-Fiscalização aduaneira
+###### Artigo IV — Fiscalização aduaneira
 
 A fiscalização aduaneira será efectuada pelas autoridades portuguesas de harmonia com os procedimentos acordados com o Comando da Base Aérea n.º 4 (Lajes) e as Forças dos Estados Unidos.
 
-Artigo V
-
-Transmissão de mercadorias importadas
+###### Artigo V — Transmissão de mercadorias importadas
 
 As mercadorias referidas no artigo I não podem ser vendidas nem de outro modo transmitidas a pessoas que em Portugal não possam importá-las com isenção de direitos, excepto se a transmissão for permitida pela autoridade portuguesa competente ou se se tratar de ofertas para organizações de beneficência autorizadas nos termos da regulamentação em vigor em Portugal.
 
-Artigo VI
-
-Estação postal militar
+###### Artigo VI — Estação postal militar
 
 1 - As Forças dos Estados Unidos podem estabelecer na Base Aérea n.º 4 (Lajes) uma estação postal militar, a qual pode ser utilizada pelo pessoal militar dos Estados Unidos, pelo elemento civil e pelas pessoas a cargo para correspondência entre os Açores e outras estações postais dos Estados Unidos.
 
 2 - As encomendas postais particulares, entrando ou saindo de Portugal através da estação postal militar dos Estados Unidos, estão sujeitas a fiscalização aduaneira pelas autoridades portuguesas, respectivamente no momento da entrega ao destinatário ou no momento da sua expedição. As autoridades americanas terão a possibilidade de estarem presentes a essas fiscalizações. A referida fiscalização efectuar-se-á de modo a permitir a entrega ou expedição integral do correio com brevidade.
 
-Artigo VII
-
-Cantinas (exchanges/commissaries), centros sociais e recreativos
+###### Artigo VII — Cantinas (exchanges/commissaries), centros sociais e recreativos
 
 1 - As Forças dos Estados Unidos podem estabelecer cantinas (exchanges/commissaries) e centros sociais e recreativos destinados aos membros da Força ou do elemento civil bem como às pessoas a cargo. Tais organizações e actividades integram-se nas Forças dos Estados Unidos e beneficiam das mesmas isenções fiscais e aduaneiras que são concedidas a estas Forças.
 
 2 - Mediante entendimento entre o Comando da Base Aérea n.º 4 (Lajes) e o Comando das Forças dos Estados Unidos poderão ser estabelecidas quotas individuais de aquisição de determinadas mercadorias de valor significativo, tais como electrodomésticos, aparelhos de vídeo e de reprodução de som e equipamento fotográfico e de filmagem.
 
-Artigo VIII
-
-Banco militar e instituições financeiras
+###### Artigo VIII — Banco militar e instituições financeiras
 
 As Forças dos Estados Unidos podem contratar ou estabelecer acordos com instituições financeiras para manter e operar instalações bancárias ou caixas de crédito militares na Base Aérea n.º 4 (Lajes) para uso exclusivo das Forças dos Estados Unidos, membros da Força ou do elemento civil, bem como das pessoas a cargo, tal como definidas no artigo I do anexo H. Estas actividades serão mantidas e operadas de acordo com os regulamentos militares dos Estados Unidos e serão autorizadas a manter contas bancárias em moeda dos Estados Unidos da América e de Portugal e a realizar todas as correspondentes transacções financeiras.
 
-Artigo IX
-
-Isenções relativas aos impostos portugueses, alfândegas e impostos especiais de consumo
+###### Artigo IX — Isenções relativas aos impostos portugueses, alfândegas e impostos especiais de consumo
 
 1 - As Forças dos Estados Unidos podem importar ou adquirir, em território português, com as isenções de imposto concedidas às forças armadas dos países da OTAN o equipamento, materiais e outras mercadorias destinados ao uso da Força e do elemento civil ou ao aprovisionamento das suas messes e cantinas (exchanges/commissaries), isentas de impostos aduaneiros, do imposto sobre o valor acrescentado e dos impostos especiais de consumo, ou outros impostos que os substituam.
 
@@ -1194,9 +1051,7 @@ Isenções relativas aos impostos portugueses, alfândegas e impostos especiais 
 
 4 - Para as aquisições no mercado interno as isenções referidas nos n.os 1 e 2 não se farão mediante o recurso ao sistema de cobrança e reembolso aplicável às representações diplomáticas de acordo com a legislação portuguesa.
 
-Artigo X
-
-Outras isenções
+###### Artigo X — Outras isenções
 
 1 - O equipamento, abastecimentos, materiais e outras mercadorias, referidos nos artigos anteriores deste anexo, são isentos dos impostos e de outros encargos que sobre eles poderiam incidir após a sua importação ou aquisição pelas Forças dos Estados Unidos.
 
@@ -1206,9 +1061,7 @@ Outras isenções
 
 4 - As aeronaves e os navios públicos ou afretados pelas Forças dos Estados Unidos, quando na execução de missões relacionadas com o uso das instalações concedidas, são isentos do pagamento de taxas de aterragem, portuárias, de navegação e sobrevoo ou de quaisquer outros encargos, com excepção dos encargos resultantes de serviços que sejam prestados a pedido.
 
-Artigo XI
-
-Contratantes e subcontratantes e seus empregados
+###### Artigo XI — Contratantes e subcontratantes e seus empregados
 
 1 - Ficam isentos do imposto sobre o rendimento das pessoas singulares (IRS), do imposto sobre o rendimento das pessoas colectivas (IRC) e da derrama os contratantes e subcontratantes nacionais ou estrangeiros relativamente aos lucros derivados das obras e trabalhos respeitantes às instalações concedidas.
 
@@ -1228,33 +1081,25 @@ e) Utilização dos serviços das organizações referidas no artigo VII deste a
 
 4 - Os veículos dos contratantes importados em Portugal com isenção de direitos podem ser registados pelas Forças dos Estados Unidos nos termos do artigo V do anexo H.
 
-Artigo XII
-
-Importação de objectos pessoais
+###### Artigo XII — Importação de objectos pessoais
 
 1 - Nos termos do artigo XI, n.os 5, 6 e 7, do NATO SOFA, os objectos pessoais, artigos de instalação e mobiliário para uso exclusivo dos membros da Força ou do elemento civil podem ser importados e mantidos em Portugal com isenção de direitos, impostos e de outros encargos, durante o período em que tais pessoas permanecerem em Portugal.
 
 2 - A subsequente exportação de bens importados nos termos do n.º 1 ou adquiridos em Portugal para uso pessoal do proprietário é isenta de direitos e de outros encargos.
 
-Artigo XIII
-
-Prevenção de abusos
+###### Artigo XIII — Prevenção de abusos
 
 O Comando das Forças dos Estados Unidos cooperará com o Comando da Base Aérea n.º 4 (Lajes) na prevenção de infracções às leis fiscais e aduaneiras portuguesas e de abusos das isenções contidas neste anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf))](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf)
 
 ## Anexo J — Serviços de saúde
 
-Artigo I
-
-Hospitais e centros de saúde
+###### Artigo I — Hospitais e centros de saúde
 
 As Forças dos Estados Unidos podem montar e operar instalações de assistência médica nos Açores para apoio do seu pessoal militar, do elemento civil e das pessoas a cargo. Em caso de urgência ou mediante autorização concedida caso a caso a pedidos feitos por qualquer dos comandantes, pode ser prestada assistência médica pelo outro Comando numa base de reembolso total.
 
-Artigo II
-
-Farmácias
+###### Artigo II — Farmácias
 
 1 - As receitas de medicamentos prescritas por médicos nos serviços de saúde das Forças dos Estados Unidos serão aviadas pelas farmácias das Forças dos Estados Unidos. Em caso de urgência, estes médicos podem passar receitas de medicamentos para serem adquiridos nas farmácias portuguesas.
 
@@ -1262,21 +1107,15 @@ Farmácias
 
 3 - As farmácias das Forças dos Estados Unidos podem abastecer-se de material médico no mercado local.
 
-Artigo III
-
-Cooperação com os serviços de saúde portugueses
+###### Artigo III — Cooperação com os serviços de saúde portugueses
 
 Os serviços de saúde das Forças dos Estados Unidos cooperarão, quando solicitados, com os serviços de saúde portugueses na manutenção da saúde pública. Serão prestadas mutuamente informações de interesse, que não comprometam a ética e sigilo profissional.
 
-Artigo IV
-
-Prática médica
+###### Artigo IV — Prática médica
 
 Os serviços de saúde das Forças dos Estados Unidos abster-se-ão de qualquer prática médica proibida pela lei portuguesa.
 
-Artigo V
-
-Actividades exteriores do pessoal médico e paramédico
+###### Artigo V — Actividades exteriores do pessoal médico e paramédico
 
 Em casos excepcionais, e quando permitido pela lei dos Estados Unidos, o pessoal médico e paramédico dos Estados Unidos pode prestar assistência gratuita em estabelecimentos de saúde portugueses, com o acordo do comandante da Base Aérea n.º 4 (Lajes).
 
@@ -2476,7 +2315,7 @@ Prevention of abuses
 
 The United States Forces will cooperate with Air Base Number 4, Lajes, in the prevention of violation of the fiscal and customs laws of Portugal and of abuses of the exemptions contained in this annex.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf))](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/235a00/62506288.pdf)
 
 ANNEX J
 

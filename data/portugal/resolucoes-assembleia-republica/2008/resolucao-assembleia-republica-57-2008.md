@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/2008/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-2008-452714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e29a0adf7e88cbeedf4a691d8412e74fec0a90c1d89541b837c2940335d21c81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52530f6f81391ab36680fa6058c5703520bed51a2193b7676af4199ccdb777b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Gestão Financeira
 - Convenção
 - Decisão CE
-- União Europeia
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
 - Receita Própria
 - Sistema de Recursos Próprios das Comunidades Europeias
+- União Europeia
 relationships:
+- type: amended_by
+  target: pt:dre:452704:por
+  label: "Ratificada a Decisão 2007/436/CE, EURATOM, do Conselho, de 7 de Junho de 2007, relativa ao sistema de recursos próprios\
+    \ das Comunidades Europeias, aprovada pelo presente diploma, pelo DEC.123/2008.14.10.2008.PR, DR.IS [199] de 14.10.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/123-2008-452704
+  date: '2008-10-14'
 - type: cites
   target: celex:31970D0243
   label: null
@@ -122,13 +129,13 @@ relationships:
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:14Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +148,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 18 de Julho de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 DECISÃO DO CONSELHO RELATIVA AO SISTEMA DE RECURSOS PRÓPRIOS DAS COMUNIDADES EUROPEIAS
 
@@ -263,7 +270,7 @@ g) Ajustando o cálculo, através da redução ao total das despesas repartidas 
 
 Essa redução deve ser efectuada gradualmente de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf)
 
 2 - Durante o período de 2007-2013, a contribuição adicional do Reino Unido decorrente da redução das despesas repartidas referida na alínea g) do n.º 1 não deve exceder 10,5 mil milhões de euros, a preços de 2004. Todos os anos, os serviços da Comissão devem verificar se o ajustamento cumulado da correcção ultrapassa o referido montante. Para os efeitos do referido cálculo, os montantes a preços correntes devem ser convertidos para preços de 2004, mediante a aplicação do mais recente deflacionador disponível do PIB para a UE, expresso em euros, tal como determinado pela Comissão. Se o limite máximo de 10,5 mil milhões de euros for ultrapassado, a contribuição do Reino Unido deve ser reduzida em conformidade.
 
@@ -347,4 +354,4 @@ Pelo Conselho, o Presidente.
 
 (10) JO, L 293, de 12 de Novembro de 1994, p. 9. Decisão com a última redacção que lhe foi dada pela Decisão n.º [2000/597/CE](https://data.europa.eu/eli/dec/2000/597/oj?locale=pt), EURATOM.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19900/0733907343.pdf)

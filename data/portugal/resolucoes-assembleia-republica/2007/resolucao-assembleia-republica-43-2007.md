@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/43/2007/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2007-640344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61495c835ae3cf4a3b112ac821df7c7e5be563882d229d38626ffd1c6bcaa360
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62c368a50edd10c484a992ada1506b90822edcc146092a5d6ee66ba8161710a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- LA PAZ
-- Secretaria Geral Ibero-américana
+- Conferência Ibero-américana de Chefes de Estado e de Governo
 - Convenção
-- Portugal
 - Criação de Serviços
 - Estatuto
-- Conferência Ibero-américana de Chefes de Estado e de Governo
-relationships: []
+- LA PAZ
+- Portugal
+- Secretaria Geral Ibero-américana
+relationships:
+- type: amended_by
+  target: pt:dre:640325:por
+  label: "Ratificado o Acordo pelo DEC.93/2007.10.09.2007.PR, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/93-2007-640325
+  date: '2007-09-10'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:38Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 19 de Julho de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE SANTA CRUZ DE LA SIERRA CONSTITUTIVO DA SECRETARIA-GERAL IBERO-AMERICANA
 
@@ -161,7 +166,7 @@ A Secretaria-Geral Ibero-Americana contará com um Secretário-Adjunto e um Secr
 
 Na selecção dos funcionários da Secretaria-Geral será garantida a representação geográfica equitativa, o equilíbrio de idioma, assim como a inclusão do critério de género.
 
-**O Secretário-Geral, o Secretário-Adjunto e o Secretário para a Cooperação Ibero-Americana deverão ser nacionais de países diferentes.**
+O Secretário-Geral, o Secretário-Adjunto e o Secretário para a Cooperação Ibero-Americana deverão ser nacionais de países diferentes.
 
 ###### Artigo 6.º — Independência no cumprimento de deveres
 
@@ -221,7 +226,7 @@ Para todos os efeitos legais, a Secretaria-Geral Ibero-Americana sucede à SECIB
 
 A entrada em vigor do presente Acordo não afectará a continuidade dos programas de cooperação que se encontrem em execução entre os Estados Parte do Protocolo ao Acordo para a Cooperação no quadro da Conferência Ibero-Americana para a constituição da Secretaria de Cooperação Ibero-Americana.
 
-**Assinado na cidade de La Paz, Bolívia.**
+Assinado na cidade de La Paz, Bolívia.
 
 CONVENIO DE SANTA CRUZ DE LA SIERRA CONSTITUTIVO DE LA SECRETARÍA GENERAL IBEROAMERICANA
 
@@ -421,21 +426,21 @@ n) Apresentar propostas por intermédio das instâncias competentes da Conferên
 
 A Secretaria-Geral será integrada por um Secretário-Geral, um Secretário-Adjunto e um Secretário para a Cooperação Ibero-Americana.
 
-**O Secretário-Geral ocupa o cargo mais alto na estrutura administrativa da SEGIB e é o responsável pelo funcionamento da Secretaria-Geral Ibero-Americana.**
+O Secretário-Geral ocupa o cargo mais alto na estrutura administrativa da SEGIB e é o responsável pelo funcionamento da Secretaria-Geral Ibero-Americana.
 
-**O Secretário-Geral terá como seus principais colaboradores um Secretário-Adjunto e um Secretário para a Cooperação Ibero-Americana.**
+O Secretário-Geral terá como seus principais colaboradores um Secretário-Adjunto e um Secretário para a Cooperação Ibero-Americana.
 
-**O Secretário-Geral apresentará aos coordenadores nacionais e responsáveis de cooperação e submeterá à aprovação da reunião de Ministros das Relações Exteriores uma proposta de organograma com indicação dos perfis profissionais exigidos. As eventuais propostas de alteração do organograma aprovado deverão ser submetidas aos Ministros das Relações Exteriores com as propostas do orçamento-programa a que se refere a alínea j) do artigo 2.º**
+O Secretário-Geral apresentará aos coordenadores nacionais e responsáveis de cooperação e submeterá à aprovação da reunião de Ministros das Relações Exteriores uma proposta de organograma com indicação dos perfis profissionais exigidos. As eventuais propostas de alteração do organograma aprovado deverão ser submetidas aos Ministros das Relações Exteriores com as propostas do orçamento-programa a que se refere a alínea j) do artigo 2.º
 
 ###### Artigo 4.º — Secretário-Geral
 
-**O Secretário-Geral será nomeado, por consenso, pelos chefes de estado e de governo, por proposta da reunião dos Ministros das Relações Exteriores, para um mandato de quatro anos. O mandato poderá ser renovado por um único período adicional.**
+O Secretário-Geral será nomeado, por consenso, pelos chefes de estado e de governo, por proposta da reunião dos Ministros das Relações Exteriores, para um mandato de quatro anos. O mandato poderá ser renovado por um único período adicional.
 
-**O Secretário-Geral deverá ser nacional de um dos países ibero-americanos e ter desempenhado funções de alta responsabilidade em um dos países membros da Conferência ou uma organização internacional.**
+O Secretário-Geral deverá ser nacional de um dos países ibero-americanos e ter desempenhado funções de alta responsabilidade em um dos países membros da Conferência ou uma organização internacional.
 
-**O Secretário-Geral cessará as suas funções no final do respectivo mandato, por renúncia, ou por demissão acordada pelos chefes de estado e de governo.**
+O Secretário-Geral cessará as suas funções no final do respectivo mandato, por renúncia, ou por demissão acordada pelos chefes de estado e de governo.
 
-**O Secretário-Geral não poderá ser sucedido por pessoa da mesma nacionalidade.**
+O Secretário-Geral não poderá ser sucedido por pessoa da mesma nacionalidade.
 
 ###### Artigo 5.º — Competências do Secretário-Geral
 
@@ -469,7 +474,7 @@ l) Quaisquer outras que lhe sejam atribuídas pela Reunião Ibero-Americana de C
 
 1 - O Secretário-Adjunto e o Secretário para a Cooperação Ibero-Americana serão nomeados pela reunião de Ministros das Relações Exteriores, para um mandato de quatro anos, renovável por um único período adicional.
 
-**O Secretário-Geral, o Secretário-Adjunto e o Secretário para a Cooperação deverão ser nacionais de países ibero-americanos diferentes.**
+O Secretário-Geral, o Secretário-Adjunto e o Secretário para a Cooperação deverão ser nacionais de países ibero-americanos diferentes.
 
 2 - Cabem ao Secretário-Adjunto as seguintes competências:
 
@@ -543,7 +548,7 @@ Disposições transitórias
 
 3 - O Secretário-Geral comunicará, por via diplomática, aos Ministros das Relações Exteriores Ibero-Americanos a nomeação do pessoal directivo da Secretaria-Geral e submeterá à sua aprovação as suas primeiras disposições em matéria orçamentária.
 
-**Assinado em São José, Costa Rica, em 20 de Novembro de 2004.**
+Assinado em São José, Costa Rica, em 20 de Novembro de 2004.
 
 Estatuto de la Secretaría General Iberoamericana
 

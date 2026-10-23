@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/091b00/18501851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/1992/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1992-217687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cae2776f9c4f8f4a252141600d3f6802f88a27f94ba770696a71d78240d45d57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76619aad1ebace7dbed30259aec3722a7592eb3e7864311128f32eafc545a856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gado Bovino
-- Reprodução Animal
-- Regulamento
-- Pecuária
 - Inseminação Artificial
+- Pecuária
+- Regulamento
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:496753:por
@@ -80,16 +80,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1061/1991/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1061/1991/10/18/p/dre
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333116:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496753:por
+  label: "Revogada, a partir de 17.08.2013, a Port 1061/91, de 18-out, na redação da presente Portaria, pela LEI.38/2013.18.06.2013.AR,\
+    \ DR.IS [115] de 18.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-2013-496753
+  date: '2013-06-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:59Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +120,10 @@ Considerando que, por razões de ordem técnica e de processamento informático 
 
 Manda o Governo, pelo Ministro da Agricultura, ao abrigo da alínea f) do artigo 2.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, que o artigo 7.º do Regulamento dos Subcentros de Inseminação Artificial de Bovinos, aprovado pela [Portaria n.º 1061/91](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1991-333116), de 18 de Outubro, passe a ter a seguinte redacção:
 
-###### Art. 7.º Os subcentros já licenciados deverão entregar a listagem dos seus aderentes até 31 de Agosto de 1992.
+Art. 7.º Os subcentros já licenciados deverão entregar a listagem dos seus aderentes até 31 de Agosto de 1992.
 
 Ministério da Agricultura.
 
-**Assinada em 24 de Março de 1992.**
+Assinada em 24 de Março de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

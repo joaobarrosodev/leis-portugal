@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/283b00/56415645.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1124/1992/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1124-1992-617344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:09:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f92c2a8686986dd47001554d719bea2d23babaa2a7f1caf27cf877a132614d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b5a4bc55b52486425ac29d102734d717c4a27757d710aac5f746304e6e6f3f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:09:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Controlo Sanitário
 - Gado Suíno
 - Importação
-- Reprodução Animal
 - Política Agrícola Comum
 - Regulamento
+- Reprodução Animal
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -86,16 +86,26 @@ relationships:
   target: celex:31990L0429
   label: null
   source: http://data.europa.eu/eli/dir/1990/429/oj
+- type: repealed_by
+  target: pt:dre:430392:por
+  label: "Revogados os anexos A e B pela PORT.455/98.1998.07.29.MADRP, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1998-430392
+  date: '1998-07-29'
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogada, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:09:27Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +122,7 @@ Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decre
 
 Ministério da Agricultura.
 
-**Assinada em 9 de Novembro de 1992.**
+Assinada em 9 de Novembro de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
@@ -122,15 +132,15 @@ Regulamento das Trocas Comerciais Intracomunitárias e Importações de Sémen d
 
 ### CAPÍTULO I — Disposições iniciais
 
-###### Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais da espécie suína.
+Artigo 1.º O presente Regulamento estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais da espécie suína.
 
-###### Art. 2.º - 1 - Ao presente Regulamento são aplicáveis as definições constantes da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, e das Portarias n.os 467/90, de 22 de Junho, 380/90, de 18 de Maio, e 231/90, de 21 de Março.
+Art. 2.º - 1 - Ao presente Regulamento são aplicáveis as definições constantes da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, e das Portarias n.os 467/90, de 22 de Junho, 380/90, de 18 de Maio, e 231/90, de 21 de Março.
 
 2 - Para efeitos do presente Regulamento entende-se por «sémen» o ejaculado, no seu estado natural, preparado ou diluído, de um animal doméstico da espécie suína.
 
 ### CAPÍTULO II — Trocas comerciais intracomunitárias
 
-###### Art. 3.º O sémen destinado às trocas comerciais deve satisfazer as seguintes condições gerais:
+Art. 3.º O sémen destinado às trocas comerciais deve satisfazer as seguintes condições gerais:
 
 a) Ter sido colhido e tratado, com vista à inseminação artificial, num centro de colheita autorizado pela autoridade competente que obedeça às condições gerais deste Regulamento e às estabelecidas no anexo A;
 
@@ -138,7 +148,7 @@ b) Ter sido colhido em animais da espécie suína cuja situação sanitária est
 
 c) Ter sido colhido, tratado, armazenado e transportado nos termos dos anexos A e C a este Regulamento.
 
-###### Art. 4.º - 1 - Até 31 de Dezembro de 1992, se os centros de colheita nacionais apenas incluírem animais não vacinados contra a doença de Aujeszky que apresentem resultado negativo na prova de seroneutralização ou na prova ELISA para a pesquisa da doença de Aujeszky, pode ser recusada a introdução em território nacional de sémen proveniente de centros de colheita que não possuam o mesmo estatuto que os nacionais.
+Art. 4.º - 1 - Até 31 de Dezembro de 1992, se os centros de colheita nacionais apenas incluírem animais não vacinados contra a doença de Aujeszky que apresentem resultado negativo na prova de seroneutralização ou na prova ELISA para a pesquisa da doença de Aujeszky, pode ser recusada a introdução em território nacional de sémen proveniente de centros de colheita que não possuam o mesmo estatuto que os nacionais.
 
 2 - Não poderá, no entanto, ser impedida admissão de sémen proveniente de varrascos vacinados no centro de colheita com vacina GI delectada se:
 
@@ -148,11 +158,11 @@ b) Nos exames serológicos efectuados nas três semanas posteriores à vacinaç�
 
 3 - O disposto no n.º 1 apenas se aplica quando forem elaborados os protocolos relativos aos testes a utilizar, nomeadamente quanto à sua frequência, aos testes de isolamento do vírus e à eficácia e segurança da vacina GI com delecção.
 
-###### Art. 5.º - 1 - O cumprimento das condições de autorização dos centros de colheita será controlado pelo médico veterinário oficial, que proporá ao director-geral da Pecuária a suspensão da autorização em caso de incumprimento.
+Art. 5.º - 1 - O cumprimento das condições de autorização dos centros de colheita será controlado pelo médico veterinário oficial, que proporá ao director-geral da Pecuária a suspensão da autorização em caso de incumprimento.
 
 2 - Os centros de colheita de sémen autorizados são objecto de um registo oficial na Direcção-Geral da Pecuária, que atribui a cada centro um número de registo veterinário, sendo a listagem dos centros, bem como, quando for caso disso, a suspensão da autorização, comunicada a todos os Estados membros e à Comissão das Comunidades Europeias.
 
-###### Art. 6.º Cada lote de sémen será acompanhado por um certificado sanitário, conforme o modelo constante do anexo D ao presente Regulamento, passando por um médico veterinário oficial do Estado membro de colheita, devendo esse certificado:
+Art. 6.º Cada lote de sémen será acompanhado por um certificado sanitário, conforme o modelo constante do anexo D ao presente Regulamento, passando por um médico veterinário oficial do Estado membro de colheita, devendo esse certificado:
 
 a) Ser redigido, pelo menos, numa das línguas oficiais do Estado membro de colheita e numa das línguas oficiais do Estado membro de destino;
 
@@ -162,11 +172,11 @@ c) Ser emitido numa única folha;
 
 d) Ser emitido para um único destinatário.
 
-###### Art. 7.º Em caso de suspeita de infecção ou contaminação por germes patogénicos do sémen entrado em território nacional, a autoridade competente pode tomar, para além das medidas previstas no artigo 8.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, as medidas necessárias para esclarecimento daquelas suspeitas, incluindo a colocação do sémen em quarentena, desde que não seja posto em causa o seu prazo de validade.
+Art. 7.º Em caso de suspeita de infecção ou contaminação por germes patogénicos do sémen entrado em território nacional, a autoridade competente pode tomar, para além das medidas previstas no artigo 8.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), do Conselho, de 26 de Junho, as medidas necessárias para esclarecimento daquelas suspeitas, incluindo a colocação do sémen em quarentena, desde que não seja posto em causa o seu prazo de validade.
 
 ### CAPÍTULO III — Importações provenientes de países terceiros
 
-###### Art. 8.º - 1 - Só é autorizada a importação de sémen proveniente dos países terceiros enumerados em lista elaborada de acordo com a regulamentação comunitária.
+Art. 8.º - 1 - Só é autorizada a importação de sémen proveniente dos países terceiros enumerados em lista elaborada de acordo com a regulamentação comunitária.
 
 2 - Para decidir se um país terceiro pode integrar a lista a que se refere o número anterior ter-se-á, nomeadamente, em conta:
 
@@ -184,7 +194,7 @@ f) As garantias que esse país pode dar no que se refere ao cumprimento do dispo
 
 3 - A lista a que se refere o n.º 1 e todas as alterações nela introduzidas serão publicadas no Jornal Oficial das Comunidades Europeias.
 
-###### Art. 9.º - 1 - Os centros de colheita de países terceiros dos quais é autorizada a importação de sémen para o território da Comunidade Económica Europeia constarão de lista elaborada de acordo com a regulamentação comunitária.
+Art. 9.º - 1 - Os centros de colheita de países terceiros dos quais é autorizada a importação de sémen para o território da Comunidade Económica Europeia constarão de lista elaborada de acordo com a regulamentação comunitária.
 
 2 - Para decidir se um centro de colheita de sémen situado num país terceiro pode figurar na lista referida no número anterior considerar-se-á, nomeadamente, o controlo veterinário exercido no país terceiro no que respeita às modalidades de produção de sémen, os poderes de que dispõem os serviços veterinários e a vigilância a que são submetidos os centros de colheita de sémen.
 
@@ -200,7 +210,7 @@ d) Estiver sob vigilância de um veterinário responsável pelo centro do país 
 
 e) For regularmente inspeccionado, pelo menos duas vezes por ano, por um veterinário oficial do país terceiro em causa.
 
-###### Art. 10.º - 1 - Para além das condições previstas no artigo 4.º, o sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos três meses no território de um país terceiro que conste na lista referida no n.º 1 do artigo 8.º
+Art. 10.º - 1 - Para além das condições previstas no artigo 4.º, o sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos três meses no território de um país terceiro que conste na lista referida no n.º 1 do artigo 8.º
 
 2 - Sem prejuízo do disposto no número anterior, os Estados membros só autorizarão a importação de sémen proveniente de um país terceiro que conste da lista elaborada nos termos do n.º 1 do artigo 8.º, se esse sémen corresponder às prescrições de polícia sanitária adoptadas, de acordo com a regulamentação comunitária para as importações de sémen provenientes desse país.
 
@@ -216,7 +226,7 @@ c) A metodologia das análises a que deve ser submetido o sémen.
 
 5 - Ao presente capítulo é aplicável o disposto no artigo 4.º
 
-###### Art. 11.º - 1 - Apenas será permitida a importação de sémen contra a apresentação de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita, devendo esse certificado:
+Art. 11.º - 1 - Apenas será permitida a importação de sémen contra a apresentação de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita, devendo esse certificado:
 
 a) Ser redigido, pelo menos, numa das línguas oficiais do Estado membro de destino e numa das línguas oficiais do Estado membro onde se efectua o controlo à importação previsto no artigo seguinte;
 
@@ -228,7 +238,7 @@ d) Ser emitido para um único destinatário.
 
 2 - O certificado sanitário deve ser conforme com um modelo estabelecido de acordo com o processo comunitariamente previsto.
 
-###### Art. 12.º - 1 - Cada lote de sémen chegado ao território aduaneiro da Comunidade Económica Europeia é submetido a um controlo antes de ser posto em livre prática ou colocação sob um regime aduaneiro, sendo proibida a sua entrada sempre que o controlo à importação, efectuado à sua chegada, revelar que:
+Art. 12.º - 1 - Cada lote de sémen chegado ao território aduaneiro da Comunidade Económica Europeia é submetido a um controlo antes de ser posto em livre prática ou colocação sob um regime aduaneiro, sendo proibida a sua entrada sempre que o controlo à importação, efectuado à sua chegada, revelar que:
 
 a) O sémen não provém do território de um país terceiro que conste da lista referida no n.º 1 do artigo 8.º;
 
@@ -246,15 +256,15 @@ d) O certificado sanitário que acompanha o sémen não preenche as condições 
 
 5 - Sempre que haja uma proibição à entrada do sémen por um dos motivos referidos nos n.os 1 e 4 e se o país terceiro exportador não autorizar a sua reexpedição no prazo de 30 dias, quando se trate de sémen congelado, ou imediatamente, se se tratar de sémen fresco, a autoridade veterinária competente do Estado membro de destino pode ordenar a destruição do sémen.
 
-###### Art. 13.º Cada lote de sémen cuja introdução na Comunidade Económica Europeia tenha sido autorizada por um Estado membro com base no controlo a que se refere o n.º 1 do artigo anterior deve, durante o seu transporte para o território de outro Estado membro, ser sempre acompanhado pelo original do certificado ou por uma cópia autenticada do mesmo, visado pela autoridade competente responsável pelo referido controlo.
+Art. 13.º Cada lote de sémen cuja introdução na Comunidade Económica Europeia tenha sido autorizada por um Estado membro com base no controlo a que se refere o n.º 1 do artigo anterior deve, durante o seu transporte para o território de outro Estado membro, ser sempre acompanhado pelo original do certificado ou por uma cópia autenticada do mesmo, visado pela autoridade competente responsável pelo referido controlo.
 
-###### Art. 14.º Se forem decididas medidas de destruição em aplicação do n.º 5 do artigo 12.º, as despesas respectivas ficarão a cargo do expedidor, do destinatário ou do seu mandatário, não sendo concedida qualquer indemnização pelo Estado.
+Art. 14.º Se forem decididas medidas de destruição em aplicação do n.º 5 do artigo 12.º, as despesas respectivas ficarão a cargo do expedidor, do destinatário ou do seu mandatário, não sendo concedida qualquer indemnização pelo Estado.
 
 ### CAPÍTULO IV — Medidas de salvaguarda e de controlo
 
-###### Art. 15.º Ao presente capítulo são aplicáveis as regras previstas na Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), de 26 de Junho, nomeadamente no que respeita aos controlos na origem e à organização e seguimento a dar aos controlos a efectuar pelo Estado membro destinatário.
+Art. 15.º Ao presente capítulo são aplicáveis as regras previstas na Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt), de 26 de Junho, nomeadamente no que respeita aos controlos na origem e à organização e seguimento a dar aos controlos a efectuar pelo Estado membro destinatário.
 
-###### Art. 16.º - 1 - São aplicáveis, em matéria de trocas comerciais intracomunitárias, as medidas de salvaguarda previstas no artigo 10.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt).
+Art. 16.º - 1 - São aplicáveis, em matéria de trocas comerciais intracomunitárias, as medidas de salvaguarda previstas no artigo 10.º da Directiva n.º [90/425/CEE](http://data.europa.eu/eli/dir/1990/425/oj?locale=pt).
 
 2 - Sem prejuízo do disposto nos artigos 9.º, 10.º e 11.º, é proibida a importação directa ou indirecta de sémen de um país terceiro, ou de parte do seu território, onde tenha sido detectada uma doença contagiosa dos animais ou por qualquer outra razão de ordem sanitária susceptível de comprometer a situação sanitária do efectivo de um dos Estados membros.
 
@@ -266,7 +276,7 @@ d) O certificado sanitário que acompanha o sémen não preenche as condições 
 
 6 - O recomeço das importações provenientes de países terceiros será autorizado de acordo com o processo comunitariamente previsto.
 
-###### Art. 17.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias podem, em colaboração com a autoridade sanitária nacional e dos países terceiros, efectuar controlos no local, na medida em que tal for necessário para avaliar as condições de cumprimento do presente Regulamento.
+Art. 17.º - 1 - Os peritos veterinários da Comissão das Comunidades Europeias podem, em colaboração com a autoridade sanitária nacional e dos países terceiros, efectuar controlos no local, na medida em que tal for necessário para avaliar as condições de cumprimento do presente Regulamento.
 
 2 - O país de colheita onde for efectuado o controlo proporcionará toda a ajuda necessária aos peritos, devendo a Comissão das Comunidades Europeias informar o Estado membro ou o país de colheita de sémen do resultado dos controlos efectuados.
 
@@ -276,11 +286,13 @@ d) O certificado sanitário que acompanha o sémen não preenche as condições 
 
 5 - As regras gerais de execução do presente artigo, nomeadamente as respeitantes à frequência e às modalidades de realização dos controlos referidos no n.º 1, serão fixadas de acordo com a regulamentação comunitária.
 
-###### Art. 18.º Até à data da entrada em vigor das decisões adoptadas em aplicação dos artigos 9.º, 10.º e 11.º, não serão aplicadas às importações de sémen condições mais favoráveis do que as fixadas no capítulo II do presente diploma.
+Art. 18.º Até à data da entrada em vigor das decisões adoptadas em aplicação dos artigos 9.º, 10.º e 11.º, não serão aplicadas às importações de sémen condições mais favoráveis do que as fixadas no capítulo II do presente diploma.
 
 Anexos ao Regulamento das Trocas Comerciais Intracomunitárias e Importações de Sémen de Animais da Espécie Suína.
 
-## ANEXO A — Capítulo I
+## ANEXO A
+
+### Capítulo I
 
 Condições de autorização dos centros de colheita de sémen
 
@@ -336,7 +348,9 @@ f) Ser fiscalizados por forma a garantir as seguintes condições:
 
 7) Que cada colheita de sémen, separada ou não em doses individuais, tenha uma marca visível, que permita verificar facilmente a data de colheita, bem como a raça e a identificação do animal dador e o nome e o número de registo do centro, precedido do nome do país de origem, se necessário em código.
 
-## ANEXO B — Capítulo I
+## ANEXO B
+
+### Capítulo I
 
 Condições aplicáveis à admissão dos animais nos centros autorizados de colheita de sémen
 
@@ -450,4 +464,4 @@ c) O sémen destinado às trocas intracomunitárias deve:
 
 2) Ser transportado para o Estado membro de destino em recipientes que tenham sido limpos, desinfectados ou esterilizados antes de serem usados e que tenham sido selados antes de deixarem o local de armazenagem autorizado.
 
-## ANEXO D — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/283b00/56415645.pdf))](https://files.diariodarepublica.pt/1s/1992/12/283b00/56415645.pdf)
+## ANEXO D — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/283b00/56415645.pdf)

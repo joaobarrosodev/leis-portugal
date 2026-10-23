@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/81/2003/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/81-2003-445971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ad439cf56ac45a562b51412cbab47b8ade375151a65439d6cc3ac3e158def62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d05d9143f443d97487774a61bba1eee319c77a490a47bcb62e80026b0f9d98e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,30 @@ subjects:
 - Comissão Eventual para a Reforma do Sistema Político
 - Mandato
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:31/2002
+  label: "Renova, até 31 de Janeiro de 2004, o mandato da Comissão Eventual para a Reforma do Sistema Político constituida\
+    \ pela Resolução da Assembleia da República n.º 31/2002, de 23 de Maio, DR.IS-A [119] de 31/Out/2002\0\0"
+  source: null
+  date: '2002-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/31/2002/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/31/2002/05/23/p/dre
+- type: cites
+  target: pt:dre:158587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:33Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +106,4 @@ O mandato da Comissão Eventual para a Reforma do Sistema Político, constituíd
 
 Aprovada em 30 de Outubro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.

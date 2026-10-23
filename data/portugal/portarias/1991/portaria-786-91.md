@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/786/1991/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/786-1991-682256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f300b247a3504310e730abf09a54ee1f0e0b67d245c238b6661c22040ec43228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15cf89b5032c41d261d4a3a6178c247f94d09fce23c605c6d07b098293186b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,17 +73,33 @@ subjects:
 - Instituto Superior de Contabilidade e Administração
 - Numerus Clausus
 - Porto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496350:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:03Z'
   warnings: []
   errors: []
 ---
@@ -136,6 +152,6 @@ III) Contingentes a que se refere a alínea c) dos n.os 3 e 4 do n.º 5.º - 15%
 
 Ministério da Educação.
 
-**Assinada em 28 de Junho de 1991.**
+Assinada em 28 de Junho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

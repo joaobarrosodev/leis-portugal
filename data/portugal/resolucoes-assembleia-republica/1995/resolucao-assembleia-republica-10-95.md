@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/1995/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-1995-206617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1543fd13456fc8293bfa1e4c9d5373d995b7a4f5adaf74cdf30b0874b45a4c20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0abaf2a6ac93e03e78e1f1661279fe7267bb43e203c780337deb91effa60e0ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Eutelsat
 - Comunicação por Satélite
+- Convenção
+- Eutelsat
 - Paris
+- Portugal
 - Privilegios e Imunidades
 relationships:
 - type: amended_by
   target: pt:dre:652704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:206618:por
+  label: "Ratificado o Protocolo aprovado para ratificação pelo presente diploma, pelo DEC.27/95.1995.02.18.PR DR.IS-A [42]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/27-1995-206618
+  date: '1995-02-18'
+- type: amended_by
+  target: pt:dre:652704:por
+  label: "Acordada a alteração do prêambulo, do arts. 1.º, 3.º, 4.º, 10.º, 13.º, 14.º, 18.º, 19.º, 20.º, 22.º, 23.º, 24.º,\
+    \ 25.º, da eliminação do art. 8.º e na renumeração respectiva do Protocolo aprovado para ratificação no presente diploma,\
+    \ pelo Acordo de alteração aprovado para adesão pela RES.65/2003.2003.05.29.AR DR.IS-A [177] de 02/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/65-2003-652704
+  date: '2003-05-29'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:33Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +110,9 @@ Aprova, para ratificação, o Protocolo Relativo aos Privilégios, Isenções e 
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado, para ratificação, o Protocolo Relativo aos Privilégios, Isenções e Imunidades da Organização Europeia de Telecomunicações por Satélite (EUTELSAT), aprovado em Paris em 13 de Fevereiro de 1987, cujo texto original em inglês e a respectiva tradução para português seguem em anexo à presente resolução.
+Artigo 1.º É aprovado, para ratificação, o Protocolo Relativo aos Privilégios, Isenções e Imunidades da Organização Europeia de Telecomunicações por Satélite (EUTELSAT), aprovado em Paris em 13 de Fevereiro de 1987, cujo texto original em inglês e a respectiva tradução para português seguem em anexo à presente resolução.
 
-###### Art. 2.º A aprovação do Protocolo é feita com as seguintes reservas:
+Art. 2.º A aprovação do Protocolo é feita com as seguintes reservas:
 
 a) A isenção constante do n.º 1 do artigo 4.º aplica-se à EUTELSAT, no quadro das suas actividades oficiais, relativamente aos seus rendimentos e bens, incluindo o sector espacial da EUTELSAT, no respeitante aos impostos sobre o rendimento e aos impostos sobre o património, cabendo a Portugal a respectiva classificação;
 
@@ -109,7 +122,7 @@ c) O disposto no artigo 18.º não é aplicável aos litígios que caibam na com
 
 Aprovada em 3 de Novembro de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE EUROPEAN TELECOMMUNICATIONS SATELLITE ORGANIZATION (EUTELSAT).
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 238/1997, 1º Suplemento, Série I-A de 1997-10-14
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5486-(3) a 5486-(192)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-b-1997-152897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfabe773db228b9985572be68f28a097c7aed60759e98e6a9fdc3e2b49f53a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e76b307684ccdb66b7df21eef52edcdd31e04b305f93c539fab5a2199963389e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,47 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Achado no MAR
-- Direito Marítimo
+- Alijamento
 - Arbitragem
-- Jurisdição
-- Embarcação
+- Arresto de Navios
 - Autoridade Internacional dos Fundos Marinhos
 - Avião
 - Bandeira
 - Câmara de Controvérsias dos Fundos Marinhos
-- Investigação Científica e Tecnológica
-- Mar
-- Proteção dos Animais
-- Zona Económica Exclusiva
+- Comissão para a Delimitação da Plataforma Continental
+- Comunicações
 - Convenção
+- Cooperação Científica
+- Cooperação Internacional
 - Cooperação Técnica
-- Portugal
+- Direito Internacional
 - Direito Internacional Público
-- Alijamento
-- Mar Territorial
+- Direito Marítimo
 - Ecologia
-- Arresto de Navios
+- Embarcação
 - Embarcação Estrangeira
+- Escravatura
 - Espaço Aéreo
-- Recursos Minerais
-- ONU
 - Fundo Marinho
 - Gestão dos Recursos
 - Imunidade Diplomática
-- Recursos do Mar
+- Investigação Científica e Tecnológica
+- Jurisdição
+- Mar
+- Mar Territorial
 - Meio Marinho
 - Montego Bay
-- Unidade Naval
-- Radiodifusão
-- Proteção do Ambiente
+- ONU
+- Organismo Internacional
 - Património Comum da Humanidade
 - Pirataria
-- Cooperação Científica
-- Cooperação Internacional
 - Poluição Marinha
 - Poluição pelos Navios
+- Portugal
+- Proteção do Ambiente
+- Proteção dos Animais
+- Radiodifusão
+- Recursos do Mar
+- Recursos Minerais
 - Recursos Naturais
-- Comunicações
 - Regulamento Internacional para Evitar Abalroamentos no MAR
 - Responsabilidade Civil
 - Responsabilidade Internacional
@@ -115,23 +117,26 @@ subjects:
 - ROTA Marítima
 - Segurança Marítima
 - Teledifusão
-- Escravatura
 - Transporte de Mercadorias Perigosas
-- Direito Internacional
 - Tribunal Internacional do Direito do MAR
-- Organismo Internacional
-- Comissão para a Delimitação da Plataforma Continental
-relationships: []
+- Unidade Naval
+- Zona Económica Exclusiva
+relationships:
+- type: amended_by
+  target: pt:dre:152896:por
+  label: "Ratificada a Convenção e o Acordo pelo DEC.67-A/97.1997.10.14.PR, DR.IS-A [238]Supl de 1997.10.14\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/67-a-1997-152896
+  date: '1997-10-14'
 article_structure:
-  article_count: 456
-  section_count: 64
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 457
+  section_count: 82
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:57Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +191,7 @@ d) Tribunal arbitral especial, constituído nos termos do anexo VIII;
 
 Aprovada em 3 de Abril de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 UNITED NATIONS CONVENTION ON THE LAW OF THE SEA
 
@@ -4432,7 +4437,7 @@ referred to hereinafter as attributable net proceeds;
 
 ii) The Authority's share of attributable net proceeds shall be determined in accordance with the following incremental schedule:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf))](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf)
 
 d):
 
@@ -6142,7 +6147,7 @@ Afirmando que as matérias não reguladas pela presente Convenção continuarão
 
 acordam o seguinte:
 
-# PARTE I — Introdução
+## PARTE I — Introdução
 
 ###### Artigo 1.º — Termos utilizados e âmbito de aplicação
 
@@ -6174,7 +6179,7 @@ ii) O depósito de matérias para outros fins que não os do seu simples lançam
 
 2) A Convenção aplica-se mutatis mutandis às entidades mencionadas nas alíneas b), c), d), e) e f) do n.º 1 do artigo 305.º que se tenham tornado Partes na presente Convenção de conformidade com as condições relativas a cada uma delas e, nessa medida, a expressão «Estados Partes» compreende essas entidades.
 
-# PARTE II — Mar territorial e zona contígua
+## PARTE II — Mar territorial e zona contígua
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -6458,7 +6463,7 @@ b) Reprimir as infracções às leis e regulamentos no seu território ou no seu
 
 2 - A zona contígua não pode estender-se além de 24 milhas marítimas, contadas a partir das linhas de base que servem para medir a largura do mar territorial.
 
-# PARTE III — Estreitos utilizados para a navegação internacional
+## PARTE III — Estreitos utilizados para a navegação internacional
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -6586,7 +6591,7 @@ b) Situados entre uma parte de alto mar ou uma zona económica exclusiva e o mar
 
 2 - Não haverá nenhuma suspensão da passagem inofensiva por tais estreitos.
 
-# PARTE IV — Estados arquipélagos
+## PARTE IV — Estados arquipélagos
 
 ###### Artigo 46.º — Expressões utilizadas
 
@@ -6678,7 +6683,7 @@ Deveres dos navios e aeronaves durante a passagem, actividades de investigação
 
 Os artigos 39.º, 40.º, 42.º e 44.º aplicam-se, mutatis mutandis, à passagem pelas rotas marítimas arquipelágicas.
 
-# PARTE V — Zona económica exclusiva
+## PARTE V — Zona económica exclusiva
 
 ###### Artigo 55.º — Regime jurídico específico da zona económica exclusiva
 
@@ -6916,7 +6921,7 @@ As disposições dos artigos 69.º e 70.º não se aplicam a um Estado costeiro 
 
 2 - O Estado costeiro deve dar a devida publicidade a tais cartas ou listas de coordenadas geográficas e deve depositar um exemplar de cada carta ou lista junto do Secretário-Geral das Nações Unidas.
 
-# PARTE VI — Plataforma continental
+## PARTE VI — Plataforma continental
 
 ###### Artigo 76.º — Definição da plataforma continental
 
@@ -7012,7 +7017,7 @@ O Estado costeiro terá o direito exclusivo de autorizar e regulamentar as perfu
 
 A presente parte não prejudica o direito do Estado costeiro de aproveitar o subsolo por meio de escavação de túneis, independentemente da profundidade das águas no local considerado.
 
-# PARTE VII — Alto mar
+## PARTE VII — Alto mar
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -7298,7 +7303,7 @@ b) Ter em conta os efeitos sobre as espécies associadas às espécies capturada
 
 O artigo 65.º aplica-se também à conservação e gestão dos mamíferos marinhos no alto mar.
 
-# PARTE VIII — Regime das ilhas
+## PARTE VIII — Regime das ilhas
 
 ###### Artigo 121.º — Regime das ilhas
 
@@ -7308,7 +7313,7 @@ O artigo 65.º aplica-se também à conservação e gestão dos mamíferos marin
 
 3 - Os rochedos que, por si próprios, não se prestam à habitação humana ou à vida económica não devem ter zona económica exclusiva nem plataforma continental.
 
-# PARTE IX — Mares fechados ou semifechados
+## PARTE IX — Mares fechados ou semifechados
 
 ###### Artigo 122.º — Definição
 
@@ -7326,7 +7331,7 @@ c) Coordenar as suas políticas de investigação científica e empreender, quan
 
 d) Convidar, quando apropriado, outros Estados interessados ou organizações internacionais a cooperar com eles na aplicação das disposições do presente artigo.
 
-# PARTE X — Direito de acesso ao mar e a partir do mar dos Estados sem litoral e liberdade de trânsito
+## PARTE X — Direito de acesso ao mar e a partir do mar dos Estados sem litoral e liberdade de trânsito
 
 ###### Artigo 124.º — Termos utilizados
 
@@ -7386,7 +7391,7 @@ Os navios arvorando a bandeira de um Estado sem litoral devem gozar nos portos m
 
 A presente Convenção não implica de modo algum a retirada de facilidades de trânsito que sejam maiores que as previstas na presente Convenção e que tenham sido acordadas entre os Estados Partes à presente Convenção ou concedidas por um Estado Parte. A presente Convenção não impede, também, a concessão de maiores facilidades no futuro.
 
-# PARTE XI — A área
+## PARTE XI — A área
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -8024,7 +8029,7 @@ f) Os pagamentos efectuados, de conformidade com o n.º 10 do artigo 151.º, a u
 
 ###### Artigo 172.º — Orçamento anual da Autoridade
 
-**O secretário-geral preparará o projecto de orçamento anual da Autoridade e submetê-lo-á ao conselho. Este examinará o projecto de orçamento anual e submetê-lo-á à assembleia com as respectivas recomendações. A assembleia examinará e aprovará o projecto de orçamento de conformidade com a alínea h) do n.º 2 do artigo 160.º**
+O secretário-geral preparará o projecto de orçamento anual da Autoridade e submetê-lo-á ao conselho. Este examinará o projecto de orçamento anual e submetê-lo-á à assembleia com as respectivas recomendações. A assembleia examinará e aprovará o projecto de orçamento de conformidade com a alínea h) do n.º 2 do artigo 160.º
 
 ###### Artigo 173.º — Despesas da Autoridade
 
@@ -8170,7 +8175,7 @@ A Câmara de Controvérsias dos Fundos Marinhos não terá competência para se 
 
 A Câmara de Controvérsias dos Fundos Marinhos emitirá, a pedido da assembleia ou do conselho, pareceres consultivos sobre questões jurídicas que se suscitem no âmbito das suas actividades. Tais pareceres serão emitidos com carácter de urgência.
 
-# PARTE XII — Protecção e preservação do meio marinho
+## PARTE XII — Protecção e preservação do meio marinho
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -8536,7 +8541,7 @@ As disposições da presente Convenção relativas à protecção e preservaçã
 
 2 - As obrigações específicas contraídas pelos Estados em virtude de convenções especiais, relativas à -protecção e preservação do meio marinho, devem ser cumpridas de modo compatível com os princípios e objectivos gerais da presente Convenção.
 
-# PARTE XIII — Investigação científica marinha
+## PARTE XIII — Investigação científica marinha
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -8754,7 +8759,7 @@ As controvérsias relativas à interpretação ou aplicação das disposições 
 
 Enquanto uma controvérsia não for solucionada de conformidade com as secções 2 e 3 da parte XV, o Estado ou a organização internacional competente autorizado a realizar um projecto de investigação científica marinha não deve permitir que se iniciem ou continuem as actividades de investigação sem o consentimento expresso do Estado costeiro interessado.
 
-# PARTE XIV — Desenvolvimento e transferência de tecnologia marinha
+## PARTE XIV — Desenvolvimento e transferência de tecnologia marinha
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -8870,7 +8875,7 @@ i) Cooperação técnica com outros Estados da região.
 
 As organizações internacionais competentes mencionadas na presente parte e na parte XIII devem tomar todas as medidas apropriadas para assegurarem, directamente ou em estreita cooperação entre si, o cumprimento efectivo das funções e responsabilidades decorrentes da presente parte.
 
-# PARTE XV — Solução de controvérsias
+## PARTE XV — Solução de controvérsias
 
 #### SECÇÃO 1 — Disposições gerais
 
@@ -9082,7 +9087,7 @@ c) As controvérsias a respeito das quais o Conselho de Segurança das Nações 
 
 2 - Nenhuma das disposições da presente secção prejudica o direito de as partes na controvérsia convirem num outro procedimento para a solução de tal controvérsia ou de chegarem a uma solução amigável.
 
-# PARTE XVI — Disposições gerais
+## PARTE XVI — Disposições gerais
 
 ###### Artigo 300.º — Boa fé e abuso de direito
 
@@ -9110,7 +9115,7 @@ Sem prejuízo do direito de um Estado Parte de recorrer aos procedimentos de sol
 
 As disposições da presente Convenção relativas à responsabilidade por danos não prejudicam a aplicação das normas vigentes e a elaboração de novas normas relativas à responsabilidade nos termos do direito internacional.
 
-# PARTE XVII — Disposições finais
+## PARTE XVII — Disposições finais
 
 ###### Artigo 305.º — Assinatura
 
@@ -9570,7 +9575,7 @@ i) A parte da Autoridade nas receitas líquidas será retirada da parte das rece
 
 ii) A parte da Autoridade nas receitas líquidas atribuíveis será determinada de conformidade com a seguinte tabela progressiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf))](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/238a01/00030192.pdf)
 
 d):
 
@@ -10000,7 +10005,7 @@ Se as partes numa controvérsia tiverem acordado, de conformidade com o artigo 2
 
 ###### Artigo 2.º — Lista de conciliadores
 
-**O Secretário-Geral das Nações Unidas elaborará e manterá uma lista de conciliadores. Cada Estado Parte designará quatro conciliadores que devem ser pessoas que gozem da mais elevada reputação pela sua imparcialidade, competência e integridade. A lista será composta pelos nomes das pessoas assim designadas. Se, em qualquer momento, os conciliadores designados por um Estado Parte para integrar a lista forem menos de quatro, esse Estado Parte fará as designações suplementares necessárias. O nome de um conciliador permanecerá na lista até ser retirado pelo Estado Parte que o tiver designado, com a ressalva de que tal conciliador continuará a fazer parte de qualquer comissão de conciliação para a qual tenha sido designado até que tenha terminado o procedimento na referida comissão.**
+O Secretário-Geral das Nações Unidas elaborará e manterá uma lista de conciliadores. Cada Estado Parte designará quatro conciliadores que devem ser pessoas que gozem da mais elevada reputação pela sua imparcialidade, competência e integridade. A lista será composta pelos nomes das pessoas assim designadas. Se, em qualquer momento, os conciliadores designados por um Estado Parte para integrar a lista forem menos de quatro, esse Estado Parte fará as designações suplementares necessárias. O nome de um conciliador permanecerá na lista até ser retirado pelo Estado Parte que o tiver designado, com a ressalva de que tal conciliador continuará a fazer parte de qualquer comissão de conciliação para a qual tenha sido designado até que tenha terminado o procedimento na referida comissão.
 
 ###### Artigo 3.º — Constituição da comissão de conciliação
 
@@ -10170,9 +10175,7 @@ Todos os membros do Tribunal devem, antes de assumir as suas funções, fazer, e
 
 3 - O Tribunal delibera sobre todas as controvérsias e pedidos que lhe sejam submetidos a menos que o artigo 14.º do presente anexo se aplique ou as partes solicitem a aplicação do artigo 15.º do presente anexo.
 
-Artigo Artigo 14.º
-
-Câmara de Controvérsias dos Fundos Marinhos
+###### Artigo Artigo 14.º — Câmara de Controvérsias dos Fundos Marinhos
 
 É criada uma Câmara de Controvérsias dos Fundos Marinhos, de conformidade com as disposições da secção 4 do presente anexo. A sua competência, poderes e funções são os definidos na secção 5 da parte XI.
 
@@ -10684,7 +10687,7 @@ d) Estados que aderirem ao presente Acordo.
 
 ###### Artigo 9.º — Depositário
 
-**O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.**
+O Secretário-Geral das Nações Unidas será o depositário do presente Acordo.
 
 ###### Artigo 10.º — Textos autênticos
 
@@ -10694,7 +10697,9 @@ Em fé do que os plenipotenciários abaixo assinados, devidamente autorizados pa
 
 Feito em Nova Iorque, a 28 de Julho de 1994.
 
-## ANEXO — SECÇÃO 1
+## ANEXO
+
+#### SECÇÃO 1
 
 Custos para os Estados Partes e ajustes institucionais
 

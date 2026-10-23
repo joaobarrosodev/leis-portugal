@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/222b00/50515053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/982/1991/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/982-1991-293305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e1836c043d6e692db4ed95f2de9f06bbe19e19f3822367c234eef0672aba7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7159b3196278e43c6729a93437997de28bc2163b0f78d296958f0a894706772d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
-- Instalação de GÁS
 - Combustível
+- Estatuto
 - Estatuto das Entidades Competentes para Adaptação dos Veículos Automóveis a Utilização de Gases de Petróleo Liquefeitos
+- Instalação de GÁS
 - Veículo
 relationships:
 - type: amended_by
   target: pt:dre:258281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539236:por
+  label: "Determinada a aplicação do presente diploma até à entrada em vigor da portaria de regulamentação correspondente\
+    \ pelo DEC LEI.136/2006.26.07.2006.MAI, DR.IS [143] de 26.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2006-539236
+  date: '2006-07-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/195/1991/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/195/1991/05/25/p/dre
+- type: cites
+  target: pt:dre:631205:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258281:por
+  label: "Revogada, a partir de 01.05.2013, pela LEI.13/2013.31.01.2013.AR, DR.IS [22] de 31.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2013-258281
+  date: '2013-01-31'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:48Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +131,7 @@ Manda o Governo, pelos Ministros da Indústria e Energia e das Obras Públicas, 
 
 Ministérios da Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 16 de Setembro de 1991.**
+Assinada em 16 de Setembro de 1991.
 
 Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
 

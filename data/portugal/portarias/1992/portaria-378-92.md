@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/101b00/20312032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378/1992/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-1992-497850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c752d4b9e2c180a2bdd05e9ad3b66517562f24ff2e4dc0785587f2ccfbe739e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06cd322184166ceb4988537068b7f6dbc152c1f4bc00308b173d0f6accf4c2ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,42 @@ reuse:
 subjects:
 - Indústria Mineira
 - Mineiro
-- Reforma Antecipada
 - Pensão de Invalidez
 - Pensão de Velhice
+- Reforma Antecipada
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:605303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:576965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:605303:por
+  label: "Revogada pela PORT.860/94.1994.09.23.MESS, DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/860-1994-605303
+  date: '1994-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:35Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +150,6 @@ Mediante requerimento dos interessados proceder-se-á à revisão dos processos 
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 8 de Abril de 1992.**
+Assinada em 8 de Abril de 1992.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

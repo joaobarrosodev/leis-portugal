@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 125/1992, 3º Suplemento, Série I-B de 1992-05-30
   number: '125'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2632-(16) a 2632-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/125b03/00160017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448-b/1992/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-b-1992-213438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 168f123537074d3e0deb26e69e28b4708fcd5ac26bff0c59468e06c1be3f7482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a8d8e7d7ce3b83ce9a5d28886bc2570da51965e7a0ac76c64ae341bfedb030c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:237597:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3393063:por
+  label: "Anulado o contingente de importação previsto no n.º 1, pelo DESP.675/92-DR.31.07.1992.MCT, DR.IIS [190] de 19.08.1992,\
+    \ correspondente ao mês de Setembro \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/675-1992-3393063
+  date: '1992-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/138/1991/02/18/p/dre
   label: null
@@ -83,16 +89,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/853/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/853/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:250605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572648:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:237597:por
+  label: "Revogada pela PORT.1241/92.31.12.1992.MA, DR.IS-B [301]10ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1241-1992-237597
+  date: '1992-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:21Z'
   warnings: []
   errors: []
 ---
@@ -153,6 +184,6 @@ Dezembro - 3000 t;
 
 Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 14 de Maio de 1992.**
+Assinada em 14 de Maio de 1992.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto. - O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.

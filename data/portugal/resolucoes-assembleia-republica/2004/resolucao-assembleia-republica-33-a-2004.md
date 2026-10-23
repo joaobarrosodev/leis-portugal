@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 93/2004, 1º Suplemento, Série I-A de 2004-04-20
   number: '93'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2386-(2) a 2386-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/093a01/00020010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/33-a/2004/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-a-2004-245122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da2bec50f02caadefb11e2b391310bec8b5f3d7165f21c43a0ec920adc508313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af8450aabc1a031c602cb1b321eb6b697ab8a439d1600c5e2975a2d5e9daf76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
 - Convenção
-- Portugal
+- Energia Elétrica
 - Espanha
 - Lisboa
 - Mibel
 - Operador do Mercado Ibérico de Energia
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:245123:por
+  label: "Ratificado o Acordo entre a República Portuguesa e o Reino de Espanha para a Constituição de Um Mercado Ibérico\
+    \ da Energia Eléctrica, aprovado pelo presente diploma, pelo DEC.19-B/2004.20.04.2004.PR, DR.IS-A [93-Supl] de 20.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/19-b-2004-245123
+  date: '2004-04-20'
 - type: cites
   target: celex:32003L0054
   label: null
   source: http://data.europa.eu/eli/dir/2003/54/oj
 article_structure:
   article_count: 18
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:15Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 15 de Abril de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA PARA A CONSTITUIÇÃO DE UM MERCADO IBÉRICO DA ENERGIA ELÉCTRICA.
 
@@ -122,7 +129,7 @@ Decididos a criar um quadro jurídico estável, que permita aos operadores dos s
 
 acordam o seguinte:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
 
@@ -160,7 +167,7 @@ h) Os comercializadores, pessoas colectivas, que, acedendo às redes de transpor
 
 i) Os consumidores finais, pessoas singulares ou colectivas, que compram energia para seu próprio consumo.
 
-# PARTE II — Disposições específicas
+## PARTE II — Disposições específicas
 
 ###### Artigo 3.º — Criação de um operador do mercado ibérico
 
@@ -196,7 +203,7 @@ c) Contratação bilateral, para contratos com um prazo mínimo de um ano.
 
 5 - Podem ser celebrados contratos bilaterais de entrega de energia eléctrica para seu fornecimento entre produtores, comercializadores e clientes finais.
 
-# PARTE III — Mecanismos de regulação, consulta, supervisão e gestão
+## PARTE III — Mecanismos de regulação, consulta, supervisão e gestão
 
 ###### Artigo 5.º — Conselho de reguladores
 
@@ -226,7 +233,7 @@ b) A resolução extrajudicial de conflitos relativos à gestão económica e ou
 
 As Partes criarão também um comité de gestão técnica e económica do MIBEL, integrado por representantes dos operadores dos sistemas e dos mercados, para gerir, de forma adequada, a comunicação e o fluxo de informação necessários entre os vários operadores, bem como para facilitar a gestão corrente das suas actividades.
 
-# PARTE IV — Autorização e inscrição dos agentes e garantia de abastecimento
+## PARTE IV — Autorização e inscrição dos agentes e garantia de abastecimento
 
 ###### Artigo 8.º — Procedimentos administrativos de autorização e inscrição dos agentes
 
@@ -240,7 +247,7 @@ As Partes criarão também um comité de gestão técnica e económica do MIBEL,
 
 2 - Da adopção dessas medidas deverá ser, com a maior brevidade e se possível antecipadamente à entrada em vigor das mesmas, informada a autoridade nacional da outra Parte.
 
-# PARTE V — Infracções, sanções e jurisdição competente
+## PARTE V — Infracções, sanções e jurisdição competente
 
 ###### Artigo 10.º — Infracções
 
@@ -318,7 +325,7 @@ b) Suspensão da autorização administrativa, com a consequente proibição de 
 
 2 - No caso dos actos administrativos que decidam conflitos entre entidades de ambas as Partes, será competente para conhecer dos recursos judiciais interpostos a jurisdição correspondente ao país no qual foi ou devia ter sido entregue a energia contratada.
 
-# PARTE VI — Disposições finais
+## PARTE VI — Disposições finais
 
 ###### Artigo 13.º — Comissão de acompanhamento
 
@@ -356,7 +363,7 @@ Em fé do que os abaixo assinados, estando devidamente autorizados, assinaram o 
 
 Feito em Lisboa em 20 de Janeiro de 2004, nas línguas portuguesa e espanhola, fazendo ambos os textos igualmente fé.
 
-**O Ministro da Economia da República Portuguesa:**
+O Ministro da Economia da República Portuguesa:
 
 Carlos Tavares.
 

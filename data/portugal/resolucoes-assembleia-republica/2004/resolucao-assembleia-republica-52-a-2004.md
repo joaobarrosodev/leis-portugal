@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 169/2004, 1º Suplemento, Série I-A de 2004-07-20
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4464-(2) a 4464-(157)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52-a/2004/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-a-2004-413394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa245a26ee47b67d2f62c75396e6b2ee3204d8429167a50a1e58a23307010e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c0e6d33bfda0080e35d8186c678ffae87660a691130e80f1b6707e2fa113833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,30 @@ subjects:
 - CE Países
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Bilateral
-- Cooperação Comercial
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Portugal
-- União Europeia
-- Livre Circulação de Mercadorias
 - Cooperação Agrícola
+- Cooperação Bilateral
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Cooperação Política
+- Cooperação Técnica
 - Exportação
+- Livre Circulação de Mercadorias
+- Portugal
+- União Europeia
 - Valencia
 relationships:
+- type: amended_by
+  target: pt:dre:413395:por
+  label: "Ratificado o Acordo pelo DEC.35-A/2004.20.07.2004.PR, DR.IS-A [169-Supl] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-a-2004-413395
+  date: '2004-07-20'
 - type: cites
   target: celex:31989R4064
   label: null
@@ -113,13 +118,13 @@ relationships:
 article_structure:
   article_count: 180
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:51Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +137,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de Maio de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA ARGELINA DEMOCRÁTICA E POPULAR, POR OUTRO.
 
@@ -1404,7 +1409,7 @@ O presente Acordo entra em vigor no 1.º dia do 2.º mês seguinte à data em qu
 
 2 - A partir da sua entrada em vigor, o presente Acordo substitui o Acordo de Cooperação entre a Comunidade Europeia e a República Argelina Democrática e Popular, bem como o Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a República Argelina Democrática e Popular, assinados em Argel em 26 de Abril de 1976.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO N.º 1 — Lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do sistema harmonizado referidos nos artigos 7.º e 14.º
 
@@ -1444,11 +1449,11 @@ Posição SH - 5302 (cânhamo em bruto).
 
 Código SH
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO N.º 3 — Lista de produtos a que se refere o n.º 2 do artigo 9.º
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO N.º 4 — Lista de produtos referidos no n.º 4 do artigo 17.º
 
@@ -1456,7 +1461,7 @@ Posição pautal
 
 (Pauta Aduaneira da Argélia)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO N.º 5 — Normas de execução do artigo 41.º
 
@@ -1624,9 +1629,9 @@ b) Igual ou inferior a (euro) 1 por montante unitário no caso de direitos espec
 
 2 - Em conformidade com a legislação em vigor na Argélia, os vinhos referidos no n.º 1 têm as seguintes denominações de origem: Aïn Bessem-Bouira, Médéa, Coteaux du Zaccar, Dahra, Coteaux de Mascara, Monts du Tessalah, Coteaux de Tlemcen.
 
-## ANEXO N.º 1 — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+## ANEXO N.º 1 — [[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
-## ANEXO N.º 2 — [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+## ANEXO N.º 2 — [[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 PROTOCOLO N.º 2 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA ARGÉLIA DE PRODUTOS AGRÍCOLAS ORIGINÁRIOS DA COMUNIDADE
 
@@ -1634,7 +1639,7 @@ PROTOCOLO N.º 2 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA ARGÉLIA DE 
 
 Relativamente aos produtos originários da Comunidade enumerados a seguir, os direitos aduaneiros de importação na Argélia não serão superiores aos indicados na coluna A reduzidos nas proporções indicadas na coluna B e dentro dos limites dos contingentes pautais indicados na coluna C.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 PROTOCOLO N.º 3 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE DE PRODUTOS DA PESCA ORIGINÁRIOS DA ARGÉLIA
 
@@ -1642,7 +1647,7 @@ PROTOCOLO N.º 3 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE D
 
 A importação na Comunidade dos produtos a seguir enumerados originários da Argélia beneficiará da isenção de direitos aduaneiros.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 PROTOCOLO N.º 4 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA ARGÉLIA DE PRODUTOS DA PESCA ORIGINÁRIOS DA COMUNIDADE
 
@@ -1650,7 +1655,7 @@ PROTOCOLO N.º 4 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA ARGÉLIA DE 
 
 A importação na Argélia dos produtos a seguir enumerados originários da Comunidade beneficiará da isenção de direitos aduaneiros de acordo com as condições indicadas.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 PROTOCOLO N.º 5 - SOBRE O COMÉRCIO DE PRODUTOS AGRÍCOLAS TRANSFORMADOS ENTRE A ARGÉLIA E A COMUNIDADE.
 
@@ -1694,7 +1699,7 @@ LISTA N.º 1
 
 Concessões imediatas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 LISTA N.º 2
 
@@ -1702,7 +1707,7 @@ Concessões diferidas
 
 (artigo 15.º do Acordo)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 PROTOCOLO N.º 6 - RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -2004,7 +2009,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR 1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR 1.
 
@@ -2014,7 +2019,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf))](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR 1.
 
@@ -2454,7 +2459,7 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do Acordo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO III — Certificado de circulação de mercadorias EUR 1 e pedido de certificado de circulação de mercadorias EUR 1
 
@@ -2464,7 +2469,7 @@ Instruções para impressão
 
 2 - As autoridades governamentais dos Estados membros das Comunidades Europeias e da República Argelina podem reservar-se o direito de proceder à impressão dos certificados EUR 1 ou confiá-la a tipografias por eles autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO IV — Declaração na factura
 
@@ -2532,9 +2537,9 @@ Versão árabe
 
 ## ANEXO V — Modelo da declaração do fornecedor
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
-## ANEXO VI — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+## ANEXO VI — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 ## ANEXO VII — Declarações comuns
 
@@ -2726,17 +2731,17 @@ Os plenipotenciários do Reino da Bélgica, do Reino da Dinamarca, da República
 
 O Acordo, os respectivos anexos n.os 1 a 6, designadamente:
 
-## Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do Sistema Harmonizado referidos nos artigos 7.º e 14.º;
+Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do Sistema Harmonizado referidos nos artigos 7.º e 14.º;
 
-## Anexo n.º 2 - lista de produtos a que se refere o n.º 1 do artigo 9.º;
+Anexo n.º 2 - lista de produtos a que se refere o n.º 1 do artigo 9.º;
 
-## Anexo n.º 3 - lista de produtos a que se refere o n.º 2 do artigo 9.º;
+Anexo n.º 3 - lista de produtos a que se refere o n.º 2 do artigo 9.º;
 
-## Anexo n.º 4 - lista de produtos a que se refere o n.º 4 do artigo 17.º;
+Anexo n.º 4 - lista de produtos a que se refere o n.º 4 do artigo 17.º;
 
-## Anexo n.º 5 - normas de execução do artigo 41.º;
+Anexo n.º 5 - normas de execução do artigo 41.º;
 
-## Anexo n.º 6 - propriedade intelectual, industrial e comercial.
+Anexo n.º 6 - propriedade intelectual, industrial e comercial.
 
 e respectivos Protocolos n.os 1 a 7, designadamente:
 
@@ -2790,7 +2795,7 @@ Declaração da Argélia relativa ao artigo 41.º do Acordo;
 
 Declaração da Argélia relativa ao artigo 91.º do Acordo.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)](https://files.diariodarepublica.pt/1s/2004/07/169a01/00020157.pdf)
 
 Declarações comuns
 

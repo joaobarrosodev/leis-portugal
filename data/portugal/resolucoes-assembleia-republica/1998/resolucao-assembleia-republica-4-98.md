@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/1998/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1998-211814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:04:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03b69fa4dbe528e85e4d07bb499ddc7bcd95262ebf15a601fd74546f8d55693c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f403e3fa95ffaebd6ef87f350dc35948df2cef76d43ffe767a474f49c781c6b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Património Cultural
-- Madrid
 - Cooperação Cultural
+- Madrid
+- Património Cultural
+- Portugal
 - União Latina
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:211818:por
+  label: "Ratificada a emenda aprovada pela presente Resolução, pelo DEC.8/98.1998.02.27.PR DR.IS-A [49] DE 27/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/8-1998-211818
+  date: '1998-02-27'
 article_structure:
-  article_count: 0
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:04:09Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +100,13 @@ A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e
 
 Aprovada em 22 de Janeiro de 1998.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ## ANEXO — Emenda ao artigo XIII da Convenção Constitutiva da União Latina
 
 O Conselho Executivo
 
-Artigo XIII
+###### Artigo XIII
 
 1 - O Conselho Executivo compor-se-á de 12 Estados membros da União Latina, eleitos por quatro anos.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/38/1994/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/38-1994-300231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2eb8a7dcda5079a2d5ac7d6c142fda0502f16a0e179ac33356f01063a765c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3deb3c4e69caf1e7ba021a21fd800a5ab5d9ffc20fbc87fc266334d5352fb7c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Cooperação Judiciária
+- Portugal
+- Processo Penal
 - Roma
 relationships: []
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:28Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +94,13 @@ Aprova, para ratificação, o Acordo entre os Estados Membros da Comunidade Euro
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o seguinte:
 
-###### Artigo 1.º É aprovado, para ratificação, o Acordo entre os Estados Membros da Comunidade Europeia Relativo à Transmissão de Processos Penais, aberto à assinatura a 6 de Dezembro de 1990, cuja versão autêntica em língua portuguesa segue em anexo à presente resolução.
+Artigo 1.º É aprovado, para ratificação, o Acordo entre os Estados Membros da Comunidade Europeia Relativo à Transmissão de Processos Penais, aberto à assinatura a 6 de Dezembro de 1990, cuja versão autêntica em língua portuguesa segue em anexo à presente resolução.
 
-###### Art. 2.º Portugal formula a seguinte declaração interpretativa relativa ao artigo 5.º: a expressão «recolher as observações das pessoas em causa» é interpretada no sentido de a mesma abranger a audição do arguido previamente à decisão sobre o pedido de procedimento. Assim, declara que, enquanto Estado requerido, fará sempre preceder a decisão sobre o pedido de audição do arguido e, enquanto Estado requerente, solicitará ao Estado requerido a audição do arguido.
+Art. 2.º Portugal formula a seguinte declaração interpretativa relativa ao artigo 5.º: a expressão «recolher as observações das pessoas em causa» é interpretada no sentido de a mesma abranger a audição do arguido previamente à decisão sobre o pedido de procedimento. Assim, declara que, enquanto Estado requerido, fará sempre preceder a decisão sobre o pedido de audição do arguido e, enquanto Estado requerente, solicitará ao Estado requerido a audição do arguido.
 
 Aprovada em 10 de Março de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO ENTRE OS ESTADOS MEMBROS RELATIVO À TRANSMISSÃO DE PROCESSOS PENAIS
 

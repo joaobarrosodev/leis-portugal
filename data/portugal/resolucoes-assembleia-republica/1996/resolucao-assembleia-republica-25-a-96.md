@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 169/1996, 1º Suplemento, Série I-A de 1996-07-23
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2068-(2) a 2068-(122)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/169a01/00020122.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/25-a/1996/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-a-1996-586266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:01:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f78a66d5755f51f5222f560c6df61b4468ce36e5ebd3fa211aed279ea552979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e86154ee4f3118239cb94b8a07a767369eca203a06422506c75a0c713975d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Armas e Munições
 - ARMA Biológica
 - ARMA Química
+- Armas e Munições
 - Armazenagem
-- Desarmamento
 - Convenção
-- Portugal
+- Desarmamento
 - ONU
 - Paris
+- Portugal
 - Produção
 relationships: []
 article_structure:
-  article_count: 0
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:01:04Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 9 de Maio de 1996.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 [(ver convenção em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1996/07/169a01/00020122.pdf)
 
@@ -131,9 +131,7 @@ Convencidos de que a proibição completa e eficaz do desenvolvimento, produçã
 
 acordaram nas seguintes disposições:
 
-Artigo I
-
-Obrigações gerais
+###### Artigo I — Obrigações gerais
 
 1 - Cada Estado Parte na presente Convenção compromete-se, quaisquer que sejam as circunstâncias, a:
 
@@ -153,9 +151,7 @@ d) Não auxiliar, encorajar ou induzir outrem, por qualquer forma, a tomar parte
 
 5 - Cada Estado Parte compromete-se a não utilizar agentes antimotins como método de guerra.
 
-Artigo II
-
-Definições e critérios
+###### Artigo II — Definições e critérios
 
 Para efeitos da presente Convenção:
 
@@ -231,9 +227,7 @@ b) Por «processamento» de um produto químico entende-se um processo físico, 
 
 c) Por «consumo» de um produto químico entende-se a sua transformação noutro produto químico mediante reacção química.
 
-Artigo III
-
-Declarações
+###### Artigo III — Declarações
 
 1 - Cada Estado Parte apresentará à Organização, no prazo máximo de 30 dias após a entrada em vigor da presente Convenção nesse Estado, as seguintes declarações, em que:
 
@@ -279,9 +273,7 @@ e) No que diz respeito aos agentes antimotins, indicará o nome químico, a fór
 
 2 - As disposições do presente artigo e as disposições pertinentes da parte IV do Anexo sobre Verificação não se aplicarão, à discrição de cada Estado Parte, às armas químicas enterradas no seu território antes de 1 de Janeiro de 1977 e que permanecem enterradas, ou que tenham sido lançadas no mar antes de 1 de Janeiro de 1985.
 
-Artigo IV
-
-Armas químicas
+###### Artigo IV — Armas químicas
 
 1 - As disposições do presente artigo e os procedimentos pormenorizados para a sua implementação aplicar-se-ão a todas as armas químicas de propriedade ou na posse de um Estado Parte, ou que se encontrem em qualquer local sob a sua jurisdição ou controlo, com excepção das amas químicas antigas e das armas químicas abandonadas relativamente às quais se aplica a parte IV (B) do Anexo sobre Verificação.
 
@@ -331,9 +323,7 @@ c) As Partes nos acordos bilaterais ou multilaterais mantêm a Organização ple
 
 17 - As disposições do presente artigo e as disposições pertinentes da parte IV do Anexo sobre Verificação não se aplicarão, à discrição de cada Estado Parte, às armas químicas que tenham sido enterradas no seu território antes de 1 de Janeiro de 1977 e que permanecem enterradas, ou que tenham sido lançadas no mar antes de 1 de Janeiro de 1985.
 
-Artigo V
-
-Instalações de produção de armas químicas
+###### Artigo V — Instalações de produção de armas químicas
 
 1 - As disposições do presente artigo e os procedimentos pormenorizados para a sua implementação aplicar-se-ão a todas e quaisquer instalações de produção de armas químicas que sejam da propriedade ou estejam na posse de um Estado Parte, ou que se encontrem em qualquer local sob a sua jurisdição ou controlo.
 
@@ -911,7 +901,7 @@ Artigo XIII
 
 Depositário
 
-**O Secretário-Geral da Organização das Nações Unidas é designado como o depositário da presente Convenção e, nomeadamente:**
+O Secretário-Geral da Organização das Nações Unidas é designado como o depositário da presente Convenção e, nomeadamente:
 
 a) Comunicará de imediato a todos os Estados signatários e aderentes a data de cada assinatura, a data do depósito de cada instrumento de ratificação ou de adesão e a data de entrada em vigor da presente Convenção, assim como a recepção de outras notificações;
 
@@ -929,7 +919,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assina
 
 Feita em Paris, aos 13 dias de Janeiro de 1993.
 
-## ANEXO SOBRE PRODUTOS QUÍMICOS
+ANEXO SOBRE PRODUTOS QUÍMICOS
 
 A - Critérios para as listas de produtos químicos
 
@@ -979,11 +969,13 @@ Nas listas seguintes estão enumerados os produtos químicos tóxicos e os seus 
 
 (Sempre que se faz referência a grupos de produtos químicos dialquilados, seguidos por uma lista de grupos alquilo entre parêntesis, entende-se que estão incluídos na respectiva lista todos os produtos químicos possíveis resultantes de todas as combinações possíveis dos grupos alquilo indicados entre parêntesis, desde que não estejam expressamente excluídas. Os produtos químicos assinalados com «(*)» na parte A da lista n.º 2 estão sujeitos a limites especiais para fins de declaração e verificação, como disposto na parte VII do Anexo sobre Verificação.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/169a01/00020122.pdf))](https://files.diariodarepublica.pt/1s/1996/07/169a01/00020122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/169a01/00020122.pdf)
 
-## ANEXO SOBRE IMPLEMENTAÇAO E VERIFICAÇAO - (ANEXO SOBRE VERIFICAÇÃO)
+ANEXO SOBRE IMPLEMENTAÇAO E VERIFICAÇAO - (ANEXO SOBRE VERIFICAÇÃO)
 
-# PARTE I — Definição
+PARTE I
+
+Definição
 
 1 - Por «equipamento aprovado» entende-se os dispositivos e instrumentos necessários para a realização das tarefas cometidas à equipa de inspecção e que tenham sido homologados pelo Secretariado Técnico segundo normas por este preparadas, nos termos do parágrafo 27 da parte II do presente Anexo. Esse equipamento pode também referir-se a materiais administrativos e de registo a utilizar pela equipa de inspecção.
 
@@ -1101,7 +1093,9 @@ d) Por «perímetro declarado» entende-se o limite exterior da instalação dec
 
 26 - Por «tonelada» entende-se uma tonelada métrica, i. e., 1000 kg.
 
-# PARTE II — Normas gerais de verificação
+PARTE II
+
+Normas gerais de verificação
 
 A - Nomeação dos inspectores o dos assistentes de inspecção
 
@@ -1323,7 +1317,7 @@ H - Aplicação das disposições gerais
 
 66 - As disposições da presente parte aplicar-se-ão a todas as inspecções realizadas nos termos da presente Convenção, excepto quando as disposições da presente parte diferirem das disposições estabelecidas para tipos específicos de inspecções nas partes III a XI do presente Anexo, caso em que estas últimas terão precedência.
 
-# PARTE III
+PARTE III
 
 Disposições gerais relativas às medidas de verificação nos termos dos artigos IV e V e do parágrafo 3 do artigo VI.
 
@@ -1369,7 +1363,9 @@ C - Actividades prévias à inspecção
 
 18 - O Estado Parte inspeccionado será notificado das inspecções iniciais com a antecedência mínima de setenta e duas horas relativamente à chegada prevista da equipa de inspecção ao ponto de entrada.
 
-# PARTE IV (A) — Destruição de armas químicas e sua verificação nos termos do artigo IV
+PARTE IV (A)
+
+Destruição de armas químicas e sua verificação nos termos do artigo IV
 
 A - Declarações
 
@@ -1749,7 +1745,9 @@ b) Vigiarão a análise sistemática de amostras no próprio local durante o pro
 
 c) Receberão, quando necessário, amostras recolhidas, a seu pedido, de quaisquer dispositivos, contentores a granel e outros contentores na instalação de destruição ou na instalação de armazenagem nela localizada.
 
-# PARTE IV (B) — Armas químicas antigas e armas químicas abandonadas
+PARTE IV (B)
+
+Armas químicas antigas e armas químicas abandonadas
 
 A - Disposições gerais
 
@@ -1795,7 +1793,7 @@ C - Regime aplicável às armas químicas abandonadas
 
 18 - Os Estados Partes podem celebrar entre si acordos ou protocolos relativos à destruição de armas químicas abandonadas. O Conselho Executivo pode, a pedido do Estado Parte territorial, formulado individual ou conjuntamente com o Estado Parte autor do abandono, decidir que determinadas disposições desses acordos ou protocolos tomem precedência sobre as disposições da presente secção, se concluir que o acordo ou protocolo garante a destruição das armas químicas abandonadas em conformidade com o parágrafo 17.
 
-# PARTE V
+PARTE V
 
 Destruição das instalações de produção de armas químicas e verificação da sua destruição nos termos do artigo V.
 
@@ -2285,7 +2283,9 @@ Exame dos planos pormenorizados
 
 86 - Os custos de verificação da instalação convertida serão repartidos em conformidade com o parágrafo 19 do artigo V.
 
-# PARTE VI — Actividades não proibidas pela presente Convenção nos termos do artigo VI
+PARTE VI
+
+Actividades não proibidas pela presente Convenção nos termos do artigo VI
 
 Regime aplicável aos produtos químicos da lista n.º 1 e às instalações relacionadas com esses produtos
 
@@ -2455,7 +2455,9 @@ c) O produto químico da lista n.º 1 não é desviado nem utilizado para outros
 
 32 - Cada Estado Parte que se propuser construir uma instalação desta natureza depois da entrada em vigor da presente Convenção nesse Estado celebrará, um acordo de instalação antes do início das operações na instalação ou da sua utilização.
 
-# PARTE VII — Actividades não proibidas pela presente Convenção nos termos do artigo VI
+PARTE VII
+
+Actividades não proibidas pela presente Convenção nos termos do artigo VI
 
 Regime aplicável aos produtos químicos de lista n.º 2 e às instalações relacionadas com esses produtos
 
@@ -2667,7 +2669,9 @@ d) A utilização ou utilizações finais dos mesmos; e
 
 e) O nome e endereço do utilizador ou utilizadores finais.
 
-# PARTE VIII — Actividades não proibidas pela presente Convenção nos termos do artigo VI
+PARTE VIII
+
+Actividades não proibidas pela presente Convenção nos termos do artigo VI
 
 Regime aplicável aos produtos químicos da lista n.º 3 e às instalações relacionadas com esses produtos
 
@@ -2819,7 +2823,9 @@ e) O nome e o endereço do utilizador ou utilizadores finais.
 
 27 - Cinco anos após a entrada em vigor da presente Convenção, a Conferência terá em consideração a necessidade de definir outras medidas relativas à transferência de produtos químicos da lista n.º 3 para Estados que não forem Partes na presente Convenção.
 
-# PARTE IX — Actividades não proibidas pela presente Convenção nos termos do artigo VI
+PARTE IX
+
+Actividades não proibidas pela presente Convenção nos termos do artigo VI
 
 Regime aplicável a outras instalações de produção de produtos químicos
 
@@ -2921,7 +2927,9 @@ Revisão
 
 26 - Na 1.ª sessão extraordinária da Conferência, convocada em conformidade com o parágrafo 22 do artigo VIII, serão reapreciadas as disposições desta parte do Anexo de Verificação, no quadro de um exame completo do regime geral de verificação para a indústria química (artigo VI e partes VII a IX do presente Anexo) à luz da experiência entretanto adquirida. Nessa oportunidade, a Conferência formulará recomendações sobre como aumentar a eficácia do regime de verificação.
 
-# PARTE X — Inspecções por suspeita nos termos do artigo IX
+PARTE X
+
+Inspecções por suspeita nos termos do artigo IX
 
 A - Nomeação e selecção de inspectores e de assistentes de inspecção
 
@@ -3139,7 +3147,9 @@ Relatórios
 
 61 - Será facultado ao Estado Parte inspeccionado um projecto de relatório final de inspecção no prazo máximo de 20 dias após a conclusão da inspecção por suspeita. O Estado Parte inspeccionado tem o direito de assinalar qualquer informação ou dados não relacionados com armas químicas que, em seu entender, dado o seu carácter confidencial, não devem ser divulgados fora do Secretariado Técnico. O Secretariado Técnico apreciará as propostas de alteração ao projecto de relatório final de inspecção feitas pelo Estado Parte inspeccionado e, à sua discrição, sempre que possível, adoptá-las-á. O relatório final será então apresentado ao director-geral, no prazo máximo de 30 dias após a conclusão da inspecção por suspeita, para mais vasta difusão e exame em conformidade com os parágrafos 21 a 25 do artigo IX.
 
-# PARTE XI — Investigações em casos de alegada utilização de armas químicas
+PARTE XI
+
+Investigações em casos de alegada utilização de armas químicas
 
 A - Disposições gerais
 
@@ -3251,7 +3261,7 @@ E - Estados não Partes na presente Convenção
 
 27 - No caso de alegada utilização de armas químicas envolvendo um Estado que não for Parte da presente Convenção ou em território que não estiver sob o controlo de qualquer Estado Parte, a Organização cooperará estreitamente com o Secretário-Geral das Nações Unidas. Se lhe for solicitado, a Organização colocará os seus recursos à disposição do Secretário-Geral das Nações Unidas.
 
-## ANEXO SOBRE A PROTECÇÃO DE INFORMAÇÕES CONFIDENCIAIS (ANEXO SOBRE CONFIDENCIALIDADE)
+ANEXO SOBRE A PROTECÇÃO DE INFORMAÇÕES CONFIDENCIAIS (ANEXO SOBRE CONFIDENCIALIDADE)
 
 A - Princípios gerais a observar no tratamento de informações confidenciais
 

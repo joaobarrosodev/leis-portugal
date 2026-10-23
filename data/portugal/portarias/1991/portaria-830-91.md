@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/830/1991/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-1991-674213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a4926d3f4dfa020159acb9e65d7c866370a928cbb17d1d9c08bd1f294259210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e0de582ede657fdcf4a9bcce5e6ab0f162a79270ba3cf3e7b2da788c8cc7025
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Superior de Ciências da Saúde
 - Ciências da Saúde
-- Plano de Estudos
 - Curso de Ciências da Alimentação e Nutrição
 - Curso de Nutrição e Engenharia Alimentar
-- Lisboa
+- Instituto Superior de Ciências da Saúde
 - Licenciatura
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:583825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669482:por
+  label: "Substituído o plano de estudo do curso de Ciências da Alimentação e Nutrição, aprovado pelo presente diploma, pela\
+    \ PORT.993/93.08.10.1993.ME, DR.IS-B [236] de 08.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-1993-669482
+  date: '1993-10-08'
+- type: amended_by
+  target: pt:dre:583825:por
+  label: "Alterado o plano de estudos do Curso de Nutrição e Engenharia Alimentar, aprovado pelo presente diploma, com a redacção\
+    \ conferida pela Port 993/93 de 08-Out, pela PORT.1225/2001.2001.10.24.ME DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1225-2001-583825
+  date: '2001-10-24'
+- type: cites
+  target: pt:dre:564615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:08Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +137,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 12 de Julho de 1991.**
+Assinada em 12 de Julho de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -123,4 +147,4 @@ Curso de Ciências da Alimentação e Nutrição
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/186b00/41274128.pdf))](https://files.diariodarepublica.pt/1s/1991/08/186b00/41274128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/186b00/41274128.pdf)

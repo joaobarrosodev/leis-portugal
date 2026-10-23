@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 172/2004, 1º Suplemento, Série I-A de 2004-07-23
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4640-(2) a 4640-(133)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/56-a/2004/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/56-a-2004-300639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3aaa447c7a90ba77773b01723f8a53a9af9688f0b0e80ec5fea400304fe4781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f022efa90d2376e931ca14494c66ac0ae68c74bb23e8868f9813ed8bbb392b86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,37 +69,42 @@ subjects:
 - CE Países
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Bilateral
-- Cooperação Comercial
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Portugal
-- União Europeia
-- Importação
-- Livre Circulação de Capitais
-- Livre Circulação de Mercadorias
 - Cooperação Agrícola
+- Cooperação Bilateral
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Cooperação Política
+- Cooperação Técnica
 - Exportação
+- Importação
+- Livre Circulação de Capitais
+- Livre Circulação de Mercadorias
 - Luxemburgo
-relationships: []
+- Portugal
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:300638:por
+  label: "Ratificado o Acordo pelo DEC.38-B/2004.23.07.2004.PR, DR.IS-A [172-Supl] de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/38-b-2004-300638
+  date: '2004-07-23'
 article_structure:
   article_count: 152
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:57Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +117,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 6 de Maio de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA DO LÍBANO, POR OUTRO.
 
@@ -1042,13 +1047,13 @@ O presente Acordo é redigido em duplo exemplar, nas línguas árabe, alemã, in
 
 Se, enquanto se aguarda o cumprimento das formalidades necessárias para a sua entrada em vigor, as disposições de determinadas partes do presente Acordo, nomeadamente as respeitantes à livre circulação de mercadorias, entrarem em vigor através de um acordo provisório entre a Comunidade e o Líbano, as Partes acordam em que, nessas circunstâncias, para efeitos dos títulos II e IV do presente Acordo e dos seus anexos n.os 1 e 2 e dos Protocolos n.os 1 a 5, se entenda pela expressão «data de entrada em vigor do presente Acordo» a data de entrada em vigor do acordo provisório no que respeita às obrigações previstas nos referidos artigos, anexos e protocolos.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 Lista de anexos e protocolos
 
-## Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do sistema harmonizado referidos nos artigos 7.º e 12.º
+Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do sistema harmonizado referidos nos artigos 7.º e 12.º
 
-## Anexo n.º 2 - propriedade intelectual, industrial e comercial, referido no artigo 38.º
+Anexo n.º 2 - propriedade intelectual, industrial e comercial, referido no artigo 38.º
 
 Protocolo n.º 1 - Relativo ao regime aplicável à importação para a Comunidade de produtos agrícolas originários do Líbano, referido no n.º 1 do artigo 14.º
 
@@ -1056,9 +1061,9 @@ Protocolo n.º 2 - Relativo ao regime aplicável à importação para o Líbano 
 
 Protocolo n.º 3 - Relativo ao comércio de produtos agrícolas transformados entre o Líbano e a Comunidade, referido no n.º 3 do artigo 14.º:
 
-## Anexo I - Relativo ao regime aplicável à importação na Comunidade de produtos agrícolas transformados originários do Líbano;
+Anexo I - Relativo ao regime aplicável à importação na Comunidade de produtos agrícolas transformados originários do Líbano;
 
-## Anexo II - Relativo ao regime aplicável à importação no Líbano de produtos agrícolas transformados originários da Comunidade.
+Anexo II - Relativo ao regime aplicável à importação no Líbano de produtos agrícolas transformados originários da Comunidade.
 
 Protocolo n.º 4 - Relativo à definição da noção de «produtos originários» e aos métodos de cooperação administrativa.
 
@@ -1138,7 +1143,7 @@ PROTOCOLO N.º 1 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO PARA A COMUNIDA
 
 3 - Para o 1.º ano de aplicação, os volumes dos contingentes pautais serão calculados proporcionalmente aos volumes de base, tendo em conta a parte do período já esgotada antes da entrada em vigor do presente Acordo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 PROTOCOLO N.º 2 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO PARA O LÍBANO DE PRODUTOS ORIGINÁRIOS DA COMUNIDADE, REFERIDO NO N.º 2 DO ARTIGO 14.º
 
@@ -1146,7 +1151,7 @@ PROTOCOLO N.º 2 - RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO PARA O LÍBANO 
 
 2 - As taxas de redução na col. B do direito aduaneiro da col. A não são aplicáveis nem aos direitos mínimos nem aos impostos especiais da col. C.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 PROTOCOLO N.º 3 - RELATIVO AO COMÉRCIO DE PRODUTOS AGRÍCOLAS TRANSFORMADOS ENTRE O LÍBANO E A COMUNIDADE, REFERIDO NO N.º 3 DO ARTIGO 14.º
 
@@ -1186,19 +1191,19 @@ Não obstante as regras para a interpretação da Nomenclatura Combinada (NC), o
 
 Lista n.º 1
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 Lista n.º 2
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 Lista n.º 3
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 ## ANEXO N.º 2 — Relativo ao regime aplicável à importação no Líbano de produtos agrícolas transformados originários da Comunidade
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 PROTOCOLO N.º 4 - RELATIVO À DEFINIÇÃO DA NOÇÃO DE PRODUTOS ORIGINÁRIOS E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -1498,7 +1503,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR 1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf))](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR 1.
 
@@ -1508,7 +1513,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf))](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa «Observações» da segunda via do certificado de circulação EUR 1.
 
@@ -1924,13 +1929,13 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 Nem todos os produtos indicados na lista são abrangidos pelo Acordo. É, pois, necessário consultar as outras partes do Acordo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 ## ANEXO IIa
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado referido no n.º 2 do artigo 6.º possa adquirir a qualidade de produto originário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 ## ANEXO III
 
@@ -1938,7 +1943,7 @@ Lista dos produtos originários da Turquia aos quais não se aplica o disposto n
 
 ### Capítulo 1.
 
-### Capítulo 2.
+Capítulo 2.
 
 ### Capítulo 3.
 
@@ -1968,7 +1973,7 @@ ex Capítulo 9 - Café, chá, mate e especiarias; excluído o mate da posição 
 
 ### Capítulo 10.
 
-### Capítulo 11.
+Capítulo 11.
 
 ### Capítulo 12.
 
@@ -2042,7 +2047,7 @@ Instruções para a impressão
 
 Certificado de circulação de mercadorias
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 Notas
 
@@ -2054,11 +2059,11 @@ Notas
 
 Pedido de certificado de circulação de mercadorias
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 DECLARAÇÃO DO EXPORTADOR
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
 
 ## ANEXO V — Declaração na factura
 
@@ -2314,9 +2319,9 @@ Os Plenipotenciários do Reino da Bélgica, do Reino da Dinamarca, da República
 
 Acordo e os anexos n.os 1 e 2:
 
-## Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do Sistema Harmonizado, referidos nos artigos 7.º e 12.º;
+Anexo n.º 1 - lista de produtos agrícolas e de produtos agrícolas transformados dos capítulos 25 a 97 do Sistema Harmonizado, referidos nos artigos 7.º e 12.º;
 
-## Anexo n.º 2 - relativo à propriedade intelectual, industrial e comercial, referido no artigo 38.º;
+Anexo n.º 2 - relativo à propriedade intelectual, industrial e comercial, referido no artigo 38.º;
 
 e os Protocolos n.os 1 a 5:
 
@@ -2326,9 +2331,9 @@ Protocolo n.º 2 - relativo ao regime aplicável à importação para o Líbano 
 
 Protocolo n.º 3 - relativo ao comércio de produtos agrícolas transformados entre o Líbano e a Comunidade, referido no n.º 3 do artigo 14.º;
 
-## Anexo n.º 1 - relativo ao regime aplicável à importação na Comunidade de produtos agrícolas transformados originários do Líbano;
+Anexo n.º 1 - relativo ao regime aplicável à importação na Comunidade de produtos agrícolas transformados originários do Líbano;
 
-## Anexo n.º 2 - relativo ao regime aplicável à importação no Líbano de produtos agrícolas transformados originários da Comunidade;
+Anexo n.º 2 - relativo ao regime aplicável à importação no Líbano de produtos agrícolas transformados originários da Comunidade;
 
 Protocolo n.º 4 - relativo à definição da noção de «produtos originários» e aos métodos de cooperação administrativa;
 
@@ -2450,4 +2455,4 @@ Declaração da Comunidade Europeia relativa ao artigo 35.º do Acordo
 
 A Comunidade Europeia declara que, no âmbito da interpretação do n.º 1 do artigo 35.º, avaliará as práticas contrárias a esse artigo com base nos critérios resultantes das regras contidas nos artigos 81.º e 82.º do Tratado que institui a Comunidade Europeia, incluindo o direito derivado.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)](https://files.diariodarepublica.pt/1s/2004/07/172a01/00020133.pdf)

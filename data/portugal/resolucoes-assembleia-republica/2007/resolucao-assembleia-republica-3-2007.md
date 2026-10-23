@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/3/2007/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/3-2007-518255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc53a2fa7ef1449cf7116921080411c01f5ec1449d9a4a7f87b0cfe9a144eb67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d256edf3de38fa5557bd333a90b480492674dfbad429a3860a19d0667462aa3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Banco Internacional para a Reconstrução e Desenvolvimento
-- Unesco
 - Convenção
-- Portugal
-- FMI
-- ONU
-- OIT
 - FAO
-- Organização Internacional da Aviação Civil
+- FMI
+- OIT
 - OMS
+- ONU
+- Organização Internacional da Aviação Civil
 - Pessoal ONU
+- Portugal
 - Privilegios e Imunidades
+- Unesco
 - União Internacional das Telecomunicações
 - União Postal Universal
 relationships:
@@ -85,16 +85,30 @@ relationships:
   target: pt:dre:175523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518257:por
+  label: "Ratificada a presente convenção, tendo sido formulada uma reserva, pelo DEC.23/2007.01.02.2007.PR, DR.IS [23] de\
+    \ 01.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-2007-518257
+  date: '2007-02-01'
+- type: amended_by
+  target: pt:dre:175523:por
+  label: "Aprovados os Anexos I, II, III, V, VI, VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII e XVIII à Convenção sobre\
+    \ os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações\
+    \ Unidas em 21 de novembro de 1947e revogado o art. 2º do presente diploma, pela RES.124/2012.25.09.2012.AR, DR.IS [186]\
+    \ de 25.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/124-2012-175523
+  date: '2012-09-25'
 article_structure:
-  article_count: 2
+  article_count: 14
   section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:22Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +131,7 @@ A isenção estabelecida na alínea b) da secção 19 não se aplica aos naciona
 
 Aprovada em 4 de Outubro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 CONVENTION ON THE PRIVILEGES AND IMMUNITIES OF THE SPECIALIZED AGENCIES, APPROVED BY THE GENERAL ASSEMBLY OF THE UNITED NATIONS ON 21 NOVEMBER 1947
 
@@ -585,9 +599,7 @@ SECTION 10
 
 Bien que les institutions spécialisées ne revendiquent pas, en règle générale, l'exonération des droits d'accise et des taxes à la vente entrant dans le prix des biens mobiliers ou immobiliers, cependant, quand elles effectuent pour leur usage officiel des achats importants dont le prix comprend des droits et taxes de cette nature, les États parties à la présente Convention prendront, chaque fois qu'il leur sera possible, les arrangements administratifs appropriés en vue de la remise ou du remboursement du montant de ces droits et taxes.
 
-Artigo IV
-
-Facilités de communications
+###### Artigo IV — Facilités de communications
 
 SECTION 11
 
@@ -851,9 +863,7 @@ Considerando que se realizaram consultas entre as Nações Unidas e as organiza�
 
 Em consequência, pela Resolução n.º 179 (II), adoptada em 21 de Novembro de 1947, a Assembleia Geral adoptou a Convenção que se segue, a qual é submetida para aceitação às organizações especializadas e para adesão a todos os membros das Nações Unidas, bem como a todos os outros Estados membros de uma ou várias organizações especializadas.
 
-Artigo I
-
-Definições e âmbito de aplicação
+###### Artigo I — Definições e âmbito de aplicação
 
 #### SECÇÃO 1
 
@@ -897,17 +907,13 @@ vii) O termo «director-geral» designa o funcionário principal da organizaçã
 
 Qualquer Estado que seja Parte na presente Convenção, no que respeita a qualquer organização especializada no âmbito da sua adesão e em relação à qual se tenha tornado aplicável a presente Convenção em virtude do disposto na secção 37, concederá àquela organização os privilégios e imunidades previstos pelas cláusulas padrão nas condições nelas especificadas, sob reserva de quaisquer modificações introduzidas nas referidas cláusulas pelas disposições do texto final (ou revisto) do anexo relativo a essa organização e transmitido em conformidade com o disposto nas secções 36 ou 38.
 
-Artigo II
-
-Personalidade jurídica
+###### Artigo II — Personalidade jurídica
 
 #### SECÇÃO 3
 
 As organizações especializadas possuem personalidade jurídica. Têm a capacidade: a) de contratar; b) de adquirir e alienar bens móveis e imóveis; c) judiciária.
 
-Artigo III
-
-Bens, fundos e património
+###### Artigo III — Bens, fundos e património
 
 #### SECÇÃO 4
 
@@ -947,9 +953,7 @@ c) Isentos de todos os direitos alfandegários e de todas as proibições e rest
 
 Embora as organizações especializadas não reivindiquem, como regra geral, a isenção dos impostos indirectos e das taxas sobre a venda que incorporam o preço dos bens móveis ou imóveis, quando, no entanto, efectuarem para seu uso oficial compras significativas em cujo preço estejam incluídos impostos e taxas desta natureza, os Estados que sejam Parte na presente Convenção tomarão, sempre que tal lhes seja possível, as medidas administrativas adequadas com vista ao desconto ou reembolso desses impostos e taxas.
 
-Artigo IV
-
-Facilidades de comunicação
+###### Artigo IV — Facilidades de comunicação
 
 #### SECÇÃO 11
 
@@ -963,9 +967,7 @@ As organizações especializadas terão o direito de utilizar códigos bem como 
 
 A presente secção não pode de maneira nenhuma ser interpretada como impeditiva da adopção de medidas de segurança apropriadas, a determinar mediante acordo entre o Estado que seja Parte na presente Convenção e uma organização especializada.
 
-Artigo V
-
-Representantes dos membros
+###### Artigo V — Representantes dos membros
 
 #### SECÇÃO 13
 
@@ -999,9 +1001,7 @@ Os privilégios e imunidades são concedidos aos representantes dos membros não
 
 As disposições das secções 13, 14 e 15 não são aplicáveis às autoridades do Estado da nacionalidade da pessoa ou do qual ela é ou foi representante.
 
-Artigo VI
-
-Funcionários
+###### Artigo VI — Funcionários
 
 #### SECÇÃO 18
 
@@ -1041,9 +1041,7 @@ Os privilégios e imunidades são concedidos aos funcionários apenas no interes
 
 Cada organização especializada colaborará permanentemente com as autoridades competentes dos Estados membros com vista a facilitar a boa administração da justiça, a assegurar a observância dos regulamentos policiais e a evitar qualquer abuso que possa resultar dos privilégios, imunidades e facilidades enumerados no presente artigo.
 
-Artigo VII
-
-Abuso de privilégios
+###### Artigo VII — Abuso de privilégios
 
 #### SECÇÃO 24
 
@@ -1057,9 +1055,7 @@ Se um Estado que seja Parte na presente Convenção considerar que houve abuso d
 
 II) No caso de um funcionário a que não se aplique o disposto na secção 21, nenhuma decisão de expulsão será tomada sem a aprovação do Ministro dos Negócios Estrangeiros do país em questão, aprovação essa que só será dada após consulta com o director-geral da organização especializada envolvida; se for aberto um processo de expulsão contra um funcionário, o director-geral da organização especializada terá o direito de intervir nesse processo em defesa da pessoa contra a qual é intentado o processo.
 
-Artigo VIII
-
-Livre-trânsito
+###### Artigo VIII — Livre-trânsito
 
 #### SECÇÃO 26
 
@@ -1081,9 +1077,7 @@ Facilidades idênticas às que são mencionadas na secção 28 serão concedidas
 
 Os directores-gerais das organizações especializadas, directores-gerais-adjuntos, directores de departamento e outros funcionários de nível hierárquico pelo menos igual ao de director de departamento das organizações especializadas, que viajem por conta das organizações especializadas e munidos de um livre-trânsito das Nações Unidas gozarão das mesmas facilidades de viagem que os membros das missões diplomáticas de nível hierárquico comparável.
 
-Artigo IX
-
-Resolução de diferendos
+###### Artigo IX — Resolução de diferendos
 
 #### SECÇÃO 31
 
@@ -1097,9 +1091,7 @@ b) Diferendos nos quais esteja envolvido um funcionário de uma organização es
 
 Qualquer contestação suscitada pela interpretação ou aplicação da presente Convenção será levada perante o Tribunal Internacional de Justiça, excepto nos casos em que as partes acordem em recorrer a outro meio de resolução. Se surgir um diferendo entre uma das organizações especializadas, por um lado, e um Estado membro, por outro, será pedido parecer consultivo sobre qualquer questão de direito suscitada, em conformidade com o artigo 96.º da Carta e com o artigo 65.º do Estatuto do Tribunal e ainda com as disposições aplicáveis dos acordos celebrados entre as Nações Unidas e a organização especializada envolvida. O parecer do Tribunal será aceite pelas partes como decisivo.
 
-Artigo X
-
-Anexos e aplicação da convenção a cada organização especializada
+###### Artigo X — Anexos e aplicação da convenção a cada organização especializada
 
 #### SECÇÃO 33
 
@@ -1135,9 +1127,7 @@ Fica entendido que as cláusulas padrão modificadas pelo texto final de um anex
 
 Nenhuma disposição do instrumento constitutivo de uma organização especializada nem nenhum direito ou obrigação que essa organização possa de outro modo possuir, adquirir ou assumir podem ser revogados nem derrogados por efeito da presente Convenção.
 
-Artigo XI
-
-Disposições finais
+###### Artigo XI — Disposições finais
 
 #### SECÇÃO 41
 
@@ -1157,7 +1147,7 @@ A presente Convenção entrará em vigor entre cada Estado que seja Parte na pre
 
 #### SECÇÃO 45
 
-**O Secretário-Geral das Nações Unidas informará todos os Estados membros das Nações Unidas, bem como todos os Estados membros das organizações especializadas e os directores-gerais das organizações especializadas, do depósito de cada instrumento de adesão recebido nos termos do disposto na secção 41 e de todas as notificações posteriores recebidas nos termos do disposto na secção 43. O director-geral de cada organização especializada informará o Secretário-Geral das Nações Unidas e os membros da organização envolvida do depósito de qualquer instrumento de adesão depositado junto dele nos termos do disposto na secção 42.**
+O Secretário-Geral das Nações Unidas informará todos os Estados membros das Nações Unidas, bem como todos os Estados membros das organizações especializadas e os directores-gerais das organizações especializadas, do depósito de cada instrumento de adesão recebido nos termos do disposto na secção 41 e de todas as notificações posteriores recebidas nos termos do disposto na secção 43. O director-geral de cada organização especializada informará o Secretário-Geral das Nações Unidas e os membros da organização envolvida do depósito de qualquer instrumento de adesão depositado junto dele nos termos do disposto na secção 42.
 
 #### SECÇÃO 46
 
@@ -1179,7 +1169,7 @@ A pedido de um terço dos Estados que sejam Parte na presente Convenção, o Sec
 
 #### SECÇÃO 49
 
-**O Secretário-Geral transmitirá cópia da presente Convenção a cada uma das organizações especializadas e ao governo de cada um dos membros das Nações Unidas.**
+O Secretário-Geral transmitirá cópia da presente Convenção a cada uma das organizações especializadas e ao governo de cada um dos membros das Nações Unidas.
 
 ## ANEXO IV — Organização das Nações Unidas para a Educação, Ciência e Cultura
 

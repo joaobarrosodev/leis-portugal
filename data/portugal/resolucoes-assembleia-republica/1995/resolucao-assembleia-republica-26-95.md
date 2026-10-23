@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/1995/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1995-501977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fca124695bf051f7e53869fbce2f44fa571414d8b1553d7401b4f74c7413f5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b9d4ab5f166d7ec42ec28b780fea5955630bb272ece2d05d88bd4737f04a557
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
+- Transporte Aéreo
 - Turquia
 relationships: []
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:02Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 2 de Fevereiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO DE TRANSPORTE AÉREO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA TURQUIA.
 
@@ -314,11 +314,11 @@ Feito em Lisboa, no dia 13 de Março do ano de 1992, em duplicado, nas línguas 
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf))](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
 
 Pelo Governo da República da Turquia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf))](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
 
 ## ANEXO I — Rotas
 
@@ -352,7 +352,7 @@ b) Embarcar na Turquia tráfego internacional de passageiros, carga e correio de
 
 Os horários dos serviços acordados e, de uma forma geral, as condições da sua exploração deverão ser submetidos pela empresa de uma das Partes Contratantes à aprovação das autoridades aeronáuticas da outra Parte Contratante, pelo menos 30 dias antes da data prevista para a sua entrada em vigor. Qualquer alteração a esses horários ou às condições de exploração deverá igualmente ser submetida à aprovação das autoridades aeronáuticas. O prazo acima indicado poderá, em casos especiais, ser reduzido mediante acordo das referidas autoridades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf))](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
 
 AIR TRANSPORT AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY.
 
@@ -616,11 +616,11 @@ Done at Lisboa, this thirteenth day of March of the year 1992, in duplicate, in 
 
 For the Government of the Republic of Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf))](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
 
 For the Government of the Republic of Turkey:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf))](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/116a00/30563072.pdf)
 
 ANNEX I
 

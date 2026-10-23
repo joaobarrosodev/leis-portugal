@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/26/1997/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1997-384600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f083902124142af11ff1b8fe4a905b918e90d3b77651a23f9339b0fa2f81f85b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c6fbf042b0fcbfb3e70dcf3abb8fa531b8d95fe5d890a5fda847eb4d81098d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
 - República Checa
 relationships: []
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:03Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 8 de Janeiro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 CONVENÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA CHECA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM MATÉRIA DE IMPOSTOS SOBRE O RENDIMENTO.
 
@@ -124,9 +124,9 @@ iii) A derrama;
 
 b) Relativamente à República Checa (a seguir referidos pela designação «imposto checo»):
 
-i) O imposto sobre o rendimento das pessos singulares [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); e
+i) O imposto sobre o rendimento das pessos singulares [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); e
 
-ii) O imposto sobre o rendimento das pessoas colectivas [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf).
+ii) O imposto sobre o rendimento das pessoas colectivas [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf).
 
 4 - A Convenção será também aplicável aos impostos de natureza idêntica ou similar que entrem em vigor posteriormente à data da assinatura da Convenção e que venham a acrescer aos actuais ou a substituí-los. As autoridades competentes dos Estados Contratantes comunicarão uma à outra as modificações importantes introduzidas nas respectivas legislações fiscais.
 
@@ -298,7 +298,7 @@ b) Se os juros forem pagos ao Governo do outro Estado Contratante ou a uma sua a
 
 c) Relativamente a empréstimos ou a créditos concedidos:
 
-i) No caso da República Checa, [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); e
+i) No caso da República Checa, [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); e
 
 ii) No caso de Portugal, Caixa Geral de Depósitos, Banco Nacionl Ultramarino (BNU), Banco Fomento exterior (BFE), Banco Borges & Irmõ e ICEP - Investimentos, Comércio e Turismo de Portugal.
 
@@ -530,9 +530,9 @@ iii) The local surtax on corporate income tax (derrama);
 
 b) In the case of the Czech Republic (hereinafter referred to as «Czech tax»):
 
-i) The tax on income of individuals [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); and
+i) The tax on income of individuals [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); and
 
-ii) The tax on income of legal persons [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf).
+ii) The tax on income of legal persons [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf).
 
 4 - The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any substantial changes which have been made in their respective taxation laws.
 
@@ -722,7 +722,7 @@ b) If interest is paid to the Government of the other Contracting State or a loc
 
 c) In respect of loans or credit made by:
 
-i) In the case of the Czech Republic, [([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); and
+i) In the case of the Czech Republic, [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107a00/22142237.pdf); and
 
 ii) In the case of Portugal, Caixa Geral de Depósitos, Banco Nacional Ultramarino (BNU), Banco de Fomento e Exterior (BFE), Banco Borges & Irmão and ICEP - Investimentos, Comércio e Turismo de Portugal.
 

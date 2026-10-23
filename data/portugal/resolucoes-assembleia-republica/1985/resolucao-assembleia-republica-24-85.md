@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1985-176756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a6d79224c99580da1f930a8936f512541f8cc87b106f7be21a99096a9ba352d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a364c01235186a39ebc33bf338012bd372cd07f2d441c07c06a0d94bfaae2d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Base das Lajes
+- Cidadão Nacional
+- Convenção
+- Cooperação Militar
+- Emprego
+- EUA
+- Pessoal Civil
+- Portugal
+- Remuneração
+relationships:
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO A PARTIR DA ENTRADA EM VIGOR DO ACORDO DE COOPERACAO E DEFESA, APROVADO PARA RATIFICAÇÃO PELA RES 38/95\
+    \ DE 21-JUN DA AR DR.IS-A [235] DE 11/OUT/1995\011/OUT/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-11'
 article_structure:
-  article_count: 189
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 112
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:50Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 5 de Julho de 1985.
 
-**O Presidente da Assembleia da República, Fernando Monteiro do Amaral.**
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
 
 ## ANEXO
 
@@ -98,237 +114,237 @@ ACORDO ENTRE O MINISTÉRIO DA DEFESA NACIONAL DE PORTUGAL E O DEPARTAMENTO DE DE
 
 Preâmbulo.
 
-### Capítulo I - Âmbito e disposições aplicáveis:
+Capítulo I - Âmbito e disposições aplicáveis:
 
 ###### Artigo 1.º - Âmbito.
 
-###### Artigo 2.º - Regimes e programas especiais.
+Artigo 2.º - Regimes e programas especiais.
 
 ###### Artigo 3.º - Anexos.
 
-###### Artigo 4.º - Publicação.
+Artigo 4.º - Publicação.
 
-###### Artigo 5.º - Regulamentos internos.
+Artigo 5.º - Regulamentos internos.
 
-### Capítulo II - Classificação e categorias profissionais:
+Capítulo II - Classificação e categorias profissionais:
 
-###### Artigo 6.º - Classificação profissional.
+Artigo 6.º - Classificação profissional.
 
-###### Artigo 7.º - Sistema de classificação profissional.
+Artigo 7.º - Sistema de classificação profissional.
 
-###### Artigo 8.º - Reclassificação profissional.
+Artigo 8.º - Reclassificação profissional.
 
-###### Artigo 9.º - Desempenho de tarefas não incluídas na descrição de funções.
+Artigo 9.º - Desempenho de tarefas não incluídas na descrição de funções.
 
-###### Artigo 10.º - Mudança de categoria.
+Artigo 10.º - Mudança de categoria.
 
-###### Artigo 11.º - Relação de pessoal.
+Artigo 11.º - Relação de pessoal.
 
-### Capítulo III - Inscrição e recrutamento de pessoal:
+Capítulo III - Inscrição e recrutamento de pessoal:
 
 ###### Artigo 12.º- Recrutamento.
 
-###### Artigo 13.º - Inscrição.
+Artigo 13.º - Inscrição.
 
-###### Artigo 14.º - Registos e ficheiros.
+Artigo 14.º - Registos e ficheiros.
 
-###### Artigo 15.º - Identificação civil e classificação profissional.
+Artigo 15.º - Identificação civil e classificação profissional.
 
-###### Artigo 16.º - Certificado de inscrição.
+Artigo 16.º - Certificado de inscrição.
 
 ###### Artigo 17.º - Requisição.
 
-###### Artigo 18.º - Convocação.
+Artigo 18.º - Convocação.
 
 ###### Artigo 19.º - Prioridades.
 
-###### Artigo 20.º - Escolha de pessoal.
+Artigo 20.º - Escolha de pessoal.
 
-###### Artigo 21.º - Eliminação das listas de inscrição.
+Artigo 21.º - Eliminação das listas de inscrição.
 
-###### Artigo 22.º - Assistência do centro de emprego.
+Artigo 22.º - Assistência do centro de emprego.
 
-###### Artigo 23.º - Recrutamento fora da ilha Terceira.
+Artigo 23.º - Recrutamento fora da ilha Terceira.
 
-###### Artigo 24.º - Transporte de regresso.
+Artigo 24.º - Transporte de regresso.
 
-###### Artigo 25.º - Requisição nominal.
+Artigo 25.º - Requisição nominal.
 
-###### Artigo 26.º - Processo de admissão.
+Artigo 26.º - Processo de admissão.
 
-### Capítulo IV - Direitos e deveres das partes:
+Capítulo IV - Direitos e deveres das partes:
 
-###### Artigo 27.º - Direitos e deveres dos trabalhadores.
+Artigo 27.º - Direitos e deveres dos trabalhadores.
 
-###### Artigo 28.º - Direitos e deveres da entidade patronal.
+Artigo 28.º - Direitos e deveres da entidade patronal.
 
-###### Artigo 29.º - Trabalhadores do sexo feminino.
+Artigo 29.º - Trabalhadores do sexo feminino.
 
-###### Artigo 30.º - Restrição de acesso à área da FAP.
+Artigo 30.º - Restrição de acesso à área da FAP.
 
-###### Artigo 31.º - Chapa de identificação.
+Artigo 31.º - Chapa de identificação.
 
-### Capítulo V - Comissão representativa de trabalhadores:
+Capítulo V - Comissão representativa de trabalhadores:
 
 ###### Artigo 32.º - Princípio geral.
 
-###### Artigo 33.º - Eleições.
+Artigo 33.º - Eleições.
 
 ###### Artigo 34.º - Constituição.
 
-###### Artigo 35.º - Reuniões com o COMUSFORAZ.
+Artigo 35.º - Reuniões com o COMUSFORAZ.
 
 ###### Artigo 36.º - Crédito de horas.
 
-###### Artigo 37.º - Reuniões de trabalhadores (local e hora).
+Artigo 37.º - Reuniões de trabalhadores (local e hora).
 
-###### Artigo 38.º - Direitos da comissão.
+Artigo 38.º - Direitos da comissão.
 
-### Capítulo VI - Prestação de trabalho:
+Capítulo VI - Prestação de trabalho:
 
 #### Secção I:
 
-###### Artigo 39.º - Período experimental.
+Artigo 39.º - Período experimental.
 
 ###### Artigo 40.º - Admissões.
 
-#### Secção II:
+Secção II:
 
-###### Artigo 41.º - Períodos normais de trabalho.
+Artigo 41.º - Períodos normais de trabalho.
 
-###### Artigo 42.º - Períodos de refeição.
+Artigo 42.º - Períodos de refeição.
 
-###### Artigo 43.º - Trabalho suplementar.
+Artigo 43.º - Trabalho suplementar.
 
-###### Artigo 44.º - Limites do trabalho suplementar.
+Artigo 44.º - Limites do trabalho suplementar.
 
-###### Artigo 45.º - Trabalho por turnos.
+Artigo 45.º - Trabalho por turnos.
 
 ###### Artigo 46.º - Trabalho nocturno.
 
-###### Artigo 47.º - Horários de trabalho.
+Artigo 47.º - Horários de trabalho.
 
-###### Artigo 48.º - Retribuição do trabalho suplementar.
+Artigo 48.º - Retribuição do trabalho suplementar.
 
-###### Artigo 49.º - Disposições especiais para trabalhadores do sexo feminino.
+Artigo 49.º - Disposições especiais para trabalhadores do sexo feminino.
 
-### Capítulo VII - Suspensão da prestação de trabalho:
+Capítulo VII - Suspensão da prestação de trabalho:
 
-#### Secção I - Dia de descanso semanal, feriados, férias e licenca sem vencimentos:
+Secção I - Dia de descanso semanal, feriados, férias e licenca sem vencimentos:
 
-###### Artigo 50.º - Dia de descanso semanal.
+Artigo 50.º - Dia de descanso semanal.
 
-###### Artigo 51.º - Trabalho realizado em dia de descanso semanal.
+Artigo 51.º - Trabalho realizado em dia de descanso semanal.
 
-###### Artigo 52.º - Feriados obrigatórios.
+Artigo 52.º - Feriados obrigatórios.
 
-###### Artigo 53.º - Remuneração dos feriados.
+Artigo 53.º - Remuneração dos feriados.
 
 ###### Artigo 54.º - Direito a licenca.
 
-###### Artigo 55.º - Aquisição do direito a licença para férias.
+Artigo 55.º - Aquisição do direito a licença para férias.
 
-###### Artigo 56.º - Duração das férias.
+Artigo 56.º - Duração das férias.
 
-###### Artigo 57.º - Pagamento das férias.
+Artigo 57.º - Pagamento das férias.
 
-###### Artigo 58.º - Acumulação de férias.
+Artigo 58.º - Acumulação de férias.
 
-###### Artigo 59.º - Marcação das férias.
+Artigo 59.º - Marcação das férias.
 
-###### Artigo 60.º - Adiamento ou interrupção de Férias marcadas.
+Artigo 60.º - Adiamento ou interrupção de Férias marcadas.
 
-###### Artigo 61.º - Efeitos da cessação do contrato.
+Artigo 61.º - Efeitos da cessação do contrato.
 
-###### Artigo 62.º - Efeitos da interrupção de emprego.
+Artigo 62.º - Efeitos da interrupção de emprego.
 
-###### Artigo 63.º - Doença durante as férias.
+Artigo 63.º - Doença durante as férias.
 
-###### Artigo 64.º - Falta de gozo de ferias.
+Artigo 64.º - Falta de gozo de ferias.
 
-###### Artigo 65.º - Proibição de actividade durante as férias.
+Artigo 65.º - Proibição de actividade durante as férias.
 
-###### Artigo 66.º - Licença sem vencimentos.
+Artigo 66.º - Licença sem vencimentos.
 
-###### Artigo 67.º - Direito de reocupação do lugar.
+Artigo 67.º - Direito de reocupação do lugar.
 
-#### Secção II - Interrupção por impedimento prolongado forçado
+Secção II - Interrupção por impedimento prolongado forçado
 
-###### Artigo 68.º - Interrupção por impedimento forçado por parte do trabalhador.
+Artigo 68.º - Interrupção por impedimento forçado por parte do trabalhador.
 
-###### Artigo 69.º - Regresso do trabalhador.
+Artigo 69.º - Regresso do trabalhador.
 
-###### Artigo 70.º - Substituição do trabalhador.
+Artigo 70.º - Substituição do trabalhador.
 
 #### Secção III - Faltas:
 
-###### Artigo 71.º - Definição.
+Artigo 71.º - Definição.
 
-###### Artigo 72.º - Faltas justificadas.
+Artigo 72.º - Faltas justificadas.
 
-###### Artigo 73.º - Notificação das faltas.
+Artigo 73.º - Notificação das faltas.
 
-###### Artigo 74.º - Procedimentos relacionados com faltas injustil icadas.
+Artigo 74.º - Procedimentos relacionados com faltas injustil icadas.
 
-###### Artigo 75.º - Faltas disciplinares graves.
+Artigo 75.º - Faltas disciplinares graves.
 
-###### Artigo 76.º - Efeito sobre as férias
+Artigo 76.º - Efeito sobre as férias
 
 ### Capítulo VIII - Remuneração:
 
-###### Artigo 77.º - Cálculo da remuneração.
+Artigo 77.º - Cálculo da remuneração.
 
 ###### Artigo 78.º - Diuturnidades.
 
-###### Artigo 79.º - Subsídio de Natal.
+Artigo 79.º - Subsídio de Natal.
 
-###### Artigo 80.º - Documento a entregar ao trabalhador.
+Artigo 80.º - Documento a entregar ao trabalhador.
 
-###### Artigo 81.º - Contribuições para a Segurança Social.
+Artigo 81.º - Contribuições para a Segurança Social.
 
-### Capítulo IX - Sanções e regime disciplinar:
+Capítulo IX - Sanções e regime disciplinar:
 
 ###### Artigo 82.º - Poder disciplinar.
 
-###### Artigo 83.º - Sanções disciplinares.
+Artigo 83.º - Sanções disciplinares.
 
-###### Artigo 84.º - Limites das sanções.
+Artigo 84.º - Limites das sanções.
 
-###### Artigo 85.º - Processo disciplinar.
+Artigo 85.º - Processo disciplinar.
 
-###### Artigo 86.º - Notificação das USFORAZ.
+Artigo 86.º - Notificação das USFORAZ.
 
-### Capítulo X - Cessação do contrato de trabalho:
+Capítulo X - Cessação do contrato de trabalho:
 
-###### Artigo 87.º - Cessação com indemnização.
+Artigo 87.º - Cessação com indemnização.
 
-###### Artigo 88.º - Cessação sem indemnização.
+Artigo 88.º - Cessação sem indemnização.
 
-### Capítulo XI - Higiene e segurança dos trabalhadores:
+Capítulo XI - Higiene e segurança dos trabalhadores:
 
-###### Artigo 89.º - Acidentes de trabalho e doenças profissionais.
+Artigo 89.º - Acidentes de trabalho e doenças profissionais.
 
 ###### Artigo 90.º - Acidentes mortais.
 
-###### Artigo 91.º - Encarregado da segurança.
+Artigo 91.º - Encarregado da segurança.
 
-### Capítulo XII - Queixas, reclamações e recursos:
+Capítulo XII - Queixas, reclamações e recursos:
 
-###### Artigo 92.º - Processamento das reclamações.
+Artigo 92.º - Processamento das reclamações.
 
-###### Artigo 93.º - Direito de reparação.
+Artigo 93.º - Direito de reparação.
 
 ###### Artigo 94.º - Comissão arbitral.
 
-###### Artigo 95.º - Tribunal competente.
+Artigo 95.º - Tribunal competente.
 
-### Capítulo XIII - Disposições diversas:
+Capítulo XIII - Disposições diversas:
 
 ###### Artigo 96.º - Vigência.
 
-## Anexo I - Tabela de salários.
+Anexo I - Tabela de salários.
 
-## Anexo II - Bónus de língua inglesa.
+Anexo II - Bónus de língua inglesa.
 
 ## Anexo III - Transportes. — Preâmbulo
 
@@ -366,11 +382,13 @@ acordaram no seguinte:
 
 Sem prejuízo do disposto no artigo anterior, são os seguintes os anexos ao presente regulamento que dele fazem parte integrante:
 
-## Anexo I - Tabelas salariais e de diuturnidades;
+Anexo I - Tabelas salariais e de diuturnidades;
 
-## Anexo II - Bónus de língua inglesa;
+Anexo II - Bónus de língua inglesa;
 
-## Anexo III - Transporte. — Artigo 4.º
+## Anexo III - Transporte.
+
+###### Artigo 4.º
 
 Publicação
 
@@ -738,7 +756,9 @@ e) Projecto de alterações substanciais em matéria de assuntos respeitantes a 
 
 ### CAPÍTULO VI — Prestação de trabalho
 
-#### SECÇÃO I — Artigo 39.º
+#### SECÇÃO I
+
+###### Artigo 39.º
 
 Período experimental
 
@@ -776,7 +796,9 @@ a) Os trabalhadores seleccionados para emprego intermitente poderão ser convoca
 
 b) Os trabalhadores em regime de trabalho intermitente terão direito à remuneração horária correspondente às horas efectivamente trabalhadas e estarão cobertos por seguro de acidentes de trabalho durante o período de prestação efectiva de serviço. Em relação às importâncias que recebem serão feitos os respectivos descontos para a Segurança Social. Os trabalhadores em regime intermitente gozarão dos benefícios equivalentes aos atribuídos aos demais trabalhadores, salvo disposição em contrário.
 
-#### SECÇÃO II — Artigo 41.º
+#### SECÇÃO II
+
+###### Artigo 41.º
 
 Períodos normais de trabalho
 
@@ -1428,7 +1450,7 @@ Lawrence Korb, Secretário de Defesa Adjunto para Pessoal, Instalações e Logí
 
 (Em vigor a partir de 1 de Julho de 1984)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf)
 
 ## ANEXO II — Bónus de língua inglesa
 
@@ -3020,7 +3042,7 @@ Wage schedules
 
 (Effective 1 July 1984)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf))](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/22000/31073147.pdf)
 
 ATTACHMENT II
 

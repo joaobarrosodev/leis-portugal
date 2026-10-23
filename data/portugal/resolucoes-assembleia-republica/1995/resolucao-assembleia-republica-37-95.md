@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/37/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-1995-429393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T11:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce2c72a76ff4418a125e0a64edcb20221d504b0c5588f3c53d044ef686eed04d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3b64fe8fe30e0636b6fe464370886e1e6db40a149a7fd044b0c55103653c751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
+- Admissão de Estrangeiros
+- Bruxelas
 - Convenção
-- Portugal
 - Expulsão de Estrangeiros
 - Livre Circulação de Pessoas
+- Portugal
 - Schengen
-- Bruxelas
-- Admissão de Estrangeiros
 relationships: []
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:00:17Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +97,9 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 2 de Fevereiro de 1995.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 ACCORD RELATIF À LA RÉADMISSION DES PERSONNES EN SITUATION IRRÉGULIÈRE
 
@@ -191,7 +191,7 @@ En foi de quoi, les soussignés, dûment autorisés à cet effet, ont apposé le
 
 Fait à Bruxelles, le vingt-neuf mars mil neuf cent quatre-vingt-onze, dans les langues allemande, française, italienne, néerlandaise et polonaise, les cinq textes faisant également foi, en un exemplaire original qui sera déposé dans les archives du Gouvernement du Grand-Duché de Luxembourg.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 Déclaration commune
 
@@ -205,7 +205,7 @@ Les Parties Contractantes réaffirment leur engagement à reprendre leurs nation
 
 Fait à Bruxelles, le vingt-neuf mars mil neuf cent quatre-vingt-onze, dans les langues allemande, française, italienne, néerlandaise et polonaise, les cinq textes faisant également foi, en un exemplaire original qui sera déposé dans les archives du Gouvernement du Grand-Duché de Luxembourg.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 Procès-verbal
 
@@ -221,7 +221,7 @@ Au moment de la signature de l'Accord relatif à la réadmission des personnes e
 
 Fait à Bruxelles, le vingt-neuf mars mil neuf cent quatre-vingt-onze, dans les langues allemande, française, italienne et néerlandaise, les quatre textes faisant également foi, en un exemplaire original qui sera déposé dans les archives du Gouvernement du Grand-Duché de Luxembourg.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 ACORDO RELATIVO À READMISSÃO DE PESSOAS EM SITUAÇÃO IRREGULAR
 
@@ -313,7 +313,7 @@ Em fé do que os abaixo assinados, devidamente autorizados para o efeito, apuser
 
 Feito em Bruxelas em 29 de Março de 1991, em língua alemã, francesa, italiana, neerlandesa e polaca, fazendo fé qualquer dos cinco textos, num único exemplar, que será depositado nos arquivos do Governo do Grão-Ducado do Luxemburgo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 Declaração comum
 
@@ -327,7 +327,7 @@ As Partes Contratantes reafirmam o seu compromisso de retomar os seus nacionais 
 
 Feito em Bruxelas, em 29 de Março de 1991, em língua alemã, francesa, italiana, neerlandesa e polaca, fazendo fé qualquer dos cinco textos num único exemplar, que será depositado nos arquivos do Governo do Grão-Ducado do Luxemburgo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
 
 Acta
 
@@ -347,4 +347,4 @@ Em caso de suspensão ou de denúncia do Acordo de Readmissão por uma das Parte
 
 Feito em Bruxelas em 29 de Março de 1991, em língua alemã, francesa, italiana e neerlandesa, fazendo fé qualquer um dos quatro textos, num exemplar único, que será depositado nos arquivos do Governo do Grão-Ducado do Luxemburgo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf))](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189a00/50985114.pdf)

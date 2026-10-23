@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/408/1992/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1992-523840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e83e8697c8a8f02acecd7e8aede14df37c7f839a7c5029986a0ebe5909279f84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79f5e95973fcae07d8bab5b82b53bf13d6cc96ce788785094a9b142f54281d5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:282696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:19:20Z'
   warnings: []
   errors: []
 ---
@@ -99,10 +131,10 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 45.�
 
 Ministério das Finanças.
 
-**Assinada em 23 de Abril de 1992.**
+Assinada em 23 de Abril de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 Mapa anexo à Portaria n.º 408/92
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/113b00/22402241.pdf))](https://files.diariodarepublica.pt/1s/1992/05/113b00/22402241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/113b00/22402241.pdf)

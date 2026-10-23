@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 265/1994, 1º Suplemento, Série I-A de 1994-11-16
   number: '265'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6858-(2) a 6858-(117)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/63/1994/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/63-1994-186294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:59:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bded13c4b43b543fb3a766e8322c9020408fef1608e0d250ee796aa825bb541a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98c803a43243112b286281a0686e8b50f272f26cf2d47b68dc291ee41527f5a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Adesão à Comunidade Europeia
+- Agricultura
 - Aproximação das Legislações
 - CE Países
 - CECA
 - CEE
-- Transporte Terrestre
+- Comércio
 - Convenção
-- Cooperação Financeira
-- Portugal
-- Direitos Aduaneiros
-- Adesão à Comunidade Europeia
-- Euratom
-- Pesca
-- Importação
-- Livre Prestação de Serviços
-- Livre Circulação de Mercadorias
-- Livre Circulação de Pessoas
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
-- Política Económica
+- Direitos Aduaneiros
+- Euratom
 - Exportação
-- Agricultura
-- República Checa
-- Comércio
+- Importação
+- Livre Circulação de Mercadorias
+- Livre Circulação de Pessoas
+- Livre Prestação de Serviços
+- Pesca
+- Política Económica
+- Portugal
 - Produto Agrícola
+- República Checa
 - Trânsito
+- Transporte Terrestre
 - Tratado CECA
 - Tratado CEE
 - Tratado Euratom
@@ -134,15 +134,15 @@ relationships:
   label: null
   source: /application/external/tratado
 article_structure:
-  article_count: 209
+  article_count: 208
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:59:03Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +155,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 12 de Maio de 1994.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 ACORDO EUROPEU QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E A REPÚBLICA CHECA, POR OUTRO.
 
@@ -1629,11 +1629,11 @@ A partir da sua entrada em vigor, o presente Acordo substitui o Acordo entre a C
 
 2 - Em caso da entrada em vigor do Acordo após 1 de Janeiro de qualquer ano, são aplicáveis as disposições do Protocolo n.º 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO I — Lista dos produtos referidos no n.º 9.º do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO II — Lista dos produtos referidos no n.º 2 do artigo 10.º
 
@@ -1647,41 +1647,41 @@ Código NC 1993:
 
 ## ANEXO III — Lista dos produtos referidos no n.º 3 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO IV — Lista dos produtos referidos no n.º 1 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO V — Lista dos produtos referidos no n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no n.º 3 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO VII — Lista dos produtos referidos no n.º 4 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO VIII — Lista de produtos sujeitos a licenças de importação
 
 Licenças não automáticas com contingentes de importação fixos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO IX — Lista de produtos sujeitos a licenças de exportação (ver nota 1)
 
 (nota 1) As licenças destinam-se a fins de controlo das exportações. Quaisquer restrições adoptadas pela República Federativa Checa e Eslovaca devido a dificuldades surgidas no mercado nacional, relativamente a um produto constante da lista, serão adoptadas mediante decisão ad hoc da República Checa, do que a Comunidade será informada imediatamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO X
 
 Mercadorias referidas no artigo 18.º, relativamente às quais a Comunidade mantém um elemento agrícola na imposição e relativamente às quais a República Checa pode introduzir um elemento agrícola na imposição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO XIa — Lista dos produtos referidos no n.º 2 do artigo 21.º (ver nota 1)
 
@@ -1693,11 +1693,11 @@ As quantidades em toneladas estabelecidas para o ano 3 serão aplicáveis a part
 
 As quantidades em toneladas estabelecidas para os anos 4 e 5, respectivamente, serão aplicáveis a partir de 1 de Julho de 1994 até 30 de Junho de 1995 e de 1 de Junho de 1995 a 30 de Junho de 1996, respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO XIb — Lista dos produtos referidos no n.º 2 do artigo 21.º (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 (nota 1) Sem prejuízo das normas da interpretação da Nomenclatura Combinada, a designação dos produtos tem um carácter meramente indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelos Códigos NC correspondentes. Nos casos em que são indicados "ex" códigos NC, o regime preferencial é determinado através da aplicação conjunta do código NC e da designação correspondente.
 
@@ -1765,7 +1765,7 @@ As quantidades em toneladas estabelecidas para o ano 3 serão aplicáveis a part
 
 As quantidades em toneladas estabelecidas para os anos 4 e 5, respectivamente, serão aplicáveis a partir de 1 de Julho de 1994 até 30 de Junho de 1995 e de 1 de Julho de 1995 a 30 de Junho de 1996, respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO XIV — Lista de produtos referidos no n.º 4 do artigo 21.º (ver nota 1)
 
@@ -1773,11 +1773,11 @@ As quantidades em toneladas estabelecidas para os anos 4 e 5, respectivamente, s
 
 As importações na República Checa dos seguintes produtos originários da Comunidade estarão sujeitas às seguintes concessões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO XV — Lista de produtos referidos no artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO XVIa — Direito de estabelecimento: serviços financeiros (capítulo II, título IV)
 
@@ -1943,7 +1943,7 @@ O presente Protocolo aplica-se aos produtos enumerados no anexo i do [Tratado CE
 
 ### CAPÍTULO I — Produtos siderúrgicos CECA
 
-###### Artigo 2.º (ver nota 1)
+Artigo 2.º (ver nota 1)
 
 (nota 1) A partir de 1 de Junho de 1993 e até 31 de Dezembro de 1995, sob reserva de quaisquer alterações posteriores, será aplicável o disposto nas Decisões n.os 1/93(C) e 1/93(S) do Comité Misto, agindo em conformidade com o disposto no Acordo Provisório sobre Comércio e Matérias Conexas entre a Comunidade e a República Checa, assinado em 16 de Dezembro de 1991, com as alterações introduzidas pelos protocolos complementares entre a Comunidade e a República Checa e a Comunidade e a República Eslovaca.
 
@@ -2427,13 +2427,13 @@ Os direitos aplicáveis a partir de 1 de Janeiro de 1995 serão definitivamente 
 
 Direitos aplicáveis na importação na Comunidade de mercadorias originárias da República Checa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 QUADRO N.º 2
 
 Produtos agrícolas transformados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 PROTOCOLO N.º 4
 
@@ -2647,7 +2647,7 @@ Nesses casos, a emissão dos certificados de circulação EUR.1 será sujeita à
 
 5 - Na casa n.º 7 do certificado EUR.1 deve figurar uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 6 - Não é necessário indicar nas casas n.os 8 e 9 do certificado LT as marcas e números, a quantidade e a natureza do volume, o peso bruto (kg) ou outra medida (l, m3, etc.). A casa n.º 8 deve, no entanto, conter uma descrição e uma designação suficientemente precisas das mercadorias, de modo a permitir a sua identificação.
 
@@ -2687,7 +2687,7 @@ d) As facturas apenas podem ser emitidas em relação a mercadorias exportadas d
 
 Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 4 - As menções referidas no n.º 3 devem ser inscritas na casa "Observações" do certificado de circulação EUR.1.
 
@@ -2697,7 +2697,7 @@ Os certificados emitidos a posteriori devem conter uma das seguintes menções:
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 3 - As menções referidas no n.º 2 devem ser inscritas na casa "Observações" do certificado de circulação EUR.1.
 
@@ -2717,7 +2717,7 @@ b) Conter a marca aposta pelo exportador autorizado de um carimbo especial aprov
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa n.º 7, "Observações", do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 5 - A casa n.º 11, "Visto da alfândega", do certificado EUR.1 deve ser preenchida, se for caso disso, pelo exportador autorizado.
 
@@ -3117,7 +3117,7 @@ Se uma regra da lista diz que para um determinado artigo têxtil, tal como uma b
 
 Lista das operações de complemento de fabrico ou de transformação que devem ser efectuadas em relação às matérias não originárias para que o produto fabricado possa adquirir a qualidade de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO III — Certificados de circulação EUR.1
 
@@ -3127,7 +3127,7 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da República Checa reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO IV — Formulário EUR.2
 
@@ -3137,15 +3137,15 @@ Lista das operações de complemento de fabrico ou de transformação que devem 
 
 3 - As autoridades competentes dos Estados membros da Comunidade e da República Checa reservam-se o direito de proceder à impressão dos formulários ou de a confiar a tipografias por elas autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de série, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO VI — Lista dos produtos referidos no artigo 35.º temporariamente excluídos do âmbito do presente Protocolo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 PROTOCOLO N.º 5
 
@@ -3183,7 +3183,7 @@ Nos termos do Acto de Adesão, Portugal não concederá aos produtos originário
 
 As importações em Portugal de produtos originários da República Checa podem ser sujeitas a restrições quantitativas até 31 de Dezembro de 1995, no que se refere aos produtos enumerados no anexo B.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
 
 ## ANEXO B — 0103 10 00 2204 21 10
 
@@ -3721,4 +3721,4 @@ Carta do Governo da República Checa à Comunidade relativa ao Protocolo n.º 2
 
 O Governo da República Checa declara que não invocará as disposições do Protocolo n.º 2, relativo aos produtos CECA, e, nomeadamente, o seu artigo 8.º, a fim de não pôr em causa a compatibilidade desse Protocolo com os acordos celebrados pela indústria carbonífera comunitária com as companhias de electricidade, as empresas siderúrgicas e a indústria siderúrgica, de modo a assegurar a venda do carvão comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf))](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/265a01/00020117.pdf)

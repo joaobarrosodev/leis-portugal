@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/347/1992/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/347-1992-208850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aa7dc4b575aca038cbebee8dc5c3d690518601b8e0503dc38a921547ed84f0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c123e0086330e7b1989c4d68bf8802d3e506a984bd9ab93cbd71ef1ae116b05b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Ordenamento do Território
 - Plano Director Municipal
-- Administração Local
 - Vila Real de Santo António
 relationships:
 - type: amended_by
   target: pt:dre:595309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496688:por
+  label: "Ratificado o Plano de Urbanização das Sesmarias, ficando parcialmente alteradas a planta de ordenamento e a planta\
+    \ de condicionantes do Plano Director Municipal de Vila Real de Santo António, bem como o artigo 27.º do respectivo Regulamento,\
+    \ na área de intervenção do Plano de Urbanização, ratificado pelo presente diploma, pela RES.147/2003.2003.08.29.PCM DR.IS-B\
+    \ [217] DE 19/SET/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/147-2003-496688
+  date: '2003-08-29'
+- type: amended_by
+  target: pt:dre:500685:por
+  label: "Ratificada a alteração ao art. 25º do Regulamento do Plano Director Municipal de Vila Real de Santo António, bem\
+    \ como aos respectivos Plano de Uso dos Solos 2-6 e Plano de Salvaguarda e Estrutura 3-6, pela RES.114/2004.08.07.2004.PCM,\
+    \ DR.IS-B [178] de 30.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/114-2004-500685
+  date: '2004-07-08'
+- type: amended_by
+  target: pt:dre:595309:por
+  label: "Ratificada a suspensão parcial do Plano Director Municipal de Vila Real de Santo António, ratificado pelo presente\
+    \ diploma, com a redacção conferida pela Res 114/2004 de 30-Jul, para a área abrangida pelas medidas preventivas ratificadas\
+    \ pela RES.168/2005.15.09.2005.PCM, DR.IS-B [204] de 24.10.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/168-2005-595309
+  date: '2005-09-15'
+- type: amended_by
+  target: pt:dre:1095496:por
+  label: "Tornada pública a Suspensão parcial do Plano Diretor Municipal de Vila Real de Santo António, ratificado pelo presente\
+    \ diploma, pelo AV.12411/2013.07.10.2013.MVILA R ANTÓNIO, DR.IIS [193] de 07.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12411-2013-1095496
+  date: '2013-10-07'
+- type: amended_by
+  target: pt:dre:72953644:por
+  label: Tornada pública a aprovação da alteração dos arts. 70.º e 71.º do Regulamento do Plano Diretor Municipal de Vila
+    Real de Santo António (Zona de Equipamentos), assim como da Planta Síntese de Uso do Solo n.º 2.4, ratificado pelo presente
+    diploma, pelo(a) Aviso n.º 14981/2015 - Diário da República n.º 249/2015, Série II de 2015-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14981-2015-72953644
+  date: '2015-12-22'
+- type: amended_by
+  target: pt:dre:74338300:por
+  label: Aprovada a alteração do presente diploma e dos arts. 10.º, 45.º e 56.º do respetivo Regulamento pelo(a) Aviso n.º
+    5751/2016 - Diário da República n.º 85/2016, Série II de 2016-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5751-2016-74338300
+  date: '2016-05-03'
+- type: amended_by
+  target: pt:dre:120329664:por
+  label: Tornada pública a aprovação da correção material da representação cartográfica da Planta de Uso dos Solos da Faixa
+    Litoral n.º 2.7 do do Plano Diretor Municipal de Vila Real de Santo António, ratificado pelo presente diploma, pelo(a)
+    Declaração n.º 15/2019 - Diário da República n.º 41/2019, Série II de 2019-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/15-2019-120329664
+  date: '2019-02-27'
+- type: amended_by
+  target: pt:dre:125193615:por
+  label: Tornado público, a alteração do Plano de Pormenor de Salvaguarda do Núcleo Pombalino de Vila Real de Santo António,
+    do Plano Director Municipal de Vila Real de Santo António, ratificado pela presente Portaria, pelo(a) Aviso n.º 16194/2019
+    - Diário da República n.º 195/2019, Série II de 2019-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/16194-2019-125193615
+  date: '2019-10-10'
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392388:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:52Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +177,6 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território, das Obras Públicas, Transportes e Comunicações e do Ambiente e Recursos Naturais.
 
-**Assinada em 27 de Março de 1992.**
+Assinada em 27 de Março de 1992.
 
-**O Ministro do Planeamento e da Administração do Território. - Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro do Planeamento e da Administração do Território. - Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.

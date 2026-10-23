@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 239/2007, 1º Suplemento, Série I de 2007-12-12
   number: '239'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8888-(2) a 8888-(92)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60-a/2007/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-a-2007-496086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 188bc81e196abcd99e6b416b4847f6a910f4448672f83945845892e773174195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db074521d356301291ad4572ef878bb0944632182658a12b3970f6d070177ba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Patente
-- Propriedade Industrial
 - Munique
+- Patente
+- Portugal
+- Propriedade Industrial
 - Propriedade Intelectual
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:496087:por
+  label: "Ratificado o Acto de Revisão da Convenção sobre a Concessão de Patentes Europeias (aprovada para ratificação pelo\
+    \ Dec 52/91 de 30-Ago do MNE) aprovado para ratificação no presente diploma pelo DEC.126-A/2007.12.12.2007.PR, DR.IS [239-Supl]\
+    \ de 12.12.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/126-a-2007-496087
+  date: '2007-12-12'
 article_structure:
-  article_count: 199
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 191
+  section_count: 39
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 30 de Novembro de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACTE PORTANT REVISION DE LA CONVENTION SUR LA DELIVRANCE DE BREVETS EUROPEENS (CONVENTION SUR LE BREVET EUROPEEN) DU 5 OCTOBRE 1973, REVISEE EN DERNIER LIEU LE 17 DECEMBRE 1991.
 
@@ -1377,77 +1384,77 @@ Fait à Munich, le vingt-neuf novembre deux mil, en un exemplaire en langues all
 
 Pour le Royaume de Belgique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République de Chypre:
 
 Pour le Royaume du Danemark:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République fédérale d'Allemagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République hellénique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour le Royaume d'Espagne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République de Finlande:
 
 Pour le Gouvernement de la République française:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour l' Irlande:
 
 Pour la République italienne:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la Principauté de Liechtenstein:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour le Grand-Duché de Luxembourg:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la Principauté de Monaco:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour le Royaume des Pays-Bas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République d'Autriche:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République portugaise:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la Confédération suisse:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour le Royaume de Suède:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour la République turque:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 Pour le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23901/0000200092.pdf)
 
 ACTO DE REVISÃO DA CONVENÇÃO SOBRE A CONCESSÃO DE PATENTES EUROPEIAS (CONVENÇÃO DA PATENTE EUROPEIA), DE 5 DE OUTUBRO DE 1973, ÚLTIMA REVISÃO EM 17 DE DEZEMBRO DE 1991.
 
@@ -1521,7 +1528,7 @@ b) O Jornal Oficial do Instituto Europeu de Patentes.
 
 «Artigo 16.º
 
-#### Secção de Recepção
+Secção de Recepção
 
 A Secção de Recepção é responsável pelo exame dos pedidos de patente europeia no momento da apresentação e quanto aos requisitos formais dos pedidos de patente europeia.»
 
@@ -2155,7 +2162,9 @@ Pedido de limitação ou revogação
 
 2 - O pedido não pode ser apresentado enquanto estiver pendente um procedimento de oposição em relação à patente europeia.
 
-###### Artigo 105.º-B — Limitação ou revogação da patente europeia
+Artigo 105.º-B
+
+Limitação ou revogação da patente europeia
 
 1 - O Instituto Europeu de Patentes examina se são satisfeitos os requisitos previstos no Regulamento de Execução para limitação ou revogação da patente europeia.
 
@@ -2163,7 +2172,9 @@ Pedido de limitação ou revogação
 
 3 - A decisão relativa à limitação ou revogação da patente europeia aplica-se à patente europeia em todos os Estados Contratantes em relação aos quais foi concedida. Produz efeito na data em que a menção da decisão é publicada no Boletim Europeu de Patentes.
 
-###### Artigo 105.º-C — Publicação do fascículo da patente europeia modificado
+Artigo 105.º-C
+
+Publicação do fascículo da patente europeia modificado
 
 Quando a patente europeia foi limitada em virtude do artigo 105.º-B, n.º 2, o Instituto Europeu de Patentes publica o fascículo de patente europeia modificado, logo que possível, após a publicação da menção da limitação no Boletim Europeu de Patentes.»
 
@@ -2559,21 +2570,29 @@ b) O Instituto Europeu de Patentes fornece a uma entidade comum o pessoal de sup
 
 Pedidos internacionais ao abrigo do Tratado de Cooperação em Matéria de Patentes - Pedidos Euro-PCT
 
-###### Artigo 150.º — Aplicação do Tratado de Cooperação em Matéria de Patentes
+Artigo 150.º
+
+Aplicação do Tratado de Cooperação em Matéria de Patentes
 
 1 - O Tratado de Cooperação em Matéria de Patentes de 19 de Junho de 1970, daqui em diante referido como PCT, aplica-se em conformidade com as disposições da presente parte.
 
 2 - Os pedidos internacionais apresentados em conformidade com o PCT podem ser objecto de procedimentos perante o Instituto Europeu de Patentes. Nesses procedimentos, são aplicáveis as disposições do PCT, do seu Regulamento de Execução e, a título complementar, as da presente Convenção. As disposições do PCT ou do seu Regulamento de Execução prevalecem em caso de divergência.
 
-###### Artigo 151.º — O Instituto Europeu de Patentes como organismo receptor
+Artigo 151.º
+
+O Instituto Europeu de Patentes como organismo receptor
 
 O Instituto Europeu de Patentes actua como organismo receptor no sentido do PCT, de acordo com o Regulamento de Execução. Aplica-se o artigo 75.º, n.º 2.
 
-###### Artigo 152.º — O Instituto Europeu de Patentes como entidade responsável pela pesquisa internacional ou como entidade responsável pelo exame preliminar internacional
+Artigo 152.º
+
+O Instituto Europeu de Patentes como entidade responsável pela pesquisa internacional ou como entidade responsável pelo exame preliminar internacional
 
 O Instituto Europeu de Patentes actua na qualidade de entidade responsável pela pesquisa internacional e na qualidade de autoridade responsável pelo exame preliminar internacional, no sentido do PCT, em conformidade com um acordo estabelecido entre a Organização e a Organização Mundial da Propriedade Intelectual, para requerentes que têm a nacionalidade de um Estado Contratante na presente Convenção ou em cujo território têm o domicílio ou a sede. Este acordo pode prever que o Instituto Europeu de Patentes actue também para outros requerentes.
 
-###### Artigo 153.º — Instituto Europeu de Patentes como instituto designado ou instituto eleito
+Artigo 153.º
+
+Instituto Europeu de Patentes como instituto designado ou instituto eleito
 
 1 - O Instituto Europeu de Patentes é:
 
@@ -2613,11 +2632,15 @@ Regulamento de execução e protocolos
 
 «Protocolo Interpretativo do artigo 69.º do CPE
 
-###### Artigo 1.º — Princípios gerais
+Artigo 1.º
+
+Princípios gerais
 
 O artigo 69.º não deve ser interpretado como significando que a extensão da protecção conferida por uma patente europeia é determinada no sentido estrito e literal do texto das reivindicações e que a descrição e os desenhos servem unicamente para dissipar as ambiguidades que poderiam ocorrer nas reivindicações. Nem deve ser considerado como significando que as reivindicações servem unicamente como orientação e que a protecção se estende também ao que, da consideração da descrição e desenhos por um especialista na matéria, o titular da patente entendeu proteger. Pelo contrário, o artigo 69.º deve ser interpretado como definindo uma posição, entre estes extremos, que assegura simultaneamente uma protecção justa ao titular da patente e um grau razoável de segurança jurídica para terceiros.
 
-###### Artigo 2.º — Equivalentes
+Artigo 2.º
+
+Equivalentes
 
 Para efeitos de determinação da extensão da protecção conferida por uma patente europeia, deve ter-se em conta todo o elemento equivalente a um elemento especificado nas reivindicações.»
 
@@ -2631,7 +2654,7 @@ A Organização Europeia de Patentes assegura que a proporção de postos de tra
 
 «Protocolo sobre a Centralização do Sistema Europeu de Patentes e sobre a sua Introdução (Protocolo sobre a Centralização)
 
-#### SECÇÃO I
+SECÇÃO I
 
 1 - a) Com a entrada em vigor da Convenção, os Estados Partes na Convenção que também são membros do Instituto Internacional de Patentes criado pelo Acordo da Haia de 6 de Junho de 1947, devem tomar todas as medidas necessárias para assegurar a transferência, para o Instituto Europeu de Patentes, de todo o activo e de todo o passivo bem como de todo o pessoal do Instituto Internacional de Patentes, até à data a que se refere o artigo 162.º, n.º 1, da Convenção. As modalidades da transferência serão fixadas por um acordo entre o Instituto Internacional de Patentes e a Organização Europeia de Patentes. Os Estados acima referidos e os outros Estados que são parte na Convenção devem tomar todas as medidas necessárias para assegurar que esse acordo seja posto em prática até à data a que se refere o artigo 162.º, n.º 1, da Convenção. Na data de aplicação do acordo, os Estados membros do Instituto Internacional de Patentes que também são partes na Convenção comprometem-se ainda a terminar a sua participação no Acordo da Haia.
 
@@ -4763,7 +4786,7 @@ Les décisions du Conseil d'administration prévues dans le présent protocole s
 
 1 - Convenção sobre a Patente Europeia
 
-# PARTE I — Disposições gerais e institucionais
+## PARTE I — Disposições gerais e institucionais
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -4925,7 +4948,9 @@ f) Câmaras de Recurso;
 
 g) A Grande Câmara de Recurso.
 
-###### Artigo 16.º — Secção de Recepção
+###### Artigo 16.º
+
+#### Secção de Recepção
 
 A Secção de Recepção é responsável pelo exame dos pedidos de patente europeia no momento da apresentação e quanto aos requisitos formais dos pedidos de patente europeia.
 
@@ -4945,7 +4970,9 @@ As Divisões de Pesquisa são responsáveis pela elaboração dos Relatórios de
 
 2 - Uma Divisão de Oposição é composta por três examinadores tecnicamente qualificados, dos quais pelo menos dois não devem ter participado no procedimento de concessão da patente à qual a oposição se refere. Um examinador que participou no procedimento de concessão da patente europeia não pode assumir a presidência. Antes de tomar uma decisão sobre o procedimento de oposição, a Divisão de Oposição pode confiar o exame deste a um dos seus membros. O procedimento oral é da competência da própria Divisão de Oposição. Se esta considerar que a natureza da decisão o exige, a Divisão de Oposição é completada por um examinador jurista, que não deve ter participado no procedimento de concessão da patente. Em caso de igualdade de votos, o voto do Presidente da Divisão de Oposição é preponderante.
 
-###### Artigo 20.º — Divisão Jurídica
+###### Artigo 20.º
+
+##### Divisão Jurídica
 
 1 - A Divisão Jurídica é responsável por qualquer decisão relativa às entradas no Registo Europeu de Patentes e à inscrição na lista dos mandatários oficiais e à sua exclusão da mesma.
 
@@ -5269,7 +5296,7 @@ g) Os princípios de contabilidade geralmente aceites nos quais se baseiam o or�
 
 4 - O Regulamento relativo a Taxas fixa especialmente o montante das taxas e a sua forma de pagamento.
 
-# PARTE II — Direito das patentes
+## PARTE II — Direito das patentes
 
 ### CAPÍTULO I — Patenteabilidade
 
@@ -5455,7 +5482,7 @@ Um pedido de patente europeia pode ser, na sua totalidade ou em parte, objecto d
 
 Salvo disposições em contrário na presente Convenção, o pedido de patente europeia como objecto de propriedade está submetido, em cada Estado Contratante designado e com efeito nesse Estado, à legislação aplicável no referido Estado aos pedidos de patente nacional.
 
-# PARTE III — O pedido de patente europeia
+## PARTE III — O pedido de patente europeia
 
 ### CAPÍTULO I — Apresentação do pedido de patente europeia e condições a que deve satisfazer
 
@@ -5577,7 +5604,7 @@ um pedido de patente de invenção, de modelo de utilidade ou de certificado de 
 
 Para efeito do direito de prioridade, a data de prioridade é considerada como sendo a data da apresentação do pedido de patente europeia por aplicação do artigo 54.º, n.os 2 e 3, e do artigo 60.º, n.º 2.
 
-# PARTE IV — Procedimento até à concessão
+## PARTE IV — Procedimento até à concessão
 
 ###### Artigo 90.º — Exame quando da apresentação e quanto às exigências de forma
 
@@ -5639,7 +5666,7 @@ b) Antes do termo desse prazo, a pedido do requerente.
 
 O Instituto Europeu de Patentes publica o fascículo da patente europeia tão cedo quanto possível após a publicação da menção da concessão da patente europeia no Boletim Europeu de Patentes.
 
-# PARTE V — Procedimento de oposição e de limitação
+## PARTE V — Procedimento de oposição e de limitação
 
 ###### Artigo 99.º — Oposição
 
@@ -5717,7 +5744,7 @@ b) Após um pedido do titular da patente para cessar a alegada contrafacção, o
 
 Quando a patente europeia foi limitada em virtude do artigo 105.º-B, n.º 2, o Instituto Europeu de Patentes publica o fascículo de patente europeia modificado, logo que possível, após a publicação da menção da limitação no Boletim Europeu de Patentes.
 
-# PARTE VI — Procedimento de recurso
+## PARTE VI — Procedimento de recurso
 
 ###### Artigo 106.º — Decisões susceptíveis de recurso
 
@@ -5787,7 +5814,7 @@ e) Uma infracção penal estabelecida nas condições previstas no Regulamento d
 
 6 - Qualquer pessoa que, num Estado Contratante designado, tenha, de boa fé, no período entre a decisão da Câmara de Recurso e a publicação no Boletim Europeu de Patentes da menção da decisão da Grande Câmara de Recurso sobre o pedido para revisão, começado a explorar ou feito preparativos efectivos e sérios para explorar a invenção que é objecto de um pedido de patente europeia publicada ou de uma patente europeia, pode prosseguir, a título gratuito, essa exploração na sua empresa ou para as necessidades desta.
 
-# PARTE VII — Disposições comuns
+## PARTE VII — Disposições comuns
 
 ### CAPÍTULO I — Disposições gerais de procedimento
 
@@ -6013,7 +6040,7 @@ d) À obrigação de confidencialidade do mandatário profissional e ao direito 
 
 2 - Qualquer pessoa inscrita na lista dos mandatários profissionais a que se refere o artigo 134, n.º 1, é membro do Instituto.
 
-# PARTE VIII — Incidências sobre o direito nacional
+## PARTE VIII — Incidências sobre o direito nacional
 
 ### CAPÍTULO I — Transformação em pedido de patente nacional
 
@@ -6085,7 +6112,7 @@ Os artigos 66.º, 124.º, 135.º, 137.º e 139.º são aplicáveis aos modelos d
 
 2 - Quaisquer taxas anuais de patente europeia, devidas no período de dois meses a contar da data em que a menção da concessão da patente foi publicada no Boletim Europeu de Patentes, são consideradas como tendo sido pagas, desde que sejam pagas no prazo mencionado. Não é exigida nenhuma taxa adicional prevista numa regulamentação nacional.
 
-# PARTE IX — Acordos particulares
+## PARTE IX — Acordos particulares
 
 ###### Artigo 142.º — Patente unitária
 
@@ -6147,7 +6174,7 @@ a) Os membros das Câmaras de Recurso ou da Grande Câmara de Recurso podem faze
 
 b) O Instituto Europeu de Patentes fornece a uma entidade comum o pessoal de suporte, as instalações e os meios materiais necessários para a realização da sua missão, e as despesas em que essa entidade incorre serão suportadas no todo ou em parte pela Organização.
 
-# PARTE X — Pedidos internacionais ao abrigo do tratado de cooperação em matéria de patentes - Pedidos EURO-PCT
+## PARTE X — Pedidos internacionais ao abrigo do tratado de cooperação em matéria de patentes - Pedidos EURO-PCT
 
 ###### Artigo 150.º — Aplicação do Tratado de Cooperação em Matéria de Patentes
 
@@ -6203,11 +6230,11 @@ b) Um instituto eleito, se o requerente tiver elegido um Estado designado em con
 
 (Eliminado.)
 
-# PARTE XI — Disposições transitórias
+## PARTE XI — Disposições transitórias
 
 (Eliminada.)
 
-# PARTE XII — Disposições finais
+## PARTE XII — Disposições finais
 
 ###### Artigo 164.º — Regulamento de execução e protocolos
 

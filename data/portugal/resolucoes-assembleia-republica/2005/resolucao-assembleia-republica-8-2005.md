@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/8/2005/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-2005-604182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T11:17:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15a4aa7338d1d21f645252f279fa05bad92ad8acf788b4f86144bb02f6c949dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ac31d0d80c0a729a3b4a2e451906e7a1fe58749f7676f211d0944a8954d5c5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,27 @@ reuse:
 subjects:
 - AEE
 - Convenção
-- Portugal
 - Documentação Classificada
+- Paris
+- Portugal
 - Segurança da Informação
 - Segurança Internacional
-- Paris
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:604188:por
+  label: "Ratificado o Acordo pelo DEC.12/2005.15.02.2005.PR, DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2005-604188
+  date: '2005-02-15'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:17:12Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +102,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Dezembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACCORD ENTRE LES ÉTATS PARTIES À LA CONVENTION PORTANT CRÉATION D'UNE AGENCE SPATIALE EUROPÉENNE ET L'AGENCE SPATIALE EUROPÉENNE CONCERNANT LA PROTECTION ET L'ÉCHANGE D'INFORMATIONS CLASSIFIÉES.
 
@@ -199,33 +204,33 @@ Fait à Paris, le 19 août 2002, en un seul exemplaire en langue anglaise et fra
 
 Pour l'Agence spatiale européenne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour la République d'Autriche:
 
 Pour le Royaume de Belgique:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour le Royaume du Danemark:
 
 Pour la Finlande:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour la République française:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour la République d'Allemagne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour l'Irlande:
 
 Pour la République italienne:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour le Royaume des Pays-Bas:
 
@@ -233,19 +238,19 @@ Pour le Royaume de Norvége:
 
 Pour le Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour l'Espagne:
 
 Pour le Royaume de Suède:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 Pour la Confédération suisse:
 
 Pour le Royaume-Uni:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 AGREEMENT BETWEEN THE STATES PARTIES TO THE CONVENTION FOR THE ESTABLISHMENT OF A EUROPEAN SPACE AGENCY AND THE EUROPEAN SPACE AGENCY FOR THE PROTECTION AND THE EXCHANGE OF CLASSIFIED INFORMATION.
 
@@ -347,33 +352,33 @@ Done in Paris, this 19 day of August 2002, in a single copy in the English and F
 
 For the European Space Agency:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the Republic of Austria:
 
 For the Kingdom of Belgium:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the Kingdom of Denmark:
 
 For Finland:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the French Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the Republic of Germany:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For Ireland:
 
 For the Italian Republic:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the Kingdom of the Netherlands:
 
@@ -381,19 +386,19 @@ For the Kingdom of Norway:
 
 For Portugal:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For Spain:
 
 For the Kingdom of Sweden:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 For the Swiss Confederation:
 
 For the United Kingdom:
 
-[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
+[[[[[[[[[[[[[[[[[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032a00/10941100.pdf)
 
 ACORDO ENTRE OS ESTADOS PARTE DA CONVENÇÃO PARA O ESTABELECIMENTO DA AGÊNCIA ESPACIAL EUROPEIA E A AGÊNCIA ESPACIAL EUROPEIA PARA A PROTECÇÃO E TROCA DE INFORMAÇÃO CLASSIFICADA.
 

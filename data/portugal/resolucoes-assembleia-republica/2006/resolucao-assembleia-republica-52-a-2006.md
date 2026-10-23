@@ -25,7 +25,7 @@ publication:
   reference: Diário da República n.º 144/2006, 1º Suplemento, Série I de 2006-07-27
   number: '144'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5370-(2) a 5370-(183)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf
 entry_into_force_dates: []
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/52-a/2006/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-a-2006-294737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f34882230515a2d0fb60acf2b606789950bdfd15b3e110e0dd53ca68fad43b36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f403698db473ac8b8addb7f0bac7ddd1218110265c17f0096417664db6396336
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,29 +71,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
-- Bélgica
-- Bulgária
-- CE Países
-- Convenção
-- Irlanda
-- Portugal
-- Dinamarca
-- Espanha
-- Finlândia
 - Acto de Adesão
 - Adesão à Comunidade Europeia
 - Áustria
-- Hungria
-- República Checa
-- Países Baixos
+- Bélgica
+- Bulgária
+- CE Países
 - Chipre
+- Convenção
+- Dinamarca
+- Espanha
 - Estónia
+- Finlândia
 - França
 - Grécia
+- Hungria
+- Irlanda
 - Luxemburgo
 - Malta
+- Países Baixos
+- Portugal
+- Reino Unido
+- República Checa
 relationships:
+- type: amended_by
+  target: pt:dre:294738:por
+  label: "Ratificado o Tratado aprovado pelo presente diploma, pelo DEC.65-A/2006.27.07.2006.PR, DR.IS [144-Supl] de 27.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/65-a-2006-294738
+  date: '2006-07-27'
 - type: cites
   target: celex:31968R0259
   label: null
@@ -151,15 +157,15 @@ relationships:
   label: null
   source: http://data.europa.eu
 article_structure:
-  article_count: 130
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:14Z'
   warnings: []
   errors: []
 ---
@@ -172,9 +178,9 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 8 de Março de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 TRATADO ENTRE O REINO DA BÉLGICA, A REPÚBLICA CHECA, O REINO DA DINAMARCA, A REPÚBLICA FEDERAL DA ALEMANHA, A REPÚBLICA DA ESTÓNIA, A REPÚBLICA HELÉNICA, O REINO DE ESPANHA, A REPÚBLICA FRANCESA, A IRLANDA, A REPÚBLICA ITALIANA, A REPÚBLICA DE CHIPRE, A REPÚBLICA DA LETÓNIA, A REPÚBLICA DA LITUÂNIA, O GRÃO-DUCADO DO LUXEMBURGO, A REPÚBLICA DA HUNGRIA, A REPÚBLICA DE MALTA, O REINO DOS PAÍSES BAIXOS, A REPÚBLICA DA ÁUSTRIA, A REPÚBLICA DA POLÓNIA, A REPÚBLICA PORTUGUESA, A REPÚBLICA DA ESLOVÉNIA, A REPÚBLICA ESLOVACA, A REPÚBLICA DA FINLÂNDIA, O REINO DA SUÉCIA, O REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE (ESTADOS-MEMBROS DA UNIÃO EUROPEIA) E A REPÚBLICA DA BULGÁRIA E A ROMÉNIA RELATIVO À ADESÃO DA REPÚBLICA DA BULGÁRIA E DA ROMÉNIA À UNIÃO EUROPEIA SUA MAJESTADE O REI DOS BELGAS, A REPÚBLICA DA BULGÁRIA, O PRESIDENTE DA REPÚBLICA CHECA, SUA MAJESTADE A RAINHA DA DINAMARCA, O PRESIDENTE DA REPÚBLICA FEDERAL DA ALEMANHA, O PRESIDENTE DA REPÚBLICA DA ESTÓNIA, O PRESIDENTE DA REPÚBLICA HELÉNICA, SUA MAJESTADE O REI DE ESPANHA, O PRESIDENTE DA REPÚBLICA FRANCESA, A PRESIDENTE DA IRLANDA, O PRESIDENTE DA REPÚBLICA ITALIANA, O PRESIDENTE DA REPÚBLICA DE CHIPRE, A PRESIDENTE DA REPÚBLICA DA LETÓNIA, O PRESIDENTE DA REPÚBLICA DA LITUÂNIA, SUA ALTEZA REAL O GRÃO-DUQUE DO LUXEMBURGO, O PRESIDENTE DA REPÚBLICA DA HUNGRIA, O PRESIDENTE DE MALTA, SUA MAJESTADE A RAINHA DOS PAÍSES BAIXOS, O PRESIDENTE FEDERAL DA REPÚBLICA DA ÁUSTRIA, O PRESIDENTE DA REPÚBLICA DA POLÓNIA, O PRESIDENTE DA REPÚBLICA PORTUGUESA, O PRESIDENTE DA ROMÉNIA, O PRESIDENTE DA REPÚBLICA DA ESLOVÉNIA, O PRESIDENTE DA REPÚBLICA ESLOVACA, A PRESIDENTE DA REPÚBLICA DA FINLÂNDIA, O GOVERNO DO REINO DA SUÉCIA, SUA MAJESTADE A RAINHA DO REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE,
 
@@ -218,9 +224,9 @@ Meglena KUNEVA
 
 Ministra dos Assuntos Europeus
 
-**O PRESIDENTE DA REPÚBLICA CHECA,**
+O PRESIDENTE DA REPÚBLICA CHECA,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Vice-Ministro dos Negócios Estrangeiros, responsável pelos Assuntos Europeus
 
@@ -242,31 +248,31 @@ Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente do Reino da Dinamarca junto da União Europeia
 
-**O PRESIDENTE DA REPÚBLICA FEDERAL DA ALEMANHA,**
+O PRESIDENTE DA REPÚBLICA FEDERAL DA ALEMANHA,
 
 Hans Martin BURY
 
 Ministro-Adjunto, Ministério Federal dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República Federal da Alemanha junto da União Europeia
 
-**O PRESIDENTE DA REPÚBLICA DA ESTÓNIA,**
+O PRESIDENTE DA REPÚBLICA DA ESTÓNIA,
 
 Urmas PAET
 
 Ministro dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República da Estónia junto da União Europeia
 
-**O PRESIDENTE DA REPÚBLICA HELÉNICA,**
+O PRESIDENTE DA REPÚBLICA HELÉNICA,
 
 Yannis VALINAKIS
 
@@ -288,7 +294,7 @@ Alberto NAVARRO GONZÁLEZ
 
 Secretário de Estado para a União Europeia
 
-**O PRESIDENTE DA REPÚBLICA FRANCESA,**
+O PRESIDENTE DA REPÚBLICA FRANCESA,
 
 Claudie HAIGNERÉ
 
@@ -300,7 +306,7 @@ Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República Francesa junto da União Europeia
 
-**A PRESIDENTE DA IRLANDA,**
+A PRESIDENTE DA IRLANDA,
 
 Dermot AHERN
 
@@ -310,7 +316,7 @@ Noel TREACY
 
 Ministro-Adjunto, responsável pelos Assuntos Europeus
 
-**O PRESIDENTE DA REPÚBLICA ITALIANA,**
+O PRESIDENTE DA REPÚBLICA ITALIANA,
 
 Roberto ANTONIONE
 
@@ -322,7 +328,7 @@ Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República Italiana junto da União Europeia
 
-**O PRESIDENTE DA REPÚBLICA DE CHIPRE,**
+O PRESIDENTE DA REPÚBLICA DE CHIPRE,
 
 George IACOVOU
 
@@ -334,7 +340,7 @@ Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República de Chipre junto da União Europeia
 
-**A PRESIDENTE DA REPÚBLICA DA LETÓNIA,**
+A PRESIDENTE DA REPÚBLICA DA LETÓNIA,
 
 Artis PABRIKS
 
@@ -346,7 +352,7 @@ Embaixador Extraordinário e Plenipotenciário,
 
 Representante Permanente da República da Letónia junto da União Europeia
 
-**O PRESIDENTE DA REPÚBLICA DA LITUÂNIA,**
+O PRESIDENTE DA REPÚBLICA DA LITUÂNIA,
 
 Antanas VALIONIS
 
@@ -366,7 +372,7 @@ Jean ASSELBORN
 
 Vice-Primeiro-Ministro, Ministro dos Negócios Estrangeiros e da Imigração
 
-**O PRESIDENTE DA REPÚBLICA DA HUNGRIA,**
+O PRESIDENTE DA REPÚBLICA DA HUNGRIA,
 
 Dr. Ferenc SOMOGYI
 
@@ -376,7 +382,7 @@ Dr. Etele BARÁTH
 
 Ministro sem Pasta, responsável pelos Assuntos Europeus
 
-**O PRESIDENTE DE MALTA,**
+O PRESIDENTE DE MALTA,
 
 The Hon Michael FRENDO
 
@@ -394,11 +400,11 @@ Dr. B.R. BOT
 
 Ministro dos Negócios Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Ministro dos Assuntos Europeus
 
-**O PRESIDENTE FEDERAL DA REPÚBLICA DA ÁUSTRIA,**
+O PRESIDENTE FEDERAL DA REPÚBLICA DA ÁUSTRIA,
 
 Hubert GORBACH
 
@@ -408,7 +414,7 @@ Dr. Ursula PLASSNIK
 
 Ministra Federal dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA DA POLÓNIA,**
+O PRESIDENTE DA REPÚBLICA DA POLÓNIA,
 
 Adam Daniel ROTFELD
 
@@ -418,7 +424,7 @@ Jaroslaw PIETRAS
 
 Secretário de Estado, responsável pelos Assuntos Europeus
 
-**O PRESIDENTE DA REPÚBLICA PORTUGUESA,**
+O PRESIDENTE DA REPÚBLICA PORTUGUESA,
 
 Diogo PINTO DE FREITAS DO AMARAL
 
@@ -428,7 +434,7 @@ Fernando Manuel de MENDONÇA D'OLIVEIRA NEVES
 
 Secretário de Estado dos Assuntos Europeus
 
-**O PRESIDENTE DA ROMÉNIA,**
+O PRESIDENTE DA ROMÉNIA,
 
 Traian BASESCU
 
@@ -446,13 +452,13 @@ Leonard ORBAN
 
 Chefe da Delegação para as Negociações com a União Europeia
 
-**O PRESIDENTE DA REPÚBLICA DA ESLOVÉNIA,**
+O PRESIDENTE DA REPÚBLICA DA ESLOVÉNIA,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Secretário de Estado, Ministério dos Negócios Estrangeiros
 
-**O PRESIDENTE DA REPÚBLICA ESLOVACA,**
+O PRESIDENTE DA REPÚBLICA ESLOVACA,
 
 Eduard KUKAN
 
@@ -462,7 +468,7 @@ József BERÉNYI
 
 Secretário de Estado do Ministério dos Negócios Estrangeiros
 
-**A PRESIDENTE DA REPÚBLICA DA FINLÂNDIA,**
+A PRESIDENTE DA REPÚBLICA DA FINLÂNDIA,
 
 Eikka KOSONEN
 
@@ -546,7 +552,7 @@ O Governo da República Italiana remeterá aos Governos da República da Bulgár
 
 O presente Tratado, redigido num único exemplar, nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, italiana, irlandesa, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo fé qualquer dos textos, será depositado nos arquivos do Governo da República Italiana, o qual remeterá uma cópia autenticada a cada um dos Governos dos outros Estados signatários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 PROTOCOLO RELATIVO ÀS CONDIÇÕES E REGRAS DE ADMISSÃO DA REPÚBLICA DA BULGÁRIA E DA ROMÉNIA À UNIÃO EUROPEIA.
 
@@ -578,11 +584,11 @@ Os Princípios
 
 2. As referências no presente Protocolo à Constituição e à União devem, sempre que adequado, ser tomadas como referências, respectivamente, ao Tratado CEEA e à Comunidade instituída pelo Tratado CEEA.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A partir da data da adesão, as disposições da Constituição, do Tratado CEEA e os actos adoptados pelas Instituições antes da adesão vinculam a Bulgária e a Roménia e são aplicáveis nesses Estados nos termos da Constituição, do Tratado CEEA e do presente Protocolo.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1. A Bulgária e a Roménia aderem às decisões e acordos aprovados pelos Representantes dos Governos dos Estados-Membros reunidos no Conselho.
 
@@ -598,7 +604,7 @@ A partir da data da adesão, as disposições da Constituição, do Tratado CEEA
 
 7. Os instrumentos específicos mencionados no presente artigo incluem os referidos no artigo IV-438.º da Constituição.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1. As disposições do acervo de Schengen, referidas no Protocolo n.º 17 da Constituição relativo ao acervo de Schengen integrado no âmbito da União Europeia e os actos nele baseados ou de algum modo com ele relacionados, enumerados no Anexo II, bem como quaisquer outros actos adoptados antes da data da adesão, vinculam a Bulgária e a Roménia e são aplicáveis nesses Estados a partir da data da adesão.
 
@@ -606,11 +612,11 @@ A partir da data da adesão, as disposições da Constituição, do Tratado CEEA
 
 O Conselho toma a sua decisão, após consulta ao Parlamento Europeu, deliberando por unanimidade dos membros que representam os Governos dos Estados-Membros relativamente aos quais as disposições referidas no presente número já tenham entrado em vigor e do representante do Governo do Estado-Membro relativamente ao qual essas disposições devam entrar em vigor. Os membros do Conselho que representam os Governos da Irlanda e do Reino Unido da Grã-Bretanha e Irlanda do Norte participarão nessa decisão na medida em que a mesma diga respeito ao acervo de Schengen e aos actos nele baseados ou de algum modo com ele relacionados em que esses Estados participam.
 
-###### Artigo 5.º
+Artigo 5.º
 
 A Bulgária e a Roménia participarão na União Económica e Monetária a partir da data da adesão enquanto Estados-Membros que beneficiam de uma derrogação na acepção do artigo III-197.º da Constituição.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1. Os acordos ou convenções celebrados ou provisoriamente aplicados pela União com um ou mais Estados terceiros, com uma organização internacional ou com um nacional de um Estado terceiro, vinculam a Bulgária e a Roménia nos termos da Constituição e do presente Protocolo.
 
@@ -664,17 +670,17 @@ Em especial, os novos Estados-Membros devem retirar-se, à data da adesão ou o 
 
 (nota 2) JO L 1 de 3.1.1994, p. 3.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1. As disposições transitórias estabelecidas no presente Protocolo podem ser revogadas por uma lei europeia do Conselho quando deixarem de ser aplicáveis. O Conselho delibera por unanimidade, após consulta ao Parlamento Europeu.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1. Os actos adoptados pelas Instituições a que se referem as disposições transitórias estabelecidas no presente Protocolo conservam a sua natureza jurídica; em especial, os processos de alteração desses actos continuam a ser-lhes aplicáveis.
 
 2. As disposições do presente Protocolo que tenham por objecto ou efeito revogar ou alterar actos adoptados pelas Instituições, a título não transitório, têm a mesma natureza jurídica que as disposições assim revogadas ou alteradas e ficam sujeitas às mesmas regras que estas últimas.
 
-###### Artigo 9.º
+Artigo 9.º
 
 A aplicação da Constituição e dos actos adoptados pelas Instituições fica sujeita, a título transitório, às disposições derrogatórias previstas no presente Protocolo.
 
@@ -682,9 +688,11 @@ SEGUNDA PARTE
 
 Adaptações da Constituição
 
-## TÍTULO I — Disposições Institucionais
+TÍTULO I
 
-###### Artigo 10.º
+Disposições Institucionais
+
+Artigo 10.º
 
 1. O primeiro parágrafo do artigo 9.º do Protocolo n.º 3 que define o Estatuto do Tribunal de Justiça da União Europeia, anexo à Constituição e ao Tratado CEEA, passa a ter a seguinte redacção:
 
@@ -696,7 +704,7 @@ Adaptações da Constituição
 
 O Tribunal Geral é composto por vinte e sete juízes.».
 
-###### Artigo 11.º
+Artigo 11.º
 
 O Protocolo n.º 5 que define o Estatuto do Banco Europeu de Investimento, anexo à Constituição, é alterado do seguinte modo:
 
@@ -744,27 +752,29 @@ Os administradores suplentes são nomeados por um período de cinco anos pelo Co
 
 (nota *) Os valores mencionados para a Bulgária e a Roménia são indicativos e baseiam-se nos dados relativos a 2003 publicados pelo Eurostat.
 
-###### Artigo 12.º
+Artigo 12.º
 
 O primeiro parágrafo do n.º 2 do artigo 134.º do Tratado CEEA, relativo à composição do Comité Científico e Técnico, passa a ter a seguinte redacção:
 
 «2. O Comité é composto por quarenta e um membros, nomeados pelo Conselho, após consulta à Comissão.»
 
-## TÍTULO II — Outras adaptações
+TÍTULO II
 
-###### Artigo 13.º
+Outras adaptações
+
+Artigo 13.º
 
 O último período do n.º 1 do artigo III-157.º da Constituição passa a ter a seguinte redacção:
 
 «No que se refere às restrições em vigor na Bulgária, na Estónia e na Hungria ao abrigo das legislações nacionais, a data em questão é 31 de Dezembro de 1999.»
 
-###### Artigo 14.º
+Artigo 14.º
 
 O n.º 1 do artigo IV-440.º da Constituição passa a ter a seguinte redacção:
 
 «1. O presente Tratado é aplicável ao Reino da Bélgica, à República da Bulgária, à República Checa, ao Reino da Dinamarca, à República Federal da Alemanha, à República da Estónia, à República Helénica, ao Reino de Espanha, à República Francesa, à Irlanda, à República Italiana, à República de Chipre, à República da Letónia, à República da Lituânia, ao Grão-Ducado do Luxemburgo, à República da Hungria, à República de Malta, ao Reino dos Países Baixos, à República da Áustria, à República da Polónia, à República Portuguesa, à Roménia, à República da Eslovénia, à República Eslovaca, à República da Finlândia, ao Reino da Suécia e ao Reino Unido da Grã-Bretanha e Irlanda do Norte.»
 
-###### Artigo 15.º
+Artigo 15.º
 
 1. É aditado o seguinte parágrafo ao n.º 1 do artigo IV-448.º da Constituição:
 
@@ -778,23 +788,27 @@ TERCEIRA PARTE
 
 Disposições Permanentes
 
-## TÍTULO I — Adaptações dos actos adoptados pelas instituições
+TÍTULO I
 
-###### Artigo 16.º
+Adaptações dos actos adoptados pelas instituições
+
+Artigo 16.º
 
 Os actos enumerados no Anexo III do presente Protocolo devem ser adaptados nos termos desse Anexo.
 
-###### Artigo 17.º
+Artigo 17.º
 
 As adaptações dos actos enumerados no Anexo IV do presente Protocolo, necessárias em consequência da adesão, devem ser efectuadas segundo as orientações definidas nesse Anexo.
 
-## TÍTULO II — Outras disposições
+TÍTULO II
 
-###### Artigo 18.º
+Outras disposições
+
+Artigo 18.º
 
 As medidas enumeradas no Anexo V do presente Protocolo devem ser aplicadas nas condições previstas nesse Anexo.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Por lei europeia do Conselho, as disposições constantes do presente Protocolo relativas à política agrícola comum podem sofrer as adaptações que se revelem necessárias em consequência de alterações do direito da União. O Conselho delibera por unanimidade, após consulta ao Parlamento Europeu.
 
@@ -802,15 +816,19 @@ QUARTA PARTE
 
 Disposições temporárias
 
-## TÍTULO I — Medidas transitórias
+TÍTULO I
 
-###### Artigo 20.º
+Medidas transitórias
+
+Artigo 20.º
 
 As medidas enumeradas nos Anexos VI e VII do presente Protocolo aplicam-se, em relação à Bulgária e à Roménia, nas condições definidas nesses Anexos.
 
-## TÍTULO II — Disposições institucionais
+TÍTULO II
 
-###### Artigo 21.º
+Disposições institucionais
+
+Artigo 21.º
 
 1. Ao n.º 2 do artigo 1.º do Protocolo n.º 34 relativo às disposições transitórias respeitantes às instituições e órgãos da União, anexo à Constituição e ao Tratado CEEA, é aditado o seguinte parágrafo:
 
@@ -826,7 +844,7 @@ Roménia - 35».
 
 (nota 3) JO L 278 de 8.10.1976, p. 5. Acto com a última redacção que lhe foi dada pela Decisão [2002/772/CE](http://data.europa.eu/eli/dec/2002/772/oj?locale=pt), Euratom do Conselho (JO L 283 de 21.10.2002, p. 1).
 
-###### Artigo 22.º
+Artigo 22.º
 
 1. No segundo parágrafo do n.º 2 do artigo 2.º do Protocolo n.º 34 relativo às disposições transitórias respeitantes às instituições e órgãos da União, anexo à Constituição e ao Tratado CEEA, é inserido o seguinte, entre as entradas relativas à Bélgica e à República Checa:
 
@@ -840,7 +858,7 @@ e, entre as entradas relativas a Portugal e à Eslovénia:
 
 «Quando, nos termos da Constituição, seja obrigatório deliberar sob proposta da Comissão, as deliberações consideram-se aprovadas se obtiverem, no mínimo, 255 votos que exprimam a votação favorável da maioria dos membros. Nos restantes casos, as deliberações são tomadas se obtiverem, no mínimo, 255 votos que exprimam a votação favorável de, no mínimo, dois terços dos membros.».
 
-###### Artigo 23.º
+Artigo 23.º
 
 No artigo 6.º do Protocolo n.º 34 relativo às disposições transitórias respeitantes às instituições e órgãos da União, anexo à Constituição e ao Tratado CEEA, é inserido o seguinte, entre as entradas relativas à Bélgica e à República Checa:
 
@@ -850,7 +868,7 @@ e, entre as entradas relativas a Portugal e à Eslovénia:
 
 «Roménia - 15».
 
-###### Artigo 24.º
+Artigo 24.º
 
 No artigo 7.º do Protocolo n.º 34 relativo às disposições transitórias respeitantes às instituições e órgãos da União, anexo à Constituição e ao Tratado CEEA, é inserido o seguinte, entre as entradas relativas à Bélgica e à República Checa:
 
@@ -860,9 +878,11 @@ e, entre as entradas relativas a Portugal e à Eslovénia:
 
 «Roménia - 15».
 
-## TÍTULO III — Disposições financeiras
+TÍTULO III
 
-###### Artigo 25.º
+Disposições financeiras
+
+Artigo 25.º
 
 1. A partir da data da adesão, a Bulgária e a Roménia devem pagar os montantes a seguir discriminados, correspondentes à sua quota do capital a pagar para o capital subscrito definido no artigo 4.º do Protocolo n.º 5 que define o Estatuto do Banco Europeu de Investimento, anexo à Constituição (ver nota 4):
 
@@ -884,7 +904,7 @@ Roménia - 0,517%.
 
 (nota 5) Os valores mencionados são indicativos e baseiam-se nos dados relativos a 2003 publicados pelo Eurostat.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1. A Bulgária e a Roménia devem pagar os seguintes montantes ao Fundo de Investigação do Carvão e do Aço referido na Decisão [2002/234/CECA](http://data.europa.eu/eli/dec/2002/234/oj?locale=pt) dos Representantes dos Governos dos Estados-Membros, reunidos no Conselho, de 27 de Fevereiro de 2002, relativa às consequências financeiras da cessação de vigência do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) e ao Fundo de Investigação do Carvão e do Aço (ver nota 6):
 
@@ -906,7 +926,7 @@ Roménia ... 29,88
 
 (nota 6) JO L 79 de 22.3.2002, p. 42.
 
-###### Artigo 27.º
+Artigo 27.º
 
 1. A partir da data da adesão, os concursos, as adjudicações e os pagamentos relativos à assistência de préadesão no âmbito do programa Phare (ver nota 7) e do programa Phare CBC (ver nota 8) e à assistência no âmbito do Instrumento de Transição a que se refere o artigo 31.º serão geridos, na Bulgária e na Roménia, por agências de execução a partir da data de adesão.
 
@@ -936,7 +956,7 @@ Não obstante, nos dois primeiros anos após a adesão podem ser autorizados fun
 
 (nota 12) JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º [723/2004](http://data.europa.eu/eli/reg/2004/723/oj?locale=pt) (JO L 124 de 27.4.2004, p. 1).
 
-###### Artigo 28.º
+Artigo 28.º
 
 1. As medidas que, à data da adesão, tenham sido objecto de decisões da Comissão em matéria de assistência ao abrigo do Regulamento (CE) n.º [1267/1999](http://data.europa.eu/eli/reg/1999/1267/oj?locale=pt), que cria um instrumento estrutural de pré-adesão, e cuja execução não tenha sido completada até essa data, devem ser consideradas aprovadas pela Comissão nos termos do Regulamento (CE) n.º [1164/94](http://data.europa.eu/eli/reg/1994/1164/oj?locale=pt) do Conselho, de 16 de Maio de 1994, que institui o Fundo de Coesão (ver nota 13). As verbas que ainda tenham que ser autorizadas para efeitos da execução dessas medidas sê-lo-ão ao abrigo do Regulamento relativo ao Fundo de Coesão em vigor à data da adesão e imputadas ao capítulo correspondente a este regulamento no Orçamento Geral da União Europeia. Salvo disposição em contrário nos n.os 2 a 5, aplicar-se-ão a essas medidas as disposições que regulam a aplicação de medidas aprovadas nos termos deste último regulamento.
 
@@ -950,7 +970,7 @@ Não obstante, nos dois primeiros anos após a adesão podem ser autorizados fun
 
 (nota 13) JO L 130 de 25.5.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 33).
 
-###### Artigo 29.º
+Artigo 29.º
 
 No caso de o período de autorizações plurianuais ao abrigo do Programa SAPARD (ver nota 14) para a arborização de terrenos agrícolas, o apoio ao estabelecimento de agrupamentos de produtores ou os regimes agro-ambientais ultrapassar a data final permissível para pagamentos ao abrigo do SAPARD, as autorizações pendentes serão cobertas pelo programa de desenvolvimento rural para 2007-2013. Se, nesse âmbito, forem necessárias medidas transitórias específicas, estas serão adoptadas nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º [1260/1999](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt) do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos Estruturais (ver nota 15).
 
@@ -958,7 +978,7 @@ No caso de o período de autorizações plurianuais ao abrigo do Programa SAPARD
 
 (nota 15) JO L 161 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 33).
 
-###### Artigo 30.º
+Artigo 30.º
 
 1. A Bulgária, após ter encerrado definitivamente, para posterior desactivação, a Unidade 1 e a Unidade 2 da Central Nuclear de Kozloduy antes de 2003, em conformidade com os compromissos por si assumidos, compromete-se a encerrar definitivamente a Unidade 3 e a Unidade 4 da referida central em 2006, bem como a proceder à posterior desactivação dessas unidades.
 
@@ -974,7 +994,7 @@ A assistência, ou parcelas da mesma, poderá ser disponibilizada como uma contr
 
 (nota 16) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).
 
-###### Artigo 31.º
+Artigo 31.º
 
 1. No primeiro ano após a adesão, a União prestará assistência financeira temporária, a seguir designada «Instrumento de Transição», à Bulgária e à Roménia para o desenvolvimento e o reforço da sua capacidade administrativa e judiciária de execução e cumprimento do direito da União, bem como para fomentar o intercâmbio de boas práticas entre pares. Esta assistência financiará projectos de desenvolvimento institucional e um número limitado de pequenos investimentos subsidiários.
 
@@ -986,13 +1006,13 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 4. A concessão de assistência ao abrigo do Instrumento de Transição será determinada e implementada nos termos do Regulamento (CEE) n.º [3906/89](http://data.europa.eu/eli/reg/1989/3906/oj?locale=pt) do Conselho relativo à ajuda económica a favor de determinados países da Europa Central e Oriental.
 
-###### Artigo 32.º
+Artigo 32.º
 
 1. É criado um mecanismo de fluxos financeiros e Schengen, a título temporário, a fim de ajudar a Bulgária e a Roménia, entre a data da adesão e o fim de 2009, a financiar acções nas novas fronteiras externas da União, tendo em vista a aplicação do acervo de Schengen e os controlos nas fronteiras externas, e a fim de reforçar os fluxos financeiros dos orçamentos nacionais.
 
 2. Para o período de 2007-2009, serão disponibilizados os seguintes montantes (a preços de 2004) à Bulgária e à Roménia sob a forma de pagamentos de montante fixo ao abrigo do mecanismo temporário de fluxos financeiros e Schengen:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. Pelo menos 50% da dotação de cada país ao abrigo do mecanismo temporário de fluxos financeiros e Schengen será utilizada para ajudar a Bulgária e a Roménia a cumprir a sua obrigação de financiar acções nas novas fronteiras externas da União, tendo em vista a aplicação do acervo de Schengen e os controlos nas fronteiras externas.
 
@@ -1000,15 +1020,15 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 5. A Comissão pode adoptar quaisquer disposições técnicas necessárias para o funcionamento do mecanismo temporário de fluxos financeiros e Schengen.
 
-###### Artigo 33.º
+Artigo 33.º
 
 1. Sem prejuízo de futuras decisões de carácter político, o montante global das dotações de autorização para acções estruturais a disponibilizar à Bulgária e à Roménia durante o triénio 2007-2009 será o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 2. Durante o triénio 2007-2009, o âmbito e a natureza das intervenções no âmbito destas dotações fixas serão determinados com base nas disposições então aplicáveis às despesas relativas a acções estruturais.
 
-###### Artigo 34.º
+Artigo 34.º
 
 1. Para além dos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão, as disposições constantes nas Secções I a III do Anexo VIII são aplicáveis à Bulgária e à Roménia durante o período de 2007 a 2009 e as disposições financeiras específicas constantes da Secção IV do Anexo VIII são aplicáveis à Bulgária e à Roménia ao longo de todo o período de programação de 2007 a 2013.
 
@@ -1018,13 +1038,15 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 4. O Conselho, deliberando sob proposta da Comissão e após consulta ao Parlamento Europeu, procederá, sempre que necessário, à adaptação das disposições do Anexo VIII por forma a garantir a congruência com os regulamentos relativos ao desenvolvimento rural.
 
-###### Artigo 35.º
+Artigo 35.º
 
 Os montantes referidos nos artigos 30.º, 31.º, 32.º, 33.º e 34.º são ajustados anualmente pela Comissão, em consonância com os movimentos de preços, no âmbito dos ajustamentos técnicos anuais das Perspectivas Financeiras.
 
-## TÍTULO IV — Outras disposições
+TÍTULO IV
 
-###### Artigo 36.º
+Outras disposições
+
+Artigo 36.º
 
 1. Se, até ao final de um período de três anos a contar da adesão, surgirem dificuldades graves e susceptíveis de persistir num sector de actividade económica ou de determinar uma grave deterioração da situação económica de uma dada região, a Bulgária ou a Roménia pode pedir que seja autorizada a tomar medidas de protecção que lhe permitam reequilibrar a situação e adaptar o sector em causa à economia do mercado interno.
 
@@ -1036,19 +1058,19 @@ Em caso de dificuldades económicas graves e a pedido expresso do Estado-Membro 
 
 3. As medidas autorizadas nos termos do n.º 2 podem comportar derrogações de normas estabelecidas pela Constituição, designadamente do presente Protocolo, até ao limite e durante os prazos estritamente necessários para atingir os objectivos previstos no n.º 1. Deve ser dada prioridade às medidas que impliquem o mínimo de perturbações no funcionamento do mercado interno.
 
-###### Artigo 37.º
+Artigo 37.º
 
 Se a Bulgária ou a Roménia não tiver dado cumprimento a compromissos assumidos no contexto das negociações de adesão, incluindo os assumidos em qualquer das políticas sectoriais que dizem respeito às actividades económicas com incidência transfronteiriça, dando assim origem a uma grave perturbação ou a um risco de grave perturbação do funcionamento do mercado interno, a Comissão pode, mediante pedido fundamentado de um Estado-Membro ou por iniciativa própria, adoptar regulamentos europeus ou decisões europeias que estabeleçam medidas adequadas, durante um período máximo de três anos a contar da adesão.
 
 As medidas devem ser proporcionadas, dando-se prioridade às que causem menor perturbação no funcionamento do mercado interno e, se adequado, à aplicação dos mecanismos sectoriais de salvaguarda existentes. Essas medidas de salvaguarda não devem ser invocadas como meio de discriminação arbitrária ou de restrição dissimulada do comércio entre Estados-Membros. A cláusula de salvaguarda pode ser invocada mesmo antes da adesão, com base nas conclusões do acompanhamento, devendo as medidas adoptadas entrar em vigor logo no primeiro dia da adesão, a menos que estabeleçam uma data posterior. As medidas não podem ser mantidas por um período superior ao estritamente necessário e devem ser, de qualquer modo, levantadas quando tiver sido cumprido o compromisso em causa, podendo, porém, ser aplicadas para além do período especificado no primeiro parágrafo enquanto não forem cumpridos os compromissos pertinentes. Em resposta aos progressos efectuados pelo novo Estado-Membro em causa no cumprimento dos seus compromissos, a Comissão pode adaptar as medidas conforme for adequado. A Comissão deve informar o Conselho em tempo útil antes de revogar os regulamentos europeus e as decisões europeias que estabelecem as medidas de salvaguarda, tendo devidamente em conta quaisquer observações do Conselho a este respeito.
 
-###### Artigo 38.º
+Artigo 38.º
 
 Se na Bulgária ou na Roménia se verificarem, ou houver um risco iminente de se verificarem, lacunas graves na transposição, no estado da aplicação ou na execução das decisões-quadro ou de quaisquer outros compromissos, instrumentos de cooperação e decisões relativos ao reconhecimento mútuo no domínio do direito penal adoptados ao abrigo do Título VI do Tratado da União Europeia e das directivas e regulamentos relacionados com o reconhecimento mútuo em matéria civil ao abrigo do Título IV do Tratado que institui a Comunidade Europeia, bem como das leis e leis-quadro europeias adoptadas ao abrigo das Secções 3 e 4 do Capítulo IV do Título III da Parte III da Constituição, a Comissão pode, mediante pedido fundamentado de um Estado-Membro ou por sua própria iniciativa, e após consulta aos Estados-Membros, adoptar regulamentos europeus ou decisões europeias que estabeleçam medidas adequadas e especificar as condições e regras de aplicação dessas medidas, durante um período máximo de três anos a contar da adesão.
 
 Essas medidas podem assumir a forma de suspensão temporária da aplicação das disposições e decisões relevantes nas relações entre a Bulgária ou a Roménia e quaisquer outros Estados-Membros, sem prejuízo da continuação de uma estreita cooperação judiciária. A cláusula de salvaguarda pode ser invocada mesmo antes da adesão, com base nas conclusões do acompanhamento, devendo as medidas adoptadas entrar em vigor logo no primeiro dia da adesão, a menos que estabeleçam uma data posterior. As medidas não podem ser mantidas por um período superior ao estritamente necessário e devem ser, de qualquer modo, levantadas quando as lacunas tiverem sido colmatadas, podendo, porém, ser aplicadas para além do período especificado no primeiro parágrafo enquanto subsistirem as referidas lacunas. Em resposta aos progressos efectuados pelo novo Estado-Membro em causa na rectificação das lacunas detectadas, a Comissão pode adaptar as medidas conforme for adequado, após consulta aos Estados-Membros. A Comissão deve informar o Conselho em tempo útil antes de revogar os regulamentos europeus e as decisões europeias que estabelecem as medidas de salvaguarda, tendo devidamente em conta quaisquer observações do Conselho a este respeito.
 
-###### Artigo 39.º
+Artigo 39.º
 
 1. Se, com base no acompanhamento contínuo, pela Comissão, dos compromissos assumidos pela Bulgária e pela Roménia no contexto das negociações de adesão, e em especial nos relatórios de acompanhamento da Comissão, ficar claramente patente que o estado dos preparativos para a adopção e implementação do acervo na Bulgária ou na Roménia implica um sério risco de qualquer um destes Estados não estar manifestamente preparado para cumprir os requisitos necessários para se tornar membro da União Europeia até à data da adesão - 1 de Janeiro de 2007 - em vários domínios importantes, o Conselho poderá, deliberando por unanimidade com base numa recomendação da Comissão, decidir que a data de adesão desse país seja adiada por um ano, ou seja, para 1 de Janeiro de 2008.
 
@@ -1060,11 +1082,11 @@ Essas medidas podem assumir a forma de suspensão temporária da aplicação das
 
 (nota 17) Acordo Europeu que cria uma Associação entre as Comunidades Europeias e os seus Estados-Membros, por um lado, e a Roménia, por outro (JO L 357 de 31.12.1994, p. 2).
 
-###### Artigo 40.º
+Artigo 40.º
 
 A fim de não perturbar o correcto funcionamento do mercado interno, a aplicação das normas internas da Bulgária e da Roménia durante os períodos transitórios referidos nos Anexos VI e VII não pode conduzir a controlos nas fronteiras entre os Estados-Membros.
 
-###### Artigo 41.º
+Artigo 41.º
 
 Se forem necessárias medidas transitórias para facilitar a passagem do regime existente na Bulgária e na Roménia para o regime decorrente da aplicação da política agrícola comum nas condições estabelecidas no presente Protocolo, essas medidas serão adoptadas pela Comissão nos termos do n.º 2 do artigo 25.º do Regulamento (CE) n.º [1784/2003](http://data.europa.eu/eli/reg/2003/1784/oj?locale=pt) do Conselho, de 29 de Setembro de 2003, que estabelece a organização comum de mercado no sector dos cereais (ver nota 18), ou, sempre que adequado, dos artigos correspondentes dos outros regulamentos que estabelecem as organizações comuns de mercado no sector agrícola, ou das leis europeias que os substituírem, ou segundo o procedimento determinado pela legislação aplicável. As medidas transitórias referidas no presente artigo podem ser tomadas durante um período de três anos a contar da data da adesão, sendo a sua aplicação limitada a esse período. Este período pode ser prorrogado por lei europeia do Conselho. Este delibera por unanimidade, após consulta ao Parlamento Europeu.
 
@@ -1072,7 +1094,7 @@ As medidas transitórias respeitantes à aplicação dos actos relativos à pol�
 
 (nota 18) JO L 270 de 21.10.2003, p. 78.
 
-###### Artigo 42.º
+Artigo 42.º
 
 Se forem necessárias medidas transitórias para facilitar a passagem do regime existente na Bulgária e na Roménia para o regime decorrente da aplicação da legislação da União no domínio veterinário, fitossanitário e da segurança alimentar, essas medidas serão adoptadas pela Comissão segundo o procedimento determinado pela legislação aplicável. Essas medidas são tomadas durante um período de três anos a contar da data da adesão, sendo a sua aplicação limitada a esse período.
 
@@ -1080,23 +1102,25 @@ QUINTA PARTE
 
 Disposições Relativas à aplicação do presente protocolo
 
-## TÍTULO I — Estabelecimento das instituições e órgãos
+TÍTULO I
 
-###### Artigo 43.º
+Estabelecimento das instituições e órgãos
+
+Artigo 43.º
 
 O Parlamento Europeu deve introduzir no seu Regimento as adaptações necessárias em consequência da adesão.
 
-###### Artigo 44.º
+Artigo 44.º
 
 O Conselho deve introduzir no seu Regulamento Interno as adaptações necessárias em consequência da adesão.
 
-###### Artigo 45.º
+Artigo 45.º
 
 Deve ser nomeado como membro da Comissão um nacional de cada um dos novos Estados-Membros, a partir da data da adesão. Os novos membros da Comissão são nomeados pelo Conselho, de comum acordo com o Presidente da Comissão, após consulta ao Parlamento Europeu e em conformidade com os critérios estabelecidos no n.º 4 do artigo I-26.º da Constituição.
 
 O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 46.º
+Artigo 46.º
 
 1. Devem ser nomeados dois novos juízes para o Tribunal de Justiça e dois novos juízes para o Tribunal Geral.
 
@@ -1112,77 +1136,81 @@ Os Regulamentos de Processo assim adaptados são submetidos à aprovação do Co
 
 4. Para julgamento dos processos pendentes nos Tribunais à data da adesão, cuja fase oral tenha sido iniciada antes dessa data, os Tribunais plenos ou as Secções devem reunir com a composição que tinham antes da adesão e aplicar os Regulamentos de Processo em vigor no dia anterior à data da adesão.
 
-###### Artigo 47.º
+Artigo 47.º
 
 Deve ser nomeado para o Tribunal de Contas um nacional de cada um dos novos Estados-Membros, a partir da data da adesão, com um mandato de seis anos.
 
-###### Artigo 48.º
+Artigo 48.º
 
 O Comité das Regiões deve ser aumentado com a nomeação de vinte e sete membros, representativos das pessoas colectivas territoriais regionais e locais da Bulgária e da Roménia, sendo quer titulares de um mandato eleitoral a nível regional ou local, quer politicamente responsáveis perante uma assembleia eleita. O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 49.º
+Artigo 49.º
 
 O Comité Económico e Social deve ser aumentado com a nomeação de vinte e sete membros, representativos dos diversos sectores da vida económica e social da sociedade civil organizada da Bulgária e da Roménia. O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 50.º
+Artigo 50.º
 
 As adaptações dos estatutos e regulamentos internos dos comités instituídos pela Constituição, necessárias em consequência da adesão, devem ser efectuadas logo que possível após a adesão.
 
-###### Artigo 51.º
+Artigo 51.º
 
 1. Os novos membros dos comités, grupos e outros organismos criados pela Constituição ou por um acto das instituições serão nomeados nas condições e nos termos previstos para a nomeação dos membros desses comités, grupos e outros organismos. O mandato dos membros recentemente nomeados cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
 2. A composição dos comités e grupos criados pela Constituição ou por um acto das instituições com um número de membros fixado independentemente do número de Estados-Membros será integralmente renovada à data da adesão, a menos que o mandato dos actuais membros cesse no prazo de um ano a contar da adesão.
 
-## TÍTULO II — Aplicabilidade dos actos das instituições
+TÍTULO II
 
-###### Artigo 52.º
+Aplicabilidade dos actos das instituições
+
+Artigo 52.º
 
 A partir da adesão, a Bulgária e a Roménia são consideradas destinatárias das leis-quadro europeias, regulamentos europeus e decisões europeias, na acepção do artigo I-33.º da Constituição, e das directivas e decisões, na acepção do artigo 249.º do Tratado que institui a Comunidade Europeia e do artigo 161.º do Tratado CEEA, desde que todos os Estados-Membros actuais tenham sido destinatários dessas leis-quadro europeias, regulamentos europeus e decisões europeias e dessas directivas e decisões. Com excepção das decisões europeias que entrem em vigor nos termos do n.º 2 do artigo I-39.º da Constituição, e das directivas e decisões que tenham entrado em vigor nos termos dos n.os 1 e 2 do artigo 254.º do Tratado que institui a Comunidade Europeia, considera-se que a Bulgária e a Roménia foram notificadas dessas decisões europeias, directivas e decisões à data da adesão.
 
-###### Artigo 53.º
+Artigo 53.º
 
 1. A Bulgária e a Roménia devem pôr em vigor, a partir da data da adesão, as medidas necessárias para dar cumprimento ao disposto nas leis-quadro europeias e nos regulamentos europeus que sejam vinculativos quanto ao resultado a alcançar, deixando, no entanto, às instâncias nacionais a competência quanto à escolha da forma e dos meios, na acepção do artigo I-33.º da Constituição, e ao disposto nas directivas e decisões, na acepção do artigo 249.º do Tratado que institui a Comunidade Europeia e do artigo 161.º do Tratado CEEA, a menos que seja fixado outro prazo no presente Protocolo. Devem comunicar essas medidas à Comissão o mais tardar à data da adesão ou, se for caso disso, até à data-limite fixada no presente Protocolo.
 
 2. Na medida em que as alterações introduzidas pelo presente Protocolo nas directivas, na acepção do artigo 249.º do Tratado que institui a Comunidade Europeia e do artigo 161.º do Tratado CEEA, exijam a modificação das disposições legislativas, regulamentares e administrativas dos Estados-Membros actuais, estes devem pôr em vigor as medidas necessárias para dar cumprimento às directivas alteradas a partir da data da adesão, a menos que seja fixado outro prazo no presente Protocolo. Devem comunicar essas medidas à Comissão o mais tardar à data da adesão ou até à data-limite fixada no presente Protocolo, se esta for posterior.
 
-###### Artigo 54.º
+Artigo 54.º
 
 As disposições legislativas, regulamentares e administrativas destinadas a assegurar a protecção da saúde dos trabalhadores e da população em geral contra os perigos resultantes das radiações ionizantes no território da Bulgária e da Roménia devem, nos termos do artigo 33.º do Tratado CEEA, ser comunicadas por esses Estados à Comissão, no prazo de três meses a contar da adesão.
 
-###### Artigo 55.º
+Artigo 55.º
 
 Mediante pedido devidamente fundamentado pela Bulgária ou pela Roménia apresentado à Comissão o mais tardar à data da adesão, o Conselho, deliberando sob proposta da Comissão, ou a Comissão, se o acto inicial tiver sido adoptado por esta instituição, pode adoptar regulamentos europeus ou decisões europeias que estabeleçam derrogações temporárias de actos das instituições adoptados entre 1 de Outubro de 2004 e a data da adesão. As medidas serão adoptadas segundo as regras de votação que regem a adopção do acto em relação ao qual é solicitada uma derrogação temporária. Sempre que essas derrogações sejam adoptadas após a adesão podem ser aplicadas a partir da data da adesão.
 
-###### Artigo 56.º
+Artigo 56.º
 
 Sempre que os actos das instituições, adoptados antes da adesão, devam ser adaptados em virtude da adesão, e as adaptações necessárias não estejam previstas no presente Protocolo ou nos seus Anexos, o Conselho, deliberando sob proposta da Comissão, ou a Comissão, se o acto inicial tiver sido adoptado por esta instituição, adoptará os actos necessários para esse efeito. Sempre que essas adaptações sejam adoptadas após a adesão podem ser aplicadas a partir da data da adesão.
 
-###### Artigo 57.º
+Artigo 57.º
 
 Salvo disposição em contrário, o Conselho, sob proposta da Comissão, adopta os regulamentos europeus ou as decisões europeias que estabelecem as medidas necessárias para aplicar as disposições do presente Protocolo.
 
-###### Artigo 58.º
+Artigo 58.º
 
 Os textos dos actos das instituições adoptados antes da adesão e redigidos pelo Conselho, pela Comissão ou pelo Banco Central Europeu nas línguas búlgara e romena fazem fé, a partir da data da adesão, nas mesmas condições que os textos redigidos nas actuais línguas oficiais. Esses textos devem ser publicados no Jornal Oficial da União Europeia, sempre que os textos nas línguas actuais também o tenham sido.
 
-## TÍTULO III — Disposições finais
+TÍTULO III
 
-###### Artigo 59.º
+Disposições finais
+
+Artigo 59.º
 
 Os Anexos I a IX e respectivos Apêndices fazem parte integrante do presente Protocolo.
 
-###### Artigo 60.º
+Artigo 60.º
 
 O Governo da República Italiana remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada do Tratado que institui a Comunidade Europeia da Energia Atómica e dos Tratados que o alteraram ou completaram, nas línguas alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa e sueca.
 
 O texto desse Tratado, redigido nas línguas búlgara e romena, vem anexo ao presente Protocolo. Esses textos fazem fé nas mesmas condições que os textos do Tratado a que se refere o primeiro parágrafo, redigidos nas línguas actuais.
 
-###### Artigo 61.º
+Artigo 61.º
 
-**O Secretário-Geral do Conselho remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.**
+O Secretário-Geral do Conselho remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.
 
-## ANEXO I
+ANEXO I
 
 Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no momento da adesão (a que se refere o n.º 3 do artigo 3.º do Acto de Adesão).
 
@@ -1242,7 +1270,7 @@ Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no mome
 
 - Protocolo de 16 de Outubro de 2001 da Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, elaborado pelo Conselho nos termos do artigo 34.º do Tratado da União Europeia (JO C 326 de 21.11.2001, p. 2)
 
-## ANEXO II
+ANEXO II
 
 Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Acto de Adesão).
 
@@ -1252,7 +1280,7 @@ Lista das disposições do acervo de Schengen integrado no âmbito da União Eur
 
 2. As disposições seguintes da Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, assinada em Schengen em 19 de Junho de 1990 (ver nota 20), a respectiva Acta Final e declarações comuns, alteradas por alguns dos actos enumerados no ponto 8 infra:
 
-###### Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número; e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
+Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número; e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
 
 (nota 20) JO L 239 de 22.9.2000, p. 19. Convenção com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [871/2004](http://data.europa.eu/eli/reg/2004/871/oj?locale=pt) do Conselho (JO L 162 de 30.4.2004, p. 29).
 
@@ -1304,7 +1332,7 @@ g) Acordo assinado em 19 de Dezembro de 1996 relativo à adesão do República d
 
 - Declarações Comuns 1 e 3 na Parte II da Acta Final,
 
-- Declaração do Governo da República da Finlândia sobre as Ilhas [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) na Parte III da Acta Final;
+- Declaração do Governo da República da Finlândia sobre as Ilhas [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) na Parte III da Acta Final;
 
 h) Acordo assinado em 19 de Dezembro de 1996 relativo à adesão do Reino da Suécia:
 
@@ -1472,7 +1500,9 @@ Regulamento (CE) n.º [2133/2004](http://data.europa.eu/eli/reg/2004/2133/oj?loc
 
 Regulamento (CE) n.º [2252/2004](http://data.europa.eu/eli/reg/2004/2252/oj?locale=pt) do Conselho, de 13 de Dezembro de 2004, que estabelece normas para os dispositivos de segurança e dados biométricos dos passaportes e documentos de viagem emitidos pelos Estados-Membros (JO L 385 de 29.12.2004, p. 1)
 
-## ANEXO III — Lista a que se refere o artigo 16.º do Protocolo: adaptações dos actos adoptados pelas instituições
+ANEXO III
+
+Lista a que se refere o artigo 16.º do Protocolo: adaptações dos actos adoptados pelas instituições
 
 1. DIREITO DAS SOCIEDADES
 
@@ -1556,15 +1586,15 @@ O n.º 1 do artigo 110.º-A passa a ter a seguinte redacção:
 
 a) À alínea i) do n.º 4 do artigo 1.º é aditado o seguinte:
 
-«5) A denominação «aguardente de fruto» pode ser substituída pela denominação «[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) « apenas para a bebida espirituosa produzida na Roménia»;
+«5) A denominação «aguardente de fruto» pode ser substituída pela denominação «[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) « apenas para a bebida espirituosa produzida na Roménia»;
 
 b) No Anexo II, são aditadas as seguintes denominações geográficas:
 
 - ao ponto 4: «Vinars Târnave», «Vinars Vaslui», «Vinars Murfatlar», «Vinars Vrancea», «Vinars Segarcea»
 
-- ao ponto 6: [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+- ao ponto 6: [[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-- ao ponto 7: [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+- ao ponto 7: [[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 2. 31991 R 1601: Regulamento (CEE) n.º [1601/91](http://data.europa.eu/eli/reg/1991/1601/oj?locale=pt) do Conselho, de 10 de Junho de 1991, que estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos cocktails aromatizados de produtos vitivinícolas (JO L 149 de 14.6.1991, p. 1), com a redacção que lhe foi dada por:
 
@@ -1614,7 +1644,7 @@ e a alínea i) passa a ser j).
 
 a) No Anexo, ao ponto V. "SUN CURED" é aditado o seguinte:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 b) No Anexo, ao ponto VI «Basmas» é aditado o seguinte:
 
@@ -1670,7 +1700,7 @@ Limiares de transformação referidos no artigo 5.º
 
 Matéria-prima fresca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 5. 31998 R 2848: Regulamento (CE) n.º [2848/98](http://data.europa.eu/eli/reg/1998/2848/oj?locale=pt) da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt) do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama (JO L 358 de 31.12.1998, p. 17), com a redacção que lhe foi dada por:
 
@@ -1710,7 +1740,7 @@ O Anexo I passa a ter a seguinte redacção:
 
 Percentagens do limiar de garantia por Estado-membro ou região específica para o reconhecimento do agrupamento de produtores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 6. 31999 R 1493: Regulamento (CE) n.º [1493/1999](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt) do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola (JO L 179 de 14.7.1999, p. 1), com a redacção que lhe foi dada por:
 
@@ -1732,7 +1762,7 @@ a) Ao artigo 6.º é aditado o seguinte:
 
 b) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 c) No Anexo III, (Zonas vitícolas) o último parágrafo é substituído pelo seguinte:
 
@@ -1742,7 +1772,7 @@ e) Na Roménia, as superfícies de vinha não incluídas na alínea g) do ponto 
 
 d) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 5:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 e) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 6:
 
@@ -1916,7 +1946,7 @@ h) O n.º 2 do artigo 80.º passa a ter a seguinte redacção:
 
 «2. A ajuda é fixada do seguinte modo, de acordo com os rendimentos nos Estados-Membros em questão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 i) O artigo 81.º passa a ter a seguinte redacção:
 
@@ -1962,7 +1992,7 @@ Superfícies
 
 Superfícies nacionais garantidas (SNG)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 4. Cada Estado-Membro pode subdividir a sua SNG em subsuperfícies, de acordo com critérios objectivos, nomeadamente a nível regional ou em função da produção.
 
@@ -2036,25 +2066,25 @@ q) O n.º 4 do artigo 116.º passa a ter a seguinte redacção:
 
 «4. São aplicáveis os limites máximos a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 r) O n.º 8 do artigo 123.º passa a ter a seguinte redacção:
 
 «8. São aplicáveis os limites máximos a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 s) O n.º 5 do artigo 126.º passa a ter a seguinte redacção:
 
 «5. São aplicáveis os limites máximos nacionais a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 t) O segundo parágrafo do n.º 3 do artigo 130.º passa a ter a seguinte redacção:
 
 No que respeita aos novos Estados-Membros, os limites nacionais são os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 u) Ao artigo 143.º-A é aditado o seguinte parágrafo:
 
@@ -2138,7 +2168,7 @@ Limites máximos nacionais referidos no artigo 71.º-C
 
 Os limites máximos foram calculados tendo em conta o calendário de aumentos estabelecido no artigo 143.º-A e, por conseguinte, não é necessário reduzi-los.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 ac) Ao Anexo X é aditado o seguinte:
 
@@ -2164,7 +2194,7 @@ ad) O Anexo XI B é substituído pelo seguinte:
 
 Superfícies de base nacionais para as culturas arvenses e rendimentos de referência nos novos Estados-Membros, referidos nos artigos 101.º e 103.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 9. 32003 R 1788: Regulamento (CEE) n.º [1788/2003](http://data.europa.eu/eli/reg/2003/1788/oj?locale=pt) do Conselho, de 29 de Setembro de 2003, que institui uma imposição no sector do leite e dos produtos lácteos (JO L 270 de 21.10.2003, p. 123), com a redacção que lhe foi dada por:
 
@@ -2204,23 +2234,23 @@ h) No Anexo I, os quadros d), e) f) e g) são substituídos pelos seguintes:
 
 «d) Período 2007/2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 e) Período 2008/2009 a 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 f) Quantidades de referência para as entregas e vendas directas a que se refere o segundo parágrafo do n.º 1 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 g) Quantidades da reserva especial de reestruturação a que se refere o n.º 4 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 i) No Anexo II, o quadro é substituído pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. POLÍTICA DE TRANSPORTES
 
@@ -2328,7 +2358,9 @@ b) O n.º 7 do artigo 22.º passa a ter a seguinte redacção:
 
 «7. A Hungria, a Roménia e a Eslováquia podem aplicar taxas reduzidas de imposto, não inferiores em mais de 50% à taxa normal nacional do imposto especial de consumo sobre o álcool etílico, ao álcool etílico produzido por destilarias de produtores de frutos que produzam anualmente mais de 10 hectolitros de álcool etílico a partir de frutas fornecidas por agregados de produtores. A aplicação das taxas reduzidas fica limitada a 50 litros anuais de bebidas espirituosas à base de frutos por agregado de produtores, exclusivamente destinados ao consumo pessoal dos mesmos. A Comissão deve rever este regime em 2015 e apresentar um relatório ao Conselho sobre as eventuais alterações.».
 
-## ANEXO IV — Lista a que se refere o artigo 17º do Protocolo: adaptações suplementares dos actos adoptados pelas instituições
+ANEXO IV
+
+Lista a que se refere o artigo 17º do Protocolo: adaptações suplementares dos actos adoptados pelas instituições
 
 1. AGRICULTURA
 
@@ -2340,7 +2372,7 @@ O Conselho, deliberando por maioria qualificada sob proposta da Comissão e apó
 
 Quantidades acordadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Se a Bulgária assim o solicitar em 2006, as quantidades básicas de açúcar A e B supramencionadas passarão para as quantidades básicas de isoglicose A e B da Bulgária.
 
@@ -2398,19 +2430,19 @@ i) Essas disposições deverão incluir a seguinte alteração do Anexo XI A «L
 
 Limites máximos para as ajudas à produção de sementes nos novos Estados-Membros referidas no n.º 3 do artigo 99.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)»;
 
 «ii) É a seguinte a repartição das quantidades máximas nacionais de sementes a que é aplicável a ajuda:
 
 Repartição das quantidades máximas nacionais de sementes a que é aplicável a ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 b) O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, e após consulta ao Parlamento Europeu, adopta as disposições necessárias em relação à Bulgária e à Roménia para integrar a ajuda ao tabaco nos regimes de apoio estabelecidos no Capítulo 6 do Título III e no Título IV-A do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt).
 
 A repartição acordada dos limiares de garantia nacionais para o tabaco são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 B. LEGISLAÇÃO VETERINÁRIA E FITOSSANITÁRIA
 
@@ -2418,7 +2450,9 @@ B. LEGISLAÇÃO VETERINÁRIA E FITOSSANITÁRIA
 
 Se necessário e através do procedimento a que se refere o n.º 3 do artigo 26.º da Directiva [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), a Comissão procederá à adaptação do Anexo I da referida directiva no que se refere às espécies florestais Pinus peuce Griseb., Fagus orientalis Lipsky, Quercus frainetto Ten. e Tilia tomentosa Moench.
 
-## ANEXO V — Lista a que se refere o artigo 18.º do Protocolo: outras disposições permanentes
+ANEXO V
+
+Lista a que se refere o artigo 18.º do Protocolo: outras disposições permanentes
 
 1. DIREITO DAS SOCIEDADES
 
@@ -2656,15 +2690,17 @@ OUTRAS DISPOSIÇÕES
 
 - O reembolso e a dispensa de pagamento dos direitos são efectuados nas condições previstas na legislação comunitária. Todavia, nos casos em que os direitos cujo reembolso ou dispensa de pagamento se solicita se refiram a uma dívida aduaneira constituída antes da data da adesão, o reembolso e a dispensa de pagamento dos direitos são efectuados nas condições em vigor no novo Estado-Membro em causa antes da adesão, por ele próprio e a expensas suas.
 
-## Apêndice ao ANEXO V
+Apêndice ao ANEXO V
 
 Lista das medidas de auxílio existentes a que se refere a alínea b) do ponto 1 do mecanismo de auxílio existente previsto no Capítulo 2 do Anexo V.
 
 Nota: As medidas de auxílio enumeradas no presente Apêndice apenas devem ser consideradas auxílios existentes para efeitos do mecanismo de auxílio existente previsto no Capítulo 2 do Anexo V na medida em que sejam efectivamente abrangidas pelo âmbito de aplicação do seu ponto 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VI — Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Bulgária
+ANEXO VI
+
+Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Bulgária
 
 1. LIVRE CIRCULAÇÃO DE PESSOAS
 
@@ -2730,11 +2766,11 @@ A lista dos sectores de serviços que podem estar abrangidos por esta derrogaç�
 
 - na Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 - na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Na medida em que a Alemanha ou a Áustria prevejam derrogações ao primeiro parágrafo do artigo III-144.º da Constituição, nos termos dos parágrafos anteriores, a Bulgária pode, após notificação da Comissão, adoptar medidas equivalentes.
 
@@ -2878,7 +2914,7 @@ Serão cobradas, de um modo não-discriminatório, taxas temporárias adicionais
 
 Programa de modernização da rede viária (km)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 6. FISCALIDADE
 
@@ -3338,19 +3374,23 @@ Durante este período transitório, as emissões de óxido de azoto provenientes
 
 c) A Bulgária deve apresentar à Comissão, até 1 de Janeiro de 2011, um plano actualizado, que inclua um plano de investimentos, para o progressivo alinhamento das restantes instalações não conformes, com fases claramente definidas para a aplicação do acervo. Esses planos devem garantir uma nova redução das emissões para um nível significativamente inferior ao dos objectivos intermédios especificados nas alíneas a) e b) supra, em especial no que se refere às emissões relativas ao período de 2012 a 2014. Se a Comissão, atendendo, em especial, aos efeitos ambientais e à necessidade de reduzir as distorções de concorrência no mercado interno decorrentes das medidas transitórias, considerar que os planos supramencionados não são suficientes para cumprir estes objectivos, informará do facto a Bulgária. Nos três meses seguintes, a Bulgária comunicará as medidas que tiver tomado para cumprir os referidos objectivos. Se, posteriormente, em consulta com os Estados-Membros, a Comissão considerar que essas medidas não são suficientes para alcançar aqueles objectivos, dará início a um processo por infracção ao abrigo do artigo III-360.º da Constituição.
 
-## Apêndice ao ANEXO VI
+Apêndice ao ANEXO VI
 
-### CAPÍTULO I — Lista de estabelecimentos de transformação de leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alínea a)
+CAPÍTULO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+Lista de estabelecimentos de transformação de leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alínea a)
 
-### CAPÍTULO II
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+
+CAPÍTULO II
 
 Lista de estabelecimentos de transformação de dois tipos de leite - leite conforme e leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alíneas a) e c)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VII — Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Roménia
+ANEXO VII
+
+Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Roménia
 
 1. LIVRE CIRCULAÇÃO DE PESSOAS
 
@@ -3416,11 +3456,11 @@ A lista dos sectores de serviços que podem estar abrangidos por esta derrogaç�
 
 - na Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 - na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Na medida em que a Alemanha ou a Áustria prevejam derrogações ao primeiro parágrafo do artigo III-144.º da Constituição, nos termos dos parágrafos anteriores, a Roménia pode, após notificação da Comissão, adoptar medidas equivalentes.
 
@@ -3462,7 +3502,7 @@ A. AUXÍLIOS FISCAIS
 
 a) Não obstante os artigos III-167.º e III-168.º da Constituição, a Roménia pode continuar a conceder às empresas às quais tenha sido concedido um certificado de investidor permanente numa zona desfavorecida antes de 1 de Julho de 2003, uma isenção do imposto sobre as sociedades com base no despacho governamental de emergência n.º 24/1998 relativo às zonas desfavorecidas, e respectivas alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 nas seguintes condições:
 
@@ -3556,7 +3596,7 @@ b) Retomar os activos de qualquer outra empresa não incluída no Apêndice A, P
 
 7. O montante total do auxílio bruto de reestruturação a ser aprovado para as empresas beneficiárias é determinado pelas justificações para cada medida de auxílio prevista no programa nacional final de reestruturação e nos planos empresariais individuais aprovados pelas autoridades romenas e sujeitos a verificação final no que respeita à observância dos critérios estabelecidos no n.º 4 do artigo 9.º do Protocolo 2 ao Acordo Europeu, bem como a aprovação pelo Conselho. De qualquer modo, o montante total do auxílio bruto à reestruturação concedido e pago no período de 1993-2004 não pode exceder ROL 49985 mil milhões. No interior deste limite-máximo global, são aplicáveis os seguintes sublimites ou montantes máximos de auxílios estatais concedidos e pagos a cada empresa beneficiária no período de 1993-2004:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Os auxílios estatais devem destinar-se a permitir a viabilidade das empresas beneficiárias em condições normais de mercado no fim do período de reestruturação. O montante e a intensidade desses auxílios devem ser limitados ao estritamente necessário para restabelecer essa viabilidade. A viabilidade será determinada tendo em conta os critérios descritos no Apêndice A, Parte III.
 
@@ -3572,7 +3612,7 @@ A redução mínima da capacidade líquida de 2,05 milhões de toneladas e as da
 
 9. Os planos empresariais individuais devem conter a aprovação por escrito das empresas beneficiárias. Esses planos devem ser implementados e incluir, nomeadamente:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a implementação do programa de investimentos para a modernização das instalações, o aumento dos rendimentos, a redução dos custos (em especial do consumo de energia) e a melhoria da qualidade
 
@@ -3602,7 +3642,7 @@ iii) a melhoria da eficiência operacional e da gestão organizacional
 
 iv) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-d) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+d) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a especialização em produtos semi-acabados para fornecimento ao sector local de tubagens
 
@@ -3610,7 +3650,7 @@ ii) o encerramento de capacidades não eficientes
 
 iii) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-e) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+e) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) o aumento da quantidade de produtos de maior valor acrescentado
 
@@ -3618,7 +3658,7 @@ ii) a implementação do programa de investimentos, a fim de obter reduções de
 
 iii) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-f) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+f) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a implementação do programa de investimentos para a modernização das instalações
 
@@ -3730,7 +3770,7 @@ Em derrogação do n.º 1 do artigo 3.º da Directiva [96/53/CE](http://data.eur
 
 A partir da data da adesão, não podem ser impostas restrições à utilização, pelos veículos que cumpram os requisitos da Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt), dos principais itinerários de tráfego indicados no Anexo 5 do Acordo sobre Transportes entre a CE e a Roménia (ver nota 56) e no Anexo I da Decisão n.º [1692/96/CE](http://data.europa.eu/eli/dec/1992/96/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes (ver nota 57), e que vão a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia cumprirá o calendário constante do quadro adiante para modernizar a sua rede viária secundária tal como exposto no mapa infra. Todos os investimentos em infra-estruturas que envolvam o recurso a fundos provenientes do orçamento comunitário devem garantir que as artérias sejam construídas ou modernizadas de forma a poder suportar uma carga de 11,5 toneladas por eixo.
 
@@ -3748,11 +3788,11 @@ As taxas para os veículos sem suspensão pneumática que cumpram os valores-lim
 
 Nível máximo de taxas (expresso em números de 2002) para os veículos sem suspensão pneumática que cumpram os valores-limite previstos na Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Calendário para a modernização da rede viária secundária na qual se registará uma abertura progressiva aos veículos que cumpram os valores-limite previstos na Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. 31999 L 0062: Directiva [1999/62/CE](http://data.europa.eu/eli/dir/1999/62/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de Junho de 1999, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infra-estruturas (JO L 187 de 20.7.1999, p. 42), com a última redacção que lhe foi dada por:
 
@@ -4074,15 +4114,15 @@ b) Em derrogação das alíneas a) e b) do n.º 3 do artigo 5.º e do segundo tr
 
 Até 31 de Dezembro de 2007:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
@@ -4092,15 +4132,15 @@ Até 31 de Dezembro de 2010:
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia deve garantir uma redução gradual dos resíduos líquidos depositados nessas 23 instalações existentes não conformes de acordo com as seguintes quantidades máximas anuais:
 
@@ -4124,15 +4164,15 @@ c) Em derrogação das alíneas a) e b) do n.º 3 do artigo 5.º e do segundo tr
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia deve garantir uma redução gradual dos resíduos líquidos depositados nessas 5 bacias existentes não conformes de acordo com as seguintes quantidades máximas anuais:
 
@@ -4170,7 +4210,7 @@ C. QUALIDADE DA ÁGUA
 
 Em derrogação do artigo 3.º e do Anexo I da Directiva [83/513/CEE](http://data.europa.eu/eli/dir/1983/513/oj?locale=pt) e do artigo 3.º e do Anexo I da Directiva [84/156/CEE](http://data.europa.eu/eli/dir/1984/156/oj?locale=pt), os valores-limite para as descargas de cádmio e de mercúrio nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt) do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 68), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 68) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e o Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -4180,7 +4220,7 @@ Em derrogação do artigo 3.º e do Anexo I da Directiva [83/513/CEE](http://dat
 
 Em derrogação do artigo 3.º e do Anexo I da Directiva [84/491/CEE](http://data.europa.eu/eli/dir/1984/491/oj?locale=pt), os valores-limite para as descargas de lindano nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt), de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 69), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 69) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -4190,7 +4230,7 @@ Em derrogação do artigo 3.º e do Anexo I da Directiva [84/491/CEE](http://dat
 
 Em derrogação do artigo 3.º e do Anexo II da Directiva [86/280/CEE](http://data.europa.eu/eli/dir/1986/280/oj?locale=pt), os valores-limite para as descargas de hexaclorobenzeno, hexaclorobutadieno, 1,2 - dicloroetano, tricloroetileno e triclorobenzeno nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt) do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 70), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 70) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -4240,11 +4280,11 @@ A Roménia deve garantir a conformidade com os requisitos da directiva de acordo
 
 Localidades conformes até 31 de Dezembro de 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Localidades conformes até ao final de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 D. POLUIÇÃO INDUSTRIAL E GESTÃO DE RISCOS
 
@@ -4256,35 +4296,35 @@ Em derrogação do n.º 1 do artigo 5.º da Directiva [96/61/CE](http://data.eur
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2014:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2015:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Antes de 30 de Outubro de 2007, devem ser emitidas licenças totalmente coordenadas para essas instalações, com calendários individualmente vinculativos para a consecução da plena conformidade. Essas licenças devem garantir, até 30 de Outubro de 2007, a conformidade com os princípios gerais das obrigações fundamentais dos operadores enunciados no artigo 3.º da Directiva.
 
@@ -4306,11 +4346,11 @@ S.C. ELECTROCENTRALE DEVA SA No 1, 4 caldeiras eléctricas x 264 MWth
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
@@ -4332,11 +4372,11 @@ S.C. C.E.T. GOVORA No 3, 1 caldeira x 285 MWth
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de dióxido de enxofre provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -4352,27 +4392,27 @@ b) Em derrogação do n.º 3 do artigo 4.º e da Parte A do Anexo VI da Directiv
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de óxido de azoto provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -4388,15 +4428,15 @@ c) Em derrogação do n.º 3 do artigo 4.º e da Parte A do Anexo VII da Directi
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
@@ -4416,7 +4456,7 @@ S.C. CET GOVORA SA No 2, 2 caldeiras x 285 MWth
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de poeiras provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -4450,25 +4490,29 @@ Durante este período transitório, as emissões de óxido de azoto provenientes
 
 e) A Roménia deve apresentar à Comissão, até 1 de Janeiro de 2011, um plano actualizado, que inclua um plano de investimentos, para o progressivo alinhamento das restantes instalações não conformes, com fases claramente definidas para a aplicação do acervo. Esses planos devem garantir uma nova redução das emissões para um nível significativamente inferior ao dos objectivos intermédios especificados nas alíneas a) a d) supra, em especial no que se refere às emissões relativas a 2012. Se, tendo especialmente em conta os efeitos ambientais e a necessidade de reduzir as distorções de concorrência no mercado interno decorrentes das medidas transitórias, a Comissão considerar que os planos supra mencionados não são suficientes para cumprir estes objectivos, informará do facto a Roménia. Nos três meses seguintes, a Roménia comunicará as medidas que tiver tomado para cumprir os referidos objectivos. Se, posteriormente, em consulta com os Estados-Membros, a Comissão considerar que essas medidas não são suficientes para alcançar aqueles objectivos, dará início a um processo por infracção ao abrigo do artigo III-360.º da Constituição.
 
-## Apêndice A ao ANEXO VII
+Apêndice A ao ANEXO VII
 
 Reestruturação da Indústria Siderúrgica Romena
 
 (tal como referido no Anexo VII, Capítulo 4, Secção B
 
-# PARTE I
+PARTE I
 
 EMPRESAS QUE BENEFICIAM DE AUXÍLIOS ESTATAIS NO ÂMBITO DO PROGRAMA DE REESTRUTURAÇÃO DA INDÚSTRIA SIDERÚRGICA DA ROMÉNIA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-# PARTE II — CALENDÁRIO E DESCRIÇÃO DAS ALTERAÇÕES DE CAPACIDADE (ver nota 71)
+PARTE II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+CALENDÁRIO E DESCRIÇÃO DAS ALTERAÇÕES DE CAPACIDADE (ver nota 71)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 71) As reduções de capacidade devem ser definitivas, nos termos da Decisão n.º[3010/91/CECA](http://data.europa.eu/eli/dec/2010/91/oj?locale=pt) da Comissão, de 15 de Outubro de 1991 (JO L 286 de 16.10.91, p. 20,
 
-# PARTE III — ÍNDICES DE REFERÊNCIA DA REESTRUTURAÇÃO
+PARTE III
+
+ÍNDICES DE REFERÊNCIA DA REESTRUTURAÇÃO
 
 1. Viabilidade
 
@@ -4482,7 +4526,9 @@ Deverá ser gradualmente alcançada, até 31 de Dezembro de 2008, uma produtivid
 
 Deve ser atribuída especial importância às reduções de custos, que constituem um dos elementos-chave da viabilidade. Essas reduções devem ser plenamente realizadas segundo os planos empresariais das empresas beneficiárias.
 
-# PARTE IV — LISTA INDICATIVA DAS INFORMAÇÕES EXIGIDAS
+PARTE IV
+
+LISTA INDICATIVA DAS INFORMAÇÕES EXIGIDAS
 
 1. Produção e efeitos no mercado
 
@@ -4548,17 +4594,19 @@ Deve ser atribuída especial importância às reduções de custos, que constitu
 
 8. Alterações na propriedade.
 
-## Apêndice B ao ANEXO VII
+Apêndice B ao ANEXO VII
 
 Lista de estabelecimentos de tratamento de carne, de carne de aves de capoeira e de leite e produtos lácteos a que se refere o Anexo VII, Capítulo 5, Secção B, Subsecção I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VIII — Desenvolvimento rural
+ANEXO VIII
+
+Desenvolvimento rural
 
 (a que se refere o artigo 34.º do Protocolo)
 
-#### SECÇÃO I: MEDIDAS TEMPORÁRIAS ADICIONAIS DE DESENVOLVIMENTO RURAL PARA A BULGÁRIA E A ROMÉNIA
+SECÇÃO I: MEDIDAS TEMPORÁRIAS ADICIONAIS DE DESENVOLVIMENTO RURAL PARA A BULGÁRIA E A ROMÉNIA
 
 A. Apoio às explorações de semi-subsistência em fase de reestruturação
 
@@ -4662,9 +4710,9 @@ d) Melhorias nos métodos de avaliação e intercâmbio de informações sobre a
 
 G. Quadro dos montantes destinados às medidas temporárias adicionais de desenvolvimento rural para a Bulgária e a Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-#### SECÇÃO II: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO AOS INVESTIMENTOS NA BULGÁRIA E NA ROMÉNIA
+SECÇÃO II: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO AOS INVESTIMENTOS NA BULGÁRIA E NA ROMÉNIA
 
 1) O apoio aos investimentos nas explorações agrícolas ao abrigo dos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão será concedido às explorações agrícolas cuja viabilidade económica possa ser demonstrada no termo da realização do investimento.
 
@@ -4672,7 +4720,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 3) O apoio aos investimentos destinados a melhorar a transformação e a comercialização de produtos agrícolas ao abrigo do regulamento pertinente relativo ao desenvolvimento rural em vigor à data da adesão será concedido às empresas que tenham beneficiado de um período de transição após a adesão, a fim de cumprirem as normas mínimas relativas ao ambiente, higiene e bem-estar dos animais. Neste caso, as empresas deverão estar em conformidade com as normas pertinentes até ao final do período de transição especificado ou até ao final do período de investimento, consoante o que ocorrer em primeiro lugar.
 
-#### SECÇÃO III: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO À REFORMA ANTECIPADA NA BULGÁRIA
+SECÇÃO III: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO À REFORMA ANTECIPADA NA BULGÁRIA
 
 1) Os agricultores da Bulgária aos quais tenha sido atribuída uma quota leiteira poderão beneficiar do regime de reforma antecipada desde que tenham menos de 70 anos de idade no momento da cessão.
 
@@ -4680,7 +4728,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 3) As quotas leiteiras atribuídas a um cedente reverterão a favor da reserva nacional de quotas leiteiras sem pagamento compensatório suplementar.
 
-#### SECÇÃO IV: DISPOSIÇÕES FINANCEIRAS ESPECÍFICAS PARA A BULGÁRIA E A ROMÉNIA NO PERÍODO DE 2007 A 2013
+SECÇÃO IV: DISPOSIÇÕES FINANCEIRAS ESPECÍFICAS PARA A BULGÁRIA E A ROMÉNIA NO PERÍODO DE 2007 A 2013
 
 1) Relativamente ao período de programação de 2007 a 2013, o apoio comunitário concedido na Bulgária e na Roménia a todas as medidas de desenvolvimento rural será executado de acordo com os princípios estabelecidos nos artigos 31.º e 32.º do Regulamento (CE) n.º [1260/1999](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt) do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais (ver nota 75).
 
@@ -4688,7 +4736,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 2) Nas zonas abrangidas pelo objectivo n.º 1, a contribuição financeira da Comunidade pode elevar-se a 85% para as medidas agro-ambientais e as relativas ao bem-estar dos animais, e a 80% para as outras medidas, ou às percentagens estabelecidas nos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão, consoante o que for mais elevado.
 
-## ANEXO IX
+ANEXO IX
 
 Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004.
 
@@ -4728,9 +4776,11 @@ ACTO RELATIVO ÀS CONDIÇÕES DE ADESÃO DA REPÚBLICA DA BULGÁRIA E DA ROMÉNI
 
 Em conformidade com o artigo 2.º do Tratado de Adesão, o presente Acto será aplicável no caso de o Tratado que estabelece uma Constituição para a Europa não estar em vigor em 1 de Janeiro de 2007, até à data de entrada em vigor do Tratado que estabelece uma Constituição para a Europa.
 
-# PARTE 1 — Os princípios
+PARTE 1
 
-###### Artigo 1.º
+Os princípios
+
+Artigo 1.º
 
 Para efeitos do presente Acto:
 
@@ -4750,11 +4800,11 @@ b) o Tratado da União Europeia («Tratado UE»), completado ou alterado por tra
 
 - por «Instituições», entendem-se as Instituições criadas pelos Tratados originários.
 
-###### Artigo 2.º
+Artigo 2.º
 
 A partir da data da adesão, as disposições dos Tratados originários e os actos adoptados pelas Instituições e pelo Banco Central Europeu antes da adesão vinculam a Bulgária e a Roménia e são aplicáveis nesses Estados nos termos desses Tratados e do presente Acto.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1. A Bulgária e a Roménia aderem às decisões e acordos aprovados pelos Representantes dos Governos dos Estados-Membros reunidos no Conselho.
 
@@ -4768,7 +4818,7 @@ A partir da data da adesão, as disposições dos Tratados originários e os act
 
 6. O Conselho, deliberando por unanimidade sob proposta da Comissão, pode aditar ao Anexo I as convenções, acordos e protocolos assinados antes da data da adesão.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1. As disposições do acervo de Schengen integrado no âmbito da União Europeia pelo Protocolo anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia (a seguir denominado «Protocolo de Schengen») e os actos nele baseados ou de algum modo com ele relacionados, enumerados no Anexo II, bem como quaisquer outros actos adoptados antes da data da adesão, vinculam a Bulgária e a Roménia e são aplicáveis nesses Estados a partir da data da adesão.
 
@@ -4776,11 +4826,11 @@ A partir da data da adesão, as disposições dos Tratados originários e os act
 
 O Conselho toma a sua decisão, após consulta ao Parlamento Europeu, deliberando por unanimidade dos membros que representam os Governos dos Estados-Membros relativamente aos quais as disposições referidas no presente número já tenham entrado em vigor e do representante do Governo do Estado-Membro relativamente ao qual essas disposições devam entrar em vigor. Os membros do Conselho que representam os Governos da Irlanda e do Reino Unido da Grã-Bretanha e Irlanda do Norte participarão nessa decisão na medida em que a mesma diga respeito ao acervo de Schengen e aos actos nele baseados ou de algum modo com ele relacionados em que esses Estados participam.
 
-###### Artigo 5.º
+Artigo 5.º
 
 A Bulgária e a Roménia participarão na União Económica e Monetária a partir da data da adesão enquanto Estados-Membros que beneficiam de uma derrogação na acepção do artigo 122.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
-###### Artigo 6.º
+Artigo 6.º
 
 1. Os acordos ou convenções celebrados ou provisoriamente aplicados pela Comunidade ou nos termos dos artigos 24.º ou 38.º do Tratado UE, com um ou mais Estados terceiros, com uma organização internacional ou com um nacional de um Estado terceiro vinculam a Bulgária e a Roménia nos termos dos Tratados originários e do presente Acto.
 
@@ -4832,7 +4882,7 @@ Na medida em que os acordos entre a Bulgária, a Roménia ou ambos os Estados, p
 
 Em especial, devem retirar-se, à data da adesão ou o mais rapidamente possível após a mesma, dos acordos internacionais de pesca e das organizações em que a Comunidade seja igualmente parte, a menos que a sua qualidade de membro se relacione com outros domínios que não sejam a pesca.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1. Salvo disposição em contrário do presente Acto, as suas disposições só podem ser suspensas, alteradas ou revogadas de acordo com os procedimentos previstos nos Tratados originários que permitem a revisão destes.
 
@@ -4840,7 +4890,7 @@ Em especial, devem retirar-se, à data da adesão ou o mais rapidamente possíve
 
 3. As disposições do presente Acto que tenham por objecto ou efeito revogar ou alterar actos adoptados pelas Instituições, a título não transitório, têm a mesma natureza jurídica que as disposições assim revogadas ou alteradas e ficam sujeitas às mesmas regras que estas últimas.
 
-###### Artigo 8.º
+Artigo 8.º
 
 A aplicação dos Tratados originários e dos actos adoptados pelas Instituições fica sujeita, a título transitório, às disposições derrogatórias previstas no presente Acto.
 
@@ -4848,9 +4898,11 @@ SEGUNDA PARTE
 
 Adaptações dos tratados
 
-## TÍTULO I — Disposições institucionais
+TÍTULO I
 
-###### Artigo 9.º
+Disposições institucionais
+
+Artigo 9.º
 
 1. O segundo parágrafo do artigo 189.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e o segundo parágrafo do artigo 107.º do Tratado CEEA passam a ter a seguinte redacção:
 
@@ -4914,7 +4966,7 @@ Suécia - 18
 
 Reino Unido - 72.»
 
-###### Artigo 10.º
+Artigo 10.º
 
 1. O nº 2 do artigo 205.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e o nº 2 do artigo 118.º do Tratado CEEA passam a ter a seguinte redacção:
 
@@ -4986,7 +5038,7 @@ Nos restantes casos, as deliberações são tomadas se obtiverem, no mínimo, 25
 
 «3. Se as deliberações do Conselho exigirem maioria qualificada, os votos dos membros serão ponderados nos termos do n.º 2 do artigo 205.º do Tratado que institui a Comunidade Europeia; as deliberações serão tomadas se obtiverem, no mínimo, 255 votos que exprimam a votação favorável de, pelo menos, dois terços dos membros. Sempre que o Conselho tome uma decisão por maioria qualificada, qualquer dos seus membros pode pedir que se verifique se os Estados-Membros que constituem essa maioria qualificada representam, pelo menos, 62% da população total da União. Se essa condição não for preenchida, a decisão em causa não é adoptada.»
 
-###### Artigo 11.º
+Artigo 11.º
 
 1. O primeiro parágrafo do artigo 9.º do Protocolo anexo ao Tratado UE, ao [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e ao Tratado CEEA relativo ao Estatuto do Tribunal de Justiça passa a ter a seguinte redacção:
 
@@ -4998,7 +5050,7 @@ Nos restantes casos, as deliberações são tomadas se obtiverem, no mínimo, 25
 
 O Tribunal de Primeira Instância é composto por vinte e sete juízes».
 
-###### Artigo 12.º
+Artigo 12.º
 
 O segundo parágrafo do artigo 258.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e o segundo parágrafo do artigo 166.º do Tratado CEEA, relativos à composição do Comité Económico e Social, passam a ter a seguinte redacção:
 
@@ -5058,7 +5110,7 @@ Suécia - 12
 
 Reino Unido - 24»
 
-###### Artigo 13.º
+Artigo 13.º
 
 O terceiro parágrafo do artigo 263.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), relativo à composição do Comité das Regiões, passa a ter a seguinte redacção:
 
@@ -5118,7 +5170,7 @@ Suécia - 12
 
 Reino Unido - 24»
 
-###### Artigo 14.º
+Artigo 14.º
 
 O Protocolo relativo aos Estatutos do Banco Europeu de Investimento, anexo ao [Tratado CE](https://diariodarepublica.pt/application/external/tratado), é alterado do seguinte modo:
 
@@ -5174,27 +5226,29 @@ Os administradores suplentes são nomeados por um período de cinco anos pelo Co
 
 (nota *) Os valores mencionados para a Bulgária e a Roménia são indicativos e baseiam-se nos dados relativos a 2003 publicados pelo Eurostat.
 
-###### Artigo 15.º
+Artigo 15.º
 
 O primeiro parágrafo do nº 2 do artigo 134º do Tratado CEEA, relativo à composição do Comité Científico e Técnico, passa a ter a seguinte redacção:
 
 «2. O Comité é composto por quarenta e um membros, nomeados pelo Conselho, após consulta à Comissão.»
 
-## TÍTULO II — Outras adaptações
+TÍTULO II
 
-###### Artigo 16.º
+Outras adaptações
+
+Artigo 16.º
 
 O último período do nº 1 do artigo 57.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
 «Em relação às restrições em vigor ao abrigo da legislação nacional na Bulgária, na Estónia e na Hungria, a data aplicável é a de 31 de Dezembro de 1999.»
 
-###### Artigo 17.º
+Artigo 17.º
 
 O n.º 1 do artigo 299.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
 «1. O presente Tratado é aplicável ao Reino da Bélgica, à República da Bulgária, à República Checa, ao Reino da Dinamarca, à República Federal da Alemanha, à República da Estónia, à República Helénica, ao Reino de Espanha, à República Francesa, à Irlanda, à República Italiana, à República de Chipre, à República da Letónia, à República da Lituânia, ao Grão-Ducado do Luxemburgo, à República da Hungria, à República de Malta, ao Reino dos Países Baixos, à República da Áustria, à República da Polónia, à República Portuguesa, à Roménia, à República da Eslovénia, à República Eslovaca, à República da Finlândia, ao Reino da Suécia e ao Reino Unido da Grã-Bretanha e Irlanda do Norte.»
 
-###### Artigo 18.º
+Artigo 18.º
 
 1. O segundo parágrafo do artigo 314.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) passa a ter a seguinte redacção:
 
@@ -5212,23 +5266,27 @@ TERCEIRA PARTE
 
 Disposições permanentes
 
-## TÍTULO I — Adaptações dos actos adoptados pelas instituições
+TÍTULO I
 
-###### Artigo 19.º
+Adaptações dos actos adoptados pelas instituições
+
+Artigo 19.º
 
 Os actos enumerados no Anexo III do presente Acto devem ser adaptados nos termos desse Anexo.
 
-###### Artigo 20.º
+Artigo 20.º
 
 As adaptações dos actos enumerados no Anexo IV do presente Acto, necessárias em consequência da adesão, devem ser efectuadas segundo as orientações definidas nesse Anexo.
 
-## TÍTULO II — Outras disposições
+TÍTULO II
 
-###### Artigo 21.º
+Outras disposições
+
+Artigo 21.º
 
 As medidas enumeradas no Anexo V do presente Acto devem ser aplicadas nas condições previstas nesse Anexo.
 
-###### Artigo 22.º
+Artigo 22.º
 
 O Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu, pode proceder às adaptações das disposições constantes do presente Acto relativas à política agrícola comum que se revelem necessárias em consequência de alterações da regulamentação comunitária.
 
@@ -5236,15 +5294,19 @@ QUARTA PARTE
 
 Disposições temporárias
 
-## TÍTULO I — Medidas transitórias
+TÍTULO I
 
-###### Artigo 23.º
+Medidas transitórias
+
+Artigo 23.º
 
 As medidas enumeradas nos Anexos VI e VII do presente Acto aplicam-se, em relação à Bulgária e à Roménia, nas condições definidas nesses Anexos.
 
-## TÍTULO II — Disposições institucionais
+TÍTULO II
 
-###### Artigo 24.º
+Disposições institucionais
+
+Artigo 24.º
 
 1. Em derrogação do número máximo de deputados do Parlamento Europeu fixado no segundo parágrafo do artigo 189.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e no segundo parágrafo do artigo 107.º do Tratado CEEA, o número de deputados do Parlamento Europeu será aumentado para ter em conta a adesão da Bulgária e da Roménia com o seguinte número de deputados destes países para o período compreendido entre a data da adesão e o início da legislatura de 2004-2009 do Parlamento Europeu:
 
@@ -5258,9 +5320,11 @@ Roménia - 35.
 
 3. Em derrogação do n.º 1 do artigo 190.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do n.º 1 do artigo 108.º do Tratado CEEA, se as eleições tiverem lugar antes da adesão, os deputados ao Parlamento Europeu, representantes dos povos da Bulgária e da Roménia para o período compreendido entre a data de adesão e cada uma das eleições a que se refere o nº 2, são nomeados pelos Parlamentos nacionais desses Estados de entre os seus membros, nos termos estabelecidos por cada um desses Estados.
 
-## TÍTULO III — Disposições financeiras
+TÍTULO III
 
-###### Artigo 25.º
+Disposições financeiras
+
+Artigo 25.º
 
 1. A partir da data da adesão, a Bulgária e a Roménia devem pagar os montantes a seguir discriminados, correspondentes à sua quota do capital a pagar para o capital subscrito definido no artigo 4.º dos Estatutos do Banco Europeu de Investimento (ver nota 80):
 
@@ -5282,7 +5346,7 @@ Roménia - 0,517%.
 
 3. O capital e os montantes previstos nos n.os 2 e 3 devem ser pagos pela Bulgária e pela Roménia em numerário e em euros, salvo derrogação decidida por unanimidade pelo Conselho de Governadores.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1. A Bulgária e a Roménia devem pagar os seguintes montantes ao Fundo de Investigação do Carvão e do Aço referido na Decisão [2002/234/CECA](http://data.europa.eu/eli/dec/2002/234/oj?locale=pt) dos Representantes dos Governos dos Estados-Membros, reunidos no Conselho, de 27 de Fevereiro de 2002, relativa às consequências financeiras da cessação de vigência do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca) e ao Fundo de Investigação do Carvão e do Aço (ver nota 82):
 
@@ -5304,7 +5368,7 @@ Roménia ... 29,88.
 
 2012: 35%.
 
-###### Artigo 27.º
+Artigo 27.º
 
 1. A partir da data da adesão, os concursos, as adjudicações e os pagamentos relativos à assistência de pré-adesão no âmbito do programa Phare (ver nota 83) e do programa Phare CBC (ver nota 84) e à assistência no âmbito do Instrumento de Transição a que se refere o artigo 31.º serão geridos, na Bulgária e na Roménia, por agências de execução a partir da data de adesão.
 
@@ -5334,7 +5398,7 @@ Não obstante, nos dois primeiros anos após a adesão podem ser autorizados fun
 
 (nota 88) JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º [723/2004](http://data.europa.eu/eli/reg/2004/723/oj?locale=pt) (JO L 124 de 27.4.2004, p. 1).
 
-###### Artigo 28.º
+Artigo 28.º
 
 1. As medidas que, à data da adesão, tenham sido objecto de decisões da Comissão em matéria de assistência ao abrigo do Regulamento (CE) n.º [1267/1999](http://data.europa.eu/eli/reg/1999/1267/oj?locale=pt), que cria um instrumento estrutural de pré-adesão, e cuja execução não tenha sido completada até essa data, devem ser consideradas aprovadas pela Comissão nos termos do Regulamento (CE) n.º [1164/94](http://data.europa.eu/eli/reg/1994/1164/oj?locale=pt) do Conselho, de 16 de Maio de 1994, que institui o Fundo de Coesão (ver nota 89). As verbas que ainda tenham que ser autorizadas para efeitos da execução dessas medidas sê-lo-ão ao abrigo do Regulamento relativo ao Fundo de Coesão em vigor à data da adesão e imputadas ao capítulo correspondente a este regulamento no Orçamento Geral das Comunidades Europeias. Salvo disposição em contrário nos n.os 2 a 5, aplicar-seão a essas medidas as disposições que regulam a aplicação de medidas aprovadas nos termos deste último regulamento.
 
@@ -5348,7 +5412,7 @@ Não obstante, nos dois primeiros anos após a adesão podem ser autorizados fun
 
 5. Em casos excepcionais e devidamente justificados, a Comissão pode decidir autorizar derrogações específicas das regras aplicáveis nos termos do Regulamento relativo ao Fundo de Coesão em vigor à data da adesão relativamente às medidas referidas no n.º 1.
 
-###### Artigo 29.º
+Artigo 29.º
 
 No caso de o período de autorizações plurianuais ao abrigo do programa SAPARD (ver nota 90) para a arborização de terrenos agrícolas, o apoio ao estabelecimento de agrupamentos de produtores ou os regimes agro-ambientais ultrapassar a data final permissível para pagamentos ao abrigo do SAPARD, as autorizações pendentes serão cobertas pelo programa de desenvolvimento rural para 2007-2013. Se, nesse âmbito, forem necessárias medidas transitórias específicas, estas serão adoptadas nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º [1260/1999](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt) do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos Estruturais (ver nota 91).
 
@@ -5356,7 +5420,7 @@ No caso de o período de autorizações plurianuais ao abrigo do programa SAPARD
 
 (nota 91) JO L 161 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 33).
 
-###### Artigo 30.º
+Artigo 30.º
 
 1. A Bulgária, após ter encerrado definitivamente, para posterior desactivação, a Unidade 1 e a Unidade 2 da Central Nuclear de Kozloduy antes de 2003, em conformidade com os compromissos por si assumidos, compromete-se a encerrar definitivamente a Unidade 3 e a Unidade 4 da referida central em 2006, bem como a proceder à posterior desactivação dessas unidades.
 
@@ -5372,7 +5436,7 @@ A assistência, ou parcelas da mesma, poderá ser disponibilizada como uma contr
 
 (nota 92) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p.45).
 
-###### Artigo 31.º
+Artigo 31.º
 
 1. No primeiro ano após a adesão, a União prestará assistência financeira temporária, a seguir designada "Instrumento de Transição", à Bulgária e à Roménia para o desenvolvimento e o reforço da sua capacidade administrativa e judiciária de execução e cumprimento da legislação comunitária, bem como para fomentar o intercâmbio de boas práticas entre pares. Esta assistência financiará projectos de desenvolvimento institucional e um número limitado de pequenos investimentos subsidiários.
 
@@ -5384,13 +5448,13 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 4. A concessão de assistência ao abrigo do Instrumento de Transição será determinada e implementada nos termos do Regulamento (CEE) n.º [3906/89](http://data.europa.eu/eli/reg/1989/3906/oj?locale=pt) do Conselho relativo à ajuda económica a favor de determinados países da Europa Central e Oriental.
 
-###### Artigo 32.º
+Artigo 32.º
 
 1. É criado um mecanismo de fluxos financeiros e Schengen, a título temporário, a fim de ajudar a Bulgária e a Roménia, entre a data da adesão e o fim de 2009, a financiar acções nas novas fronteiras externas da União, tendo em vista a aplicação do acervo de Schengen e os controlos nas fronteiras externas, e a fim de reforçar os fluxos financeiros dos orçamentos nacionais.
 
 2. Para o período de 2007-2009, serão disponibilizados os seguintes montantes (a preços de 2004) à Bulgária e à Roménia sob a forma de pagamentos de montante fixo ao abrigo do mecanismo temporário de fluxos financeiros e Schengen:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. Pelo menos 50% da dotação de cada país ao abrigo do mecanismo temporário de fluxos financeiros e Schengen será utilizada para ajudar a Bulgária e a Roménia a cumprir a sua obrigação de financiar acções nas novas fronteiras externas da União, tendo em vista a aplicação do acervo de Schengen e os controlos nas fronteiras externas.
 
@@ -5398,15 +5462,15 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 5. A Comissão pode adoptar quaisquer disposições técnicas necessárias para o funcionamento do mecanismo temporário de fluxos financeiros e Schengen.
 
-###### Artigo 33.º
+Artigo 33.º
 
 1. Sem prejuízo de futuras decisões de carácter político, o montante global das dotações de autorização para acções estruturais a disponibilizar à Bulgária e à Roménia durante o triénio 2007-2009 será o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 2. Durante o triénio 2007-2009, o âmbito e a natureza das intervenções no âmbito destas dotações fixas serão determinados com base nas disposições então aplicáveis às despesas relativas a acções estruturais.
 
-###### Artigo 34.º
+Artigo 34.º
 
 1. Para além dos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão, as disposições constantes nas Secções I a III do Anexo VIII são aplicáveis à Bulgária e à Roménia durante o período de 2007 a 2009 e as disposições financeiras específicas constantes da Secção IV do Anexo VIII são aplicáveis à Bulgária e à Roménia ao longo de todo o período de programação de 2007 a 2013.
 
@@ -5416,13 +5480,15 @@ O montante das dotações de autorização para o Instrumento de Transição, a 
 
 4. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta ao Parlamento Europeu, procederá, sempre que necessário, à adaptação das disposições do Anexo VIII por forma a garantir a congruência com os regulamentos relativos ao desenvolvimento rural.
 
-###### Artigo 35.º
+Artigo 35.º
 
 Os montantes referidos nos artigos 30.º, 31.º, 32.º, 33.º e 34.º são ajustados anualmente pela Comissão, em consonância com os movimentos de preços, no âmbito dos ajustamentos técnicos anuais das Perspectivas Financeiras.
 
-## TÍTULO IV — Outras disposições
+TÍTULO IV
 
-###### Artigo 36.º
+Outras disposições
+
+Artigo 36.º
 
 1. Se, até ao final de um período de três anos a contar da adesão, surgirem dificuldades graves e susceptíveis de persistir num sector de actividade económica ou de determinar uma grave deterioração da situação económica de uma dada região, a Bulgária ou a Roménia pode pedir que seja autorizada a tomar medidas de protecção que lhe permitam reequilibrar a situação e adaptar o sector em causa à economia do mercado interno.
 
@@ -5434,19 +5500,19 @@ Em caso de dificuldades económicas graves e a pedido expresso do Estado-Membro 
 
 3. As medidas autorizadas nos termos do n.º 2 podem comportar derrogações de normas do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do presente Acto, até ao limite e durante os prazos estritamente necessários para atingir os objectivos previstos no n.º 1. Deve ser dada prioridade às medidas que impliquem o mínimo de perturbações no funcionamento do mercado interno.
 
-###### Artigo 37.º
+Artigo 37.º
 
 Se a Bulgária ou a Roménia não tiver dado cumprimento a compromissos assumidos no contexto das negociações de adesão, incluindo os assumidos em qualquer das políticas sectoriais que dizem respeito às actividades económicas com incidência transfronteiriça, dando assim origem a uma grave perturbação ou a um risco de grave perturbação do funcionamento do mercado interno, a Comissão pode, mediante pedido fundamentado de um Estado-Membro ou por iniciativa própria, tomar medidas adequadas, durante um período máximo de três anos a contar da adesão.
 
 As medidas devem ser proporcionadas, dando-se prioridade às que causem menor perturbação no funcionamento do mercado interno e, se adequado, à aplicação dos mecanismos sectoriais de salvaguarda existentes. Essas medidas de salvaguarda não devem ser invocadas como meio de discriminação arbitrária ou de restrição dissimulada do comércio entre Estados-Membros. A cláusula de salvaguarda pode ser invocada mesmo antes da adesão, com base nas conclusões do acompanhamento, devendo as medidas adoptadas entrar em vigor logo no primeiro dia da adesão, a menos que estabeleçam uma data posterior. As medidas não podem ser mantidas por um período superior ao estritamente necessário e devem ser, de qualquer modo, levantadas quando tiver sido cumprido o compromisso em causa, podendo, porém, ser aplicadas para além do período especificado no primeiro parágrafo enquanto não forem cumpridos os compromissos pertinentes. Em resposta aos progressos efectuados pelo novo Estado-Membro em causa no cumprimento dos seus compromissos, a Comissão pode adaptar as medidas conforme for adequado. A Comissão deve informar o Conselho em tempo útil antes de revogar as medidas de salvaguarda, tendo devidamente em conta quaisquer observações do Conselho a este respeito.
 
-###### Artigo 38.º
+Artigo 38.º
 
 Se na Bulgária ou na Roménia se verificarem ou houver um risco iminente de se verificarem lacunas graves na transposição, no estado da aplicação ou na execução das decisões-quadro ou de quaisquer outros compromissos, instrumentos de cooperação e decisões relativos ao reconhecimento mútuo no domínio do direito penal adoptados ao abrigo do Título VI do Tratado UE e das directivas e regulamentos relacionados com o reconhecimento mútuo em matéria civil ao abrigo do Título IV do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), a Comissão pode, mediante pedido fundamentado de um Estado-Membro ou por sua própria iniciativa, e após consulta aos Estados-Membros, tomar as medidas adequadas e especificar as condições e regras de aplicação dessas medidas durante um período máximo de três anos a contar da adesão.
 
 Essas medidas podem assumir a forma de suspensão temporária da aplicação das disposições e decisões relevantes nas relações entre a Bulgária ou a Roménia e quaisquer outros Estados-Membros, sem prejuízo da continuação de uma estreita cooperação judiciária. A cláusula de salvaguarda pode ser invocada mesmo antes da adesão, com base nas conclusões do acompanhamento, devendo as medidas adoptadas entrar em vigor logo no primeiro dia da adesão, a menos que estabeleçam uma data posterior. As medidas não podem ser mantidas por um período superior ao estritamente necessário e devem ser, de qualquer modo, levantadas quando as lacunas tiverem sido colmatadas, podendo, porém, ser aplicadas para além do período especificado no primeiro parágrafo enquanto subsistirem as referidas lacunas. Em resposta aos progressos efectuados pelo novo Estado-Membro em causa na rectificação das lacunas detectadas, a Comissão pode adaptar as medidas conforme for adequado, após consulta aos Estados-Membros. A Comissão deve informar o Conselho em tempo útil antes de revogar as medidas de salvaguarda, tendo devidamente em conta quaisquer observações do Conselho a este respeito.
 
-###### Artigo 39.º
+Artigo 39.º
 
 1. Se, com base no acompanhamento contínuo, pela Comissão, dos compromissos assumidos pela Bulgária e pela Roménia no contexto das negociações de adesão, e em especial nos relatórios de acompanhamento da Comissão, ficar claramente patente que o estado dos preparativos para a adopção e implementação do acervo na Bulgária ou na Roménia implica um sério risco de qualquer um destes Estados não estar manifestamente preparado para cumprir os requisitos necessários para se tornar membro da UE até à data da adesão - 1 de Janeiro de 2007 - em vários domínios importantes, o Conselho poderá, deliberando por unanimidade com base numa recomendação da Comissão, decidir que a data de adesão desse país seja adiada por um ano, ou seja, para 1 de Janeiro de 2008.
 
@@ -5458,11 +5524,11 @@ Essas medidas podem assumir a forma de suspensão temporária da aplicação das
 
 4. Na eventualidade de ser tomada uma decisão ao abrigo dos n.os 1, 2 ou 3, o Conselho, deliberando por maioria qualificada, deve decidir imediatamente das adaptações do presente Acto, bem como dos seus Anexos e Apêndices, que se torne indispensável introduzir devido à decisão de adiamento.
 
-###### Artigo 40.º
+Artigo 40.º
 
 A fim de não perturbar o correcto funcionamento do mercado interno, a aplicação das normas internas da Bulgária e da Roménia durante os períodos transitórios referidos nos Anexos VI e VII não pode conduzir a controlos nas fronteiras entre os Estados-Membros.
 
-###### Artigo 41.º
+Artigo 41.º
 
 Se forem necessárias medidas transitórias para facilitar a passagem do regime existente na Bulgária e na Roménia para o regime decorrente da aplicação da política agrícola comum nas condições estabelecidas no presente Acto, essas medidas serão adoptadas pela Comissão nos termos do n.º 2 do artigo 25.º do Regulamento (CE) n.º [1784/2003](http://data.europa.eu/eli/reg/2003/1784/oj?locale=pt) do Conselho, de 29 de Setembro de 2003, que estabelece a organização comum de mercado no sector dos cereais (ver nota 94), ou, sempre que adequado, dos artigos correspondentes dos outros regulamentos que estabelecem as organizações comuns de mercado no sector agrícola, ou segundo o procedimento determinado pela legislação aplicável. As medidas transitórias referidas no presente artigo podem ser tomadas durante um período de três anos a contar da data da adesão, sendo a sua aplicação limitada a esse período. O Conselho, deliberando por unanimidade sob proposta da Comissão e após consulta ao Parlamento Europeu, pode prolongar esse período.
 
@@ -5470,7 +5536,7 @@ As medidas transitórias respeitantes à aplicação dos actos relativos à pol�
 
 (nota 94) JO L 270 de 21.10.2003, p. 78.
 
-###### Artigo 42.º
+Artigo 42.º
 
 Se forem necessárias medidas transitórias para facilitar a passagem do regime existente na Bulgária e na Roménia para o regime decorrente da aplicação da legislação comunitária no domínio veterinário, fitossanitário e da segurança alimentar, essas medidas serão adoptadas pela Comissão segundo o procedimento determinado pela legislação aplicável. Essas medidas são tomadas durante um período de três anos a contar da data da adesão, sendo a sua aplicação limitada a esse período.
 
@@ -5478,23 +5544,25 @@ QUINTA PARTE
 
 Disposições relativas à aplicação do presente acto
 
-## TÍTULO I — Estabelecimento das instituições e órgãos
+TÍTULO I
 
-###### Artigo 43.º
+Estabelecimento das instituições e órgãos
+
+Artigo 43.º
 
 O Parlamento Europeu deve introduzir no seu Regimento as adaptações necessárias em consequência da adesão.
 
-###### Artigo 44.º
+Artigo 44.º
 
 O Conselho deve introduzir no seu Regulamento Interno as adaptações necessárias em consequência da adesão.
 
-###### Artigo 45.º
+Artigo 45.º
 
 Deve ser nomeado como membro da Comissão um nacional de cada um dos novos Estados-Membros, a partir da data da adesão. Os novos membros da Comissão são nomeados pelo Conselho, deliberando por maioria qualificada e de comum acordo com o Presidente da Comissão, após consulta ao Parlamento Europeu.
 
 O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 46.º
+Artigo 46.º
 
 1. Devem ser nomeados dois novos juízes para o Tribunal de Justiça e dois novos juízes para o Tribunal de Primeira Instância.
 
@@ -5510,77 +5578,81 @@ Os Regulamentos de Processo assim adaptados devem ser aprovados pelo Conselho, d
 
 4. Para julgamento dos processos pendentes nos Tribunais à data da adesão, cuja fase oral tenha sido iniciada antes dessa data, os Tribunais plenos ou as Secções devem reunir com a composição que tinham antes da adesão e aplicar os Regulamentos de Processo em vigor no dia anterior à data da adesão.
 
-###### Artigo 47.º
+Artigo 47.º
 
 O Tribunal de Contas deve ser aumentado com a nomeação de dois novos membros, com um mandato de seis anos.
 
-###### Artigo 48.º
+Artigo 48.º
 
 O Comité Económico e Social deve ser aumentado com a nomeação de vinte e sete membros, representativos dos diversos sectores da vida económica e social da sociedade civil organizada da Bulgária e da Roménia. O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 49.º
+Artigo 49.º
 
 O Comité das Regiões deve ser aumentado com a nomeação de vinte e sete membros, representativos das pessoas colectivas territoriais regionais e locais da Bulgária e da Roménia, sendo quer titulares de um mandato eleitoral a nível regional ou local, quer politicamente responsáveis perante uma assembleia eleita. O mandato desses membros cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
-###### Artigo 50.º
+Artigo 50.º
 
 As adaptações dos estatutos e regulamentos internos dos comités instituídos pelos Tratados originários, necessárias em consequência da adesão, devem ser efectuadas logo que possível após a adesão.
 
-###### Artigo 51.º
+Artigo 51.º
 
 1. Os novos membros dos comités, grupos e outros organismos criados pelos Tratados ou por um acto das instituições serão nomeados nas condições e nos termos previstos para a nomeação dos membros desses comités, grupos e outros organismos. O mandato dos membros recentemente nomeados cessa ao mesmo tempo que o dos membros em funções à data da adesão.
 
 2. A composição dos comités ou grupos criados pelos Tratados ou por um acto das instituições com um número de membros fixado independentemente do número de Estados-Membros será integralmente renovada à data da adesão, a menos que o mandato dos actuais membros cesse no prazo de um ano a contar da adesão.
 
-## TÍTULO II — Aplicabilidade dos actos das instituições
+TÍTULO II
 
-###### Artigo 52.º
+Aplicabilidade dos actos das instituições
+
+Artigo 52.º
 
 A partir da adesão, a Bulgária e a Roménia são consideradas destinatárias das directivas e decisões, na acepção do artigo 249.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do artigo 161.º do Tratado CEEA, desde que todos os Estados-Membros actuais tenham sido destinatários dessas directivas e decisões. Com excepção das directivas e decisões que tenham entrado em vigor nos termos dos n.os 1 e 2 do artigo 254.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), considera-se que a Bulgária e a Roménia foram notificadas dessas directivas e decisões à data da adesão.
 
-###### Artigo 53.º
+Artigo 53.º
 
 1. A Bulgária e a Roménia devem pôr em vigor, a partir da data da adesão, as medidas necessárias para dar cumprimento ao disposto nas directivas e decisões, na acepção do artigo 249.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do artigo 161.º do Tratado CEEA, a menos que seja fixado outro prazo no presente Acto. Devem comunicar essas medidas à Comissão o mais tardar à data da adesão ou, se for caso disso, até à data-limite fixada no presente Acto.
 
 2. Na medida em que as alterações introduzidas pelo presente Acto nas directivas, na acepção do artigo 249.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do artigo 161.º do Tratado CEEA, exijam a modificação das disposições legislativas, regulamentares e administrativas dos Estados-Membros actuais, estes devem pôr em vigor as medidas necessárias para dar cumprimento às directivas alteradas a partir da data da adesão, a menos que seja fixado outro prazo no presente Acto. Devem comunicar essas medidas à Comissão o mais tardar à data da adesão ou até à data-limite fixada no presente Acto, se esta for posterior.
 
-###### Artigo 54.º
+Artigo 54.º
 
 As disposições legislativas, regulamentares e administrativas destinadas a assegurar a protecção da saúde dos trabalhadores e da população em geral contra os perigos resultantes das radiações ionizantes no território da Bulgária e da Roménia devem, nos termos do artigo 33.º do Tratado CEEA, ser comunicadas por esses Estados à Comissão, no prazo de três meses a contar da adesão.
 
-###### Artigo 55.º
+Artigo 55.º
 
 Mediante pedido devidamente fundamentado pela Bulgária ou pela Roménia apresentado à Comissão o mais tardar à data da adesão, o Conselho, deliberando sob proposta da Comissão, ou a Comissão, se o acto inicial tiver sido adoptado por esta instituição, pode tomar medidas que consistam em derrogações temporárias de actos das instituições adoptados entre 1 de Outubro de 2004 e a data da adesão. As medidas serão adoptadas segundo as regras de votação que regem a adopção do acto em relação ao qual é solicitada uma derrogação temporária. Sempre que essas derrogações sejam adoptadas após a adesão podem ser aplicadas a partir da data da adesão.
 
-###### Artigo 56.º
+Artigo 56.º
 
 Sempre que os actos das instituições, adoptados antes da adesão, devam ser adaptados em virtude da adesão, e as adaptações necessárias não estejam previstas no presente Acto ou nos seus Anexos, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, ou a Comissão, se o acto inicial tiver sido adoptado por esta instituição, adoptará os actos necessários para esse efeito. Sempre que essas adaptações sejam adoptadas após a adesão podem ser aplicadas a partir da data da adesão.
 
-###### Artigo 57.º
+Artigo 57.º
 
 Salvo disposição em contrário, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará as medidas necessárias para aplicar as disposições do presente Acto.
 
-###### Artigo 58.º
+Artigo 58.º
 
 Os textos dos actos das instituições e do Banco Central Europeu adoptados antes da adesão e redigidos pelo Conselho, pela Comissão ou pelo Banco Central Europeu nas línguas búlgara e romena fazem fé, a partir da data da adesão, nas mesmas condições que os textos redigidos nas actuais línguas oficiais. Esses textos devem ser publicados no Jornal Oficial da União Europeia, sempre que os textos nas línguas actuais também o tenham sido.
 
-## TÍTULO III — Disposições finais
+TÍTULO III
 
-###### Artigo 59.º
+Disposições finais
+
+Artigo 59.º
 
 Os Anexos I a IX e respectivos Apêndices fazem parte integrante do presente Acto.
 
-###### Artigo 60.º
+Artigo 60.º
 
 O Governo da República Italiana remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada do Tratado da União Europeia, do Tratado que institui a Comunidade Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica, bem como dos Tratados que os alteraram ou completaram, designadamente o Tratado relativo à adesão do Reino da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Tratado relativo à adesão da República Helénica, o Tratado relativo à adesão do Reino de Espanha e da República Portuguesa, o Tratado relativo à adesão da República da Áustria, da República da Finlândia e do Reino da Suécia, e o Tratado relativo à adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca nas línguas alemã, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa e sueca.
 
 Os textos desses Tratados, redigidos nas línguas búlgara e romena, vêm anexos ao presente Acto. Esses textos fazem fé nas mesmas condições que os textos dos Tratados a que se refere o primeiro parágrafo, redigidos nas línguas actuais.
 
-###### Artigo 61.º
+Artigo 61.º
 
-**O Secretário-Geral do Conselho remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.**
+O Secretário-Geral do Conselho remeterá aos Governos da República da Bulgária e da Roménia uma cópia autenticada dos acordos internacionais depositados nos arquivos do Secretariado-Geral do Conselho da União Europeia.
 
-## ANEXO I
+ANEXO I
 
 Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no momento da adesão (a que se refere o n.º 3 do artigo 3.º do Acto de Adesão).
 
@@ -5640,7 +5712,7 @@ Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no mome
 
 - Protocolo de 16 de Outubro de 2001 da Convenção relativa ao auxílio judiciário mútuo em matéria penal entre os Estados-Membros da União Europeia, elaborado pelo Conselho nos termos do artigo 34.º do Tratado da União Europeia (JO C 326 de 21.11.2001, p. 2)
 
-## ANEXO II
+ANEXO II
 
 Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Acto de Adesão).
 
@@ -5650,7 +5722,7 @@ Lista das disposições do acervo de Schengen integrado no âmbito da União Eur
 
 2. As disposições seguintes da Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, relativo à supressão gradual dos controlos nas fronteiras comuns, assinada em Schengen em 19 de Junho de 1990 (ver nota 96), a respectiva Acta Final e declarações comuns, alteradas por alguns dos actos enumerados no ponto 8 infra:
 
-###### Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número; e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
+Artigo 1.º, na medida em que se refira às disposições do presente número; artigos 3.º a 7.º, com exclusão da alínea d) do n.º 1 do artigo 5.º; artigo 13.º; artigos 26.º e 27.º; artigo 39.º; artigos 44.º a 59.º; artigos 61.º a 63.º; artigos 65.º a 69.º; artigos 71.º a 73.º; artigos 75.º e 76.º; artigo 82.º; artigo 91.º; artigos 126.º a 130.º, na medida em que se refiram às disposições do presente número; e artigo 136.º; Declarações Comuns 1 e 3 da Acta Final.
 
 (nota 96) JO L 239 de 22.9.2000, p. 19. Convenção com a última redacção que lhe foi dada pelo Regulamento (CE) n.º [871/2004](http://data.europa.eu/eli/reg/2004/871/oj?locale=pt) do Conselho (JO L 162 de 30.4.2004, p. 29).
 
@@ -5870,7 +5942,7 @@ Regulamento (CE) n.º [2133/2004](http://data.europa.eu/eli/reg/2004/2133/oj?loc
 
 Regulamento (CE) n.º [2252/2004](http://data.europa.eu/eli/reg/2004/2252/oj?locale=pt) do Conselho, de 13 de Dezembro de 2004, que estabelece normas para os dispositivos de segurança e dados biométricos dos passaportes e documentos de viagem emitidos pelos Estados-Membros (JO L 385 de 29.12.2004, p. 1)
 
-## ANEXO III
+ANEXO III
 
 Lista a que se refere o artigo 19.º do Acto de Adesão:
 
@@ -5956,15 +6028,15 @@ O n.º 1 do artigo 110.º-A passa a ter a seguinte redacção:
 
 a) À alínea i) do n.º 4 do artigo 1.º é aditado o seguinte:
 
-«(5) A denominação "aguardente de fruto" pode ser substituída pela denominação "[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)" apenas para a bebida espirituosa produzida na Roménia»;
+«(5) A denominação "aguardente de fruto" pode ser substituída pela denominação "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)" apenas para a bebida espirituosa produzida na Roménia»;
 
 b) No Anexo II, são aditadas as seguintes denominações geográficas:
 
 - ao ponto 4: "Vinars Târnave", "Vinars Vaslui", "Vinars Murfatlar", "Vinars Vrancea", "Vinars Segarcea"
 
-- ao ponto 6: [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+- ao ponto 6: [[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-- ao ponto 7: [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+- ao ponto 7: [[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 2. 31991 R 1601: Regulamento (CEE) n.º [1601/91](http://data.europa.eu/eli/reg/1991/1601/oj?locale=pt) do Conselho, de 10 de Junho de 1991, que estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos cocktails aromatizados de produtos vitivinícolas (JO L 149 de 14.6.1991, p. 1), com a redacção que lhe foi dada por:
 
@@ -6014,7 +6086,7 @@ e a alínea i) passa a ser j).
 
 a) No Anexo, ao ponto V. «SUN CURED» é aditado o seguinte:
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 b) No Anexo, ao ponto VI «Basmas» é aditado o seguinte:
 
@@ -6070,7 +6142,7 @@ Limiares de transformação referidos no artigo 5.º
 
 Matéria-prima fresca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 5. 31998 R 2848: Regulamento (CE) n.º [2848/98](http://data.europa.eu/eli/reg/1998/2848/oj?locale=pt) da Comissão, de 22 de Dezembro de 1998, que estabelece normas de execução do Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt) do Conselho no que se refere ao regime de prémios, às quotas de produção e à ajuda específica a conceder aos agrupamentos de produtores no sector do tabaco em rama (JO L 358 de 31.12.1998, p. 17), com a redacção que lhe foi dada por:
 
@@ -6110,7 +6182,7 @@ O Anexo I passa a ter a seguinte redacção:
 
 Percentagens do limiar de garantia por Estado membro ou região específica para o reconhecimento do agrupamento de produtores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 6. 31999 R 1493: Regulamento (CE) n.º [1493/1999](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt) do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola (JO L 179 de 14.7.1999, p. 1), com a redacção que lhe foi dada por:
 
@@ -6132,7 +6204,7 @@ a) Ao artigo 6.º é aditado o seguinte:
 
 b) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 2:
 
-«g) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+«g) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 c) No Anexo III, (Zonas vitícolas) o último parágrafo é substituído pelo seguinte:
 
@@ -6142,7 +6214,7 @@ e) Na Roménia, as superfícies de vinha não incluídas na alínea g) do ponto 
 
 d) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 5:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 e) No Anexo III, (Zonas vitícolas) é aditado o seguinte ao ponto 6:
 
@@ -6316,7 +6388,7 @@ h) O n.º 2 do artigo 80.º passa a ter a seguinte redacção:
 
 «2. A ajuda é fixada do seguinte modo, de acordo com os rendimentos nos Estados-Membros em questão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 i) O artigo 81.º passa a ter a seguinte redacção:
 
@@ -6468,25 +6540,25 @@ q) O n.º 4 do artigo 116.º passa a ter a seguinte redacção:
 
 «4. São aplicáveis os limites máximos a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 r) O n.º 8 do artigo 123.º passa a ter a seguinte redacção:
 
 «8. São aplicáveis os limites máximos a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 s) O n.º 5 do artigo 126.º passa a ter a seguinte redacção:
 
 «5. São aplicáveis os limites máximos nacionais a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 t) O segundo parágrafo do n.º 3 do artigo 130.º passa a ter a seguinte redacção:
 
 «No que respeita aos novos Estados membros, os limites nacionais são os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 u) Ao artigo 143.º-A é aditado o seguinte parágrafo:
 
@@ -6572,7 +6644,7 @@ Limites máximos nacionais referidos no artigo 71.º-C
 
 Os limites máximos foram calculados tendo em conta o calendário de aumentos estabelecido no artigo 143.º-A e, por conseguinte, não é necessário reduzi-los.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 ac) Ao Anexo X é aditado o seguinte:
 
@@ -6598,7 +6670,7 @@ ad) O Anexo XI B passa a ter a seguinte redacção:
 
 Superfícies de base nacionais para as culturas arvensese e rendimentos de referência nos novos Estados-Membros, referidos nos artigos 101.º e 103.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 9. 32003 R 1788: Regulamento (CEE) n.º [1788/2003](http://data.europa.eu/eli/reg/2003/1788/oj?locale=pt) do Conselho, de 29 de Setembro de 2003, que institui uma imposição no sector do leite e dos produtos lácteos (JO L 270 de 21.10.2003, p. 123), com a redacção que lhe foi dada por:
 
@@ -6638,25 +6710,25 @@ h) No Anexo I, os quadros d), e) f) e g) são substituídos pelos seguintes:
 
 «d) Período 2007/2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 e) Período 2008/2009 a 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 f) Quantidades de referência para as entregas e vendas directas a que se refere o segundo parágrafo do n.º 1 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 g) Quantidades da reserva especial de reestruturação a que se refere o n.º 4 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 i) No Anexo II, o quadro é substituído pelo seguinte:
 
 «TEOR DE REFERÊNCIA EM MATÉRIA GORDA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. POLÍTICA DE TRANSPORTES
 
@@ -6764,7 +6836,7 @@ b) O n.º 7 do artigo 22.º passa a ter a seguinte redacção:
 
 «7. A Hungria, a Roménia e a Eslováquia podem aplicar taxas reduzidas de imposto, não inferiores em mais de 50% à taxa normal nacional do imposto especial de consumo sobre o álcool etílico, ao álcool etílico produzido por destilarias de produtores de frutos que produzam anualmente mais de 10 hectolitros de álcool etílico a partir de frutas fornecidas por agregados de produtores. A aplicação das taxas reduzidas fica limitada a 50 litros anuais de bebidas espirituosas à base de frutos por agregado de produtores, exclusivamente destinados ao consumo pessoal dos mesmos. A Comissão deve rever este regime em 2015 e apresentar um relatório ao Conselho sobre as eventuais alterações.».
 
-## ANEXO IV
+ANEXO IV
 
 Lista referida no artigo 20.º do Acto de Adesão:
 
@@ -6780,7 +6852,7 @@ O Conselho, deliberando por maioria qualificada sob proposta da Comissão e apó
 
 Quantidades acordadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Se a Bulgária assim o solicitar em 2006, as quantidades básicas de açúcar A e B supramencionadas passarão para as quantidades básicas de isoglicose A e B da Bulgária.
 
@@ -6838,13 +6910,13 @@ i) Essas disposições deverão incluir a seguinte alteração do Anexo XI A "Li
 
 Limites máximos para as ajudas à produção de sementes nos novos Estados-Membros referidas no n.º 3 do artigo 99.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 ii) É a seguinte a repartição das quantidades máximas nacionais de sementes a que é aplicável a ajuda:
 
 Repartição das quantidades máximas nacionais de sementes a que é aplicável a ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 b) O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, e após consulta ao Parlamento Europeu, adopta as disposições necessárias em relação à Bulgária e à Roménia para integrar a ajuda ao tabaco nos regimes de apoio estabelecidos no Capítulo 6 do Título III e no Título IV-A do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt).
 
@@ -6852,7 +6924,7 @@ A repartição acordada dos limiares de garantia nacionais para o tabaco são os
 
 Repartição acordada dos limiares de garantia nacionais para o tabaco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 B. LEGISLAÇÃO VETERINÁRIA E FITOSSANITÁRIA
 
@@ -6860,7 +6932,9 @@ B. LEGISLAÇÃO VETERINÁRIA E FITOSSANITÁRIA
 
 Se necessário e através do procedimento a que se refere o n.º 3 do artigo 26.º da Directiva [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), a Comissão procederá à adaptação do Anexo I da referida directiva no que se refere às espécies florestais Pinus peuce Griseb., Fagus orientalis Lipsky, Quercus frainetto Ten. e Tilia tomentosa Moench.
 
-## ANEXO V — Lista a que se refere o artigo 21.º do Acto de Adesão: outras disposições permanentes
+ANEXO V
+
+Lista a que se refere o artigo 21.º do Acto de Adesão: outras disposições permanentes
 
 1. DIREITO DAS SOCIEDADES
 
@@ -7098,15 +7172,17 @@ OUTRAS DISPOSIÇÕES
 
 - O reembolso e a dispensa de pagamento dos direitos são efectuados nas condições previstas na legislação comunitária. Todavia, nos casos em que os direitos cujo reembolso ou dispensa de pagamento se solicita se refiram a uma dívida aduaneira constituída antes da data da adesão, o reembolso e a dispensa de pagamento dos direitos são efectuados nas condições em vigor no novo Estado-Membro em causa antes da adesão, por ele próprio e a expensas suas.
 
-## Apêndice ao ANEXO V
+Apêndice ao ANEXO V
 
 Lista das medidas de auxílio existentes a que se refere a alínea b) do ponto 1 do mecanismo de auxílio existente previsto no Capítulo 2 do Anexo V
 
 Nota: As medidas de auxílio enumeradas no presente Apêndice apenas devem ser consideradas auxílios existentes para efeitos do mecanismo de auxílio existente previsto no Capítulo 2 do Anexo V na medida em que sejam efectivamente abrangidas pelo âmbito de aplicação do seu ponto 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VI — Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Bulgária
+ANEXO VI
+
+Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Bulgária
 
 1. LIVRE CIRCULAÇÃO DE PESSOAS
 
@@ -7172,11 +7248,11 @@ A lista dos sectores de serviços que podem estar abrangidos por esta derrogaç�
 
 - na Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 - na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Na medida em que a Alemanha ou a Áustria prevejam derrogações ao primeiro parágrafo do artigo 49.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), nos termos dos parágrafos anteriores, a Bulgária pode, após notificação da Comissão, adoptar medidas equivalentes.
 
@@ -7322,7 +7398,7 @@ Serão cobradas, de um modo não-discriminatório, taxas temporárias adicionais
 
 Programa de modernização da rede viária (km)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 6. FISCALIDADE
 
@@ -7782,19 +7858,23 @@ Durante este período transitório, as emissões de óxido de azoto provenientes
 
 c) A Bulgária deve apresentar à Comissão, até 1 de Janeiro de 2011, um plano actualizado, que inclua um plano de investimentos, para o progressivo alinhamento das restantes instalações não conformes, com fases claramente definidas para a aplicação do acervo. Esses planos devem garantir uma nova redução das emissões para um nível significativamente inferior ao dos objectivos intermédios especificados nas alíneas a) e b) supra, em especial no que se refere às emissões relativas ao período de 2012 a 2014. Se a Comissão, atendendo, em especial, aos efeitos ambientais e à necessidade de reduzir as distorções de concorrência no mercado interno decorrentes das medidas transitórias, considerar que os planos supramencionados não são suficientes para cumprir estes objectivos, informará do facto a Bulgária. Nos três meses seguintes, a Bulgária comunicará as medidas que tiver tomado para cumprir os referidos objectivos. Se, posteriormente, em consulta com os Estados-Membros, a Comissão considerar que essas medidas não são suficientes para alcançar aqueles objectivos, dará início a um processo por infracção ao abrigo do artigo 226.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
-## Apêndice ao ANEXO VI
+Apêndice ao ANEXO VI
 
-### CAPÍTULO I — Lista de estabelecimentos de transformação de leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alínea a)
+CAPÍTULO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+Lista de estabelecimentos de transformação de leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alínea a)
 
-### CAPÍTULO II
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+
+CAPÍTULO II
 
 Lista de estabelecimentos de transformação de dois tipos de leite - leite conforme e leite não conforme a que se refere o Anexo VI, Capítulo 4, Secção B, alíneas a) e c)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VII — Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Roménia
+ANEXO VII
+
+Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Roménia
 
 1. LIVRE CIRCULAÇÃO DE PESSOAS
 
@@ -7860,11 +7940,11 @@ A lista dos sectores de serviços que podem estar abrangidos por esta derrogaç�
 
 - na Alemanha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 - na Áustria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Na medida em que a Alemanha ou a Áustria prevejam derrogações ao primeiro parágrafo do artigo 49.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), nos termos dos parágrafos anteriores, a Roménia pode, após notificação da Comissão, adoptar medidas equivalentes.
 
@@ -7908,11 +7988,11 @@ A. AUXÍLIOS FISCAIS
 
 a) Não obstante os artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), a Roménia pode continuar a conceder às empresas às quais tenha sido concedido um certificado de investidor permanente numa zona desfavorecida antes de 1 de Julho de 2003, uma isenção do imposto sobre as sociedades com base no despacho governamental de emergência n.º 24/1998 relativo às zonas desfavorecidas, e respectivas alterações:
 
-- a 3 zonas desfavorecidas [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2008 inclusive;
+- a 3 zonas desfavorecidas [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2008 inclusive;
 
-- a 22 zonas desfavorecidas [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2009 inclusive;
+- a 22 zonas desfavorecidas [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2009 inclusive;
 
-- a 3 zonas desfavorecidas [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2010 inclusive,
+- a 3 zonas desfavorecidas [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf) até 31 de Dezembro de 2010 inclusive,
 
 nas seguintes condições:
 
@@ -8006,7 +8086,7 @@ b) Retomar os activos de qualquer outra empresa não incluída no Apêndice A, P
 
 7. O montante total do auxílio bruto de reestruturação a ser aprovado para as empresas beneficiárias é determinado pelas justificações para cada medida de auxílio prevista no programa nacional final de reestruturação e nos planos empresariais individuais aprovados pelas autoridades romenas e sujeitos a verificação final no que respeita à observância dos critérios estabelecidos no n.º 4 do artigo 9.º do Protocolo 2 ao Acordo Europeu, bem como a aprovação pelo Conselho. De qualquer modo, o montante total do auxílio bruto à reestruturação concedido e pago no período de 1993-2004 não pode exceder ROL 49985 mil milhões. No interior deste limite-máximo global, são aplicáveis os seguintes sublimites ou montantes máximos de auxílios estatais concedidos e pagos a cada empresa beneficiária no período de 1993-2004:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Os auxílios estatais devem destinar-se a permitir a viabilidade das empresas beneficiárias em condições normais de mercado no fim do período de reestruturação. O montante e a intensidade desses auxílios devem ser limitados ao estritamente necessário para restabelecer essa viabilidade. A viabilidade será determinada tendo em conta os critérios descritos no Apêndice A, Parte III.
 
@@ -8022,7 +8102,7 @@ A redução mínima da capacidade líquida de 2,05 milhões de toneladas e as da
 
 9. Os planos empresariais individuais devem conter a aprovação por escrito das empresas beneficiárias. Esses planos devem ser implementados e incluir, nomeadamente:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a implementação do programa de investimentos para a modernização das instalações, o aumento dos rendimentos, a redução dos custos (em especial do consumo de energia) e a melhoria da qualidade
 
@@ -8052,7 +8132,7 @@ iii) a melhoria da eficiência operacional e da gestão organizacional
 
 iv) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-d) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+d) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a especialização em produtos semi-acabados para fornecimento ao sector local de tubagens
 
@@ -8060,7 +8140,7 @@ ii) o encerramento de capacidades não eficientes
 
 iii) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-e) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+e) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) o aumento da quantidade de produtos de maior valor acrescentado
 
@@ -8068,7 +8148,7 @@ ii) a implementação do programa de investimentos, a fim de obter reduções de
 
 iii) a implementação dos investimentos necessários para a observância da legislação em matéria de ambiente
 
-f) [([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
+f) [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf):
 
 i) a implementação do programa de investimentos para a modernização das instalações
 
@@ -8180,7 +8260,7 @@ Em derrogação do n.º 1 do artigo 3.º da Directiva [96/53/CE](http://data.eur
 
 A partir da data da adesão, não podem ser impostas restrições à utilização, pelos veículos que cumpram os requisitos da Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt), dos principais itinerários de tráfego indicados no Anexo 5 do Acordo sobre Transportes entre a CE e a Roménia (ver nota 132) e no Anexo I da Decisão n.º [1692/96/CE](http://data.europa.eu/eli/dec/1992/96/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes (ver nota 133), e que vão a seguir enumerados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia cumprirá o calendário constante do quadro adiante para modernizar a sua rede viária secundária tal como exposto no mapa infra. Todos os investimentos em infra-estruturas que envolvam o recurso a fundos provenientes do orçamento comunitário devem garantir que as artérias sejam construídas ou modernizadas de forma a poder suportar uma carga de 11,5 toneladas por eixo.
 
@@ -8198,11 +8278,11 @@ As taxas para os veículos sem suspensão pneumática que cumpram os valores-lim
 
 Nível máximo de taxas (expresso em números de 2002) para os veículos sem suspensão pneumática que cumpram os valores-limite previstos na Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Calendário para a modernização da rede viária secundária na qual se registará uma abertura progressiva aos veículos que cumpram os valores-limite previstos na Directiva [96/53/CE](http://data.europa.eu/eli/dir/1996/53/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 3. 31999 L 0062: Directiva [1999/62/CE](http://data.europa.eu/eli/dir/1999/62/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de Junho de 1999, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infra-estruturas (JO L 187 de 20.7.1999, p. 42), com a última redacção que lhe foi dada por:
 
@@ -8524,15 +8604,15 @@ b) Em derrogação das alíneas a) e b) do n.º 3 do artigo 5.º e do segundo tr
 
 Até 31 de Dezembro de 2007:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
@@ -8542,15 +8622,15 @@ Até 31 de Dezembro de 2010:
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia deve garantir uma redução gradual dos resíduos líquidos depositados nessas 23 instalações existentes não conformes de acordo com as seguintes quantidades máximas anuais:
 
@@ -8574,15 +8654,15 @@ c) Em derrogação das alíneas a) e b) do n.º 3 do artigo 5.º e do segundo tr
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 A Roménia deve garantir uma redução gradual dos resíduos líquidos depositados nessas 5 bacias existentes não conformes de acordo com as seguintes quantidades máximas anuais:
 
@@ -8620,7 +8700,7 @@ C. QUALIDADE DA ÁGUA
 
 Em derrogação do artigo 3.º e do Anexo I da Directiva [83/513/CEE](http://data.europa.eu/eli/dir/1983/513/oj?locale=pt) e do artigo 3.º e do Anexo I da Directiva [84/156/CEE](http://data.europa.eu/eli/dir/1984/156/oj?locale=pt), os valores-limite para as descargas de cádmio e de mercúrio nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt) do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 144), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 144) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e o Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -8630,7 +8710,7 @@ Em derrogação do artigo 3.º e do Anexo I da Directiva [83/513/CEE](http://dat
 
 Em derrogação do artigo 3.º e do Anexo I da Directiva [84/491/CEE](http://data.europa.eu/eli/dir/1984/491/oj?locale=pt), os valores-limite para as descargas de lindano nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt), de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 145), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 145) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -8640,7 +8720,7 @@ Em derrogação do artigo 3.º e do Anexo I da Directiva [84/491/CEE](http://dat
 
 Em derrogação do artigo 3.º e do Anexo II da Directiva [86/280/CEE](http://data.europa.eu/eli/dir/1986/280/oj?locale=pt), os valores-limite para as descargas de hexaclorobenzeno, hexaclorobutadieno, 1,2 - dicloroetano, tricloroetileno e triclorobenzeno nas águas referidas no artigo 1.º da Directiva [76/464/CEE](http://data.europa.eu/eli/dir/1976/464/oj?locale=pt) do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (ver nota 146), não são aplicáveis na Roménia, até 31 de Dezembro de 2009, às seguintes instalações industriais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 146) JO L 129 de 18.5.1976, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva [2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho (JO L 327 de 22.12.2000, p. 1).
 
@@ -8690,11 +8770,11 @@ A Roménia deve garantir a conformidade com os requisitos da directiva de acordo
 
 Localidades conformes até 31 de Dezembro de 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Localidades conformes até ao final de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 D. POLUIÇÃO INDUSTRIAL E GESTÃO DE RISCOS
 
@@ -8706,35 +8786,35 @@ Em derrogação do n.º 1 do artigo 5.º da Directiva [96/61/CE](http://data.eur
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2014:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2015:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Antes de 30 de Outubro de 2007, devem ser emitidas licenças totalmente coordenadas para essas instalações, com calendários individualmente vinculativos para a consecução da plena conformidade. Essas licenças devem garantir, até 30 de Outubro de 2007, a conformidade com os princípios gerais das obrigações fundamentais dos operadores enunciados no artigo 3.º da Directiva.
 
@@ -8756,23 +8836,23 @@ S.C. ELECTROCENTRALE DEVA SA n.º 1, 4 caldeiras eléctricas x 264 MWth
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de dióxido de enxofre provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -8788,27 +8868,27 @@ b) Em derrogação do n.º 3 do artigo 4.º e da Parte A do Anexo VI da Directiv
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2012:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de óxido de azoto provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -8824,15 +8904,15 @@ c) Em derrogação do n.º 3 do artigo 4.º e da Parte A do Anexo VII da Directi
 
 Até 31 de Dezembro de 2008:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2009:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Até 31 de Dezembro de 2011:
 
@@ -8852,7 +8932,7 @@ S.C. CET GOVORA SA n.º 2, 2 caldeiras x 285 MWth
 
 Até 31 de Dezembro de 2013:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 Durante este período transitório, as emissões de poeiras provenientes de todas as instalações de combustão que cumpram o disposto na Directiva [2001/80/CE](http://data.europa.eu/eli/dir/2001/80/oj?locale=pt) não devem exceder os seguintes limites máximos intermédios:
 
@@ -8886,25 +8966,29 @@ Durante este período transitório, as emissões de óxido de azoto provenientes
 
 e) A Roménia deve apresentar à Comissão, até 1 de Janeiro de 2011, um plano actualizado, que inclua um plano de investimentos, para o progressivo alinhamento das restantes instalações não conformes, com fases claramente definidas para a aplicação do acervo. Esses planos devem garantir uma nova redução das emissões para um nível significativamente inferior ao dos objectivos intermédios especificados nas alíneas a) a d) supra, em especial no que se refere às emissões relativas a 2012. Se, tendo especialmente em conta os efeitos ambientais e a necessidade de reduzir as distorções de concorrência no mercado interno decorrentes das medidas transitórias, a Comissão considerar que os planos supramencionados não são suficientes para cumprir estes objectivos, informará do facto a Roménia. Nos três meses seguintes, a Roménia comunicará as medidas que tiver tomado para cumprir os referidos objectivos. Se, posteriormente, em consulta com os Estados-Membros, a Comissão considerar que essas medidas não são suficientes para alcançar aqueles objectivos, dará início a um processo por infracção ao abrigo do artigo 226.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
-## Apêndice A ao ANEXO VII
+Apêndice A ao ANEXO VII
 
 Reestruturação da indústria siderúrgica romena
 
 (a que se refere o Anexo VII, Capítulo 4, Secção B)
 
-# PARTE I
+PARTE I
 
 EMPRESAS QUE BENEFICIAM DE AUXÍLIOS ESTATAIS NO ÂMBITO DO PROGRAMA DE REESTRUTURAÇÃO DA INDÚSTRIA SIDERÚRGICA DA ROMÉNIA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-# PARTE II — CALENDÁRIO E DESCRIÇÃO DAS ALTERAÇÕES DE CAPACIDADE (ver nota 147)
+PARTE II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+CALENDÁRIO E DESCRIÇÃO DAS ALTERAÇÕES DE CAPACIDADE (ver nota 147)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 (nota 147) As reduções de capacidade devem ser definitivas, nos termos da Decisão n.º [3010/91/CECA](http://data.europa.eu/eli/dec/2010/91/oj?locale=pt) da Comissão, de 15 de Outubro de 1991 (JO L 286 de 16.10.1991, p. 20).
 
-# PARTE III — ÍNDICES DE REFERÊNCIA DA REESTRUTURAÇÃO
+PARTE III
+
+ÍNDICES DE REFERÊNCIA DA REESTRUTURAÇÃO
 
 1. Viabilidade
 
@@ -8918,7 +9002,9 @@ Deverá ser gradualmente alcançada, até 31 de Dezembro de 2008, uma produtivid
 
 Deve ser atribuída especial importância às reduções de custos, que constituem um dos elementos-chave da viabilidade. Essas reduções devem ser plenamente realizadas segundo os planos empresariais das empresas beneficiárias.
 
-# PARTE IV — LISTA INDICATIVA DAS INFORMAÇÕES EXIGIDAS
+PARTE IV
+
+LISTA INDICATIVA DAS INFORMAÇÕES EXIGIDAS
 
 1. Produção e efeitos no mercado
 
@@ -8984,17 +9070,19 @@ Deve ser atribuída especial importância às reduções de custos, que constitu
 
 8. Alterações na propriedade.
 
-## Apêndice B ao ANEXO VII
+Apêndice B ao ANEXO VII
 
 Lista de estabelecimentos de tratamento de carne, de carne de aves de capoeira e de leite e produtos lácteos a que se refere o Anexo VII, Capítulo 5, Secção B, Subsecção I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-## ANEXO VIII — Desenvolvimento rural
+ANEXO VIII
+
+Desenvolvimento rural
 
 (a que se refere o artigo 34.º do Acto de Adesão)
 
-#### SECÇÃO I: MEDIDAS TEMPORÁRIAS ADICIONAIS DE DESENVOLVIMENTO RURAL PARA A BULGÁRIA E A ROMÉNIA
+SECÇÃO I: MEDIDAS TEMPORÁRIAS ADICIONAIS DE DESENVOLVIMENTO RURAL PARA A BULGÁRIA E A ROMÉNIA
 
 A. Apoio às explorações de semi-subsistência em fase de reestruturação
 
@@ -9098,9 +9186,9 @@ d) Melhorias nos métodos de avaliação e intercâmbio de informações sobre a
 
 G. Quadro dos montantes destinados às medidas temporárias adicionais de desenvolvimento rural para a Bulgária e a Roménia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
-#### SECÇÃO II: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO AOS INVESTIMENTOS NA BULGÁRIA E NA ROMÉNIA
+SECÇÃO II: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO AOS INVESTIMENTOS NA BULGÁRIA E NA ROMÉNIA
 
 1) O apoio aos investimentos nas explorações agrícolas ao abrigo dos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão será concedido às explorações agrícolas cuja viabilidade económica possa ser demonstrada no termo da realização do investimento.
 
@@ -9108,7 +9196,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 3) O apoio aos investimentos destinados a melhorar a transformação e a comercialização de produtos agrícolas ao abrigo do regulamento pertinente relativo ao desenvolvimento rural em vigor à data da adesão será concedido às empresas que tenham beneficiado de um período de transição após a adesão, a fim de cumprirem as normas mínimas relativas ao ambiente, higiene e bem-estar dos animais. Neste caso, as empresas deverão estar em conformidade com as normas pertinentes até ao final do período de transição especificado ou até ao final do período de investimento, consoante o que ocorrer em primeiro lugar.
 
-#### SECÇÃO III: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO À REFORMA ANTECIPADA NA BULGÁRIA
+SECÇÃO III: DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO APOIO À REFORMA ANTECIPADA NA BULGÁRIA
 
 1) Os agricultores da Bulgária aos quais tenha sido atribuída uma quota leiteira poderão beneficiar do regime de reforma antecipada desde que tenham menos de 70 anos de idade no momento da cessão.
 
@@ -9116,7 +9204,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 3) As quotas leiteiras atribuídas a um cedente reverterão a favor da reserva nacional de quotas leiteiras sem pagamento compensatório suplementar.
 
-#### SECÇÃO IV: DISPOSIÇÕES FINANCEIRAS ESPECÍFICAS PARA A BULGÁRIA E A ROMÉNIA NO PERÍODO DE 2007 A 2013
+SECÇÃO IV: DISPOSIÇÕES FINANCEIRAS ESPECÍFICAS PARA A BULGÁRIA E A ROMÉNIA NO PERÍODO DE 2007 A 2013
 
 1) Relativamente ao período de programação de 2007 a 2013, o apoio comunitário concedido na Bulgária e na Roménia a todas as medidas de desenvolvimento rural será executado de acordo com os princípios estabelecidos nos artigos 31.º e 32.º do Regulamento (CE) n.º [1260/1999](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt) do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os Fundos Estruturais (ver nota 151).
 
@@ -9124,7 +9212,7 @@ G. Quadro dos montantes destinados às medidas temporárias adicionais de desenv
 
 2) Nas zonas abrangidas pelo objectivo n.º 1, a contribuição financeira da Comunidade pode elevar-se a 85% para as medidas agro-ambientais e as relativas ao bem-estar dos animais, e a 80% para as outras medidas, ou às percentagens estabelecidas nos regulamentos relativos ao desenvolvimento rural em vigor à data da adesão, consoante o que for mais elevado.
 
-## ANEXO IX
+ANEXO IX
 
 Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004.
 
@@ -9182,21 +9270,21 @@ IV. Os textos a seguir enumerados, que vêm anexos ao Protocolo de Adesão:
 
 A. Anexo I: Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no momento da adesão (a que se refere o n.º 3 do artigo 3.º do Protocolo)
 
-## Anexo II: Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Protocolo)
+Anexo II: Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Protocolo)
 
-## Anexo III: Lista a que se refere o artigo 16.º do Protocolo: adaptações dos actos adoptados pelas instituições
+Anexo III: Lista a que se refere o artigo 16.º do Protocolo: adaptações dos actos adoptados pelas instituições
 
-## Anexo IV: Lista a que se refere o artigo 17.º do Protocolo: adaptações suplementares dos actos adoptados pelas instituições
+Anexo IV: Lista a que se refere o artigo 17.º do Protocolo: adaptações suplementares dos actos adoptados pelas instituições
 
-## Anexo V: Lista a que se refere o artigo 18.º do Protocolo: outras disposições permanentes
+Anexo V: Lista a que se refere o artigo 18.º do Protocolo: outras disposições permanentes
 
-## Anexo VI: Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Bulgária
+Anexo VI: Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Bulgária
 
-## Anexo VII: Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Roménia
+Anexo VII: Lista a que se refere o artigo 20.º do Protocolo: medidas transitórias - Roménia
 
-## Anexo VIII: Desenvolvimento rural (a que se refere o artigo 34.º do Protocolo)
+Anexo VIII: Desenvolvimento rural (a que se refere o artigo 34.º do Protocolo)
 
-## Anexo IX: Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004 (a que se refere o artigo 39.º do Protocolo);
+Anexo IX: Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004 (a que se refere o artigo 39.º do Protocolo);
 
 B. os textos do Tratado que institui a Comunidade Europeia da Energia Atómica e dos Tratados que os alteraram ou completaram, nas línguas búlgara e romena.
 
@@ -9206,21 +9294,21 @@ VI. Os textos a seguir enumerados, que vêm anexos ao Acto de Adesão:
 
 A. Anexo I: Lista de convenções e protocolos a que a Bulgária e a Roménia aderem no momento da adesão (a que se refere o n.º 3 do artigo 3.º do Acto de Adesão)
 
-## Anexo II: Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Acto de Adesão)
+Anexo II: Lista das disposições do acervo de Schengen integrado no âmbito da União Europeia e dos actos nele baseados ou de algum modo com ele relacionados que vinculam os novos Estados-Membros e são aplicáveis nesses Estados a partir da data da adesão (a que se refere o n.º 1 do artigo 4.º do Acto de Adesão)
 
-## Anexo III: Lista a que se refere o artigo 19.º do Acto de Adesão: adaptações dos actos adoptados pelas instituições
+Anexo III: Lista a que se refere o artigo 19.º do Acto de Adesão: adaptações dos actos adoptados pelas instituições
 
-## Anexo IV: Lista a que se refere o artigo 20.º do Acto de Adesão: adaptações suplementares dos actos adoptados pelas instituições
+Anexo IV: Lista a que se refere o artigo 20.º do Acto de Adesão: adaptações suplementares dos actos adoptados pelas instituições
 
-## Anexo V: Lista a que se refere o artigo 21.º do Acto de Adesão: outras disposições permanentes
+Anexo V: Lista a que se refere o artigo 21.º do Acto de Adesão: outras disposições permanentes
 
-## Anexo VI: Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Bulgária
+Anexo VI: Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Bulgária
 
-## Anexo VII: Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Roménia
+Anexo VII: Lista a que se refere o artigo 23.º do Acto de Adesão: medidas transitórias - Roménia
 
-## Anexo VIII: Desenvolvimento rural (a que se refere o artigo 34.º do Acto de Adesão)
+Anexo VIII: Desenvolvimento rural (a que se refere o artigo 34.º do Acto de Adesão)
 
-## Anexo IX: Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004 (a que se refere o artigo 39.º do Acto de Adesão);
+Anexo IX: Compromissos específicos assumidos e requisitos aceites pela Roménia aquando da conclusão das negociações de adesão em 14 de Dezembro de 2004 (a que se refere o artigo 39.º do Acto de Adesão);
 
 B. os textos do Tratado da União Europeia, do Tratado que institui a Comunidade Europeia e do Tratado que institui a Comunidade Europeia da Energia Atómica, bem como dos Tratados que os alteraram ou completaram, designadamente o Tratado relativo à adesão do Reino da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte, o Tratado relativo à adesão da República Helénica, o Tratado relativo à adesão do Reino de Espanha e da República Portuguesa, o Tratado relativo à adesão da República da Áustria, da República da Finlândia e do Reino da Suécia e o Tratado relativo à adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca, nas línguas búlgara e romena.
 
@@ -9254,7 +9342,7 @@ D. Declaração da República da Bulgária
 
 5. Os Plenipotenciários tomaram nota da Troca de Cartas entre a União Europeia e a República da Bulgária e a Roménia sobre um procedimento de informação e de consulta para a adopção de certas decisões e outras medidas a tomar durante o período que precede a adesão, que vai anexa à presente Acta Final.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 II. DECLARAÇÕES
 
@@ -9276,7 +9364,7 @@ A União Europeia salienta os fortes princípios de diferenciação e flexibilid
 
 No que diz respeito às dotações de autorizações para o desenvolvimento rural provenientes do FEOGA - Secção Garantia - para a Bulgária e a Roménia durante o período trienal de 2007-2009 referido no n.º 2 do artigo 34.º do Protocolo de Adesão e no n.º 2 do artigo 34.º do Acto de Adesão, a União observa que se podem prever as seguintes dotações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14401/00020183.pdf)
 
 As dotações afectadas ao desenvolvimento rural da Bulgária e da Roménia, ultrapassado o período trienal de 2007-2009, basear-se-ão na aplicação das regras existentes ou nas regras decorrentes de reformas das políticas que entretanto se tenham verificado.
 
@@ -9332,7 +9420,7 @@ Tenho a honra de confirmar o acordo do Governo do meu país quanto ao teor da pr
 
 Apresento a V. Exa. os protestos da minha mais elevada consideração.
 
-## ANEXO
+ANEXO
 
 Procedimento de informação e de consulta para a adopção de certas decisões e outras medidas a tomar durante o período que precede a adesão.
 

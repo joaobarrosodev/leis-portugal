@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/57/1999/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/57-1999-375451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T11:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a8c1c70209c2cfa95e61e2a14cdb8ec35ec89ddb9dc030734b31950a69b79e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8862bd101714086bf1d75b5df2f9e3c406d893811a330b1dba01a730943d43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,30 @@ reuse:
 subjects:
 - Budapeste
 - Convenção
-- Portugal
-- Política de Defesa
+- Cooperação Militar
+- Forças Armadas
 - Hungria
 - Ministério da Defesa
+- Política de Defesa
+- Portugal
 - Segurança Internacional
-- Forças Armadas
-- Cooperação Militar
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:375450:por
+  label: "Ratificada a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.165/99.1999.07.10.PR DR.IS-A [159]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/165-1999-375450
+  date: '1999-07-10'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:06:04Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 12 de Março de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE COOPERAÇÃO EM MATÉRIA DE DEFESA ENTRE O MINISTÉRIO DA DEFESA NACIONAL DA REPÚBLICA PORTUGUESA E O MINISTÉRIO DA DEFESA DA REPÚBLICA DA HUNGRIA.
 
@@ -206,11 +212,11 @@ Feito em Budapeste, em 7 de Outubro de 1996, em três versões autênticas, nas 
 
 Em caso de divergências de interpretação, prevalecerá a versão inglesa.
 
-**O Ministro da Defesa Nacional da República Portuguesa:**
+O Ministro da Defesa Nacional da República Portuguesa:
 
 António Manuel de Carvalho Ferreira Vitorino.
 
-**O Ministro da Defesa da República da Hungria:**
+O Ministro da Defesa da República da Hungria:
 
 Keleti György.
 

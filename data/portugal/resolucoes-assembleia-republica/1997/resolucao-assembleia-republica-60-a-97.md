@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 227/1997, 1º Suplemento, Série I-A de 1997-10-01
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5382-(2) a 5382-(139)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/60-a/1997/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-a-1997-522192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a79bf0c188d8519e4e2455bbdf7e47b6af8d874701f559d5cd2c4192bb4a037c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e99333290a094f8653ed10adfc8d3595ab7c20115e5cd4e5d93287c83a74de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - CE Países
 - Comunidades Europeias
 - Convenção
-- Cooperação Financeira
-- Portugal
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Livre Circulação de Mercadorias
-- Marrocos
 - Cooperação Cultural
 - Cooperação Económica
-- Bruxelas
+- Cooperação Financeira
+- Direito de Estabelecimento
+- Livre Circulação de Mercadorias
+- Livre Prestação de Serviços
+- Marrocos
+- Portugal
 relationships:
+- type: amended_by
+  target: pt:dre:522193:por
+  label: "Ratificado o Acordo de Associação, aprovado para ratificação, pelo presente diploma, pelo Dec 64-C/97.1997.10.01.PR,\
+    \ DR.IS-A [227]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/64-c-1997-522193
+  date: '1997-10-01'
 - type: cites
   target: celex:31962R0026
   label: null
@@ -91,16 +97,21 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:404745:por
+  label: Rectificado o Acordo pelo AV.117/2002.2002.11.28.MNE DR.IS-A [299] de 27/Dez/2002
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/117-2002-404745
+  date: '2002-11-28'
 article_structure:
   article_count: 162
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:55Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +124,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 10 de Abril de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO EURO-MEDITERRÂNICO QUE CRIA UMA ASSOCIAÇÃO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS, POR UM LADO, E O REINO DE MARROCOS, POR OUTRO.
 
@@ -1069,31 +1080,31 @@ O presente Acordo entra em vigor no 1.º dia do 2.º mês seguinte à data em qu
 
 2 - A partir da sua entrada em vigor, o presente Acordo substitui o Acordo de Cooperação entre a Comunidade Europeia e o Reino de Marrocos, bem como o Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e o Reino de Marrocos, assinados em Rabat, em 25 de Abril de 1976.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 1 — Produtos referidos no n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 2 — Produtos referidos no n.º 2 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 3 — Produtos referidos no n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 4 — Produtos referidos no n.º 3 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 5 — Produtos referidos no n.º 1 do artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 6 — Produtos referidos no n.º 2 do artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO N.º 7 — Relativo à propriedade intelectual, industrial e comercial
 
@@ -1165,7 +1176,7 @@ b) Se o preço de entrada de um lote for inferior a 92% do preço de entrada con
 
 a) No período de 1 de Outubro a 31 de Março e relativamente a uma quantidade acordada de 150676 t, escalonadas por mês da forma a seguir indicada, os preços de entrada convencionais a partir dos quais os direitos específicos são reduzidos a zero situar-se-ão aos níveis seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 b) Durante o período de 1 de Novembro de 31 de Março:
 
@@ -1185,9 +1196,9 @@ b) Marrocos notificará mensalmente os serviços da Comissão das quantidades ex
 
 Em relação aos produtos adiante indicados, os preços de entrada convencionais a partir dos quais os direitos específicos serão reduzidas a zero são, dentro dos limites e quantidades fixados, iguais aos preços seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE DE PRODUTOS DA PESCA ORIGINÁRIOS DE MARROCOS.
 
@@ -1195,7 +1206,7 @@ PROTOCOLO N.º 2, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO NA COMUNIDADE DE
 
 A importação na Comunidade dos produtos originários de Marrocos, adiante enumerados, está isenta de direitos aduaneiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ###### Artigo 2.º
 
@@ -1225,7 +1236,7 @@ PROTOCOLO N.º 3, RELATIVO AO REGIME APLICÁVEL À IMPORTAÇÃO EM MARROCOS DE P
 
 Os direitos aduaneiros aplicáveis à importação em Marrocos dos produtos originários da Comunidade enunciados em anexo não serão superiores aos indicados na coluna A dentro dos limites dos contingentes pautais indicados na coluna B.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 PROTOCOLO N.º 4, RELATIVO À DEFINIÇÃO DA NOÇÃO DE «PRODUTOS ORIGINÁRIOS» E AOS MÉTODOS DE COOPERAÇÃO ADMINISTRATIVA.
 
@@ -1499,7 +1510,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 4 - Os certificados de circulação EUR.1 emitidos a posteriori devem conter uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 5 - As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
@@ -1509,7 +1520,7 @@ b) Se apresentar às autoridades aduaneiras prova suficiente de que foi emitido 
 
 2 - A segunda via assim emitida deve conter as seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 3 - As menções referidas no n.º 2, a data de emissão e o número de ordem do certificado original devem ser inscritos na casa «Observações» da segunda via do certificado de circulação EUR.1.
 
@@ -1537,7 +1548,7 @@ b) Conter a marca aposta pelo exportador autorizado, de um carimbo especial apro
 
 4 - Nos casos referidos na alínea a) do n.º 3, será inscrita na casa 7, «Observações», do certificado de circulação EUR.1 uma das seguintes menções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 5 - A casa 11, «Visto da alfândega», do certificado EUR.1 deve ser preenchida, se necessário, pelo exportador autorizado.
 
@@ -1951,7 +1962,7 @@ o) (Apenas no que respeita aos óleos pesados da posição ex 2710, excluídos o
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir o carácter de produto originário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO III — Certificados de circulação de mercadorias EUR.1
 
@@ -1961,21 +1972,21 @@ Lista das operações de complemento de fabrico ou de transformação a efectuar
 
 3 - As autoridades competentes dos Estados membros da Comunidade e de Marrocos reservam-se o direito de proceder à impressão dos certificados ou de a confiar a tipografias por elas autorizadas. Neste caso, cada certificado deve incluir uma referência a essa autorização. Além disso, o certificado deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação. Deve igualmente conter um número de ordem, impresso ou não, destinado a individualizá-lo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO IV — Declaração prevista no artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO V — Espécime do cunho do carimbo referido no n.º 3, alínea b), do artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 ## ANEXO VI — MODELO DA DECLARAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
-## ANEXO VII — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+## ANEXO VII — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
 
 Declaração comum relativa ao artigo 1.º do Protocolo n.º 4
 
@@ -2497,4 +2508,4 @@ Marrocos manifesta o desejo de que, no âmbito da cooperação em matéria de in
 
 A Parte Marroquina solicita que os interesses de Marrocos sejam tidos em consideração em função das concessões e das vantagens que sejam concedidas a outros países terceiros mediterrânicos no âmbito dos futuros acordos a concluir entre esses países e a Comunidade Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf))](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/227a01/00020139.pdf)

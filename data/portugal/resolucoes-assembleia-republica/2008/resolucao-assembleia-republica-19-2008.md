@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/19/2008/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-2008-249264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T11:20:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c089a4acc401a7abaaa985adff67167edcbce26654a6ce7270b1e1728a82b4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08480de110644a2bff700d238785925f8362405e5ffddc154bf84121d663a1ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:20:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Comunidade Europeia
 - Convenção
-- Portugal
 - Lisboa
+- Portugal
 - Tratado CEE
 - Tratado da União Europeia
 - Tratado de Lisboa
@@ -78,6 +78,42 @@ relationships:
   target: pt:dre:278058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249265:por
+  label: "Ratificado o Tratado de Lisboa pelo DEC.31/2008.19.05.2008.PR, DR.IS [96] de 19.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/31-2008-249265
+  date: '2008-05-19'
+- type: amended_by
+  target: pt:dre:453857:por
+  label: "Tornada pública a Segunda Acta de Rectificação do Tratado de Lisboa, aprovado pelo presente diploma, pelo AV.185/2008.15.09.2008.MNE,\
+    \ DR.IS [178] de 15.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/185-2008-453857
+  date: '2008-09-15'
+- type: amended_by
+  target: pt:dre:617097:por
+  label: "Tornada Público a Terceira Acta de Rectificação do Tratado de Lisboa Que Altera o Tratado da União Europeia e o\
+    \ Tratado Que Institui a Comunidade Europeia, pelo AV.22/2010.08.02.2010.MNE, DR.IS [26] de 08.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/22-2010-617097
+  date: '2010-02-08'
+- type: amended_by
+  target: pt:dre:614842:por
+  label: "Tornada Pública a Quarta Acta de Rectificação do Tratado de Lisboa que altera o Tratado da União Europeia e o Tratado\
+    \ que institui a Comunidade Europeia, pelo AV.70/2010.20.05.2010.MNE, DR.IS [98] de 20.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/70-2010-614842
+  date: '2010-05-20'
+- type: amended_by
+  target: pt:dre:278058:por
+  label: "Aprovado o Protocolo Que Altera o Protocolo Relativo às Disposições Transitórias, Anexo ao Tratado da União Europeia,\
+    \ ao Tratado sobre o Funcionamento da União Europeia e ao Tratado que Institui a Comunidade Europeia da Energia Atómica,\
+    \ pela RES.78/2011.05.04.2011.AR, DR.IS [67] de 05.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/78-2011-278058
+  date: '2011-04-05'
+- type: amended_by
+  target: pt:dre:544387:por
+  label: "Tornada pública a Quinta Ata de Retificação do Tratado de Lisboa, aprovado para ratificação pela presente resolução,\
+    \ ratificado pelo Dec 31/2008, de 19-Mai, pelo AV.1/2012.17.01.2012.MNE, DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1-2012-544387
+  date: '2012-01-17'
 - type: cites
   target: celex:31995L0046
   label: null
@@ -90,16 +126,23 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:75367961:por
+  label: Tornada pública a Sétima Ata de Retificação do Tratado de Lisboa aprovado para ratificação pela presente Resolução,
+    e ratificado pelo Dec. 31/2008 de 19-mai PR, pelo(a) Aviso n.º 102/2016 - Diário da República n.º 183/2016, Série I de
+    2016-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/102-2016-75367961
+  date: '2016-09-22'
 article_structure:
-  article_count: 153
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 62
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:20:19Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +155,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 23 de Abril de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 TRATADO DE LISBOA QUE ALTERA O TRATADO DA UNIÃO EUROPEIA E O TRATADO QUE INSTITUI A COMUNIDADE EUROPEIA
 
@@ -130,13 +173,13 @@ Guy Verhofstadt, Primeiro-Ministro;
 
 Karel de Gucht, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Bulgária:**
+O Presidente da República da Bulgária:
 
 Sergei Stanishev, Primeiro-Ministro;
 
 Ivailo Kalfin, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Checa:**
+O Presidente da República Checa:
 
 Mirek Topolánek, Primeiro-Ministro;
 
@@ -146,27 +189,27 @@ Sua Majestade a Rainha da Dinamarca:
 
 Anders Fogh Rasmussen, Primeiro-Ministro;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
-**O Presidente da República Federal da Alemanha:**
+O Presidente da República Federal da Alemanha:
 
 Dr.ª Angela Merkel, Chanceler Federal;
 
 Dr. Frank-Walter Steinmeier, Ministro Federal dos Negócios Estrangeiros e Vice-Chanceler;
 
-**O Presidente da República da Estónia:**
+O Presidente da República da Estónia:
 
 Andrus Ansip, Primeiro-Ministro;
 
 Urmas Paet, Ministro dos Negócios Estrangeiros;
 
-**A Presidente da Irlanda:**
+A Presidente da Irlanda:
 
 Bertie Ahern, Primeiro-Ministro (Taoiseach);
 
 Dermot Ahern, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Helénica:**
+O Presidente da República Helénica:
 
 Konstantinos Karamanlis, Primeiro-Ministro;
 
@@ -178,7 +221,7 @@ José Luis Rodríguez Zapatero, Presidente do Governo;
 
 Miguel Ángel Moratinos Cuyaubé, Ministro dos Negócios Estrangeiros e da Cooperação;
 
-**O Presidente da República Francesa:**
+O Presidente da República Francesa:
 
 Nicolas Sarkozy, Presidente;
 
@@ -186,31 +229,31 @@ François Fillon, Primeiro-Ministro;
 
 Bernard Kouchner, Ministro dos Negócios Estrangeiros e dos Assuntos Europeus;
 
-**O Presidente da República Italiana:**
+O Presidente da República Italiana:
 
 Romano Prodi, Presidente do Conselho de Ministros;
 
 Massimo d'Alema, Vice-Presidente do Conselho de Ministros e Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República de Chipre:**
+O Presidente da República de Chipre:
 
 Tassos Papadopoulos, Presidente;
 
 Erato Kozakou-Marcoullis, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Letónia:**
+O Presidente da República da Letónia:
 
 Valdis Zatlers, Presidente;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
-**O Presidente da República da Lituânia:**
+O Presidente da República da Lituânia:
 
 Valdas Adamkus, Presidente;
 
 Gediminas Kirkilas, Primeiro-Ministro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 Sua Alteza Real o Grão-Duque do Luxemburgo:
 
@@ -218,13 +261,13 @@ Jean-Claude Juncker, Primeiro-Ministro, Ministro de Estado;
 
 Jean Asselborn, Ministro dos Negócios Estrangeiros e da Imigração;
 
-**O Presidente da República da Hungria:**
+O Presidente da República da Hungria:
 
 Ferenc Gyurcsány, Primeiro-Ministro;
 
 Dr. Kinga Göncz, Ministra dos Negócios Estrangeiros;
 
-**O Presidente de Malta:**
+O Presidente de Malta:
 
 The Hon Lawrence Gonzi, Primeiro-Ministro;
 
@@ -236,43 +279,43 @@ Dr. J. P. Balkenende, Primeiro-Ministro;
 
 M. J. M. Verhagen, Ministro dos Negócios Estrangeiros;
 
-**O Presidente Federal da República da Áustria:**
+O Presidente Federal da República da Áustria:
 
 Dr. Alfred Gusenbauer, Chanceler Federal;
 
 Dr. Ursula Plassnik, Ministra Federal dos Assuntos Europeus e Internacionais;
 
-**O Presidente da República da Polónia:**
+O Presidente da República da Polónia:
 
 Donald Tusk, Primeiro-Ministro;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
-**O Presidente da República Portuguesa:**
+O Presidente da República Portuguesa:
 
 José Sócrates Carvalho Pinto de Sousa, Primeiro-Ministro;
 
 Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros;
 
-**O Presidente da Roménia:**
+O Presidente da Roménia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 Adrian Cioroianu, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República da Eslovénia:**
+O Presidente da República da Eslovénia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 Dr. Dimitrij Rupel, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República Eslovaca:**
+O Presidente da República Eslovaca:
 
 Robert Fico, Primeiro-Ministro;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
-**A Presidente da República da Finlândia:**
+A Presidente da República da Finlândia:
 
 Matti Vanhanen, Primeiro-Ministro;
 
@@ -426,11 +469,11 @@ Princípios democráticos
 
 Disposições relativas aos princípios democráticos
 
-###### Artigo 8.º
+Artigo 8.º
 
 Em todas as suas actividades, a União respeita o princípio da igualdade dos seus cidadãos, que beneficiam de igual atenção por parte das suas instituições, órgãos e organismos. É cidadão da União qualquer pessoa que tenha a nacionalidade de um Estado-Membro. A cidadania da União acresce à cidadania nacional, não a substituindo.
 
-###### Artigo 8.º-A
+Artigo 8.º-A
 
 1 - O funcionamento da União baseia-se na democracia representativa.
 
@@ -442,7 +485,7 @@ Os Estados-Membros estão representados no Conselho Europeu pelo respectivo Chef
 
 4 - Os partidos políticos ao nível europeu contribuem para a criação de uma consciência política europeia e para a expressão da vontade dos cidadãos da União.
 
-###### Artigo 8.º-B
+Artigo 8.º-B
 
 1 - As instituições, recorrendo aos meios adequados, dão aos cidadãos e às associações representativas a possibilidade de expressarem e partilharem publicamente os seus pontos de vista sobre todos os domínios de acção da União.
 
@@ -454,7 +497,7 @@ Os Estados-Membros estão representados no Conselho Europeu pelo respectivo Chef
 
 Os procedimentos e condições para a apresentação de tal iniciativa são estabelecidos nos termos do primeiro parágrafo do artigo 24.º do Tratado sobre o Funcionamento da União Europeia.
 
-###### Artigo 8.º-C
+Artigo 8.º-C
 
 Os Parlamentos nacionais contribuem activamente para o bom funcionamento da União:
 
@@ -544,9 +587,9 @@ c) Actua no sentido de facilitar a coesão e o consenso no âmbito do Conselho E
 
 d) Apresenta um relatório ao Parlamento Europeu após cada uma das reuniões do Conselho Europeu.
 
-**O Presidente do Conselho Europeu assegura, ao seu nível e nessa qualidade, a representação externa da União nas matérias do âmbito da política externa e de segurança comum, sem prejuízo das atribuições do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança.**
+O Presidente do Conselho Europeu assegura, ao seu nível e nessa qualidade, a representação externa da União nas matérias do âmbito da política externa e de segurança comum, sem prejuízo das atribuições do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança.
 
-**O Presidente do Conselho Europeu não pode exercer qualquer mandato nacional.»**
+O Presidente do Conselho Europeu não pode exercer qualquer mandato nacional.»
 
 17) É inserido o artigo 9.º-C:
 
@@ -612,7 +655,7 @@ Qualquer membro da Comissão apresentará a sua demissão se o Presidente lho pe
 
 O Conselho, de comum acordo com o Presidente eleito, adopta a lista das demais personalidades que tenciona nomear membros da Comissão. Essas personalidades são escolhidas, com base nas sugestões apresentadas por cada Estado-Membro, segundo os critérios definidos no segundo parágrafo do n.º 3 e no segundo parágrafo do n.º 5.
 
-**O Presidente, o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança e os demais membros da Comissão são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Com base nessa aprovação, a Comissão é nomeada pelo Conselho Europeu, deliberando por maioria qualificada.**
+O Presidente, o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança e os demais membros da Comissão são colegialmente sujeitos a um voto de aprovação do Parlamento Europeu. Com base nessa aprovação, a Comissão é nomeada pelo Conselho Europeu, deliberando por maioria qualificada.
 
 8 - A Comissão, enquanto colégio, é responsável perante o Parlamento Europeu. O Parlamento Europeu pode votar uma moção de censura à Comissão em conformidade com o artigo 201.º do Tratado sobre o Funcionamento da União Europeia. Caso tal moção seja adoptada, os membros da Comissão devem demitir-se colectivamente das suas funções e o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança deve demitir-se das funções que exerce na Comissão.»
 
@@ -678,7 +721,7 @@ Disposições gerais relativas à acção externa
 
 Disposições gerais relativas à acção externa da União
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 1 - A acção da União na cena internacional assenta nos princípios que presidiram à sua criação, desenvolvimento e alargamento, e que é seu objectivo promover em todo o mundo: democracia, Estado de Direito, universalidade e indivisibilidade dos direitos do Homem e das liberdades fundamentais, respeito pela dignidade humana, princípios da igualdade e solidariedade e respeito pelos princípios da Carta das Nações Unidas e do direito internacional.
 
@@ -706,7 +749,7 @@ h) Promover um sistema internacional baseado numa cooperação multilateral refo
 
 A União vela pela coerência entre os diferentes domínios da sua acção externa e entre estes e as suas outras políticas. O Conselho e a Comissão, assistidos pelo Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, asseguram essa coerência e cooperam para o efeito.
 
-###### Artigo 10.º-B
+Artigo 10.º-B
 
 1 - Com base nos princípios e objectivos enunciados no artigo 10.º-A, o Conselho Europeu identifica os interesses e objectivos estratégicos da União.
 
@@ -724,7 +767,7 @@ Política externa e de segurança comum
 
 Disposições específicas relativas à política externa e de segurança comum
 
-#### SECÇÃO 1
+SECÇÃO 1
 
 Disposições comuns»
 
@@ -916,7 +959,7 @@ c) No terceiro parágrafo, são suprimidos os termos «Sem prejuízo do disposto
 
 Em conformidade com o artigo 16.º-B do Tratado sobre o Funcionamento da União Europeia e em derrogação do n.º 2 do mesmo artigo, o Conselho adopta uma decisão que estabeleça as normas relativas à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelos Estados-Membros no exercício de actividades relativas à aplicação do presente capítulo, e à livre circulação desses dados. A observância dessas normas fica sujeita ao controlo de autoridades independentes.
 
-###### Artigo 25.º-B
+Artigo 25.º-B
 
 A execução da política externa e de segurança comum não afecta a aplicação dos procedimentos e o âmbito respectivo das atribuições das instituições previstos nos Tratados para o exercício das competências da União enumeradas nos artigos 2.º-B a 2.º-E do Tratado sobre o Funcionamento da União Europeia.
 
@@ -996,13 +1039,13 @@ Os compromissos e a cooperação neste domínio respeitam os compromissos assumi
 
 2 - O Conselho adopta decisões relativas às missões referidas no n.º 1, definindo o seu objectivo e âmbito, bem como as respectivas regras gerais de execução. O Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, sob a autoridade do Conselho e em estreito e permanente contacto com o Comité Político e de Segurança, vela pela coordenação dos aspectos civis e militares dessas missões.
 
-###### Artigo 28.º-C
+Artigo 28.º-C
 
 1 - No quadro das decisões adoptadas em conformidade com o artigo 28.º-B, o Conselho pode confiar a execução de uma missão a um grupo de Estados-Membros que o desejem e que disponham das capacidades necessárias para tal missão. Estes Estados-Membros, em associação com o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, acordam entre si na gestão da missão.
 
 2 - Os Estados-Membros que participem na realização da missão informam periodicamente o Conselho acerca da fase em que esta se encontra, por iniciativa própria ou a pedido de outro Estado-Membro. Os Estados-Membros participantes comunicam imediatamente ao Conselho quaisquer consequências importantes que a sua realização acarrete ou quaisquer alterações que se imponham quanto ao objectivo, ao âmbito ou às regras da missão, definidos pelas decisões a que se refere o n.º 1. Nestes casos, o Conselho adoptará as decisões necessárias.
 
-###### Artigo 28.º-D
+Artigo 28.º-D
 
 1 - A Agência Europeia de Defesa, referida no n.º 3 do artigo 28.º-A, e colocada sob a autoridade do Conselho, tem por missão:
 
@@ -1018,7 +1061,7 @@ e) Contribuir para identificar e, se for caso disso, executar todas as medidas �
 
 2 - A Agência Europeia de Defesa está aberta a todos os Estados-Membros que nela desejem participar. O Conselho, deliberando por maioria qualificada, adopta uma decisão que defina o estatuto, a sede e as regras de funcionamento da Agência. Essa decisão tem em conta o grau de participação efectiva nas actividades da Agência. No quadro da Agência são constituídos grupos específicos compostos por Estados-Membros que desenvolvam projectos conjuntos. A Agência cumpre as suas missões em articulação com a Comissão, na medida do necessário.
 
-###### Artigo 28.º-E
+Artigo 28.º-E
 
 1 - Os Estados-Membros que desejem participar na cooperação estruturada permanente a que se refere o n.º 6 do artigo 28.º-A, e que preencham os critérios e subscrevam os compromissos em matéria de capacidades militares previstos no Protocolo relativo à cooperação estruturada permanente, notificam a sua intenção ao Conselho e ao Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança.
 
@@ -1338,7 +1381,7 @@ Categorias e domínios de competências
 
 As categorias e os domínios de competências da União
 
-###### Artigo 2.º-A
+Artigo 2.º-A
 
 1 - Quando os Tratados atribuam à União competência exclusiva em determinado domínio, só a União pode legislar e adoptar actos juridicamente vinculativos; os próprios Estados-Membros só podem fazê-lo se habilitados pela União ou a fim de dar execução aos actos da União.
 
@@ -1354,7 +1397,7 @@ Os actos juridicamente vinculativos da União adoptados com fundamento nas dispo
 
 6 - A extensão e as regras de exercício das competências da União são determinadas pelas disposições dos Tratados relativas a cada domínio.
 
-###### Artigo 2.º-B
+Artigo 2.º-B
 
 1 - A União dispõe de competência exclusiva nos seguintes domínios:
 
@@ -1370,7 +1413,7 @@ e) Política comercial comum.
 
 2 - A União dispõe igualmente de competência exclusiva para celebrar acordos internacionais quando tal celebração esteja prevista num acto legislativo da União, seja necessária para lhe dar a possibilidade de exercer a sua competência interna, ou seja susceptível de afectar regras comuns ou de alterar o alcance das mesmas.
 
-###### Artigo 2.º-C
+Artigo 2.º-C
 
 1 - A União dispõe de competência partilhada com os Estados-Membros quando os Tratados lhe atribuam competência em domínios não contemplados nos artigos 2.º-B e 2.º-E.
 
@@ -1402,7 +1445,7 @@ k) Problemas comuns de segurança em matéria de saúde pública, no que se refe
 
 4 - Nos domínios da cooperação para o desenvolvimento e da ajuda humanitária, a União dispõe de competência para desenvolver acções e uma política comum, sem que o exercício dessa competência possa impedir os Estados-Membros de exercerem a sua.
 
-###### Artigo 2.º-D
+Artigo 2.º-D
 
 1 - Os Estados-Membros coordenam as suas políticas económicas no âmbito da União. Para tal, o Conselho adopta medidas, nomeadamente as orientações gerais dessas políticas.
 
@@ -1412,7 +1455,7 @@ Aos Estados-Membros cuja moeda seja o euro são aplicáveis disposições espec�
 
 3 - A União pode tomar iniciativas para garantir a coordenação das políticas sociais dos Estados-Membros.
 
-###### Artigo 2.º-E
+Artigo 2.º-E
 
 A União dispõe de competência para desenvolver acções destinadas a apoiar, coordenar ou completar a acção dos Estados-Membros. São os seguintes os domínios dessas acções, na sua finalidade europeia:
 
@@ -1438,7 +1481,7 @@ Disposições de aplicação geral
 
 Disposições de aplicação geral
 
-###### Artigo 2.º-F
+Artigo 2.º-F
 
 A União assegura a coerência entre as suas diferentes políticas e acções, tendo em conta o conjunto dos seus objectivos e de acordo com o princípio da atribuição de competências.»
 
@@ -1682,15 +1725,15 @@ Espaço de liberdade, segurança e justiça
 
 63) O Título IV, sobre vistos, asilo, imigração e outras políticas relativas à livre circulação de pessoas, é substituído por um Título IV denominado «O espaço de liberdade, segurança e justiça». Deste título constam os seguintes capítulos:
 
-### Capítulo 1: Disposições gerais;
+Capítulo 1: Disposições gerais;
 
-### Capítulo 2: Políticas relativas aos controlos nas fronteiras, ao asilo e à imigração;
+Capítulo 2: Políticas relativas aos controlos nas fronteiras, ao asilo e à imigração;
 
-### Capítulo 3: Cooperação judiciária em matéria civil;
+Capítulo 3: Cooperação judiciária em matéria civil;
 
-### Capítulo 4: Cooperação judiciária em matéria penal;
+Capítulo 4: Cooperação judiciária em matéria penal;
 
-### Capítulo 5: Cooperação policial.
+Capítulo 5: Cooperação policial.
 
 Disposições gerais
 
@@ -1700,7 +1743,7 @@ Disposições gerais
 
 Disposições gerais
 
-###### Artigo 61.º
+Artigo 61.º
 
 1 - A União constitui um espaço de liberdade, segurança e justiça, no respeito dos direitos fundamentais e dos diferentes sistemas e tradições jurídicos dos Estados-Membros.
 
@@ -1710,35 +1753,35 @@ Disposições gerais
 
 4 - A União facilita o acesso à justiça, nomeadamente através do princípio do reconhecimento mútuo das decisões judiciais e extrajudiciais em matéria civil.
 
-###### Artigo 61.º-A
+Artigo 61.º-A
 
 O Conselho Europeu define as orientações estratégicas da programação legislativa e operacional no espaço de liberdade, segurança e justiça.
 
-###### Artigo 61.º-B
+Artigo 61.º-B
 
 No tocante às propostas e iniciativas legislativas apresentadas no âmbito dos Capítulos 4 e 5, os Parlamentos nacionais velam pela observância do princípio da subsidiariedade, em conformidade com o Protocolo relativo à aplicação dos princípios da subsidiariedade e da proporcionalidade.
 
-###### Artigo 61.º-C
+Artigo 61.º-C
 
 Sem prejuízo dos artigos 226.º, 227.º e 228.º, o Conselho, sob proposta da Comissão, pode adoptar medidas que estabeleçam as regras através das quais os Estados-Membros, em colaboração com a Comissão, procedem a uma avaliação objectiva e imparcial da execução, por parte das autoridades dos Estados-Membros, das políticas da União referidas no presente título, especialmente para incentivar a aplicação plena do princípio do reconhecimento mútuo. O Parlamento Europeu e os Parlamentos nacionais são informados do teor e dos resultados dessa avaliação.
 
-###### Artigo 61.º-D
+Artigo 61.º-D
 
 É criado no Conselho um Comité Permanente a fim de assegurar na União a promoção e o reforço da cooperação operacional em matéria de segurança interna. Sem prejuízo do artigo 207.º, o Comité Permanente fomenta a coordenação da acção das autoridades competentes dos Estados-Membros. Os representantes dos órgãos e organismos pertinentes da União podem ser associados aos trabalhos do Comité. O Parlamento Europeu e os Parlamentos nacionais são periodicamente informados desses trabalhos.
 
-###### Artigo 61.º-E
+Artigo 61.º-E
 
 O presente título não prejudica o exercício das responsabilidades que incumbem aos Estados-Membros em matéria de manutenção da ordem pública e de garantia da segurança interna.
 
-###### Artigo 61.º-F
+Artigo 61.º-F
 
 Os Estados-Membros são livres de organizar entre si e sob a sua responsabilidade formas de cooperação e de coordenação, conforme considerarem adequado, entre os serviços competentes das respectivas administrações responsáveis pela garantia da segurança nacional.
 
-###### Artigo 61.º-G
+Artigo 61.º-G
 
 O Conselho adopta medidas destinadas a assegurar a cooperação administrativa entre os serviços competentes dos Estados-Membros nos domínios abrangidos pelo presente título, bem como entre esses serviços e a Comissão. O Conselho delibera sob proposta da Comissão, sob reserva do artigo 61.º-I, e após consulta ao Parlamento Europeu.
 
-###### Artigo 61.º-H
+Artigo 61.º-H
 
 Sempre que seja necessário para realizar os objectivos enunciados no artigo 61.º no que respeita à prevenção do terrorismo e das actividades com ele relacionadas, bem como à luta contra esses fenómenos, o Parlamento Europeu e o Conselho, por meio de regulamentos adoptados de acordo com o processo legislativo ordinário, definem um quadro de medidas administrativas relativas aos movimentos de capitais e aos pagamentos, como o congelamento de fundos, activos financeiros ou ganhos económicos que pertençam a pessoas singulares ou colectivas, a grupos ou a entidades não estatais, ou de que estes sejam proprietários ou detentores.
 
@@ -1746,7 +1789,7 @@ O Conselho, sob proposta da Comissão, adopta medidas para dar execução ao qua
 
 Os actos referidos no presente artigo compreendem as disposições necessárias em matéria de garantias jurídicas.
 
-###### Artigo 61.º-I
+Artigo 61.º-I
 
 Os actos a que se referem os Capítulos 4 e 5, bem como as medidas a que se refere o artigo 61.º-G que asseguram a cooperação administrativa nos domínios mencionados naqueles capítulos, são adoptados:
 
@@ -1762,7 +1805,7 @@ Controlos nas fronteiras, asilo e imigração
 
 Políticas relativas aos controlos nas fronteiras, ao asilo e à imigração
 
-###### Artigo 62.º
+Artigo 62.º
 
 1 - A União desenvolve uma política que visa:
 
@@ -1788,7 +1831,7 @@ e) À ausência de quaisquer controlos de pessoas, independentemente da sua naci
 
 4 - O presente artigo não afecta a competência dos Estados-Membros no que respeita à definição geográfica das respectivas fronteiras, de acordo com o direito internacional.
 
-###### Artigo 63.º
+Artigo 63.º
 
 1 - A União desenvolve uma política comum em matéria de asilo, de protecção subsidiária e de protecção temporária, destinada a conceder um estatuto adequado a qualquer nacional de um país terceiro que necessite de protecção internacional e a garantir a observância do princípio da não repulsão. Esta política deve estar em conformidade com a Convenção de Genebra, de 28 de Julho de 1951, e o Protocolo, de 31 de Janeiro de 1967, relativos ao Estatuto dos Refugiados, e com os outros tratados pertinentes.
 
@@ -1810,7 +1853,7 @@ g) A parceria e a cooperação com países terceiros, para a gestão dos fluxos 
 
 3 - No caso de um ou mais Estados-Membros serem confrontados com uma situação de emergência, caracterizada por um súbito fluxo de nacionais de países terceiros, o Conselho, sob proposta da Comissão, pode adoptar medidas provisórias a favor desse ou desses Estados-Membros. O Conselho delibera após consulta ao Parlamento Europeu.
 
-###### Artigo 63.º-A
+Artigo 63.º-A
 
 1 - A União desenvolve uma política comum de imigração destinada a garantir, em todas as fases, uma gestão eficaz dos fluxos migratórios, um tratamento equitativo dos nacionais de países terceiros que residam legalmente nos Estados-Membros, bem como a prevenção da imigração ilegal e do tráfico de seres humanos e o reforço do combate a estes fenómenos.
 
@@ -1830,7 +1873,7 @@ d) Combate ao tráfico de seres humanos, em especial de mulheres e de crianças.
 
 5 - O presente artigo não afecta o direito de os Estados-Membros determinarem os volumes de admissão de nacionais de países terceiros, provenientes de países terceiros, no respectivo território, para aí procurarem trabalho, assalariado ou não assalariado.
 
-###### Artigo 63.º-B
+Artigo 63.º-B
 
 As políticas da União referidas no presente capítulo e a sua execução são regidas pelo princípio da solidariedade e da partilha equitativa de responsabilidades entre os Estados-Membros, inclusive no plano financeiro. Sempre que necessário, os actos da União adoptados por força do presente capítulo conterão medidas adequadas para a aplicação desse princípio.»
 
@@ -1842,7 +1885,7 @@ Cooperação judiciária em matéria civil
 
 Cooperação judiciária em matéria civil
 
-###### Artigo 65.º
+Artigo 65.º
 
 1 - A União desenvolve uma cooperação judiciária nas matérias civis com incidência transfronteiriça, assente no princípio do reconhecimento mútuo das decisões judiciais e extrajudiciais. Essa cooperação pode incluir a adopção de medidas de aproximação das disposições legislativas e regulamentares dos Estados-Membros.
 
@@ -1878,7 +1921,7 @@ Cooperação judiciária em matéria penal
 
 Cooperação judiciária em matéria penal
 
-###### Artigo 69.º-A
+Artigo 69.º-A
 
 1 - A cooperação judiciária em matéria penal na União assenta no princípio do reconhecimento mútuo das sentenças e decisões judiciais e inclui a aproximação das disposições legislativas e regulamentares dos Estados-Membros nos domínios a que se referem o n.º 2 e o artigo 69.º-B.
 
@@ -1910,7 +1953,7 @@ A adopção das regras mínimas referidas no presente número não impede os Est
 
 No mesmo prazo, em caso de desacordo, e se pelo menos nove Estados-Membros pretenderem instituir uma cooperação reforçada com base no projecto de directiva em questão, esses Estados-Membros notificam o Parlamento Europeu, o Conselho e a Comissão em conformidade. Nesse caso, considera-se que foi concedida a autorização para proceder à cooperação reforçada referida no n.º 2 do artigo 10.º do Tratado da União Europeia e no n.º 1 do artigo 280.º-D do presente Tratado, e aplicam-se as disposições relativas à cooperação reforçada.
 
-###### Artigo 69.º-B
+Artigo 69.º-B
 
 1 - O Parlamento Europeu e o Conselho, por meio de directivas adoptadas de acordo com o processo legislativo ordinário, podem estabelecer regras mínimas relativas à definição das infracções penais e das sanções em domínios de criminalidade particularmente grave com dimensão transfronteiriça que resulte da natureza ou das incidências dessas infracções, ou ainda da especial necessidade de as combater, assente em bases comuns.
 
@@ -1924,11 +1967,11 @@ Consoante a evolução da criminalidade, o Conselho pode adoptar uma decisão qu
 
 No mesmo prazo, em caso de desacordo, e se pelo menos nove Estados-Membros pretenderem instituir uma cooperação reforçada com base no projecto de directiva em questão, esses Estados-Membros notificam o Parlamento Europeu, o Conselho e a Comissão em conformidade. Nesse caso, considera-se que foi concedida a autorização para proceder à cooperação reforçada referida no n.º 2 do artigo 10.º do Tratado da União Europeia e no n.º 1 do artigo 280.º-D do presente Tratado, e aplicam-se as disposições relativas à cooperação reforçada.
 
-###### Artigo 69.º-C
+Artigo 69.º-C
 
 O Parlamento Europeu e o Conselho, deliberando de acordo com o processo legislativo ordinário, podem estabelecer medidas para incentivar e apoiar a acção dos Estados-Membros no domínio da prevenção da criminalidade, com exclusão de qualquer harmonização das disposições legislativas e regulamentares dos Estados-Membros.
 
-###### Artigo 69.º-D
+Artigo 69.º-D
 
 1 - A Eurojust tem por missão apoiar e reforçar a coordenação e a cooperação entre as autoridades nacionais competentes para a investigação e o exercício da acção penal em matéria de criminalidade grave que afecte dois ou mais Estados-Membros ou que exija o exercício de uma acção penal assente em bases comuns, com base nas operações conduzidas e nas informações transmitidas pelas autoridades dos Estados-Membros e pela Europol.
 
@@ -1944,7 +1987,7 @@ Esses regulamentos definem igualmente as modalidades de associação do Parlamen
 
 2 - No âmbito do exercício das acções penais a que se refere o n.º 1 e sem prejuízo do artigo 69.º-E, os actos oficiais de procedimento judicial são executados pelos agentes nacionais competentes.
 
-###### Artigo 69.º-E
+Artigo 69.º-E
 
 1 - A fim de combater as infracções lesivas dos interesses financeiros da União, o Conselho, por meio de regulamentos adoptados de acordo com um processo legislativo especial, pode instituir uma Procuradoria Europeia a partir da Eurojust. O Conselho delibera por unanimidade, após aprovação do Parlamento Europeu.
 
@@ -1966,7 +2009,7 @@ Cooperação policial
 
 Cooperação policial
 
-###### Artigo 69.º-F
+Artigo 69.º-F
 
 1 - A União desenvolve uma cooperação policial que associa todas as autoridades competentes dos Estados-Membros, incluindo os serviços de polícia, das alfândegas e outros serviços responsáveis pela aplicação da lei especializados nos domínios da prevenção ou detecção de infracções penais e das investigações nessa matéria.
 
@@ -1986,7 +2029,7 @@ No mesmo prazo, em caso de desacordo, e se pelo menos nove Estados-Membros prete
 
 O processo específico previsto nos segundo e terceiro parágrafos não se aplica a actos que constituam um desenvolvimento do acervo de Schengen.
 
-###### Artigo 69.º-G
+Artigo 69.º-G
 
 1 - A Europol tem por missão apoiar e reforçar a acção das autoridades policiais e dos outros serviços responsáveis pela aplicação da lei dos Estados-Membros, bem como a cooperação entre essas autoridades na prevenção das formas graves de criminalidade que afectem dois ou mais Estados-Membros, do terrorismo e das formas de criminalidade lesivas de um interesse comum que seja objecto de uma política da União, bem como no combate contra esses fenómenos.
 
@@ -2000,7 +2043,7 @@ Esses regulamentos definem igualmente as modalidades de controlo das actividades
 
 3 - As acções operacionais da Europol devem ser conduzidas em articulação e com o acordo das autoridades do Estado-Membro ou dos Estados-Membros cujo território seja afectado. A aplicação de medidas coercivas releva exclusivamente das autoridades nacionais competentes.
 
-###### Artigo 69.º-H
+Artigo 69.º-H
 
 O Conselho, deliberando de acordo com um processo legislativo especial, define as condições e os limites dentro dos quais as autoridades competentes dos Estados-Membros a que se referem os artigos 69.º-A e 69.º-F podem intervir no território de outro Estado-Membro, em articulação e de acordo com as autoridades desse Estado. O Conselho delibera por unanimidade, após consulta ao Parlamento Europeu.»
 
@@ -2210,7 +2253,7 @@ Disposições específicas para os Estados-Membros cuja moeda seja o euro
 
 Disposições específicas para os Estados-Membros cuja moeda seja o euro
 
-###### Artigo 115.º-A
+Artigo 115.º-A
 
 1 - A fim de contribuir para o bom funcionamento da união económica e monetária e de acordo com as disposições pertinentes dos Tratados, o Conselho, de acordo com o procedimento pertinente de entre os previstos nos artigos 99.º e 104.º, com excepção do procedimento referido no n.º 14 do artigo 104.º, adopta medidas específicas para os Estados-Membros cuja moeda seja o euro, com o objectivo de:
 
@@ -2222,11 +2265,11 @@ b) Elaborar, no que lhes diz respeito, as orientações de política económica,
 
 A maioria qualificada dos referidos membros é definida nos termos da alínea a) do n.º 3 do artigo 205.º
 
-###### Artigo 115.º-B
+Artigo 115.º-B
 
 As regras a que obedecem as reuniões entre os ministros dos Estados-Membros cuja moeda seja o euro são definidas pelo Protocolo relativo ao Eurogrupo.
 
-###### Artigo 115.º-C
+Artigo 115.º-C
 
 1 - A fim de garantir a posição do euro no sistema monetário internacional, o Conselho, sob proposta da Comissão, adopta uma decisão que estabelece as posições comuns sobre as matérias que se revistam de especial interesse para a união económica e monetária nas instituições e conferências financeiras internacionais competentes. O Conselho delibera após consulta ao Banco Central Europeu.
 
@@ -2590,7 +2633,7 @@ Energia
 
 A energia
 
-###### Artigo 176.º-A
+Artigo 176.º-A
 
 1 - No âmbito do estabelecimento ou do funcionamento do mercado interno e tendo em conta a exigência de preservação e melhoria do ambiente, a política da União no domínio da energia tem por objectivos, num espírito de solidariedade entre os Estados-Membros:
 
@@ -2616,7 +2659,7 @@ Turismo
 
 O turismo
 
-###### Artigo 176.º-B
+Artigo 176.º-B
 
 1 - A União completa a acção dos Estados-Membros no sector do turismo, nomeadamente através da promoção da competitividade das empresas da União neste sector.
 
@@ -2636,7 +2679,7 @@ Protecção civil
 
 A protecção civil
 
-###### Artigo 176.º-C
+Artigo 176.º-C
 
 1 - A União incentiva a cooperação entre os Estados-Membros a fim de reforçar a eficácia dos sistemas de prevenção das catástrofes naturais ou de origem humana e de protecção contra as mesmas.
 
@@ -2658,7 +2701,7 @@ Cooperação administrativa
 
 A cooperação administrativa
 
-###### Artigo 176.º-D
+Artigo 176.º-D
 
 1 - A execução efectiva do direito da União pelos Estados-Membros, essencial para o bom funcionamento da União, é considerada matéria de interesse comum.
 
@@ -2678,25 +2721,25 @@ Acção externa da União
 
 154) É inserida a nova Parte V. Essa Parte denomina-se «A acção externa da União» e contém os seguintes títulos e capítulos:
 
-## Título I: Disposições gerais relativas à acção externa da União;
+Título I: Disposições gerais relativas à acção externa da União;
 
-## Título II: A política comercial comum;
+Título II: A política comercial comum;
 
-## Título III: A cooperação com os países terceiros e a ajuda humanitária:
+Título III: A cooperação com os países terceiros e a ajuda humanitária:
 
-### Capítulo 1: A cooperação para o desenvolvimento;
+Capítulo 1: A cooperação para o desenvolvimento;
 
-### Capítulo 2: A cooperação económica, financeira e técnica com os países terceiros;
+Capítulo 2: A cooperação económica, financeira e técnica com os países terceiros;
 
-### Capítulo 3: A ajuda humanitária;
+Capítulo 3: A ajuda humanitária;
 
-## Título IV: As medidas restritivas;
+Título IV: As medidas restritivas;
 
-## Título V: Os acordos internacionais;
+Título V: Os acordos internacionais;
 
-## Título VI: Relações da União com as organizações internacionais e os países terceiros e delegações da União;
+Título VI: Relações da União com as organizações internacionais e os países terceiros e delegações da União;
 
-## Título VII: Cláusula de solidariedade.
+Título VII: Cláusula de solidariedade.
 
 Disposições gerais
 
@@ -2706,7 +2749,7 @@ Disposições gerais
 
 Disposições gerais relativas à acção externa da União
 
-###### Artigo 188.º-A
+Artigo 188.º-A
 
 A acção da União na cena internacional ao abrigo da presente Parte assenta nos princípios, prossegue os objectivos e é conduzida em conformidade com as disposições gerais enunciadas no Capítulo 1 do Título V do Tratado da União Europeia.»
 
@@ -2816,7 +2859,7 @@ Ajuda humanitária
 
 A ajuda humanitária
 
-###### Artigo 188.º-J
+Artigo 188.º-J
 
 1 - As acções da União no domínio da ajuda humanitária são desenvolvidas de acordo com os princípios e objectivos da acção externa da União. Essas acções têm por objectivo, pontualmente, prestar assistência, socorro e protecção às populações dos países terceiros vítimas de catástrofes naturais ou de origem humana, de modo a fazer face às necessidades humanitárias resultantes dessas diferentes situações. As acções da União e dos Estados-Membros completam-se e reforçam-se mutuamente.
 
@@ -2842,7 +2885,7 @@ Medidas restritivas
 
 As medidas restritivas
 
-###### Artigo 188.º-K
+Artigo 188.º-K
 
 1 - Quando uma decisão, adoptada em conformidade com o Capítulo 2 do Título V do Tratado da União Europeia, determine a interrupção ou a redução, total ou parcial, das relações económicas e financeiras com um ou mais países terceiros, o Conselho, deliberando por maioria qualificada, sob proposta conjunta do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança e da Comissão, adopta as medidas que se revelarem necessárias. O Conselho informa o Parlamento Europeu desse facto.
 
@@ -2932,7 +2975,7 @@ Relações da União com as organizações internacionais e os países terceiros
 
 Relações da União com as organizações internacionais e os países terceiros e delegações da União
 
-###### Artigo 188.º-P
+Artigo 188.º-P
 
 1 - A União estabelece toda a cooperação útil com os órgãos das Nações Unidas e das suas agências especializadas, o Conselho da Europa, a Organização para a Segurança e a Cooperação na Europa e a Organização de Cooperação e de Desenvolvimento Económicos.
 
@@ -2940,7 +2983,7 @@ Além disso, a União assegura com outras organizações internacionais as liga�
 
 2 - A aplicação do presente artigo cabe ao Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança e à Comissão.
 
-###### Artigo 188.º-Q
+Artigo 188.º-Q
 
 1 - A representação da União é assegurada pelas delegações da União nos países terceiros e junto das organizações internacionais.
 
@@ -2954,7 +2997,7 @@ Cláusula de solidariedade
 
 Cláusula de solidariedade
 
-###### Artigo 188.º-R
+Artigo 188.º-R
 
 1 - A União e os seus Estados-Membros actuarão em conjunto, num espírito de solidariedade, se um Estado-Membro for alvo de um ataque terrorista ou vítima de uma catástrofe natural ou de origem humana. A União mobiliza todos os instrumentos ao seu dispor, incluindo os meios militares disponibilizados pelos Estados-Membros, para:
 
@@ -3050,7 +3093,7 @@ Conselho Europeu
 
 O Conselho Europeu
 
-###### Artigo 201.º-A
+Artigo 201.º-A
 
 1 - Em caso de votação, cada membro do Conselho Europeu só pode representar, por delegação, um dos outros membros.
 
@@ -3064,7 +3107,7 @@ A abstenção dos membros presentes ou representados não obsta à adopção das
 
 4 - O Conselho Europeu é assistido pelo Secretariado-Geral do Conselho.
 
-###### Artigo 201.º-B
+Artigo 201.º-B
 
 O Conselho Europeu adopta por maioria qualificada:
 
@@ -3258,7 +3301,7 @@ O Tribunal de Justiça da União Europeia não dispõe de competência no que di
 
 Todavia, o Tribunal é competente para controlar a observância do artigo 25.º-B do Tratado da União Europeia e para se pronunciar sobre os recursos interpostos nas condições do quarto parágrafo do artigo 230.º do presente Tratado, relativos à fiscalização da legalidade das decisões que estabeleçam medidas restritivas contra pessoas singulares ou colectivas, adoptadas pelo Conselho com base no Capítulo 2 do Título V do Tratado da União Europeia.
 
-###### Artigo 240.º-B
+Artigo 240.º-B
 
 No exercício das suas atribuições relativamente às disposições dos Capítulos 4 e 5 do Título IV da Parte III, relativas ao espaço de liberdade, segurança e justiça, o Tribunal de Justiça da União Europeia não é competente para fiscalizar a validade ou a proporcionalidade de operações efectuadas pelos serviços de polícia ou outros serviços responsáveis pela aplicação da lei num Estado-Membro, nem para decidir sobre o exercício das responsabilidades que incumbem aos Estados-Membros em matéria de manutenção da ordem pública e de garantia da segurança interna.»
 
@@ -3282,7 +3325,7 @@ Banco Central Europeu
 
 O Banco Central Europeu
 
-###### Artigo 245.º-A
+Artigo 245.º-A
 
 1 - O Banco Central Europeu e os bancos centrais nacionais constituem o Sistema Europeu de Bancos Centrais (adiante designado 'SEBC'). O Banco Central Europeu e os bancos centrais nacionais dos Estados-Membros cuja moeda seja o euro, que constituem o Eurossistema, conduzem a política monetária da União.
 
@@ -3350,7 +3393,7 @@ b) O quarto parágrafo passa a ter a seguinte redacção:
 
 4 - Nos casos específicos previstos pelos Tratados, os actos legislativos podem ser adoptados por iniciativa de um grupo de Estados-Membros ou do Parlamento Europeu, por recomendação do Banco Central Europeu ou a pedido do Tribunal de Justiça ou do Banco Europeu de Investimento.
 
-###### Artigo 249.º-B
+Artigo 249.º-B
 
 1 - Um acto legislativo pode delegar na Comissão o poder de adoptar actos não legislativos de alcance geral que completem ou alterem certos elementos não essenciais do acto legislativo.
 
@@ -3366,7 +3409,7 @@ Para efeitos das alíneas a) e b), o Parlamento Europeu delibera por maioria dos
 
 3 - No título dos actos delegados é inserido o adjectivo 'delegado' ou 'delegada'.
 
-###### Artigo 249.º-C
+Artigo 249.º-C
 
 1 - Os Estados-Membros tomam todas as medidas de direito interno necessárias à execução dos actos juridicamente vinculativos da União.
 
@@ -3376,7 +3419,7 @@ Para efeitos das alíneas a) e b), o Parlamento Europeu delibera por maioria dos
 
 4 - No título dos actos de execução é inserida a expressão 'de execução'.
 
-###### Artigo 249.º-D
+Artigo 249.º-D
 
 O Conselho adopta recomendações. Delibera sob proposta da Comissão em todos os casos em que os Tratados determinem que o Conselho adopte actos sob proposta da Comissão. O Conselho delibera por unanimidade nos domínios em que esta é exigida para a adopção de um acto da União. A Comissão, bem como o Banco Central Europeu nos casos específicos previstos pelos Tratados, adoptam recomendações.»
 
@@ -3494,7 +3537,7 @@ As outras directivas e as decisões que indiquem um destinatário são notificad
 
 Os órgãos consultivos da União
 
-###### Artigo 256.º-A
+Artigo 256.º-A
 
 1 - O Parlamento Europeu, o Conselho e a Comissão são assistidos por um Comité Económico e Social e por um Comité das Regiões, que exercem funções consultivas.
 
@@ -3612,7 +3655,7 @@ Quadro financeiro plurianual
 
 O quadro financeiro plurianual
 
-###### Artigo 270.º-A
+Artigo 270.º-A
 
 1 - O quadro financeiro plurianual destina-se a garantir que as despesas da União sigam uma evolução ordenada dentro dos limites dos seus recursos próprios.
 
@@ -3752,7 +3795,7 @@ b) No n.º 2, são suprimidos os termos «por unanimidade,» e os termos «parec
 
 O Parlamento Europeu, o Conselho e a Comissão velam pela disponibilidade dos meios financeiros necessários para permitir que a União cumpra as suas obrigações jurídicas para com terceiros.
 
-###### Artigo 279.º-B
+Artigo 279.º-B
 
 Por iniciativa da Comissão, são convocados encontros regulares entre os Presidentes do Parlamento Europeu, do Conselho e da Comissão, no quadro dos procedimentos orçamentais referidos no presente capítulo. Os Presidentes tomam todas as medidas necessárias para promover a concertação e a aproximação das posições das instituições a que presidem, a fim de facilitar a aplicação das disposições do presente título.»
 
@@ -3778,11 +3821,11 @@ As cooperações reforçadas respeitam os Tratados e o direito da União.
 
 Tais cooperações não podem prejudicar o mercado interno, nem a coesão económica, social e territorial. Não podem constituir uma restrição, nem uma discriminação ao comércio entre os Estados-Membros, nem provocar distorções de concorrência entre eles.
 
-###### Artigo 280.º-B
+Artigo 280.º-B
 
 As cooperações reforçadas respeitam as competências, direitos e deveres dos Estados-Membros não participantes. Estes não dificultam a sua execução por parte dos Estados-Membros participantes.
 
-###### Artigo 280.º-C
+Artigo 280.º-C
 
 1 - Aquando da sua instituição, as cooperações reforçadas estão abertas a todos os Estados-Membros, desde que sejam respeitadas as eventuais condições de participação fixadas pela decisão de autorização. Estão também abertas a qualquer outro momento, desde que sejam respeitados, para além das referidas condições, os actos já adoptados nesse âmbito.
 
@@ -3790,7 +3833,7 @@ A Comissão e os Estados-Membros participantes numa cooperação reforçada asse
 
 2 - A Comissão e, se for caso disso, o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança informam periodicamente o Parlamento Europeu e o Conselho da evolução das cooperações reforçadas.
 
-###### Artigo 280.º-D
+Artigo 280.º-D
 
 1 - Os Estados-Membros que pretendam instituir entre si uma cooperação reforçada num dos domínios referidos nos Tratados, com excepção dos domínios de competência exclusiva e da política externa e de segurança comum, devem dirigir um pedido nesse sentido à Comissão, especificando o âmbito de aplicação e os objectivos prosseguidos pela cooperação reforçada prevista. A Comissão pode apresentar ao Conselho uma proposta para o efeito. Caso não apresente uma proposta, a Comissão informa os referidos Estados-Membros das razões que a motivaram.
 
@@ -3800,7 +3843,7 @@ A autorização para dar início à cooperação reforçada a que se refere o pr
 
 A autorização para dar início à cooperação reforçada é concedida por decisão do Conselho, deliberando por unanimidade.
 
-###### Artigo 280.º-E
+Artigo 280.º-E
 
 Todos os membros do Conselho podem participar nas suas deliberações, mas só os membros do Conselho que representem os Estados-Membros participantes numa cooperação reforçada podem participar na votação.
 
@@ -3808,7 +3851,7 @@ A unanimidade é constituída exclusivamente pelos votos dos representantes dos 
 
 A maioria qualificada é definida nos termos do n.º 3 do artigo 205.º
 
-###### Artigo 280.º-F
+Artigo 280.º-F
 
 1 - Qualquer Estado-Membro que deseje participar numa cooperação reforçada em curso num dos domínios referidos no n.º 1 do artigo 280.º-D deve notificar a sua intenção ao Conselho e à Comissão.
 
@@ -3822,11 +3865,11 @@ O Conselho confirma a participação do Estado-Membro em questão, após consult
 
 Para efeitos do presente número, o Conselho delibera por unanimidade, nos termos do artigo 280.º-E.
 
-###### Artigo 280.º-G
+Artigo 280.º-G
 
 As despesas decorrentes da execução de uma cooperação reforçada que não sejam custos administrativos em que incorram as instituições ficam a cargo dos Estados-Membros participantes, salvo decisão em contrário do Conselho, deliberando por unanimidade de todos os membros que o compõem, após consulta ao Parlamento Europeu.
 
-###### Artigo 280.º-H
+Artigo 280.º-H
 
 1 - Sempre que uma disposição dos Tratados susceptível de ser aplicada no âmbito de uma cooperação reforçada determine que o Conselho delibera por unanimidade, este, deliberando por unanimidade nos termos do artigo 280.º-E, pode adoptar uma decisão que determine que deliberará por maioria qualificada.
 
@@ -3834,7 +3877,7 @@ As despesas decorrentes da execução de uma cooperação reforçada que não se
 
 3 - Os n.os 1 e 2 não se aplicam às decisões com implicações no domínio militar ou da defesa.
 
-###### Artigo 280.º-I
+Artigo 280.º-I
 
 O Conselho e a Comissão garantem a coerência das acções empreendidas no âmbito de uma cooperação reforçada, bem como a coerência dessas acções com as políticas da União, cooperando para o efeito.»
 
@@ -3972,7 +4015,7 @@ O presente Tratado, denominado Tratado de Lisboa, redigido num único exemplar, 
 
 Em fé do que, os plenipotenciários abaixo assinados apuseram as suas assinaturas no final do presente Tratado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 Protocolos
 
@@ -5476,27 +5519,27 @@ l) Ao Protocolo é aditado o novo Anexo com a seguinte redacção:
 
 «ANEXO
 
-###### Artigo 1.º
+Artigo 1.º
 
 Sob reserva do artigo 3.º, a Dinamarca não participa na adopção pelo Conselho das medidas propostas em aplicação do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia. É necessária a unanimidade dos membros do Conselho, com excepção do representante do Governo da Dinamarca, para os actos que o Conselho deva adoptar por unanimidade.
 
 Para efeitos do presente artigo, a maioria qualificada é definida nos termos do n.º 3 do artigo 205.º do Tratado sobre o Funcionamento da União Europeia.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Por força do artigo 1.º e sob reserva dos artigos 3.º, 4.º e 8.º, as disposições do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia, as medidas adoptadas em aplicação desse título, as disposições de acordos internacionais celebrados pela União em aplicação do mesmo título, e as decisões do Tribunal de Justiça da União Europeia que interpretem essas disposições ou medidas, não vinculam a Dinamarca, nem lhe são aplicáveis. Essas disposições, medidas ou decisões em nada afectam as competências, direitos e obrigações da Dinamarca. Essas disposições, medidas ou decisões em nada afectam o acervo comunitário ou o da União, e não fazem parte do direito da União, tal como se aplicam à Dinamarca.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - No prazo de três meses a contar da apresentação ao Conselho de uma proposta ou iniciativa ao abrigo do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia, a Dinamarca pode notificar por escrito ao Presidente do Conselho de que deseja participar na adopção e na aplicação da medida proposta, ficando assim habilitada a fazê-lo.
 
 2 - Se, decorrido um prazo razoável, não tiver sido possível adoptar a medida a que se refere o n.º 1 com a participação da Dinamarca, o Conselho pode adoptar essa medida nos termos do artigo 1.º, sem a participação da Dinamarca. Nesse caso, é aplicável o artigo 2.º
 
-###### Artigo 4.º
+Artigo 4.º
 
 Após a adopção de uma medida em aplicação do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia, a Dinamarca pode em qualquer altura notificar o Conselho e a Comissão da sua intenção de aceitar essa medida. Nesse caso, é aplicável, com as necessárias adaptações, o n.º 1 do artigo 280.º-F do referido Tratado.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - No que respeita à Dinamarca, as disposições do presente Protocolo aplicam-se também às medidas propostas ou adoptadas ao abrigo do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia e que alterem uma medida existente à qual esteja vinculada.
 
@@ -5510,7 +5553,7 @@ Para efeitos do presente número, o Conselho, após ter debatido exaustivamente 
 
 4 - O presente artigo não prejudica o disposto no artigo 4.º
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - No caso de uma medida que constitua um desenvolvimento do acervo de Schengen, a notificação a que se refere o artigo 4.º deve ser apresentada no prazo máximo de seis meses após a adopção definitiva da medida.
 
@@ -5518,15 +5561,15 @@ Se a Dinamarca não apresentar uma notificação de acordo com o disposto no art
 
 2 - As notificações efectuadas em aplicação do artigo 3.º relativamente a medidas que constituam um desenvolvimento do acervo de Schengen serão irrevogavelmente consideradas notificações efectuadas em aplicação do artigo 3.º no que respeita a qualquer outra proposta ou iniciativa que se destine a desenvolver essa medida, desde que essa proposta ou iniciativa constitua um desenvolvimento do acervo de Schengen.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Caso não esteja vinculada por regras da União que rejam formas de cooperação judiciária em matéria penal ou de cooperação policial no âmbito das quais devam ser observadas as disposições definidas com base no artigo 16.º-B do Tratado sobre o Funcionamento da União Europeia, a Dinamarca não fica vinculada por regras definidas com base no artigo 16.º-B que digam respeito ao tratamento de dados pessoais pelos Estados-Membros no exercício de actividades relativas à aplicação dos Capítulos 4 ou 5 do Título IV da Parte III do referido Tratado.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Sempre que, nos casos previstos na presente parte, a Dinamarca esteja vinculada por uma medida adoptada pelo Conselho em aplicação do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia, são aplicáveis a esse Estado-Membro, no que respeita à medida em questão, as disposições pertinentes dos Tratados.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Caso não esteja vinculada por uma medida adoptada em aplicação do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia, a Dinamarca não suportará as consequências financeiras dessa medida, com excepção dos custos administrativos dela decorrentes para as instituições, a não ser que o Conselho, deliberando por unanimidade de todos os seus membros, após consulta ao Parlamento Europeu, decida em contrário.»
 
@@ -5644,15 +5687,15 @@ Quadros de correspondência a que se refere o artigo 2.º do Protocolo n.º 1 qu
 
 A - Protocolo Relativo aos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 B - Protocolo Relativo aos Estatutos do Banco Europeu de Investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 C - Protocolo Relativo aos Privilégios e Imunidades da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 PROTOCOLO N.º 2
 
@@ -5684,7 +5727,7 @@ No início do Título III do Tratado CEEA é inserido o capítulo seguinte:
 
 Aplicação de determinadas disposições do Tratado da União Europeia e do Tratado sobre o Funcionamento da União Europeia
 
-###### Artigo 106.º-A
+Artigo 106.º-A
 
 1 - São aplicáveis ao presente Tratado os artigos 7.º, os artigos 9.º a 9.º-F, os n.os 2 a 5 do artigo 48.º e os artigos 49.º e 49.º-A do Tratado da União Europeia, o artigo 16.º-A, os artigos 190.º a 201.º-B, os artigos 204.º a 211.º-A, os artigos 215.º a 236.º, os artigos 238.º, 239.º e 240.º, os artigos 241.º a 245.º, os artigos 246.º a 262.º, os artigos 268.º a 277.º, os artigos 279.º a 280.º e os artigos 283.º, 290.º e 292.º do Tratado sobre o Funcionamento da União Europeia, bem como o Protocolo relativo às disposições transitórias.
 
@@ -5742,11 +5785,11 @@ São inscritas no orçamento da União as receitas e despesas da Comunidade Euro
 
 A - Tratado da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 B - Tratado sobre o Funcionamento da União Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 ACTA FINAL
 
@@ -5928,7 +5971,7 @@ A Conferência tomou ainda nota das declarações a seguir enumeradas, anexadas 
 
 65) Declaração do Reino Unido da Grã-Bretanha e da Irlanda do Norte ad artigo 61.º-H do Tratado sobre o Funcionamento da União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
 
 A - Declarações relativas a disposições dos Tratados
 
@@ -5974,9 +6017,11 @@ Considerando o seguinte:
 
 decide:
 
-#### SECÇÃO 1 — Disposições aplicáveis entre 1 de Novembro de 2014 e 31 de Março de 2017
+SECÇÃO 1
 
-###### Artigo 1.º
+Disposições aplicáveis entre 1 de Novembro de 2014 e 31 de Março de 2017
+
+Artigo 1.º
 
 Entre 1 de Novembro de 2014 e 31 de Março de 2017, se um conjunto de membros do Conselho que represente, pelo menos:
 
@@ -5986,17 +6031,19 @@ b) Três quartos do número de Estados-Membros;
 
 conforme necessário para constituir uma minoria de bloqueio em aplicação do primeiro parágrafo do n.º 4 do artigo 9.º-C do Tratado da União Europeia ou do n.º 2 do artigo 205.º do Tratado sobre o Funcionamento da União Europeia, declarar opor-se a que o Conselho adopte um acto por maioria qualificada, o Conselho debate a questão.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O Conselho, durante esses debates, faz tudo o que estiver ao seu alcance para, num prazo razoável e sem prejuízo dos prazos obrigatórios fixados pelo direito da União, chegar a uma solução satisfatória que vá ao encontro das preocupações manifestadas pelos membros do Conselho a que se refere o artigo 1.º
 
-###### Artigo 3.º
+Artigo 3.º
 
 Para o efeito, o Presidente do Conselho, assistido pela Comissão e no respeito do Regulamento Interno do Conselho, toma todas as iniciativas necessárias para facilitar a obtenção de uma base mais ampla de acordo no Conselho. Os membros do Conselho prestam-lhe o seu apoio.
 
-#### SECÇÃO 2 — Disposições aplicáveis a partir de 1 de Abril de 2017
+SECÇÃO 2
 
-###### Artigo 4.º
+Disposições aplicáveis a partir de 1 de Abril de 2017
+
+Artigo 4.º
 
 A partir de 1 de Abril de 2017, se um conjunto de membros do Conselho que represente, pelo menos:
 
@@ -6006,17 +6053,19 @@ b) 55 % do número de Estados-Membros;
 
 conforme necessário para constituir uma minoria de bloqueio em aplicação do primeiro parágrafo do n.º 4 do artigo 9.º-C do Tratado da União Europeia ou do n.º 2 do artigo 205.º do Tratado sobre o Funcionamento da União Europeia, declarar opor-se a que o Conselho adopte um acto por maioria qualificada, o Conselho debate a questão.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O Conselho, durante esses debates, faz tudo o que estiver ao seu alcance para, num prazo razoável e sem prejuízo dos prazos obrigatórios fixados pelo direito da União, chegar a uma solução satisfatória que vá ao encontro das preocupações manifestadas pelos membros do Conselho a que se refere o artigo 4.º
 
-###### Artigo 6.º
+Artigo 6.º
 
 Para o efeito, o Presidente do Conselho, assistido pela Comissão e no respeito do Regulamento Interno do Conselho, toma todas as iniciativas necessárias para facilitar a obtenção de uma base mais ampla de acordo no Conselho. Os membros do Conselho prestam-lhe o seu apoio.
 
-#### SECÇÃO 3 — Entrada em vigor
+SECÇÃO 3
 
-###### Artigo 7.º
+Entrada em vigor
+
+Artigo 7.º
 
 A presente decisão entra em vigor na data de entrada em vigor do Tratado de Lisboa.»
 
@@ -6030,13 +6079,13 @@ A Conferência declara que o Conselho deverá começar a preparar a decisão que
 
 «Projecto de decisão do Conselho Europeu relativa ao exercício da Presidência do Conselho
 
-###### Artigo 1.º
+Artigo 1.º
 
 1 - A Presidência do Conselho, com excepção da formação de Negócios Estrangeiros, é assegurada por grupos pré-determinados de três Estados-Membros durante um período de 18 meses. Estes grupos são formados com base num sistema de rotação igualitária dos Estados-Membros, tendo em conta a sua diversidade e os equilíbrios geográficos na União.
 
 2 - Cada membro do grupo preside sucessivamente, durante seis meses, a todas as formações do Conselho, com excepção da formação de Negócios Estrangeiros. Os outros membros do grupo apoiam a Presidência no exercício de todas as suas responsabilidades, com base num programa comum. Os membros da equipa podem acordar entre si outras formas de organização.
 
-###### Artigo 2.º
+Artigo 2.º
 
 O Comité de Representantes Permanentes dos Governos dos Estados-Membros é presidido por um representante do Estado-Membro que assegura a Presidência do Conselho dos Assuntos Gerais.
 
@@ -6044,11 +6093,11 @@ A Presidência do Comité Político e de Segurança é assegurada por um represe
 
 A Presidência dos órgãos preparatórios das diferentes formações do Conselho, com excepção da formação de Negócios Estrangeiros, é exercida pelo membro do grupo que preside à respectiva formação, salvo decisão em contrário adoptada nos termos do artigo 4.º
 
-###### Artigo 3.º
+Artigo 3.º
 
 O Conselho dos Assuntos Gerais, em cooperação com a Comissão, assegura a coerência e a continuidade dos trabalhos das diferentes formações do Conselho no quadro de uma programação plurianual. Os Estados-Membros que exercem a Presidência, assistidos pelo Secretariado-Geral do Conselho, tomam todas as disposições necessárias à organização e ao bom andamento dos trabalhos do Conselho.
 
-###### Artigo 4.º
+Artigo 4.º
 
 O Conselho adopta uma decisão que estabeleça as medidas de aplicação da presente decisão.»
 
@@ -6368,4 +6417,4 @@ O Reino Unido regista que o artigo 9.º-A do Tratado União Europeia e outras di
 
 O Reino Unido apoia inteiramente a tomada de medidas enérgicas no que respeita à adopção de sanções financeiras destinadas a prevenir e combater o terrorismo e actividades conexas. O Reino Unido declara, por conseguinte, que tenciona exercer o direito - que lhe cabe por força do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça - de participar na adopção de todas as propostas apresentadas ao abrigo do artigo 61.º-H do Tratado sobre o Funcionamento da União Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09600/0270302811.pdf)

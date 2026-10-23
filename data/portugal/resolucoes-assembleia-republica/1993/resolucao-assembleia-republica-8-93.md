@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/8/1993/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1993-692264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea8aee8aeb88a968c4bafc52740770ac54c118293f0ea9e101e60c34fb02c23b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d524a081736fb1285c72fc2f6bafbff03c0f45044d519f2b154528ad6ac0c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Estrasburgo
 - Cooperação Judiciária
+- Estrasburgo
+- Portugal
 - Transferência de Pessoas Condenadas
 relationships:
 - type: amended_by
   target: pt:dre:70300344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70300344:por
+  label: Substituído, nas relações entre Portugal e os outros Estados membros da União Europeia, a partir de 16.12.2015, o
+    disposto no instrumento jurídico Convenção Europeia Relativa à Transferência de Pessoas Condenadas, de 21 de março de
+    1983, e respetivo Protocolo Adicional, de 18 de dezembro de 1997, aprovado pela presente Resolução, pelo(a) Lei n.º 158/2015
+    - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/158-2015-70300344
+  date: '2015-09-17'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:47Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +121,7 @@ g) Portugal pretende que os documentos a que se reporta o n.º 3 do artigo 17.º
 
 Aprovada em 18 de Fevereiro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENTION SUR LE TRANSFÈREMENT DES PERSONNES CONDAMNÉES
 
@@ -769,7 +777,7 @@ O Comité Europeu para os Problemas Criminais manter-se-á informado da aplicaç
 
 ###### Artigo 25.º — Notificações
 
-**O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho da Europa, aos Estados não membros que participaram na elaboração da presente Convenção e a todos os Estados que a ela tenham aderido:**
+O Secretário-Geral do Conselho da Europa notificará aos Estados membros do Conselho da Europa, aos Estados não membros que participaram na elaboração da presente Convenção e a todos os Estados que a ela tenham aderido:
 
 a) Qualquer assinatura;
 

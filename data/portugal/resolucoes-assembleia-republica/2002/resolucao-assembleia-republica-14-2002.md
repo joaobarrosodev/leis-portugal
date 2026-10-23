@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/14/2002/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/14-2002-254593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c505c593bf843aeabb6a63da7da4294e49d6a20afd943301f4b448fb77d5735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fc5bb9ef7711a7ff37021c682d0d28dc8692de5f161cd5a6606d30d2c7d795d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
+- Bruxelas
 - CE Países
 - Comunidade Europeia
 - Convenção
 - Portugal
-- Bruxelas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:254590:por
+  label: "Ratificado o Acordo pelo DEC.12/2002.2002.02.19.PR DR.IS-A [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/12-2002-254590
+  date: '2002-02-19'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:10:27Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +101,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 20 de Dezembro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO INTERNO ENTRE OS REPRESENTANTES DOS GOVERNOS DOS ESTADOS-MEMBROS, REUNIDOS NO CONSELHO, RELATIVO ÀS MEDIDAS A ADOPTAR E AOS PROCEDIMENTOS A SEGUIR PARA A EXECUÇÃO DO ACORDO DE PARCERIA ACP-CE.
 
@@ -182,7 +187,7 @@ Estas medidas permanecem em vigor até que o Conselho tenha recorrido ao procedi
 
 Para esse efeito, o Conselho procede, periodicamente e pelo menos de seis em seis meses, à revisão das medidas acima referidas.
 
-**O Presidente do Conselho notifica as medidas adoptadas ao Estado ACP em causa e ao Conselho de Ministros, antes da sua entrada em vigor.**
+O Presidente do Conselho notifica as medidas adoptadas ao Estado ACP em causa e ao Conselho de Ministros, antes da sua entrada em vigor.
 
 A decisão do Conselho será publicada no Jornal Oficial das Comunidades Europeias. Se as medidas forem adoptadas imediatamente, a sua notificação é dirigida ao Estado ACP e ao Conselho de Ministros ACP-CE, ao mesmo tempo que um convite para a realização de consultas.
 

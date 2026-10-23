@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/602/1991/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/602-1991-668279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:53:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ddaf48df48bb4073518ad88e41daecd7a8e9ba44a65278aea404f48950402f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f31b9fc80839a0b3d7910680600bd1170e415ba4c7984e368d43d0460ab8ef11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:53:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso Técnico de Contabilidade
 - Curso Técnico de Gestão Agrícola
 - Curso Técnico de Mecânica FRIO e Climatização
 - Ensino Técnico Profissional
 - Escola Profissional
+- Plano de Estudos
 - Trancoso
 relationships:
 - type: amended_by
   target: pt:dre:147641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505651:por
+  label: "Extinto o curso profissional T&#233;cnico de Mec&#226;nica/Frio e climatiza&#231;&#227;o a funcionar na Escola Profissional\
+    \ de Trancoso e respectivo plano de estudos, criados no presente diploma pela PORT.885/2004.21.07.2004.ME, DR.IS-B [170]\
+    \ de 21.07.2004, nos termos do seu art. 7.&#186; e revogadas no presente diploma as partes que &#224;quelecurso respeitam\
+    \ pela supra citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/885-2004-505651
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:505658:por
+  label: "Extinto o curso de Técnico de Gestão Agrícola a funcionar em Escolas Profissionais Agrícolas de Trancoso e o respectivo\
+    \ plano de estudos criados no presente diploma, pela PORT.892/2004.21.07.2004.ME, DR.IS-B [170] de 21.07.2004, nos termos\
+    \ do seu art. 7.º e revogados no presente diploma as partes que àqueles cursos respeitam pela supracitada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/892-2004-505658
+  date: '2004-07-21'
+- type: amended_by
+  target: pt:dre:147641:por
+  label: "Extinto o curso profissional de Técnico de Contabilidade, criado pelo presente diploma e revogado parcialmente na\
+    \ parte referente ao citado curso, pela PORT.914/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto\
+    \ no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/914-2005-147641
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:688437:por
+  label: "Rectificado e publicado de novo, o plano de estudos do curso anexo ao presente diploma, pela DECL-RECT.196/91.31.08.1991.PCM,\
+    \ DR.IS-B [200]2ºSupl de 31.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/196-1991-688437
+  date: '1991-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:53:34Z'
   warnings: []
   errors: []
 ---
@@ -117,18 +149,18 @@ cujos planos de estudo se anexam.
 
 Ministérios da Agricultura, Pescas e Alimentação, da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 28 de Maio de 1991.**
+Assinada em 28 de Maio de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Curso de técnico de mecânica/frio e climatização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf))](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)
 
 Curso de operador (nível 2) - técnico de gestão agrícola (nível 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf))](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)
 
 Curso de técnico de contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf))](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/151b00/34483450.pdf)

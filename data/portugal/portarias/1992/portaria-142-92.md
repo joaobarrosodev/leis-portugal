@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/142/1992/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/142-1992-168625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T11:12:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19c75c1f2f17279c66f9249342f49fbd6c7905e48720e99be4dc29e5e7bf67f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 237f70a616e0a776b435d332d945acddeef0ae559c91fb2907aa7dcd6022a138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Gabinete de Estudos e Planeamento
 - Gabinete para a Pesquisa e Exploração de Petróleo
 - Instituto Nacional da Propriedade Industrial
 - Laboratório Nacional de Engenharia e Tecnologia Industrial
-- Gabinete de Estudos e Planeamento
 - Ministério da Indústria e Energia
 - Pessoal de Informática
 - Quadro de Pessoal
@@ -78,20 +78,54 @@ relationships:
   target: pt:dre:434008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:434008:por
+  label: "Determinada a transição dos funcionários providos no quadro de pessoal constante do Mapa I anexo ao DR 23/90, de\
+    \ 07-Ago, na redacção do presente diploma, da Port 185/94IIS, de 15-Dez e da Port 1015/95, de 21-Ago, para o quadro de\
+    \ pessoal aprovado pela Port 1326/93, de 31-Dez, pelo DEC LEI.334/99.1999.08.20.MECO DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1999-434008
+  date: '1999-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191557:por
+  label: "Revogada parcialmente (no que respeita no quadro de pessoal do Instituto Nacional da Propriedade Industrial), com\
+    \ a entrada em vigor, pelo DEC LEI.400/98.1998.12.17.MECO DR.IS-A [290], sem prejuízo da aplicação do disposto em relação\
+    \ à manutenção do quadro de pessoal previsto no DR 17/90, de 30-Jun, como referido no art. 3.º do mesmo Dec Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1998-191557
+  date: '1998-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:12:46Z'
   warnings: []
   errors: []
 ---
@@ -118,10 +152,10 @@ Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o segu
 
 Ministérios das Finanças e da Indústria e Energia.
 
-**Assinada em 13 de Fevereiro de 1992.**
+Assinada em 13 de Fevereiro de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/054b00/11761178.pdf))](https://files.diariodarepublica.pt/1s/1992/03/054b00/11761178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/054b00/11761178.pdf)

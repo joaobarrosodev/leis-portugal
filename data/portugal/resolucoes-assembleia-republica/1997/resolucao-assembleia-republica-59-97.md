@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/59/1997/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-1997-649171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T11:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32417264dc25f6e151239c6c8d5703108de5675de91b934b9ce6fb3ea5d0af87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91de023a2d7daf39d1a780bc739a9bf28d15e8e4485a84579e43f5cd26cd8b0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,24 @@ reuse:
 subjects:
 - Bucareste
 - Convenção
-- Portugal
 - Cooperação Militar
-relationships: []
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:649159:por
+  label: "Ratificado o Acordo pelo DEC.61/97.16.09.1997.PR, DR.IS-A [214] de 16.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/61-1997-649159
+  date: '1997-09-16'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:02:50Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 22 de Maio de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 ACORDO DE COOPERAÇÃO NA ÁREA MILITAR ENTRE O MINISTÉRIO DA DEFESA NACIONAL DE PORTUGAL E O MINISTÉRIO DA DEFESA NACIONAL DA ROMÉNIA.
 
@@ -235,13 +240,13 @@ Em caso de denúncia, as Partes manterão contactos com vista à melhor resoluç
 
 Este Acordo entrará em vigor na data da última notificação de cumprimento das formalidades exigidas para o efeito pela ordem jurídica de cada uma das Partes.
 
-**Assinado em Bucareste, em 10 de Julho de 1995, em duas cópias em língua portuguesa, romena e inglesa, todas fazendo igualmente fé.**
+Assinado em Bucareste, em 10 de Julho de 1995, em duas cópias em língua portuguesa, romena e inglesa, todas fazendo igualmente fé.
 
 Havendo divergências de interpretação, prevalecerá a versão inglesa.
 
-**O Ministro da Defesa Nacional de Portugal, António Jorge Figueiredo Lopes.**
+O Ministro da Defesa Nacional de Portugal, António Jorge Figueiredo Lopes.
 
-**O Ministro da defesa Nacional da Roménia, Gheorghe Tinca.**
+O Ministro da defesa Nacional da Roménia, Gheorghe Tinca.
 
 [(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1997/09/214a00/49744980.pdf)
 

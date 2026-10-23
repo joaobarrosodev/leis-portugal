@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/1992/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-1992-526862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T11:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d6f37ebf813d466b96f3364a963c0f0b63a122552a1986fd048f0c982964257
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b8a4b13ed2c071c282a990a0042dac31fe4ff590786ac6711a74751ff82ddb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Coimbra
-- Quadro de Pessoal
 - Centro Regional de Oncologia
+- Coimbra
 - Instituto Português de Oncologia de Francisco Gentil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:413792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:360294:por
+  label: "Substituído o quadro de pessoal, na área funcional de radionuclear da carreira técnica superior de saúde, pela PORT.24/95.10.01.1995.MF,\
+    \ DR.IS-B [8] de 10.01.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-1995-360294
+  date: '1995-01-10'
+- type: amended_by
+  target: pt:dre:143298:por
+  label: "Criada a carreira de investigação científica pela PORT.124/95.04.02.1995.MF, DR.IS-B [30] de 04.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-1995-143298
+  date: '1995-02-04'
+- type: amended_by
+  target: pt:dre:413792:por
+  label: "Substituído o quadro de pessoal pela PORT.258/96.18.07.1996.PCM, DR.IS-B [165] de 18.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/258-1996-413792
+  date: '1996-07-18'
+- type: cites
+  target: pt:dre:141217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:18:55Z'
   warnings: []
   errors: []
 ---
@@ -107,33 +155,33 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Repartição de Pessoal:
 
-#### Secção de Expediente e Arquivo;
+Secção de Expediente e Arquivo;
 
-#### Secção de Processamento de Vencimentos;
+Secção de Processamento de Vencimentos;
 
 Repartição de Aprovisionamento:
 
 #### Secção de Compras;
 
-#### Secção de Stocks;
+Secção de Stocks;
 
 Repartição de Contabilidade:
 
-#### Secção de Contabilidade Geral;
+Secção de Contabilidade Geral;
 
-#### Secção de Controlo Orçamental.
+Secção de Controlo Orçamental.
 
 3.º Os conteúdos funcionais das carreiras de desenhador e de técnico auxiliar são os constantes do anexo II à presente portaria.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 9 de Abril de 1992.**
+Assinada em 9 de Abril de 1992.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
 
 ## ANEXO I — Quadro de pessoal do Instituto Português de Oncologia de Francisco Gentil - Centro Regional de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/108b00/21702174.pdf))](https://files.diariodarepublica.pt/1s/1992/05/108b00/21702174.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/108b00/21702174.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

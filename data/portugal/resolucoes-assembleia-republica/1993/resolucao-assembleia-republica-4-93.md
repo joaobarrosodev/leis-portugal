@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/051a00/08800926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/4/1993/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1993-626584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 465122982a27d7ccc2b1cbe7d3fa12fed0565276c38494b1adae9353a3206601
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d9478774ca43e9602617710b56e7b9de675e75abe7e1a65c13b6c7f474b13f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,51 @@ relationships:
   target: pt:dre:637190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476914:por
+  label: "Alterado o nº 1 do art. 291.º pela RES.15/96.1996.02.29.AR DR.IS-A [102] DE 02/MAI/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/15-1996-476914
+  date: '1996-02-29'
+- type: amended_by
+  target: pt:dre:197149:por
+  label: "Alterados os arts. 2.º, 4.º, 5.º, 36.º, 37.º, 38.º e 47.º, na redacção dada pela Res 15/96 da AR de 29-Fev DR.IS-A\
+    \ [102] pela RES.3/99.1998.12.17.AR DR.IS-A [16] DE 20/JAN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/3-1999-197149
+  date: '1998-12-17'
+- type: amended_by
+  target: pt:dre:644345:por
+  label: "Alterado o art. 36º na redacção das Resoluções 15/96 de 02-Mai e 03/99 de 20-Jan, pela RES.75/99.1999.11.11.AR,\
+    \ DR.IS-A [275] de 25-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/75-1999-644345
+  date: '1999-11-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637190:por
+  label: "Revogada, a partir de 01.09.207, na redacção das Res 15/96 de 02-Mai, 3/99 de 20-Jan, 75/99 de 25-Nov e 2/2003 de\
+    \ 17-Jan, pelo REGI.1/2007.20.08.2007.AR, DR.IS [159] de 20.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regimento-assembleia-republica/1-2007-637190
+  date: '2007-08-20'
 article_structure:
   article_count: 362
   section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:57:38Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +127,7 @@ Alterações ao Regimento da Assembleia da República
 
 A Assembleia da República aprova, nos termos dos artigos 178.º, alínea a), e 169.º, n.º 5, da Constituição, as seguintes alterações ao Regimento da Assembleia da República:
 
-###### Artigo 1.º Os artigos 4.º e 6.º passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º e 6.º passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Perda do mandato
 
@@ -124,13 +155,13 @@ b) Quando o Deputado não tome assento na Assembleia até à quarta reunião ou 
 
 2 - O Deputado tem direito a dispor de gabinete próprio, individualizado, para o exercício das suas funções.
 
-###### Art. 2.º É aditado um artigo 7.º-A, com a seguinte redacção:
+Art. 2.º É aditado um artigo 7.º-A, com a seguinte redacção:
 
 ###### Artigo 7.º-A — Único representante de um partido
 
 Ao Deputado que seja único representante de um partido é atribuído o direito de intervenção como tal, a efectivar nos termos do Regimento.
 
-###### Art. 3.º Os artigos 8.º e 15.º passam a ter a seguinte redacção:
+Art. 3.º Os artigos 8.º e 15.º passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — Deputados independentes
 
@@ -146,7 +177,7 @@ Os Deputados que não integrem qualquer grupo parlamentar ou que não sejam úni
 
 4 - ...
 
-###### Art. 4.º - 1 - O corpo do artigo 16.º passa a n.º 1, com a seguinte redacção:
+Art. 4.º - 1 - O corpo do artigo 16.º passa a n.º 1, com a seguinte redacção:
 
 1 - Compete ao Presidente quanto aos trabalhos da Assembleia da República:
 
@@ -190,7 +221,7 @@ a) Promover a criação de gabinetes de atendimento aos eleitores a funcionar na
 
 b) Estabelecer protocolos de acordo e de assistência com as universidades.
 
-###### Art. 5.º Os artigos 17.º e 29.º passam a ter a seguinte redacção:
+Art. 5.º Os artigos 17.º e 29.º passam a ter a seguinte redacção:
 
 ###### Artigo 17.º — Competência quanto às reuniões plenárias
 
@@ -210,11 +241,11 @@ b) Estabelecer protocolos de acordo e de assistência com as universidades.
 
 4 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados, por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.
 
-###### Art. 6.º No artigo 30.º é aditado um n.º 5, com o seguinte texto:
+Art. 6.º No artigo 30.º é aditado um n.º 5, com o seguinte texto:
 
 5 - Os Deputados independentes indicarão as opções sobre as comissões que desejem integrar e o Presidente, ouvida a Conferência, designará aquela ou aquelas a que o Deputado deve pertencer, acolhendo, na medida do possível, as opções apresentadas.
 
-###### Art. 7.º O artigo o 31.º passa a ter a seguinte redacção:
+Art. 7.º O artigo o 31.º passa a ter a seguinte redacção:
 
 ###### Artigo 31.º — Exercício das funções
 
@@ -228,7 +259,7 @@ b) Estabelecer protocolos de acordo e de assistência com as universidades.
 
 5 - O grupo parlamentar a que o Deputado pertence pode promover a sua substituição na comissão, a todo o tempo.
 
-###### Art. 8.º É aditado um artigo 32.º-A, com a seguinte redacção:
+Art. 8.º É aditado um artigo 32.º-A, com a seguinte redacção:
 
 ###### Artigo 32.º-A — Relatório e relatores
 
@@ -258,7 +289,7 @@ g) A posição sumária dos grupos parlamentares face à matéria em apreço.
 
 6 - Os relatórios terão a indicação da iniciativa ou matéria e o nome do relator ou relatores e por eles são designados.
 
-###### Art. 9.º Os artigos 33.º, 38.º e 39.º passam a ter a seguinte redacção:
+Art. 9.º Os artigos 33.º, 38.º e 39.º passam a ter a seguinte redacção:
 
 ###### Artigo 33.º — Subcomissões
 
@@ -300,7 +331,7 @@ i) Apreciar as questões respeitantes ao Regimento e mandatos.
 
 2 - O relatório referido na alínea a) do n.º 1 deverá ser elaborado nos termos do n.º 1 do artigo 32.º-A.
 
-###### Art. 10.º É aditado um artigo 39.º-A, com a seguinte redacção:
+Art. 10.º É aditado um artigo 39.º-A, com a seguinte redacção:
 
 ###### Artigo 39.º-A — Regimento e mandatos
 
@@ -322,9 +353,9 @@ g) Dar parecer sobre as propostas de alteração do Regimento, bem como sugerir 
 
 h) Dar parecer, a pedido do Presidente, sobre conflitos de competência entre comissões.
 
-###### Art. 11.º No artigo 41.º é aditado, in fine, «e nos termos do n.º 1 do artigo 32.º-A».
+Art. 11.º No artigo 41.º é aditado, in fine, «e nos termos do n.º 1 do artigo 32.º-A».
 
-###### Art. 12.º. O artigo 44.º passa a ter a seguinte redacção:
+Art. 12.º. O artigo 44.º passa a ter a seguinte redacção:
 
 ###### Artigo 44.º — Competência
 
@@ -352,13 +383,13 @@ j) Elaborar o seu regulamento.
 
 2 - No caso da alínea f) do número anterior, a Comissão Permanente promoverá a convocação da Assembleia no prazo mais curto possível, por qualquer meio de comunicação que assegure o seu efectivo conhecimento e publicidade.
 
-###### Art. 13.º No artigo 45.º são aditados os n.os 4 e 5, com a seguinte redacção:
+Art. 13.º No artigo 45.º são aditados os n.os 4 e 5, com a seguinte redacção:
 
 4 - A apresentação do relatório das missões permanentes será feita, em Plenário, pelo presidente da delegação correspondente ou por quem ele designar, na data e pelo tempo que o Presidente da Assembleia fixar, depois da sua publicação e distribuição pelos grupos parlamentares.
 
 5 - Após a sua apresentação, os Deputados podem fazer pedidos de esclarecimento pelo período máximo global de vinte minutos, atribuído equitativamente, seguindo-se um novo período de dez minutos para respostas.
 
-###### Art. 14.º O artigo 48.º passa a ter a seguinte redacção:
+Art. 14.º O artigo 48.º passa a ter a seguinte redacção:
 
 ###### Artigo 48.º — Reunião extraordinária de comissões
 
@@ -368,7 +399,7 @@ j) Elaborar o seu regulamento.
 
 3 - O disposto no n.º 1 não se aplica à comissão especializada competente para a verificação de poderes, perda de mandato ou inviolabilidade dos Deputados, quando esta tenha de se pronunciar sobre estas matérias nos termos do Regimento ou do Estatuto dos Deputados.
 
-###### Art. 15.º É aditado um artigo 50.º-A, com a seguinte redacção:
+Art. 15.º É aditado um artigo 50.º-A, com a seguinte redacção:
 
 ###### Artigo 50.º-A — Trabalhos parlamentares
 
@@ -386,7 +417,7 @@ d) As demais reuniões convocadas pelo Presidente da Assembleia da República.
 
 3 - Os trabalhos dos grupos parlamentares realizam-se nos termos do regulamento próprio de cada grupo, a publicar no Diário.
 
-###### Art. 16.º Os artigos 52.º, 53.º, 58.º, 62.º e 65.º passam a ter a seguinte redacção:
+Art. 16.º Os artigos 52.º, 53.º, 58.º, 62.º e 65.º passam a ter a seguinte redacção:
 
 ###### Artigo 52.º — Convocação de reuniões
 
@@ -482,7 +513,7 @@ d) As demais reuniões convocadas pelo Presidente da Assembleia da República.
 
 2 - As reuniões plenárias realizam-se às segundas-feiras, terças-feiras e quartas-feiras, salvo quando a Assembleia ou a Conferência delibere diversamente.
 
-###### Art. 17.º - 1 - No n.º 2 do artigo 72.º é aditado, in fine, «e ao único representante de um partido».
+Art. 17.º - 1 - No n.º 2 do artigo 72.º é aditado, in fine, «e ao único representante de um partido».
 
 2 - No artigo 72.º é aditado um n.º 3, com a seguinte redacção:
 
@@ -490,7 +521,7 @@ d) As demais reuniões convocadas pelo Presidente da Assembleia da República.
 
 3 - Os actuais n.os 3, 4 e 5 do artigo 72.º passam a ser, respectivamente, os n.os 4, 5 e 6.
 
-###### Art. 18.º Os artigos 73.º e 76.º passam a ter a seguinte redacção:
+Art. 18.º Os artigos 73.º e 76.º passam a ter a seguinte redacção:
 
 ###### Artigo 73.º — Expediente e informação
 
@@ -540,7 +571,7 @@ d) As conclusões.
 
 5 - O relatório referido no número anterior será, previamente, entregue aos grupos parlamentares.
 
-###### Art. 19.º É aditado um artigo 76.º-A, com a seguinte redacção:
+Art. 19.º É aditado um artigo 76.º-A, com a seguinte redacção:
 
 ###### Artigo 76.º-A — Debates de urgência
 
@@ -548,7 +579,7 @@ d) As conclusões.
 
 2 - Os debates previstos no número anterior terão lugar nos sete dias úteis posteriores à aprovação da sua realização pela Conferência.
 
-###### Art. 20.º Os artigos 77.º, 79.º, 80.º, 82.º e 90.º passam a ter a seguinte redacção:
+Art. 20.º Os artigos 77.º, 79.º, 80.º, 82.º e 90.º passam a ter a seguinte redacção:
 
 ###### Artigo 77.º — Emissão de votos
 
@@ -562,7 +593,7 @@ d) As conclusões.
 
 ###### Artigo 79.º — Convite a individualidades
 
-**O Presidente pode, a título excepcional, ouvida a Conferência, convidar individualidades nacionais e estrangeiras a tomar lugar na sala e a usar da palavra.**
+O Presidente pode, a título excepcional, ouvida a Conferência, convidar individualidades nacionais e estrangeiras a tomar lugar na sala e a usar da palavra.
 
 ###### Artigo 80.º — Uso da palavra pelos Deputados
 
@@ -590,11 +621,11 @@ d) As conclusões.
 
 3 - O orador interrogante e o orador respondente dispõem de três minutos por cada intervenção, não podendo, porém, o orador respondente acumular tempos de resposta por período superior a cinco minutos se não desejar usar da palavra a seguir a cada orador respondente.
 
-###### Art. 21.º É aditado um n.º 3 ao artigo 91.º, com a seguinte redacção:
+Art. 21.º É aditado um n.º 3 ao artigo 91.º, com a seguinte redacção:
 
 3 - O Presidente anotará o pedido para a defesa referido no n.º 1, para conceder o uso da palavra, e respectivas explicações a seguir ao termo do debate em curso, sem prejuízo de poder conceder imediatamente, quando considere que as situações especialmente o justificam.
 
-###### Art. 22.º Os artigos 92.º, 94.º, 103.º, 108.º e 111.º passam a ter a seguinte redacção:
+Art. 22.º Os artigos 92.º, 94.º, 103.º, 108.º e 111.º passam a ter a seguinte redacção:
 
 ###### Artigo 92.º — Protestos e contraprotestos
 
@@ -654,7 +685,7 @@ f) Efectuar missões de informação ou de estudo.
 
 4 - As diligências previstas no n.º 1, sempre que envolvam despesas, carecem da autorização do Presidente da Assembleia da República.
 
-###### Art. 23.º É aditado um artigo 111.º-A, com a seguinte redacção:
+Art. 23.º É aditado um artigo 111.º-A, com a seguinte redacção:
 
 ###### Artigo 111.º-A — Audições parlamentares
 
@@ -664,7 +695,7 @@ f) Efectuar missões de informação ou de estudo.
 
 3 - Qualquer das entidades referidas nos artigos 109.º e 110.º poderá ser ouvida em audição parlamentar.
 
-###### Art. 24.º Os artigos 113.º, 114.º e 115.º passam a ter a seguinte redacção:
+Art. 24.º Os artigos 113.º, 114.º e 115.º passam a ter a seguinte redacção:
 
 ###### Artigo 113.º — Regulamentos das comissões
 
@@ -688,7 +719,7 @@ f) Efectuar missões de informação ou de estudo.
 
 As comissões informam mensalmente a Assembleia sobre o andamento dos seus trabalhos através de relatórios da competência dos respectivos presidentes apresentados no Plenário ou publicados no Diário.
 
-###### Art. 25.º - 1 - O corpo do artigo 118.º passa a ser o n.º 1 do mesmo artigo.
+Art. 25.º - 1 - O corpo do artigo 118.º passa a ser o n.º 1 do mesmo artigo.
 
 2 - São aditados os n.os 2 e 3 ao artigo 118.º, com a seguinte redacção:
 
@@ -700,11 +731,11 @@ b) A apreciação e votação de relatórios sobre iniciativas legislativas.
 
 3 - O disposto no número anterior diz respeito aos jornalistas credenciados para efeitos parlamentares, os quais terão assento, se possível, no lugar a indicar pelo presidente.
 
-###### Art. 26.º É aditado um n.º 4 ao artigo 120.º, com a seguinte redacção:
+Art. 26.º É aditado um n.º 4 ao artigo 120.º, com a seguinte redacção:
 
 4 - O Diário compreende ainda uma série especial de periodicidade quinzenal para publicidade dos sumários da 1.ª série, que será distribuída gratuitamente com a 1.ª série do Diário da República.
 
-###### Art. 27.º Os artigos 122.º, 123.º, 125.º, 130.º, 133.º, 135.º e 141.º passam a ter a seguinte redacção:
+Art. 27.º Os artigos 122.º, 123.º, 125.º, 130.º, 133.º, 135.º e 141.º passam a ter a seguinte redacção:
 
 ###### Artigo 122.º — Elaboração e aprovação da 1.ª série
 
@@ -814,7 +845,7 @@ c) Uma resenha da legislação vigente referente ao assunto.
 
 Quando a comissão se considere incompetente para apreciação do texto, deve comunicá-lo, no prazo de três dias, ao Presidente da Assembleia para que reaprecie o correspondente despacho.
 
-###### Art. 28.º São aditados dois artigos com a seguinte redacção:
+Art. 28.º São aditados dois artigos com a seguinte redacção:
 
 ###### Artigo 147.º-A — Audição do ANMP e da ANAFRE
 
@@ -826,7 +857,7 @@ A comissão competente deve promover a consulta da Associação Nacional de Muni
 
 2 - O tempo de intervenção do autor da iniciativa e do relator são fixados pelo Presidente, não sendo considerados nos tempos globais distribuídos aos grupos parlamentares.
 
-###### Art. 29.º O artigo 150.º passa a ter a seguinte redacção:
+Art. 29.º O artigo 150.º passa a ter a seguinte redacção:
 
 ###### Artigo 150.º — Tempo de debate
 
@@ -844,7 +875,7 @@ A comissão competente deve promover a consulta da Associação Nacional de Muni
 
 7 - ...
 
-###### Art. 30.º No artigo 153.º são aditados os n.os 4, 5 e 6, com a seguinte redacção:
+Art. 30.º No artigo 153.º são aditados os n.os 4, 5 e 6, com a seguinte redacção:
 
 4 - A discussão na generalidade pode ser abreviada por decisão do Presidente, ouvida a Conferência.
 
@@ -852,13 +883,13 @@ A comissão competente deve promover a consulta da Associação Nacional de Muni
 
 6 - O tempo de uso da palavra pelo autor e pelo relator é, respectivamente, de dez e cinco minutos para as apresentações e de cinco minutos a cada um deles para as respostas; o tempo de uso da palavra para cada grupo parlamentar é de cinco minutos.
 
-###### Art. 31.º - 1 - O corpo do artigo 196.º passa a ser o n.º 1 do mesmo artigo.
+Art. 31.º - 1 - O corpo do artigo 196.º passa a ser o n.º 1 do mesmo artigo.
 
 2 - É aditado um n.º 2 ao artigo 196.º, com a seguinte redacção:
 
 2 - O Governo, quando tenha procedido a consultas públicas sobre um anteprojecto de decreto-lei, deve, a título informativo, juntá-lo à proposta de lei de autorização legislativa, acompanhado com as tomadas de posição assumidas pelas diferentes entidades interessadas na matéria.
 
-###### Art. 32.º O artigo 197.º passa a ter a seguinte redacção:
+Art. 32.º O artigo 197.º passa a ter a seguinte redacção:
 
 ###### Artigo 197.º — Requerimento de apreciação de decretos-leis
 
@@ -868,13 +899,13 @@ A comissão competente deve promover a consulta da Associação Nacional de Muni
 
 3 - ...
 
-###### Art. 33.º É aditado um novo artigo, com a seguinte redacção:
+Art. 33.º É aditado um novo artigo, com a seguinte redacção:
 
 ###### Artigo 197.º-A — Prazo de apreciação de decretos-leis
 
 Se o decreto-lei sujeito a ratificação tiver sido emitido ao abrigo de autorização legislativa, o Presidente deve agendar a sua apreciação até à sexta reunião subsequente à apresentação do requerimento de sujeição a ratificação.
 
-###### Art. 34.º Os artigos 213.º, 221.º, 222.º, 223.º, 224.º, 236.º, 237.º e 242.º passam a ter a seguinte redacção:
+Art. 34.º Os artigos 213.º, 221.º, 222.º, 223.º, 224.º, 236.º, 237.º e 242.º passam a ter a seguinte redacção:
 
 ###### Artigo 213.º — Conhecimento
 
@@ -892,7 +923,7 @@ Se o decreto-lei sujeito a ratificação tiver sido emitido ao abrigo de autoriz
 
 ###### Artigo 222.º — Parecer do Conselho Económico e Social
 
-**O Presidente da Assembleia remete o texto dos relatórios de execução dos planos ao Conselho Económico e Social, para os efeitos do disposto na alínea a) do n.º 1 do artigo 2.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto.**
+O Presidente da Assembleia remete o texto dos relatórios de execução dos planos ao Conselho Económico e Social, para os efeitos do disposto na alínea a) do n.º 1 do artigo 2.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto.
 
 ###### Artigo 223.º — Parecer
 
@@ -944,13 +975,13 @@ As perguntas ao Governo em Plenário são efectuadas em reuniões quinzenais org
 
 3 - Os debates referidos nos números anteriores efectuar-se-ão nos termos fixados pela Conferência, observando-se o disposto no artigo 150.º
 
-###### Art. 35.º - 1 - O corpo do artigo 243.º passa a ser o n.º 1 do mesmo artigo.
+Art. 35.º - 1 - O corpo do artigo 243.º passa a ser o n.º 1 do mesmo artigo.
 
 2 - É aditado um n.º 2, com a seguinte redacção:
 
 2 - A entidade requerida deve responder com a urgência que a pergunta justificar.
 
-###### Art. 36.º Os artigos 244.º, 247.º, 248.º, 250.º, 256.º, 257.º, 258.º, 259.º, 268.º, 283.º e 291.º passam a ter a seguinte redacção:
+Art. 36.º Os artigos 244.º, 247.º, 248.º, 250.º, 256.º, 257.º, 258.º, 259.º, 268.º, 283.º e 291.º passam a ter a seguinte redacção:
 
 ###### Artigo 244.º — Requerimentos não respondidos
 
@@ -1022,21 +1053,21 @@ As comissões parlamentares de inquérito gozam dos poderes de investigação pr
 
 A comissão competente procede à redacção final do texto, nos termos do artigo 161.º, quando se verificar qualquer revisão ou alteração do Regimento.
 
-###### Art. 37.º - 1 - São eliminados os artigos 34.º, 35.º, 36.º, 37.º, 238.º, 239.º, 251.º, 252.º, 253.º, 260.º e 261.º
+Art. 37.º - 1 - São eliminados os artigos 34.º, 35.º, 36.º, 37.º, 238.º, 239.º, 251.º, 252.º, 253.º, 260.º e 261.º
 
 2 - São ainda eliminados o n.º 4 do artigo 32.º, o n.º 4 do artigo 74.º e os n.os 4 e 5 do artigo 248.º
 
 3 - Na epígrafe do artigo 32.º é eliminada a expressão «e relatores».
 
-###### Art. 38.º Nos artigos 2.º, n.º 1, 18.º alínea d), 44.º, n.º 1, alínea b), 292.º, n.º 1, e 293.º, n.º 3, as referências à Comissão de Regimento e Mandatos são substituídas pela expressão «comissão prevista no artigo 39.º-A».
+Art. 38.º Nos artigos 2.º, n.º 1, 18.º alínea d), 44.º, n.º 1, alínea b), 292.º, n.º 1, e 293.º, n.º 3, as referências à Comissão de Regimento e Mandatos são substituídas pela expressão «comissão prevista no artigo 39.º-A».
 
-###### Art. 39.º Nos artigos 169.º, n.os 1 e 2, 172.º, n.os 1, 2 e 3, e 286.º, n.º 1, a expressão «assembleias regionais» é substituída por «assembleias legislativas regionais».
+Art. 39.º Nos artigos 169.º, n.os 1 e 2, 172.º, n.os 1, 2 e 3, e 286.º, n.º 1, a expressão «assembleias regionais» é substituída por «assembleias legislativas regionais».
 
-###### Art. 40.º (disposição transitória). - A limitação do elenco das comissões permanentes estabelecida no artigo 36.º aplica-se, observados os respectivos termos, na presente legislatura mediante decisão a proferir no prazo de 15 dias a contar da publicação desta resolução.
+Art. 40.º (disposição transitória). - A limitação do elenco das comissões permanentes estabelecida no artigo 36.º aplica-se, observados os respectivos termos, na presente legislatura mediante decisão a proferir no prazo de 15 dias a contar da publicação desta resolução.
 
 Aprovada em 5 de Janeiro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
 
@@ -1858,7 +1889,7 @@ Serão marcadas reuniões em que os membros do Governo estarão presentes para r
 
 ###### Artigo 64.º — Apreciação de outras matérias
 
-**O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:**
+O Presidente inclui na primeira parte da ordem do dia a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de Deputados;
 
@@ -2040,7 +2071,7 @@ d) As conclusões.
 
 ###### Artigo 80.º — Convite a individualidades
 
-**O Presidente pode, a título excepcional, ouvida a Conferência, convidar individualidades nacionais e estrangeiras a tomar lugar na sala e a usar da palavra.**
+O Presidente pode, a título excepcional, ouvida a Conferência, convidar individualidades nacionais e estrangeiras a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -2690,7 +2721,7 @@ Quando a comissão se considere incompetente para apreciação do texto, deve co
 
 ###### Artigo 144.º — Envio de propostas de alteração
 
-**O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 145.º — Legislação do trabalho
 
@@ -2738,7 +2769,9 @@ Tratando-se de iniciativa que verse matéria respeitante às Regiões Autónomas
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 152.º — Conhecimento prévio dos projectos, propostas de lei ou de resolução
 
@@ -2782,7 +2815,9 @@ Tratando-se de iniciativa que verse matéria respeitante às Regiões Autónomas
 
 Até ao anúncio da votação podem 10 Deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que for designado, não se aplicando neste caso o disposto no artigo 152.º
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 157.º — Objecto
 
@@ -2798,7 +2833,9 @@ Até ao anúncio da votação podem 10 Deputados, pelo menos, requerer a baixa d
 
 6 - O tempo de uso da palavra pelo autor e pelo relator é, respectivamente, de dez e cinco minutos para as apresentações e de cinco minutos a cada um deles para as respostas; o tempo de uso da palavra para cada grupo parlamentar é de cinco minutos.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 158.º — Regra Geral
 
@@ -2838,7 +2875,9 @@ A requerimento de 10 Deputados, a votação na especialidade, quando incida sobr
 
 No caso de votação na especialidade pela comissão, o Plenário pode deliberar, a todo o tempo, avocá-la a si, a requerimento de, pelo menos, 10 Deputados.
 
-##### SUBDIVISÃO IV — Votação final global
+SUBDIVISÃO IV
+
+Votação final global
 
 ###### Artigo 164.º — Votação final global
 
@@ -2974,7 +3013,9 @@ Se o projecto for aprovado sem alterações, o decreto da Assembleia da Repúbli
 
 ##### Divisão III — Autorização e ratificação da declaração do estado de sítio ou do estado de emergência
 
-##### SUBDIVISÃO I — Autorização para declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO I
+
+Autorização para declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 183.º — Reunião da Assembleia
 
@@ -3002,7 +3043,9 @@ A votação incide sobre a concessão de autorização.
 
 A autorização toma a forma de lei quando concedida pelo Plenário e de resolução quando concedida pela Comissão Permanente.
 
-##### SUBDIVISÃO II — Ratificação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO II
+
+Ratificação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 187.º — Convocação imediata da Assembleia
 
@@ -3026,7 +3069,9 @@ A votação incide sobre a concessão de ratificação.
 
 No caso de o Presidente da República ter solicitado a renovação da autorização da Assembleia da República para declaração do estado de sítio ou do estado de emergência, aplicam-se, com as necessárias adaptações, as disposições constantes dos artigos anteriores.
 
-##### SUBDIVISÃO III — Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO III
+
+Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 192.º — Apreciação da aplicação
 
@@ -3274,7 +3319,7 @@ A redacção final incumbe à comissão competente em razão da matéria, que di
 
 ###### Artigo 227.º — Parecer do Conselho Económico e Social
 
-**O Presidente da Assembleia remete o texto do relatório de execução dos planos ao Conselho Económico e Social, para os efeitos do disposto na alínea a) do n.º 1 do artigo 2.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto.**
+O Presidente da Assembleia remete o texto do relatório de execução dos planos ao Conselho Económico e Social, para os efeitos do disposto na alínea a) do n.º 1 do artigo 2.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto.
 
 ###### Artigo 228.º — Parecer
 
@@ -3508,7 +3553,7 @@ O debate inicia-se com a apresentação do relatório da comissão, intervindo s
 
 ###### Artigo 254.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia comunica ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO IX — Inquéritos
 
@@ -3566,7 +3611,9 @@ Quando o provedor de Justiça se dirija à Assembleia por a Administração não
 
 Quando o provedor de Justiça dirija à Assembleia recomendações legislativas, são estas remetidas, com os documentos que as acompanhem, aos grupos parlamentares para os fins que estes entendam convenientes e são publicadas no Diário.
 
-#### SECÇÃO XI — Artigo 264.º
+#### SECÇÃO XI
+
+###### Artigo 264.º
 
 Relatórios de outras entidades
 

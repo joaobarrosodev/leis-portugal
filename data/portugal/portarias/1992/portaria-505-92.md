@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/505/1992/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-1992-301431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 143fcde3b953570b1a5761301ec2f98f05a4df5c5ae1e4570e3e365921e384de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f7a4accad0bc826c2fa3ba435506f2f5ceba5312c91e8259ceb1d6f8936b18d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo Sanitário
-- Saúde Pública
-- Indústria da Celulose e do Papel
-- Proteção do Ambiente
 - Águas Residuais
+- Controlo Sanitário
+- Indústria da Celulose e do Papel
 - Poluição da água
+- Proteção do Ambiente
+- Saúde Pública
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:430457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430457:por
+  label: "Mantida em vigor pelo DEC LEI.236/98.1998.08.01.MAM DR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1998-430457
+  date: '1998-08-01'
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:21:50Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +144,7 @@ QUADRO
 
 Normas de descarga das águas residuais do sector da pasta de celulose
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/139b00/28962898.pdf))](https://files.diariodarepublica.pt/1s/1992/06/139b00/28962898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/139b00/28962898.pdf)
 
 2 - É proibida a utilização de biocidas à base de mercúrio, e a soda cáustica utilizada não deverá conter mais de 1,5 mg de mercúrio por quilograma de soda pura.
 
@@ -177,6 +186,6 @@ b) Para as unidades já existentes, de acordo com o estipulado no Despacho n.º 
 
 Ministérios da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 13 de Maio de 1992.**
+Assinada em 13 de Maio de 1992.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.

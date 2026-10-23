@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/303a00/73707375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/85/2004/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/85-2004-349167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T11:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0062642b3b2b81a14ea5d3cd89f39acd41cd034a17db7e293c43c70d87178b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 019a9da6670e6c9c78e5ae88498b1925ae864831f0db0654f749a3c00d51580f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,40 +69,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Assistência Médica
+- Bruxelas
 - CE Países
 - Convenção
-- Segurança Interna
-- Portugal
+- Crime
 - Destacamento de Pessoal
-- União Europeia
 - Estatuto
 - Imunidade Diplomática
-- Veículo
-- Missão Oficial
-- Segurança Internacional
-- Pessoal Civil
-- Quartel
 - Militar
-- Bruxelas
+- Missão Oficial
+- Pessoal Civil
+- Portugal
+- Quartel
+- Segurança Interna
+- Segurança Internacional
 - Tributação
+- União Europeia
 - Uso e porte de arma
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:596313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:596313:por
+  label: "Declarado que o presente diploma foi indevidamente publicado, pelo que a sua publicação deve ser considerada como\
+    \ juridicamente inexistente, pela DECL-RECT.4/2005.06.01.2005.AR, DR.IS-A [31] de 14.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-2005-596313
+  date: '2005-01-06'
 article_structure:
   article_count: 19
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:15:38Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +121,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 9 de Dezembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO ENTRE OS ESTADOS MEMBROS DA UNIÃO EUROPEIA RELATIVO AO ESTATUTO DO PESSOAL MILITAR E CIVIL DESTACADO NAS INSTITUIÇÕES DA UNIÃO EUROPEIA, DOS QUARTÉIS-GENERAIS E DAS FORÇAS QUE PODERÃO SER POSTOS À DISPOSIÇÃO DA UNIÃO EUROPEIA NO ÂMBITO DA PREPARAÇÃO E DA EXECUÇÃO DAS OPERAÇÕES REFERIDAS NO N.º 2 DO ARTIGO 17.º DO TRATADO DA UNIÃO EUROPEIA, INCLUINDO EXERCÍCIOS, BEM COMO DO PESSOAL MILITAR E CIVIL DOS ESTADOS MEMBROS DA UNIÃO EUROPEIA DESTACADO PARA EXERCER FUNÇÕES NESTE CONTEXTO (UE-SOFA).
 
@@ -131,7 +137,7 @@ Os representantes dos Governos dos Estados membros da União Europeia, reunidos 
 
 acordam no seguinte:
 
-# PARTE I — Disposições comuns ao conjunto do pessoal militar e civil
+## PARTE I — Disposições comuns ao conjunto do pessoal militar e civil
 
 ###### Artigo 1.º
 
@@ -183,7 +189,7 @@ O pessoal militar e civil em questão usará uniforme, de acordo com os regulame
 
 Os veículos com placa de matrícula específica das forças armadas ou da administração do Estado de origem deverão ostentar, além do número de matrícula, uma marca distintiva da nacionalidade.
 
-# PARTE II — Disposições aplicáveis apenas ao pessoal militar ou civil destacado nas instituições da UE
+## PARTE II — Disposições aplicáveis apenas ao pessoal militar ou civil destacado nas instituições da UE
 
 ###### Artigo 7.º
 
@@ -205,7 +211,7 @@ O pessoal militar ou civil destacado nas instituições da UE pode possuir e ser
 
 7 - Quando não for possível resolver esse litígio, a instituição pertinente da UE aprovará as modalidades necessárias a uma solução. O Conselho deliberará sobre o mesmo assunto por unanimidade.
 
-# PARTE III
+## PARTE III
 
 Disposições aplicáveis unicamente aos quartéis-generais e às forças, bem como ao pessoal militar e civil que aí preste serviço.
 
@@ -355,7 +361,7 @@ d) O presente número não obsta a que a jurisdição do Estado local decida sob
 
 11 - Todo o litígio relativo à resolução de pedidos de indemnização que não possa ser resolvido através de negociações entre os Estados membros interessados será submetido à apreciação de um árbitro seleccionado por acordo entre os Estados membros interessados de entre os nacionais do Estado local que exercem ou tenham exercido altas funções judiciais. Caso os Estados membros interessados não cheguem a acordo, no prazo de dois meses, sobre a designação de um árbitro, cada um desses Estados membros poderá solicitar ao Presidente do Tribunal de Justiça das Comunidades Europeias que seleccione uma pessoa com essas qualificações.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 19.º
 

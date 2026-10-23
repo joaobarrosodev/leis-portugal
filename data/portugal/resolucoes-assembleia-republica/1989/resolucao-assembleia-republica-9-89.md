@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 86/1989, 1º Suplemento, Série I de 1989-04-13
   number: '86'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1616-(2) a 1616-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08601/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1989-623776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a974647b9f406f6c5f60119809d050755967c22a1a9bd1cd69151e3b46b61d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31699320f5ceff512bb03dc1fb37a1311766096adfe390cc7c6b867b648690b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Constituição
+- Revisão Constitucional
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUMEROS 1 DO ARTIGO 6 E O NUMERO 5 DO ARTIGO 14, PELA RESOLUÇÃO DA ASSEMBLEIA DA REPÚBLICA NUMERO 15/89,\
+    \ PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 127, DE 3/6/89.\0 3/6/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:27Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +93,9 @@ Processo especial de apreciação e votação da revisão constitucional
 
 A Assembleia da República aprova, nos termos da alínea a) do artigo 178.º da Constituição, o seguinte processo especial de apreciação e votação da revisão constitucional:
 
-###### Artigo 1.º A discussão e votação das alterações à Constituição no Plenário da Assembleia da República fazem-se na especialidade e seguem um processo especial, nos termos dos artigos seguintes, aplicando-se no mais o disposto no Regimento da Assembleia da República.
+Artigo 1.º A discussão e votação das alterações à Constituição no Plenário da Assembleia da República fazem-se na especialidade e seguem um processo especial, nos termos dos artigos seguintes, aplicando-se no mais o disposto no Regimento da Assembleia da República.
 
-###### Art. 2.º A discussão e votação das alterações à Constituição fazem-se com base num texto de sistematização elaborado pela Comissão Eventual para a Revisão Constitucional (CERC), o qual inclui:
+Art. 2.º A discussão e votação das alterações à Constituição fazem-se com base num texto de sistematização elaborado pela Comissão Eventual para a Revisão Constitucional (CERC), o qual inclui:
 
 a) As propostas de alteração a cada preceito constitucional constantes dos projectos de revisão constitucional cuja aprovação pelo Plenário é sugerida pela CERC;
 
@@ -96,11 +103,11 @@ b) Os textos de substituição cuja aprovação pelo Plenário é sugerida pela 
 
 c) As propostas de alteração a cada preceito constitucional que tenham sido apresentadas e que não tenham sido retiradas.
 
-###### Art. 3.º Podem ser apresentadas em Plenário novas propostas de alteração aos preceitos constitucionais abrangidos pelo texto de sistematização, desde que apresentadas até ao termo do debate do artigo a que se referem.
+Art. 3.º Podem ser apresentadas em Plenário novas propostas de alteração aos preceitos constitucionais abrangidos pelo texto de sistematização, desde que apresentadas até ao termo do debate do artigo a que se referem.
 
-###### Art. 4.º A discussão versa sobre o conjunto das propostas de alteração a cada preceito constitucional, podendo a Assembleia deliberar que se faça simultaneamente sobre as propostas relativas a vários preceitos conexos.
+Art. 4.º A discussão versa sobre o conjunto das propostas de alteração a cada preceito constitucional, podendo a Assembleia deliberar que se faça simultaneamente sobre as propostas relativas a vários preceitos conexos.
 
-###### Art. 5.º - 1 - A votação versa sobre cada proposta de alteração, incluindo os textos de substituição referidos na alínea b) do artigo 2.º
+Art. 5.º - 1 - A votação versa sobre cada proposta de alteração, incluindo os textos de substituição referidos na alínea b) do artigo 2.º
 
 2 - Quando outra não for proposta pela CERC no texto de sistematização, a ordem da votação é a seguinte:
 
@@ -114,7 +121,7 @@ d) Propostas de aditamento.
 
 3 - Quando houver duas ou mais propostas de alteração da mesma natureza, são submetidas à votação pela ordem da respectiva apresentação, salvo quando outra for proposta pela CERC.
 
-###### Art. 6.º - 1 - As votações das propostas de alteração e dos textos de substituição cujo debate tenha sido concluído realizam-se às quintas-feiras, a partir das 17 horas e 30 minutos.
+Art. 6.º - 1 - As votações das propostas de alteração e dos textos de substituição cujo debate tenha sido concluído realizam-se às quintas-feiras, a partir das 17 horas e 30 minutos.
 
 2 - A requerimento de dez deputados, a votação das propostas de alteração respeitantes a um mesmo artigo, número ou alínea da Constituição é adiada para a subsequente reunião plenária destinada a votações.
 
@@ -122,13 +129,13 @@ d) Propostas de aditamento.
 
 4 - Independentemente do disposto nos números anteriores, o Plenário da Assembleia da República pode deliberar o adiamento da votação de qualquer alteração.
 
-###### Art. 7.º Até ao termo do debate das propostas de alteração e dos textos de substituição pode o Plenário da Assembleia da República, a requerimento de dez deputados, deliberar a baixa do texto à CERC, para efeito de nova apreciação no prazo que for designado.
+Art. 7.º Até ao termo do debate das propostas de alteração e dos textos de substituição pode o Plenário da Assembleia da República, a requerimento de dez deputados, deliberar a baixa do texto à CERC, para efeito de nova apreciação no prazo que for designado.
 
-###### Art. 8.º - 1 - As alterações à Constituição são aprovadas por maioria de dois terços dos deputados em efectividade de funções.
+Art. 8.º - 1 - As alterações à Constituição são aprovadas por maioria de dois terços dos deputados em efectividade de funções.
 
 2 - As deliberações de carácter processual são tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados.
 
-###### Art. 9.º - 1 - Após o período de votações referido no n.º 1 do artigo 6.º, cada grupo parlamentar tem o direito de emitir declarações de voto orais referentes às propostas de alteração e aos textos de substituição que tenham sido votados.
+Art. 9.º - 1 - Após o período de votações referido no n.º 1 do artigo 6.º, cada grupo parlamentar tem o direito de emitir declarações de voto orais referentes às propostas de alteração e aos textos de substituição que tenham sido votados.
 
 2 - As declarações de voto orais podem ser produzidas no decurso do período de votações, com referência a um número determinado de artigos, a fixar por deliberação da conferência dos representantes dos grupos parlamentares.
 
@@ -136,7 +143,7 @@ d) Propostas de aditamento.
 
 4 - Não há declarações de voto orais sobre votações de carácter processual.
 
-###### Art. 10.º - 1 - A redacção final das alterações à Constituição aprovadas pelo Plenário da Assembleia da República cabe à CERC.
+Art. 10.º - 1 - A redacção final das alterações à Constituição aprovadas pelo Plenário da Assembleia da República cabe à CERC.
 
 2 - A Comissão não pode modificar o pensamento legislativo, devendo limitar-se a aperfeiçoar a sistematização do texto e o seu estilo, mediante deliberação sem votos contra.
 
@@ -144,19 +151,19 @@ d) Propostas de aditamento.
 
 4 - A redacção final faz-se no prazo que o Plenário da Assembleia estabelecer.
 
-###### Art. 11.º - 1 - Concluída a redacção final, compete à CERC reunir num único decreto de revisão as alterações aprovadas e inseri-las nos lugares próprios da Constituição, mediante as substituições, as supressões e os aditamentos necessários.
+Art. 11.º - 1 - Concluída a redacção final, compete à CERC reunir num único decreto de revisão as alterações aprovadas e inseri-las nos lugares próprios da Constituição, mediante as substituições, as supressões e os aditamentos necessários.
 
 2 - O decreto de revisão é aprovado no Plenário da Assembleia da República, por maioria de dois terços dos deputados em efectividade de funções.
 
 3 - O decreto de revisão é publicado no Diário da Assembleia da República, conjuntamente com a Constituição, no seu novo texto.
 
-###### Art. 12.º - 1 - Os deputados podem reclamar contra inexactidões até ao 10.º dia posterior ao da publicação do texto final no Diário da Assembleia da República.
+Art. 12.º - 1 - Os deputados podem reclamar contra inexactidões até ao 10.º dia posterior ao da publicação do texto final no Diário da Assembleia da República.
 
 2 - Compete ao presidente, ouvida a CERC, decidir dentro de cinco dias.
 
 3 - Considera-se definitivo o texto sobre o qual não tenham recaído reclamações ou depois de elas terem sido decididas.
 
-###### Art. 13.º - 1 - Para todos os efeitos previstos no presente regimento especial, os grupos parlamentares dispõem do tempo fixado na conferência dos representantes dos grupos parlamentares, a qual fixa as demais regras de organização do debate.
+Art. 13.º - 1 - Para todos os efeitos previstos no presente regimento especial, os grupos parlamentares dispõem do tempo fixado na conferência dos representantes dos grupos parlamentares, a qual fixa as demais regras de organização do debate.
 
 2 - São contabilizadas no tempo de cada grupo parlamentar todas as intervenções e declarações dos seus deputados, incluindo os pedidos de esclarecimento, respectivas respostas, protestos e contraprotestos, interpelações à Mesa, requerimentos orais e outras discussões processuais e incidentes.
 
@@ -166,7 +173,7 @@ a) O uso do direito de defesa, por período de dois minutos;
 
 b) A invocação do presente regimento e, subsidiariamente, do Regimento da Assembleia da República, por período de dois minutos.
 
-###### Art. 14.º - 1 - Os trabalhos da revisão constitucional no Plenário da Assembleia da República são agendados para as quartas-feiras, das 15 horas às 20 horas e das 21 horas e 30 minutos às 24 horas, para as quintas-feiras, das 10 horas às 13 horas e das 15 horas às 20 horas, e para as sextas-feiras, das 10 horas às 13 horas.
+Art. 14.º - 1 - Os trabalhos da revisão constitucional no Plenário da Assembleia da República são agendados para as quartas-feiras, das 15 horas às 20 horas e das 21 horas e 30 minutos às 24 horas, para as quintas-feiras, das 10 horas às 13 horas e das 15 horas às 20 horas, e para as sextas-feiras, das 10 horas às 13 horas.
 
 2 - Nestes dias não há período de antes da ordem do dia, devendo assegurar-se a existência desse período uma vez por semana.
 
@@ -174,12 +181,12 @@ b) A invocação do presente regimento e, subsidiariamente, do Regimento da Asse
 
 4 - No termo de cada reunião plenária são anunciadas, a título indicativo, as propostas de alteração a apreciar na reunião seguinte.
 
-###### Art. 15.º Os serviços de apoio aos trabalhos do Plenário da Assembleia da República devem diligenciar para que antes de cada reunião plenária possa ser distribuído aos deputados e aos órgãos de comunicação social um boletim informativo especial - Revisão Constitucional -, bem como as actas dos debates realizados na CERC sobre os artigos a apreciar.
+Art. 15.º Os serviços de apoio aos trabalhos do Plenário da Assembleia da República devem diligenciar para que antes de cada reunião plenária possa ser distribuído aos deputados e aos órgãos de comunicação social um boletim informativo especial - Revisão Constitucional -, bem como as actas dos debates realizados na CERC sobre os artigos a apreciar.
 
 Aprovada em 13 de Abril de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08601/00020003.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08601/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08601/00020003.pdf)
 
 Nota. - Tempos indicados em minutos: tempo global, 59 horas e 37 minutos; tempo total semanal, cerca de doze horas; não haverá transferências nem cedências de tempos entre partidos, sendo, no entanto, possível antecipar os tempos da semana seguinte.

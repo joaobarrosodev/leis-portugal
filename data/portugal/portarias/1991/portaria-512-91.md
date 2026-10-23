@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/512/1991/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/512-1991-633554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ea7008af0689e62514032c374b6e60dd58ffdea64c3b77fb046addf24fbe1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34f23616b03525ff10165fb0e75cc19aa38350f4cada3a0eb28f1bcc9473b08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,50 @@ relationships:
   target: pt:dre:220699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220699:por
+  label: "Substituída a tabela anexa ao presente diploma, pela PORT.1015/92.26.10.1992.MESS, DR.IS-B [247] de 26.10.1992,\
+    \ e mantida a aplicação até à sua entrada em vigor \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1015-1992-220699
+  date: '1992-10-26'
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:25Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +149,10 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 8 de Maio de 1991.**
+Assinada em 8 de Maio de 1991.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
 
 Tabela Anexa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf))](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf)

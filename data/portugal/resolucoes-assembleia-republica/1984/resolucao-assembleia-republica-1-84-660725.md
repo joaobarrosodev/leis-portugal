@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-1984-660725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3c9598eb3ad205e8871ae191cf0c5c8d13e80f0ea4f6bef99ad81a8a8db82f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 480306336e267efc1b97c19a1a2072a48c5718ef82dd44229814cbe13c68bfba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Convenção
+- Cooperação Judiciária
+- França
+- Lisboa
+- Portugal
+- Proteção à Infância
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "NOVA PUBLICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 29, 3 SUPLEMENTO, DE 840203.\040203.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:50:50Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +99,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea i), e
 
 Aprovada em 8 de Novembro de 1983.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
 
 CONVENTION DE COOPÉRATION JUDICIAIRE ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE RELATIVE À LA PROTECTION DES MINEURS.
 
@@ -425,13 +435,13 @@ decidiram concluir uma convenção com estes objectivos e acordaram nas seguinte
 
 ### CAPÍTULO I — Cooperação judiciária
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Objecto da cooperação
 
 As autoridades competentes dos dois Estados, quer judiciárias, quer administativas, comprometem-se, nos termos da presente Convenção, a promover uma entreajuda judiciária e a desenvolver mútua cooperação no domínio da protecção da pessoa e dos bens dos menores.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Autoridades centrais
 
@@ -439,7 +449,7 @@ Autoridades centrais
 
 2 - Os Ministérios da Justiça cooperam mutuamente e promovem a colaboração das autoridades competentes nos Estados respectivos, comunicando, para o efeito, directamente entre si e participando os casos ou situações que lhes forem transmitidos, nos termos da presente Convenção, às autoridades judiciárias ou administrativas competentes. A intervenção dos Ministérios da Justiça é gratuita.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Comissão mista
 
@@ -447,7 +457,7 @@ Comissão mista
 
 2 - Esta comissão reúne alternada e periodicamente em Portugal e em França por iniciativa de qualquer dos Estados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Atribuições gerais das autoridades centrais
 
@@ -461,7 +471,7 @@ As autoridades centrais têm competência para receber e dar seguimento aos pedi
 
 4) Promover uma informação recíproca sobre o funcionamento da presente Convenção.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Língua
 
@@ -469,13 +479,13 @@ As autoridades centrais utilizam, para comunicar entre si, a respectiva língua 
 
 ### CAPÍTULO II — Competência das autoridades e lei aplicável em matéria de protecção de menores
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Âmbito de aplicação
 
 A presente Convenção aplica-se a todas as questões em que exista um elemento de conexão internacional relativas à jurisdição cível em que esteja em causa a protecção da pessoa ou dos bens de menores que sejam nacionais de qualquer dos dois Estados.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Competência e lei aplicável
 
@@ -485,25 +495,25 @@ Sempre que as autoridades do Estado da residência habitual do menor forem chama
 
 2 - Os tribunais referidos no número anterior aplicam a sua lei interna, salvo quando da lei do Estado de que o menor é nacional resulte um regime jurídico imperativo que o tribunal não possa deixar de aplicar.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Casos de dupla nacionalidade
 
 Sempre que o menor possua conjuntamente as nacionalidades portuguesa e francesa, as autoridades judiciárias aplicam a lei do Estado da residência habitual do menor e de que este é nacional.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Informação sobre o direito nacional
 
 As autoridades centrais dão seguimento aos pedidos que mutuamente se dirigem, formulados pelas respectivas autoridades judiciárias, relativos à existência ou inexistência na lei interna do Estado de que o menor é nacional de um regime jurídico imperativo que o tribunal não possa deixar de aplicar, certificando o teor da respectiva lei.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Colaboração das autoridades judiciárias
 
 No quadro da Convenção da Haia de 5 de Outubro de 1961, as autoridades judiciárias dos dois Estados colaboram, sempre que for caso disso, na aplicação da lei substantiva do outro Estado e dão cumprimento ao previsto nesta lei, designadamente no que respeita às habilitações e às autorizações não incompatíveis com as suas atribuições.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Exequibilidade
 
@@ -519,7 +529,7 @@ As decisões judiciais relativas à protecção de menores que, por aplicação 
 
 A verificação dos requisitos enumerados no presente artigo é feita, em Portugal, pelo tribunal de comarca e, em França, pelo tribunal de grande instância, aos quais é requerida a execução da decisão judicial.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Documentos a produzir
 
@@ -539,19 +549,19 @@ Os documentos devem ser acompanhados de uma tradução certificada conforme por 
 
 #### SECÇÃO I — Guarda de menores e direito de visita
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Convenção da Haia de 5 de Outubro de 1961
 
 Nas matérias às quais se aplicam, as disposições da presente secção prevalecem sobre as da Convenção da Haia de 5 de Outubro de 1961 relativa à competência das autoridades e à lei aplicável em matéria de protecção de menores.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Cooperação judicial específica
 
 Nos termos da presente secção, os dois Estados garantem reciprocamente, na área do seu território e sob o controle das respectivas autoridades judiciais, o livre exercício do direito de guarda relativo a menores, subordinado apenas aos interesses destes. Garantem igualmente o livre exercício do direito de visita, designadamente no Estado da residência do progenitor que não exerce o poder paternal, garantindo ainda a boa execução das decisões judiciais proferidas nestas matérias pelo outro Estado.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Afastamento ilícito do menor do detentor do exercício do poder paternal e sua não entrega voluntária
 
@@ -563,7 +573,7 @@ b) Quando o poder paternal tiver sido exercido de maneira efectiva, isolada ou c
 
 O exercício do poder paternal mencionado na alínea a) do presente artigo pode resultar, designadamente, de uma atribuição ex lege, de uma decisão judicial ou de um acordo em vigor, segundo a ordem jurídica do Estado da residência habitual do menor.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Atribuições das autoridades centrais
 
@@ -583,13 +593,13 @@ Atribuições das autoridades centrais
 
 8 - As autoridades centrais tomam ou promovem que sejam tomadas medidas adequadas a facilitar o exercício do direito de visita. Cooperam na fixação de um direito de visita, no território do outro Estado, a favor do progenitor que não detém o exercício do poder paternal e na remoção de qualquer obstáculo jurídico que a tal se oponha. Cooperam igualmente para que sejam respeitadas as condições impostas pelas autoridades respectivas para a fruição e o livre exercício do mesmo direito, bem como para que sejam cumpridos os deveres das partes a ele relativos, fazendo intervir, para o efeito, por intermédio do ministério público, as autoridades judiciais competentes.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Entrega voluntária
 
 A autoridade central do Estado em que o menor se encontre ilicitamente afastado ou retido toma as medidas que considere apropriadas para assegurar a entrega voluntária do mesmo, promovendo, designadamente, por intermédio do ministério público junto dos tribunais a audição do autor do afastamento ou da não entrega, intimando-o a cumprir as suas obrigações.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Acção oficiosa
 
@@ -599,7 +609,7 @@ Acção oficiosa
 
 3 - A execução das decisões a que se refere o presente artigo é solicitada ao tribunal da área judicial em que se saiba ou se presuma que o menor efectivamente se encontra.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Providências cautelares
 
@@ -619,13 +629,13 @@ c) A possibilidade de a entrega do menor pôr gravemente em causa a sua saúde o
 
 5 - Quando o juiz do Estado para cujo território o menor foi ilicitamente afastado ou em que se encontra retido for chamado a intervir decorrido o prazo de 1 ano previsto na alínea a) do n.º 1 do presente artigo, deve ordenar também a entrega do menor, excepto se se provar que este está integrado no seu novo meio.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Alteração do exercício do poder paternal
 
 Quando o juiz do Estado para cujo território o menor foi ilicitamente afastado ou em que se encontra retido admita uma das excepções mencionadas no n.º 1, alínea b) ou c), do artigo anterior, pode estatuir sobre o exercício do poder paternal decorrido o prazo de 1 ano sobre o afastamento ou a não entrega do menor, desde que se prove que este está integrado no seu novo meio.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Direito de visita
 
@@ -639,7 +649,7 @@ Direito de visita
 
 5 - No termo de cada período fixado para o exercício do direito de visita as autoridades centrais fazem intervir, sempre que necessário, as respectivas autoridades judiciais competentes para estatuir sobre a entrega imediata do menor.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Informação e atribuições dos funcionários consulares
 
@@ -649,7 +659,7 @@ Informação e atribuições dos funcionários consulares
 
 #### SECÇÃO II — Obrigações alimentares
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Acção oficiosa
 
@@ -659,7 +669,7 @@ Acção oficiosa
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Actos de registo civil
 
@@ -667,7 +677,7 @@ Actos de registo civil
 
 2 - Aquela remessa efectua-se por via diplomática ou consular. Todavia, os nacionais de qualquer dos Estados podem dirigir-se directamente à autoridade competente do outro Estado.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Dispensa de legalização e de apostila
 
@@ -687,19 +697,19 @@ estão dispensados de legalização, de apostila e de qualquer formalidade anál
 
 ### CAPÍTULO V — Disposições finais
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Aplicação
 
 As dificuldades que se levantem na aplicação da presente Convenção são resolvidas por via diplomática.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Notificação
 
 Cada um dos dois Estados notificará o outro de terem sido cumpridas as formalidades constitucionais respectivas para a entrada em vigor da presente Convenção, que ocorrerá no primeiro dia do segundo mês após a data da recepção da última destas notificações.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Duração
 
@@ -717,4 +727,4 @@ Pelo Governo da República Francesa:
 
 Georgina Dufoix.
 
-**O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.**
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

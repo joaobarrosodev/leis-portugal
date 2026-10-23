@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/10/2004/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-2004-607163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T11:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fa38e6a305ee495548b28752a94daba4658c16cca93d6a692b5811f233fe83f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29bcd697bad624d51c63e0b4b98786cccf1dd5ce486847b02d6bb919d701d910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
 - Convenção
+- Eslováquia
 - Portugal
 - Tratado do Atlântico Norte
-- Bruxelas
-- Eslováquia
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:607165:por
+  label: "Ratificado o Protocolo de Adesão da República Eslovaca ao Tratado do Atlântico Norte, aprovado, para ratificação,\
+    \ pelo presente diploma, pelo DEC.9/2004.21.01.2004.PR, DR.IS-A [17] de 21.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/9-2004-607165
+  date: '2004-01-21'
 article_structure:
-  article_count: 0
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:13:42Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 27 de Novembro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 PROTOCOL TO THE NORTH ATLANTIC TREATY ON THE ACCESSION OF THE SLOVAK REPUBLIC
 
@@ -116,7 +122,7 @@ In witness whereof, the undersigned plenipotentiaries have signed the present Pr
 
 Signed at Brussels on the 26th day of March 2003.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)
 
 PROTOCOLE AU TRAITÉ DE L'ATLANTIQUE NORD SUR L'ACCESSION DE LA REPUBLIQUE SLOVAQUE
 
@@ -138,26 +144,26 @@ En foi de quoi, les plénipotentiaires désignés ci-dessous ont signé le prés
 
 Signé à Bruxelles le 26 mars 2003.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)
 
 PROTOCOLO DE ADESÃO DA REPÚBLICA ESLOVACA AO TRATADO DO ATLÂNTICO NORTE
 
 As Partes no Tratado do Atlântico Norte, assinado em Washington em 4 de Abril de 1949, convictas de que a adesão da República Eslovaca ao Tratado do Atlântico Norte permitirá reforçar a segurança da área do Atlântico Norte, acordam no seguinte:
 
-Artigo I
+###### Artigo I
 
 Após a entrada em vigor do presente Protocolo, o Secretário-Geral da Organização do Tratado do Atlântico Norte, em nome de todas as Partes, enviará ao Governo da República Eslovaca um convite para aderir ao Tratado do Atlântico Norte. Nos termos do artigo 10.º do Tratado, a República Eslovaca tornar-se-á Parte no referido Tratado na data de depósito do seu instrumento de adesão junto do Governo dos Estados Unidos da América.
 
-Artigo II
+###### Artigo II
 
 O presente Protocolo entrará em vigor quando todas as Partes no Tratado do Atlântico Norte tiverem notificado o Governo dos Estados Unidos da América da respectiva aceitação. O Governo dos Estados Unidos da América informará todas as Partes no Tratado do Atlântico Norte da data de recepção de cada uma das notificações e da data de entrada em vigor do presente Protocolo.
 
-Artigo III
+###### Artigo III
 
 O presente Protocolo, cujos textos em francês e inglês fazem igualmente fé, será depositado nos Arquivos do Governo dos Estados Unidos da América, o qual transmitirá cópias autenticadas aos Governos de todas as outras Partes no Tratado do Atlântico Norte.
 
 Em fé do que os plenipotenciários abaixo designados assinaram o presente Protocolo.
 
-**Assinado em Bruxelas em 26 de Março de 2003.**
+Assinado em Bruxelas em 26 de Março de 2003.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)
+[[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03680372.pdf)

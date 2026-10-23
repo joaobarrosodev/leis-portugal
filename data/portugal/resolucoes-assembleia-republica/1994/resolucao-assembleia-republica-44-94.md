@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/44/1994/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-1994-297669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:58:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39af23dd14cfb981ec8bbf4b40f5629e678929664bb9ec84302c8af6729ff06d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67cd1eb8745034465100e4097cc0f9d5b3f1362fbb7f996996fd5ae5bb918d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:58:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livre Circulação de Pessoas
 - Dados Pessoais
+- Livre Circulação de Pessoas
 relationships: []
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:58:37Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +92,13 @@ Aprova, para ratificação, o Protocolo de Adesão do Governo da República Hel�
 
 A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o seguinte:
 
-###### Artigo 1.º É aprovado, para ratificação, o Protocolo de Adesão do Governo da República Helénica ao Acordo entre os Governos dos Estados da União Económica do Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinado em Schengen a 14 de Junho de 1985, tal como alterado pelo Protocolo de Adesão do Governo da República Italiana, assinado em Paris a 27 de Novembro de 1990, e pelos Protocolos de Adesão dos Governos do Reino da Espanha e da República Portuguesa, assinados em Bona a 25 de Junho de 1991, concluído em Madrid a 6 de Novembro de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
+Artigo 1.º É aprovado, para ratificação, o Protocolo de Adesão do Governo da República Helénica ao Acordo entre os Governos dos Estados da União Económica do Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinado em Schengen a 14 de Junho de 1985, tal como alterado pelo Protocolo de Adesão do Governo da República Italiana, assinado em Paris a 27 de Novembro de 1990, e pelos Protocolos de Adesão dos Governos do Reino da Espanha e da República Portuguesa, assinados em Bona a 25 de Junho de 1991, concluído em Madrid a 6 de Novembro de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
 
-###### Art. 2.º É aprovado, para ratificação, o Acordo de Adesão da República Helénica à Convenção de Aplicação do Acordo de Schengen de 14 de Junho de 1985 entre os Governos dos Estados da União Económica do Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinada em Schengen a 19 de Junho de 1990, à qual aderiram a República Italiana pelo Acordo assinado em Paris a 27 de Novembro de 1990 e o Reino da Espanha e a República Portuguesa pelos Acordos assinados em Bona a 25 de Junho de 1991, concluído em Madrid a 6 de Novembro de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
+Art. 2.º É aprovado, para ratificação, o Acordo de Adesão da República Helénica à Convenção de Aplicação do Acordo de Schengen de 14 de Junho de 1985 entre os Governos dos Estados da União Económica do Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinada em Schengen a 19 de Junho de 1990, à qual aderiram a República Italiana pelo Acordo assinado em Paris a 27 de Novembro de 1990 e o Reino da Espanha e a República Portuguesa pelos Acordos assinados em Bona a 25 de Junho de 1991, concluído em Madrid a 6 de Novembro de 1992, cujo texto na versão autêntica em língua portuguesa segue em anexo à presente resolução.
 
 Aprovada em 16 de Dezembro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 PROTOCOLO DE ADESÃO DO GOVERNO DA REPÚBLICA HELÉNICA AO ACORDO ENTRE OS GOVERNOS DOS ESTADOS DA UNIÃO ECONÓMICA DO BENELUX, DA REPÚBLICA FEDERAL DA ALEMANHA E DA REPÚBLICA FRANCESA RELATIVO À SUPRESSÃO GRADUAL DOS CONTROLOS NAS FRONTEIRAS COMUNS, ASSINADO EM SCHENGEN A 14 DE JUNHO DE 1985, TAL COMO ALTERADO PELO PROTOCOLO DE ADESÃO DO GOVERNO DA REPÚBLICA ITALIANA, ASSINADO EM PARIS A 27 DE NOVEMBRO DE 1990, E PELOS PROTOCOLOS DE ADESÃO DOS GOVERNOS DO REINO DA ESPANHA E DA REPÚBLICA PORTUGUESA, ASSINADOS EM BONA A 25 DE JUNHO DE 1991.
 
@@ -160,13 +160,13 @@ Pelo Governo do Reino dos Países Baixos:
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
 
 DECLARAÇÃO COMUM RELATIVA ÀS MEDIDAS A CURTO PRAZO PREVISTAS NO TÍTULO I DO ACORDO ENTRE OS GOVERNOS DOS ESTADOS DA UNIÃO ECONÓMICA DO BENELUX, DA REPÚBLICA FEDERAL DA ALEMANHA E DA REPÚBLICA FRANCESA RELATIVO À SUPRESSÃO GRADUAL DOS CONTROLOS NAS FRONTEIRAS COMUNS, ASSINADO EM SHENGEN A 14 DE JUNHO DE 1985, TAL COMO ALTERADO PELO PROTOCOLO DE ADESÃO DO GOVERNO DA REPÚBLICA ITALIANA, ASSINADO EM PARIS A 27 DE NOVEMBRO DE 1990, E PELOS PROTOCOLOS DE ADESÃO DOS GOVERNOS DO REINO DA ESPANHA E DA REPÚBLICA PORTUGUESA, ASSINADOS EM BONA A 25 DE JUNHO DE 1991.
 
 No momento da assinatura do Protocolo de Adesão do Governo da República Helénica ao Acordo, assinado em Schengen a 14 de Junho de 1985, Acordo ao qual aderiram o Governo da República Italiana pelo Protocolo assinado em Paris a 27 de Novembro de 1990 e os Governos do Reino da Espanha e da República Portuguesa pelos Protocolos assinados em Bona a 25 de Junho de 1991, as Partes Contratantes declaram que as medidas a curto prazo, previstas no título I do referido Acordo, aplicar-se-ão entre os Governos vinculados pelo mencionado Acordo e o Governo da República Helénica nas mesmas condições e de acordo com as mesmas modalidades que entre os Governos vinculados pelo referido Acordo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
 
 ACORDO DE ADESÃO DA REPÚBLICA HELÉNICA À CONVENÇÃO DE APLICAÇÃO DO ACORDO DE SCHENGEN DE 14 DE JUNHO DE 1985 ENTRE OS GOVERNOS DOS ESTADOS DA UNIÃO ECONÓMICA DO BENELUX, DA REPÚBLICA FEDERAL DA ALEMANHA E DA REPÚBLICA FRANCESA RELATIVO À SUPRESSÃO GRADUAL DOS CONTROLOS NAS FRONTEIRAS COMUNS, ASSINADA EM SCHENGEN A 19 DE JUNHO DE 1990, À QUAL ADERIRAM A REPÚBLICA ITALIANA PELO ACORDO ASSINADO EM PARIS A 27 DE NOVEMBRO DE 1990 E O REINO DA ESPANHA E A REPÚBLICA PORTUGUESA PELOS ACORDOS ASSINADOS EM BONA A 25 DE JUNHO DE 1991.
 
@@ -188,7 +188,7 @@ Pelo presente Acordo, a República Helénica adere à Convenção de 1990.
 
 2 - A autoridade referida no artigo 40.º, n.º 5, da Convenção de 1990, é, no que diz respeito à República Helénica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
 
 ###### Artigo 3.º
 
@@ -240,7 +240,7 @@ Pelo Governo do Reino dos Países Baixos:
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
 
 ACTA FINAL
 
@@ -318,4 +318,4 @@ Pelo Governo do Reino dos Países Baixos:
 
 Pelo Governo da República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a00/40404048.pdf)

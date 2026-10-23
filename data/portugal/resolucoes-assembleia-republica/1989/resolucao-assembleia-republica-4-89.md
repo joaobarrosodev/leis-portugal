@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1989-612437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f870aa0c7dadbd7dcebe21c626e0f6f797125a9f888a28e417156b55c4c918c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dee3e395df74674ee91e068da56ff3f5cbdb8617453c82a0112375b24c12e1cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Estatuto
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 58
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 59
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:54:22Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +90,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 164.º e 
 
 Aprovada em 2 de Novembro de 1988.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
 ## ANEXO — ARTICLES OF AGREEMENT OF THE INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
 
@@ -944,13 +946,11 @@ ACORDO RELATIVO AO BANCO INTERNACIONAL PARA A RECONSTRUÇÃO E DESENVOLVIMENTO
 
 Os Governos em cujo nome o presente Acordo é assinado acordam no seguinte:
 
-ARTIGO PRELIMINAR
+###### ARTIGO PRELIMINAR
 
 É instituído o Banco Internacional para a Reconstrução e Desenvolvimento, que funcionará de acordo com as disposições seguintes:
 
-ARTIGO I
-
-Objectivos
+###### ARTIGO I — Objectivos
 
 Os objectivos do Banco Internacional para a Reconstrução e Desenvolvimento são:
 
@@ -966,9 +966,7 @@ v) Conduzir as suas operações tendo em devida conta os efeitos dos investiment
 
 Em todas as suas decisões, o Banco será orientado pelos objectivos mencionados acima.
 
-ARTIGO II
-
-Membros e capital do Banco
+###### ARTIGO II — Membros e capital do Banco
 
 #### Secção 1 — Membros
 
@@ -994,7 +992,9 @@ c) Se o capital social autorizado do Banco for aumentado, os membros terão opor
 
 As acções compreendidas nas subscrições mínimas dos membros originários são emitidas ao par. As outras acções serão emitidas ao par, a menos que, em circunstâncias especiais, o Banco decida, mediante aprovação por maioria do total dos votos computáveis, fazer a emissão noutras condições.
 
-#### Secção 5 — Divisão do capital subscrito e sua realização
+#### Secção 5
+
+##### Divisão do capital subscrito e sua realização
 
 As subscrições dos membros serão divididas em duas partes, da forma seguinte:
 
@@ -1044,9 +1044,7 @@ c) O Banco poderá dispensar a aplicação das disposições dos parágrafos pre
 
 As acções não serão empenhadas nem oneradas por qualquer forma e só poderão ser transferidas para o Banco.
 
-ARTIGO III
-
-Disposições gerais relativas a empréstimos e garantias
+###### ARTIGO III — Disposições gerais relativas a empréstimos e garantias
 
 #### Secção 1 — Utilização dos recursos
 
@@ -1094,9 +1092,7 @@ a) O Banco pode conceder, participar ou garantir empréstimos à Sociedade Finan
 
 b) As disposições do artigo III, secções 4 e 5, c), e do artigo IV, secção 3, não se aplicam a empréstimos, participações e garantias autorizados por esta secção.
 
-ARTIGO IV
-
-Operações
+###### ARTIGO IV — Operações
 
 #### Secção 1 — Métodos para efectuar ou facilitar empréstimos
 
@@ -1208,9 +1204,7 @@ Será visivelmente indicado na face de todos os títulos garantidos ou emitidos 
 
 O Banco e os seus agentes não deverão intervir nos assuntos políticos de qualquer membro, nem se deixarão influenciar, nas suas decisões, pelas características políticas do membro ou dos membros em questão. As suas decisões só deverão ser enformadas por considerações de ordem económica, as quais deverão ser objecto de exame imparcial para que possam atingir-se os objectivos enunciados no artigo I.
 
-ARTIGO V
-
-Organização e administração
+###### ARTIGO V — Organização e administração
 
 #### Secção 1 — Estrutura do Banco
 
@@ -1344,9 +1338,7 @@ a) O conselho de governadores determinará anualmente a parte do rendimento líq
 
 b) No caso de distribuição de qualquer parte do rendimento líquido, será paga a cada membro, como primeiro encargo relativo a qualquer distribuição anual, uma importância não cumulativa, até 2%, calculada sobre a média dos empréstimos não reembolsados durante o ano que hajam sido concedidos nos termos do artigo IV, secção 1, a), i), na moeda correspondente à sua subscrição. O saldo restante, depois de efectuado o pagamento pricritário de 2%, será distribuído entre todos os membros na proporção das suas acções. Os pagamentos serão feitos a cada membro na sua própria moeda ou, se não existirem disponibilidades nessa moeda, em qualquer outra moeda que o membro aceite. Quando os pagamentos forem efectuados minta moeda que não seja a do membro respectivo, os membros não poderão aplicar restrições à transferência dessa moeda nem à sua utilização por parte do membro que a receber.
 
-ARTIGO VI
-
-Retirada e suspensão dos membros: suspensão das operações
+###### ARTIGO VI — Retirada e suspensão dos membros: suspensão das operações
 
 #### Secção 1 — Direito de retirada dos membros
 
@@ -1412,9 +1404,7 @@ iv) Os restantes valores em poder do Banco, depois de realizados os pagamentos a
 
 i) Os membros que receberem valores distribuídos pelo Banco, de acordo com o parágrafo h) acima, terão em relação a esses valores os mesmos direitos de que o Banco gozava antes de se fazer a distribuição.
 
-ARTIGO VII
-
-Estatuto, imunidades e privilégios
+###### ARTIGO VII — Estatuto, imunidades e privilégios
 
 #### Secção 1 — Objectivos do presente artigo
 
@@ -1482,9 +1472,7 @@ ii) Se a única base jurídica para tal tributação for a localização de qual
 
 Cada membro deverá adoptar nos seus próprios territórios todas as medidas necessárias para introduzir na sua própria legislação os princípios prescritos neste artigo e informará o Banco, em pormenor, das medidas que tiver adoptado.
 
-ARTIGO VIII
-
-Emendas
+###### ARTIGO VIII — Emendas
 
 a) Qualquer proposta de alteração do presente Acordo, quer seja feita por um membro, por um governador ou pelos directores executivos, será comunicada ao presidente do conselho de governadores, que a apresentará ao conselho. Se a emenda proposta for aprovada pelo conselho, o Banco deverá, por carta-circular ou telegrama, perguntar a todos os membros se aceitam a emenda proposta. Desde que três quintos dos membros dispondo de 85% do total dos votos computáveis aceitem as emendas propostas, o Banco confirmará o facto por comunicação formal dirigida a todos os membros.
 
@@ -1498,9 +1486,7 @@ iii) O direito de retirada do Banco, previsto no artigo II, secção 6.
 
 c) As emendas entrarão em vigor para todos os membros três meses depois da data da comunicação formal, excepto se na carta-circular ou telegrama se fixar um prazo mais curto.
 
-ARTIGO IX
-
-Interpretação
+###### ARTIGO IX — Interpretação
 
 a) Qualquer questão de interpretação das disposições do presente Acordo que surgir entre qualquer membro e o Banco ou entre quaisquer membros do Banco será submetida à decisão dos directores executivos. Se a questão afectar especialmente um membro que não possua o direito de nomear um director executivo, ele terá o direito de fazer-se representar de harmonia com o artigo V, secção 4, h).
 
@@ -1508,15 +1494,11 @@ b) Em qualquer caso em que os directores executivos tiverem tomado uma decisão 
 
 c) Sempre que surja desacordo entre o Banco e um país que deixou de ser membro ou entre o Banco e qualquer membro durante a suspensão permanente das operações do Banco, esse desacordo será submetido à arbitragem de um tribunal constituído por três árbitros, um nomeado pelo Banco, outro pelo país em questão e um árbitro de desempate nomeado, salvo acordo em contrário entre as partes, pelo presidente do Tribunal Permanente de Justiça Internacional ou qualquer outra autoridade indicada por regulamento adoptado pelo Banco. O árbitro de desempate terá plenos poderes para resolver todas as questões de processo em qualquer caso em que as partes estiverem em desacordo a tal respeito.
 
-ARTIGO X
-
-Aprovação presuntiva
+###### ARTIGO X — Aprovação presuntiva
 
 Sempre que for necessária a prévia aprovação de qualquer membro para que o Banco possa agir, presume-se efectuada essa aprovação, excepto no caso referido no artigo VIII, se o membro não apresentar objecção dentro de um prazo razoável que o Banco poderá fixar ao notificar o membro da medida prevista.
 
-ARTIGO XI
-
-Disposições finais
+###### ARTIGO XI — Disposições finais
 
 #### Secção 1 — Entrada em vigor
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/23/2009/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-2009-603215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T11:22:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3487b4d6fa3cc63636d8d1a6f3450a19d8340327de4642f9411b933febc0430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d236a8d99a359be586da34cd685c97d4c085f076827cc124c96539281499545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:22:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
 - China
-- Lisboa
+- Convenção
 - Cooperação Judiciária
 - Direito Penal
-relationships: []
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:603220:por
+  label: "Ratificado o presente Acordo pelo DEC.26/2009.01.04.2009.PR, DR.IS [64] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/26-2009-603220
+  date: '2009-04-01'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:22:20Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +100,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 5 de Fevereiro de 2009.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ACORDO DE AUXÍLIO JUDICIÁRIO MÚTUO EM MATÉRIA PENAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA CHINA
 
@@ -341,11 +346,11 @@ Feito em Lisboa em 9 de Dezembro de 2005, em dois exemplares originais nas líng
 
 Pela República Portuguesa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
 
 Pela República Popular da China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
 
 AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE PEOPLE'S REPUBLIC OF CHINA ON MUTUAL JUDICIAL ASSISTANCE IN CRIMINAL MATTERS
 
@@ -635,8 +640,8 @@ Done in duplicate at Lisbon, on this 9th day of December 2005, in the portuguese
 
 For the Portuguese Republic:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
 
 For the People's Republic of China:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06400/0202002031.pdf)

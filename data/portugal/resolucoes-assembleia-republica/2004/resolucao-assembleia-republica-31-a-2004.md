@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 76/2004, 1º Suplemento, Série I-A de 2004-03-30
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2030-(2) a 2030-(1189)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf
 entry_into_force_dates: []
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31-a/2004/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-a-2004-346750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 399de98214578d52a6a767944c47bfef504bd1737c1f9accd0dc67a125dc5dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b306780e79ef03173a75feda100628690873fbaf1822cee4ab26a2cd26bb4b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,30 +71,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Bruxelas
 - CE Países
+- Chile
 - Circulação de Capitais
+- Combate à Droga
+- Comércio
 - Comunidade Europeia
+- Concorrência
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Comercial
-- Cooperação Técnica
-- Portugal
-- Crime Organizado
-- Concorrência
-- Combate à Droga
-- Livre Circulação de Mercadorias
-- Chile
 - Cooperação Científica
+- Cooperação Comercial
 - Cooperação Cultural
 - Cooperação Económica
 - Cooperação Europeia
 - Cooperação Industrial
 - Cooperação Política
+- Cooperação Técnica
+- Crime Organizado
+- Imigração
+- Livre Circulação de Mercadorias
+- Portugal
 - Propriedade Intelectual
-- Comércio
-- Bruxelas
 relationships:
+- type: amended_by
+  target: pt:dre:346751:por
+  label: "Ratificado o Acordo pelo DEC.18-A/2004.30.03.2004.PR, DR.IS-A [76-Supl] de 30.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-a-2004-346751
+  date: '2004-03-30'
+- type: amended_by
+  target: pt:dre:251826:por
+  label: "Tornada pública a nota rectificativa SGS 3/9994, de 21 de Novembro de 2003, ao Acordo aprovado, para ratificação,\
+    \ pelo presente diploma, pelo AV.106/2004.04.05.2004.MNE, DR.IS-A [123] de 26.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/106-2004-251826
+  date: '2004-05-04'
 - type: cites
   target: celex:31989R4064
   label: null
@@ -120,15 +131,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000/29/oj
 article_structure:
-  article_count: 321
-  section_count: 133
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 170
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:14:12Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +152,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 11 de Dezembro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
 ACORDO QUE CRIA UMA ASSOCIAÇÃO ENTRE A COMUNIDADE EUROPEIA E OS SEUS ESTADOS-MEMBROS, POR UM LADO, E A REPÚBLICA DO CHILE, POR OUTRO.
 
@@ -215,7 +226,7 @@ CONSIDERANDO os laços tradicionais existentes entre as Partes e nomeadamente:
 
 AS PARTES DECIDIRAM CELEBRAR O PRESENTE ACORDO:
 
-# PARTE I — Disposições institucionais e gerais
+## PARTE I — Disposições institucionais e gerais
 
 ## TÍTULO I — Natureza e âmbito do Acordo
 
@@ -329,7 +340,7 @@ O diálogo político entre as Partes será levado a efeito no âmbito do enquadr
 
 As Partes promoverão igualmente a realização de reuniões periódicas entre representantes da sociedade civil da União Europeia e do Chile, incluindo a comunidade académica, os parceiros económicos e sociais e as organizações não governamentais, a fim de os manter informados sobre a aplicação do presente Acordo e de escutar as suas sugestões tendo em vista a melhoria da sua aplicação.
 
-# PARTE II — Diálogo político
+## PARTE II — Diálogo político
 
 ###### Artigo 12.º — Objectivos
 
@@ -371,7 +382,7 @@ b) Através do intercâmbio de informações sobre grupos terroristas e respecti
 
 c) Mediante o intercâmbio de opiniões sobre os meios e os métodos a utilizar para combater o terrorismo, incluindo nos domínios técnicos e da formação, bem como através do intercâmbio de experiências em matéria de prevenção do terrorismo.
 
-# PARTE III — Cooperação
+## PARTE III — Cooperação
 
 ###### Artigo 16.º — Objectivos gerais
 
@@ -967,7 +978,7 @@ c) Formular recomendações relativamente à cooperação estratégica entre as 
 
 d) Informar periodicamente o Conselho de Associação sobre a aplicação e o cumprimento dos objectivos da Parte III, bem como sobre outras questões aí contempladas.
 
-# PARTE IV — Comércio e outras matérias conexas
+## PARTE IV — Comércio e outras matérias conexas
 
 ## TÍTULO I — Disposições gerais
 
@@ -1065,7 +1076,7 @@ Os direitos aduaneiros aplicáveis à importação na Comunidade de produtos ind
 
 Percentagens de redução pautal anual
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 ###### Artigo 66.º — Direitos aduaneiros aplicáveis às importações de produtos industriais originários da Comunidade
 
@@ -1073,7 +1084,7 @@ Os direitos aduaneiros aplicáveis à importação no Chile de produtos originá
 
 Percentagens de redução pautal anual
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 ##### SUBSECÇÃO 2.2 — Peixe e produtos da pesca
 
@@ -1089,7 +1100,7 @@ A presente subsecção é aplicável ao peixe e aos produtos da pesca classifica
 
 Percentagens de redução pautal anual
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 2. A partir da data de entrada em vigor do presente Acordo, serão aplicados contingentes pautais às importações na Comunidade de certos peixes e produtos da pesca originários do Chile, incluídos na categoria «TQ» do Anexo I, de acordo com as condições definidas no referido anexo. Esses contingentes serão geridos segundo o princípio «primeiro a chegar, primeiro a ser servido».
 
@@ -1113,7 +1124,7 @@ Direitos aduaneiros aplicáveis às importações de produtos agrícolas e de pr
 
 Percentagens de redução pautal anual
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 2. No que respeita aos produtos agrícolas originários do Chile classificados nos Capítulos 7 e 8 e nas posições 20.09 and 22.04.30 da Nomenclatura Combinada, incluídos na categoria «EP» do Anexo I, relativamente aos quais a pauta aduaneira comum prevê a aplicação de direitos aduaneiros ad valorem e um direito aduaneiro específico, essa eliminação pautal será exclusivamente aplicável à parte ad valorem do direito.
 
@@ -1133,7 +1144,7 @@ Direitos aduaneiros aplicáveis às importações de produtos agrícolas e de pr
 
 Percentagens de redução pautal anual
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 2. A partir da data de entrada em vigor do presente Acordo, serão aplicados contingentes pautais às importações no Chile de certos produtos agrícolas originários da Comunidade, incluídos na categoria «TQ» do Anexo II, de acordo com as condições definidas no referido anexo. Esses contingentes serão administrados segundo o princípio «primeiro a chegar, primeiro a ser servido».
 
@@ -2545,13 +2556,19 @@ ii) Acordo de Madrid sobre o Registo Internacional de Marcas (Acto de Estocolmo 
 
 iii) Acordo de Viena que estabelece uma Classificação Internacional dos Elementos Figurativos das Marcas (Viena 1973, alterado em 1985).
 
-###### Artigo 171.º — Reexame
+Artigo 171.º
+
+Reexame
 
 As Partes manifestam o seu empenho em respeitarem as obrigações decorrentes das convenções multilaterais supramencionadas. O Conselho de Associação pode decidir incluir no artigo 170.º outras convenções multilaterais neste domínio.
 
-## TÍTULO VII — Concorrência
+TÍTULO VII
 
-###### Artigo 172.º — Objectivos
+Concorrência
+
+Artigo 172.º
+
+Objectivos
 
 1. As Partes comprometem-se a aplicar a respectiva legislação da concorrência em conformidade com o disposto na presente Parte do Acordo, de forma a evitar que as vantagens decorrentes do processo de liberalização das trocas comerciais de mercadorias e de serviços possam ser limitadas ou anuladas por condutas empresariais anticoncorrenciais. Para o efeito, as Partes acordam em assegurar a cooperação e a coordenação entre as respectivas autoridades competentes em matéria de concorrência, ao abrigo do disposto no presente Título.
 
@@ -2559,7 +2576,9 @@ As Partes manifestam o seu empenho em respeitarem as obrigações decorrentes da
 
 3. As Partes acordam em promover a cooperação e a coordenação entre as respectivas autoridades no que respeita à aplicação da legislação da concorrência. Essa cooperação incluirá notificações, consultas, intercâmbio de informações não confidenciais, bem como prestação de assistência técnica. As Partes reconhecem a importância de respeitarem os princípios em matéria de concorrência aceites por ambas no âmbito das instâncias multilaterais, designadamente a OMC.
 
-###### Artigo 173.º — Definições
+Artigo 173.º
+
+Definições
 
 Para efeitos do presente Título, entende-se por:
 
@@ -2579,7 +2598,9 @@ b) Relativamente ao Chile, a Fiscalía Nacional Económica e a Comisión Resolut
 
 3) «Actividades de aplicação da legislação», qualquer aplicação da legislação da concorrência, através de um inquérito ou um processo conduzido pela autoridade da concorrência de uma das Partes, de que possa resultar a imposição de sanções ou medidas correctivas.
 
-###### Artigo 174.º — Notificações
+Artigo 174.º
+
+Notificações
 
 1. As autoridades da concorrência notificarão às autoridades da concorrência da outra Parte todas as actividades de aplicação da legislação se as mesmas:
 
@@ -2595,11 +2616,13 @@ c) Disserem respeito a práticas anticoncorrenciais ocorridas principalmente no 
 
 4. As Partes comprometem-se a envidar todos os esforços para assegurarem que as notificações serão efectuadas nas condições acima enunciadas, tendo em conta os recursos administrativos disponíveis.
 
-###### Artigo 175.º — Coordenação das actividades de aplicação da legislação
+Artigo 175.º
+
+Coordenação das actividades de aplicação da legislação
 
 Uma autoridade da concorrência de uma das Partes poderá notificar a autoridade da concorrência da outra Parte da sua vontade de coordenar as suas actividades de aplicação da legislação relativamente a um caso específico. Essa coordenação não impedirá as Partes de tomarem decisões autónomas.
 
-###### Artigo 176.º
+Artigo 176.º
 
 Realização de consultas quando interesses importantes de uma das Partes forem afectados de forma negativa no território da outra Parte.
 
@@ -2607,7 +2630,9 @@ Realização de consultas quando interesses importantes de uma das Partes forem 
 
 2. Se uma autoridade da concorrência de qualquer das Partes considerar que os interesses dessa Parte estão a ser substancial e negativamente afectados por práticas anticoncorrenciais, independentemente da origem destas, pelas quais foram ou são responsáveis uma ou mais empresas estabelecidas na outra Parte, poderá solicitar a realização de consultas com a autoridade da concorrência dessa Parte. A realização dessas consultas não prejudica a total liberdade da autoridade da concorrência em questão quanto à decisão final. A autoridade da concorrência consultada poderá adoptar as medidas correctivas que considere adequadas ao abrigo da respectiva legislação da concorrência, em conformidade com o seu direito interno e sem prejuízo do seu poder discricionário absoluto em matéria de aplicação da lei.
 
-###### Artigo 177.º — Intercâmbio de informações e confidencialidade
+Artigo 177.º
+
+Intercâmbio de informações e confidencialidade
 
 1. A fim de facilitar a aplicação efectiva das respectivas legislações da concorrência, as autoridades da concorrência poderão proceder ao intercâmbio de informações não confidenciais.
 
@@ -2621,35 +2646,53 @@ Realização de consultas quando interesses importantes de uma das Partes forem 
 
 6. Quando a legislação de uma das Partes o preveja expressamente, podem ser fornecidas informações confidenciais aos respectivos tribunais, desde que estes se comprometam a manter a sua confidencialidade.
 
-###### Artigo 178.º — Assistência técnica
+Artigo 178.º
+
+Assistência técnica
 
 As Partes prestar-se-ão assistência técnica mútua a fim de tirarem partido das respectivas experiências e reforçarem a aplicação das respectivas legislações e políticas no domínio da concorrência.
 
-###### Artigo 179.º — Empresas públicas e empresas que beneficiam de direitos especiais ou exclusivos, incluindo os monopólios designados
+Artigo 179.º
+
+Empresas públicas e empresas que beneficiam de direitos especiais ou exclusivos, incluindo os monopólios designados
 
 1. Nenhuma disposição do presente Título impede as Partes de designarem ou manterem monopólios públicos ou privados, em conformidade com a respectiva legislação.
 
 2. No que respeita às empresas públicas e às empresas que beneficiem de direitos especiais ou exclusivos, o Comité de Associação assegurará que, a partir da entrada em vigor do presente Acordo, não seja adoptada ou mantida qualquer medida susceptível de distorcer as trocas comerciais de mercadorias e de serviços entre as Partes de forma contrária aos interesses das Partes, e que essas empresas estarão sujeitas às normas da concorrência, desde que a aplicação dessa normas não impeça o desempenho, de direito ou de facto, das funções específicas conferidas a essas empresas.
 
-###### Artigo 180.º — Resolução de litígios
+Artigo 180.º
+
+Resolução de litígios
 
 Nenhuma das Partes poderá recorrer ao mecanismo de resolução de litígios previsto no presente Acordo para resolver questões que digam respeito ao disposto no presente Título.
 
-## TÍTULO VIII — Resolução de litígios
+TÍTULO VIII
 
-### CAPÍTULO I — Objectivo e âmbito
+Resolução de litígios
 
-###### Artigo 181.º — Objectivo
+CAPÍTULO I
+
+Objectivo e âmbito
+
+Artigo 181.º
+
+Objectivo
 
 O presente Título tem por objectivo prevenir e resolver os litígios entre as Partes relativamente à aplicação de boa fé da presente Parte do Acordo e chegar a uma resolução mutuamente satisfatória de qualquer questão que possa afectar o seu funcionamento.
 
-###### Artigo 182.º — Âmbito
+Artigo 182.º
+
+Âmbito
 
 Salvo disposição expressa em contrário, o disposto no presente Título é aplicável a todas as questões decorrentes da interpretação e aplicação da presente Parte do Acordo.
 
-### CAPÍTULO II — Prevenção de litígios
+CAPÍTULO II
 
-###### Artigo 183.º — Consultas
+Prevenção de litígios
+
+Artigo 183.º
+
+Consultas
 
 1. As Partes esforçar-se-ão sempre chegar a acordo quanto à interpretação e à aplicação do disposto na presente Parte do Acordo e envidarão todos os esforços, através da cooperação e da realização de consultas, para prevenirem e solucionarem eventuais litígios entre si e para chegarem a soluções mutuamente satisfatórias relativamente a qualquer questão que possa afectar o funcionamento do Acordo.
 
@@ -2657,9 +2700,13 @@ Salvo disposição expressa em contrário, o disposto no presente Título é apl
 
 3. O Conselho de Associação deverá reunir-se no prazo de trinta dias a contar da data de apresentação do pedido. Logo após o início das consultas, as Partes fornecerão informações que permitam analisar o modo como a medida ou qualquer outra questão pode afectar o funcionamento e a aplicação do disposto na presente Parte do Acordo, devendo tratar de forma confidencial todas as informações trocadas no âmbito das consultas. O Conselho de Associação procurará resolver rapidamente o litígio através de uma decisão. Essa decisão deverá especificar as medidas que a Parte em causa deverá adoptar, bem como o prazo para a sua adopção.
 
-### CAPÍTULO III — Procedimento de resolução de litígios
+CAPÍTULO III
 
-###### Artigo 184.º — Início do procedimento
+Procedimento de resolução de litígios
+
+Artigo 184.º
+
+Início do procedimento
 
 1. As Partes esforçar-se-ão sempre chegar a um acordo mutuamente satisfatório sobre o litígio.
 
@@ -2667,7 +2714,9 @@ Salvo disposição expressa em contrário, o disposto no presente Título é apl
 
 3. A Parte requerente deverá indicar no pedido a medida que considera violar o disposto na presente Parte do Acordo, assim como as disposições do Acordo que considera aplicáveis, transmitindo o pedido à outra Parte e ao Comité de Associação.
 
-###### Artigo 185.º — Nomeação dos árbitros
+Artigo 185.º
+
+Nomeação dos árbitros
 
 1. Os painéis de arbitragem serão compostos por três árbitros.
 
@@ -2681,11 +2730,15 @@ Salvo disposição expressa em contrário, o disposto no presente Título é apl
 
 6. Em caso de impedimento, renúncia ou substituição de um árbitro, o seu substituto deverá ser seleccionado no prazo de três dias, de acordo com o procedimento seguido para a selecção desse árbitro. Nesse caso, os prazos aplicáveis ao procedimento do painel de arbitragem serão suspensos entre a data do impedimento, renúncia ou substituição desse árbitro e a data da selecção do seu substituto.
 
-###### Artigo 186.º — Informações e assessoria técnica
+Artigo 186.º
+
+Informações e assessoria técnica
 
 A pedido de uma das Partes ou por sua própria iniciativa, o painel de arbitragem pode procurar obter informações e assessoria técnica junto de pessoas ou organismos que considere adequados. Quaisquer informações assim obtidas deverão ser comunicadas às Partes para que estas formulem as suas observações.
 
-###### Artigo 187.º — Decisão do painel de arbitragem
+Artigo 187.º
+
+Decisão do painel de arbitragem
 
 1. Em princípio, o painel de arbitragem comunicará a sua decisão com os resultados e as conclusões às Partes e ao Comité de Associação, o mais tardar, três meses a contar da data da sua constituição. Essa decisão não deve, em caso algum, ser comunicada num prazo superior a cinco meses a contar dessa data. O painel de arbitragem baseará a sua decisão nas observações e comunicações apresentadas pelas Partes, assim como em quaisquer informações que tenha recebido em conformidade com o disposto no artigo 186.º. A decisão do painel de arbitragem é definitiva e tornada pública.
 
@@ -2703,7 +2756,9 @@ A pedido de uma das Partes ou por sua própria iniciativa, o painel de arbitrage
 
 8. O painel de arbitragem pode, a pedido da Parte requerente e com o acordo da Parte requerida, suspender os seus trabalhos em qualquer momento por um período não superior a doze meses. Caso o painel suspenda os seus trabalhos, os prazos previstos nos n.os 1 e 5 serão prorrogados pelo período de tempo correspondente à suspensão dos trabalhos. Se os trabalhos forem suspensos por um período superior a doze meses, o poder para a constituição do painel caducará, sem prejuízo do direito de posteriormente a Parte requerente poder solicitar a constituição de um novo painel de arbitragem para analisar a mesma questão.
 
-###### Artigo 188.º — Cumprimento
+Artigo 188.º
+
+Cumprimento
 
 1. As Partes são obrigadas a adoptar as medidas necessárias para darem cumprimento às decisões dos painéis de arbitragem.
 
@@ -2733,9 +2788,13 @@ c) Uma proposta concreta de compensação temporária, até à aplicação integ
 
 11. As decisões previstas no presente artigo são definitivas e vinculativas. Devem ser transmitidas ao Comité de Associação e tornadas públicas.
 
-### CAPÍTULO IV — Disposições gerais
+CAPÍTULO IV
 
-###### Artigo 189.º — Disposições gerais
+Disposições gerais
+
+Artigo 189.º
+
+Disposições gerais
 
 1. Qualquer prazo referido no presente Título poderá ser alterado por acordo mútuo entre as Partes.
 
@@ -2751,9 +2810,13 @@ c) Salvo decisão em contrário das Partes, se uma das Partes pretender obter re
 
 d) Uma vez iniciado o procedimento de resolução de litígios, deverá ser utilizada exclusivamente a instância seleccionada, a menos que esta se tenha declarado incompetente. As eventuais questões relativas à jurisdição dos painéis de arbitragem constituídos ao abrigo do presente Título devem ser suscitadas no prazo de dez dias a contar da data da constituição do painel e decididas por decisão preliminar do painel adoptada no prazo de trinta dias a contar da sua constituição.
 
-## TÍTULO IX — Transparência
+TÍTULO IX
 
-###### Artigo 190.º — Pontos de contacto e intercâmbio de informações
+Transparência
+
+Artigo 190.º
+
+Pontos de contacto e intercâmbio de informações
 
 1. A fim de facilitar a comunicação entre as Partes sobre quaisquer questões relativas às trocas comerciais abrangidas pela presente Parte do Acordo, cada Parte designará um ponto de contacto. A pedido de qualquer das Partes, o ponto de contacto da outra Parte indicará o serviço ou o funcionário responsável pelo assunto em causa e prestará a assistência necessária para facilitar a comunicação com a Parte requerente.
 
@@ -2761,19 +2824,25 @@ d) Uma vez iniciado o procedimento de resolução de litígios, deverá ser util
 
 3. Considera-se que as informações referidas no presente artigo foram prestadas quando tiverem sido comunicadas através de notificação adequada à OMC ou quando puderem ser consultadas gratuita e publicamente no website oficial da Parte em causa.
 
-###### Artigo 191.º — Cooperação para uma maior transparência
+Artigo 191.º
+
+Cooperação para uma maior transparência
 
 As Partes acordam em cooperar no âmbito das instâncias bilaterais e multilaterais, a fim de identificarem possibilidades de se aumentar a transparência nas questões comerciais.
 
-###### Artigo 192.º — Publicação
+Artigo 192.º
+
+Publicação
 
 As Partes assegurarão que as respectivas legislações, regulamentações, procedimentos e decisões administrativas de aplicação geral, relativos a quaisquer questões comerciais abrangidas pela presente Parte do Acordo, serão prontamente publicados ou tornados públicos.
 
-## TÍTULO X
+TÍTULO X
 
 Atribuições específicas dos organismos criados no âmbito do presente acordo no que respeita às questões comerciais.
 
-###### Artigo 193.º — Atribuições específicas
+Artigo 193.º
+
+Atribuições específicas
 
 1. Quando o Comité de Associação desempenhar qualquer das atribuições que lhe são conferidas no âmbito da presente Parte do Acordo, será constituído por representantes da Comunidade e do Chile responsáveis pelas questões relativas às trocas comerciais, normalmente a nível de altos funcionários.
 
@@ -2805,9 +2874,13 @@ d) Adoptar decisões ou formular recomendações sobre quaisquer questões relac
 
 4. Nos termos do artigo 5.º e do n.º 4 do artigo 6.º, as Partes aplicarão as decisões resultantes da aplicação do n.º 5 do artigo 60.º, do artigo 74.º e do artigo 38.º do Anexo III em conformidade com o disposto no Anexo XVII.
 
-## TÍTULO XI — Excepções no âmbito das trocas comerciais
+TÍTULO XI
 
-###### Artigo 194.º — Cláusula de segurança nacional
+Excepções no âmbito das trocas comerciais
+
+Artigo 194.º
+
+Cláusula de segurança nacional
 
 1. Nenhuma disposição do presente Acordo poderá ser interpretada no sentido de:
 
@@ -2827,7 +2900,9 @@ c) Impedir uma das Partes de adoptar medidas em cumprimento das suas obrigaçõe
 
 2. O Comité de Associação será mantido informado tanto quanto possível das medidas adoptadas nos termos das alíneas b) e c) do n.º 1, bem como da cessação da sua aplicação.
 
-###### Artigo 195.º — Dificuldades a nível da balança de pagamentos
+Artigo 195.º
+
+Dificuldades a nível da balança de pagamentos
 
 1. Se uma das Partes enfrentar sérias dificuldades a nível da balança de pagamentos e da sua situação financeira externa ou existir uma ameaça de dificuldades desse tipo, poderá adoptar ou manter em vigor medidas restritivas ao comércio de mercadorias e de serviços, bem como aos pagamentos e movimentos de capitais, incluindo os relacionados com os investimentos directos.
 
@@ -2847,7 +2922,9 @@ c) Eventuais medidas correctivas alternativas a que seja possível recorrer.
 
 No âmbito dessas consultas será analisada a conformidade das medidas restritivas com o disposto nos n.os 3 e 4. Deverão ser aceites todos os dados de natureza estatística ou de outro tipo apresentados pelo Fundo Monetário Internacional relativamente a câmbios, reservas monetárias ou balança de pagamentos. As conclusões basear-se-ão na avaliação efectuada pelo Fundo da situação da balança de pagamentos e da situação financeira externa da Parte que solicitou as consultas.
 
-###### Artigo 196.º — Fiscalidade
+Artigo 196.º
+
+Fiscalidade
 
 1. Nenhuma disposição da presente Parte do Acordo ou de quaisquer convénios adoptados ao abrigo do presente Acordo pode ser interpretada no sentido de impedir que as Partes, na aplicação das disposições pertinentes da sua legislação fiscal, estabeleçam uma distinção entre contribuintes que não se encontrem numa situação idêntica, nomeadamente no que respeita ao seu local de residência ou ao local em que os seus capitais são investidos.
 
@@ -2855,13 +2932,19 @@ No âmbito dessas consultas será analisada a conformidade das medidas restritiv
 
 3. Nenhuma disposição da presente Parte do Acordo prejudica os direitos e as obrigações das Partes decorrentes de quaisquer convenções de natureza fiscal. Em caso de incompatibilidade entre o disposto no presente Acordo e qualquer convenção desse tipo, esta última prevalecerá relativamente às disposições incompatíveis.
 
-# PARTE V — Disposições finais
+PARTE V
 
-###### Artigo 197.º — Definição de Partes
+Disposições finais
+
+Artigo 197.º
+
+Definição de Partes
 
 Para efeitos do presente Acordo, a expressão «Partes» designa, por um lado, a Comunidade ou os seus Estados-Membros, ou a Comunidade e os seus Estados-Membros, no âmbito das respectivas competências, como previstas no Tratado que institui a Comunidade Europeia, e, por outro, a República do Chile.
 
-###### Artigo 198.º — Entrada em vigor
+Artigo 198.º
+
+Entrada em vigor
 
 1. O presente Acordo entra em vigor no primeiro dia do mês seguinte à data em que as Partes procederem à notificação recíproca do cumprimento das formalidades necessárias para o efeito.
 
@@ -2873,7 +2956,9 @@ Para efeitos do presente Acordo, a expressão «Partes» designa, por um lado, a
 
 5. A partir da data da sua entrada em vigor e em conformidade com o disposto no n.º 1, o presente Acordo substituirá o Acordo-Quadro de Cooperação em vigor entre as Partes. A título excepcional, o Protocolo de 13 de Junho de 2001, relativo à Assistência Mútua em Matéria Aduaneira, do Acordo-Quadro de Cooperação continuará a vigorar, tornando-se parte integrante do presente Acordo.
 
-###### Artigo 199.º — Vigência
+Artigo 199.º
+
+Vigência
 
 1. O presente Acordo tem uma vigência indeterminada.
 
@@ -2881,7 +2966,9 @@ Para efeitos do presente Acordo, a expressão «Partes» designa, por um lado, a
 
 3. A denúncia produzirá efeitos seis meses após a data da sua notificação à outra Parte.
 
-###### Artigo 200.º — Cumprimento das obrigações
+Artigo 200.º
+
+Cumprimento das obrigações
 
 1. As Partes adoptarão todas as medidas gerais ou específicas necessárias ao cumprimento das obrigações que lhes incumbem por força do presente Acordo e velarão pelo cumprimento dos objectivos nele fixados.
 
@@ -2899,35 +2986,49 @@ A outra Parte poderá solicitar que seja realizada, no prazo de 15 dias, uma reu
 
 4. Em derrogação do disposto no n.º 2, se uma das Partes considerar que a outra Parte não cumpriu qualquer das obrigações que lhe incumbem por força da Parte IV, deverá recorrer exclusivamente ao procedimento de resolução de litígios previsto no Título VIII da Parte IV e acatar a solução assim encontrada.
 
-###### Artigo 201.º — Evolução futura
+Artigo 201.º
+
+Evolução futura
 
 1. Tendo em conta a experiência adquirida com a aplicação do presente Acordo, as Partes poderão, de mútuo acordo, alargar o âmbito do Acordo, a fim de aprofundar e complementar o seu âmbito de aplicação, em conformidade com as respectivas legislações, mediante a conclusão de acordos relativos a actividades ou a sectores específicos.
 
 2. No que respeita à aplicação do presente Acordo, qualquer das Partes poderá formular sugestões tendo em vista o alargamento do âmbito da cooperação em todos os domínios, em função da experiência adquirida com a sua aplicação.
 
-###### Artigo 202.º — Protecção de dados
+Artigo 202.º
+
+Protecção de dados
 
 As Partes acordam em assegurar um nível elevado de protecção no tratamento dos dados de carácter pessoal ou de outro tipo, em conformidade com as normas internacionais mais rigorosas.
 
-###### Artigo 203.º — Cláusula de segurança nacional
+Artigo 203.º
+
+Cláusula de segurança nacional
 
 O disposto no artigo 194.º será aplicável à totalidade do Acordo.
 
-###### Artigo 204.º — Aplicação territorial
+Artigo 204.º
+
+Aplicação territorial
 
 O presente Acordo é aplicável, por um lado, nos territórios em que se aplica o Tratado que institui a Comunidade Europeia, nas condições nele previstas, e, por outro, no território da República do Chile.
 
-###### Artigo 205.º — Textos que fazem fé
+Artigo 205.º
+
+Textos que fazem fé
 
 O presente Acordo é redigido em duplo exemplar nas línguas alemã, dinamarquesa, espanhola, finlandesa, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e sueca, fazendo fé qualquer dos textos.
 
-###### Artigo 206.º — Anexos, Apêndices, Protocolos e Notas
+Artigo 206.º
+
+Anexos, Apêndices, Protocolos e Notas
 
 Os Anexos, Apêndices, Protocolos e Notas do presente Acordo fazem dele parte integrante.
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## ANEXO I — Calendário de desmantelamento pautal da comunidade
+ANEXO I
+
+Calendário de desmantelamento pautal da comunidade
 
 (referido nos artigos 60.º, 65.º, 68.º e 71.º do Acordo de Associação)
 
@@ -2965,7 +3066,9 @@ d) "Categoria": categoria ou categorias a que pertence o produto para efeitos de
 
 Esta descrição do calendário pautal destina-se apenas a facilitar a compreensão do presente anexo, não pretendendo substituir ou alterar as disposições relevantes do Título II da Parte IV.
 
-#### SECÇÃO 1 — Contingentes pautais para produtos da categoria "TQ", referidos no n.º 2 do artigo 68.º e no n.º 5 do artigo 71.º
+SECÇÃO 1
+
+Contingentes pautais para produtos da categoria "TQ", referidos no n.º 2 do artigo 68.º e no n.º 5 do artigo 71.º
 
 As seguintes concessões pautais serão aplicáveis anualmente, a partir da data da entrada em vigor do Acordo, às importações para a Comunidade dos produtos originários do Chile:
 
@@ -3019,21 +3122,25 @@ O direito aduaneiro de base por contingente do qual parte o desmantelamento paut
 
 5. A Comunidade autorizará a importação de uma quantidade total de 150 toneladas métricas de conservas de atuns, excepto filetes denominados "lombos", classificadas nas posições 16041411, 16041418, 16041939 e 16042070 e enumeradas no presente anexo na categoria "TQ(5)", com um direito aduaneiro preferencial de um terço do direito NMF aplicável no momento da importação.
 
-#### SECÇÃO 2
+SECÇÃO 2
 
 Os preços de entrada actualmente aplicáveis a produtos enumerados na categoria "EP" do presente anexo são estabelecidos no Apêndice.
 
-#### SECÇÃO 3 — Calendário de desmantelamento pautal da comunidade
+SECÇÃO 3
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+Calendário de desmantelamento pautal da comunidade
 
-## Apêndice
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+
+Apêndice
 
 (referido na Secção 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## ANEXO II — Calendário de desmantelamento pautal do Chile
+ANEXO II
+
+Calendário de desmantelamento pautal do Chile
 
 (referido nos artigos 60.º, 66.º, 69.º e 72.º do Acordo de Associação)
 
@@ -3061,7 +3168,9 @@ d) «Categoria»: categoria ou categorias a que pertence o produto para efeitos 
 
 Esta descrição do calendário pautal destina-se apenas a facilitar a compreensão do presente anexo, não pretendendo substituir ou alterar as disposições relevantes do Título II da Parte IV.
 
-#### SECÇÃO 1 — Contingentes pautais para produtos da categoria «TQ», referidos no n.º 2 do artigo 69.º e no n.º 2 do artigo 72.º
+SECÇÃO 1
+
+Contingentes pautais para produtos da categoria «TQ», referidos no n.º 2 do artigo 69.º e no n.º 2 do artigo 72.º
 
 As seguintes concessões pautais serão aplicáveis anualmente, a partir da data da entrada em vigor do presente acordo, às importações para o Chile dos produtos originários da Comunidade:
 
@@ -3081,17 +3190,25 @@ b) uma quantidade total de 40 toneladas métricas de produtos classificados nas 
 
 4. O Chile autorizará a importação de uma quantidade total de 150 toneladas métricas de produtos classificados nas posições ex 1604.14.10, ex 1604.14.20, ex 1604.19.90, ex 1604.20.10 e ex 1604.20.90, excepto filetes denominados «lombos», enumerados no presente anexo na categoria «TQ(4)», com um direito aduaneiro preferencial de um terço do direito NMF aplicável no momento da importação.
 
-#### SECÇÃO 2 — Calendário de desmantelamento pautal do Chile
+SECÇÃO 2
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+Calendário de desmantelamento pautal do Chile
 
-## ANEXO III — Definição da noção de «produtos originários» e métodos de cooperação administrativa
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+
+ANEXO III
+
+Definição da noção de «produtos originários» e métodos de cooperação administrativa
 
 (referida no artigo 58.º do Acordo de Associação)
 
-## TÍTULO I — Disposições gerais
+TÍTULO I
 
-###### Artigo 1.º — Definições
+Disposições gerais
+
+Artigo 1.º
+
+Definições
 
 Para efeitos do presente anexo:
 
@@ -3121,11 +3238,13 @@ l) «Tratamento pautal preferencial» é o direito aduaneiro aplicável a uma me
 
 m) «Autoridade aduaneira ou autoridade governamental competente» são as autoridades aduaneiras na Comunidade e a Dirección General de Relaciones Económicas Internacionales (DIRECON) do Ministério das Relações Externas do Chile.
 
-## TÍTULO II
+TÍTULO II
 
 Definição da noção de «produtos originários»
 
-###### Artigo 2.º — Requisitos gerais
+Artigo 2.º
+
+Requisitos gerais
 
 1. Para efeitos de aplicação da Parte IV, Título II, do presente Acordo, são considerados originários da Comunidade os seguintes produtos:
 
@@ -3139,13 +3258,17 @@ a) Os produtos inteiramente obtidos no Chile, na acepção do artigo 4.º;
 
 b) Os produtos obtidos no Chile, em cuja fabricação sejam utilizadas matérias que aí não tenham sido inteiramente obtidas, desde que essas matérias tenham sido submetidas no Chile a operações de complemento de fabrico ou de transformação suficientes, na acepção do artigo 5.º
 
-###### Artigo 3.º — Acumulação bilateral da origem
+Artigo 3.º
+
+Acumulação bilateral da origem
 
 1. As matérias originárias da Comunidade serão consideradas matérias originárias do Chile, quando forem incorporadas num produto aí obtido, sem que seja necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes, desde que tenham sido objecto de operações de complemento de fabrico ou de transformação que excedam as referidas no artigo 6.º
 
 2. As matérias originárias do Chile serão consideradas matérias originárias da Comunidade, quando forem incorporadas num produto aí obtido, sem que seja necessário que essas matérias tenham sido submetidas a operações de complemento de fabrico ou de transformação suficientes, desde que tenham sido objecto de operações de complemento de fabrico ou de transformação que excedam as referidas no artigo 6.º
 
-###### Artigo 4.º — Produtos inteiramente obtidos
+Artigo 4.º
+
+Produtos inteiramente obtidos
 
 1. Consideram-se inteiramente obtidos na Comunidade ou no Chile:
 
@@ -3193,7 +3316,9 @@ b) O seu comandante e, pelo menos, 75 por cento da sua tripulação, incluindo o
 
 (nota 1) Na medida em que qualquer transferência de direitos de soberania entre as Partes, como o definem as regras internacionais, está sujeita a negociações, a presente disposição não se aplica aos produtos da pesca marítima e a outros produtos extraídos do mar por navios comunitários na zona económica exclusiva do Chile ou a produtos da pesca marítima e outros produtos extraídos do mar por navios chilenos na zona económica exclusiva dos Estados-Membros da Comunidade.
 
-###### Artigo 5.º — Produtos objecto de operações de complemento de fabrico ou de transformação suficientes
+Artigo 5.º
+
+Produtos objecto de operações de complemento de fabrico ou de transformação suficientes
 
 1. Para efeitos do artigo 2.º, os produtos que não tenham sido inteiramente obtidos são considerados objecto de operações de complemento de fabrico ou de transformação suficientes, quando estiverem preenchidas as condições estabelecidas na lista do Apêndice II.
 
@@ -3213,7 +3338,9 @@ Sem prejuízo das notas 5 e 6 do Apêndice I, o presente número não se aplica 
 
 4. Aplica-se o disposto nos n.os 1, 2 e 3, excepto nos casos previstos no artigo 6.º
 
-###### Artigo 6.º — Operações de complemento de fabrico ou de transformação insuficientes
+Artigo 6.º
+
+Operações de complemento de fabrico ou de transformação insuficientes
 
 1. Sem prejuízo do n.º 2, consideram-se insuficientes para conferir a qualidade de produto originário, independentemente de estarem ou não satisfeitas as condições do artigo 5.º, as seguintes operações de complemento de fabrico ou de transformação:
 
@@ -3253,7 +3380,9 @@ q) Abate de animais.
 
 2. Todas as operações efectuadas na Comunidade ou no Chile a um dado produto são consideradas em conjunto para determinar se a operação de complemento de fabrico ou de transformação a que o produto foi submetido devem ser consideradas como insuficientes na acepção do n.º 1.
 
-###### Artigo 7.º — Unidade de qualificação
+Artigo 7.º
+
+Unidade de qualificação
 
 1. A unidade de qualificação para a aplicação das disposições do presente anexo é o produto específico considerado como unidade básica para a determinação da classificação através da nomenclatura do Sistema Harmonizado.
 
@@ -3265,7 +3394,9 @@ b) Quando uma remessa for composta por um certo número de produtos idênticos c
 
 2. Quando, em aplicação da regra geral 5 do Sistema Harmonizado, as embalagens forem consideradas na classificação do produto, devem ser igualmente consideradas para efeitos de determinação da origem. Qualquer outro tipo de acondicionamento não será considerado para efeitos de determinação da origem.
 
-###### Artigo 8.º — Acessórios, peças sobressalentes e ferramentas
+Artigo 8.º
+
+Acessórios, peças sobressalentes e ferramentas
 
 Os acessórios, peças sobressalentes e ferramentas expedidos com uma parte de equipamento, uma máquina, um aparelho ou um veículo:
 
@@ -3275,11 +3406,15 @@ Os acessórios, peças sobressalentes e ferramentas expedidos com uma parte de e
 
 serão considerados como constituindo um todo com a parte do equipamento, a máquina, o aparelho ou o veículo em causa.
 
-###### Artigo 9.º — Sortidos
+Artigo 9.º
+
+Sortidos
 
 Os sortidos, definidos na regra geral 3 do Sistema Harmonizado, são considerados originários quando todos os produtos que o compõem forem produtos originários. No entanto, um sortido composto por produtos originários e produtos não originários será considerado originário no seu conjunto, desde que o valor dos produtos não originários não exceda 15 por cento do preço à saída da fábrica do sortido.
 
-###### Artigo 10.º — Elementos neutros
+Artigo 10.º
+
+Elementos neutros
 
 A fim de determinar se um produto é originário, não é necessário averiguar a origem dos seguintes factores eventualmente utilizados na sua fabricação:
 
@@ -3291,9 +3426,13 @@ c) Máquinas e ferramentas;
 
 d) Mercadorias que não entram nem se destinam a entrar na composição final do produto.
 
-## TÍTULO III — Requisitos territoriais
+TÍTULO III
 
-###### Artigo 11.º — Princípio da territorialidade
+Requisitos territoriais
+
+Artigo 11.º
+
+Princípio da territorialidade
 
 1. As condições estabelecidas no Título II relativas à aquisição da qualidade de produto originário devem ser satisfeitas ininterruptamente na Comunidade ou no Chile.
 
@@ -3303,7 +3442,9 @@ a) As mercadorias reimportadas são as mesmas que foram exportadas; e
 
 b) Não foram sujeitas a outras manipulações para além das necessárias para assegurar a sua conservação no seu estado inalterado enquanto permaneceram nesse país ou quando da sua exportação.
 
-###### Artigo 12.º — Transporte directo
+Artigo 12.º
+
+Transporte directo
 
 1. O regime preferencial previsto nos termos do presente Acordo só se aplica aos produtos que, satisfazendo os requisitos do presente anexo, sejam transportados directamente entre a Comunidade e o Chile. Todavia, o transporte de produtos que constituem uma só remessa pode efectuar-se através de outros territórios com eventuais transbordos ou armazenagem temporária nesses territórios, desde que permaneçam sob fiscalização das autoridades aduaneiras do país de trânsito ou de armazenagem e não sejam objecto de outras operações para além das de descarga, de recarga ou qualquer outra operação destinada a assegurar a sua conservação no seu estado inalterado.
 
@@ -3321,7 +3462,9 @@ iii) a certificação das condições em que os produtos permaneceram no país d
 
 c) Na sua falta, de quaisquer outros documentos probatórios.
 
-###### Artigo 13.º — Exposições
+Artigo 13.º
+
+Exposições
 
 1. Os produtos originários expedidos para figurarem numa exposição num país distinto dos Estados-Membros da Comunidade ou do Chile e vendidos após essa exposição para importação para a Comunidade ou o Chile beneficiam, na importação, do disposto no presente Acordo, desde que seja apresentada às autoridades aduaneiras do país de importação prova suficiente de que:
 
@@ -3339,9 +3482,13 @@ e) Os produtos permaneceram sob controlo aduaneiro durante a exposição.
 
 3. O n.º 1 aplica-se a todas as exposições, feiras ou manifestações públicas análogas de carácter comercial, industrial, agrícola ou artesanal, que não sejam organizadas para fins privados em lojas e outros estabelecimentos comerciais para venda de produtos estrangeiros.
 
-## TÍTULO IV — Draubaque ou isenção
+TÍTULO IV
 
-###### Artigo 14.º — Proibição de draubaque ou de isenção de direitos aduaneiros
+Draubaque ou isenção
+
+Artigo 14.º
+
+Proibição de draubaque ou de isenção de direitos aduaneiros
 
 1. As matérias não originárias, utilizadas na fabricação de produtos originários da Comunidade ou do Chile, para as quais é emitida uma prova de origem em conformidade com as disposições do Título V, não serão objecto, na Comunidade nem no Chile, de draubaque ou de isenção de direitos aduaneiros.
 
@@ -3355,9 +3502,13 @@ e) Os produtos permaneceram sob controlo aduaneiro durante a exposição.
 
 6. O presente artigo aplica-se a partir de 1 de Janeiro de 2007.
 
-## TÍTULO V — Prova de origem
+TÍTULO V
 
-###### Artigo 15.º — Requisitos gerais
+Prova de origem
+
+Artigo 15.º
+
+Requisitos gerais
 
 1. Os produtos originários da Comunidade, quando da importação para o Chile, e os produtos originários do Chile, quando da importação para a Comunidade, beneficiam das disposições do presente acordo mediante apresentação das seguintes provas de origem:
 
@@ -3369,7 +3520,9 @@ b) Nos casos referidos no n.º 1 do artigo 20.º, uma declaração, a seguir des
 
 2. Não obstante o disposto no n.º 1, os produtos originários na acepção do presente anexo beneficiam, nos casos previstos no artigo 25.º, das disposições do presente acordo, sem que seja necessário apresentar nenhum dos documentos acima referidos.
 
-###### Artigo 16.º — Procedimento para a emissão do certificado de circulação EUR.1
+Artigo 16.º
+
+Procedimento para a emissão do certificado de circulação EUR.1
 
 1. O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras ou pelas autoridades governamentais competentes do país de exportação, mediante pedido escrito do exportador ou, sob a sua responsabilidade, do seu representante habilitado.
 
@@ -3385,7 +3538,9 @@ b) Nos casos referidos no n.º 1 do artigo 20.º, uma declaração, a seguir des
 
 7. O certificado de circulação EUR.1 é emitido pelas autoridades aduaneiras ou pelas autoridades governamentais competentes e fica à disposição do exportador logo que os produtos tenham sido efectivamente exportados ou assegurada a sua exportação.
 
-###### Artigo 17.º — Emissão a posteriori do certificado de circulação EUR.1
+Artigo 17.º
+
+Emissão a posteriori do certificado de circulação EUR.1
 
 1. Não obstante o disposto no n.º 7 do artigo 16.º, o certificado de circulação EUR.1 pode excepcionalmente ser emitido após a exportação dos produtos a que se refere, se:
 
@@ -3411,7 +3566,7 @@ b) Se apresentar às autoridades aduaneiras ou às autoridades governamentais co
 
 «ISSUED RETROSPECTIVELY»,
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 «EXPEDIDO A POSTERIORI»,
 
@@ -3423,7 +3578,9 @@ b) Se apresentar às autoridades aduaneiras ou às autoridades governamentais co
 
 5. As menções referidas no n.º 4 devem ser inscritas na casa «Observações» do certificado de circulação EUR.1.
 
-###### Artigo 18.º — Emissão de uma segunda via do certificado de circulação EUR.1
+Artigo 18.º
+
+Emissão de uma segunda via do certificado de circulação EUR.1
 
 1. Em caso de furto, extravio ou inutilização de um certificado de circulação EUR.1, o exportador pode, mediante justificação, pedir às autoridades aduaneiras ou às autoridades governamentais competentes que o emitiram uma segunda via, passada com base nos documentos de exportação em posse dessas autoridades.
 
@@ -3439,7 +3596,7 @@ b) Se apresentar às autoridades aduaneiras ou às autoridades governamentais co
 
 «DUPLICATE»,
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 «DUPLICADO»,
 
@@ -3451,11 +3608,15 @@ b) Se apresentar às autoridades aduaneiras ou às autoridades governamentais co
 
 4. A segunda via, que deve conter a data de emissão do certificado de circulação EUR.1 original, produz efeitos a partir dessa data.
 
-###### Artigo 19.º — Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
+Artigo 19.º
+
+Emissão de certificados de circulação EUR.1 com base numa prova de origem emitida anteriormente
 
 Quando os produtos originários forem colocados sob controlo de uma estância aduaneira na Comunidade ou no Chile, a substituição da prova de origem inicial por um ou mais certificados de circulação EUR.1 é sempre possível para a expedição de todos ou alguns desses produtos para outros locais situados na Comunidade ou no Chile. O ou os certificados de circulação EUR.1 de substituição serão emitidos pela primeira estância aduaneira de entrada na Comunidade ou no Chile sob cujo controlo os produtos foram colocados.
 
-###### Artigo 20.º — Condições para efectuar uma declaração na factura
+Artigo 20.º
+
+Condições para efectuar uma declaração na factura
 
 1. A declaração na factura referida na alínea b) do n.º 1 do artigo 15.º pode ser efectuada:
 
@@ -3475,7 +3636,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 6. A declaração na factura pode ser efectuada pelo exportador quando da exportação dos produtos a que se refere, ou após a exportação, sob condição de ser apresentada às autoridades aduaneiras do país de importação o mais tardar dois anos após a importação dos produtos a que se refere.
 
-###### Artigo 21.º — Exportador autorizado
+Artigo 21.º
+
+Exportador autorizado
 
 1. As autoridades aduaneiras ou as autoridades governamentais competentes do país de exportação podem autorizar qualquer exportador, a seguir designado «exportador autorizado», que efectue frequentemente expedições de produtos originários ao abrigo do presente acordo a efectuar declarações na factura, independentemente do valor dos produtos em causa. Os exportadores que pretendam obter essa autorização, devem oferecer às autoridades aduaneiras ou às autoridades governamentais competentes todas as garantias necessárias para que se possa verificar a qualidade de originário dos produtos, bem como o cumprimento dos outros requisitos previstos no presente anexo.
 
@@ -3487,7 +3650,9 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 5. As autoridades aduaneiras ou as autoridades governamentais competentes podem retirar a autorização em qualquer altura. Devem fazê-lo quando o exportador autorizado deixar de oferecer as garantias referidas no n.º 1, deixar de preencher as condições referidas no n.º 2 ou fizer um uso incorrecto da autorização.
 
-###### Artigo 22.º — Prazo de validade da prova de origem
+Artigo 22.º
+
+Prazo de validade da prova de origem
 
 1. A prova de origem referida no n.º 1 do artigo 15.º é válida por dez meses a contar da data de emissão no país de exportação, devendo ser apresentada dentro desse prazo às autoridades aduaneiras do país de importação.
 
@@ -3497,17 +3662,23 @@ b) Por qualquer exportador, no respeitante às remessas que consistam num ou mai
 
 4. Em conformidade com a legislação nacional do país de importação, o tratamento preferencial pode também ser concedido, sempre que aplicável mediante reembolso de direitos, no prazo de, pelo menos, dois anos a contar da data de aceitação da declaração de importação, quando for apresentada uma prova de origem em como as mercadorias importadas podiam, nessa data, beneficiar do referido tratamento.
 
-###### Artigo 23.º — Apresentação da prova de origem
+Artigo 23.º
+
+Apresentação da prova de origem
 
 1. As provas de origem são apresentadas às autoridades aduaneiras do país de importação de acordo com os procedimentos aí aplicáveis. As referidas autoridades podem exigir a tradução da prova de origem, que pode ser efectuada pelo importador. Podem também exigir que a declaração de importação se faça acompanhar de uma declaração do importador em como os produtos satisfazem as condições requeridas para a aplicação do Acordo.
 
 2. Os requisitos previstos no n.º 1 relativos à tradução e à declaração do importador não são sistemáticos e só se devem aplicar tendo em vista esclarecer as informações apresentadas ou assegurar que o importador assuma plena responsabilidade pela origem declarada.
 
-###### Artigo 24.º — Importação em remessas escalonadas
+Artigo 24.º
+
+Importação em remessas escalonadas
 
 Quando, a pedido do importador e nas condições estabelecidas pelas autoridades aduaneiras do país de importação, um produto desmontado ou por montar, na acepção da alínea a) da regra geral 2 do Sistema Harmonizado, classificado nas Secções XVI e XVII ou nas posições 7308 e 9406 do Sistema Harmonizado, for importado em remessas escalonadas, será apresentada uma única prova de origem desse produto às autoridades aduaneiras quando da importação da primeira remessa escalonada.
 
-###### Artigo 25.º — Isenções da prova de origem
+Artigo 25.º
+
+Isenções da prova de origem
 
 1. Os produtos enviados por particulares a particulares, ou contidos na bagagem pessoal dos viajantes, são considerados produtos originários, sem que seja necessária a apresentação de uma prova de origem, desde que não sejam importados com fins comerciais e tenham sido declarados como satisfazendo os requisitos do presente anexo, e quando não subsistam dúvidas quanto à veracidade dessa declaração. No caso dos produtos enviados por via postal, essa declaração pode ser feita na declaração aduaneira CN22/CN23 ou noutros certificados estabelecidos pela União Postal Universal ou numa folha de papel apensa a esse documento.
 
@@ -3515,7 +3686,9 @@ Quando, a pedido do importador e nas condições estabelecidas pelas autoridades
 
 3. Além disso, o valor total desses produtos não deve exceder 500 euros para os produtos enviados por particulares a particulares ou 1200 euros para os produtos contidos na bagagem pessoal dos viajantes.
 
-###### Artigo 26.º — Documentos comprovativos
+Artigo 26.º
+
+Documentos comprovativos
 
 Os documentos referidos no n.º 3 do artigo 16.º e no n.º 3 do artigo 20.º, utilizados como comprovativos de que os produtos cobertos por um certificado de circulação EUR.1 ou por uma declaração na factura podem ser considerados produtos originários da Comunidade ou do Chile, e satisfazem os outros requisitos do presente anexo, podem consistir, designadamente, em:
 
@@ -3527,7 +3700,9 @@ c) Documentos comprovativos das operações de complemento de fabrico ou de tran
 
 d) Certificados de circulação EUR.1 ou declarações na factura comprovativos da qualidade de originário das matérias utilizadas, emitidos na Comunidade ou no Chile, em conformidade com o presente anexo.
 
-###### Artigo 27.º — Conservação da prova de origem e dos documentos comprovativos
+Artigo 27.º
+
+Conservação da prova de origem e dos documentos comprovativos
 
 1. O exportador que apresenta o pedido de emissão de um certificado de circulação EUR.1 deve conservar durante, pelo menos, três anos os documentos referidos no n.º 3 do artigo 16.º
 
@@ -3537,13 +3712,17 @@ d) Certificados de circulação EUR.1 ou declarações na factura comprovativos 
 
 4. As autoridades aduaneiras da Comunidade devem conservar, durante, pelo menos, três anos os certificados de circulação EUR.1 e as declarações na factura que lhes forem apresentados na importação. As autoridades aduaneiras do Chile devem conservar, durante, pelo menos, cinco anos os certificados de circulação EUR.1 e as declarações na factura que lhes forem apresentados na importação.
 
-###### Artigo 28.º — Discrepâncias e erros formais
+Artigo 28.º
+
+Discrepâncias e erros formais
 
 1. A detecção de ligeiras discrepâncias entre as declarações prestadas na prova de origem e as dos documentos apresentados na estância aduaneira para cumprimento das formalidades de importação dos produtos não implica ipso facto que se considere a prova de origem nula e sem efeito, desde que seja devidamente comprovado que esse documento corresponde aos produtos apresentados.
 
 2. Os erros formais óbvios, como os erros de dactilografia, detectados numa prova de origem não implicam a rejeição do documento se esses erros não suscitarem dúvidas quanto à exactidão das declarações nele prestadas.
 
-###### Artigo 29.º — Montantes expressos em euros
+Artigo 29.º
+
+Montantes expressos em euros
 
 1. Para efeitos de aplicação da alínea b) do n.º 1 do artigo 20.º e do n.º 3 do artigo 25.º, quando os produtos estiverem facturados numa outra moeda que não o euro, o contravalor, nas moedas nacionais dos Estados-Membros da Comunidade ou do Chile, dos montantes expressos em euros será fixado anualmente por cada um dos países em causa.
 
@@ -3555,15 +3734,21 @@ d) Certificados de circulação EUR.1 ou declarações na factura comprovativos 
 
 5. Os montantes expressos em euros serão revistos pelo Comité de Associação a pedido da Comunidade ou do Chile. Ao proceder a essa revisão, o Comité de Associação considerará a conveniência de preservar os efeitos dos limites em causa em termos reais. Para o efeito, pode decidir alterar os montantes expressos em euros.
 
-## TÍTULO VI — Métodos de cooperação administrativa
+TÍTULO VI
 
-###### Artigo 30.º — Assistência mútua
+Métodos de cooperação administrativa
+
+Artigo 30.º
+
+Assistência mútua
 
 1. As autoridades aduaneiras e as autoridades governamentais competentes dos Estados-Membros da Comunidade e do Chile comunicarão à outra Parte, através da Comissão das Comunidades Europeias, os espécimes dos cunhos dos carimbos utilizados nas respectivas estâncias aduaneiras ou pelas autoridades governamentais competentes para a emissão de certificados de circulação EUR.1 e os endereços das referidas autoridades, responsáveis pelo controlo desses certificados e das declarações na factura.
 
 2. Com vista a assegurar a correcta aplicação do presente anexo, a Comunidade e o Chile assistir-se-ão, por intermédio das respectivas administrações, no controlo da autenticidade dos certificados de circulação EUR.1 ou das declarações na factura, e da exactidão das menções inscritas nesses documentos.
 
-###### Artigo 31.º — Controlo da prova de origem
+Artigo 31.º
+
+Controlo da prova de origem
 
 1. Os controlos a posteriori da prova de origem efectuar-se-ão por amostragem ou sempre que as autoridades aduaneiras do país de importação tenham dúvidas fundadas quanto à autenticidade do documento, à qualidade de originário dos produtos em causa ou quanto ao cumprimento dos outros requisitos do presente anexo.
 
@@ -3577,29 +3762,41 @@ d) Certificados de circulação EUR.1 ou declarações na factura comprovativos 
 
 6. Se, nos casos de dúvida fundada, não for recebida resposta no prazo de dez meses a contar da data do pedido de controlo, ou se a resposta não contiver informações suficientes para apurar a autenticidade do documento em causa ou a verdadeira origem dos produtos, as autoridades aduaneiras requerentes recusarão o benefício do regime preferencial, salvo se se tratar de circunstâncias excepcionais.
 
-###### Artigo 32.º — Resolução de litígios
+Artigo 32.º
+
+Resolução de litígios
 
 Em caso de litígio relativamente aos procedimentos de controlo previstos no artigo 31.º, que não possa ser resolvido entre as autoridades aduaneiras que requerem o controlo e as autoridades aduaneiras ou as autoridades governamentais competentes responsáveis pela sua realização, ou em caso de dúvida quanto à interpretação do presente anexo, os mesmos serão submetidos ao Comité Especial de Cooperação Aduaneira e Regras de Origem.
 
 Em qualquer caso, a resolução de litígios entre o importador e as autoridades aduaneiras do país de importação fica sujeita à legislação desse país.
 
-###### Artigo 33.º — Sanções
+Artigo 33.º
+
+Sanções
 
 Podem ser aplicadas sanções em conformidade com a legislação interna em caso de violação das disposições do presente anexo. Em particular, serão aplicadas sanções a quem emita ou mande emitir um documento contendo informações inexactas com o objectivo de obter um tratamento preferencial para os produtos.
 
-###### Artigo 34.º — Confidencialidade
+Artigo 34.º
+
+Confidencialidade
 
 Em conformidade com a legislação interna aplicável, as Partes darão um tratamento confidencial às informações apresentadas nos termos do presente anexo por uma pessoa ou autoridade da outra Parte, sempre que esta última as considere confidenciais. O acesso a essas informações pode ser recusado, sempre que a sua divulgação prejudique a protecção dos interesses comerciais de quem as apresentou.
 
-###### Artigo 35.º — Zonas francas
+Artigo 35.º
+
+Zonas francas
 
 1. A Comunidade e o Chile tomarão todas as medidas necessárias para assegurar que os produtos comercializados ao abrigo de uma prova de origem, que, durante o seu transporte, permaneçam numa zona franca situada no seu território, não sejam substituídos por outros produtos ou sujeitos a manipulações diferentes das operações usuais destinadas à sua conservação no seu estado inalterado.
 
 2. Em derrogação do n.º 1, quando os produtos originários da Comunidade ou do Chile, importados para uma zona franca do país de exportação ao abrigo de uma prova de origem, forem sujeitos a um tratamento ou a uma transformação, as autoridades competentes devem emitir um novo certificado EUR.1 a pedido do exportador, se esse tratamento ou essa transformação estiverem em conformidade com as disposições do presente anexo.
 
-## TÍTULO VII — Ceuta e Melilha
+TÍTULO VII
 
-###### Artigo 36.º — Aplicação do presente anexo
+Ceuta e Melilha
+
+Artigo 36.º
+
+Aplicação do presente anexo
 
 1. O termo «Comunidade» referido no artigo 2.º não abrange Ceuta e Melilha.
 
@@ -3607,7 +3804,9 @@ Em conformidade com a legislação interna aplicável, as Partes darão um trata
 
 3. Para efeitos de aplicação do n.º 2, o presente anexo aplica-se mutatis mutandis aos produtos originários de Ceuta e Melilha, sob reserva das condições especiais estabelecidas no artigo 37.º
 
-###### Artigo 37.º — Condições especiais
+Artigo 37.º
+
+Condições especiais
 
 1. Sob reserva de terem sido objecto de transporte directo em conformidade com o artigo 12.º, consideram-se:
 
@@ -3637,21 +3836,29 @@ ii) esses produtos sejam originários de Ceuta e Melilha ou da Comunidade na ace
 
 4. As autoridades aduaneiras espanholas são responsáveis pela aplicação do presente anexo em Ceuta e Melilha.
 
-## TÍTULO VIII — Disposições finais
+TÍTULO VIII
 
-###### Artigo 38.º — Alterações do presente anexo
+Disposições finais
+
+Artigo 38.º
+
+Alterações do presente anexo
 
 O Comité de Associação pode decidir alterar as disposições do presente anexo.
 
-###### Artigo 39.º — Notas explicativas
+Artigo 39.º
+
+Notas explicativas
 
 As Partes aprovarão as «Notas Explicativas» relativas à interpretação, aplicação e administração do presente anexo no âmbito do Comité Especial da Cooperação Aduaneira e Regras de Origem.
 
-###### Artigo 40.º — Disposições transitórias para as mercadorias em trânsito ou em depósito temporário
+Artigo 40.º
+
+Disposições transitórias para as mercadorias em trânsito ou em depósito temporário
 
 As mercadorias que satisfaçam as disposições do presente anexo e que, na data de entrada em vigor do presente Acordo, estejam em trânsito ou em depósito temporário num entreposto aduaneiro ou numa zona franca na Comunidade ou no Chile, podem beneficiar das disposições do presente acordo, sob reserva de apresentação às autoridades aduaneiras do país de importação, no prazo de quatro meses a contar da referida data, de um certificado de circulação EUR.1 emitido a posteriori pelas autoridades aduaneiras ou pelas autoridades governamentais competentes do país de exportação, bem como dos documentos comprovativos de que foram objecto de transporte directo, em conformidade com o disposto no artigo 12.º
 
-## Apêndice I
+Apêndice I
 
 Notas introdutórias da lista dos apêndices II e II(a)
 
@@ -3887,19 +4094,19 @@ b) Com uma sobreposição do limite superior do intervalo de ebulição correspo
 
 (nota 3) Ver nota introdutória 7.4.
 
-## Apêndice II
+Apêndice II
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice II (a)
+Apêndice II (a)
 
 Lista das operações de complemento de fabrico ou de transformação a efectuar em matérias não originárias para que o produto transformado possa adquirir a qualidade de produto originário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice III
+Apêndice III
 
 Modelo do certificado de circulação EUR.1 e respectivo pedido
 
@@ -3915,7 +4122,7 @@ O exportador ou o seu representante habilitado preenchem o certificado de circul
 
 CERTIFICADO DE CIRCULAÇÃO DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 NOTAS
 
@@ -3927,13 +4134,13 @@ NOTAS
 
 PEDIDO DE CERTIFICADO DE CIRCULAÇÃO DE MERCADORIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 DECLARAÇÃO DO EXPORTADOR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice IV
+Apêndice IV
 
 Declaração na factura
 
@@ -4001,7 +4208,7 @@ Versão sueca
 
 (nota 4) Ver n.º 5 do artigo 20.º do presente anexo. Nos casos em que o exportador está dispensado de assinar, a dispensa de assinatura implica igualmente a dispensa da indicação do nome do signatário.
 
-## ANEXO IV
+ANEXO IV
 
 Acordo relativo às medidas sanitárias e fitossanitárias aplicáveis ao comércio de animais e produtos de origem animal, plantas, produtos vegetais e outros produtos, e ao bem-estar dos animais
 
@@ -4027,7 +4234,9 @@ CONSIDERANDO que é oportuno, tendo em conta a importância do bem-estar dos ani
 
 ACORDARAM NO SEGUINTE:
 
-###### Artigo 1.º — Objectivos
+Artigo 1.º
+
+Objectivos
 
 1. O objectivo do presente acordo é facilitar o comércio de animais e de produtos de origem animal, de plantas, produtos vegetais e de outros produtos entre as Partes, protegendo, simultaneamente, a saúde pública, a sanidade animal e a fitossanidade:
 
@@ -4045,11 +4254,15 @@ f) Melhorando a comunicação e a cooperação entre as Partes no que respeita �
 
 2. O presente Acordo visa também alcançar um entendimento comum entre as Partes no que respeita às normas de bem-estar dos animais.
 
-###### Artigo 2.º — Obrigações multilaterais
+Artigo 2.º
+
+Obrigações multilaterais
 
 As Partes reafirmam os seus direitos e obrigações ao abrigo do Acordo que institui a OMC, designadamente do Acordo MSF da OMC. Esses direitos e essas obrigações estarão na base das actividades que desenvolverão no âmbito do presente Acordo.
 
-###### Artigo 3.º — Âmbito de aplicação
+Artigo 3.º
+
+Âmbito de aplicação
 
 1. O presente Acordo aplica-se às seguintes medidas, na medida em que afectam o comércio entre as Partes:
 
@@ -4065,7 +4278,9 @@ b) Medidas fitossanitárias aplicadas por qualquer das Partes às plantas, aos p
 
 5. O referido comité pode alterar o presente Acordo por meio de decisão, a fim de o tornar extensivo a outras normas de bem-estar dos animais.
 
-###### Artigo 4.º — Definições
+Artigo 4.º
+
+Definições
 
 Para efeitos do presente Acordo, aplicam-se as seguintes definições:
 
@@ -4135,13 +4350,17 @@ w) «Acordo»: o texto integral do presente Acordo e todos os seus apêndices, e
 
 x) «Acordo de Associação»: o Acordo que cria uma Associação entre as Partes, do qual o presente Acordo é um anexo.
 
-###### Artigo 5.º — Autoridades competentes
+Artigo 5.º
+
+Autoridades competentes
 
 1. As autoridades competentes das Partes são as autoridades competentes para a execução das medidas referidas no presente acordo, tal como previsto no Apêndice II.
 
 2. Em conformidade com o artigo 12.º, as Partes informar-se-ão de todas as modificações significativas da estrutura, organização e distribuição de competências das respectivas autoridades competentes.
 
-###### Artigo 6.º — Reconhecimento, para fins comerciais, do estatuto sanitário e fitossanitário e das condições regionais
+Artigo 6.º
+
+Reconhecimento, para fins comerciais, do estatuto sanitário e fitossanitário e das condições regionais
 
 A. Reconhecimento do estatuto no respeitante a doenças animais, infecções animais ou organismos prejudiciais
 
@@ -4177,7 +4396,9 @@ b) As consultas referidas na alínea a) realizar-se-ão em conformidade com o n.
 
 7. Uma vez concluídos os procedimentos descritos nos n.os 4, 5 e 6, e sem prejuízo do artigo 14.º, as Partes tomarão, sem demora indevida, as medidas legislativas e administrativas necessárias para permitir o comércio nessa base.
 
-###### Artigo 7.º — Determinação da equivalência
+Artigo 7.º
+
+Determinação da equivalência
 
 1. A equivalência pode ser reconhecida em relação a uma medida particular e/ou grupos de medidas e/ou sistemas aplicáveis a um sector ou subsector.
 
@@ -4199,7 +4420,9 @@ b) Em conformidade com o disposto no artigo 12.º, a Parte de importação infor
 
 7. O reconhecimento, a retirada ou a suspensão da equivalência serão da competência exclusiva da Parte de importação que delibera em conformidade com o respectivo quadro administrativo e legislativo, designadamente no que respeita às plantas, aos produtos vegetais e a outros produtos, às comunicações adequadas em conformidade com a norma n.º 13 (Directrizes para a notificação da não conformidade e medidas de emergência) das normas internacionais da FAO para as medidas fitossanitárias e outras normas internacionais para medidas fitossanitárias, conforme adequado. A Parte de importação apresentará, por escrito, à Parte de exportação todos os dados explicativos e justificativos utilizados para as determinações e decisões abrangidas pelo presente artigo. No caso de não haver um reconhecimento, uma retirada ou suspensão da equivalência, a Parte de importação indicará à Parte de exportação as condições requeridas com base nas quais o processo referido no n.º 3 pode ser iniciado. Quando necessário, a Parte de importação pode fornecer assistência técnica à Parte de exportação, em conformidade com o disposto no artigo 24.º do Acordo de Associação.
 
-###### Artigo 8.º — Transparência e condições comerciais
+Artigo 8.º
+
+Transparência e condições comerciais
 
 1. As Partes acordam em aplicar as condições gerais de importação às mercadorias referidas nos Apêndices I.A. e I.B. Sem prejuízo das decisões adoptadas em conformidade com o artigo 6.º, as condições de importação da Parte de importação aplicam-se a todo o território da Parte de exportação. Após a entrada em vigor do presente Acordo e em conformidade com o disposto no artigo 12.º, a Parte de importação informará a Parte de exportação dos respectivos requisitos de importação sanitários e fitossanitários para as mercadorias referidas nos Apêndices I.A. e I.B. Estas informações incluirão, na medida do necessário, os modelos dos certificados ou atestados oficiais, tal como prescritos pela Parte de importação.
 
@@ -4223,7 +4446,9 @@ b) Para a importação de produtos de origem animal referidos na alínea a) do n
 
 7. Mediante pedido de uma das Partes, a outra Parte apresentará dados explicativos e justificativos das determinações e decisões abrangidas pelo presente artigo.
 
-###### Artigo 9.º — Procedimentos de certificação
+Artigo 9.º
+
+Procedimentos de certificação
 
 1. Para efeitos dos procedimentos de certificação, as Partes conformar-se-ão com os princípios e critérios estabelecidos no ponto A do Apêndice IX.
 
@@ -4231,7 +4456,9 @@ b) Para a importação de produtos de origem animal referidos na alínea a) do n
 
 3. O comité referido no artigo 16.º pode acordar nas regras a aplicar em caso de emissão, retirada ou substituição de certificados por via electrónica.
 
-###### Artigo 10.º — Verificação
+Artigo 10.º
+
+Verificação
 
 1. A fim de manter a confiança na execução efectiva das disposições do presente acordo, cada Parte tem, no âmbito do presente Acordo, o direito:
 
@@ -4247,7 +4474,9 @@ c) De participar, a pedido da outra Parte, no programa periódico de testes comp
 
 4. Os resultados da verificação podem contribuir para a adopção de medidas pelas Partes ou por uma das Partes, referidas nos artigos 6.º, 7.º, 8.º e 11.º
 
-###### Artigo 11.º — Controlos de importação e taxas de inspecção
+Artigo 11.º
+
+Controlos de importação e taxas de inspecção
 
 1. As Partes acordam em que os controlos de importação efectuados pela Parte de importação das remessas provenientes da Parte de exportação devem respeitar os princípios estabelecidos no Apêndice VIII.A. Os resultados desses controlos podem contribuir para o processo de verificação referido no artigo 10.º
 
@@ -4261,7 +4490,9 @@ c) De participar, a pedido da outra Parte, no programa periódico de testes comp
 
 6. A contar de uma data a determinar pelo comité referido no artigo 16.º, as Partes podem definir de comum acordo as condições de aprovação dos controlos respectivos, referidos na alínea b) do nº 1 do artigo 10.º, com vista a adaptar a frequência dos controlos de importação ou a substituí-los. Essas condições serão incluídas no Apêndice VII através de uma decisão do comité referido no artigo 16.º. A partir dessa data, as Partes podem aprovar reciprocamente os controlos respectivos de determinadas mercadorias e, consequentemente, diminuir ou substituir os controlos de importação que lhes são aplicáveis.
 
-###### Artigo 12.º — Intercâmbio de informações
+Artigo 12.º
+
+Intercâmbio de informações
 
 1. As Partes procederão, numa base sistemática, ao intercâmbio das informações pertinentes para a execução do presente Acordo com vista ao desenvolvimento de normas, à provisão de medidas de segurança, à criação de confiança mútua e à demonstração da eficácia dos programas controlados. Sempre que adequado, esse intercâmbio pode incluir um intercâmbio de funcionários.
 
@@ -4287,7 +4518,9 @@ Além disso, se uma Parte tiver conhecimento de organismos prejudiciais que cons
 
 5. Os pontos de contacto para o intercâmbio de informações referido no presente artigo estão estabelecidos no ponto A do Apêndice XI. As informações serão transmitidas por correio postal ou electrónico ou por fax. As informações por correio electrónico serão assinadas electronicamente e só serão transmitidas entre os pontos de contacto.
 
-###### Artigo 13.º — Notificação e consulta
+Artigo 13.º
+
+Notificação e consulta
 
 1. Cada Parte notificará à outra Parte, por escrito e no prazo de dois dias úteis, quaisquer riscos de saúde pública, sanidade animal ou fitossanidade, graves ou importantes, designadamente quaisquer controlos de emergência ou situações no plano alimentar em que exista um risco claramente identificado de graves efeitos na saúde associados ao consumo de produtos de origem animal ou de produtos vegetais, designadamente:
 
@@ -4309,7 +4542,9 @@ b) Entende-se por «notificação escrita», a notificação por correio postal 
 
 5. Mediante pedido de uma das Partes, as consultas referidas nos n.os 3 e 4 realizar-se-ão por videoconferência ou audioconferência. A Parte requerente assegurará a preparação das actas da consulta que serão aprovadas oficialmente pelas Partes. Este procedimento de aprovação é regido pelo disposto no n.º 5 do artigo 12.º
 
-###### Artigo 14.º — Cláusula de salvaguarda
+Artigo 14.º
+
+Cláusula de salvaguarda
 
 1. No caso de a Parte de exportação tomar medidas a nível nacional para o controlo de qualquer factor que possa constituir um perigo grave para a saúde pública, sanidade animal e fitossanidade, deve, sem prejuízo do disposto no n.º 2, tomar medidas equivalentes para evitar a introdução do perigo no território da Parte de importação.
 
@@ -4317,11 +4552,15 @@ b) Entende-se por «notificação escrita», a notificação por correio postal 
 
 3. A Parte que tomar as medidas notificará a outra Parte no prazo de um dia útil a contar da decisão de executá-las. Mediante pedido de uma das Partes e em conformidade com o disposto no n.º 3 do artigo 13.º, as Partes realizarão consultas para examinar a situação no prazo de 12 dias úteis a contar da data da notificação. Tomarão em devida conta todas as informações prestadas no âmbito dessas consultas e procurarão evitar interrupções desnecessárias do comércio, baseando-se, sempre que necessário, no disposto no n.º 3 do artigo 13.º
 
-###### Artigo 15.º — Questões pendentes
+Artigo 15.º
+
+Questões pendentes
 
 Os princípios do presente Acordo aplicar-se-ão para a resolução de questões pendentes no âmbito do acordo, que serão enumeradas no Apêndice X. O comité referido no artigo 16.º pode alterar, por meio de decisão, o referido apêndice e, se for caso disso, os outros apêndices, a fim de ter em conta os progressos efectuados e as novas questões identificadas.
 
-###### Artigo 16.º — Comité de Gestão Misto
+Artigo 16.º
+
+Comité de Gestão Misto
 
 1. O Comité de Gestão Misto, a seguir designado «comité», instituído no n.º 3 do artigo 89.º do Acordo de Associação, reunir-se-á no primeiro ano após a entrada em vigor do presente Acordo e, em seguida, mediante pedido de uma das Partes, sem contudo exceder uma frequência que, em princípio, será de uma reunião anual. Se ambas as Partes o acordarem, a reunião do comité pode ser realizada por videoconferência ou audioconferência. O comité pode também resolver questões fora das sessões, por correspondência.
 
@@ -4341,19 +4580,23 @@ d) Formular recomendações com vista a alterar o presente Acordo, com base na r
 
 5. O comité adoptará o seu regulamento interno na sua primeira reunião.
 
-###### Artigo 17.º — Facilitação da comunicação
+Artigo 17.º
+
+Facilitação da comunicação
 
 Sem prejuízo do disposto nos artigos 12.º, 13.º, 14.º e 16.º, o comité pode acordar num mecanismo para facilitar a correspondência, o intercâmbio de informações e de documentos associados, bem como os procedimentos e o funcionamento do comité.
 
-###### Artigo 18.º — Aplicação territorial
+Artigo 18.º
+
+Aplicação territorial
 
 O presente Acordo aplica-se, por um lado, no que respeita aos animais e produtos de origem animal, às plantas e produtos vegetais e outros produtos, nos territórios dos Estados-Membros da Comunidade e, por outro, no território da República do Chile, tal como estabelecido no Apêndice XII.
 
-## Apêndice I
+Apêndice I
 
 Âmbito de aplicação
 
-## Apêndice I A
+Apêndice I A
 
 Animais e produtos de origem animal
 
@@ -4439,13 +4682,13 @@ XVII Chorume transformado e não transformado
 
 (nota 4) Carne de caça de criação e selvagem das categorias dos leporídeos, ungulados, aves de caça e outros mamíferos.
 
-## Apêndice I B
+Apêndice I B
 
 - Plantas e produtos vegetais portadores potenciais de organismos prejudiciais.
 
 - Embalagens, meios de transporte, contentores, terra e substratos, bem como quaisquer outros organismos, objectos ou material que possam albergar ou propagar organismos prejudiciais.
 
-## Apêndice I C (ver nota 5)
+Apêndice I C (ver nota 5)
 
 Normas de bem-estar dos animais
 
@@ -4455,7 +4698,7 @@ Normas relativas:
 
 (nota 5) O comité referido no artigo 16.º adoptará, no prazo de um ano a contar da data de entrada em vigor do presente Acordo, um plano de trabalho sobre o desenvolvimento de outras normas de bem-estar dos animais que se revistam de importância para as Partes.
 
-## Apêndice I D
+Apêndice I D
 
 Questões às quais o presente Acordo não se aplica inicialmente
 
@@ -4483,7 +4726,7 @@ Medidas sanitárias relacionadas com:
 
 11. Organismos geneticamente modificados (OGM)
 
-## Apêndice II
+Apêndice II
 
 Autoridades competentes
 
@@ -4511,17 +4754,17 @@ O Ministério da Saúde é a autoridade competente para o controlo sanitário de
 
 O Servicio Nacional de Pesca, sob a tutela do Ministério da Economia, é a autoridade competente para o controlo da qualidade sanitária dos produtos da pesca para exportação e pela emissão dos certificados oficiais correspondentes. É também responsável pela protecção sanitária dos animais aquáticos, pela certificação sanitária dos animais aquáticos para exportação e pelo controlo da importação desses animais, bem como das iscas e da alimentação utilizadas na aquicultura.
 
-## Apêndice III
+Apêndice III
 
 Listas das doenças e dos organismos prejudiciais que devem ser notificados, em relação aos quais a indemnidade regional pode ser reconhecida
 
-## Apêndice III A
+Apêndice III A
 
 Doenças animais e doenças dos peixes sujeitas a notificação, relativamente às quais é reconhecido o estatuto das Partes e podem ser tomadas decisões de regionalização
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice III B
+Apêndice III B
 
 Organismos prejudiciais sujeitos a notificação, relativamente aos quais é reconhecido o estatuto das Partes e podem ser tomadas decisões de regionalização (ver nota 1)
 
@@ -4543,7 +4786,7 @@ No que respeita à situação na Comunidade Europeia:
 
 (nota 1) O comité referido no artigo 16.º completará estas listas através de uma decisão.
 
-## Apêndice IV
+Apêndice IV
 
 Regionalização e zonagem
 
@@ -4585,7 +4828,7 @@ C. Critérios para o reconhecimento do estatuto especial do território ou de um
 
 3. As Partes notificar-se-ão de qualquer mudança dos critérios especificados no n.º 1 que diga respeito à doença. As garantias adicionais definidas em conformidade com o n.º 2 podem, com base nessa notificação, ser alteradas ou revogadas pelo comité referido no artigo 16.º do presente Acordo.
 
-## Apêndice V
+Apêndice V
 
 Sectores ou subsectores prioritários relativamente aos quais a equivalência pode ser reconhecida e condições e disposições para a aprovação provisória de estabelecimentos
 
@@ -4601,7 +4844,7 @@ A verificação pode fazer parte do procedimento em conformidade com o disposto 
 
 2. A aprovação provisória está inicialmente limitada às seguintes categorias de estabelecimentos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 3. A Parte de importação elaborará as listas dos estabelecimentos aprovados provisoriamente e torná-las-á acessíveis ao público.
 
@@ -4619,7 +4862,7 @@ Tendo em conta a estrutura específica e a distribuição de competências na Co
 
 e) Com base nos resultados da verificação referida na alínea d), a Parte de importação pode alterar a lista existente de estabelecimentos.
 
-## Apêndice VI
+Apêndice VI
 
 Processo de determinação da equivalência
 
@@ -4701,7 +4944,7 @@ b) A demonstração objectiva e a avaliação neste contexto devem basear-se, na
 
 Caso a Parte de importação chegue a uma conclusão negativa, deve justificá-la à Parte de exportação.
 
-## Apêndice VII
+Apêndice VII
 
 Directrizes para a condução das verificações
 
@@ -4803,7 +5046,7 @@ Deve ser organizada uma reunião de encerramento entre representantes de ambas a
 
 O projecto de relatório da verificação é transmitido no prazo de 20 dias úteis à entidade sujeita a auditoria que dispõe de 25 dias úteis para o comentar. Os eventuais comentários devem ser apensos ao projecto de relatório e, se for caso disso, incluídos no relatório final. Todavia, quando se tiver identificado um risco sério de saúde pública, sanidade animal ou fitossanidade durante a verificação, a entidade sujeita a auditoria deve ser informada com a maior brevidade possível e, de qualquer modo, no prazo de 10 dias úteis a contar da data em que termina a verificação.
 
-## Apêndice VIII
+Apêndice VIII
 
 Controlos de importação e taxas de inspecção
 
@@ -4823,11 +5066,11 @@ B.1. Animais e produtos de origem animal
 
 a) Importação para a Comunidade
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 b) Importação para o Chile
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 B.2. Plantas e produtos vegetais
 
@@ -4835,7 +5078,7 @@ a) Importação para a Comunidade
 
 Para as plantas, produtos vegetais e outros produtos enumerados no Anexo V, Parte B, da Directiva [2000/29/CE](http://data.europa.eu/eli/dir/2000/29/oj?locale=pt) do Conselho:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Para as plantas, produtos vegetais e outros produtos não enumerados no Anexo V, Parte B, da Directiva [2000/29/CE](http://data.europa.eu/eli/dir/2000/29/oj?locale=pt) do Conselho:
 
@@ -4853,9 +5096,9 @@ A inspecção fitossanitária é um conjunto de acções para determinar a confo
 
 A recepção diz respeito aos transportes internacionais para a determinação do estatuto fitossanitário.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice IX
+Apêndice IX
 
 Certificação
 
@@ -4917,13 +5160,13 @@ Importação para o Chile
 
 O certificado sanitário deve ser estabelecido em castelhano ou noutra língua. Se for emitido numa outra língua deve ser traduzido para castelhano.
 
-## Apêndice X
+Apêndice X
 
 Questões pendentes
 
 A considerar pelo comité referido no artigo 16.º para ser completado.
 
-## Apêndice XI
+Apêndice XI
 
 Pontos de contacto e sítios da web
 
@@ -5131,7 +5374,7 @@ Para a Comunidade
 
 http://europa.eu.int/comm/dgs/health_consumer/index_en.htm
 
-## Apêndice XII
+Apêndice XII
 
 Aplicação territorial
 
@@ -5143,19 +5386,27 @@ No caso do Chile:
 
 Tal como previsto no artigo 204.º do Acordo de Associação.
 
-## ANEXO V — Acordo sobre o comércio de vinhos
+ANEXO V
+
+Acordo sobre o comércio de vinhos
 
 (referido no artigo 90.º do Acordo de Associação)
 
-###### Artigo 1.º — Objectivos
+Artigo 1.º
+
+Objectivos
 
 As Partes acordam, com base nos princípios da não-discriminação e da reciprocidade, em facilitar e promover o comércio do vinho produzido no Chile e na Comunidade, nas condições previstas no presente Acordo.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 O presente Acordo é aplicável aos vinhos do código 22.04 do Sistema Harmonizado de Designação e de Codificação de Mercadorias («SH»), que sejam produzidos em conformidade com a legislação aplicável à produção de um tipo específico de vinho no território de uma Parte.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para os efeitos do presente Acordo e salvo disposição em contrário do mesmo, entende-se por:
 
@@ -5195,15 +5446,21 @@ q) «Acordo de Associação», o acordo que cria uma associação entre as Parte
 
 r) «Comité de Associação», o comité referido no artigo 193.º do Acordo de Associação.
 
-###### Artigo 4.º — Regras gerais de importação e comercialização
+Artigo 4.º
+
+Regras gerais de importação e comercialização
 
 1. Salvo disposição em contrário do presente Acordo, o comércio e a comercialização de vinho são efectuados em conformidade com a legislação e regulamentação aplicáveis no território da Parte em causa.
 
 2. O presente Acordo é aplicável sem prejuízo da regulamentação vigente em ambas as Partes em matéria de fiscalidade ou de outras medidas de controlo relevantes.
 
-## TÍTULO I — Protecção recíproca de indicações geográficas de denominações de vinhos
+TÍTULO I
 
-###### Artigo 5.º — Protecção de indicações geográficas
+Protecção recíproca de indicações geográficas de denominações de vinhos
+
+Artigo 5.º
+
+Protecção de indicações geográficas
 
 1. As Partes adoptarão todas as medidas necessárias, nos termos do presente Acordo, para assegurar a protecção recíproca das denominações referidas no artigo 6.º utilizadas na descrição e apresentação dos vinhos referidos no artigo 3.º originários dos territórios das mesmas. Para o efeito, cada Parte deve utilizar os meios jurídicos adequados nos termos do Acordo TRIPs para assegurar uma protecção eficaz e impedir a utilização de uma indicação geográfica na descrição de vinhos não cobertos pela referida indicação ou descrição.
 
@@ -5229,7 +5486,9 @@ b) Se uma indicação protegida ao abrigo do presente Acordo for homónima da de
 
 7. Sempre que uma Parte, no contexto de negociações com um país terceiro, propuser a protecção de uma indicação geográfica de vinho do referido país terceiro, e essa denominação for homónima de uma indicação geográfica da outra Parte, esta é informada e tem a oportunidade de apresentar observações antes que a denominação se torne protegida.
 
-###### Artigo 6.º — Indicações geográficas
+Artigo 6.º
+
+Indicações geográficas
 
 As denominações referidas no artigo 5.º são as seguintes:
 
@@ -5245,7 +5504,9 @@ i) os termos relativos ao Chile,
 
 ii) as indicações geográficas enumeradas no Apêndice II.
 
-###### Artigo 7.º — Indicações geográficas e marcas comerciais
+Artigo 7.º
+
+Indicações geográficas e marcas comerciais
 
 1. É recusado o registo de uma marca de vinho na acepção do artigo 3.º que seja idêntica ou similar a uma indicação geográfica protegida nos termos do artigo 5.º, ou que contenha uma tal indicação geográfica.
 
@@ -5253,7 +5514,9 @@ ii) as indicações geográficas enumeradas no Apêndice II.
 
 3. As marcas enumeradas no Apêndice VI relativamente a vinhos exportados em média em quantidades inferiores a 1000 caixas de 9 litros durante o período de 1999-2001 serão anuladas na data da entrada em vigor do presente Acordo.
 
-###### Artigo 8.º — Protecção de menções tradicionais ou de menções complementares de qualidade
+Artigo 8.º
+
+Protecção de menções tradicionais ou de menções complementares de qualidade
 
 1. As Partes tomarão todas as medidas necessárias, nos termos do presente Acordo, para assegurar a protecção recíproca das menções tradicionais ou menções complementares de qualidade referidas no artigo 9.º utilizadas na descrição e apresentação dos vinhos referidos no artigo 3.º originários do território das mesmas. Para o efeito, cada Parte deve prever os meios jurídicos adequados para assegurar uma protecção eficaz e impedir a utilização de menções tradicionais ou menções complementares de qualidade na descrição de vinhos não cobertos pela referida indicação ou descrição.
 
@@ -5273,7 +5536,9 @@ c) Se uma menção tradicional e uma menção complementar de qualidade enumerad
 
 6. As Partes podem, se necessário, estabelecer as condições práticas de utilização nos termos das quais as menções tradicionais e as menções complementares de qualidade homónimas referidas no n.º 5 são diferenciadas entre si, tomando em consideração a necessidade de assegurar um tratamento equitativo dos produtores envolvidos e de não induzir os consumidores em erro.
 
-###### Artigo 9.º — Menções tradicionais ou menções complementares de qualidade
+Artigo 9.º
+
+Menções tradicionais ou menções complementares de qualidade
 
 Para efeitos do artigo 8.º, são protegidas as seguintes menções tradicionais ou menções complementares de qualidade:
 
@@ -5281,7 +5546,9 @@ a) Relativamente aos vinhos originários da Comunidade, as enumeradas nas Listas
 
 b) Relativamente aos vinhos originários do Chile, as enumeradas nas Listas A e B do Apêndice IV.
 
-###### Artigo 10.º — Menções tradicionais ou menções complementares de qualidade e marcas comerciais
+Artigo 10.º
+
+Menções tradicionais ou menções complementares de qualidade e marcas comerciais
 
 1. O registo de uma marca comercial de um vinho numa Parte que seja idêntica ou similar a uma menção tradicional ou uma menção complementar de qualidade, ou que contenha essa menção da outra Parte, enumerada na lista A dos apêndices III ou IV, será recusado desde que esse registo diga respeito à utilização da referida menção tradicional ou menção complementar de qualidade para descrever ou apresentar a categoria ou categorias de vinho em relação à qual essa menção tradicional ou menção complementar de qualidade é enumerada nos apêndices III ou IV.
 
@@ -5313,7 +5580,9 @@ De outro modo, será aplicável o disposto no n.º 1 do artigo 4.º no que respe
 
 Relativamente ao vinho originário de uma Parte, poderá utilizar-se livremente qualquer denominação não enumerada nos apêndices I, II, III e IV para a descrição e apresentação do vinho sem necessidade de nenhuma regulamentação no mercado interno dessa Parte, sempre no respeito pela legislação vigente na mesma, ou na exportação para países terceiros e no mercado interno dos mesmos, sem prejuízo da legislação aplicável nesse país terceiro.
 
-###### Artigo 11.º — Marcas protegidas
+Artigo 11.º
+
+Marcas protegidas
 
 1. Com base no registo chileno de marcas comerciais estabelecido a 10 de Junho de 2002, as Partes não têm conhecimento de nenhuma marca, com excepção das mencionadas no n.º 2 do artigo 7.º e no n.º 4 do artigo 10.º, que seja idêntica ou similar às indicações geográficas ou às menções tradicionais ou menções complementares de qualidade contempladas nos artigos 6.º e 10.º respectivamente, ou que contenha as referidas indicações ou menções.
 
@@ -5323,23 +5592,33 @@ Relativamente ao vinho originário de uma Parte, poderá utilizar-se livremente 
 
 4. Não se poderão invocar contra o uso das indicações geográficas ou das menções tradicionais ou menções complementares de qualidade utilizadas para descrever ou apresentar os vinhos que têm direito de utilizar essas indicações geográficas, menções tradicionais ou menções complementares de qualidade, marcas idênticas ou similares às indicações geográficas ou às menções tradicionais ou menções complementares de qualidade a que se referem os artigos 7.º e 10.º, ou que contenham alguma das referidas indicações ou menções.
 
-###### Artigo 12.º — Vinhos originários
+Artigo 12.º
+
+Vinhos originários
 
 As Partes adoptarão todas as medidas necessárias para garantir que, em casos em que vinhos originários de uma Parte sejam exportados e comercializados fora do território respectivo, as denominações protegidas referidas no artigo 6.º e as menções tradicionais dessa Parte referidas no artigo 9.º não sejam utilizadas para descrever e apresentar um vinho originário da outra Parte.
 
-###### Artigo 13.º — Rotulagem
+Artigo 13.º
+
+Rotulagem
 
 Nenhuma das Partes permitirá que se rotule um produto como originário da outra Parte quando esse produto seja o resultado da mistura de vinhos originários da outra Parte com vinhos originários dessa Parte ou de um país terceiro.
 
-###### Artigo 14.º — Extensão da protecção
+Artigo 14.º
+
+Extensão da protecção
 
 Na medida em que a legislação aplicável de cada Parte o permita, o benefício da protecção conferida pelo presente Acordo é extensivo às pessoas singulares e colectivas, sociedades e federações, associações e organizações de produtores, comerciantes ou consumidores com sede na outra Parte.
 
-###### Artigo 15.º — Indicações geográficas não protegidas no seu país de origem
+Artigo 15.º
+
+Indicações geográficas não protegidas no seu país de origem
 
 Nenhuma disposição do presente Acordo obriga uma Parte a proteger uma indicação geográfica da outra Parte que não seja protegida no seu país de origem.
 
-###### Artigo 16.º — Medidas de execução
+Artigo 16.º
+
+Medidas de execução
 
 1. Se o órgão competente adequado, designado em conformidade com o artigo 27.º, tomar conhecimento de que a descrição ou a apresentação de um vinho, nomeadamente na rotulagem, nos documentos oficiais ou comerciais ou na publicidade, viola o presente Acordo, as Partes devem aplicar as medidas administrativas necessárias e/ou mover uma acção judicial, consoante o caso, a fim de combater a concorrência desleal ou impedir de qualquer outro modo a utilização abusiva da denominação protegida nos termos dos artigos 6.º ou 9.º
 
@@ -5353,15 +5632,21 @@ c) Quando, como embalagem, forem utilizados recipientes que possam induzir em er
 
 3. Os n.os 1 e 2 não obstam a que as pessoas ou entidades referidas no artigo 27.º possam empreender acções apropriadas nas Partes, incluindo o recurso aos tribunais.
 
-## TÍTULO II — Práticas e tratamentos enológicos e especificações dos produtos
+TÍTULO II
 
-###### Artigo 17.º — Reconhecimento de práticas enológicas
+Práticas e tratamentos enológicos e especificações dos produtos
+
+Artigo 17.º
+
+Reconhecimento de práticas enológicas
 
 1. A Comunidade autoriza a importação para a Comunidade e a comercialização no seu território, para consumo humano directo, de todos os vinhos originários do Chile produzidos de acordo com uma ou mais das práticas ou tratamentos enológicos e especificações de composição dos produtos referidos no n.º 1 do Apêndice V e no Apêndice VIII (Protocolo).
 
 2. O Chile autoriza a importação para o Chile e a comercialização no seu território, para consumo humano directo, de todos os vinhos originários da Comunidade produzidos de acordo com uma ou mais das práticas ou tratamentos enológicos e especificações de composição dos produtos referidos no n.º 2 do Apêndice V e no Apêndice VIII (Protocolo).
 
-###### Artigo 18.º — Novas práticas enológicas
+Artigo 18.º
+
+Novas práticas enológicas
 
 1. Cada uma das Partes esforçar-se-á por informar a outra Parte, em conformidade com os procedimentos estabelecidos no artigo 29.º e na primeira oportunidade razoável, dos acontecimentos que possam dar lugar, relativamente ao vinho produzido por essa Parte, à autorização de uma prática ou de um tratamento enológico não incluídos para essa Parte no Apêndice V, com o objectivo de chegar a acordo sobre uma abordagem comum.
 
@@ -5375,7 +5660,9 @@ b) O conjunto da documentação técnica que justifique a autorização da prát
 
 4. Durante um período de 12 meses com início um mês após a notificação referida no n.º 2 e em conformidade com o n.º 3 do artigo 20.º e com a alínea b) do n.º 2 do artigo 21.º, a outra Parte autorizará provisoriamente a importação e a comercialização dos vinhos originários da Parte notificante, produzidos em conformidade com a prática ou o tratamento enológico em questão.
 
-###### Artigo 19.º — Normas de qualidade
+Artigo 19.º
+
+Normas de qualidade
 
 Com excepção dos enumerados no Apêndice V na data da entrada em vigor do presente Acordo, as práticas e os tratamentos enológicos utilizados para a produção de vinho cumprirão os seguintes requisitos:
 
@@ -5385,7 +5672,9 @@ b) Defesa do consumidor contra práticas fraudulentas; e
 
 c) Respeito pelas boas práticas enológicas, nomeadamente que os processos, os tratamentos e as técnicas de vinificação autorizados pela legislação e regulamentação de cada Parte não impliquem uma mudança inaceitável na composição do produto tratado e assegurem a preservação das características naturais e essenciais do vinho, melhorando ao mesmo tempo a sua qualidade.
 
-###### Artigo 20.º — Cláusulas de salvaguarda
+Artigo 20.º
+
+Cláusulas de salvaguarda
 
 1. Num prazo de doze meses a contar da apresentação por uma das Partes da notificação mencionada no n.º 2 do artigo 18.º, a outra Parte pode recusar aceitar a prática ou o tratamento enológico em questão com base em que não cumpre um ou vários requisitos estabelecidos no artigo 19.º Poderá recorrer ao processo de arbitragem previsto no artigo 23.º
 
@@ -5395,7 +5684,9 @@ c) Respeito pelas boas práticas enológicas, nomeadamente que os processos, os 
 
 4. Sem prejuízo das disposições previstas na alínea a) do n.º 2 do artigo 21.º, a autorização provisória para a importação e comercialização de vinhos originários da Parte notificante produzidos em conformidade com a prática ou o tratamento enológico em questão continuará em vigor até que seja tomada a decisão referida no n.º 2.
 
-###### Artigo 21.º — Modificação do Apêndice V
+Artigo 21.º
+
+Modificação do Apêndice V
 
 1. As Partes modificarão o correspondente número do Apêndice V para acrescentar a prática ou o tratamento enológico antes do fim do período contemplado no n.º 4 do artigo 18.º
 
@@ -5405,11 +5696,15 @@ a) Se os árbitros decidirem que a prática ou o tratamento enológico em quest�
 
 b) Se, contudo, os árbitros decidirem que a prática ou o tratamento enológico autorizado ou modificado não cumpre os requisitos estabelecidos no artigo 19.º, a autorização provisória para a importação e comercialização dos vinhos originários da Parte notificante produzidos em conformidade com a prática ou o tratamento enológico em questão de acordo com o disposto no n.º 4 do artigo 18.º deixa de vigorar 14 dias após a data da referida decisão. Tal facto não impedirá que se continuem a aplicar os n.os 1 e 2 do artigo 17.º no que se refere ao vinho importado nas Partes antes da data da referida decisão.
 
-###### Artigo 22.º — Modificação de práticas e tratamentos enológicos
+Artigo 22.º
+
+Modificação de práticas e tratamentos enológicos
 
 Os artigos 18.º a 21.º aplicar-se-ão também nos casos em que uma das Partes autorize uma modificação de uma prática ou um tratamento enológico enumerado no correspondente número do Apêndice V.
 
-###### Artigo 23.º — Processo de arbitragem nas práticas e nos tratamentos enológicos
+Artigo 23.º
+
+Processo de arbitragem nas práticas e nos tratamentos enológicos
 
 1. Qualquer litígio referente à interpretação e aplicação das disposições do presente título será resolvido em conformidade com as disposições do Título VIII do Acordo de Associação, excepto indicação em contrário no presente artigo.
 
@@ -5421,31 +5716,45 @@ Os artigos 18.º a 21.º aplicar-se-ão também nos casos em que uma das Partes 
 
 5. A decisão do painel de arbitragem será emitida o mais tardar três meses a contar da data do recurso previsto no n.º 1 do artigo 20.º. A decisão será definitiva e acessível ao público.
 
-## TÍTULO III — Certificação da importação
+TÍTULO III
 
-###### Artigo 24.º — Documentos de certificação e relatório de análise
+Certificação da importação
+
+Artigo 24.º
+
+Documentos de certificação e relatório de análise
 
 1. Cada Parte autoriza a importação no seu território de vinhos conformes com as disposições relativas a documentos de certificação da importação e relatórios de análise previstas no Apêndice VIII (Protocolo).
 
 2. Sem prejuízo do disposto no artigo 25.º, cada Parte acorda em não submeter a importação de vinho originário do território da outra Parte a exigências mais restritivas em matéria de certificação da importação do que as estabelecidas pelo presente Acordo.
 
-###### Artigo 25.º — Cláusulas de salvaguarda
+Artigo 25.º
+
+Cláusulas de salvaguarda
 
 1. As Partes reservam-se o direito de introduzir exigências de certificação da importação adicionais, a título temporário, em resposta a preocupações legítimas de política de saúde pública, de defesa do consumidor ou de luta contra as fraudes. Nesse caso, devem ser fornecidas em tempo útil à outra Parte informações adequadas que lhe permitam satisfazer essas exigências adicionais.
 
 2. As Partes acordam em que essas exigências não se devem prolongar para além do período necessário para dar resposta à preocupação específica que motivou a sua introdução.
 
-## TÍTULO IV — Medidas sanitárias e fitossanitárias
+TÍTULO IV
 
-###### Artigo 26.º — Medidas sanitárias e fitossanitárias
+Medidas sanitárias e fitossanitárias
+
+Artigo 26.º
+
+Medidas sanitárias e fitossanitárias
 
 1. As disposições do presente Acordo não prejudicarão o direito das Partes de aplicar as medidas sanitárias e fitossanitárias necessárias para a protecção da vida ou da saúde humana, dos animais ou das plantas, desde que tais medidas sejam compatíveis com as disposições do Acordo MSF da OMC e do Acordo relativo às Medidas Sanitárias e Fitossanitárias Aplicáveis ao Comércio de Animais e Produtos de Origem Animal, Plantas, Produtos Vegetais e Outros Produtos, e ao Bem-Estar dos Animais, estabelecido no Anexo IV do Acordo de Associação.
 
 2. Sem prejuízo do disposto no n.º 1, cada uma das Partes esforçar-se-á por informar a outra Parte, em conformidade com os procedimentos estabelecidos no artigo 29.º e na primeira oportunidade razoável, dos acontecimentos que possam dar lugar, relativamente ao vinho comercializado nessa Parte, à adopção do mencionado tipo de medidas, em especial as destinadas a estabelecer limites específicos aos contaminantes e resíduos, com o objectivo de chegar a acordo sobre uma abordagem comum.
 
-## TÍTULO V — Assistência mútua das autoridades de controlo
+TÍTULO V
 
-###### Artigo 27.º — Autoridades competentes em matéria de aplicação
+Assistência mútua das autoridades de controlo
+
+Artigo 27.º
+
+Autoridades competentes em matéria de aplicação
 
 1. Cada Parte designa os órgãos responsáveis pela aplicação do presente Acordo. Se uma Parte designar vários órgãos competentes, assegura a coordenação do trabalho dos mesmos. É designada para o efeito uma autoridade de ligação única.
 
@@ -5453,7 +5762,9 @@ Os artigos 18.º a 21.º aplicar-se-ão também nos casos em que uma das Partes 
 
 3. Os órgãos e autoridades referidos no n.º 1 devem procurar melhorar a assistência mútua prestada na aplicação do presente Acordo com vista ao combate a práticas fraudulentas, em conformidade com a legislação respectiva das Partes.
 
-###### Artigo 28.º — Actividades de aplicação
+Artigo 28.º
+
+Actividades de aplicação
 
 1. Se um dos órgãos ou autoridades designados nos termos do artigo 27.º tiver motivos para suspeitar de que:
 
@@ -5473,9 +5784,13 @@ c) A descrição e a apresentação do vinho; e
 
 d) Elementos relativos ao incumprimento das normas de produção e comercialização.
 
-## TÍTULO VI — Gestão do acordo
+TÍTULO VI
 
-###### Artigo 29.º — Tarefas das Partes
+Gestão do acordo
+
+Artigo 29.º
+
+Tarefas das Partes
 
 1. As Partes mantêm-se em contacto directamente ou por intermédio da Comissão Mista estabelecida em conformidade com o artigo 30.º, no referente a todas as matérias relativas à execução e funcionamento do presente Acordo.
 
@@ -5495,7 +5810,9 @@ f) Informar-se mutuamente da intenção de tomar decisões sobre nova regulament
 
 g) Notificar-se mutuamente das medidas legislativas ou administrativas e das decisões judiciais relativas à aplicação do presente Acordo e informar-se mutuamente das medidas adoptadas com base em tais decisões.
 
-###### Artigo 30.º — Comissão Mista
+Artigo 30.º
+
+Comissão Mista
 
 1. É instituída uma Comissão Mista, composta por representantes das Partes. A Comissão Mista reúne-se a pedido de uma das Partes, em conformidade com os requisitos de execução do presente Acordo, alternadamente na Comunidade e no Chile, em data e local a estabelecer em conjunto pelas Partes.
 
@@ -5507,9 +5824,13 @@ g) Notificar-se mutuamente das medidas legislativas ou administrativas e das dec
 
 5. A Comissão Mista apresenta propostas sobre assuntos de interesse mútuo no sector vitivinícola.
 
-## TÍTULO VII — Disposições gerais
+TÍTULO VII
 
-###### Artigo 31.º — Trânsito pequenas quantidades
+Disposições gerais
+
+Artigo 31.º
+
+Trânsito pequenas quantidades
 
 Os títulos I, II e III não são aplicáveis aos vinhos:
 
@@ -5517,7 +5838,9 @@ a) Que se encontrem em trânsito no território de uma das Partes; ou
 
 b) Que sejam originários do território de uma das Partes e remetidos em pequenas quantidades para a outra Parte, nas condições e respeitando os procedimentos previstos no Apêndice VIII (Protocolo).
 
-###### Artigo 32.º — Consultas
+Artigo 32.º
+
+Consultas
 
 1. Se uma Parte for de opinião que a outra Parte não cumpriu uma obrigação decorrente do presente Acordo, deve comunicá-lo por escrito à Parte em questão. A comunicação escrita pode solicitar à Parte que seja iniciado um processo de consultas num prazo determinado.
 
@@ -5531,13 +5854,17 @@ a) A Parte que as requereu ou que tomou as medidas referidas no n.º 3 pode toma
 
 b) Cada uma das Partes pode recorrer ao processo de resolução de litígios previsto no artigo 33.º
 
-###### Artigo 33.º — Resolução de litígios
+Artigo 33.º
+
+Resolução de litígios
 
 1. Qualquer litígio relativo à aplicação ou interpretação do presente Acordo, com excepção dos litígios a resolver no âmbito do Título II em conformidade com o estabelecido no artigo 23.º, será submetido ao mecanismo de resolução de litígios referido na Parte IV do Acordo de Associação.
 
 2. Em derrogação do artigo 184.º do Acordo de Associação, nos casos em que as Partes tenham realizado consultas em conformidade com o artigo 23.º, a Parte queixosa poderá proceder directamente ao pedido da constituição de um painel de arbitragem.
 
-###### Artigo 34.º — Comercialização das existências
+Artigo 34.º
+
+Comercialização das existências
 
 1. Os vinhos que, à data da entrada em vigor do presente Acordo, já tenham sido produzidos, descritos e apresentados em conformidade com a legislação e regulamentação interna da Parte respectiva embora de forma proibida pelo presente Acordo podem ser comercializados no respeito pelas seguintes condições:
 
@@ -5551,11 +5878,13 @@ ii) por retalhistas, até ao esgotamento das existências.
 
 2. Os vinhos produzidos, descritos e apresentados em conformidade com o presente Acordo cuja descrição ou apresentação deixe de estar em conformidade com o mesmo devido a uma alteração do Acordo podem ser comercializados até ao esgotamento das existências, salvo decisão em contrário das Partes.
 
-###### Artigo 35.º — Apêndices
+Artigo 35.º
+
+Apêndices
 
 Os apêndices do presente Acordo são parte integrante do mesmo.
 
-## Apêndice I
+Apêndice I
 
 (referido no artigo 6.º)
 
@@ -16821,7 +17150,7 @@ Valle del Miño-Ourense
 
 IV. VINHOS ORIGINÁRIOS DA REPÚBLICA HELÉNICA
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 V. VINHOS ORIGINÁRIOS DA REPÚBLICA ITALIANA
 
@@ -22527,7 +22856,7 @@ Nome da região determinada: Hageland
 
 Denominação de origem controlada («appellation d'origine contrôlée/gecontroleerde oorsprongsbenaming»): Hagelandse Wijn
 
-## Apêndice II
+Apêndice II
 
 (Referido no artigo 6.º)
 
@@ -22691,15 +23020,15 @@ III. Vinhos das seguintes regiões, sub-regiões, zonas e áreas:
 
 5.2.1.2. - Área: Mulchén
 
-## Apêndice III
+Apêndice III
 
 (Referido no artigo 9.º)
 
 LISTA DAS MENÇÕES TRADICIONAIS DA COMUNIDADE
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice IV
+Apêndice IV
 
 (Referido no artigo 9.º)
 
@@ -22747,7 +23076,7 @@ A Comissão Mista reunir-se-á no prazo de seis meses após a entrada em vigor d
 
 Os termos acima referidos podem ser utilizados no mercado interno chileno durante um período máximo de seis meses após a primeira reunião da Comissão Mista. Esse período não pode de forma alguma exceder 12 meses após a entrada em vigor do presente Acordo.
 
-## Apêndice V
+Apêndice V
 
 (referido no artigo 17.º)
 
@@ -22979,7 +23308,7 @@ ii) adição de cloridrato de tiamina;
 
 (37) Adição de destilados de vinho ou de uvas passas ou de álcool neutro de origem vínica, na elaboração de vinhos licorosos.
 
-## Apêndice VI
+Apêndice VI
 
 MARCAS COMERCIAIS REFERIDAS NO N.º 2 DO ARTIGO 7.º
 
@@ -23055,13 +23384,13 @@ VIÑA MANQUEHUE OPORTO
 
 VIÑA SAN PEDRO GRAN VINO BURDEOS
 
-## Apêndice VII
+Apêndice VII
 
 MARCAS COMERCIAIS REFERIDAS NO N.º 4 DO ARTIGO 10.º
 
 PASOFINO
 
-## Apêndice VIII
+Apêndice VIII
 
 PROTOCOLO
 
@@ -23139,19 +23468,27 @@ VI. Em conformidade com o artigo 24.º do presente Acordo, são aplicáveis as s
 
 VII. O Chile permitirá que os vinhos originários da Comunidade e exportados para o Chile a granel sejam engarrafados no Chile em garrafas de volume superior a 1,5 litros.
 
-## ANEXO VI — Acordo sobre o comércio de bebidas espirituosas e bebidas aromatizadas
+ANEXO VI
+
+Acordo sobre o comércio de bebidas espirituosas e bebidas aromatizadas
 
 (referido no artigo 90º do Acordo de Associação)
 
-###### Artigo 1.º — Objectivos
+Artigo 1.º
+
+Objectivos
 
 As Partes acordam, com base nos princípios da não-discriminação e da reciprocidade, em facilitar e promover o comércio de bebidas espirituosas e bebidas aromatizadas produzidas no Chile e na Comunidade, nas condições previstas no presente Acordo.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 O presente Acordo é aplicável às bebidas espirituosas do código 22.08 e às bebidas aromatizadas do código 22.05 do Sistema Harmonizado de Designação e de Codificação de Mercadorias («SH»), que sejam produzidas em conformidade com a legislação aplicável à produção de um tipo específico de bebidas espirituosas e de bebidas aromatizadas no território de uma Parte.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para os efeitos do presente Acordo e salvo disposição em contrário do mesmo, entende-se por:
 
@@ -23179,15 +23516,21 @@ k) «Acordo de Associação», o Acordo que cria uma associação entre as Parte
 
 l) «Comité de Associação», o comité referido no artigo 193.º do Acordo de Associação.
 
-###### Artigo 4.º — Regras gerais de importação e comercialização
+Artigo 4.º
+
+Regras gerais de importação e comercialização
 
 1. Salvo disposição em contrário do presente Acordo, o comércio e a comercialização de bebidas espirituosas e bebidas aromatizadas são efectuados em conformidade com a legislação e regulamentação aplicáveis no território da Parte em causa.
 
 2. O presente Acordo é aplicável sem prejuízo da regulamentação vigente no Chile e da regulamentação vigente na Comunidade em matéria de fiscalidade ou de outras medidas de controlo relevantes.
 
-## TÍTULO I — Protecção recíproca de denominações de bebidas espirituosas e bebidas aromatizadas
+TÍTULO I
 
-###### Artigo 5.º — Protecção de denominações
+Protecção recíproca de denominações de bebidas espirituosas e bebidas aromatizadas
+
+Artigo 5.º
+
+Protecção de denominações
 
 1. As Partes adoptarão todas as medidas necessárias, nos termos do presente Acordo, para assegurar a protecção recíproca exclusivamente das denominações referidas no artigo 6.º utilizadas na descrição e apresentação das bebidas espirituosas e bebidas aromatizadas referidas no artigo 3.º originárias dos territórios das mesmas. Para o efeito, cada Parte deve utilizar os meios jurídicos adequados nos termos do Acordo TRIPs da OMC para assegurar uma protecção eficaz e impedir a utilização de uma denominação protegida na descrição de uma bebida espirituosa ou bebida aromatizada não coberta pela referida indicação ou descrição.
 
@@ -23213,7 +23556,9 @@ b) Se uma denominação protegida ao abrigo do presente Acordo for homónima da 
 
 7. Sempre que uma Parte, no contexto de negociações com um país terceiro, propuser a protecção de uma denominação de uma bebida espirituosa ou bebida aromatizada do referido país terceiro, e essa denominação for homónima de uma denominação protegida da outra Parte, esta é informada e tem a oportunidade de apresentar observações antes que a denominação se torne protegida.
 
-###### Artigo 6.º — Denominações protegidas
+Artigo 6.º
+
+Denominações protegidas
 
 As denominações referidas no artigo 5.º são as seguintes:
 
@@ -23229,7 +23574,9 @@ i) os termos relativos ao Chile,
 
 ii) as denominações protegidas enumeradas no Apêndice I.
 
-###### Artigo 7.º — Denominações protegidas e marcas comerciais
+Artigo 7.º
+
+Denominações protegidas e marcas comerciais
 
 1. É recusado o registo de uma marca de bebida espirituosa ou bebida aromatizada na acepção do artigo 3.º que seja idêntica ou similar a uma denominação protegida nos termos do artigo 5.º, ou que contenha uma tal denominação protegida.
 
@@ -23237,7 +23584,9 @@ ii) as denominações protegidas enumeradas no Apêndice I.
 
 3. As marcas enumeradas no Apêndice II relativamente a bebidas espirituosas e bebidas aromatizadas exportadas em média em quantidades inferiores a 1000 caixas de 9 litros durante o período de 1999-2001 serão anuladas na data da entrada em vigor do presente Acordo.
 
-###### Artigo 8.º — Marcas protegidas
+Artigo 8.º
+
+Marcas protegidas
 
 1. Com base no registo chileno de marcas comerciais estabelecido a 10 de Junho de 2002, as Partes não têm conhecimento de nenhuma marca, com excepção das mencionadas no n.º 2 do artigo 7.º, que seja idêntica ou similar às denominações protegidas contempladas no artigo 6.º, ou que contenha as referidas denominações.
 
@@ -23247,19 +23596,27 @@ ii) as denominações protegidas enumeradas no Apêndice I.
 
 4. Não se poderão invocar contra o uso das denominações protegidas utilizadas para descrever ou apresentar as bebidas espirituosas ou bebidas aromatizadas que têm direito de utilizar essas denominações protegidas, marcas idênticas ou similares às denominações protegidas a que se refere o artigo 7.º, ou que contenham denominações protegidas em virtude do mesmo artigo.
 
-###### Artigo 9.º — Bebidas espirituosas originárias
+Artigo 9.º
+
+Bebidas espirituosas originárias
 
 As Partes adoptarão todas as medidas necessárias para garantir que, em casos em que bebidas espirituosas e bebidas aromatizadas originárias de uma Parte sejam exportadas e comercializadas fora do território respectivo, as denominações protegidas referidas no artigo 6.º não sejam utilizadas para descrever e apresentar produtos originários da outra Parte.
 
-###### Artigo 10.º — Extensão da protecção
+Artigo 10.º
+
+Extensão da protecção
 
 Na medida em que a legislação aplicável de cada Parte o permita, o benefício da protecção conferida pelo presente Acordo é extensivo às pessoas singulares e colectivas, sociedades e federações, associações e organizações de produtores, comerciantes ou consumidores com sede na outra Parte.
 
-###### Artigo 11.º — Denominações não protegidas no seu país de origem
+Artigo 11.º
+
+Denominações não protegidas no seu país de origem
 
 Nenhuma disposição do presente Acordo obriga uma Parte a proteger uma denominação da outra Parte que não seja protegida no seu país de origem.
 
-###### Artigo 12.º — Medidas de execução
+Artigo 12.º
+
+Medidas de execução
 
 1. Se o órgão competente adequado, designado em conformidade com o artigo 14.º, tomar conhecimento de que a descrição ou a apresentação de uma bebida espirituosa ou bebida aromatizada, nomeadamente na rotulagem, nos documentos oficiais ou comerciais ou na publicidade, viola o presente Acordo, as Partes devem aplicar as medidas administrativas necessárias e/ou mover uma acção judicial, consoante o caso, a fim de combater a concorrência desleal ou impedir de qualquer outro modo a utilização abusiva da denominação protegida nos termos do artigo 6.º
 
@@ -23273,17 +23630,25 @@ c) Quando, como embalagem, forem utilizados recipientes que possam induzir em er
 
 3. Os n.os 1 e 2 não obstam a que as pessoas ou entidades referidas no artigo 14.º possam empreender acções apropriadas nas Partes, incluindo o recurso aos tribunais.
 
-## TÍTULO II — Medidas sanitárias e fitossanitárias
+TÍTULO II
 
-###### Artigo 13.º — Medidas sanitárias e fitossanitárias
+Medidas sanitárias e fitossanitárias
+
+Artigo 13.º
+
+Medidas sanitárias e fitossanitárias
 
 1. As disposições do presente Acordo não prejudicarão o direito das Partes de aplicar as medidas sanitárias e fitossanitárias necessárias para a protecção da vida ou da saúde humana, dos animais ou das plantas, desde que tais medidas sejam compatíveis com as disposições do Acordo MSF da OMC e do Acordo relativo às Medidas Sanitárias e Fitossanitárias Aplicáveis ao Comércio de Animais e Produtos de Origem Animal, Plantas, Produtos Vegetais e Outros Produtos, e ao Bem-Estar Animal estabelecido no Anexo IV do Acordo de Associação.
 
 2. Sem prejuízo do disposto no n.º 1, cada uma das Partes esforçar-se-á por informar a outra Parte, em conformidade com os procedimentos estabelecidos no artigo 19.º e na primeira oportunidade razoável, dos acontecimentos que possam dar lugar, relativamente às bebidas espirituosas e bebidas aromatizadas comercializadas nessa Parte, à adopção do mencionado tipo de medidas, em especial as destinadas a estabelecer limites específicos aos contaminantes e resíduos, com o objectivo de chegar a acordo sobre uma abordagem comum.
 
-## TÍTULO III — Assistência mútua das autoridades de controlo
+TÍTULO III
 
-###### Artigo 14.º — Autoridades competentes em matéria de aplicação
+Assistência mútua das autoridades de controlo
+
+Artigo 14.º
+
+Autoridades competentes em matéria de aplicação
 
 1. Cada Parte designa os órgãos responsáveis pela aplicação do presente Acordo. Se uma Parte designar vários órgãos competentes, assegura a coordenação do trabalho dos mesmos. É designada para o efeito uma autoridade de ligação única.
 
@@ -23291,7 +23656,9 @@ c) Quando, como embalagem, forem utilizados recipientes que possam induzir em er
 
 3. Os órgãos e autoridades referidos no n.º 1 devem procurar melhorar a assistência mútua prestada na aplicação do presente Acordo com vista ao combate a práticas fraudulentas, em conformidade com a legislação respectiva das Partes.
 
-###### Artigo 15.º — Actividades de aplicação
+Artigo 15.º
+
+Actividades de aplicação
 
 1. Se um dos órgãos ou autoridades designados nos termos do artigo 14.º tiver motivos para suspeitar de que:
 
@@ -23309,9 +23676,13 @@ c) A descrição e a apresentação da bebida espirituosa ou bebida aromatizada;
 
 d) Elementos relativos ao incumprimento das normas de produção e comercialização.
 
-## TÍTULO IV — Gestão do Acordo
+TÍTULO IV
 
-###### Artigo 16.º — Tarefas das Partes
+Gestão do Acordo
+
+Artigo 16.º
+
+Tarefas das Partes
 
 1. As Partes mantêm-se em contacto directamente ou por intermédio da Comissão Mista estabelecida em conformidade com o artigo 17.º, no referente a todas as matérias relativas à execução e funcionamento do presente Acordo.
 
@@ -23325,7 +23696,9 @@ c) Informar-se mutuamente da intenção de tomar decisões sobre nova regulament
 
 d) Notificar-se mutuamente das medidas legislativas ou administrativas e das decisões judiciais relativas à aplicação do presente Acordo e informar-se mutuamente das medidas adoptadas com base em tais decisões.
 
-###### Artigo 17.º — Comissão Mista
+Artigo 17.º
+
+Comissão Mista
 
 1. É instituída uma Comissão Mista, composta por representantes das Partes. A Comissão Mista reúne-se a pedido de uma das Partes, em conformidade com os requisitos de execução do Acordo, alternadamente na Comunidade e no Chile, em data e local a estabelecer em conjunto pelas Partes.
 
@@ -23337,9 +23710,13 @@ d) Notificar-se mutuamente das medidas legislativas ou administrativas e das dec
 
 5. A Comissão Mista apresenta propostas sobre assuntos de interesse mútuo no sector das bebidas espirituosas e bebidas aromatizadas.
 
-## TÍTULO V — Disposições gerais
+TÍTULO V
 
-###### Artigo 18.º — Trânsito - pequenas quantidades
+Disposições gerais
+
+Artigo 18.º
+
+Trânsito - pequenas quantidades
 
 Os títulos I e II não são aplicáveis às bebidas espirituosas e bebidas aromatizadas:
 
@@ -23347,7 +23724,9 @@ a) Que se encontrem em trânsito no território de uma das Partes; ou
 
 b) que sejam originários do território de uma das Partes e remetidas em pequenas quantidades para a outra Parte, nas condições e respeitando os procedimentos previstos no Apêndice III (Protocolo).
 
-###### Artigo 19.º — Consultas
+Artigo 19.º
+
+Consultas
 
 1. Se uma Parte for de opinião que a outra Parte não cumpriu uma obrigação decorrente do presente Acordo, deve comunicá-lo por escrito à Parte em questão. A comunicação escrita pode solicitar à Parte que seja iniciado um processo de consultas num prazo determinado.
 
@@ -23361,13 +23740,17 @@ a) A Parte que as requereu ou que tomou as medidas referidas no n.º 3 pode toma
 
 b) Cada uma das Partes pode recorrer ao processo de resolução de litígios previsto no artigo 20.º
 
-###### Artigo 20.º — Resolução de litígios
+Artigo 20.º
+
+Resolução de litígios
 
 1. Qualquer litígio relativo à aplicação ou interpretação do presente Acordo será submetido ao mecanismo de resolução de litígios referido na Parte IV do Acordo de Associação.
 
 2. Em derrogação do artigo 184.º do Acordo de Associação, nos casos em que as Partes tenham realizado consultas em conformidade com o artigo 19.º, a Parte queixosa poderá proceder directamente ao pedido da constituição de um painel de arbitragem.
 
-###### Artigo 21.º — Comercialização das existências
+Artigo 21.º
+
+Comercialização das existências
 
 1. As bebidas espirituosas e bebidas aromatizadas que, à data da entrada em vigor do presente Acordo, já tenham sido produzidas, descritas e apresentadas em conformidade com a legislação e regulamentação interna da Parte respectiva embora de forma proibida pelo presente Acordo podem ser comercializadas no respeito pelas seguintes condições:
 
@@ -23379,11 +23762,13 @@ b) Por retalhistas, até ao esgotamento das existências.
 
 2. As bebidas espirituosas e bebidas aromatizadas produzidas, descritas e apresentadas em conformidade com o presente Acordo cuja descrição ou apresentação deixe de estar em conformidade com o mesmo devido a uma alteração do Acordo podem ser comercializadas até ao esgotamento das existências, salvo decisão em contrário das Partes.
 
-###### Artigo 22.º — Apêndices
+Artigo 22.º
+
+Apêndices
 
 Os apêndices do presente Acordo são parte integrante do mesmo.
 
-## Apêndice I
+Apêndice I
 
 (referido no artigo 6.º)
 
@@ -23533,7 +23918,7 @@ Brandy del Penedés
 
 Brandy italiano
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Deutscher Weinbrand
 
@@ -23611,7 +23996,7 @@ Grappa veneta/Grappa del Veneto
 
 Südtiroler Grappa/Grappa dell'Alto Adige
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Eau-de-vie de marc de marque nationale luxembourgeoise
 
@@ -23879,7 +24264,7 @@ D. Lista de denominações protegidas de bebidas aromatizadas originárias do Ch
 
 Vermouth chileno
 
-## Apêndice II
+Apêndice II
 
 MARCAS REFERIDAS NO N.º 2 DO ARTIGO 7.º
 
@@ -23891,7 +24276,7 @@ GRAN COÑAC
 
 GRAPPA SAN REMO
 
-## Apêndice III
+Apêndice III
 
 PROTOCOLO
 
@@ -23913,11 +24298,15 @@ f) As que constituam provisões de bordo de meios de transporte internacionais.
 
 A derrogação referida no ponto 1 não pode ser cumulada com qualquer das derrogações referidas no ponto 2.
 
-## ANEXO VII — Lista de compromissos específicos em matéria de serviços
+ANEXO VII
+
+Lista de compromissos específicos em matéria de serviços
 
 (referida no artigo 99.º do Acordo de Associação)
 
-# PARTE A — Lista da comunidade
+PARTE A
+
+Lista da comunidade
 
 Nota Introdutória
 
@@ -23961,7 +24350,7 @@ Por «filial», entende-se uma pessoa colectiva que é efectivamente controlada 
 
 Por «sucursal» de uma sociedade, entende-se um estabelecimento sem personalidade jurídica, com carácter aparentemente permanente, tal como uma dependência de uma empresa-mãe, e que dispõe de uma gestão própria e das infra-estruturas necessárias para negociar com terceiros, de modo que estes últimos, embora sabendo que existirá, se necessário, um vínculo jurídico com a empresa-mãe, cuja sede se encontra noutro país, não tenham de tratar directamente com a referida empresa-mãe, podendo efectuar transacções comerciais no local do estabelecimento que constitui a dependência.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Definições no que respeita ao transporte marítimo
 
@@ -23987,7 +24376,9 @@ f) Organização, em nome das companhias da escala do navio ou da aceitação da
 
 COMUNIDADE (continuação)
 
-## ANEXO A — Glossário
+ANEXO A
+
+Glossário
 
 Termos utilizados por alguns Estados-Membros
 
@@ -24059,15 +24450,19 @@ LISTA DE COMPROMISSOS ESPECÍFICOS EM MATÉRIA DE SERVIÇOS
 
 (referido no artigo 99.º)
 
-# PARTE B — Lista do Chile
+PARTE B
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+Lista do Chile
+
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 LISTA DE COMPROMISSOS ESPECÍFICOS EM MATÉRIA DE SERVIÇOS FINANCEIROS
 
 (referida no artigo 120.º)
 
-# PARTE A — Lista da Comunidade
+PARTE A
+
+Lista da Comunidade
 
 Nota introdutória
 
@@ -24109,7 +24504,7 @@ Por «filial», entende-se uma pessoa colectiva que é efectivamente controlada 
 
 Por «sucursal» de uma sociedade, entende-se um estabelecimento sem personalidade jurídica, com carácter aparentemente permanente, tal como uma dependência de uma empresa-mãe, e que dispõe de uma gestão própria e das infra-estruturas necessárias para negociar com terceiros, de modo que estes últimos, embora sabendo que existirá, se necessário, um vínculo jurídico com a empresa-mãe, cuja sede se encontra noutro país, não tenham de tratar directamente com a referida empresa-mãe, podendo efectuar transacções comerciais no local do estabelecimento que constitui a dependência.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 COMPROMISSOS ADICIONAIS DA COMUNIDADE
 
@@ -24225,7 +24620,9 @@ Para efeitos da presente secção, entende-se por:
 
 COMPROMISSOS ESPECÍFICOS EM MATÉRIA DE SERVIÇOS FINANCEIROS
 
-# PARTE B — Lista do Chile
+PARTE B
+
+Lista do Chile
 
 (O texto em língua espanhola é o único que faz fé)
 
@@ -24235,7 +24632,7 @@ CHILE - UE
 
 LISTA DE COMPROMISSOS - SERVIÇOS FINANCEIROS
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 AUTORIDADES RESPONSÁVEIS PELOS SERVIÇOS FINANCEIROS
 
@@ -24253,7 +24650,9 @@ LISTA DE COMPROMISSOS ESPECÍFICOS EM MATÉRIA DE ESTABELECIMENTO
 
 (referida no artigo 132.º)
 
-# PARTE A — Lista da Comunidade
+PARTE A
+
+Lista da Comunidade
 
 Nota introdutória
 
@@ -24295,9 +24694,9 @@ Por «filial», entende-se uma pessoa colectiva que é efectivamente controlada 
 
 Por «sucursal» de uma sociedade, entende-se um estabelecimento sem personalidade jurídica, com carácter aparentemente permanente, tal como uma dependência de uma empresa-mãe, e que dispõe de uma gestão própria e das infra-estruturas necessárias para negociar com terceiros, de modo que estes últimos, embora sabendo que existirá, se necessário, um vínculo jurídico com a empresa-mãe, cuja sede se encontra noutro país, não tenham de tratar directamente com a referida empresa-mãe, podendo efectuar transacções comerciais no local do estabelecimento que constitui a dependência.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice
+Apêndice
 
 PROTOCOLO RELATIVO ÀS EMPRESAS DE PESCA
 
@@ -24327,11 +24726,13 @@ Na sequência de tais consultas, as Partes tomarão uma decisão conjunta sobre 
 
 6. As Partes acordam em que o disposto no capítulo III do título III se aplica sem prejuízo do disposto no presente protocolo.
 
-## ANEXO XI — Entidades comunitárias abrangidas pelas disposições em matéria de contratos públicos
+ANEXO XI
+
+Entidades comunitárias abrangidas pelas disposições em matéria de contratos públicos
 
 (referidas no artigo 137.º)
 
-## Apêndice 1
+Apêndice 1
 
 ENTIDADES A NÍVEL CENTRAL
 
@@ -24357,13 +24758,17 @@ Lista das entidades (ver nota 1):
 
 (nota 1) O Chile observa que várias clarificações, expressas sob diversas formas, relativas ao carácter indicativo de algumas listas do presente apêndice são equivalentes à formulação constante do ponto B do Apêndice 1 do Anexo XII.
 
-#### SECÇÃO 1 — Entidades das Comunidades Europeias
+SECÇÃO 1
+
+Entidades das Comunidades Europeias
 
 1. Conselho da União Europeia
 
 2. Comissão Europeia
 
-#### SECÇÃO 2 — Entidades adjudicantes do Estado
+SECÇÃO 2
+
+Entidades adjudicantes do Estado
 
 ÁUSTRIA
 
@@ -26817,21 +27222,21 @@ Welsh Rent Assessment Panels
 
 (nota 14) Material não bélico que consta da secção 3 do presente apêndice.
 
-#### SECÇÃO 3
+SECÇÃO 3
 
 Lista dos fornecimentos e equipamento adquiridos pelos Ministérios da Defesa da Áustria, Bélgica, Dinamarca, República Federal Alemã, Espanha, Finlândia, França, Grécia, Irlanda, Itália, Luxemburgo, Países Baixos, Portugal, Suécia e Reino Unido abrangidos pelo presente título
 
-### Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimento
+Capítulo 25: Sal, enxofre, terras e pedras, gesso, cal e cimento
 
-### Capítulo 26: Minérios, escórias e cinzas
+Capítulo 26: Minérios, escórias e cinzas
 
-### Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação, matérias betuminosas e ceras minerais
+Capítulo 27: Combustíveis minerais, óleos minerais e produtos da sua destilação, matérias betuminosas e ceras minerais
 
 excepto:
 
 ex 27.10: carburantes especiais (excepto Áustria) combustíveis de aquecimento e carburantes (apenas Áustria)
 
-### Capítulo 28: Produtos químicos inorgânicos, compostos orgânicos ou inorgânicos de metais preciosos, de metais das terras raras, de elementos radioactivos e de isótopos
+Capítulo 28: Produtos químicos inorgânicos, compostos orgânicos ou inorgânicos de metais preciosos, de metais das terras raras, de elementos radioactivos e de isótopos
 
 excepto:
 
@@ -26853,7 +27258,7 @@ ex 28.51: produtos tóxicos
 
 ex 28.54: explosivos
 
-### Capítulo 29: Produtos químicos orgânicos
+Capítulo 29: Produtos químicos orgânicos
 
 excepto:
 
@@ -26887,17 +27292,17 @@ ex 29.27: produtos tóxicos
 
 ex 29.29: explosivos
 
-### Capítulo 30: Produtos farmacêuticos
+Capítulo 30: Produtos farmacêuticos
 
-### Capítulo 31: Adubos (fertilizantes)
+Capítulo 31: Adubos (fertilizantes)
 
-### Capítulo 32: Extractos tanantes e tintoriais; taninos e seus derivados, pigmentos, matérias corantes, tintas e vernizes, mástiques e tintas de escrever
+Capítulo 32: Extractos tanantes e tintoriais; taninos e seus derivados, pigmentos, matérias corantes, tintas e vernizes, mástiques e tintas de escrever
 
-### Capítulo 33: Óleos essenciais e resinóides, produtos de perfumaria ou de toucador, preparados e preparações cosméticas
+Capítulo 33: Óleos essenciais e resinóides, produtos de perfumaria ou de toucador, preparados e preparações cosméticas
 
-### Capítulo 34: Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos de conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar, ceras para dentistas e composições para dentistas à base de gesso
+Capítulo 34: Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos de conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar, ceras para dentistas e composições para dentistas à base de gesso
 
-### Capítulo 36: Pólvoras e explosivos, artigos de pirotecnia, fósforos, ligas pirofóricas e certas matérias inflamáveis (só Áustria e Suécia)
+Capítulo 36: Pólvoras e explosivos, artigos de pirotecnia, fósforos, ligas pirofóricas e certas matérias inflamáveis (só Áustria e Suécia)
 
 excepto (só Áustria)
 
@@ -26909,85 +27314,85 @@ ex 36.04: detonadores
 
 ex 36.08: explosivos
 
-### Capítulo 35: Matérias albuminóides, colas e enzimas
+Capítulo 35: Matérias albuminóides, colas e enzimas
 
-### Capítulo 37: Produtos para fotografia e cinematografia
+Capítulo 37: Produtos para fotografia e cinematografia
 
-### Capítulo 38: Produtos diversos das indústrias químicas
+Capítulo 38: Produtos diversos das indústrias químicas
 
 excepto:
 
 ex 38.19: produtos tóxicos (não para a Suécia)
 
-### Capítulo 39: Resinas artificiais e matérias plásticas, ésteres e éteres de celulose e suas obras
+Capítulo 39: Resinas artificiais e matérias plásticas, ésteres e éteres de celulose e suas obras
 
 excepto:
 
 ex 39.03: explosivos (não para a Suécia)
 
-### Capítulo 40: Borracha, borracha sintética, borracha artificial e suas obras
+Capítulo 40: Borracha, borracha sintética, borracha artificial e suas obras
 
 excepto:
 
 ex 40.11: pneus à prova de bala (não para a Suécia)
 
-### Capítulo 41: Peles, excepto peles com pêlo e couros: (não para a Áustria)
+Capítulo 41: Peles, excepto peles com pêlo e couros: (não para a Áustria)
 
-### Capítulo 42: Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa: (não para a Áustria)
+Capítulo 42: Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa: (não para a Áustria)
 
-### Capítulo 43: Peles com pêlo e suas obras; peles com pêlo, artificiais
+Capítulo 43: Peles com pêlo e suas obras; peles com pêlo, artificiais
 
-### Capítulo 44: Madeira, carvão vegetal e obras de madeira: (não para a Áustria)
+Capítulo 44: Madeira, carvão vegetal e obras de madeira: (não para a Áustria)
 
-### Capítulo 45: Cortiça e suas obras
+Capítulo 45: Cortiça e suas obras
 
-### Capítulo 46: Obras de espartaria ou de cestaria
+Capítulo 46: Obras de espartaria ou de cestaria
 
-### Capítulo 47: Material para fabricação de papel
+Capítulo 47: Material para fabricação de papel
 
-### Capítulo 48: Papel e cartão, obras de pasta de celulose, de papel ou de cartão: (não para a Áustria)
+Capítulo 48: Papel e cartão, obras de pasta de celulose, de papel ou de cartão: (não para a Áustria)
 
-### Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas, textos manuscritos ou dactilografados, planos e plantas: (não para a Áustria)
+Capítulo 49: Livros, jornais, gravuras e outros produtos das indústrias gráficas, textos manuscritos ou dactilografados, planos e plantas: (não para a Áustria)
 
-### Capítulo 65: Chapéus e artefactos de uso semelhante, e suas partes
+Capítulo 65: Chapéus e artefactos de uso semelhante, e suas partes
 
 excepto (só Áustria):
 
 ex 65.05: capacetes militares
 
-### Capítulo 66: Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes e suas partes
+Capítulo 66: Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes e suas partes
 
-### Capítulo 67: Penas e penugem preparadas e suas obras, flores artificiais e obras de cabelo
+Capítulo 67: Penas e penugem preparadas e suas obras, flores artificiais e obras de cabelo
 
-### Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes
+Capítulo 68: Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes
 
-### Capítulo 69: Produtos cerâmicos
+Capítulo 69: Produtos cerâmicos
 
-### Capítulo 70: Vidro e suas obras
+Capítulo 70: Vidro e suas obras
 
-### Capítulo 71: Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos, e suas obras, bijutaria
+Capítulo 71: Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos, e suas obras, bijutaria
 
-### Capítulo 72: Moedas (só Áustria e Suécia)
+Capítulo 72: Moedas (só Áustria e Suécia)
 
-### Capítulo 73: Obras de ferro fundido, ferro e aço
+Capítulo 73: Obras de ferro fundido, ferro e aço
 
-### Capítulo 74: Cobre e suas obras
+Capítulo 74: Cobre e suas obras
 
-### Capítulo 75: Níquel e suas obras
+Capítulo 75: Níquel e suas obras
 
-### Capítulo 76: Alumínio e suas obras
+Capítulo 76: Alumínio e suas obras
 
-### Capítulo 77: Magnésio e berílio e suas obras
+Capítulo 77: Magnésio e berílio e suas obras
 
-### Capítulo 78: Chumbo e suas obras
+Capítulo 78: Chumbo e suas obras
 
-### Capítulo 79: Zinco e suas obras
+Capítulo 79: Zinco e suas obras
 
-### Capítulo 80: Estanho e suas obras
+Capítulo 80: Estanho e suas obras
 
-### Capítulo 81: Outros metais comuns, ceramias (cermets); obras dessas matérias
+Capítulo 81: Outros metais comuns, ceramias (cermets); obras dessas matérias
 
-### Capítulo 82: Ferramentas; artefactos de cutelaria e talheres, e suas partes, de metais comuns
+Capítulo 82: Ferramentas; artefactos de cutelaria e talheres, e suas partes, de metais comuns
 
 excepto:
 
@@ -26997,9 +27402,9 @@ ex 82.07: ferramentas, partes
 
 ex 82.08: ferramentas manuais (só Áustria)
 
-### Capítulo 83: Obras diversas de metais comuns
+Capítulo 83: Obras diversas de metais comuns
 
-### Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes
+Capítulo 84: Caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes
 
 excepto:
 
@@ -27015,7 +27420,7 @@ ex 84.55: partes de máquinas da posição 84.53 (não para a Áustria e Suécia
 
 ex 84.59: reactores nucleares (não para a Áustria e para a Suécia)
 
-### Capítulo 85: Máquinas, aparelhos e materiais eléctricos e suas partes
+Capítulo 85: Máquinas, aparelhos e materiais eléctricos e suas partes
 
 excepto:
 
@@ -27025,7 +27430,7 @@ ex 85.13: equipamento de telecomunicações
 
 ex 85.15: aparelhos emissores (transmissores)
 
-### Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização para vias de comunicação (mecânicos)
+Capítulo 86: Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos de sinalização para vias de comunicação (mecânicos)
 
 excepto:
 
@@ -27039,7 +27444,7 @@ ex 86.06: vagões de reparação
 
 ex 86.07: vagões
 
-### Capítulo 87: Veículos automóveis, tractores, ciclos e outros veículos terrestres, e suas partes
+Capítulo 87: Veículos automóveis, tractores, ciclos e outros veículos terrestres, e suas partes
 
 excepto:
 
@@ -27055,9 +27460,9 @@ ex 87.09: motocicletas
 
 ex 87.14: reboques
 
-### Capítulo 88: Aeronaves e suas partes (só Áustria)
+Capítulo 88: Aeronaves e suas partes (só Áustria)
 
-### Capítulo 89:Embarcações e estruturas flutuantes
+Capítulo 89:Embarcações e estruturas flutuantes
 
 excepto:
 
@@ -27067,7 +27472,7 @@ ex 89.01 A: navios de guerra (excepto a Áustria)
 
 ex 89.03: estruturas flutuantes (só Áustria)
 
-### Capítulo 90: Instrumentos e aparelhos de óptica, fotografia ou cinematografia, de medida, de controlo ou de precisão, instrumentos e aparelhos médico-cirúrgicos, suas partes e acessórios
+Capítulo 90: Instrumentos e aparelhos de óptica, fotografia ou cinematografia, de medida, de controlo ou de precisão, instrumentos e aparelhos médico-cirúrgicos, suas partes e acessórios
 
 excepto:
 
@@ -27089,25 +27494,25 @@ ex 90.19: artigos e aparelhos ortopédicos (não para a Suécia e Áustria)
 
 ex 90.20: aparelhos de raios-X (não para a Suécia e Áustria)
 
-### Capítulo 91: Artigos de relojoaria
+Capítulo 91: Artigos de relojoaria
 
-### Capítulo 92: Instrumentos musicais, aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão e suas partes e acessórios
+Capítulo 92: Instrumentos musicais, aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão e suas partes e acessórios
 
-### Capítulo 94: Móveis, mobiliário médico-cirúrgico, colchões, almofadas e semelhantes
+Capítulo 94: Móveis, mobiliário médico-cirúrgico, colchões, almofadas e semelhantes
 
 excepto:
 
 ex 94.01 A: Assentos para veículos aéreos (não para a Áustria)
 
-### Capítulo 95: Artefactos e obras de matérias de entalhar ou moldar
+Capítulo 95: Artefactos e obras de matérias de entalhar ou moldar
 
-### Capítulo 96: Vassouras, escovas, espanadores e peneiras
+Capítulo 96: Vassouras, escovas, espanadores e peneiras
 
-### Capítulo 97: Brinquedos, jogos, artigos para divertimento ou para desporto, suas partes e acessórios (só Áustria e Suécia)
+Capítulo 97: Brinquedos, jogos, artigos para divertimento ou para desporto, suas partes e acessórios (só Áustria e Suécia)
 
-### Capítulo 98: Obras diversas
+Capítulo 98: Obras diversas
 
-## Apêndice 2
+Apêndice 2
 
 ENTIDADES NÃO PERTENCENTES À ADMINISTRAÇÃO CENTRAL E ORGANISMOS DE DIREITO PÚBLICO
 
@@ -27747,7 +28152,7 @@ Portugal: «INGA (Instituto Nacional de Intervenção e Garantia Agrícola)»
 
 Reino Unido: «Ordnance Survey»
 
-## Apêndice 3
+Apêndice 3
 
 ENTIDADES QUE OPERAM NO SECTOR DOS SERVIÇOS DE UTILIDADE PÚBLICA
 
@@ -27779,7 +28184,9 @@ b) A colocação à disposição dos transportadores aéreos de aeroportos ou ou
 
 As autoridades ou empresas públicas enumeradas no presente apêndice (entidades adjudicantes no domínio das instalações de aeroportos e entidades adjudicantes no domínio das instalações de portos marítimos ou interiores ou de outros terminais) da Directiva [93/38/CEE](http://data.europa.eu/eli/dir/1993/38/oj?locale=pt) preenchem os critérios acima definidos. Essas listas têm um carácter meramente indicativo (ver JO L 199 de 9 de Agosto de 1993, página 84, e JO C 241 de 29 de Agosto de 1994, p. 228).
 
-#### SECÇÃO 1 — Entidades adjudicantes no domínio das instalações de portos marítimos ou interiores ou de outros terminais
+SECÇÃO 1
+
+Entidades adjudicantes no domínio das instalações de portos marítimos ou interiores ou de outros terminais
 
 ÁUSTRIA
 
@@ -27823,7 +28230,7 @@ ALEMANHA
 
 GRÉCIA
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 - Outros portos regidos pelo Decreto Presidencial 649/1977 (NA. 649/1977). Epopteia, organosi leitoyrgias kai dioikitikos elenchos limenon (organização da fiscalização do controlo operacional e administrativo).
 
@@ -27905,7 +28312,9 @@ REINO UNIDO
 
 Harbour Authorities, na acepção da secção 57 do Harbours Act 1964 providing port facilities to carriers by sea or inland waterway.
 
-#### SECÇÃO 2 — Entidades adjudicantes na área da exploração dos aeroportos
+SECÇÃO 2
+
+Entidades adjudicantes na área da exploração dos aeroportos
 
 ÁUSTRIA
 
@@ -27931,7 +28340,7 @@ Aeroportos, tal como definidos no n.º 2 do artigo 38.º da Luftverkehrszulassun
 
 GRÉCIA
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Aeroportos internacionais que operam ao abrigo do Decreto Presidencial 647/981.
 
@@ -27989,15 +28398,15 @@ Aeroportos geridos pela British Airports Authority plc.
 
 Aeroportos que são companhias públicas limitadas (plc) nos termos do Airports Act 1986.
 
-## Apêndice 4
+Apêndice 4
 
 SERVIÇOS
 
 São incluídos os seguintes serviços da Lista Universal de Serviços:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## Apêndice 5
+Apêndice 5
 
 SERVIÇOS DE CONSTRUÇÃO
 
@@ -28005,13 +28414,15 @@ Definição de serviços de construção:
 
 Entende-se por contrato de serviços de construção um contrato que tem por objectivo a realização, seja por que meio for, de obras de construção ou engenharia civil, na acepção da Divisão 51 da Classificação Central de Produtos.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
-## ANEXO XII — Entidades do chile abrangidas pelas disposições em matéria de contratos públicos
+ANEXO XII
+
+Entidades do chile abrangidas pelas disposições em matéria de contratos públicos
 
 (referidas no artigo 137.º)
 
-## Apêndice 1
+Apêndice 1
 
 ENTIDADES A NÍVEL CENTRAL
 
@@ -28515,7 +28926,7 @@ Gobernación de Santiago
 
 B) Todas as restantes entidades públicas centrais, incluindo as suas subdivisões regionais e subregionais, desde que sem cáracter industrial ou comercial.
 
-## Apêndice 2
+Apêndice 2
 
 ENTIDADES NÃO PERTENCENTES À ADMINISTRAÇÃO CENTRAL E ORGANISMOS DE DIREITO PÚBLICO
 
@@ -29223,7 +29634,7 @@ Municipalidad de Navarino
 
 B) Todas as restantes entidades públicas não pertencentes à administração central, incluindo as respectivas subdivisões, e todas as outras entidades que prosseguem objectivos de interesse público, sujeitas ao controlo efectivo, de gestão ou financeiro, de entidades públicas, desde que não tenham cáracter industrial ou comercial.
 
-## Apêndice 3
+Apêndice 3
 
 ENTIDADES QUE OPERAM NO SECTOR DOS SERVIÇOS DE UTILIDADE PÚBLICA
 
@@ -29273,23 +29684,25 @@ a) A colocação à disposição dos transportadores aéreos de aeroportos ou ou
 
 b) A colocação à disposição dos transportadores marítimos ou fluviais de portos marítimos ou interiores ou outros terminais de transporte.
 
-## Apêndice 4
+Apêndice 4
 
 SERVIÇOS
 
 Para efeitos do disposto no presente título, e sem prejuízo do disposto no n.º 2 do artigo 137.º, não são excluídos quaisquer serviços da Lista Universal de Serviços.
 
-## Apêndice 5
+Apêndice 5
 
 SERVIÇOS DE CONSTRUÇÃO
 
 Para efeitos do disposto no presente título, e sem prejuízo do disposto no n.º 2 do artigo 137.º, não são excluídos quaisquer serviços de construção da divisão da Classificação Central de Produtos relativa aos trabalhos de construção.
 
-## ANEXO XIII — Contratos públicos
+ANEXO XIII
+
+Contratos públicos
 
 Aplicação de determinadas disposições do Título IV da Parte IV
 
-## Apêndice 1
+Apêndice 1
 
 (referido no n.º 3 do artigo 137.º e na alínea i) do artigo 138.º)
 
@@ -29305,7 +29718,7 @@ Regras aplicáveis às concessões de obras públicas
 
 4. As concessões de obras públicas abrangidas, no que respeita às entidades comunitárias constantes do Apêndice 3 do Anexo I, estarão subordinadas ao disposto no presente título, em conformidade com as directivas comunitárias relativas aos contratos públicos.
 
-## Apêndice 2
+Apêndice 2
 
 (referido no n.º 11 artigo 147.º e no artigo 142.º)
 
@@ -29369,7 +29782,7 @@ Revue des marchés publics
 
 Grécia
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 Irlanda
 
@@ -29425,7 +29838,7 @@ Diario Oficial de la República de Chile
 
 http://www.chilecompra.cl
 
-## Apêndice 3
+Apêndice 3
 
 (referido no artigo 150.º)
 
@@ -29455,7 +29868,7 @@ e) Se se tratar de concursos lançados por entidades enumeradas no Apêndice 3 d
 
 f) Se uma entidade publicar um anúncio de previsão de contrato em conformidade com o disposto no artigo 147.º num meio de comunicação electrónico enumerado no Apêndice 2 do presente anexo e se todo o processo do concurso se encontrar disponível em formato electrónico desde a publicação do anúncio.
 
-## Apêndice 4
+Apêndice 4
 
 (referido no artigo 158.º)
 
@@ -29473,7 +29886,7 @@ c) Em relação às entidades mencionadas no Apêndice 1 dos Anexos XI e XII, da
 
 3. O Conselho de Associação determinará a necessidade de rever regularmente da presente disposição.
 
-## Apêndice 5
+Apêndice 5
 
 VALOR DOS LIMIARES
 
@@ -29483,7 +29896,9 @@ Em relação à Comunidade, o cálculo destes contravalores basear-se-á na méd
 
 Em relação ao Chile, o cálculo desses contravalores basear-se-á na média do valor diário dos DSE, expresso em pesos do Chile, durante o período de 24 meses que termina no último dia do mês de Agosto anterior à revisão com efeitos a partir de 1 de Janeiro. O valor dos limiares assim revistos deve, se necessário, ser arredondado até à dezena de milhar de pesos do Chile imediatamente inferior.
 
-## ANEXO XIV — Pagamentos correntes e movimentos de capitais
+ANEXO XIV
+
+Pagamentos correntes e movimentos de capitais
 
 (referido nos artigos 164.º e 165.º)
 
@@ -29503,7 +29918,9 @@ Sem prejuízo do acima disposto, a exigência de constituição de uma reserva q
 
 4. Ao aplicar as medidas previstas no presente Anexo, o Chile, tal como previsto na sua legislação, não efectuará qualquer discriminação entre a Comunidade e os outros países terceiros relativamente às transacções da mesma natureza.
 
-## ANEXO XV — Modelo de regras processuais para a condução de painéis de arbitragem
+ANEXO XV
+
+Modelo de regras processuais para a condução de painéis de arbitragem
 
 (referido no n.º 2 do artigo 189.º)
 
@@ -29679,7 +30096,9 @@ d) A Parte que apresentar um pedido em conformidade com o n.º 10 do artigo 188.
 
 48. Se for caso disso, o painel de arbitragem fixará o prazo para a entrega de quaisquer outras observações escritas, incluindo as contestações por escrito, por forma a que cada Parte tenha a oportunidade de apresentar um igual número de observações escritas dentro dos prazos previstos para o procedimento arbitral estabelecido no artigo 188.º do presente acordo e nas presentes regras.
 
-## ANEXO XVI — Código de conduta dos membros dos painéis de arbitragem
+ANEXO XVI
+
+Código de conduta dos membros dos painéis de arbitragem
 
 (referido nos artigos 185.º e 189.º)
 
@@ -29755,7 +30174,9 @@ VII. Responsabilidades dos assistentes e do pessoal
 
 23. As Partes I (Responsabilidades no âmbito do processo), II (Obrigação de declaração) e VI (Confidencialidade) do presente código de conduta aplicam-se igualmente aos assistentes e ao pessoal.
 
-## ANEXO XVII — Aplicação de determinadas decisões no âmbito da Parte IV
+ANEXO XVII
+
+Aplicação de determinadas decisões no âmbito da Parte IV
 
 (referido no n.º 4 do artigo 193.º)
 
@@ -29765,11 +30186,11 @@ a) No caso do Chile, em conformidade com o disposto no segundo parágrafo do n.�
 
 b) No caso da Comunidade e dos seus Estados-Membros, em conformidade com os procedimentos internos aplicáveis.
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 O texto que precede é uma cópia autenticada do original depositado nos arquivos do Secretariado-Geral do Conselho em Bruxelas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 ACTA FINAL
 
@@ -29887,7 +30308,7 @@ APLICAÇÃO DE DETERMINADAS DISPOSIÇÕES DO TÍTULO IV DA PARTE IV
 
 (referida no n.º 4 do artigo 193.º)
 
-[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[(ver fecho e assinaturas no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 DECLARAÇÕES COMUNS
 
@@ -29999,7 +30420,7 @@ DECLARAÇÕES DA COMUNIDADE
 
 DECLARAÇÃO RELATIVA AO ARTIGO 13.º SOBRE O DIÁLOGO POLÍTICO
 
-**O Presidente da Comissão e o Alto Representante da União Europeia participarão igualmente nas reuniões periódicas entre os Chefes de Estado e de Governo.**
+O Presidente da Comissão e o Alto Representante da União Europeia participarão igualmente nas reuniões periódicas entre os Chefes de Estado e de Governo.
 
 DECLARAÇÃO
 
@@ -30125,8 +30546,8 @@ DECLARAÇÃO RELATIVA À PESCA
 
 O Chile declara que aplicará as disposições do Protocolo relativo às Empresas de Pesca a partir da data em que a Comunidade iniciar a aplicação do calendário de eliminação dos direitos aduaneiros sobre o peixe e os produtos da pesca referido na Parte IV, Título II.
 
-[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[[[[[[[[[[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
 
 O texto que precede é uma cópia autenticada do original depositado nos arquivos do Secretariado-Geral do Conselho em Bruxelas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf))](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/53/1991/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1991-497787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f6f822dc9825b7c1d0732b993ddf299772ef3f534d973687733f7852310f6bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd9ddc502f7bd98445b05034628f3789c13fe8335e79289f8452f0128f8a34c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Ajudas de Custo
-- Pessoal Dirigente
-- Administração Pública
-- Sistema Retributivo
 - Administração Local
-- Gratificação
-- Remuneração
+- Administração Pública
 - Administração Regional
+- Ajudas de Custo
+- Função Pública
+- Gratificação
+- Pessoal Dirigente
+- Remuneração
+- Sistema Retributivo
 - Subsídio de Refeição
 - Subsídio de Viagem e Marcha
 relationships:
@@ -82,16 +82,57 @@ relationships:
   target: pt:dre:283327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549389:por
+  label: "Actualizados os valores dos subsídios de refeição de viagem e de marcha fixados no presente diploma, pela PORT.77-A/92.05.02.1992.MF,\
+    \ DR.IS-B [30]2ºSupl de 05.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-a-1992-549389
+  date: '1992-02-05'
+- type: amended_by
+  target: pt:dre:664491:por
+  label: "Actualizados os valores dos subsídios de refeição de viagem e de marcha fixados no presente diploma, pela PORT.1164-A/92.18.12.1992.MF,\
+    \ DR.IS-B [291]2ºSupl de 18.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1164-a-1992-664491
+  date: '1992-12-18'
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283327:por
+  label: "Revogados os n.ºs 11.º e 12.º pela PORT.165/94.23.03.1994.MF, DR.IS-B [69] de 23.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1994-283327
+  date: '1994-03-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:51:50Z'
   warnings: []
   errors: []
 ---
@@ -184,10 +225,10 @@ d) Percurso a pé - 19$00 por quilómetro.
 
 Ministério das Finanças.
 
-**Assinada em 8 de Janeiro de 1991.**
+Assinada em 8 de Janeiro de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.
 
 Mapa a que se refere o n.º 3.º da Portaria n.º 53/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/016b00/03060307.pdf))](https://files.diariodarepublica.pt/1s/1991/01/016b00/03060307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/016b00/03060307.pdf)

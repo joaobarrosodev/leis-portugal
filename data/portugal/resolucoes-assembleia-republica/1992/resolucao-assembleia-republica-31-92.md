@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/31/1992/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/31-1992-216956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0acc857578356cff5f1cc3f27f94425da8de7d65244576481547aee11851dc56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5ed237fb4e1cf472ca88226968aa1578c1a15ff6900b3f2e8eb2e0421d9e943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - OIT
+- Portugal
 - Segurança Social
 relationships: []
 article_structure:
   article_count: 87
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:56:32Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e
 
 Aprovada em 30 de Junho de 1992.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
 CONVENÇÃO N.º 102
 
@@ -106,7 +106,7 @@ Depois de ter decidido adoptar diversas propostas relativas à norma mínima da 
 
 Depois de ter decidido que essas propostas tomariam a forma de uma convenção internacional, adopta, neste 28.º dia de Junho de 1952, a convenção seguinte, que será designada por Convenção relativa à segurança social (norma mínima), 1952:
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º
 
@@ -172,7 +172,7 @@ b) Abrangerem uma parte substancial das pessoas cuja remuneração não exceda a
 
 c) Satisfizerem, conjuntamente com as outras formas de protecção, caso existam, as disposições pertinentes da Convenção.
 
-# PARTE II — Cuidados médicos
+## PARTE II — Cuidados médicos
 
 ###### Artigo 7.º
 
@@ -230,7 +230,7 @@ As prestações mencionadas no artigo 10.º devem, na eventualidade coberta, ser
 
 2 - Quando tiver sido feita uma declaração ao abrigo do artigo 3.º, a duração das prestações pode ser limitada a 13 semanas por cada caso.
 
-# PARTE III — Subsídio de doença
+## PARTE III — Subsídio de doença
 
 ###### Artigo 13.º
 
@@ -272,7 +272,7 @@ a) A um período tal que o número total de dias pelos quais o subsídio de doen
 
 b) Ou a 13 semanas por cada caso de doença, com a possibilidade de a prestação não ser concedida pelos três primeiros dias de suspensão do ganho.
 
-# PARTE IV — Prestações de desemprego
+## PARTE IV — Prestações de desemprego
 
 ###### Artigo 19.º
 
@@ -316,7 +316,7 @@ b) Quando forem protegidos todos os residentes cujos recursos durante a eventual
 
 4 - Quando se trate de trabalhadores sazonais, a duração da prestação e o período de espera podem ser adaptados às condições de emprego.
 
-# PARTE V — Prestações de velhice
+## PARTE V — Prestações de velhice
 
 ###### Artigo 25.º
 
@@ -374,7 +374,7 @@ b) Quando, em princípio, todas as pessoas activas forem protegidas, a qualquer 
 
 As prestações mencionadas nos artigos 28.º e 29 devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
+## PARTE VI — Prestações em caso de acidentes de trabalho e de doenças profissionais
 
 ###### Artigo 31.º
 
@@ -456,7 +456,7 @@ As prestações mencionadas nos artigos 34.º e 36.º devem, na eventualidade co
 
 As prestações mencionadas nos artigos 34.º e 36.º devem ser concedidas por todo o tempo de duração da eventualidade; todavia, quando se trate de incapacidade para o trabalho, a prestação poderá não ser paga pelos três primeiros dias em cada caso de suspensão do ganho.
 
-# PARTE VII — Prestações familiares
+## PARTE VII — Prestações familiares
 
 ###### Artigo 39.º
 
@@ -504,7 +504,7 @@ b) Ou 1,5% do salário referido, multiplicado pelo número total de filhos de to
 
 Quando as prestações consistirem num pagamento periódico, devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE VIII — Prestações de maternidade
+## PARTE VIII — Prestações de maternidade
 
 ###### Artigo 46.º
 
@@ -550,7 +550,7 @@ As prestações mencionadas nos artigos 49.º e 50.º devem, na eventualidade co
 
 As prestações mencionadas nos artigos 49.º e 50.º devem ser concedidas por todo o tempo de duração da eventualidade coberta; todavia, os pagamentos periódicos podem ser limitados a 12 semanas, a não ser que a legislação nacional imponha ou autorize um período mais longo de ausência do trabalho, caso em que os pagamentos não poderão ser limitados a um período de duração inferior.
 
-# PARTE IX — Prestações de invalidez
+## PARTE IX — Prestações de invalidez
 
 ###### Artigo 53.º
 
@@ -602,7 +602,7 @@ b) Quando, em princípio, todas as pessoas activas forem protegidas, a uma pesso
 
 As prestações mencionadas nos artigos 56.º e 57.º devem ser concedidas por todo o tempo de duração da eventualidade ou até à sua substituição por uma prestação de velhice.
 
-# PARTE X — Prestações de sobrevivência
+## PARTE X — Prestações de sobrevivência
 
 ###### Artigo 59.º
 
@@ -658,7 +658,7 @@ b) Quando em princípio forem protegidas as esposas e os filhos de todas as pess
 
 As prestações mencionadas nos artigos 62.º e 63.º devem ser concedidas por todo o tempo de duração da eventualidade.
 
-# PARTE XI — Cálculo dos pagamentos periódicos
+## PARTE XI — Cálculo dos pagamentos periódicos
 
 ###### Artigo 65.º
 
@@ -738,9 +738,9 @@ QUADRO
 
 Pagamentos periódicos aos beneficiários-tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf))](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf)
 
-# PARTE XII — Igualdade de tratamento dos residentes não nacionais
+## PARTE XII — Igualdade de tratamento dos residentes não nacionais
 
 ###### Artigo 68.º
 
@@ -748,7 +748,7 @@ Pagamentos periódicos aos beneficiários-tipo
 
 2 - Nos sistemas de segurança social contributivo cuja protecção se aplique aos assalariados, as pessoas protegidas que sejam nacionais de outro Membro que tenha aceitado as obrigações decorrentes da parte correspondente da Convenção devem ter, relativamente à parte em causa, os mesmos direitos que os nacionais do Membro interessado. Contudo, a aplicação do presente parágrafo pode ser subordinada à existência de um acordo bilateral ou multilateral que preveja uma reciprocidade.
 
-# PARTE XIII — Disposições comuns
+## PARTE XIII — Disposições comuns
 
 ###### Artigo 69.º
 
@@ -796,7 +796,7 @@ j) Relativamente à prestação de sobrevivência, enquanto a viúva viver em co
 
 2 - O Membro em causa deve assumir uma responsabilidade geral com vista à correcta gestão das instituições e serviços que concorrem para a aplicação da presente Convenção.
 
-# PARTE XIV — Disposições diversas
+## PARTE XIV — Disposições diversas
 
 ###### Artigo 73.º
 
@@ -842,7 +842,7 @@ Estas provas deverão ser fornecidas seguindo, na medida do possível, quanto à
 
 2 - Qualquer Membro pode excluir os marítimos e os marítimos pescadores do número quer dos assalariados, quer das pessoas da população activa, quer dos residentes tomados em conta para o cálculo da percentagem dos assalariados ou dos residentes que são protegidos por aplicação de qualquer das partes II a X abrangidas pela ratificação.
 
-# PARTE XV — Disposições finais
+## PARTE XV — Disposições finais
 
 ###### Artigo 78.º
 
@@ -1694,7 +1694,7 @@ TABLEAU
 
 Paiements périodiques aux bénéficiaires-types
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf))](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/254a00/50705098.pdf)
 
 PARTIE XII
 

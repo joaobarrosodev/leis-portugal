@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolassrep/48/1999/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/48-1999-371426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T11:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92043cb72d78b44af464e990b6f9382aae0c7ec4e5bd96293c54c8000c43ff57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f9f2ba75b89df53790ec4d0a26df4d0cfaba570213611b5de1590af74d81dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,32 @@ subjects:
 - Ajuda Judicial
 - Autoridade Central
 - Convenção
+- Cooperação Judiciária
 - Cooperação Jurídica
-- Portugal
+- Direito Penal
 - Lisboa
 - México
-- Cooperação Judiciária
-- Direito Penal
+- Portugal
+- Procuradoria Geral da República
 - Transferência de Detidos
 - Tratado de Auxílio Judiciário Mútuo em Matéria Penal
-- Procuradoria Geral da República
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:371434:por
+  label: "Ratificado o Tratado aprovado para ratificação pelo presente diploma, pelo DEC.150/99.1999.06.30.PR DR.IS-A [150]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/150-1999-371434
+  date: '1999-06-30'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T11:05:50Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +107,7 @@ A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e 
 
 Aprovada em 16 de Abril de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
 TRATADO DE AUXÍLIO JUDICIÁRIO MÚTUO EM MATÉRIA PENAL ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS MEXICANOS.
 
@@ -353,7 +359,7 @@ Quaisquer dúvidas ou dificuldades resultantes da aplicação ou interpretação
 
 2 - O Tratado entrará em vigor no 1.º dia do 2.º mês seguinte àquele em que tiver lugar a troca de instrumentos de ratificação e manter-se-á em vigor enquanto não for denunciado por uma das Partes. Os seus efeitos cessam seis meses após o dia de recepção da denúncia.
 
-**Assinado em Lisboa em 20 de Outubro de 1998, em dois originais em língua portuguesa e espanhola, ambos fazendo igualmente fé.**
+Assinado em Lisboa em 20 de Outubro de 1998, em dois originais em língua portuguesa e espanhola, ambos fazendo igualmente fé.
 
 Pela República Portuguesa:
 
