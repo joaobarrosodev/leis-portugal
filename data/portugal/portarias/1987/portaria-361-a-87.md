@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 99/1987, 1º Suplemento, Série I de 1987-04-30
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1816-(2) a 1816-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf
 entry_into_force_dates: []
@@ -47,40 +47,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-a-1987-305812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7478f333769413e6c74b3a379d35d7d4f2cb8f438153d57162105a1723f725d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b0f7adf143dfd4e07e1dcf12c6d7bd5e8032f3e05f6901262369461c34dac6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Licenciatura
+- Numerus Clausus
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:494872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419777:por
+  label: "Alterado o nº 6, os arts. 24º, 35º, 38º, 40º, 43º, 45º, 50º, 54º e 66º e os Anexos I, II, III.1, III.2, IV.1, IV.2,\
+    \ IV.3, V, VI, VII e XI do Regulamento Anexo e aditado ao mesmo um art. 45º-A, pela PORT.524/87.1987.06.27.MEC, DR.IS\
+    \ [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-1987-419777
+  date: '1987-06-27'
+- type: amended_by
+  target: pt:dre:417832:por
+  label: "Aditado o curso de Educação de Infância aos anexos I.1, II, III.2 e VI ao presente diploma, alterado pela Port 524/87,\
+    \ de 27-Jun, pela PORT.681/87.08.08.1987.MEC, DR.IS [181] de 08.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-1987-417832
+  date: '1987-08-08'
+- type: amended_by
+  target: pt:dre:417635:por
+  label: "Aditado um art. 40.º-A ao Regulamento anexo ao presente diploma, alterado pela Port 524/87, de 27-Jun, pela PORT.708/87.19.08.1987.MEC,\
+    \ DR.IS [189] de 19.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/708-1987-417635
+  date: '1987-08-19'
+- type: amended_by
+  target: pt:dre:494872:por
+  label: "Alterado o art. 30º do Regulamento pela PORT.766/87.04.09.1987.MEC, DR.IS [203] de 04.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-1987-494872
+  date: '1987-09-04'
+- type: cites
+  target: pt:dre:218570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611275:por
+  label: null
+  source: null
 article_structure:
   article_count: 74
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:04Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +192,15 @@ c(índice 1) >= c(índice 2) >= c(índice 3) >= 8,0.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 24 de Abril de 1987.**
+Assinada em 24 de Abril de 1987.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento do Regime Geral de Candidatura à Primeira Matrícula e Inscrição em Estabelecimentos e Cursos do Ensino Superior no Ano Lectivo de 1987-1988.
 
 ÍNDICE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf)
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1063,4 +1136,4 @@ A Direcção-Geral do Ensino Superior, a DGEBS ou o GCIES, conforme os casos, ex
 
 Do ANEXO I ao ANEXO XII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09901/00020053.pdf)

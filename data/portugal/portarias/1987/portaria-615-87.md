@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1987-420461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f73986dd37a345bd987192d316287c301050f6919935227aa41b6c8001bf376e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca439919bf6a21c854ae13f6107baafa0c42bf0219b3fdefe2b867e0162a16c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arganil
+- Centro de Formação Profissional Interempresas da Beira Serra
+- Cooperação Interempresas
+- Criação de Serviços
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:576707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576707:por
+  label: "Extinto o CINTERBEI - Centro de Formação Profissional Interempresas da Beira-Serra, com efeitos a partir de 31 de\
+    \ Dezembro de 2004, cujo protocolo de homologação foi aprovado pelo presente diploma, pela PORT.1325/2004.19.10.2004.MAET,\
+    \ DR.IS-B [246] de 19.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1325-2004-576707
+  date: '2004-10-19'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:12:37Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +121,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 30 de Junho de 1987.**
+Assinada em 30 de Junho de 1987.
 
-**O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector Interempresas da Beira-Serra (CINTERBEI)
 

@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-1987-419575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df40374e3a23078bc5fbe8d3dfed363a468824504ad6b15c8be8b58e145479ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 099c09c9d18a8997be545a361a1650ad90e3d969003b8b2a31725d58a7c3d547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- MORA
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:550011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1113477:por
+  label: "Tornada pública a alteração dos arts. 43.º, 47.º, 48.º, 49.º e 50.º do Regulamento, pelo AV.4879/2012.29.03.2012.MMORA,\
+    \ DR.IIS [64] de 29.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/4879-2012-1113477
+  date: '2012-03-29'
+- type: amended_by
+  target: pt:dre:968091:por
+  label: "Tornada pública a declaração de correção material do Plano Diretor Municipal de Mora, pelo AV.5081/2012.03.04.2012.MMORA,\
+    \ DR.IIS [67] de 03.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5081-2012-968091
+  date: '2012-04-03'
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392388:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:10:21Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +132,6 @@ Revisão do plano de financiamento, em ordem à sua actualização.
 
 Ministérios do Plano e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 8 de Junho de 1987.**
+Assinada em 8 de Junho de 1987.
 
-**O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

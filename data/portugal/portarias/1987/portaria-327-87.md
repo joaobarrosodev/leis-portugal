@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-1987-665898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:05:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4fc8eb21db0cf99c89a41af0b570e33316ec25b0cb71af1c13dcae22b9b3d6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d57a9d6312a66fcc56530a0f58890696c2a32428c457965c4bc3b433d702c1ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:05:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Preço
+- Prestação de Serviços
+- Regulamento
+- Serviço Público de Comunicação de Dados por Pacote
+- Telepac
+relationships:
+- type: cites
+  target: pt:dre:151676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:05:15Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +129,7 @@ Circuitos interurbanos - 1.2.
 
 2.º Os artigos 2.º, 6.º, 10.º e 20.º do anexo I à [Portaria n.º 291/85](https://diariodarepublica.pt/dr/detalhe/portaria/291-1985-151676), de 18 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 2.º No presente Regulamento designa-se por:
+Art. 2.º No presente Regulamento designa-se por:
 
 a) ...
 
@@ -125,11 +147,11 @@ g) ...
 
 h) TPV - equipamento terminal de ponto de venda.
 
-###### Art. 6.º - 1 - Nos acessos directos a fronteira física da rede TELEPAC é a ficha do equipamento de terminação do circuito de dados (ETCD) que estabelece a ligação ao equipamento terminal de tratamento de dados (ETTD), localizada nas instalações do assinante.
+Art. 6.º - 1 - Nos acessos directos a fronteira física da rede TELEPAC é a ficha do equipamento de terminação do circuito de dados (ETCD) que estabelece a ligação ao equipamento terminal de tratamento de dados (ETTD), localizada nas instalações do assinante.
 
 2 - Quando o ETCD seja parte integrante do TPV, a fronteira física da rede TELEPAC é a terminação de circuito de ligação com o equipamento.
 
-###### Art. 10.º - 1 - O assinante é responsável pelo equipamento terminal (ETTD/TPV), ficando a seu cargo a respectiva aquisição, instalação e conservação, sem, contudo, se poder eximir à fiscalização que o TRANSDATA entenda dever efectuar.
+Art. 10.º - 1 - O assinante é responsável pelo equipamento terminal (ETTD/TPV), ficando a seu cargo a respectiva aquisição, instalação e conservação, sem, contudo, se poder eximir à fiscalização que o TRANSDATA entenda dever efectuar.
 
 2 - ...
 
@@ -137,7 +159,7 @@ h) TPV - equipamento terminal de ponto de venda.
 
 4 - A instalação de TPV cujo ETCD seja sua parte integrante depende de prévia aprovação, nos termos da respectiva regulamentação.
 
-###### Art. 20.º - 1 - O assinante terá direito a ser reembolsado se o tempo acumulado mensal de interrupção for superior a cinco horas para além do previsto no n.º 1 do artigo 19.º, contabilizadas a partir da sua comunicação ao TRANSDATA, salvo tratando-se de interrupção de serviço de TPV, em que o reembolso só terá lugar se o tempo acumulado mensal for superior a dez horas.
+Art. 20.º - 1 - O assinante terá direito a ser reembolsado se o tempo acumulado mensal de interrupção for superior a cinco horas para além do previsto no n.º 1 do artigo 19.º, contabilizadas a partir da sua comunicação ao TRANSDATA, salvo tratando-se de interrupção de serviço de TPV, em que o reembolso só terá lugar se o tempo acumulado mensal for superior a dez horas.
 
 2 - ...
 
@@ -147,10 +169,10 @@ h) TPV - equipamento terminal de ponto de venda.
 
 Ministério dos Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Março de 1987.**
+Assinada em 31 de Março de 1987.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 ## ANEXO — Tarifa n.º 8 do Serviço Público de Comunicação de Dados por Pacotes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09200/16151616.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09200/16151616.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09200/16151616.pdf)

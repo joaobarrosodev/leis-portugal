@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1987-665771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e2de13861187e30fdf5262910c88d881611c470d810bc5b8b92ef778383c7a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8ec3d625eda505ec85ef529b2687af2b6eca60f4b01715a1490136e444b6f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Quadro de Pessoal
+- Sanatório de Carlos Vasconcelos Porto
+- Sanatório de Torres Vedras
+relationships:
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:00Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +115,18 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 4 de Março de 1987.**
+Assinada em 4 de Março de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Sanatório de Carlos Vasconcelos Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf)
 
 Nota. - Quadro de pessoal aprovado pela [Portaria n.º 656/80](https://diariodarepublica.pt/dr/detalhe/portaria/656-1980-460847), de 16 de Setembro.
 
 Quadro de pessoal do Sanatório de Torres Vedras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09900/17981799.pdf)
 
 Nota. - Quadro de pessoal aprovado pela [Portaria n.º 633/80](https://diariodarepublica.pt/dr/detalhe/portaria/633-1980-460843), de 16 de Setembro, e alterado pela [Portaria n.º 143/86](https://diariodarepublica.pt/dr/detalhe/portaria/143-1986-195674), de 12 de Abril.

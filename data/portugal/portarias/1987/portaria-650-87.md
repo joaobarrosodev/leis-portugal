@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16800/29002906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-1987-420622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43463ccfdf86e8dc174e2cc45fbc9f03b54a4a918ca3959a184705346cd8bf85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7bfd167f6be709990a134e9d7d02c132a685356760edc96ad3011319cbf7b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Canto
+- Curso de Clarinete
+- Curso de Composição
+- Curso de Cravo
+- Curso de Flauta
+- Curso de OBOE
+- Curso de Piano
+- Curso de Violino
+- Curso de Violoncelo
+- Escola Superior de Música
+- Instituto Politécnico
+- Lisboa
+- Música
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS QUADROS ANEXOS PELA PORTARIA 1233/90, PUBLICADA NO DR.IS, 298, DE 901228, COM AS ALTERAÇÕES CONSTANTES\
+    \ DA PORTARIA 539/88, DE 880810. REVOGADA PELA PORTARIA 1233/90, PUBLICADA NO DR.IS, 298, DE 901228.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:564233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377297:por
+  label: "Alterados os n.ºs 1.º, 6.º, 7.º, 10.º, 23.º, os quadros dos anexos I a IX , aditado o n.º 2.º-A, o n.º 4 ao n.º\
+    \ 3.º, o n.º 3 ao n.º 13.º e o anexo X, pela PORT.539/88.10.08.1988.ME, DR.IS [184] de 10.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/539-1988-377297
+  date: '1988-08-10'
+- type: amended_by
+  target: pt:dre:564233:por
+  label: "Alterados os quadros anexos (na redacção da Port 539/88, de 10-Ago) ao presente diploma, pela PORT.1233/90.28.12.1990.ME,\
+    \ DR.IS [298] de 28.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1233-1990-564233
+  date: '1990-12-28'
+- type: cites
+  target: pt:dre:210600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:13:27Z'
   warnings: []
   errors: []
 ---
@@ -407,8 +467,8 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 6 de Julho de 1987.**
+Assinada em 6 de Julho de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16800/29002906.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16800/29002906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16800/29002906.pdf)

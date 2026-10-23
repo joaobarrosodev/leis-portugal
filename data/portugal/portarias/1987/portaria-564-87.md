@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15300/26462648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1987-420186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:11:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3ba549c12a382fd86d8bf0b3e295b06428f6ed5c006153cfb2081cb643f206d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0673568dd914c558f0c5b7986f622165094f1fcd55aa5d96b24f4b8642afc592
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:11:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Electricidade e Electrónica
+- Curso de Gestão
+- Escola Superior de Tecnologia
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:554392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620364:por
+  label: "Alterado o n.º 1 do n.º 3.º pela PORT.434/89.14.06.1989.ME, DR.IS [134] de 14.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-1989-620364
+  date: '1989-06-14'
+- type: amended_by
+  target: pt:dre:556612:por
+  label: "Alterada a designação do grau de bacharel em Electricidade e Electrónica, para grau de bacharel em Engenharia Electrotécnica,\
+    \ pela PORT.796/90.05.09.1990.ME, DR.IS [205] de 05.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/796-1990-556612
+  date: '1990-09-05'
+- type: amended_by
+  target: pt:dre:403173:por
+  label: "Derrogada, na parte respeitante ao curso de Gestão, pela PORT.875/91.24.08.1991.ME, DR.IS-B [194] de 24.08.1991,\
+    \ com a sua entrada em funcionamento sem prejuízo do período de transição a que se refere o n.º 10.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1991-403173
+  date: '1991-08-24'
+- type: amended_by
+  target: pt:dre:692005:por
+  label: "Derrogada, na parte respeitante ao curso de bacharelato em Engenharia Electrotécnica, a presente Portaria, alterada\
+    \ nas Portarias n.ºs 434/89, de 14 de Junho, e 796/90, de 5 de Setembro, pela PORT.1195/93.13.11.1993.ME, DR.IS-B [266]\
+    \ de 13.11.1993, com a sua entrada em funcionamento e sem prejuízo do período de transição a que se refere o n.º 7.º \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1195-1993-692005
+  date: '1993-11-13'
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:554392:por
+  label: "Revogada pela PORT.901/2000.2000.09.28.ME, DR.IS-B [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-2000-554392
+  date: '2000-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:11:21Z'
   warnings: []
   errors: []
 ---
@@ -165,8 +208,8 @@ Os cursos entrarão em funcionamento progressivamente: o curso de bacharelato em
 
 Ministério da Educação e Cultura.
 
-**Assinada em 3 de Junho de 1987.**
+Assinada em 3 de Junho de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15300/26462648.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15300/26462648.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15300/26462648.pdf)

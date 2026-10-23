@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-1987-663492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ced7efa3f6759b56673c26c74c79d233a4fe02e4b86f962b0cb690c5610f88e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee8c36daabce832bb387668a09fc6caf11427d7a275374ffb557344a26aeb0d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural da Serra da Estrela
+- Proteção do Ambiente
+- Recursos Naturais
+- Regulamento
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:283484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:377905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:03:50Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Verificando-se a necessidade de restringir a composição do conselho geral, de 
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Administração do Território, ao abrigo do artigo 9.º do [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, que o n.º 2 do artigo 10.º do Regulamento do Parque Natural da Serra da Estrela, publicado em anexo à [Portaria n.º 409/79](https://diariodarepublica.pt/dr/detalhe/portaria/409-1979-377905), de 8 de Agosto, passe a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes das seguintes entidades:
 
@@ -120,6 +133,6 @@ j) Associação dos Amigos da Serra da Estrela.
 
 Ministérios das Finanças e do Plano e da Administração do Território.
 
-**Assinada em 11 de Dezembro de 1986.**
+Assinada em 11 de Dezembro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro do Plano e da Administração do Território, Carlos Alberto Martins Pimenta, Secretário de Estado do Ambiente e Recursos Naturais.

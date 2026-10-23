@@ -48,40 +48,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-1987-494859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:16:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f95a29c536d2fad6130a64d46ef68db35749ee09c1cbf18f378085dc5235f29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3593fe11968b0555d5c62be38ba267c5b5783a3a7b2409d233988affa01c0497
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:16:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Leiria
+- Médico
+- Pessoal Auxiliar
+- Pessoal de Enfermagem
+- Pessoal Operário
+- Pessoal Técnico
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:300060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:170342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:16:02Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +153,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 3 de Agosto de 1987.**
+Assinada em 3 de Agosto de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Hospital Distrital de Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20100/34623463.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20100/34623463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20100/34623463.pdf)

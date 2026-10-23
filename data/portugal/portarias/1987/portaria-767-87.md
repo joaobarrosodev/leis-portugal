@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-1987-494873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bba8e0dc4d8ffbf3e7723f574d2667d8693f6ffad6d593b5c4f3c004a3b38a06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f650a06fdf71e85b523822f4145a66f4911f695b350cdb4e6204103b81d200
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Fruticultura
+- Fruto
+- Política Agrícola Comum
+- Produção Vegetal
+relationships:
+- type: cites
+  target: pt:dre:227443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:16:18Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +120,9 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas
 
 Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 10 de Agosto de 1987.**
+Assinada em 10 de Agosto de 1987.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
 
 ## ANEXO I — Especificação das características de qualidade do pêssego
 
@@ -188,7 +204,7 @@ Quer pelo seu diâmetro máximo.
 
 Os pêssegos devem ser calibrados segundo a escala seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf)
 
 O calibre mínimo para a categoria extra é de 17,5 cm (perímetro) ou de 56 mm (diâmetro).
 
@@ -554,7 +570,7 @@ A calibragem é determinada pelo peso dos cachos.
 
 É obrigatório um peso mínimo por cacho quer para as castas cultivadas em abrigo quer para as cultivadas ao ar livre de bagos grandes e bagos pequenos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20300/34913496.pdf)
 
 A indicação das castas cultivadas em abrigo e das castas cultivadas ao ar livre, de bagos grandes e de bagos pequenos, está referida na lista varietal anexa às presentes especificações.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18900/32403241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/705-1987-417636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27daebfaba7486c1b55c00761ebc32e181a3bceaeebc79e8f1fd146ab7143f9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61dde2ae6588590fba6f3cedb5991394a6aaa5e50d1a76fcf087a762da3973b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Livre Trânsito
+- SELO Branco
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:313583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:313583:por
+  label: "Revogado pela PORT.468/2001.2001.05.09.MAI, DR.IS-B [107] de 2001/MAI/09\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/468-2001-313583
+  date: '2001-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:14:47Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +127,8 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do 
 
 Ministério da Administração Interna.
 
-**Assinada em 10 de Julho de 1987.**
+Assinada em 10 de Julho de 1987.
 
-**O Secretário de Estado Adjunto do Ministro da Administração Interna, José Manuel Durão Barroso.**
+O Secretário de Estado Adjunto do Ministro da Administração Interna, José Manuel Durão Barroso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18900/32403241.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18900/32403241.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18900/32403241.pdf)

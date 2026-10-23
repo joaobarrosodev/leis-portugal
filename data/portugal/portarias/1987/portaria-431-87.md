@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/431-1987-421393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 252341a128584652fa2e4d7518be9e563f6d442406a2732db12a6cfeea3b816c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 158687c7fa4a2b3b7246376b22bb528d77970dd2e15ef84b1f4ea1d9854212b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Gabinete de Gestão do Fundo de Desemprego
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:610043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495362:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo pela PORT.809/87.24.09.1987.MF, DR.IS [220] de 24.09.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/809-1987-495362
+  date: '1987-09-24'
+- type: cites
+  target: pt:dre:183576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327138:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449768:por
+  label: Rectificada pela DECL.DD4400.21.07.1987.PCM, DR.IS [174-supl] de 31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449768
+  date: '1987-07-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:55Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +126,14 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Tra
 
 Ministérios das Finanças e do Trabalho e Segurança Social.
 
-**Assinada em 27 de Abril de 1987.**
+Assinada em 27 de Abril de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Alargamento do quadro de pessoal da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf)
 
 Lista dos funcionários do ex-Gabinete de Gestão do Fundo de Desemprego a integrar na Direcção-Geral das Contribuições e Impostos, nos termos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11800/20722074.pdf)

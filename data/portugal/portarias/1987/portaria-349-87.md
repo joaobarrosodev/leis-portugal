@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-1987-665733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:05:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2eae6fbed38edbb7d15f4f8422d2e0bfabdf1634987a6992811db94049bf1db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb84825efb84c6d63fa3c1c9dc60eb8484a97bd4b257d8775f09212ddeeb92e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:05:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Magalhães de Lemos
+- Hospital de Miguel Bombarda
+- Hospital de Sobral Cid
+- Hospital do Conde de Ferreira
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:197508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL PSIQUIÁTRICO DO LORVÃO PELA PORT 174/94 DE 28-MAR DR.IS-B [73]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE MAGALHÃES LEMOS, PELA PORT 935/94 DE 21-OUT DR.IS-B [244]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SOBRAL CID, PELA PORT 11/95 DE 06-JAN DR.IS-B [5]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
+- type: amended_by
+  target: pt:dre:197508:por
+  label: "Substituído o quadro de pessoal do Hospital de Miguel Bombarda, pela Port.743/96.1996.12.16.PCM, DR.IS-B [290]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1996-197508
+  date: '1996-12-16'
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA, NO QUE RESPEITA AO HOSPITAL DO CONDE DE FERREIRA, PELO DEC LEI 232/95 DE 12-SET DR.IS-A [211]\05 DE 12-SET\
+    \ DR.IS-A [211]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:05:45Z'
   warnings: []
   errors: []
 ---
@@ -96,8 +137,8 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Março de 1987.**
+Assinada em 19 de Março de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09700/17181720.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09700/17181720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09700/17181720.pdf)

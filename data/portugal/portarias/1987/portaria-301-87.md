@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08400/14951495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-1987-666135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:04:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392115623121ed85688dfd9cc23e9a427dea66b926dd8fef8e39c51c669ddf73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30926ba2fc56c8130e5991110dd048aee0ee47d79ba9011e417ba8e7b5456383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cálculo de Pensões
+- Coeficiente de Actualização
+- Contribuições da Segurança Social
+- Regime Geral da Segurança Social
+- Remuneração
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:371778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371778:por
+  label: "Substituída, com efeitos a 01.01.1987, a tabela inserta no presente diploma, pela PORT.389/88.1988.06.17.MESS, DR.IS\
+    \ [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1988-371778
+  date: '1988-06-17'
+- type: cites
+  target: pt:dre:191820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:04:36Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +130,10 @@ Assim, ao abrigo do disposto no artigo 201.º do [Decreto n.º 45266](https://di
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, que a tabela inserta na [Portaria n.º 30/86](https://diariodarepublica.pt/dr/detalhe/portaria/30-1986-191820), de 22 de Janeiro, seja substituída pela seguinte, com efeitos a partir de 1 de Janeiro, de 1987:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08400/14951495.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08400/14951495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08400/14951495.pdf)
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 24 de Março de 1987.**
+Assinada em 24 de Março de 1987.
 
-**O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.**
+O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.

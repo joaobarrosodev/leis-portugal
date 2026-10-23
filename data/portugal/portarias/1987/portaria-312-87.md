@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-1987-666285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17b6551b2d79df7009038cd35aa3a3bd197ce9129d21c57a476759eb5c1d051f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de38825372f770dfe15a8fe7749afeea47f7a18d9dc19eea4eb2a60f4fb78d22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo Sanitário
+- Matadouro
+- Produto Cárneo
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218285:por
+  label: Rectificada pela DECL.DD3047.1987.05.12.PCM, DR.IS [124]2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218285
+  date: '1987-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:04:55Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +125,6 @@ b) Preparação de gorduras, por quilograma de gordura preparada - 30$00.
 
 Ministérios da Agricultura, Pescas e Alimentação da Indústria e Comércio.
 
-**Assinada em 26 de Março de 1987.**
+Assinada em 26 de Março de 1987.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-1987-666152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92cbcc790c30aa4055543404bde80e9ea8da648c793ed8660888a7087da478b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d275fafc46afb729d4c4f9a6d47f452009a72886055fe5b289847a7d7c2f0c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Direcção Regional de Finanças
+- Funchal
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:183576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:04:15Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +114,14 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Sec
 
 Ministério das Finanças e Secretaria Regional dos Assuntos Sociais da Região Autónoma da Madeira.
 
-**Assinada em 20 de Março de 1987.**
+Assinada em 20 de Março de 1987.
 
 Pelo Ministro das Finanças, José de Oliveira Costa, Secretário de Estado para os Assuntos Fiscais. - O Secretário Regional dos Assuntos Sociais, Manuel Jorge Bazenga Marques.
 
 Lista do funcionário do Gabinete de Gestão do Fundo de Desemprego da Região Autónoma da Madeira a integrar na Direcção-Geral das Contribuições e Impostos, nos termos do n.º 3 do artigo 13.º do [Decreto Legislativo Regional n.º 8/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-569901), de 14 de Junho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf)
 
 Alargamento do quadro de pessoal da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08200/14101410.pdf)

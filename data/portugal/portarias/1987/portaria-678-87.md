@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1987-417181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85bde5ecce09343bb872f3da59af49466a5e211a178a5a7925dcc1e055ee7e08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98ed857693c644f2dc469e832fbd521d7602f20a302cd02727905bb60156a116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:662714:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:14:07Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +98,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Julho de 1987.**
+Assinada em 14 de Julho de 1987.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.
 
@@ -103,11 +110,15 @@ Por deliberação do conselho directivo do IGAPHE de 7 de Julho de 1987, proferi
 
 #### SECÇÃO I — Área de gestão e administração
 
-###### Artigo 1.º — Divisão de Pessoal e Administração - DPA
+###### Artigo 1.º
+
+##### Divisão de Pessoal e Administração - DPA
 
 Compete à DPA assegurar a gestão, desenvolvimento e administração dos recursos humanos, o apoio administrativo e o fornecimento de material e equipamento necessários, bem como a gestão do património inerente ao funcionamento do IGAPHE.
 
-###### Artigo 2.º — Secção de Administração do Pessoal - SAP
+###### Artigo 2.º
+
+#### Secção de Administração do Pessoal - SAP
 
 Compete à SAP:
 
@@ -129,7 +140,9 @@ h) Assegurar o processamento de vencimentos e outros abonos;
 
 i) Organizar e manter actualizada a documentação técnica e legislativa respeitante à gestão de pessoal.
 
-###### Artigo 3.º — Secção de Expediente e Arquivo - SEA
+###### Artigo 3.º
+
+#### Secção de Expediente e Arquivo - SEA
 
 Compete à SEA:
 
@@ -141,7 +154,9 @@ c) Organizar, manter actualizado e garantir a gestão do arquivo geral do IGAPHE
 
 d) Atender atempada e eficazmente os pedidos de consulta dos arquivos por parte de todos os serviços do IGAPHE.
 
-###### Artigo 4.º — Secção de Economato e Património - SEP
+###### Artigo 4.º
+
+#### Secção de Economato e Património - SEP
 
 Compete à SEP:
 
@@ -157,7 +172,9 @@ e) Coordenar a actividade do pessoal auxiliar;
 
 f) Assegurar a gestão das viaturas, nomeadamente a sua afectação, reparação e manutenção.
 
-###### Artigo 5.º — Divisão de Gestão Financeira - DGF
+###### Artigo 5.º
+
+##### Divisão de Gestão Financeira - DGF
 
 Compete à DGF:
 
@@ -179,7 +196,9 @@ h) Estudar e propor métodos de aplicação informática às áreas da despesa e
 
 i) Elaborar análises e estudos, de qualquer âmbito, no domínio da gestão financeira.
 
-###### Artigo 6.º — Secção de Rendas e Prestações - SRP
+###### Artigo 6.º
+
+#### Secção de Rendas e Prestações - SRP
 
 À SRP compete:
 
@@ -195,7 +214,9 @@ e) Fornecer elementos de controle de todas as receitas;
 
 f) Propor metodologias de racionalidade dos serviços de receita.
 
-###### Artigo 7.º — Secção de Processamento de Despesas - SPD
+###### Artigo 7.º
+
+#### Secção de Processamento de Despesas - SPD
 
 À SPD compete:
 
@@ -215,7 +236,9 @@ g) Fornecer elementos de controle de todas as despesas;
 
 h) Propor metodologias de racionalidade dos serviços de despesas.
 
-###### Artigo 8.º — Secção de Tesouraria - ST
+###### Artigo 8.º
+
+#### Secção de Tesouraria - ST
 
 Compete à ST:
 
@@ -231,7 +254,9 @@ e) Propor metodologias de racionalidade e operacionalidade dos serviços de teso
 
 #### SECÇÃO II — Área de gestão de solos
 
-###### Artigo 9.º — Divisão de Urbanização - DU
+###### Artigo 9.º
+
+##### Divisão de Urbanização - DU
 
 Compete à DU:
 
@@ -245,7 +270,9 @@ d) Coordenar a intervenção de entidades promotoras de equipamento urbano, quer
 
 e) Coordenar e gerir o processo de cedência de terrenos, incluindo a preparação dos documentos para concursos, e elaborar os projectos a cargo do IGAPHE.
 
-###### Artigo 10.º — Divisão de Solos - DS
+###### Artigo 10.º
+
+##### Divisão de Solos - DS
 
 Compete à DS:
 
@@ -321,7 +348,9 @@ g) Gerir o parque gráfico do IGAPHE e sua utilização.
 
 ### CAPÍTULO II — Dos serviços regionais
 
-###### Artigo 13.º — Divisão de gestão - DG
+###### Artigo 13.º
+
+##### Divisão de gestão - DG
 
 Às Divisões de Gestão das Direcções de Gestão Habitacional do Norte e de Lisboa compete promover a atribuição de fogos do Instituto na respectiva área, gerir o parque habitacional e equipamentos respectivos, incumbindo-lhes, nomeadamente:
 
@@ -355,7 +384,9 @@ n) Orientar e fiscalizar a actividade das entidades estranhas ao Instituto que g
 
 o) Proceder de forma correcta e eficaz ao arquivo da documentação referente às suas atribuições.
 
-###### Artigo 14.º — Secção de propriedade - SP
+###### Artigo 14.º
+
+#### Secção de propriedade - SP
 
 Às secções de propriedade compete a gestão decorrente da propriedade dos prédios habitacionais e equipamentos, designadamente:
 
@@ -371,7 +402,9 @@ e) Organizar e acompanhar os processos de regularização das inscrições na ma
 
 f) Efectuar e actualizar o registo informático de dados relativos ao seu âmbito de actuação.
 
-###### Artigo 15.º — Secção de arrendamento - SA
+###### Artigo 15.º
+
+#### Secção de arrendamento - SA
 
 1 - Às secções de arrendamento compete a gestão do arrendamento dos fogos, nomeadamente:
 
@@ -387,7 +420,9 @@ e) Promover a actualização do registo informático de dados no que toca ao seu
 
 2 - Compete-lhes ainda efectuar ou promover os concursos de atribuição de fogos, quer em arrendamento, quer em propriedade resolúvel.
 
-###### Artigo 16.º — Divisão de obras - DO
+###### Artigo 16.º
+
+##### Divisão de obras - DO
 
 Às Divisões de Obras das Direcções de Gestão Habitacional de Lisboa e do Norte compete:
 
@@ -407,7 +442,9 @@ g) Ultimar os empreendimentos em curso;
 
 h) Efectuar o aproveitamento de fundos vazados e a transformação de outros espaços, nomeadamente para habitação.
 
-###### Artigo 17.º — Secção administrativa - SA
+###### Artigo 17.º
+
+#### Secção administrativa - SA
 
 Às Secções Administrativas das Direcções de Gestão Habitacional do Norte, do Centro e do Sul compete, designadamente:
 

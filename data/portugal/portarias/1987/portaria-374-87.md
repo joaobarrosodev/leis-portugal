@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10100/18441847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a5b02941c3fb49938ae4bf988a0a6ba4d47c58dc9ce897661f07d46e7ca67af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0123f3075a672fb44156d0bb71faf2cc4045a8f2754f229689b1c75c77197151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Estabelecimento Industrial
+- Gestão de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:644295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:690176:por
+  label: "Mantida em vigor, pelo DEC LEI.310/95.1995.11.20.MARN, DR.IS-A [268], até a entrada em vigor das portarias nele\
+    \ previstas\0as\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-1995-690176
+  date: '1995-11-20'
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:644295:por
+  label: "Revogada pelo Dec Lei.239/97.1997.09.09.MAM, DR.IS-A [208)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1997-644295
+  date: '1997-09-09'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:25Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +132,9 @@ Manda o Governo da República Portuguesa, pelos Ministros do Plano e da Administ
 
 Ministérios do Plano e da Administração do Território e da Indústria e Comércio.
 
-**Assinada em 14 de Abril de 1987.**
+Assinada em 14 de Abril de 1987.
 
-**O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 Regulamento sobre Resíduos Originados na Indústria Transformadora
 

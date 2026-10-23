@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/677-1987-417180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d85ba24fff7c4eccac58eb9739facd1c8002ce3b95d6b8a7b5fe1469ef9212b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 152b7fadfbbcb3dcf937b9bc57ad8c18e7614bc0ed1cb17a40d0891660fb0450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Defesa do Consumidor
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:373454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:373454:por
+  label: "Substituído o quadro de pessoal do Instituto Nacional de Defesa do Consumidor, aprovado pelo Decreto Regulamentar\
+    \ n.º 67/86 de 28 de Novembro, alterado no presente diploma, pela Portaria n.º 677/87, de 5 de Agosto PORT.292/88.10.05.1988.MF,\
+    \ DR.IS [108] de 10.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1988-373454
+  date: '1988-05-10'
+- type: cites
+  target: pt:dre:147406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:14:07Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +136,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, do Plan
 
 Ministérios das Finanças, do Plano e da Administração do Território e da Indústria e Comércio.
 
-**Assinada em 20 de Julho de 1987.**
+Assinada em 20 de Julho de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.

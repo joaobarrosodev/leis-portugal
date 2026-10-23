@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1987-418226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44043b71075ddcfe5e91bf0e28d89bc6de9dcfb6145733afe7156af2fc3235a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17a32990cbde3a42d42aec0487f314f5f5a521cbcf6d1d327df5069e3e0fbc40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Superior Técnico
+- Pessoal Docente
+- Quadro de Pessoal
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:325774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 337/88 DE 28-MAI DR.IS [124]\0MAI DR.IS [124]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-05-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 1182/91 DE 28-NOV DR.IS-B [274]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-11-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 753/93 DE 25-AGO DR.IS-B [199]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-25'
+- type: cites
+  target: pt:dre:221681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:22Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +135,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Edu
 
 Ministérios das Finanças e da Educação e Cultura.
 
-**Assinada em 3 de Agosto de 1987.**
+Assinada em 3 de Agosto de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
 Mapa anexo à [Portaria n.º 728/87](https://diariodarepublica.pt/dr/detalhe/portaria/728-1987-418220)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/19300/33043304.pdf))](https://files.diariodarepublica.pt/1s/1987/08/19300/33043304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/19300/33043304.pdf)

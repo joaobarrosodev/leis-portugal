@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-1987-420035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83a09ce461ea5a9822ac711e355aa10cd5fdcc248e73b23b03b10957dfd4c212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9413deafdad8ed9eb4db1fdbca48ed47f5bd3a9bf135802b6d105d9716ba7419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:12:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Educação Pré-escolar
+- Curso de Ensino Primário
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Formação de Professores
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:239251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532055:por
+  label: "Revogada, na parte a que se refere ao bacharelato em Ensino Básico - 1º Ciclo da Escola Superior de Educação de\
+    \ Setúbal, pela PORT.287/99.1999.04.26.ME, DR.IS-B [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-1999-532055
+  date: '1999-04-26'
+- type: repealed_by
+  target: pt:dre:239251:por
+  label: "Revogada pela PORT.18/2001.2001.01.10.ME DR.IS-B [8], nos termos do seu n.º 8\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-2001-239251
+  date: '2001-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:12:01Z'
   warnings: []
   errors: []
 ---
@@ -113,6 +147,6 @@ ministrando, em consequência, os respectivos cursos.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 17 de Junho de 1987.**
+Assinada em 17 de Junho de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/19600/33233327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1987-418211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b7508443e66281d8ad4e48e12df8e9990b8bb5bbf16bf0c1a1cd81d59d97cae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b52d2faefdb9f6cfe752e7a4cd9c857898a63acee7c90f16f7182a853e8b3702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aprendizagem Profissional
+- Comissão Nacional de Aprendizagem
+- Construção Civil
+- Formação Profissional
+- Jovem Trabalhador
+- Qualificação Profissional
+- VIDA Activa
 relationships:
 - type: amended_by
   target: pt:dre:374848:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:647303:por
+  label: "Publicado o anexo I, pela DECL.DD4326.07.09.1987.PCM, DR.IS [225]2ºSupl de 30.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-647303
+  date: '1987-09-07'
+- type: cites
+  target: pt:dre:181041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374848:por
+  label: "Revogada pela PORT.614/93.29.06.1993.ME, DR.IS-B [150] de 29.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/614-1993-374848
+  date: '1993-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:37Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +141,9 @@ Manda o Governo da República Portuguesa, pelos Ministros da Educação e Cultur
 
 Ministérios da Educação e Cultura e do Trabalho e Segurança Social.
 
-**Assinada em 31 de Julho de 1987.**
+Assinada em 31 de Julho de 1987.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 I - Disposições gerais
 

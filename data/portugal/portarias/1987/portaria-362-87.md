@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59f3a815f421cf02c12984de9f31a9276cabd169117d7b7dd417ee753e230267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 395f79f34c4bd20bb5a609ea86d2360327385e64000fffb08c2f603c46795aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:573521:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:647292:por
+  label: "Alteradas as als. b) e c) do nº 3º pela PORT.816-A/87.30.09.1987.MAPA, DR.IS [225-Supl] de 30.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/816-a-1987-647292
+  date: '1987-09-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A AL A) DO NUM 1 E A TABELA IV A QUE SE REFERE A AL B) DO NUM 4 PELA PORT 248/88 DE 22-ABR DR.IS [94]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADAS AS AL A) DO NUM 1 E B) DO NUM 3 E A TABELA IV A QUE SE REFERE A AL A) DO NUM 4 PELA PORT 229-B/89 DE 18-MAR
+    [65]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-03-18'
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573521:por
+  label: "Revogada pela PORT.658/90.10.08.1990.MF, DR.IS [184] de 10.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/658-1990-573521
+  date: '1990-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:05Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +149,7 @@ c) Os índices de localização e de correcção são definidos, respectivamente
 
 3.º - a) O regime de amortizarão em prestações progressivas com capitalização parcial de juros e respectivos modelos de cálculo, nos termos do n.º 3 do artigo 10.º, é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
 
 b) A percentagem z é fixada em 43%, à excepção do último ano do contrato, em que será igual a 100%.
 
@@ -158,9 +189,9 @@ b) As alterações referidas na alínea anterior só produzirão efeitos para os
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 10 de Abril de 1987.**
+Assinada em 10 de Abril de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 TABELA I
 
@@ -188,19 +219,19 @@ TABELA II
 
 Índices de correcção em função da dimensão do agregado familiar, a que se refere a alínea c) do n.º 1 da Portaria n.º 362/87, de 2 de Maio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
 
 TABELA III
 
 Regime de bonificação e condições de acesso, a que se referem os n.os 4.º e 7.º da Portaria n.º 362/87, de 2 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
 
 TABELA IV
 
 Rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimensão, a que se refere a alínea b) do n.º 4.º da Portaria n.º 362/87, de 2 de Maio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
 
 Modelo de declaração a que se refere o n.º 5.º da Portaria n.º 362/87, de 2 de Maio
 

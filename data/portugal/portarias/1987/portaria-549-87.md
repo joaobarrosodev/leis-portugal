@@ -48,40 +48,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1987-420008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1cbaf9e580a15fc114d35df0b31c2b69deadca40dc945651a504c31c636e13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4482603960fa03bfc35cf05a5ed13c6a0a8c610d58513f6bb198015acb3f5ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Educação Pré-escolar
+- Curso de Professores do Ensino Básico Variante Educação Visual
+- Curso de Professores do Ensino Básico Variante Matemática e Ciências da Natureza
+- Curso de Professores do Ensino Primário
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Instituto Politécnico
+- Portalegre
 relationships:
 - type: amended_by
   target: pt:dre:543475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556990:por
+  label: "Alterados os anexos I, III, IV e V, pela PORT.767/90.30.08.1990.ME, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/767-1990-556990
+  date: '1990-08-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O PLANO DE ESTUDOS DO CURSO DE PROFESSORES DO ENSINO BASICO, VARIANTE DE MATEMÁTICA E CIENCIAS DA NATUREZA,
+    PELA PORTARIA 1000/94, DE 15 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 264.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O PLANO DE ESTUDOS DO CURSO DE PROFESSORES DO ENSINO BASICO, VARIANTE DE PORTUGUÊS E FRANCES, PELA PORTARIA
+    1085/94, DE 7 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 282.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS E A DESIGNAÇÃO DO CURSO DE PROFESSORES DO ENSINO PRIMÁRIO, QUE PASSA A DENOMINAR-SE\
+    \ CURSO DE PROFESSORES DO PRIMEIRO CICLO DO ENSINO BASICO, PELA PORT 69/95 DE 26-JAN DR.IS-B [22].\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-26'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542248:por
+  label: "Revogada, na parte que se refere ao bacharelato em 1º Ciclo do Ensino Básico da Escola Superior da Educação de Portalegre,\
+    \ pela PORT.255/99.1999.04.09.ME, DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-1999-542248
+  date: '1999-04-09'
+- type: repealed_by
+  target: pt:dre:543475:por
+  label: "Revogada, na parte que se refere ao bacharelato em Educação Pré-Escolar da Escola Superior de Educação de Portalegre,\
+    \ pela PORT.267/99.1999.04.12.ME, DR.IS-B [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-1999-543475
+  date: '1999-04-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:10:54Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +188,8 @@ Os planos de estudos dos cursos a que se refere o n.º 1.º são os constantes d
 
 Ministério da Educação e Cultura.
 
-**Assinada em 6 de Junho de 1987.**
+Assinada em 6 de Junho de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15000/25972599.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15000/25972599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15000/25972599.pdf)

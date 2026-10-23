@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1987-417831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be4b2eca24c1dcfc4e8ffae69b4cc02a9b4a426bee9a1c9c6e38c1945dd67301
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf0bbfef07ee987fbe1ffb80290e821bf050ed6bb3597afee0b56a51bf741151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Iroma
+- Produtor
+- Semente
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:14:12Z'
   warnings: []
   errors: []
 ---
@@ -122,16 +127,16 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agr
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Julho de 1987.**
+Assinada em 14 de Julho de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos.
 
 ## ANEXO I — Pedido de ajuda à produção de semente [artigo 3.º do Regulamento (CEE) n.º [2358/71](http://data.europa.eu/eli/reg/1971/2358/oj?locale=pt)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)
 
 ## ANEXO III — Declaração de certificação de semente [emitida para os efeitos do Reg. (CEE) n.º [1686/72](http://data.europa.eu/eli/reg/1972/1686/oj?locale=pt)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18100/30713072.pdf)

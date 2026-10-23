@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/608-1987-420440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 845c9d44b315bc8a1dc9348450e324f39641b781406e9c6760ee6d206155e4dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d5ab32c2296a754a874b818263505d92f1132e07ebb50b91417495e2598b1a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orientação Agrícola
+- Política Agrícola Comum
+- Prémio de Abandono Definitivo da Cultura da Vinha
+- Vinha
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUMEROS 6, 8, 9, 10, 12 E 13, PELA PORTARIA NUMERO 762/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 202, DE 2/9/89.\0/9/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:546988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140991:por
+  label: "Prorrogados os prazos previstos no presente diploma, pela PORT.613-A/87.1987.07.16.MAPA DR.IS [161]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-a-1987-140991
+  date: '1987-07-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:12:27Z'
   warnings: []
   errors: []
 ---
@@ -181,8 +195,8 @@ c) Declaração a que se refere o n.º 3 do artigo 7.º do Regulamento (CEE) n.�
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Julho de 1987.**
+Assinada em 1 de Julho de 1987.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16000/27702774.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16000/27702774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16000/27702774.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16400/28502851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1987-420580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 652f7ccd64674ac19f98549e07571d40a0bdf3d6998a84209a935f04530bef10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f928a1c05ad720053f82a9aa962a59e73b73cac9724c2e85d9b01bfd9047df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conservação de Documentos
+- Hospital Ortopédico de Santana
+- Microfilmagem
 relationships:
 - type: amended_by
   target: pt:dre:269018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:269018:por
+  label: "Revogada pela PORT.509/2004.14.05.2004.MC, DR.IS-B [113] de 14.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/509-2004-269018
+  date: '2004-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:13:07Z'
   warnings: []
   errors: []
 ---
@@ -123,10 +139,10 @@ Manda o Governo da República Portuguesa, pelos Ministros da Saúde e do Trabalh
 
 Ministérios da Saúde e do Trabalho e Segurança Social.
 
-**Assinada em 3 de Julho de 1987.**
+Assinada em 3 de Julho de 1987.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 ## ANEXO — Lista de documentos a conservar em arquivo e respectivos prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16400/28502851.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16400/28502851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16400/28502851.pdf)

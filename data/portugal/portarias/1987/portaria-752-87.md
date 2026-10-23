@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-1987-494853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3886be0348a7a1d6e274789d5f76af8d10deae471435c70d5014b6da0cecd3e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f74fff4d4b761b758fc11090aeafa3f96f33ce6fe2b1b26b4c9b68d851cd7ee6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão do Domínio Público Marítimo
+- Domínio Público Hídrico
+- Domínio Público Marítimo
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:1183491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUM 10 E REVOGADA A AL F) DO NUM 23 DO REGULAMENTO, PELA PORT 344/96 DE 08-AGO DR.IS-B [183]\0.IS-B [183]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:411653:por
+  label: "Alterado o n.º 10 e revogada a al. f) do n.º 23, ambos do Regulamento aprovado pelo presente diploma, pela PORT.344/96.08.08.1996.MDN,\
+    \ DR.IS-B [183] de 08.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1996-411653
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:1183491:por
+  label: "Alterado os arts. 2º, 3º, 4º, 10º, 22º, 26º e 30º pela PORT.566/2008.11.06.2008.SEDNAM-MDN, DR.IIS [111] de 11.06.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-2008-1183491
+  date: '2008-06-11'
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:57Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +121,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, apro
 
 Ministério da Defesa Nacional.
 
-**Assinada em 13 de Agosto de 1987.**
+Assinada em 13 de Agosto de 1987.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Regulamento interno da Comissão do Domínio Público Marítimo (CDPM)
 
@@ -314,4 +339,4 @@ VI - Boletim
 
 39 - As despesas com a publicação do boletim correrão por conta da verba orçamental respectiva e o produto da venda dos exemplares dará entrada nos cofres do Estado.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.

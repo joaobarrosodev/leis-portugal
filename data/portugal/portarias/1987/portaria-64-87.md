@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-1987-663299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf5327c89136296efe919382ba6ae9b32a5d2e9b1b664fa92c00bc8da4753705
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0b8e12a93127145cb4445eb6f8b635aa5f84a355e06b4704b5a4849f29c0caa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Porto
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "INTEGRADAS AS ACÇÕES E OS CONTRIBUINTES BENEFICIÁRIOS DA CAIXA SINDICAL DE PREVIDÊNCIA DOS PROFISIONAIS DE SEGUROS,\
+    \ PELA PORTARIA 935/92, PUBLICADA NO DR.IS-B, 222, DE 920925. INTEGRADA A CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE ESPECTÁCULOS,\
+    \ PELA PORTARIA 58/93, PUBLICADA NO DR.IS-B, 10, DE 930113. REVOGADO O ARTIGO 49 PELO DECRETO LEI 58/93, PUBLICADO NO\
+    \ DR.IS-A, 50, DE 930301.\0IS-A, 50, DE 930301.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:588262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232160:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa Sindical de Previdência dos Profissionais de Seguros
+    cujo regulamento foi aprovado por Alvará de 27-jul de 1956, nos Centros Regionais de Segurança Social de Aveiro, aprovado
+    pela Port 511/85, de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago,
+    de Bragança, aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra,
+    aprovado pela Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, da Guarda, aprovado pela Port 556/85,
+    de 09-ago, de Leiria, aprovado pela Port 382/85, de Portalegre, aprovado pela Port 501/85, de 24-jul, do Porto, aprovado
+    pela presente, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal, aprovado pela Port 487/85, de 19-jul, de
+    Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado pela Port 509/85, de 26-jul, e de Viseu,
+    aprovado pela Port 555/85, de 09-ago, bem como no Centro Regional de Segurança Social de Lisboa, criado pelo DR 3/81,
+    de 15-jan, e integrada a orgânica e funcionalmente a Caixa Sindical de Previdência dos Profissional de Seguros e o respectivo
+    pessoal, bem como a titularidade do património neste último Centro Regional de Segurança Social, pelo(a) Portaria n.º
+    935/92 - Diário da República n.º 222/1992, Série I-B de 1992-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1992-232160
+  date: '1992-09-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos, criada
+    pelo Dec Lei 32748, de 15-abr de 1943, nos Centros Regionais de Segurança Social de Aveiro, aprovado pela Port 511/85,
+    de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança,
+    aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra, aprovado pela
+    Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, de Faro, aprovado pela Port 383/85, de 22-jun,
+    da Guarda, aprovado pela Port 556/85, de 09-ago, de Leiria, aprovado pela Port 382/85, de 21-jun, de Portalegre, aprovado
+    pela Port 501/85, de 24-jul, do Porto, aprovado pela presente, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal,
+    aprovado pela Port 487/85, de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado
+    pela Port 509/85, de 26-jul, e de Viseu, aprovado pela Port 555/85, de 09-ago, bem como no Centro Regional de Segurança
+    Social de Lisboa, criado pelo DR 3/81, de 15-jan, e integrada orgânica e funcionalmente a Caixa de Previdência dos Profissionais
+    de Espectáculos, o respectivo pessoal, bem como a titularidade do património imobiliário e equipamentos da referida Caixa,
+    neste último Centro Regional da Segurança Social, pelo(a) Portaria n.º 58/93 - Diário da República n.º 10/1993, Série
+    I-B de 1993-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310425:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:13:12Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +153,9 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 31 de Dezembro de 1986.**
+Assinada em 31 de Dezembro de 1986.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
 
 Regulamento do Centro Regional de Segurança Social do Porto
 
@@ -250,7 +301,9 @@ b) Contribuir para a integração familiar e comunitária de pessoas em situaç�
 
 c) Tutelar as instituições particulares de solidariedade social e as instituições com fins lucrativos que actuam no domínio da Segurança Social.
 
-###### Artigo 13.º — Divisão de Acção Social Comunitária
+###### Artigo 13.º
+
+##### Divisão de Acção Social Comunitária
 
 Compete à DASC:
 
@@ -274,7 +327,9 @@ i) Proceder à avaliação das acções desenvolvidas, tendo em vista o melhor f
 
 j) Prestar apoio às instituições particulares de solidariedade social e a outros serviços sociais.
 
-###### Artigo 14.º — Divisão de Tutela e Apoio das Instituições Particulares
+###### Artigo 14.º
+
+##### Divisão de Tutela e Apoio das Instituições Particulares
 
 Compete à DTAIP:
 
@@ -304,7 +359,9 @@ e) Colaborar na elaboração de programas de implantação de equipamento social
 
 f) Apoiar a formação em exercício do pessoal das diferentes áreas.
 
-###### Artigo 16.º — Divisão de Orientação Técnica de Infância e Juventude
+###### Artigo 16.º
+
+##### Divisão de Orientação Técnica de Infância e Juventude
 
 1 - A DOTIJ integra os seguintes estabelecimentos de apoio à infância e à juventude:
 
@@ -350,7 +407,9 @@ d) Colaborar na elaboração de programas de implantação de equipamento social
 
 e) Apoiar a formação em exercício do pessoal das diferentes áreas.
 
-###### Artigo 17.º — Divisão de Orientação Técnica de Reabilitação e População Idosa
+###### Artigo 17.º
+
+##### Divisão de Orientação Técnica de Reabilitação e População Idosa
 
 1 - A DOTRPI integra os seguintes estabelecimentos de apoio à reabilitação e à terceira idade:
 
@@ -376,7 +435,9 @@ e) Apoiar a formação em exercício do pessoal das diferentes áreas.
 
 2 - Compete à DSFC promover e executar todas as acções referentes à gestão financeira, ao controle orçamental e à organização contabilística do Centro.
 
-###### Artigo 19.º — Divisão de Gestão Financeira
+###### Artigo 19.º
+
+##### Divisão de Gestão Financeira
 
 Compete à DGF:
 
@@ -406,7 +467,9 @@ m) Elaborar relatórios de cobrança de contribuições em dívida;
 
 n) Desenvolver acções tendentes a prevenir e contrariar as situações contributivas devedoras.
 
-###### Artigo 20.º — Divisão de Contabilidade
+###### Artigo 20.º
+
+##### Divisão de Contabilidade
 
 Compete à DC:
 
@@ -468,7 +531,9 @@ e) Assegurar as ligações com as instituições bancárias.
 
 2 - Compete à DSOI estudar, promover e coordenar as medidas tendentes ao aperfeiçoamento organizacional e modernização administrativa, com recurso, nomeadamente, aos meios informáticos.
 
-###### Artigo 23.º — Divisão de Organização
+###### Artigo 23.º
+
+##### Divisão de Organização
 
 Compete à DO:
 
@@ -482,7 +547,9 @@ d) Analisar, em colaboração com os serviços interessados, as necessidades de 
 
 e) Proceder a estudos de racionalização de impressos e outros suportes de informação.
 
-###### Artigo 24.º — Divisão de Informática
+###### Artigo 24.º
+
+##### Divisão de Informática
 
 Compete à DI:
 
@@ -534,7 +601,9 @@ g) Promover o reembolso de prestações pagas indevidamente sempre que seja nece
 
 2 - Compete à DSRPD apoiar os serviços do Centro em matéria de relações com o público e de recolha, tratamento e difusão da documentação.
 
-###### Artigo 27.º — Divisão de Relações Públicas e Documentação
+###### Artigo 27.º
+
+##### Divisão de Relações Públicas e Documentação
 
 Compete à DRPD:
 
@@ -598,7 +667,9 @@ que têm como objectivo uma maior aproximação entre os serviços e as populaç
 
 2 - Compete à DSGP proceder a estudos, propor medidas e promover acções no âmbito da gestão e formação de pessoal, bem como executar acções referentes à respectiva administração.
 
-###### Artigo 31.º — Divisão de Gestão de Pessoal
+###### Artigo 31.º
+
+##### Divisão de Gestão de Pessoal
 
 Compete à DGP:
 
@@ -692,7 +763,9 @@ h) Providenciar pela aquisição de serviços de transportes sempre que se torne
 
 Compete ao CG executar todas as tarefas de desenho, reprodução, corte, alceamento e encadernação de documentos e de impressos, em conformidade com as necessidades dos serviços.
 
-###### Artigo 37.º — Divisão de Apoio Técnico
+###### Artigo 37.º
+
+##### Divisão de Apoio Técnico
 
 Compete à DAT:
 
@@ -710,7 +783,9 @@ f) Elaborar os planos relativos à actuação do Centro e acompanhar, através d
 
 g) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimentos anuais.
 
-###### Artigo 38.º — Divisão de Planeamento e Estatística
+###### Artigo 38.º
+
+##### Divisão de Planeamento e Estatística
 
 Compete à DPE:
 
@@ -816,4 +891,4 @@ Administração de bases de dados.
 
 Quadro anexo a que se refere o artigo 47.º do Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf))](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)

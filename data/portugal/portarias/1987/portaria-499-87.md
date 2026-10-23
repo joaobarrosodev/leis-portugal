@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1987-418986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3989a31e252e56945334d91dbd72087c340725493e27dd344d9ce522fe020edd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 493e7cc8cd0c24177af08b22f2db1ed486d926ff11744c00a209dd4480dbc752
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Ciências da Computação
+- Curso de Gestão Informática
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia e Gestão
+- Guarda
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:332769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631238:por
+  label: "Aditado o n.º 1.º-A pela PORT.456/91.28.05.1991.ME, DR.IS-B [122] de 28.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-1991-631238
+  date: '1991-05-28'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319915:por
+  label: "Revogado relativamente ao Curso de Ciências da Computação, pela PORT.86/2001.2001.02.08.ME DR.IS-B [33], nos termos\
+    \ do respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2001-319915
+  date: '2001-02-08'
+- type: repealed_by
+  target: pt:dre:332769:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art.31º do Regulamento,pela PORT.530/2001.2001.05.25,DR.IS-B(121),\
+    \ na parte respeitante ao curso de bacharelato em gestão informática\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-2001-332769
+  date: '2001-05-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:09:31Z'
   warnings: []
   errors: []
 ---
@@ -184,8 +213,8 @@ Os cursos entrarão em funcionamento progressivamente a partir do ano lectivo de
 
 Ministério da Educação e Cultura.
 
-**Assinada em 19 de Maio de 1987.**
+Assinada em 19 de Maio de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/13800/23542356.pdf))](https://files.diariodarepublica.pt/1s/1987/06/13800/23542356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/13800/23542356.pdf)

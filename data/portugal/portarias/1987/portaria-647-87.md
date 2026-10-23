@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/16700/28852888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-1987-420593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e45ac7fcd13b87784aa2eb4b0e145796f308a35cfed438458253680caae499c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a9744412d4f68e53f92120b8e996fd8bee43c27e0ceaae33f2e76b71618ff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Composição
+- Curso de Flauta
+- Curso de Piano
+- Ensino Superior Politécnico
+- Escola Superior de Música
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:675242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377942:por
+  label: "Alterado o nº 1º, o nº 1 do nº 3º, a al a) do nº 7º e aditado um nº 3º ao nº 14º e os anexos IV a VII pela PORT.513/88.1988.07.29.ME,DR.IS\
+    \ [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-1988-377942
+  date: '1988-07-29'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:675242:por
+  label: "Revogado o presente diploma, alterado na Portaria n.º 513/88, de 29 de Julho, pela PORT.813/91.12.08.1991.ME, DR.IS-B\
+    \ [184] de 12.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-1991-675242
+  date: '1991-08-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:13:22Z'
   warnings: []
   errors: []
 ---
@@ -403,8 +447,8 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 7 de Julho de 1987.**
+Assinada em 7 de Julho de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16700/28852888.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16700/28852888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16700/28852888.pdf)

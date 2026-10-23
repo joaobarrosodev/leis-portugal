@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:05:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70b7999048a7224132cf194d5b3946b5d511660c0a1dd80f850004c23335b31b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22026c82c0f47f802454eb6a32e386e23693fed3060d940caf12d41ebc0ebf6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:05:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Fiscal por Investimento
+- Desemprego
+- Dívida Pública Externa
+- Incentivos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:571219:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:571219:por
+  label: "Revogada, a partir de 10.05.1990, pela PORT.339/90.05.05.1990.MF, DR.IS [103] de 05.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-1990-571219
+  date: '1990-05-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:05:30Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +168,7 @@ Critério A
 
 1 - O coeficiente capital/produto (critério A), referido na alínea a) do n.º 2 do artigo 1.º do Decreto-Lei n.º 161/87, de 6 de Abril, é expresso pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 2 - Relativamente ao investimento na indústria hoteleira, o limite máximo de A é 5, em vez do limite 4 fixado no número precedente.
 
@@ -169,11 +178,11 @@ Critério B
 
 1 - O prazo de recuperação em divisas (critério B), referido na alínea b) do n.º 2 do artigo 1.º do Decreto-Lei n.º 161/87, de 6 de Abril, é dado pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 2 - Se o projecto respeitar a investimento directo estrangeiro, cuja componente externa do financiamento por capitais próprios não acorreria ao País na ausência do projecto, IM e CM deverão ser ajustadas para ter em conta aquele financiamento e a repatriação de lucros e dividendos ou o pagamento de royalties ou outras formas de remuneração da tecnologia envolvida. E a tabela do número anterior passa a contemplar a hipótese adicional de IM ser negativa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 3 - A substituição de importações não conta para fins do prazo de recuperação em divisas (B), mas excepcionalmente, em casos de notória redução de importações provenientes de fora da CEE, poderá VX integrar o valor correspondente, desde que estejam preenchidas as seguintes condições:
 
@@ -255,9 +264,9 @@ Se em qualquer momento até ao fim do segundo ano cruzeiro houver razões para c
 
 Ministério das Finanças.
 
-**Assinada em 15 de Abril de 1987.**
+Assinada em 15 de Abril de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 FICHA n.º 1
 
@@ -321,22 +330,22 @@ FICHA N.º 2
 
 Investimento do projecto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 FICHA N.º 3
 
 Vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 FICHA N.º 4
 
 Custos de produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
 
 FICHA N.º 5
 
 (A preencher pela instituição credenciada que aprecie o projecto de investimento. Serve de «declaração especial» a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 161/87, de 6 de Abril.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16501656.pdf)

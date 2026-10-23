@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-1987-421659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9f1931b3b60fdd0aa4c27617067f46d97e63d598f5f1ff34079b90c911a3fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffb5583ff6a68ed920fcd35538978c096318370e9f71bf275dcf3dea312875b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:223186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELA PORT 1016/95 DE 21-AGO DR.IS-B [192]\0B [192]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-21'
+- type: amended_by
+  target: pt:dre:223186:por
+  label: "Criada a carreira de investigação científica no quadro de pessoal, pela PORT.22/98.1998.01.10.PCM, DR.IS-B [8]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22-1998-223186
+  date: '1998-01-10'
+- type: cites
+  target: pt:dre:183261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:08:16Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +124,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 14 de Maio de 1987.**
+Assinada em 14 de Maio de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Instituto de Genética Médica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/12200/21202121.pdf))](https://files.diariodarepublica.pt/1s/1987/05/12200/21202121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12200/21202121.pdf)

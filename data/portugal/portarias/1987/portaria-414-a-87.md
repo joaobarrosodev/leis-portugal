@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 113/1987, 1º Suplemento, Série I de 1987-05-18
   number: '113'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2012-(2) a 2012-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11301/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-a-1987-338022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 436f6a8e0c31a41bfc94d991067cabb1befe9ed610bb5e690eb6f9a8c4089001
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc74520f6e17ae0e7c2f2f6ed561248ff481bb4e521f53e1728ccdf8dde55199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação Social
+- Comunicações
+- Direcção Geral da Comunicação Social
+- Financiamento
+- Formação Profissional
+- Imprensa
+- Jornalista
+- Passe Social
+- Porte PAGO
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:176475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283529:por
+  label: "Alterado o nº 30, pela PORT.36/88.1988.01.18.PCM, DR.IS [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1988-283529
+  date: '1988-01-18'
+- type: cites
+  target: pt:dre:195201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176475:por
+  label: "Revogada pela PORT.310/88.1988.05.17.PCM, DR.IS [114]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-1988-176475
+  date: '1988-05-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:30Z'
   warnings: []
   errors: []
 ---
@@ -413,6 +457,6 @@ g) Despacho conjunto dos Secretários de Estado Adjunto do Ministro de Estado e 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Maio de 1987.**
+Assinada em 14 de Maio de 1987.
 
-**O Ministro Adjunto e para os Assuntos Parlamentares, Joaquim Fernando Nogueira. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro Adjunto e para os Assuntos Parlamentares, Joaquim Fernando Nogueira. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

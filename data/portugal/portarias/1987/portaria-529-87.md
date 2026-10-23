@@ -48,40 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/529-1987-419775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aada7b960a6a47b4516abdb487e3061f383cbd26348e86f3c81e76daae913e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f18e9bce2474e925484dcf19d5cc7b482851642f183b3bff2851c0f4003b4a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Formação Profissional da Indústria Metalúrgica e Metalomecânica
+- Criação de Serviços
+- Formação Profissional
+- Indústria Metalúrgica
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:324162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:324162:por
+  label: Rectificada pela PORT.628/2000.2000.08.22.MTS DR.IS-B [193]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-2000-324162
+  date: '2000-08-22'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:10:16Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +118,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 3 de Junho de 1987.**
+Assinada em 3 de Junho de 1987.
 
-**O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector da Indústria Metalúrgica e Metalomecânica
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1987-420003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T09:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b6dd2800a7158c6c2028d5a5edf6e8d6075106e1f3c6cc2132d5c09b3050bc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb15435141b57677cd5efce6bb43f25798088e6775796de9a2cbe87a531f602
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Segurança Rodoviária
+- Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
   target: pt:dre:293132:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625412:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:487500:por
+  label: Rectificada pela DECL.DD4262.08.10.1987.PCM, DR.IS [251]3ºSupl de 31.10.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-487500
+  date: '1987-10-08'
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data da entrada em vigor da Port prevista no num\
+    \ 2 do art 3&#186; desse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
+- type: repealed_by
+  target: pt:dre:293132:por
+  label: "Revogada pela PORT.331-B/98.1998.06.01.MAI DR.IS-B [126]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-b-1998-293132
+  date: '1998-06-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:11:01Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +180,7 @@ e) Veículos que transportem produtos explosivos da classe 1c - Artifícios piro
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 3 de Junho de 1987.**
+Assinada em 3 de Junho de 1987.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga, Secretário de Estado dos Transportes e Comunicações.
 
@@ -152,7 +192,7 @@ AUTORIZAÇÃO ESPECIAL DE CIRCULAÇÃO
 
 TRANSPORTE DE MERCADORIAS PERIGOSAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf)
 
 ## ANEXO 2 — AUTORIZAÇÃO ESPECIAL DE CIRCULAÇÃO
 
@@ -160,4 +200,4 @@ TRANSPORTE DE MERCADORIAS PERIGOSAS
 
 TRANSPORTE DE MERCADORIAS PERIGOSAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15000/26012602.pdf)

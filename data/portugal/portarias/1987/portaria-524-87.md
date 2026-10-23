@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/524-1987-419777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb0e3ba8fc9c614ed2cc85b14de526ecaa382c329e20ce260d8c76f60342c704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41f56c07051200e77d380f37681b6374d74101af07392528b9218072e1265520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Licenciatura
+- Numerus Clausus
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:417635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417832:por
+  label: "Aditado o curso de Educação de Infância aos anexos I.1, II, III.2 e VI à Port 361-A/87, de 30-Abr, alterada pela\
+    \ presente portaria, pela PORT.681/87.08.08.1987.MEC, DR.IS [181] de 08.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-1987-417832
+  date: '1987-08-08'
+- type: amended_by
+  target: pt:dre:417635:por
+  label: "Aditado um art. 40.º-A ao Regulamento anexo à Port 361-A/87, de 30-Abr, alterada pela presente portaria, pela PORT.708/87.19.08.1987.MEC,\
+    \ DR.IS [189] de 19.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/708-1987-417635
+  date: '1987-08-19'
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611275:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449769:por
+  label: Rectificada pela DECL.DD4401.22.07.1987.PCM, DR.IS [174]Supl de 31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449769
+  date: '1987-07-22'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:10:10Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +143,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 22 de Junho de 1987.**
+Assinada em 22 de Junho de 1987.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
-## Anexo a que se refere a Portaria n.º 524/87, de 27 de Junho
+Anexo a que se refere a Portaria n.º 524/87, de 27 de Junho
 
 [Portaria n.º 361-A/87](https://diariodarepublica.pt/dr/detalhe/portaria/361-a-1987-305812)
 
@@ -281,7 +323,7 @@ b) ...
 
 2 - Os processos referentes aos candidatos colocados terão, antes de ser enviados aos estabelecimentos de ensino superior, todas as suas folhas numeradas, sendo a última aquela a que se refere a alínea b) do n.º 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14500/24692480.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14500/24692480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14500/24692480.pdf)
 
 ## ANEXO XI — Modelo do requerimento de permuta (artigo 67.º, n.º 3)
 

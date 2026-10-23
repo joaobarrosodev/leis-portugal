@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1987-417619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:14:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1deccb99c262f65f68206ebd93d703efdb4846956e58ae60f577c72ab8aae21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0612f673abe38b60c7058292f690f368fbb13b53653ac85d265b403c3c7a9e71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:14:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Faculdade de Arquitectura
+- Licenciatura
+- Numerus Clausus
+- Universidade do Porto
+- Viseu
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:14:42Z'
   warnings: []
   errors: []
 ---
@@ -104,12 +131,12 @@ Ministração do curso em Viseu
 
 2.º A [Portaria n.º 525/87](https://diariodarepublica.pt/dr/detalhe/portaria/525-1987-419778), de 27 de Junho, na parte referente à Faculdade de Arquitectura da Universidade do Porto, passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18700/32043204.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18700/32043204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18700/32043204.pdf)
 
 3.º Aos estudantes que já hajam apresentado a candidatura no decurso do prazo indicado na referência 1 do anexo XII do regulamento aprovado pela [Portaria n.º 361-A/87](https://diariodarepublica.pt/dr/detalhe/portaria/361-a-1987-305812) é autorizada a alteração da candidatura no prazo a que se refere a referência 6 do mesmo anexo, desde que tal alteração tenha por objectivo incluir o curso de Arquitectura da Faculdade de Arquitectura da Universidade do Porto ministrado na cidade de Viseu.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 27 de Julho de 1987.**
+Assinada em 27 de Julho de 1987.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.

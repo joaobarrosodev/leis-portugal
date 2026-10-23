@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1987-421808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4f1bfec02ede2b9493d2fa0d92fe1debf9e8f2f35e49b1bda283f0f0cb64fdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a55c6a091094502ed1f4cfe59d2f15b539ac174fffbae589a3a84514779d0539
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Formação Profissional para o Sector Alimentar
+- Formação Profissional
+- Indústria Alimentar
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:167071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:347499:por
+  label: "Alterado o protocolo pela PORT.354/97.1997.05.26.MQE DR.IS-B [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1997-347499
+  date: '1997-05-26'
+- type: amended_by
+  target: pt:dre:434405:por
+  label: "Alterado o nº 1 e o protocolo homologado pelo presente diploma, na redacção da Port 354/97, de 26-Mai, pela PORT.669/99.1999.08.18.MTS\
+    \ DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-1999-434405
+  date: '1999-08-18'
+- type: amended_by
+  target: pt:dre:167071:por
+  label: "Alterado o texto introdutório do protocolo homologado e o nº 1, na redacção das Ports. 354/97 de 26-Mai e 699/99\
+    \ de 18-Ago pela PORT.114/2003.2003.01.29.MSST, DR.IS-B [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2003-167071
+  date: '2003-01-29'
+- type: amended_by
+  target: pt:dre:105347306:por
+  label: Homologadas as alterações ao Protocolo que criou o CFPSA, publicado em anexo ao presente diploma, na redação das
+    Ports 354/97, de 26-mai, 669/99, de 18-ago e 114/2003, de 29-jan pelo(a) Portaria n.º 309/2016 - Diário da República n.º
+    236/2016, Série I de 2016-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2016-105347306
+  date: '2016-12-12'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:08:15Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +135,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 4 de Maio de 1987.**
+Assinada em 4 de Maio de 1987.
 
-**O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector Alimentar
 

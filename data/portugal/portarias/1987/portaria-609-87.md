@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/609-1987-420429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9782358f7cf181f0885bc899898719e00769ae87faa0143d9dde3745fa27aef6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c868c0f38bb9437f525017a7102480802b85eed352df8b6c4f007f740a7a272
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Junta Médica
+- Junta Médico-Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:563262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563262:por
+  label: "Alterado o art. 9º do Regulamento das Juntas Médicas da Força Aérea, aprovado pelo presente diploma, pela PORT.1206/90.15.12.1990.MDN,\
+    \ DR.IS [288] de 15.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1206-1990-563262
+  date: '1990-12-15'
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685402:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:12:27Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +123,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao a
 
 Ministério da Defesa Nacional.
 
-**Assinada em 12 de Maio de 1987.**
+Assinada em 12 de Maio de 1987.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Regulamento das Juntas Médicas da Força Aérea
 
@@ -641,4 +667,4 @@ São revogadas as Portarias n.os [731/72](https://diariodarepublica.pt/dr/detalh
 
 Anexos à Portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16100/27872800.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16100/27872800.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16100/27872800.pdf)

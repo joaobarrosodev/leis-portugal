@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 48/1993, 2º Suplemento, Série I-A de 1993-02-26
   number: '48'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 846-(4) a 846-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/048a02/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/lei/4-a/1993/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei/4-a-1993-367008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:12:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac2b580fe71aca4ac21ccd74a0a52114cb6b16735d0089b07a848e4e895b0a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83600dc0a91f9bad3c15e37782fe9657e30c043b5df160b0d350520cd45cc1ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:12:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Macau
 - Lei de Bases
-- Poder Judicial
+- Macau
 - Organização Judiciária
+- Poder Judicial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/112/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:404106:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:12:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ Altera a Lei de Bases da Organização Judiciária de Macau
 
 A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:
 
-###### Artigo único. É aditado um novo artigo à [Lei n.º 112/91](https://diariodarepublica.pt/dr/detalhe/lei/112-1991-404106), de 29 de Agosto, com a seguinte redacção:
+Artigo único. É aditado um novo artigo à [Lei n.º 112/91](https://diariodarepublica.pt/dr/detalhe/lei/112-1991-404106), de 29 de Agosto, com a seguinte redacção:
 
 ###### Artigo 40.º — Composição transitória do Tribunal Superior de Justiça
 
@@ -108,14 +112,14 @@ Para publicação no Boletim Oficial de Macau.
 
 Aprovada em 2 de Fevereiro de 1993.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-**Promulgada em 22 de Fevereiro de 1993.**
+Promulgada em 22 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendada em 24 de Fevereiro de 1993.**
+Referendada em 24 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

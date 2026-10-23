@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/469-1987-421650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e459850286d840f20cb5925269883fe985a39d47e2fee8d00f98c0e347ab46f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03c4651e8cf0f67b553b8c3b555a2dcd1339adab12b46105012f9f1097584791
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:08:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- CABO de são Vicente
+- Fortaleza de Sagres
+- Imóvel Classificado
+- Património Cultural
+relationships:
+- type: cites
+  target: pt:dre:221567:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:08:46Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +99,6 @@ Manda o Governo da República Portuguesa, pelos Ministros do Plano e da Administ
 
 Ministérios do Plano e da Administração do Território e da Educação e Cultura.
 
-**Assinada em 16 de Abril de 1987.**
+Assinada em 16 de Abril de 1987.
 
-**O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.

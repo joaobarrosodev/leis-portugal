@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-1987-663156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e12ab3372dfe20311f2bba1879330b86106cbef7b8a5743093bf76e204379cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a6461813ca3ecc30ff02bb35e9a5c67e93ac695b24a29b5802d071f20771538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alpiarça
+- Ordenamento do Território
+- Plano Geral de Urbanização
+- Política de Solos
+- Regulamento
+- Urbanização
+relationships:
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:53Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +108,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Secretaria de Estado da Administração Local e do Ordenamento do Território.
 
-**Assinada em 31 de Dezembro de 1986.**
+Assinada em 31 de Dezembro de 1986.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento do Plano Geral de Urbanização de Alpiarça
 
@@ -388,4 +406,4 @@ Não exijam infra-estruturas especiais;
 
 Os lotes não tenham área inferior a 5000 m2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02800/04170420.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02800/04170420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02800/04170420.pdf)

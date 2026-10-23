@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08000/13801380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-1987-666680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:04:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed9c09d54807fb2f71917ef30283fcdbf96e847c7a338a3575ef61723d3cb324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 392f66b3c3a87137bd76b911aea99962e22b650018c87420b55488602b16d2c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Pessoal Especializado
+- Representação Permanente de Portugal Junto das Comunidades Europeias
 relationships:
 - type: amended_by
   target: pt:dre:537436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575509:por
+  label: "Alterado o quadro de pessoal pela PORT.49-A/92.1992.01.29.SEAO-MF DR.IS-B [24]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-a-1992-575509
+  date: '1992-01-29'
+- type: amended_by
+  target: pt:dre:382184:por
+  label: "Alterado o quadro de pessoal a que se referem os artºs 4º e 7º do Dec Lei 459/85 de 04-Nov, com a composição dada\
+    \ pelo presente diploma, já anteriormente alterado pela Port 49-A/92 de 29-Jan, pela Port.282/97.1997.05.02.PCM DR.IS-B\
+    \ [101]E\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1997-382184
+  date: '1997-05-02'
+- type: amended_by
+  target: pt:dre:178564:por
+  label: "Alterado o quadro de pessoal, com a redacção conferida pelas Port 49-A/92 de 29-Jan, 282/97 de 02-Mai e 637/99(2ªSérie)\
+    \ de 23-Jun, pela PORT.330-A/2002.2002.03.27.MNE DR.IS-B [73]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-a-2002-178564
+  date: '2002-03-27'
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:360118:por
+  label: "Revogada na redacção das Ports. 49-A/92 de 29-Jan, 282/97 de 02-Mai, 330-A/2002 de 27-Mar, e substituído o mapa\
+    \ de pessoal da Representação Permanente de Portugal pelo mapa anexo à PORT.640/2006.26.06.2006.MNE, DR.IS-B [121] de\
+    \ 26.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-2006-360118
+  date: '2006-06-26'
+- type: repealed_by
+  target: pt:dre:537436:por
+  label: "Revogada pelo presente diploma (já anteriormente revogada pela Portaria 640/2006, de 26 de Junho)na redacção da\
+    \ Portaria 49-A/92, de 29 de Janeiro, Portaria 282/97, de 2 de Maio, e Portaria 330-A/2002, de 27 de Março, pela PORT.700/2006.13.07.2006.MNE,\
+    \ DR.IS [134] de 13.07.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-2006-537436
+  date: '2006-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:04:00Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +149,15 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Ne
 
 2.º O mapa I a que se refere o artigo 1.º do [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), de 2 de Maio, considera-se substituído, por força do que se estabelece no n.º 1.º do presente diploma, quanto às categorias do pessoal especializado do Ministério dos Negócios Estrangeiros atribuídas à Representação Permanente de Portugal junto das Comunidades Europeias de acordo com as novas dotações constantes das alterações seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08000/13801380.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08000/13801380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08000/13801380.pdf)
 
 3.º Este diploma produz efeitos a partir da sua publicação.
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 5 de Março de 1987.**
+Assinada em 5 de Março de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.
 
 Mapa do pessoal da Representação Permanente
 

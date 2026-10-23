@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-1987-419436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2383791365eb05360e9eaeefa53643f3bc7f284d57570cd39cd40124123d01ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9286a5d8249d8844d8a764edd9a1563f3dbe9fc89fd7b893531ab630e58223a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade da Beira Interior
+relationships:
+- type: cites
+  target: pt:dre:158427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564865:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:09:41Z'
   warnings: []
   errors: []
 ---
@@ -173,15 +197,15 @@ d) Economia.
 
 5.1.1 - Ciclo base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
 5.1.2 - Ciclo especializado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
 5.2 - Áreas científicas optativas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14100/23742375.pdf)
 
 2.º
 
@@ -197,6 +221,6 @@ Entrada em funcionamento e regime de transição
 
 Ministério da Educação e Cultura.
 
-**Assinada em 24 de Maio de 1987.**
+Assinada em 24 de Maio de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.

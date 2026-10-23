@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-1987-421041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a458b268174e998aad0335e323ed58cb7c36bf5f1878076a4bdc18c8aadbd7e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 747f30fd0ed098e9a79f5dfda06e6f037b00de9f1a51563d9845a297dceb5234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Energia Elétrica
+- Preço
+- TAXA Adicional
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDOS OS QUADROS NUMEROS 1 E 2 ANEXOS, PELA PORTARIA 29-A/88, DE 14 JANEIRO, PUBLICADA NO DR.IS, 11, SUPL.\0\
+    \ SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-01-14'
+- type: cites
+  target: pt:dre:162787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:00Z'
   warnings: []
   errors: []
 ---
@@ -107,14 +140,14 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Comérci
 
 Ministério da Indústria e Comércio.
 
-**Assinada em 2 de Abril de 1987.**
+Assinada em 2 de Abril de 1987.
 
-**O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10700/19341936.pdf)

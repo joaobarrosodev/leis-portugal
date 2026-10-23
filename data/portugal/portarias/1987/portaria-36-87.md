@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01300/02380239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1987-663501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a6e2dab4ff1b982e7dbd46448368b1d9ef1ef3837106a1ecc00947fe4c0f2e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6425e11f8b7ce583324bf5b0cfbc6b62f9318c8eada90e303a8dc1b8a712546a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Material de Ensino
+- Ministério da Saúde
+- Serviços Sociais
+- Subsídio para Aquisições de Livros e Material Escolar
 relationships:
 - type: amended_by
   target: pt:dre:556998:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178087:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:556998:por
+  label: "Revogado o regulamento, pela PORT.762/90.30.08.1990.MF, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/762-1990-556998
+  date: '1990-08-30'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:00Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +105,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Saú
 
 Ministérios das Finanças, da Saúde e do Trabalho e Segurança Social.
 
-**Assinada em 30 de Novembro de 1986.**
+Assinada em 30 de Novembro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
@@ -194,4 +207,4 @@ Os casos omissos no presente Regulamento e as dúvidas suscitadas na sua execuç
 
 Tabela do subsídio para aquisição de livros e material escolar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01300/02380239.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01300/02380239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01300/02380239.pdf)

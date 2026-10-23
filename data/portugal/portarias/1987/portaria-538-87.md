@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1987-419453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55780e44d5e435e7d4ae587973f6b4109563bb6711a98a7c50a2c6f3ab460df0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8a07b0877cfd1ae3bb38823041066328f0b9b9340151dfbfead16677f12ad56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acordo
+- Centro de Formação Profissional
+- Formação Profissional
+- Indústria de Ourivesaria e Relojoaria
+- Instituto do Emprego e Formação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:107573231:por
+  label: Homologada a alteração à al. a) do ponto III do cap. I do Protocolo anexo à presente portaria, pelo(a) Portaria n.º
+    200/2017 - Diário da República n.º 122/2017, Série I de 2017-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-2017-107573231
+  date: '2017-06-27'
+- type: corrected_by
+  target: pt:dre:647307:por
+  label: Rectificada pela DECL.DD893.1987.09.30.PCM DR.IS [225]2ºSUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-647307
+  date: '1987-09-30'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:10:26Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +120,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 3 de Junho de 1987.**
+Assinada em 3 de Junho de 1987.
 
-**O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector da Indústria de Ourivesaria e Relojoaria do Norte.
 

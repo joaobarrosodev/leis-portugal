@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-1987-421230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 399a706d9e3739d87e8de281251d6ef898b7edb27f06d4b63de8a0adb8016eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76b680147653fc831ceea5225c17fe881823c09c2465919ebee4bf999633b5ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospitais Civis de Lisboa
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:300060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:171481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:06:24Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +157,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Abril de 1987.**
+Assinada em 2 de Abril de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal dos Hospitais Civis de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10100/18411841.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10100/18411841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/10100/18411841.pdf)

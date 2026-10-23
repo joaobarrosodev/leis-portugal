@@ -49,36 +49,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-1987-419656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13b3f092623b4211b7ca85cf7fdd125d1ac7096ac4e919be0a96cef3b46d16c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de84d51226bcc4ea8b52888036f08f4a61ef5d979c4ab57595b2e3fff5bb8f31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade da Beira Interior
+relationships:
+- type: cites
+  target: pt:dre:220965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:09:51Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +265,7 @@ Disposição revogatória
 
 Ministério da Educação e Cultura.
 
-**Assinada em 24 de Maio de 1987.**
+Assinada em 24 de Maio de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
@@ -237,7 +285,7 @@ Cinco anos lectivos.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14200/24002403.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14200/24002403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14200/24002403.pdf)
 
 5 - Total mínimo de créditos necessários à inscrição no ciclo especializado nos ramos:
 

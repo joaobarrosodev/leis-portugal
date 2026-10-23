@@ -48,40 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1987-494851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86f989f429887558e3d14d353e98ae4969a5269fe29d2a89258ae8e874b9362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ac48f357fa7b35ed53aad71d10b2745db0834d3cb5bb8396b0860abbe33d11f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Técnico
+- Associação Industrial da Região do Oeste
+- Associação Portuguesa de Cerâmica
+- Centro de Formação Profissional
+- Centro de Formação Profissional para o Sector da Indústria de Cerâmica
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:420793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420793:por
+  label: Alterado o texto introdutório do protocolo que criou a Centro de Formação Profissional para o Sector da Indústria
+    de Cerâmica (CENCAL), publicado em anexo, pela PORT.1278/97.1997.12.29.MQE DR.IS-B [299]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-1997-420793
+  date: '1997-12-29'
+- type: amended_by
+  target: pt:dre:107002719:por
+  label: Homologadas as alterações introduzidas ao texto introdutório e à al. d) da cláusula III do Protocolo que criou o
+    Centro de Formação Profissional para o Sector da Indústria de Cerâmica (CENCAL), publicado em anexo ao presente diploma,
+    com a redação dada pela Port 1278/97 de 29-dez, pelo(a) Portaria n.º 158/2017 - Diário da República n.º 91/2017, Série
+    I de 2017-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-2017-107002719
+  date: '2017-05-11'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:57Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +129,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 10 de Agosto de 1987.**
+Assinada em 10 de Agosto de 1987.
 
-**O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector da Indústria de Cerâmica (CENCAL)
 

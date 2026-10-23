@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11000/19741976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1987-421413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3867f0013514f99c58910050abcee071454be252ff323a5e5cd5e500032fb3e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bdcc99d5547c9a3ee86a0d93a7afd7e54d6174925586ffb994b6c9da2135101
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Horário de Trabalho
+- Pessoal Navegante
+- Regulamento
+- Segurança Aérea
+- Segurança no Trabalho
+- Tempo de Serviço
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:202782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600723:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:202782:por
+  label: "Revogado sem prejuízo do disposto no art. 18º do referido diploma pela PORT.238-A/98.1998.04.15.MEPAT, DR.IS-B [88]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-a-1998-202782
+  date: '1998-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:20Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +126,23 @@ Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas, T
 
 Ministérios das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social.
 
-**Assinada em 27 de Abril de 1987.**
+Assinada em 27 de Abril de 1987.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Regulamento sobre Tempos de Serviço de Voo e Repouso do Pessoal Navegante do Transporte Aéreo
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os tripulantes de aeronaves na execução de todas as operações relativas a transporte aéreo regular e não regular e a transporte de pessoas e mercadorias em aeronaves privativas de empresas licenciadas, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 19/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1982-600723), de 29 de Janeiro.
+Artigo 1.º As disposições do presente Regulamento são aplicáveis a todos os tripulantes de aeronaves na execução de todas as operações relativas a transporte aéreo regular e não regular e a transporte de pessoas e mercadorias em aeronaves privativas de empresas licenciadas, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 19/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1982-600723), de 29 de Janeiro.
 
-###### Art. 2.º - 1 - O tripulante não iniciará um serviço de voo quando se encontre em situações legais, físicas ou outras que não autorizem ou não garantam adequada execução das suas funções específicas a bordo.
+Art. 2.º - 1 - O tripulante não iniciará um serviço de voo quando se encontre em situações legais, físicas ou outras que não autorizem ou não garantam adequada execução das suas funções específicas a bordo.
 
 2 - Cada operador deverá indicar no seu manual de operações de voo os limites de tempo de voo e de serviço de voo que utiliza e que, em caso algum, poderão exceder os indicados neste Regulamento. Se inferiores, o comandante poderá ultrapassa-los até aos limites deste Regulamento para terminar um serviço de voo ou regressar à base, desde que entenda que é salvaguardada a segurança da operação.
 
 3 - Em caso de reconhecida necessidade, e durante um período limitado de tempo, poderá a Direcção-Geral da Aviação Civil, ouvida a empresa interessada e os representantes do pessoal navegante, autorizar normas de operações diferentes.
 
-###### Art. 3.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
+Art. 3.º Na aplicação das disposições do presente Regulamento ter-se-ão em conta as seguintes definições:
 
 Ano - doze meses consecutivos;
 
@@ -154,9 +180,9 @@ Tripulação reforçada - quando a tripulação tida como mínima se encontra au
 
 ### CAPÍTULO II — Máximo do período de serviço de voo e limites semanais, mensais e anuais
 
-###### Art. 4.º - 1 - Com ressalva do disposto no artigo 7.º, os máximos do período de serviço de voo para quatro aterragens e os limites semanais, mensais e anuais são os constantes do quadro:
+Art. 4.º - 1 - Com ressalva do disposto no artigo 7.º, os máximos do período de serviço de voo para quatro aterragens e os limites semanais, mensais e anuais são os constantes do quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11000/19741976.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11000/19741976.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11000/19741976.pdf)
 
 2 - No caso de o período de serviço de voo compreender, no todo ou em parte, o período das 23 horas às 6 horas e 29 minutos, o máximo previsto no número antecedente será diminuído de uma hora.
 
@@ -164,7 +190,7 @@ Tripulação reforçada - quando a tripulação tida como mínima se encontra au
 
 4 - No caso das tripulações A, B, C e E para aviões de peso máximo inferior a 22000 Kg do quadro do n.º 1, as horas consideradas como período de descanso contam apenas 50% para efeitos dos máximos e limites nele estabelecidos.
 
-###### Art. 5.º - 1 - Os máximos de período de serviço de voo constantes do quadro do artigo 4.º para as tripulações C, D e E serão aumentados sempre que a tripulação mínima seja reforçada, como segue:
+Art. 5.º - 1 - Os máximos de período de serviço de voo constantes do quadro do artigo 4.º para as tripulações C, D e E serão aumentados sempre que a tripulação mínima seja reforçada, como segue:
 
 a) Tripulação técnica (C e D):
 
@@ -186,13 +212,13 @@ Mais 50% ... 4
 
 2 - Os tripulantes de reforço devem ter a bordo meios de descanso aprovados pela autoridade aeronáutica competente.
 
-###### Art. 6.º O máximo tempo de voo no decurso de um período de serviço de voo será, respectivamente, de cinco ou quatro horas, sempre que na constituição de uma tripulação exista apenas um piloto e a aeronave esteja ou não equipada com piloto automático aprovado.
+Art. 6.º O máximo tempo de voo no decurso de um período de serviço de voo será, respectivamente, de cinco ou quatro horas, sempre que na constituição de uma tripulação exista apenas um piloto e a aeronave esteja ou não equipada com piloto automático aprovado.
 
-###### Art. 7.º - 1 - Qualquer tripulante desempenhando as funções de instrutor de voo de pilotos ou de técnicos de voo não poderá exceder, no decurso de um voo de instrução, o máximo de cinco horas de tempo de voo e de dez horas no período de serviço de voo, independentemente do número de aterragens.
+Art. 7.º - 1 - Qualquer tripulante desempenhando as funções de instrutor de voo de pilotos ou de técnicos de voo não poderá exceder, no decurso de um voo de instrução, o máximo de cinco horas de tempo de voo e de dez horas no período de serviço de voo, independentemente do número de aterragens.
 
 2 - O regime estabelecido no número anterior é também aplicável aos instruendos.
 
-###### Art. 8.º - 1 - Sempre que o comandante da aeronave entender que o prosseguimento do serviço pode afectar a segurança da operação, deverá interrompê-lo.
+Art. 8.º - 1 - Sempre que o comandante da aeronave entender que o prosseguimento do serviço pode afectar a segurança da operação, deverá interrompê-lo.
 
 2 - Os máximos e limites previstos no artigo 4.º poderão ser excedidos sempre que, por motivos imprevistos ou de força maior, o serviço de voo depois de iniciado não possa realizar-se no tempo previsto e desde que o comandate entenda que está salvaguardada a segurança da operação. Neste caso, os máximos e limites poderão ser excedidos até um máximo de três horas.
 
@@ -200,17 +226,17 @@ Mais 50% ... 4
 
 ### CAPÍTULO III — Período de serviço de voo
 
-###### Art. 9.º O tripulante não poderá iniciar um período de serviço de voo após um período de repouso mínimo ou repouso nocturno antes de decorrido um intervalo de tempo destinado à sua preparação, acrescido do tempo de transporte entre o local de repouso e o aeroporto.
+Art. 9.º O tripulante não poderá iniciar um período de serviço de voo após um período de repouso mínimo ou repouso nocturno antes de decorrido um intervalo de tempo destinado à sua preparação, acrescido do tempo de transporte entre o local de repouso e o aeroporto.
 
-###### Art. 10.º O tripulante não poderá iniciar um período de serviço de voo compreendido no todo ou em parte entre as 23 horas e as 6 horas e 29 minutos, se na noite anterior não tiver gozado um período nocturno de repouso.
+Art. 10.º O tripulante não poderá iniciar um período de serviço de voo compreendido no todo ou em parte entre as 23 horas e as 6 horas e 29 minutos, se na noite anterior não tiver gozado um período nocturno de repouso.
 
-###### Art. 11.º - 1 - Antes de iniciar um período de serviço de voo, o tripulante deverá ter um período livre de serviço não inferior a oito horas.
+Art. 11.º - 1 - Antes de iniciar um período de serviço de voo, o tripulante deverá ter um período livre de serviço não inferior a oito horas.
 
 2 - O disposto no número anterior não se aplica a tripulantes em período de serviço de assistência.
 
-###### Art. 12.º O tripulante não deverá ser nomeado durante o período de assistência para iniciar um período de serviço de voo cujo termo esteja programado para além de 26 horas após o início do mesmo período de assistência.
+Art. 12.º O tripulante não deverá ser nomeado durante o período de assistência para iniciar um período de serviço de voo cujo termo esteja programado para além de 26 horas após o início do mesmo período de assistência.
 
-###### Art. 13.º - 1 - Quando um tripulante se deslocar como passageiro ou tripulante extra (extra-crew), mas por motivos de serviço, contará 100% do período de serviço de voo e 50% do tempo de voo para os efeitos dos limites estabelecidos no artigo 4.º e para cálculo do período de repouso subsequente.
+Art. 13.º - 1 - Quando um tripulante se deslocar como passageiro ou tripulante extra (extra-crew), mas por motivos de serviço, contará 100% do período de serviço de voo e 50% do tempo de voo para os efeitos dos limites estabelecidos no artigo 4.º e para cálculo do período de repouso subsequente.
 
 2 - Quando um tripulante se deslocar como passageiro ou tripulante extra (extra-crew), com a finalidade de continuar o serviço de voo, contará 100% do período de serviço de voo e do tempo de voo gastos no transporte para efeitos de determinação dos máximos constantes do artigo 4.º
 
@@ -218,7 +244,7 @@ Mais 50% ... 4
 
 ### CAPÍTULO IV — Folga semanal
 
-###### Art. 14.º - 1 - Os tripulantes terão um período livre de serviço de, pelo menos, 48 horas consecutivas por semana. O período de repouso não é considerado folga semanal.
+Art. 14.º - 1 - Os tripulantes terão um período livre de serviço de, pelo menos, 48 horas consecutivas por semana. O período de repouso não é considerado folga semanal.
 
 2 - Uma vez iniciado um período de folga semanal, este não será interrompido.
 
@@ -226,7 +252,7 @@ Mais 50% ... 4
 
 ### CAPÍTULO V — Período de repouso
 
-###### Art. 15.º - 1 - Salvo o disposto no número seguinte, o período de repouso de um tripulante terá uma duração mínima igual ao maior dos dois valores seguintes:
+Art. 15.º - 1 - Salvo o disposto no número seguinte, o período de repouso de um tripulante terá uma duração mínima igual ao maior dos dois valores seguintes:
 
 1,5 do período de serviço de voo; ou
 
@@ -250,6 +276,6 @@ Mais 50% ... 4
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 16.º Para efeitos de aplicação do disposto no presente Regulamento, considera-se que as horas referidas se reportam à hora local.
+Art. 16.º Para efeitos de aplicação do disposto no presente Regulamento, considera-se que as horas referidas se reportam à hora local.
 
-###### Art. 17.º As empresas de transportes aéreos e os tripulantes deverão manter actualizado um registo de serviço de voo efectuado a fim de permitir à entidade aeronáutica competente a verificação do cumprimento do disposto no presente Regulamento.
+Art. 17.º As empresas de transportes aéreos e os tripulantes deverão manter actualizado um registo de serviço de voo efectuado a fim de permitir à entidade aeronáutica competente a verificação do cumprimento do disposto no presente Regulamento.

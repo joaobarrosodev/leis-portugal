@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01900/02990302.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-1987-663356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:11:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721bd8ebb4a525112dba0bc038bbd57d8dd6b189a6fba03ade7e77b5e3c6c430
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbc7034efd6d649da54ac368ff94f92f8aa8891c87c4689a2c218ed6e04ec650
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:11:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Habitação
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:517268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificada pela DECL.DD2315.1987.03.26.PCM DR.IS [75]SUPL DE 31/MAR/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-26'
+- type: amended_by
+  target: pt:dre:517268:por
+  label: "Totalmente revogado pela Port.180/97.1997.03.12.MF e do MEPAT DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-1997-517268
+  date: '1997-03-12'
+- type: cites
+  target: pt:dre:313416:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523424:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 75/1987, 1º Suplemento, Série I de 1987-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523424
+  date: '1987-03-31'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:11:31Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +115,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Ob
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 27 de Novembro de 1986.**
+Assinada em 27 de Novembro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.
 
 Regulamento Interno do Instituto Nacional de Habitação (INH)
 
@@ -188,7 +209,7 @@ Para os grupos III, IV e V a formação de base poderá ser substituída por efe
 
 Estrutura dos níveis de exercício de funções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01900/02990302.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01900/02990302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01900/02990302.pdf)
 
 Carreira profissional
 

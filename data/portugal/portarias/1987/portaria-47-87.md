@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1987-663365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T09:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bded59cde5cf9d865f883981f975f0fa7deb7db4c8352eae92fce34af0c0dbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c4fbedd8ffa520b891cad0bf295d0b530947efff2e0ae16531cca36ca437718
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gestão de Resíduos
+- Poluição da água
+- Poluição Industrial
+- Resíduo Industrial
+- TAXA de Prestação de Serviços
+- Tratamento de ÁGUA
+relationships:
+- type: cites
+  target: pt:dre:363279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 839/92, PUBLICADA NO DR.IS-B, 198, DE 920828, MANTENDO-SE, CONTUDO OS VALORES DA TABELA II\
+    \ (LAMAS OLEOSAS E OUTROS RESIDUOS SOLIDOS), ENQUANTO NAO FOR PUBLICADO TARIFÁRIO PRÓPRIO. REVOGADA A TABELA II ANEXA,\
+    \ PELA PORTARIA 1109/93, DE 2 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 256, DE 931102.\0, DE 931102.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:08:50Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +129,7 @@ Manda o Governo da República Portuguesa, pelos Ministros do Plano e da Administ
 
 Ministérios do Plano e da Administração do Território e da Indústria e Comércio.
 
-**Assinada em 17 de Dezembro de 1986.**
+Assinada em 17 de Dezembro de 1986.
 
 Pelo Ministro do Plano e da Administração do Território, Carlos Alberto Martins Pimenta, Secretário de Estado do Ambiente e Recursos Naturais. - Pelo Ministro da Indústria e Comércio, Luís Filipe Sales Caldeira da Silva, Secretário de Estado do Comércio Externo.
 
@@ -131,12 +147,12 @@ TABELA I
 
 Tabela de tarifas para os efluentes industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf)
 
 TABELA II
 
 Tabela da tarifa para lamas oleosas e outros resíduos sólidos provenientes da elaboração industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01600/02590260.pdf)
 
 Observação. - Para efeito de pesagem e tarificação, considera-se, no que se refere a lamas, a totalidade das parcelas sólida e líquida.

@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1987-421420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c2d0a25b079eb4188720a214a49a6586971fcd1d63804b204ffe06c9530a81f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7119bb9845620a7b17ae9bb008c2c0ec92f59dd0c05ef79f9bd73ea932764974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Avião
+- Direcção Geral da Aviação Civil
+- Normas de Segurança
+- Pessoal de Cabina
+- Pessoal Navegante
+- Regulamento
+- Segurança Aérea
+- Transporte Aéreo
+- Transporte de Passageiros
+- Transporte Público
+- Tripulação
+relationships:
+- type: cites
+  target: pt:dre:326119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:15Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +116,23 @@ Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas, T
 
 Ministérios das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social.
 
-**Assinada em 27 de Abril de 1987.**
+Assinada em 27 de Abril de 1987.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Regulamento sobre Pessoal Tripulante Mínimo de Cabina
 
-###### Artigo 1.º Quando uma aeronave registada em Portugal com o propósito de transporte público de passageiros possua uma capacidade de lugares superior a dezanove passageiros, a sua tripulação deve incluir pessoal de cabina com a finalidade de actuar no interesse da segurança dos passageiros transportados.
+Artigo 1.º Quando uma aeronave registada em Portugal com o propósito de transporte público de passageiros possua uma capacidade de lugares superior a dezanove passageiros, a sua tripulação deve incluir pessoal de cabina com a finalidade de actuar no interesse da segurança dos passageiros transportados.
 
-###### Art. 2.º O número de pessoal de cabina destinado a satisfazer o disposto no artigo anterior será de 1 por cada 50 ou fracção de 50 passageiros a bordo.
+Art. 2.º O número de pessoal de cabina destinado a satisfazer o disposto no artigo anterior será de 1 por cada 50 ou fracção de 50 passageiros a bordo.
 
-###### Art. 3.º - 1 - O número mínimo de pessoal de cabina não deverá ser inferior a metade do número total de saídas principais utilizáveis.
+Art. 3.º - 1 - O número mínimo de pessoal de cabina não deverá ser inferior a metade do número total de saídas principais utilizáveis.
 
 2 - As saídas referidas situam-se ao nível do piso da cabina e serão certificadas pela Direcção-Geral da Aviação Civil, de acordo com as normas internacionais.
 
-###### Art. 4.º No caso de ser diferente o número mínimo de pessoal de cabina de bordo, apurado de acordo com as regras dos artigos 2.º e 3.º, será aplicável aquele de que resultar um número mais elevado desse pessoal.
+Art. 4.º No caso de ser diferente o número mínimo de pessoal de cabina de bordo, apurado de acordo com as regras dos artigos 2.º e 3.º, será aplicável aquele de que resultar um número mais elevado desse pessoal.
 
-###### Art. 5.º Sempre que se verifique a necessidade de diminuir o número de passageiros no caso de saídas principais inoperativas, devem observar-se as seguintes regras:
+Art. 5.º Sempre que se verifique a necessidade de diminuir o número de passageiros no caso de saídas principais inoperativas, devem observar-se as seguintes regras:
 
 1) Se a saída principal ficar inoperativa num local onde não seja razoavelmente praticável a sua reparação ou substituição, a aeronave poderá transportar passageiros até um lugar onde a saída possa ser reparada ou substituída, desde que:
 
@@ -124,10 +144,10 @@ c) Os letreiros com as palavras «EXIT» ou «EMERGENCY EXIT» estejam tapados;
 
 2) Excepcionalmente, se mais de uma saída se tornar inoperativa, a aeronave poderá voar para um lugar onde as saídas possam ser reparadas ou substituídas, desde que uma autorização especial seja concedida pela Direcção-Geral da Aviação Civil.
 
-###### Art. 6.º Se o número de tripulantes de cabina não satisfizer o disposto no artigo 3.º, as portas de saída junto das quais não se sentar um membro do pessoal de cabina consideram-se saídas inoperativas, devendo observar-se o disposto na alínea a) do n.º 1 do artigo 5.º
+Art. 6.º Se o número de tripulantes de cabina não satisfizer o disposto no artigo 3.º, as portas de saída junto das quais não se sentar um membro do pessoal de cabina consideram-se saídas inoperativas, devendo observar-se o disposto na alínea a) do n.º 1 do artigo 5.º
 
-###### Art. 7.º Durante a descolagem e aterragem, o pessoal de cabina deve estar localizado o mais perto possível das saídas principais operativas, de modo a dar assistência aos passageiros no caso de se verificar uma evacuação de emergência.
+Art. 7.º Durante a descolagem e aterragem, o pessoal de cabina deve estar localizado o mais perto possível das saídas principais operativas, de modo a dar assistência aos passageiros no caso de se verificar uma evacuação de emergência.
 
-###### Art. 8.º Os transportadores demonstrarão, perante representantes da Direcção-Geral da Aviação Civil e para cada tipo ou modelo de aeronave, o estado de operacionalidade do seu pessoal em evacuações de emergência, segundo normas previamente estabelecidas pela Direcção-Geral da Aviação Civil.
+Art. 8.º Os transportadores demonstrarão, perante representantes da Direcção-Geral da Aviação Civil e para cada tipo ou modelo de aeronave, o estado de operacionalidade do seu pessoal em evacuações de emergência, segundo normas previamente estabelecidas pela Direcção-Geral da Aviação Civil.
 
-###### Art. 9.º O número de pessoal de cabina indicado deve entender-se como mínimo e tem por finalidade garantir a evacuação dos passageiros em caso de emergência, podendo o operador aumentar o seu número, se assim o entender, por razões de serviço a bordo.
+Art. 9.º O número de pessoal de cabina indicado deve entender-se como mínimo e tem por finalidade garantir a evacuação dos passageiros em caso de emergência, podendo o operador aumentar o seu número, se assim o entender, por razões de serviço a bordo.

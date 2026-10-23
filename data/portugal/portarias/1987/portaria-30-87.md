@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01300/02250226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/30-1987-663504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T09:04:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c311887c62b15bd710a7f942a8e6cb3dd7fb2ca8815538580ad82e68cba28bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87f92816e4c35d4f8995e7fd5a5e855f79bc8b626b00c9eeb048b08d59e903b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Jogos
+- Programa
+- Vidago Pedras Salgadas
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:321485:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:210582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321485:por
+  label: "Revogada pela PORT.1177/91.1991.11.20.MCT,DR.IS-B [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-1991-321485
+  date: '1991-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:04:35Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +117,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Turismo,
 
 Secretaria de Estado do Turismo.
 
-**Assinada em 30 de Dezembro de 1986.**
+Assinada em 30 de Dezembro de 1986.
 
-**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**
+O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.
 
 1 - O casino deverá ser dotado dos indispensáveis requisitos de conforto, funcionalidade e dignidade estética, tendo em atenção que o casino não se destina exclusivamente à prática dos jogos, circunstância que imporá que a respectiva concepção seja orientada no sentido da realização de um efectivo centro social de elevado nível que possibilite - sem prejuízo daquela finalidade específica - o adequado desenvolvimento de funções de recreio, cultura e turismo que constituam factor de promoção e animação da zona.
 

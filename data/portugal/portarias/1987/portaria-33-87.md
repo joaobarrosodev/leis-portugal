@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01300/02360237.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1987-663498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cfba454829f7c0c3d727edbc2a47ac0fb69f7656d1a5081a978b8058d8ddbf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e66c91472ab2b3bfda3b7a6e1520f8a7bb9202ed3a4ec9379525a92b4da3bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:05:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Definição de Competências
+- Financiamento
+- Junta Nacional dos Produtos Pecuários
 relationships:
 - type: amended_by
   target: pt:dre:495686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337067:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523429:por
+  label: Rectificada pela DECL.DD2115.1987.03.18.PCM, DR.IS [75]SUPL de 31/Mar/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523429
+  date: '1987-03-18'
+- type: repealed_by
+  target: pt:dre:495686:por
+  label: "Revogada pela PORT.798/87.16.09.1987.MF, DR.IS [213] de 16.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1987-495686
+  date: '1987-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:05:20Z'
   warnings: []
   errors: []
 ---
@@ -125,10 +147,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 18 de Dezembro de 1986.**
+Assinada em 18 de Dezembro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
 
 Tabela anexa a que se refere o n.º 5.º da Portaria n.º 33/87
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/01300/02360237.pdf))](https://files.diariodarepublica.pt/1s/1987/01/01300/02360237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/01300/02360237.pdf)

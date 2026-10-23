@@ -46,40 +46,367 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1987-421442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e629b49b98e668e40e8def966887b8389c4af3374c72a391ee89bc004e233cee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cca45fb560237fc92a50ac0acc91da7b6ad16604a56f13bf4d340c67ba355e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:316711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496746:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.884/87.18.11.1987.MF, DR.IS [266] de 17.11.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1987-496746
+  date: '1987-11-18'
+- type: amended_by
+  target: pt:dre:373274:por
+  label: "Alterado o anexo I pela PORT.427/88.1988.07.06.MF,DR.IS [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1988-373274
+  date: '1988-07-06'
+- type: amended_by
+  target: pt:dre:357699:por
+  label: "Aditado um lugar de subdirector-geral ao quadro de pessoal (pessoal dirigente) do Ministério dos Negócios Estrangeiros,\
+    \ constante do anexo I do presente diploma, pela PORT.746/88.17.11.1988.MF, DR.IS [266] de 17.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1988-357699
+  date: '1988-11-17'
+- type: amended_by
+  target: pt:dre:609867:por
+  label: "Alterado o quadro de pessoal do anexo II,do presente diploma, pela PORT.23/89.13.01.1989.MF, DR.IS [11] de 13.01.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-1989-609867
+  date: '1989-01-13'
+- type: amended_by
+  target: pt:dre:611499:por
+  label: "Aditado ao quadro I do Pessoal do Ministério dos Negócios Estrangeiros, um lugar de técnico superior, constante\
+    \ do presente diploma, pela PORT.101/89.14.02.1989.MF, DR.IS [37] de 14.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1989-611499
+  date: '1989-02-14'
+- type: amended_by
+  target: pt:dre:615179:por
+  label: "Alterado o quadro I de pessoal, aprovado pelo presente diploma, pela PORT.256/89.08.04.1989.MF, DR.IS [82] de 08.04.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-1989-615179
+  date: '1989-04-08'
+- type: amended_by
+  target: pt:dre:610002:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.384/89.01.06.1989.MF, DR.IS [125] de 01.06.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-1989-610002
+  date: '1989-06-01'
+- type: amended_by
+  target: pt:dre:509383:por
+  label: "Criado um lugar de assessor principal da carreira técnica superior, a extinguir quando vagar, pelo DN.29/91.02.02.1991.MF,\
+    \ DR.IS-B [28] de 02.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-1991-509383
+  date: '1991-02-02'
+- type: amended_by
+  target: pt:dre:228189:por
+  label: "Alterado o quadro de pessoal pela PORT.961/92.08.10.1992.MF, DR.IS-B [232] de 08.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/961-1992-228189
+  date: '1992-10-08'
+- type: amended_by
+  target: pt:dre:515471:por
+  label: "Efectuada a transição do pessoal afecto ao quadro do Instituto de Apoio à Emigração e Comunidades Portuguesas para\
+    \ o quadro I, aprovado pelo presente diploma, pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
+- type: amended_by
+  target: pt:dre:513179:por
+  label: "Alterado o quadro I pela Port.148/97.1997.03.03.PCM DR.IS-B [52] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-1997-513179
+  date: '1997-03-03'
+- type: amended_by
+  target: pt:dre:2759539:por
+  label: "Alterado o quadro de pessoal pela PORT.133/97IIS.1997.03.17.PCM, MNE E MF DR.IIS [93] DE 21/ABR/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/133-1997-2759539
+  date: '1997-03-17'
+- type: amended_by
+  target: pt:dre:1001075:por
+  label: "Alterado o quadro de pessoal constante do quadro I pelo DC.DDC109/97.1997.03.18.MNE DR.IIS [82] de 8/Abr/1997\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1997-1001075
+  date: '1997-03-18'
+- type: amended_by
+  target: pt:dre:382184:por
+  label: "Alterado o quadro I, grupo IV do quadro de pessoal aprovado pelo presente diploma, pela Port.282/97.1997.05.02.PCM\
+    \ DR.IS-B [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1997-382184
+  date: '1997-05-02'
+- type: amended_by
+  target: pt:dre:225398:por
+  label: "Alterado o quadro I anexo ao presente diploma, pela PORT.3/98.1998.01.06.PCM, MNE e MF DR.IS-B [4]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1998-225398
+  date: '1998-01-06'
+- type: amended_by
+  target: pt:dre:3012749:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.78/98(2ªSÉRIE).1998.01.07.PCM, MNE e MF DR.IIS\
+    \ [14] de 17/Jan/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1998-3012749
+  date: '1998-01-07'
+- type: amended_by
+  target: pt:dre:1206894:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.207/98(2ªSÉRIE).1998.01.26.PCM DR.IIS [44]\
+    \ de 21/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-1998-1206894
+  date: '1998-01-26'
+- type: amended_by
+  target: pt:dre:175355:por
+  label: "Alterado o quadro de pessoal pela PORT.244/98.1998.04.20.PCM, DR.IS-B [92]7\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-1998-175355
+  date: '1998-04-20'
+- type: amended_by
+  target: pt:dre:1037144:por
+  label: "Alterado o quadro de pessoal pela PORT.666/98(2ªSÉRIE).1998.06.08.PCM, DR.IIS [165] de 20/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-1998-1037144
+  date: '1998-06-08'
+- type: amended_by
+  target: pt:dre:1843005:por
+  label: "Alterado o quadro de pessoal pela PORT.657/98(2ªSÉRIE).1998.07.06.PCM, DR.IIS [161] de 15/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/657-1998-1843005
+  date: '1998-07-06'
+- type: amended_by
+  target: pt:dre:1012318:por
+  label: "Alterado o quadro de pessoal pela PORT.886/98(2ªSÉRIE).1998.07.27.PCM, DR.IIS [195] de 25/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/886-1998-1012318
+  date: '1998-07-27'
+- type: amended_by
+  target: pt:dre:3619037:por
+  label: "Alterado o quadro de pessoal pela PORT.891/98(2ªSÉRIE).1998.08.17.PCM, DR.IIS [197] de 27/Ago/1998t\08t\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/891-1998-3619037
+  date: '1998-08-17'
+- type: amended_by
+  target: pt:dre:2680865:por
+  label: "Alterado o quadro de pessoal constante do quadro I pelo DC.619/98.1998.08.19.PCM, DR.IIS [207] de 08/Set/1998 \0\
+    8 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/619-1998-2680865
+  date: '1998-08-19'
+- type: amended_by
+  target: pt:dre:138104:por
+  label: "Alterado o quadro de pessoal a que refere o quadro I anexo pelo presente diploma, na redacção constante do presente\
+    \ diploma e do DC 618/98, de 19-Ago, pela PORT.203/99.1999.03.25.PCM DR.IS-B [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-1999-138104
+  date: '1999-03-25'
+- type: amended_by
+  target: pt:dre:274232:por
+  label: "Alterado o quadro de pessoal especializado aprovado pelo Dec Lei 133/85 de 02-Mai, na redacção do presente diploma,\
+    \ pela PORT.264/2000.2000.05.17.PCM DR.IS-B [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-2000-274232
+  date: '2000-05-17'
+- type: amended_by
+  target: pt:dre:1833158:por
+  label: "Alterado o quadro de pessoal, pela PORT.2016/2000(2ªSÉRIE).2000.12.11.MNE, DR.IIS [299] de 29/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/2016-2000-1833158
+  date: '2000-12-11'
+- type: amended_by
+  target: pt:dre:3102783:por
+  label: "Alterado o mapa I pela PORT.389/2001(2ªSÉRIE).2001.02.02.MNE, DR.IIS [48] de 26/Fev/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-2001-3102783
+  date: '2001-02-02'
+- type: amended_by
+  target: pt:dre:3614286:por
+  label: "Alterado o quadro I pela PORT.942/2001(2ªSÉRIE).2001.05.04.MNE, DR.IIS [120] de 24/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-2001-3614286
+  date: '2001-05-04'
+- type: amended_by
+  target: pt:dre:1650217:por
+  label: "Alterado o quadro de pessoal, pela PORT.1712/2002(2ªSÉRIE).2002.10.16.MF, MNE, DR.IIS [269] de 21/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1712-2002-1650217
+  date: '2002-10-16'
+- type: amended_by
+  target: pt:dre:1999277:por
+  label: "Alterado o quadro de pessoal, pela PORT.1825/2002(2ªSÉRIE).2002.11.15.MF, MNE, DR.IIS [287] de 12/Dez/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1825-2002-1999277
+  date: '2002-11-15'
+- type: amended_by
+  target: pt:dre:272596:por
+  label: "Alterado o quadro I, grupo de pessoal II (pessoal diplomático), aprovado pelo presente diploma, pela PORT.656/2004.19.06.2004.MF,\
+    \ DR.IS-B [143] de 19.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-2004-272596
+  date: '2004-06-19'
+- type: amended_by
+  target: pt:dre:316711:por
+  label: "Alterado o quadro I, grupo de pessoal II (pessoal Diplomático) do Ministério dos Negócios Estrangeiros, aprovado\
+    \ pelo presente diploma, republicado pela Port 656/2004, de 19-Jun, pela PORT.238-A/2005.04.03.2005.MFAP, DR.IS-B [45-Supl]\
+    \ de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/238-a-2005-316711
+  date: '2005-03-04'
+- type: amended_by
+  target: pt:dre:106370365:por
+  label: Alterado o mapa de pessoal da carreira diplomática do Ministério dos Negócios Estrangeiros, pela Portaria n.º 45/2017
+    - Diário da República n.º 22/2017, Série I de 2017-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2017-106370365
+  date: '2017-01-31'
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663326:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:622327:por
+  label: Rectificada pela DECL.DD3620.1987.06.19.PCM DR.IS [147]2ºSUPL DE 30/JUN/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-622327
+  date: '1987-06-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:07:25Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +425,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Ne
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 22 de Abril de 1987.**
+Assinada em 22 de Abril de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, Eduardo Eugénio Castro de Azevedo Soares, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
 
@@ -106,11 +433,11 @@ Pessoal do Ministério dos Negócios Estrangeiros
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf)
 
 Pessoal da Direcção-Geral de Cooperação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/11100/19861992.pdf)
 
 ## ANEXO I — Conteúdo funcional da carreira de tradutor-intérprete
 

@@ -49,40 +49,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/741-1987-418045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:15:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aea680fc0347dac51415855414050e55d41f5d7ef532899daac90e9364d19170
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a86b2b8f7d539c4bdac82b765a895d0df3cdd1d61f4a1c3d95dc7d16376f718
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informação Científica e Técnica da Reforma Administrativa
+- Direcção Geral da Administração Pública
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:624378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649345:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul,pela presente, 53/88, de 27-jan,
+    e 878/89, de 11-out, e pelo DR 3/91, de 01-fev, pelo(a) Portaria n.º 572/91 - Diário da República n.º 145/1991, Série
+    I-B de 1991-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1991-649345
+  date: '1991-06-27'
+- type: amended_by
+  target: pt:dre:402769:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul, pela presente, 53/88, de 27-jan,
+    e 878/89, de 11-out, e pelo DR 3/91, de 01-fev, pelo(a) Despacho Normativo n.º 172/91 - Diário da República n.º 190/1991,
+    Série I-B de 1991-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/172-1991-402769
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:152137:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelas Ports 603/87,de 15-jul, pela presente e pela 53/88, de 27-jan, pelo Dec Lei 292/88, de 24-ago,
+    pela Port 878/89, de 11-out, pelo DR 3/91, de 01-fev, e pela Port 572/91, de 27-jun, pelo(a) Despacho Normativo n.º 21/92
+    - Diário da República n.º 32/1992, Série I-B de 1992-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-1992-152137
+  date: '1992-02-07'
+- type: amended_by
+  target: pt:dre:239033:por
+  label: Altera o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul, pela presente, 53/88, de 27-jan,
+    878/89, de 11-out, e 572/91, de 27-jun, e pelo DR 3/91, de 01-fev, pelo(a) Despacho Normativo n.º 173/92 - Diário da República
+    n.º 213/1992, Série I-B de 1992-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/173-1992-239033
+  date: '1992-09-15'
+- type: amended_by
+  target: pt:dre:624378:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelos DRs 3/91, de 01-fev, e 28/92, de 31-out, pelas Ports 603/87,
+    de 15-jul, pela presente, 868/87, de 11-nov, 53/88, de 27-jan, 280/91, de 06-abr, e 572/91, de 27-jun, e pelos DNs 172/91,
+    de 20-ago, 21/92, de 07-fev, 173/92, de 15-set, e 175/92, de 21-set, pelo(a) Despacho Normativo n.º 247/92 - Diário da
+    República n.º 294/1992, Série I-B de 1992-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/247-1992-624378
+  date: '1992-12-22'
+- type: cites
+  target: pt:dre:218908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663331:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:15:42Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +184,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo
 
 Ministério das Finanças.
 
-**Assinada em 30 de Julho de 1987.**
+Assinada em 30 de Julho de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
